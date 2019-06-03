@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X2_euro",
+      "codename": "X2_euro",
+      "model": "X2_euro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "note",
       "codename": "note",
       "model": "note"

@@ -1263,6 +1263,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Access 101 3G V3",
+      "codename": "ac101as3gv3",
+      "model": "Archos Access 101 3G v3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 101 Wifi v2",
+      "codename": "ac101aswfv2",
+      "model": "Archos Access 101 Wifi v2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Access 40 3G",
       "codename": "ac40as3g",
       "model": "Archos Access 40 3G"
@@ -1347,6 +1359,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 101 3G V4",
+      "codename": "ac101cr3gv4",
+      "model": "Archos Core 3g v4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 101 4G",
       "codename": "ac101cr4g",
       "model": "Archos Core 101 4G"
@@ -1416,6 +1434,12 @@
       "market_name": "Archos Core 60S",
       "codename": "ac60crs",
       "model": "Archos Core 60S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 62S",
+      "codename": "ac62crs",
+      "model": "Archos Core 62S"
     },
     {
       "manufacturer": "",

@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_6E",
+      "codename": "Armor_6E",
+      "model": "Armor_6E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_6S",
       "codename": "Armor_6S",
       "model": "Armor_6S"
@@ -72,6 +78,12 @@
       "market_name": "MIX_2",
       "codename": "MIX_2",
       "model": "MIX_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P6000_Plus",
+      "codename": "P6000_Plus",
+      "model": "P6000_Plus"
     },
     {
       "manufacturer": "",
@@ -183,9 +195,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ulefone_Note_7",
+      "codename": "Ulefone_Note_7",
+      "model": "Ulefone_Note 7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ulefone_S1",
       "codename": "Ulefone_S1",
       "model": "Ulefone_S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulefone_S11",
+      "codename": "Ulefone_S11",
+      "model": "Ulefone_S11"
     },
     {
       "manufacturer": "",
@@ -198,6 +222,12 @@
       "market_name": "Ulefone_X",
       "codename": "Ulefone_X",
       "model": "Ulefone_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulfone_S11",
+      "codename": "Ulefone_S11",
+      "model": "Ulefone_S11"
     }
   ]
 }

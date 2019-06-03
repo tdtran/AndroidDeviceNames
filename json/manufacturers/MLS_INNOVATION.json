@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IQW570",
+      "codename": "iQW570",
+      "model": "iQW570"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTB7QSG_3G",
       "codename": "iQE200",
       "model": "iQE200"
@@ -24,6 +30,12 @@
       "market_name": "iQ8011",
       "codename": "iQ8011",
       "model": "iQ8011"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQL550",
+      "codename": "iQL550",
+      "model": "iQL550"
     },
     {
       "manufacturer": "",

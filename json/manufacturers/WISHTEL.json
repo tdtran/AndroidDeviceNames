@@ -6,6 +6,18 @@
       "market_name": "IRA",
       "codename": "IRA",
       "model": "IRAI1705"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRA07",
+      "codename": "IRA07",
+      "model": "IRA07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRAW7258",
+      "codename": "IRAW7258",
+      "model": "IRAW7258"
     }
   ]
 }

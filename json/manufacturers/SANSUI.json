@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Sansui_Nova",
+      "codename": "Sansui_Nova",
+      "model": "Sansui_Nova"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Switch",
       "codename": "SansuiSwitch",
       "model": "Sansui_Switch"

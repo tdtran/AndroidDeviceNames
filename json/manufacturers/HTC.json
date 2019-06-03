@@ -2331,6 +2331,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC 5G HUB",
+      "codename": "htc_rtx",
+      "model": "HTC 5G Hub"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC 5G Hub",
+      "codename": "htc_rtxspcs",
+      "model": "HTC 5G Hub"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC Desire 610",
       "codename": "htc_a3ul",
       "model": "HTC Desire 610"

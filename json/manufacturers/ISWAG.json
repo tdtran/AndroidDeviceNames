@@ -12,6 +12,12 @@
       "market_name": "APOLLO",
       "codename": "APOLLO",
       "model": "APOLLO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ODIN",
+      "codename": "ODIN",
+      "model": "ODIN"
     }
   ]
 }

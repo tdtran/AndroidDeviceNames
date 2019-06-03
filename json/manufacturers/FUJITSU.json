@@ -231,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F-01L",
+      "codename": "F01L",
+      "model": "F-01L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F-02F",
       "codename": "F02F",
       "model": "F-02F"
@@ -252,6 +258,12 @@
       "market_name": "F-02K",
       "codename": "F02K",
       "model": "F-02K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-02L",
+      "codename": "F02L",
+      "model": "F-02L"
     },
     {
       "manufacturer": "",
@@ -303,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F-04K",
+      "codename": "F04K",
+      "model": "F-04K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F-05F",
       "codename": "F05F",
       "model": "F-05F"
@@ -312,6 +330,12 @@
       "market_name": "F-05G",
       "codename": "F05G",
       "model": "F-05G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-05J",
+      "codename": "F05J",
+      "model": "F-05J"
     },
     {
       "manufacturer": "",

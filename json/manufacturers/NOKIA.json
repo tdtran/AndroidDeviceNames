@@ -99,6 +99,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 3.2",
+      "codename": "DPL_sprout",
+      "model": "Nokia 3.2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 4.2",
+      "codename": "PAN_sprout",
+      "model": "Nokia 4.2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 5",
       "codename": "ND1",
       "model": "TA-1024"
@@ -294,6 +306,12 @@
       "market_name": "Nokia X7",
       "codename": "PNX",
       "model": "Nokia X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X71",
+      "codename": "TAS",
+      "model": "Nokia X71"
     }
   ]
 }

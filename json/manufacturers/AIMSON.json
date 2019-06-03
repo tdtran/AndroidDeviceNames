@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AINOL_Q88X",
+      "codename": "AINOL_Q88X",
+      "model": "Q88X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q88",
       "codename": "Q88",
       "model": "Q88"

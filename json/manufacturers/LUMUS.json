@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "INNOSR545",
+      "codename": "INNOSR545",
+      "model": "INNOSR545"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEOSR620",
       "codename": "NEOSR620",
       "model": "NEOSR620"

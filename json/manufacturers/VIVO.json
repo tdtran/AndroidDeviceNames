@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1818",
+      "codename": "1818",
+      "model": "vivo 1818"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1818N",
+      "codename": "1818N",
+      "model": "vivo 1818"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PD1304DL",
       "codename": "PD1304DL",
       "model": "vivo Y13iL"
@@ -42,6 +54,12 @@
       "market_name": "PD1612",
       "codename": "PD1612",
       "model": "vivo Y67"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PD1731D",
+      "codename": "PD1731D",
+      "model": "vivo Y71A"
     },
     {
       "manufacturer": "",
@@ -108,6 +126,18 @@
       "market_name": "V1821BA",
       "codename": "PD1821",
       "model": "V1821A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1824A",
+      "codename": "PD1824",
+      "model": "V1824A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1901A",
+      "codename": "PD1901",
+      "model": "V1901A"
     },
     {
       "manufacturer": "",
@@ -324,6 +354,12 @@
       "market_name": "Y15S",
       "codename": "Y15S",
       "model": "vivo Y15S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y17",
+      "codename": "1902D",
+      "model": "vivo 1902"
     },
     {
       "manufacturer": "",
@@ -699,6 +735,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo 1819",
+      "codename": "1819",
+      "model": "vivo 1819"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1819",
+      "codename": "1819N",
+      "model": "vivo 1819"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1820",
+      "codename": "1820",
+      "model": "vivo 1820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1902",
+      "codename": "1902",
+      "model": "vivo 1902"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo NEX A",
       "codename": "PD1806",
       "model": "vivo NEX A"
@@ -708,6 +768,12 @@
       "market_name": "vivo NEX S",
       "codename": "PD1805",
       "model": "vivo NEX S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo S1",
+      "codename": "PD1831",
+      "model": "V1831A"
     },
     {
       "manufacturer": "",

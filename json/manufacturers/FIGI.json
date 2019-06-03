@@ -27,6 +27,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FXs",
+      "codename": "FXs",
+      "model": "FXs"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fj",
+      "codename": "Fj",
+      "model": "Fj"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gtwo",
+      "codename": "Gtwo",
+      "model": "Gtwo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hola",
       "codename": "Hola",
       "model": "Hola"

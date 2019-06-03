@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Allure X",
+      "codename": "Allure_X",
+      "model": "Allure X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C1+",
       "codename": "C1Plus",
       "model": "C1+"
@@ -141,6 +147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Griffe T8",
+      "codename": "Griffe_T8",
+      "model": "Griffe T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Griffe T8 Plus",
+      "codename": "SP641",
+      "model": "Griffe T8 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Griffe_T5",
       "codename": "Griffe_T5",
       "model": "Griffe T5"
@@ -159,6 +177,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinity E5",
+      "codename": "Infinity_E5",
+      "model": "Infinity E5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinity E5 Pro",
+      "codename": "Infinity_E5_Pro",
+      "model": "Infinity e5 pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinity_E4",
       "codename": "Infinity_e4",
       "model": "Infinity e4"
@@ -168,6 +198,12 @@
       "market_name": "Infinity_a4",
       "codename": "Infinity_a4",
       "model": "Infinity a4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinity_i5",
+      "codename": "Infinity_i5",
+      "model": "Infinity_i5"
     },
     {
       "manufacturer": "",
@@ -382,6 +418,12 @@
     {
       "manufacturer": "",
       "market_name": "Plume_L2_Pro",
+      "codename": "Plume_L2_Pro",
+      "model": "Plume L2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume_L2_Pro_EEA",
       "codename": "Plume_L2_Pro",
       "model": "Plume L2 Pro"
     },

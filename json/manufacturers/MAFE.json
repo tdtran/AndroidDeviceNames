@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Mafe",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M8",
+      "codename": "M8",
+      "model": "M8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z1",
+      "codename": "Z1",
+      "model": "Z1"
+    }
+  ]
+}

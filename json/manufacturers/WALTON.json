@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo E9",
+      "codename": "Primo_E9",
+      "model": "Primo E9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo EF7",
       "codename": "Primo_EF7",
       "model": "Primo EF7"
@@ -183,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo NF4",
+      "codename": "Primo_NF4",
+      "model": "Primo NF4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo NH3",
       "codename": "Primo_NH3",
       "model": "Primo NH3"
@@ -318,6 +330,12 @@
       "market_name": "Primo ZX3",
       "codename": "Primo_ZX3",
       "model": "Primo ZX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo_EF9",
+      "codename": "Primo_EF9",
+      "model": "Primo EF9"
     },
     {
       "manufacturer": "",

@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fire",
+      "codename": "Fire",
+      "model": "Fire"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HD Plus",
       "codename": "QMobile_HD_Plus",
       "model": "HD Plus"
@@ -180,6 +186,12 @@
       "market_name": "LT300",
       "codename": "LT300",
       "model": "LT300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT360",
+      "codename": "LT360",
+      "model": "LT360"
     },
     {
       "manufacturer": "",
@@ -276,6 +288,12 @@
       "market_name": "Phantom_P1",
       "codename": "Phantom_P1",
       "model": "Qmobile Phantom P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Phantom_P1_Pro",
+      "codename": "Phantom_P1_Pro",
+      "model": "Qmobile Phantom P1 Pro"
     },
     {
       "manufacturer": "",
@@ -408,6 +426,12 @@
       "market_name": "S9",
       "codename": "S9",
       "model": "S9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart",
+      "codename": "Smart",
+      "model": "Smart"
     },
     {
       "manufacturer": "",
@@ -582,6 +606,12 @@
       "market_name": "i5.5",
       "codename": "i5_5",
       "model": "QMobile i5.5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i5i 2018",
+      "codename": "i5i_2018",
+      "model": "QMobile i5i 2018"
     },
     {
       "manufacturer": "",
