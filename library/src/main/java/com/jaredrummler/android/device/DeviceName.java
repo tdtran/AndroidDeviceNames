@@ -1879,17 +1879,19 @@ public class DeviceName {
         // Get the device name from the generated JSON files created from Google's device list.
         String url = String.format(DEVICE_JSON_URL, codename.toLowerCase(Locale.ENGLISH));
         String jsonString = downloadJson(url);
-        JSONArray jsonArray = new JSONArray(jsonString);
-        for (int i = 0, len = jsonArray.length(); i < len; i++) {
-          JSONObject json = jsonArray.getJSONObject(i);
-          DeviceInfo info = new DeviceInfo(json);
-          if ((codename.equalsIgnoreCase(info.codename) && model == null)
-              || codename.equalsIgnoreCase(info.codename) && model.equalsIgnoreCase(info.model)) {
-            // Save to SharedPreferences so we don't need to make another request.
-            SharedPreferences.Editor editor = prefs.edit();
-            editor.putString(key, json.toString());
-            editor.apply();
-            return info;
+        if (!jsonString.isEmpty()) {
+          JSONArray jsonArray = new JSONArray(jsonString);
+          for (int i = 0, len = jsonArray.length(); i < len; i++) {
+            JSONObject json = jsonArray.getJSONObject(i);
+            DeviceInfo info = new DeviceInfo(json);
+            if ((codename.equalsIgnoreCase(info.codename) && model == null)
+                || codename.equalsIgnoreCase(info.codename) && model.equalsIgnoreCase(info.model)) {
+              // Save to SharedPreferences so we don't need to make another request.
+              SharedPreferences.Editor editor = prefs.edit();
+              editor.putString(key, json.toString());
+              editor.apply();
+              return info;
+            }
           }
         }
       } catch (Exception e) {
