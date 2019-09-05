@@ -2361,6 +2361,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC Desire19+",
+      "codename": "htc_bre2pdugl",
+      "model": "2Q74100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire19+",
+      "codename": "htc_bre2pdugl",
+      "model": "HTC Desire 19+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC One",
       "codename": "m7wls",
       "model": "HTC One"
@@ -2448,6 +2460,18 @@
       "market_name": "HTC U11+",
       "codename": "htc_ocmdugl",
       "model": "HTC_2Q4D100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC U19e",
+      "codename": "htc_tetdugl",
+      "model": "HTC 2Q7A100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Wildfire X",
+      "codename": "htc_h11dugl",
+      "model": "HTC Wildfire X"
     },
     {
       "manufacturer": "",
@@ -4008,6 +4032,12 @@
       "market_name": "Wildfire CDMA",
       "codename": "bee",
       "model": "HTC Wildfire"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E",
+      "codename": "Wildfire_E",
+      "model": "Wildfire E"
     },
     {
       "manufacturer": "",

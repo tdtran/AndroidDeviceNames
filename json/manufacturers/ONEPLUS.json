@@ -46,6 +46,12 @@
     {
       "manufacturer": "",
       "market_name": "OnePlus 7 Pro",
+      "codename": "OP7ProNRSpr",
+      "model": "GM1925"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7 Pro",
       "codename": "OnePlus7Pro",
       "model": "GM1917"
     },

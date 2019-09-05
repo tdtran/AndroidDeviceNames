@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite B5",
+      "codename": "Elite_B5",
+      "model": "Elite_B5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite Go",
+      "codename": "Elite_Go",
+      "model": "Elite Go"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite Go",
       "codename": "Elite_Go_HN",
       "model": "Elite Go"
@@ -237,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Platinum B4",
+      "codename": "Platinum_B4",
+      "model": "Platinum B4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Platinum C4",
       "codename": "Platinum_C4",
       "model": "Platinum C4"
@@ -258,6 +276,12 @@
       "market_name": "Platinum G5",
       "codename": "Platinum_G5",
       "model": "Platinum_G5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum G55",
+      "codename": "Platinum_G55",
+      "model": "Platinum_G55"
     },
     {
       "manufacturer": "",

@@ -453,6 +453,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Qua tab 01",
+      "codename": "KYT31",
+      "model": "KYT31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Qua tab QZ10",
       "codename": "KYT33",
       "model": "KYT33"
@@ -522,6 +528,12 @@
       "market_name": "TORQUE G03",
       "codename": "KYV41",
       "model": "KYV41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TORQUE G04",
+      "codename": "KYV46",
+      "model": "KYV46"
     },
     {
       "manufacturer": "",

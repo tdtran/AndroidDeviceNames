@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL4898",
+      "codename": "KL4898",
+      "model": "KL4898"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL500",
+      "codename": "KL500",
+      "model": "KL500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL600",
       "codename": "KLIPAD_KL600",
       "model": "KLIPAD_KL600"
@@ -60,6 +72,12 @@
       "market_name": "KL600B",
       "codename": "KLIPAD_KL600B",
       "model": "KL600B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL601",
+      "codename": "KL601",
+      "model": "KL601"
     },
     {
       "manufacturer": "",

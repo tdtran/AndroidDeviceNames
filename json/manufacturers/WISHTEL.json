@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "102017",
+      "codename": "102017",
+      "model": "102017"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IRA",
       "codename": "IRA",
       "model": "IRAI1705"
@@ -18,6 +24,12 @@
       "market_name": "IRAW7258",
       "codename": "IRAW7258",
       "model": "IRAW7258"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRAW801",
+      "codename": "IRAW801",
+      "model": "IRAW801"
     }
   ]
 }

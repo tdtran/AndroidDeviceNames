@@ -1120,6 +1120,12 @@
     {
       "manufacturer": "",
       "market_name": "Archos",
+      "codename": "ac101cr3gv5",
+      "model": "Archos Core 101 3G v5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos",
       "codename": "ac101hello",
       "model": "Archos Hello 10"
     },
@@ -1128,6 +1134,12 @@
       "market_name": "Archos",
       "codename": "ac57as3g",
       "model": "Archos Access 57 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos",
+      "codename": "ac68oxxl",
+      "model": "Archos Oxygen 68XL"
     },
     {
       "manufacturer": "",
@@ -1341,6 +1353,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Access 70 Wifi",
+      "codename": "ac70aswf",
+      "model": "Archos Access 70 Wifi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 101 3G",
       "codename": "ac101cr3g",
       "model": "Archos Core 101 3G"
@@ -1455,6 +1473,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 80 Wifi",
+      "codename": "ac80crwf",
+      "model": "Archos Core 80 Wifi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Hello 5",
       "codename": "ac50hello",
       "model": "Archos Hello 5"
@@ -1464,6 +1488,30 @@
       "market_name": "Archos Hello 7",
       "codename": "ac70hello",
       "model": "Archos Hello 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 101S",
+      "codename": "ac101sox",
+      "model": "Archos Oxygen 101S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 101S Ardoiz",
+      "codename": "ac101soxaz",
+      "model": "Archos Oxygen 101S ARDOIZ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 57",
+      "codename": "ac57ox",
+      "model": "Archos Oxygen 57"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 63",
+      "codename": "ac63ox",
+      "model": "Archos Oxygen 63"
     },
     {
       "manufacturer": "",

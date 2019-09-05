@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RUIO_S518",
+      "codename": "RUIO_S518",
+      "model": "S518"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ruio_S4 Plus",
       "codename": "S4Plus",
       "model": "S4Plus"

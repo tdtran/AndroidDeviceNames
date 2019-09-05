@@ -249,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U6C",
+      "codename": "U6C",
+      "model": "U6C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U70",
       "codename": "U70",
       "model": "U70"

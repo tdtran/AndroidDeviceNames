@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grace 3778 3G",
+      "codename": "CD80A1G",
+      "model": "PMT3778_3G_EU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grace 3838 4G",
       "codename": "CD80A3L",
       "model": "PMT3838_4G"
@@ -1284,6 +1290,12 @@
       "market_name": "Wize 3731 3G",
       "codename": "CD10A2G",
       "model": "PMT3731_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize 3731 3G",
+      "codename": "CD10A2G",
+      "model": "PMT3771_3G_EU"
     },
     {
       "manufacturer": "",

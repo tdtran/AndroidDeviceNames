@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S20",
+      "codename": "S20",
+      "model": "S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S38",
+      "codename": "Casper_S38",
+      "model": "Casper_S38"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TA80CA2",
       "codename": "TA80CA2_1",
       "model": "TA80CA2"
@@ -93,6 +105,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA_E3",
+      "codename": "VIA_E3",
+      "model": "VIA_E3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_F3",
+      "codename": "VIA_F3",
+      "model": "VIA_F3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA_M4",
       "codename": "VIA_M4",
       "model": "VIA_M4"
@@ -102,6 +126,12 @@
       "market_name": "VIA_P2",
       "codename": "VIA_P2",
       "model": "VIA_P2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_S",
+      "codename": "VIA_S",
+      "model": "VIA_S"
     },
     {
       "manufacturer": "",

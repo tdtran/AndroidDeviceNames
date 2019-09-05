@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CITI_7591_3G_CS7208MG",
+      "codename": "CS7208MG",
+      "model": "CITI 7591 3G CS7208MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITI_8589_3G_CS8206MG",
+      "codename": "CS8206MG",
+      "model": "CITI 8589 3G CS8206MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS7113PL",
       "codename": "CS7113PL",
       "model": "CITI 7507 4G CS7113PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS7204MG",
+      "codename": "CS7204MG",
+      "model": "CITI 7587 3G CS7204MG"
     },
     {
       "manufacturer": "",
@@ -525,6 +543,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PS7210PG",
+      "codename": "PS7210PG",
+      "model": "Plane 7594 3G PS7210PG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PS8163PL",
       "codename": "PS8163PL",
       "model": "Plane 8550S 4G PS8163PL"
@@ -576,6 +600,12 @@
       "market_name": "Plane_1573N_4G/",
       "codename": "PS1189ML",
       "model": "Plane 1573N 4G PS1189ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane_1596_3G_PS1213PG",
+      "codename": "PS1213PG",
+      "model": "Plane 1596 3G PS1213PG"
     },
     {
       "manufacturer": "",

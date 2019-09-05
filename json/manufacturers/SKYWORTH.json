@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "Asia",
+      "codename": "SW3_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Asia",
       "codename": "globe_ap",
       "model": "globe"
     },
@@ -36,6 +42,12 @@
       "market_name": "North America",
       "codename": "globe_na",
       "model": "globe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Skyworth",
+      "codename": "IPBox",
+      "model": "ACT4K1007"
     },
     {
       "manufacturer": "",

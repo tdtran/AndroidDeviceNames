@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "11 Delta Pro",
+      "codename": "RCT6613W23P",
+      "model": "RCT6613W23P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "11 Galileo Pro",
       "codename": "RCT6513W87",
       "model": "RCT6513W87"
@@ -93,9 +99,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Artemis 10",
+      "codename": "RCT6T06E13",
+      "model": "RCT6T06E13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Atlas 10",
       "codename": "RCT6703W12",
       "model": "RCT6703W12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Atlas 10",
+      "codename": "RCT6B03W12",
+      "model": "RCT6B03W12"
     },
     {
       "manufacturer": "",
@@ -189,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA RCT6613W23PU",
+      "codename": "RCT6613W23PU",
+      "model": "RCT6613W23PU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA RCT6703W13",
       "codename": "RCT6703W13",
       "model": "RCT6703W13"
@@ -201,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA RCT6A03W13E",
+      "codename": "RCT6A03W13E",
+      "model": "RCT6A03W13E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA RCT6B03W12",
       "codename": "RCT6B03W12",
       "model": "RCT6B03W12"
@@ -210,6 +240,12 @@
       "market_name": "RCA RCT6B03W13",
       "codename": "RCT6B03W13",
       "model": "RCT6B03W13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA RCT6B06P23",
+      "codename": "RCT6B06P23",
+      "model": "RCT6B06P23"
     },
     {
       "manufacturer": "",
@@ -348,6 +384,12 @@
       "market_name": "RCT6773W42B",
       "codename": "RCT6773W42B",
       "model": "RCT6773W42B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6873W42BMF9A",
+      "codename": "RCT6873W42BMF9A",
+      "model": "RCT6873W42BMF9A"
     },
     {
       "manufacturer": "",

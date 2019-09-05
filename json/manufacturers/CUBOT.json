@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J7",
+      "codename": "J7",
+      "model": "J7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KING_KONG_3",
       "codename": "KING_KONG_3",
       "model": "KING_KONG_3"
@@ -138,6 +144,18 @@
       "market_name": "R15",
       "codename": "R15",
       "model": "R15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R15_PRO",
+      "codename": "R15_PRO",
+      "model": "R15_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R19",
+      "codename": "R19",
+      "model": "R19"
     },
     {
       "manufacturer": "",

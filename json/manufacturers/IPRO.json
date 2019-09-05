@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amber7S",
+      "codename": "Amber7S",
+      "model": "Amber7S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jade7s",
       "codename": "Jade7s",
       "model": "Jade7s"
@@ -87,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Perla",
+      "codename": "Perla",
+      "model": "Perla"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Phonenix50S",
       "codename": "Phonenix50S",
       "model": "Phonenix50S"
@@ -108,6 +120,12 @@
       "market_name": "WIN",
       "codename": "WIN",
       "model": "WIN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WePad",
+      "codename": "WePad",
+      "model": "WePad"
     },
     {
       "manufacturer": "",

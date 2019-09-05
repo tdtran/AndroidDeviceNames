@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E95",
+      "codename": "E95",
+      "model": "E95"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G100",
       "codename": "G100",
       "model": "Symphony G100"
@@ -102,6 +108,12 @@
       "market_name": "R30",
       "codename": "R30",
       "model": "R30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R40",
+      "codename": "R40",
+      "model": "R40"
     },
     {
       "manufacturer": "",

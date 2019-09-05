@@ -207,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R1 Plus",
+      "codename": "R1_Plus",
+      "model": "R1 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R3",
       "codename": "R3",
       "model": "R3"
@@ -270,6 +276,12 @@
       "market_name": "Samba",
       "codename": "Samba",
       "model": "Samba"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Switch GO",
+      "codename": "Switch_GO",
+      "model": "Switch GO"
     },
     {
       "manufacturer": "",
@@ -364,6 +376,12 @@
     {
       "manufacturer": "",
       "market_name": "ZOOM",
+      "codename": "ZOOM",
+      "model": "ZOOM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zoom",
       "codename": "ZOOM",
       "model": "ZOOM"
     }

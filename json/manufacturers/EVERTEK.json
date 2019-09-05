@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10",
+      "codename": "M10",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V4",
       "codename": "V4",
       "model": "EVERTEK V4"

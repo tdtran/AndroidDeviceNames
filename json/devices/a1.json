@@ -70,5 +70,11 @@
     "market_name": "UN-MT300",
     "codename": "A1",
     "model": "Panasonic UN-MT300"
+  },
+  {
+    "manufacturer": "X-Age",
+    "market_name": "A1",
+    "codename": "A1",
+    "model": "A1"
   }
 ]

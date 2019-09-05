@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Rush Plus",
+      "codename": "Rush_Plus",
+      "model": "Rush Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S43",
       "codename": "S43",
       "model": "S43"
@@ -312,6 +318,12 @@
       "market_name": "Volt_Plus",
       "codename": "Volt_Plus",
       "model": "Volt_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Volt_Plus",
+      "codename": "VortexPlus",
+      "model": "VortexPlus"
     },
     {
       "manufacturer": "",

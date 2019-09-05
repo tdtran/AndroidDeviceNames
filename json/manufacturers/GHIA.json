@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A7LED2",
+      "codename": "A7LED2",
+      "model": "A7LED2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1",
+      "codename": "G1",
+      "model": "G1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA_A1",
       "codename": "GHIA_A1",
       "model": "GHIA_A1"
@@ -93,15 +105,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I1",
+      "codename": "I1",
+      "model": "I1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TREO_TAB8G",
       "codename": "TREO_TAB8G",
       "model": "TREO_TAB8G"
     },
     {
       "manufacturer": "",
+      "market_name": "VECTOR10.1",
+      "codename": "VECTOR10_1",
+      "model": "VECTOR10.1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VECTOR10Plus",
       "codename": "VECTOR10Plus",
       "model": "VECTOR10Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VECTOR_SLIM2",
+      "codename": "VECTOR_SLIM2",
+      "model": "VECTOR_SLIM2"
     },
     {
       "manufacturer": "",

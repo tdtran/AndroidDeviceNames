@@ -4,5 +4,11 @@
     "market_name": "Jerry4",
     "codename": "W-K420",
     "model": "W-K420-TVM"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "Y50",
+    "codename": "W-K420",
+    "model": "W-K420-EEA"
   }
 ]

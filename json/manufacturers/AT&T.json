@@ -24,6 +24,12 @@
       "market_name": "QS5509A",
       "codename": "QS5509QL",
       "model": "QS5509A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U304AA",
+      "codename": "U304AA",
+      "model": "U304AA"
     }
   ]
 }

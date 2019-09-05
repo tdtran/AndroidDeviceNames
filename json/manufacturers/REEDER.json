@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13 Blue",
+      "codename": "P13_Blue",
+      "model": "P13_Blue"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13_Black",
       "codename": "P13_Black",
       "model": "P13_Black"

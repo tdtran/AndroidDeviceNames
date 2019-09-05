@@ -81,6 +81,24 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy A50",
     "codename": "a50",
+    "model": "SM-A505N"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A50",
+    "codename": "a50",
+    "model": "SM-A505U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A50",
+    "codename": "a50",
+    "model": "SM-A505W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A50",
+    "codename": "a50",
     "model": "SM-A505YN"
   }
 ]

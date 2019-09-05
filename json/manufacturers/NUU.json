@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G4",
+      "codename": "N6201L",
+      "model": "N6201L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M19",
+      "codename": "S5501LE",
+      "model": "S5501L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M2",
       "codename": "NUU_M2",
       "model": "NUU_M2"

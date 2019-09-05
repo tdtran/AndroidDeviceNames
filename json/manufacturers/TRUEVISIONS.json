@@ -12,6 +12,12 @@
       "market_name": "N9106H-C",
       "codename": "HB_N9106H_C_truevisions",
       "model": "N9106H-C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "True",
+      "codename": "TrueHPH07",
+      "model": "HPH07"
     }
   ]
 }

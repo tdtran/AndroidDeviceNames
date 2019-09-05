@@ -333,6 +333,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI CC 9",
+      "codename": "pyxis",
+      "model": "MI CC 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI CC 9",
+      "codename": "pyxis",
+      "model": "Mi 9 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI CC 9",
+      "codename": "pyxis",
+      "model": "Pyxis"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI CC 9e",
+      "codename": "laurus",
+      "model": "MI CC 9e"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI CC 9e",
+      "codename": "laurus",
+      "model": "laurus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI MAX",
       "codename": "helium",
       "model": "MI MAX"
@@ -489,24 +519,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Mi 4 PRO",
-      "codename": "dangalUHD",
-      "model": "MiTV-AXSO2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Mi 4A PRO",
-      "codename": "dangalFHD",
-      "model": "MiTV-AXSO1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Mi 4C PRO",
-      "codename": "dangal",
-      "model": "MiTV-AXSO0"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Mi 4c",
       "codename": "libra",
       "model": "Mi-4c"
@@ -531,6 +543,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi 9T Pro",
+      "codename": "raphael",
+      "model": "Mi 9T Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi A1",
       "codename": "tissot_sprout",
       "model": "MI A1"
@@ -552,6 +570,12 @@
       "market_name": "Mi A2 Lite",
       "codename": "daisy_sprout",
       "model": "Mi A2 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi A3",
+      "codename": "laurel_sprout",
+      "model": "Mi A3"
     },
     {
       "manufacturer": "",
@@ -612,6 +636,36 @@
       "market_name": "MiBox S",
       "codename": "oneday",
       "model": "MIBOX4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "amelie",
+      "model": "MiTV-MSSP0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "dangal",
+      "model": "MiTV-AXSO0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "dangalFHD",
+      "model": "MiTV-AXSO1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "dangalUHD",
+      "model": "MiTV-AXSO2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "nino",
+      "model": "MiTV-MSSP1"
     },
     {
       "manufacturer": "",
@@ -762,6 +816,12 @@
       "market_name": "Redmi 7",
       "codename": "onc",
       "model": "Redmi 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 7A",
+      "codename": "pine",
+      "model": "Redmi 7A"
     },
     {
       "manufacturer": "",

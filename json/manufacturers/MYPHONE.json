@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pocket 18x9",
+      "codename": "Pocket_18x9",
+      "model": "Pocket_18x9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pocket18X9 LTE",
       "codename": "Pocket_18x9_LTE",
       "model": "Pocket_18x9_LTE"
@@ -363,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myA17",
+      "codename": "myA17",
+      "model": "myA17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myA2",
       "codename": "MY802",
       "model": "MY802"
@@ -402,6 +414,12 @@
       "market_name": "myA9_DTV",
       "codename": "myA9_DTV",
       "model": "myA9 DTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myG1",
+      "codename": "myG1",
+      "model": "myG1"
     },
     {
       "manufacturer": "",
@@ -453,9 +471,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myT6 DTV",
+      "codename": "myT6_DTV",
+      "model": "myT6 DTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myX1",
       "codename": "MY807",
       "model": "MY807"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX12",
+      "codename": "myX12",
+      "model": "myX12"
     },
     {
       "manufacturer": "",

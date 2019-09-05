@@ -6,6 +6,12 @@
       "market_name": "LT950",
       "codename": "LT950",
       "model": "LT950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View",
+      "codename": "View",
+      "model": "View"
     }
   ]
 }

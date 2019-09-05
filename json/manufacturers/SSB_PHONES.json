@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AMS5518R",
+      "codename": "AMS5518R",
+      "model": "AMS5518R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5118R",
+      "codename": "LM5118R",
+      "model": "LM5118R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5518R",
+      "codename": "LM5518R",
+      "model": "LM5518R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB-508D",
+      "codename": "SSB-508D",
+      "model": "SSB-508D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SSB504",
       "codename": "SSB504",
       "model": "SSB504"
@@ -12,6 +36,24 @@
       "market_name": "SSB504A",
       "codename": "SSB504A",
       "model": "SSB504A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB504R",
+      "codename": "SSB504R",
+      "model": "SSB504R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB5118R",
+      "codename": "SSB5118R",
+      "model": "SSB5118R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB5518",
+      "codename": "SSB5518",
+      "model": "SSB5518"
     },
     {
       "manufacturer": "",

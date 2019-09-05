@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Skyworth",
+    "market_name": "Asia",
+    "codename": "SW3_ATV",
+    "model": "SWTV"
+  },
+  {
+    "manufacturer": "Skyworth",
     "market_name": "Euro",
     "codename": "SW3_ATV",
     "model": "SWTV"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cherry S8 Deluxe",
+      "codename": "Flare_S8_Deluxe",
+      "model": "Flare_S8_Deluxe"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cherry W900 LTE",
       "codename": "al7",
       "model": "W900 LTE"
@@ -399,9 +405,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare S8",
+      "codename": "X930",
+      "model": "Flare S8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare X",
       "codename": "Flare_X",
       "model": "Flare_X_V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare X3",
+      "codename": "Flare_X3",
+      "model": "Flare_X3"
     },
     {
       "manufacturer": "",
@@ -438,6 +456,24 @@
       "market_name": "Flare Y7 LTE",
       "codename": "Flare_Y7_LTE",
       "model": "Flare_Y7_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Y7 Pro",
+      "codename": "Flare_Y7_Pro",
+      "model": "Flare_Y7_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_A1_Roam",
+      "codename": "Flare_A1_Roam",
+      "model": "Flare_A1_Roam"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_HD_5",
+      "codename": "Flare_HD_5",
+      "model": "Flare_HD_5"
     },
     {
       "manufacturer": "",
@@ -552,6 +588,12 @@
       "market_name": "Omega Lite 4s",
       "codename": "Omega_Lite_4s",
       "model": "Omega Lite 4s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega X",
+      "codename": "X960",
+      "model": "Omega X"
     },
     {
       "manufacturer": "",

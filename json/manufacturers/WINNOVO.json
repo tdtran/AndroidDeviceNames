@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Winnovo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "T10",
+      "model": "T10"
+    }
+  ]
+}

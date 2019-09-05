@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A20",
+      "codename": "A20",
+      "model": "A20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I3",
       "codename": "I3",
       "model": "IKU i3"
@@ -12,6 +18,12 @@
       "market_name": "IKU_T3",
       "codename": "IKU_T3",
       "model": "IKU_T3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKU_T_max",
+      "codename": "IKU_T_max",
+      "model": "IKU_T_max"
     },
     {
       "manufacturer": "",

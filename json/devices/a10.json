@@ -64,5 +64,11 @@
     "market_name": "Galaxy A10",
     "codename": "a10",
     "model": "SM-A105M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A10",
+    "codename": "a10",
+    "model": "SM-A105N"
   }
 ]

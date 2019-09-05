@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2T-B40BCH1; 2T-B40BCH3; 2T-B45BCH1; 2T-B45BCH3",
+      "codename": "Lcd_xxsffocbc_h",
+      "model": "LCD_xxSFFOCBC_H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "2T-C12AF",
       "codename": "taurus_2tcxxaf",
       "model": "2T-C12AF"
@@ -66,6 +72,12 @@
       "market_name": "401SH",
       "codename": "SG401SH",
       "model": "401SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C**BL1/BJ1/BN1",
+      "codename": "tcmeruj",
+      "model": "AQUOS-TVJ19"
     },
     {
       "manufacturer": "",
@@ -561,6 +573,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R3 SH-R10A",
+      "codename": "SH-R10",
+      "model": "SH-R10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS R3 SHV44",
       "codename": "NAX",
       "model": "SHV44"
@@ -786,6 +804,12 @@
       "market_name": "AQUOS zero",
       "codename": "SH-Z10",
       "model": "SH-Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero",
+      "codename": "SH-Z10A",
+      "model": "SH-Z10A"
     },
     {
       "manufacturer": "",

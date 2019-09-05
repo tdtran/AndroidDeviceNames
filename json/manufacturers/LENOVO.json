@@ -2115,6 +2115,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo A6 Note",
+      "codename": "Lenovo_A6_Note",
+      "model": "Lenovo L19041"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K11",
+      "codename": "L38082",
+      "model": "Lenovo L38082"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K11",
+      "codename": "L38083",
+      "model": "Lenovo L38083"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo K8",
       "codename": "brady_f",
       "model": "Lenovo K"
@@ -2346,6 +2364,18 @@
       "market_name": "Lenovo TAB 8",
       "codename": "TB-8304F",
       "model": "Lenovo TB-8304F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo TAB M10 FHD Rel",
+      "codename": "TB-X605FC",
+      "model": "Lenovo TB-X605FC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo TAB M10 FHD Rel",
+      "codename": "TB-X605LC",
+      "model": "Lenovo TB-X605LC"
     },
     {
       "manufacturer": "",
@@ -2595,6 +2625,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo TAB5",
+      "codename": "801LV",
+      "model": "801LV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo TB-8304F1",
       "codename": "TB-8304F1",
       "model": "Lenovo TB-8304F1"
@@ -2661,21 +2697,63 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo Tab M10",
+      "market_name": "Lenovo Tab M10 (FHD)",
       "codename": "X605F",
       "model": "Lenovo TB-X605F"
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo Tab M10",
+      "market_name": "Lenovo Tab M10 (FHD)",
       "codename": "X605L",
       "model": "Lenovo TB-X605L"
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo Tab M10",
+      "market_name": "Lenovo Tab M10 (HD)",
+      "codename": "TB-X505F",
+      "model": "Lenovo TB-X505F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 (HD)",
+      "codename": "TB-X505L",
+      "model": "Lenovo TB-X505L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 (HD)",
+      "codename": "TB-X505N",
+      "model": "Lenovo TB-X505N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 (HD)",
+      "codename": "TB-X505X",
+      "model": "Lenovo TB-X505X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10(FHD)",
       "codename": "X605M",
       "model": "Lenovo TB-X605M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M7",
+      "codename": "7305F",
+      "model": "Lenovo TB-7305F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M7",
+      "codename": "7305I",
+      "model": "Lenovo TB-7305I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M7",
+      "codename": "7305X",
+      "model": "Lenovo TB-7305X"
     },
     {
       "manufacturer": "",
@@ -2709,9 +2787,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab V7",
+      "codename": "PB-6505Y",
+      "model": "Lenovo PB-6505Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo X2-CU/VIBE X2",
       "codename": "X2-CU",
       "model": "Lenovo X2-CU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Z5 Pro",
+      "codename": "heart",
+      "model": "Lenovo L78032"
     },
     {
       "manufacturer": "",
@@ -3405,6 +3495,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TBD",
+      "codename": "kunlun2",
+      "model": "Lenovo L38111"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 7 Essential",
       "codename": "7304F",
       "model": "Lenovo TB-7304F"
@@ -3765,6 +3861,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z5s",
+      "codename": "jd2019",
+      "model": "Lenovo L78071"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z6",
+      "codename": "jd20",
+      "model": "Lenovo L78121"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z6",
+      "codename": "zippo",
+      "model": "Lenovo L78051"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z90/VIBE Shot",
       "codename": "zoom_fdd",
       "model": "Lenovo Z90"
@@ -3786,6 +3900,12 @@
       "market_name": "Z90a40/VIBE Shot",
       "codename": "zoom_row",
       "model": "Lenovo Z90a40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "enovo TAB M10 FHD Rel",
+      "codename": "TB-X605FC",
+      "model": "Lenovo TB-X605FC"
     },
     {
       "manufacturer": "",

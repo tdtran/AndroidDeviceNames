@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NEW 7",
+      "codename": "NEW_7",
+      "model": "NEW 7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OCEAN 6",
       "codename": "VGOTEL_OCEAN_6",
       "model": "Ocean 6"
@@ -27,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart 2",
+      "codename": "Smart_2",
+      "model": "Smart 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart 4",
       "codename": "Smart_4",
       "model": "Smart 4"
@@ -36,6 +48,12 @@
       "market_name": "Smart 5",
       "codename": "Smart_5",
       "model": "Smart 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 7",
+      "codename": "Smart_7",
+      "model": "Smart 7"
     },
     {
       "manufacturer": "",

@@ -3,105 +3,9 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "coral_cheets",
-      "model": "coral"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
+      "market_name": "AMD Stoney Ridge Chromebook",
       "codename": "grunt_cheets",
       "model": "grunt"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "hana_cheets",
-      "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "hana_cheets",
-      "model": "Mediatek MTK8173 Chromebook"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "jerry_cheets",
-      "model": "RK3288 Chrome OS Device"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "jerry_cheets",
-      "model": "Rockchip RK3288 Chromebook"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "mighty_cheets",
-      "model": "RK3288 Chrome OS Device"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "mighty_cheets",
-      "model": "Rockchip RK3288 Chromebook"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "nami_cheets",
-      "model": "nami"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "octopus_cheets",
-      "model": "octopus"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "rammus_cheets",
-      "model": "rammus"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "reef_cheets",
-      "model": "ASUS Chromebook C213NA"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "reef_cheets",
-      "model": "Intel Apollo Lake Chromebook"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "reef_cheets",
-      "model": "reef"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "relm_cheets",
-      "model": "Braswell Chrome OS Device"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "relm_cheets",
-      "model": "Intel Braswell Chromebook"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Chromebook",
-      "codename": "wizpig_cheets",
-      "model": "Intel Braswell Chromebook"
     },
     {
       "manufacturer": "",
@@ -144,6 +48,78 @@
       "market_name": "Galaxy S4 Google Play edition",
       "codename": "jgedlte",
       "model": "GT-I9505G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Amber Lake Y Chromebook",
+      "codename": "rammus_cheets",
+      "model": "rammus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Apollo Lake Chromebook",
+      "codename": "coral_cheets",
+      "model": "coral"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Apollo Lake Chromebook",
+      "codename": "reef_cheets",
+      "model": "ASUS Chromebook C213NA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Apollo Lake Chromebook",
+      "codename": "reef_cheets",
+      "model": "Intel Apollo Lake Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Apollo Lake Chromebook",
+      "codename": "reef_cheets",
+      "model": "reef"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Braswell Chromebook",
+      "codename": "relm_cheets",
+      "model": "Braswell Chrome OS Device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Braswell Chromebook",
+      "codename": "relm_cheets",
+      "model": "Intel Braswell Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Braswell Chromebook",
+      "codename": "wizpig_cheets",
+      "model": "Intel Braswell Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Gemini Lake Chromebook",
+      "codename": "octopus_cheets",
+      "model": "octopus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Kaby Lake U Chromebook",
+      "codename": "nami_cheets",
+      "model": "nami"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediatek MTK8173 Chromebook",
+      "codename": "hana_cheets",
+      "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediatek MTK8173 Chromebook",
+      "codename": "hana_cheets",
+      "model": "Mediatek MTK8173 Chromebook"
     },
     {
       "manufacturer": "",
@@ -228,6 +204,30 @@
       "market_name": "Project Tango Tablet Development Kit",
       "codename": "yellowstone",
       "model": "Yellowstone"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rockchip RK3288 Chromebook",
+      "codename": "jerry_cheets",
+      "model": "RK3288 Chrome OS Device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rockchip RK3288 Chromebook",
+      "codename": "jerry_cheets",
+      "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rockchip RK3288 Chromebook",
+      "codename": "mighty_cheets",
+      "model": "RK3288 Chrome OS Device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rockchip RK3288 Chromebook",
+      "codename": "mighty_cheets",
+      "model": "Rockchip RK3288 Chromebook"
     }
   ]
 }

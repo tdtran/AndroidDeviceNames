@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALFA 8RX",
+      "codename": "ALFA_8RX",
+      "model": "ALFA_8RX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA_10RX",
+      "codename": "ALFA_10RX",
+      "model": "ALFA_10RX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA_7RC",
       "codename": "ALFA_7RC",
       "model": "ALFA_7RC"

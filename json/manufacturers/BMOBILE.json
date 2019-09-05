@@ -130,6 +130,12 @@
     {
       "manufacturer": "",
       "market_name": "AX1073+",
+      "codename": "AX1073PLUSMV18",
+      "model": "AX1073+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1073+",
       "codename": "Bmobile_AX1073Plus",
       "model": "AX1073+"
     },
@@ -159,6 +165,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX1077+",
+      "codename": "Bmobile_AX1077PLUS",
+      "model": "AX1077+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1077+",
+      "codename": "Bmobile_AX1077_MAS",
+      "model": "AX1077+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1077+",
+      "codename": "Bmobile_AX1077_MTG05",
+      "model": "AX1077+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1077+",
+      "codename": "Bmobile_AX1077_MTG06",
+      "model": "AX1077+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX1085",
       "codename": "Bmobile_AX1085",
       "model": "AX1085"
@@ -180,6 +210,12 @@
       "market_name": "AX1091",
       "codename": "Bmobile_AX1091A",
       "model": "AX1091"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1092",
+      "codename": "Bmobile_AX1092W",
+      "model": "AX1092"
     },
     {
       "manufacturer": "",
@@ -453,6 +489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bmobile AX751",
+      "codename": "Bmobile_AX751",
+      "model": "AX751"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bmobile AX753",
       "codename": "Bmobile_AX753",
       "model": "Bmobile AX753"
@@ -468,6 +510,18 @@
       "market_name": "Bmobile_AX1077",
       "codename": "Bmobile_AX1077A",
       "model": "AX1077"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmobile_AX688",
+      "codename": "Bmobile_AX688",
+      "model": "AX688"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmobile_AX751_PLUS",
+      "codename": "Bmobile_AX751_PLUS",
+      "model": "AX751+"
     },
     {
       "manufacturer": "",

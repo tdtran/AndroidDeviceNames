@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium Alpha 5s",
+      "codename": "Ilium_Alpha_5s",
+      "model": "Ilium Alpha 5s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium Alpha 9",
       "codename": "Ilium_Alpha_9",
       "model": "Ilium Alpha 9"
@@ -342,6 +348,12 @@
       "market_name": "Ilium_L1100",
       "codename": "Ilium_L1100",
       "model": "ILIUM L1100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium_M8",
+      "codename": "Ilium_M8",
+      "model": "Ilium_M8"
     },
     {
       "manufacturer": "",

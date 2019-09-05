@@ -153,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 8",
+      "codename": "Infinix-X650B",
+      "model": "Infinix X650B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 8",
+      "codename": "Infinix-X650C",
+      "model": "Infinix X650C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT NOTE",
       "codename": "Infinix-X551",
       "model": "Infinix-X551"
@@ -222,6 +234,18 @@
       "market_name": "Infinix HOT 6X",
       "codename": "Infinix-X623",
       "model": "Infinix X623B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 7",
+      "codename": "Infinix-X625C",
+      "model": "Infinix X625C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 7 pro",
+      "codename": "Infinix-X625C",
+      "model": "Infinix X625C"
     },
     {
       "manufacturer": "",
@@ -333,6 +357,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 6",
+      "codename": "Infinix-X610",
+      "model": "Infinix X610B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RACE Blot2",
       "codename": "Infinix_X454",
       "model": "Infinix X454"
@@ -366,6 +396,12 @@
       "market_name": "S4",
       "codename": "Infinix-X626B",
       "model": "Infinix X626B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4",
+      "codename": "Infinix-X626B-LTE",
+      "model": "Infinix X626B LTE"
     },
     {
       "manufacturer": "",

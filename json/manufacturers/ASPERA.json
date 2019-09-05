@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jazz_2",
+      "codename": "Jazz_2",
+      "model": "Jazz 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wren",
       "codename": "Wren",
       "model": "Wren"

@@ -585,6 +585,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Sunny4",
+      "codename": "W-K130",
+      "model": "W-K130-TMV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TOMMY",
       "codename": "P4901AC",
       "model": "TOMMY"
@@ -803,6 +809,12 @@
       "manufacturer": "",
       "market_name": "View3 Lite",
       "codename": "W-V800",
+      "model": "W-V800-TIM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Lite",
+      "codename": "W-V800",
       "model": "W-V800-TVM"
     },
     {
@@ -939,6 +951,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y50",
+      "codename": "W-K130",
+      "model": "W-K130-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y50",
+      "codename": "W-K130",
+      "model": "W-K130-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y50",
+      "codename": "W-K420",
+      "model": "W-K420-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-BYT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y60",
       "codename": "W-K510",
       "model": "W-K510-EEA"
@@ -948,6 +984,18 @@
       "market_name": "Y60",
       "codename": "W-K510",
       "model": "W-K510-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-SFC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-SUN"
     },
     {
       "manufacturer": "",
@@ -966,6 +1014,18 @@
       "market_name": "Y80",
       "codename": "W-V720",
       "model": "W-V720-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y80",
+      "codename": "W-V720",
+      "model": "W-V720-SUN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "sunny4 Plus",
+      "codename": "W-K360",
+      "model": "W-K360-TV"
     }
   ]
 }

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A5 Pro",
+      "codename": "A5_Pro",
+      "model": "A5_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F1",
       "codename": "F1",
       "model": "F1"
@@ -54,6 +60,12 @@
       "market_name": "One Pro",
       "codename": "One_Pro",
       "model": "One Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power",
+      "codename": "Power",
+      "model": "Power"
     },
     {
       "manufacturer": "",

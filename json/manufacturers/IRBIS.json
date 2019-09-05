@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TZ170",
+      "codename": "TZ170",
+      "model": "TZ170"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ177",
       "codename": "TZ177",
       "model": "TZ177"

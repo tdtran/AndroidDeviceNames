@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pocket_Pro",
+      "codename": "myPhone_Pocket_Pro",
+      "model": "myPhone_Pocket_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prime 4 Lite",
+      "codename": "Prime_4_Lite",
+      "model": "Prime_4_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myPhone",
       "codename": "Q_Smart_BE",
       "model": "Q_Smart_BE"
@@ -156,6 +168,12 @@
       "market_name": "myPhone_C-Smart _4",
       "codename": "myPhone_C-Smart_4",
       "model": "myPhone_C-Smart_4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone_City_2",
+      "codename": "myPhone_City_2",
+      "model": "myPhone_City_2"
     },
     {
       "manufacturer": "",

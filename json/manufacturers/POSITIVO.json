@@ -255,9 +255,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Twist 2",
+      "codename": "S512",
+      "model": "Twist 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Twist 2 Fit",
       "codename": "S509",
       "model": "Twist 2 Fit"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 2 Go",
+      "codename": "S541",
+      "model": "Twist 2 Go"
     },
     {
       "manufacturer": "",

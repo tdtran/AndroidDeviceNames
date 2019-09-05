@@ -1,0 +1,11 @@
+{
+  "manufacturer": "AirTV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AirTV Mini",
+      "codename": "kunlun",
+      "model": "AirTV Mini"
+    }
+  ]
+}

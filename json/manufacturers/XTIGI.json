@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V18 pro_A",
+      "codename": "V18_pro_A",
+      "model": "V18 pro_A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V21",
       "codename": "X-TIGI_V21",
       "model": "X-TIGI_V21"
@@ -111,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X-TIGI_V12",
+      "codename": "V12",
+      "model": "V12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-TIGI_V13",
       "codename": "X-TIGI_V13",
       "model": "X-TIGI_V13"
@@ -138,6 +150,12 @@
       "market_name": "X-TIGI_V5",
       "codename": "X-TIGI_V5",
       "model": "X-TIGI_V5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-TIGI_V9",
+      "codename": "X-TIGI_V9",
+      "model": "X-TIGI_V9"
     },
     {
       "manufacturer": "",

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 2.2",
+      "codename": "WSP_sprout",
+      "model": "Nokia 2.2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 3",
       "codename": "NE1",
       "model": "TA-1020"
@@ -72,6 +78,18 @@
       "market_name": "Nokia 3.1",
       "codename": "ES2_sprout",
       "model": "Nokia 3.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3.1 A",
+      "codename": "EAG",
+      "model": "Nokia 3.1 A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3.1 C",
+      "codename": "EAG",
+      "model": "Nokia 3.1 C"
     },
     {
       "manufacturer": "",

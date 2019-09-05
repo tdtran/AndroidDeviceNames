@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F9 Plus",
+      "codename": "F9_Plus",
+      "model": "GIONEE F9 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ForwardZero",
       "codename": "V6L",
       "model": "V6L"

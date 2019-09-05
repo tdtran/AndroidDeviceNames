@@ -1299,6 +1299,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1 Alpha",
+      "codename": "P963F01D",
+      "model": "A1 Alpha"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1P",
       "codename": "ailsa",
       "model": "A1P"
@@ -1566,6 +1572,12 @@
       "market_name": "B860H",
       "codename": "B860H_V1",
       "model": "B860H V1.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B866",
+      "codename": "B866_ZTE",
+      "model": "B866"
     },
     {
       "manufacturer": "",
@@ -7924,6 +7936,18 @@
     {
       "manufacturer": "",
       "market_name": "ZTE Blade A3 2019",
+      "codename": "P932F20",
+      "model": "ZTE Blade A3 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A3 2019",
+      "codename": "P932F20",
+      "model": "ZTE Blade A3 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A3 2019",
       "codename": "P932K20",
       "model": "ZTE Blade A3 2019"
     },
@@ -7968,6 +7992,18 @@
       "market_name": "ZTE Blade A531",
       "codename": "P932F10",
       "model": "ZTE Blade A531"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A7 2019",
+      "codename": "P963F02",
+      "model": "ZTE Blade A7 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A7 2019RU",
+      "codename": "P963F02",
+      "model": "ZTE Blade A7 2019RU"
     },
     {
       "manufacturer": "",
@@ -8027,6 +8063,12 @@
       "manufacturer": "",
       "market_name": "ZTE Blade V10 Vita RU",
       "codename": "P963F01",
+      "model": "ZTE Blade V10 Vita RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V10 Vita RU",
+      "codename": "P963F01D",
       "model": "ZTE Blade V10 Vita RU"
     },
     {
@@ -8130,6 +8172,12 @@
       "market_name": "ZTE_Blade_V1000",
       "codename": "P671F20",
       "model": "ZTE Blade V1000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE\\xe2\\x80\\x82Grand\\xe2\\x80\\x82X\\xe2\\x80\\x82View\\xe2\\x80\\x823",
+      "codename": "K83CA",
+      "model": "K83CA"
     },
     {
       "manufacturer": "",

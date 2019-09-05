@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV5900",
+      "codename": "BV5900",
+      "model": "BV5900"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV6000",
       "codename": "Blackview",
       "model": "BV6000"
@@ -219,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV9600",
+      "codename": "BV9600",
+      "model": "BV9600"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV9600Pro",
       "codename": "Blackview",
       "model": "BV9600Pro"
@@ -270,6 +282,18 @@
       "market_name": "Blackview BV9500Pro",
       "codename": "BV9500Pro",
       "model": "BV9500Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blackview BV9700Pro",
+      "codename": "BV9700Pro",
+      "model": "BV9700Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blackview BV9700Pro_EEA",
+      "codename": "BV9700Pro",
+      "model": "BV9700Pro"
     },
     {
       "manufacturer": "",

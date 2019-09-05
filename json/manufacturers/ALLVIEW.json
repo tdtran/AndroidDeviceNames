@@ -609,9 +609,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V4 Viper",
+      "codename": "V4_Viper",
+      "model": "V4_Viper"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva 1001G",
       "codename": "Viva_1001G",
       "model": "Viva_1001G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva 1003G",
+      "codename": "Viva_1003G",
+      "model": "Viva_1003G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva 1003G Lite",
+      "codename": "Viva_1003G_Lite",
+      "model": "Viva_1003G_Lite"
     },
     {
       "manufacturer": "",
@@ -684,6 +702,12 @@
       "market_name": "Viva H802 LTE",
       "codename": "Viva_H802_LTE",
       "model": "Viva_H802_LTE_TM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva Home",
+      "codename": "Viva_Home",
+      "model": "Viva_Home"
     },
     {
       "manufacturer": "",

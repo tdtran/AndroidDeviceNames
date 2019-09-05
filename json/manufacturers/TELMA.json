@@ -36,6 +36,12 @@
       "market_name": "Telma EGO",
       "codename": "Telma_EGO",
       "model": "Telma EGO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telma i401",
+      "codename": "telma_i401",
+      "model": "telma i401"
     }
   ]
 }

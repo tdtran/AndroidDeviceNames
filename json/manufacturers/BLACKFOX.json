@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BMM543S",
+      "codename": "BMM543S",
+      "model": "BMM543S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BMM_533D",
       "codename": "BMM_533D",
       "model": "BMM_533D"

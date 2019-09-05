@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bee",
+      "codename": "V220A",
+      "model": "Bee"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Joy 1",
       "codename": "PQ4001",
       "model": "Joy 1"
@@ -24,6 +30,12 @@
       "market_name": "Joy 1 +",
       "codename": "PQ4002",
       "model": "Joy 1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Live",
+      "codename": "V620A",
+      "model": "Live"
     }
   ]
 }

@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S51",
+      "codename": "S51",
+      "model": "S51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S70",
       "codename": "S70",
       "model": "S70"

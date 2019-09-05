@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T12",
+      "codename": "T12",
+      "model": "T12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab-PLAY125",
       "codename": "Tab-PLAY125",
       "model": "Tab-PLAY125"

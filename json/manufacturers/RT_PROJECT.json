@@ -6,6 +6,12 @@
       "market_name": "Wide",
       "codename": "Wide",
       "model": "Wide"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "popper2",
+      "codename": "popper2",
+      "model": "popper2"
     }
   ]
 }

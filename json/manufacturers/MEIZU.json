@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "16s pro",
+      "codename": "meizu16sPro",
+      "model": "16s Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "16th",
       "codename": "16th",
       "model": "16th"

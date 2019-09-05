@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress City",
+      "codename": "Impress_City",
+      "model": "Impress_City"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress Click (3G)",
       "codename": "IMPRESS_CLICK",
       "model": "IMPRESS CLICK"

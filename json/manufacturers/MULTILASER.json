@@ -52,12 +52,6 @@
     {
       "manufacturer": "",
       "market_name": "M7-3G PLUS",
-      "codename": "ML-JI-M7_3G_PLUS",
-      "model": "ML-JI-M7_3G_PLUS"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "M7-3G PLUS",
       "codename": "ML-JI21-M7-3G-PLUS",
       "model": "M7-3G-PLUS"
     },
@@ -177,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ML-JI-M7_3G_PLUS",
+      "codename": "ML-JI-M7_3G_PLUS",
+      "model": "ML-JI-M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ML-JI11-M7_3G_PLUS",
       "codename": "ML-JI11-M7_3G_PLUS",
       "model": "ML-JI11-M7_3G_PLUS"
@@ -192,6 +192,12 @@
       "market_name": "ML-SO-MLX1",
       "codename": "ML-SO-MLX1",
       "model": "ML-SO-MLX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLX8",
+      "codename": "ML-WI23-MLX8",
+      "model": "MLX8"
     },
     {
       "manufacturer": "",
@@ -372,6 +378,30 @@
       "market_name": "Ms6",
       "codename": "MS6",
       "model": "MS6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser E",
+      "codename": "Multilaser_E",
+      "model": "Multilaser_E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G",
+      "codename": "Multilaser_G",
+      "model": "Multilaser_G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G Pro",
+      "codename": "Multilaser_G_Pro",
+      "model": "Multilaser_G_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser_F",
+      "codename": "Multilaser_F",
+      "model": "Multilaser_F"
     }
   ]
 }

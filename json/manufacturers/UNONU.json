@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UNONU_N55S",
+      "codename": "UNONU_N55S",
+      "model": "UNONU N55S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNONU_W609",
+      "codename": "UNONU_W609",
+      "model": "UNONU_W609"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UT3G",
       "codename": "UT3G",
       "model": "UT3G"

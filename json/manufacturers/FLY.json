@@ -213,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fly Life Play",
+      "codename": "LifePlay",
+      "model": "Life Play"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fly View Max",
       "codename": "ViewMax",
       "model": "View Max"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "801FJ",
+      "codename": "SBM801FJ",
+      "model": "801FJ"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ARROWS A SoftBank 101F",
       "codename": "SBM101F",
       "model": "101F"
@@ -522,12 +528,6 @@
       "market_name": "TONE m17",
       "codename": "TONEm17",
       "model": "TONE-m17"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "arrows Be F-05J",
-      "codename": "F05J",
-      "model": "F-05J"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "BEISTA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K109",
+      "codename": "K109",
+      "model": "K109"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X101",
+      "codename": "X101",
+      "model": "X101"
+    }
+  ]
+}

@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grand",
+      "codename": "Grand",
+      "model": "Grand"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro",
+      "codename": "Nitro",
+      "model": "Nitro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sansui Play",
       "codename": "Play",
       "model": "Sansui Play"

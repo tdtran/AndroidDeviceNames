@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TechPad_1032s",
+      "codename": "TechPad_1032s",
+      "model": "TechPad_1032s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TechPad_10x",
       "codename": "TechPad_10x",
       "model": "TechPad_10x"

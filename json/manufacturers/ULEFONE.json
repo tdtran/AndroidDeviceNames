@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4dym",
+      "codename": "Armor_X3",
+      "model": "Armor_X3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2",
       "codename": "Armor_2",
       "model": "Armor_2"
@@ -33,9 +39,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor6",
+      "codename": "Armor_6",
+      "model": "Armor_6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_3",
       "codename": "Armor_3",
       "model": "Armor_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_3W",
+      "codename": "Armor_3W",
+      "model": "Armor_3W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_3WT",
+      "codename": "Armor_3WT",
+      "model": "Armor_3WT"
     },
     {
       "manufacturer": "",
@@ -63,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_X3",
+      "codename": "Armor_X3",
+      "model": "Armor_X3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MIX",
       "codename": "t816_gq_ulefone",
       "model": "MIX"
@@ -78,6 +108,12 @@
       "market_name": "MIX_2",
       "codename": "MIX_2",
       "model": "MIX_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_7P",
+      "codename": "Note_7P",
+      "model": "Note_7P"
     },
     {
       "manufacturer": "",
@@ -132,6 +168,18 @@
       "market_name": "Power_3L_EEA",
       "codename": "Power_3L_EEA",
       "model": "Power_3L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power_6",
+      "codename": "Power_6",
+      "model": "Power_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power_6_EEA",
+      "codename": "Power_6",
+      "model": "Power_6"
     },
     {
       "manufacturer": "",
@@ -192,6 +240,12 @@
       "market_name": "T2",
       "codename": "T2",
       "model": "T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulefone_Note_7",
+      "codename": "Note_7P",
+      "model": "Note_7P"
     },
     {
       "manufacturer": "",

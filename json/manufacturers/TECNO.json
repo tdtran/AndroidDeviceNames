@@ -561,6 +561,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Phantom 9",
+      "codename": "TECNO-AB7",
+      "model": "TECNO AB7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Phantom6",
       "codename": "Phantom6",
       "model": "Phantom6"
@@ -636,6 +642,12 @@
       "market_name": "Pouvoir 3 Air",
       "codename": "TECNO-LC6",
       "model": "TECNO LC6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pouvoir 3 Air",
+      "codename": "TECNO-LC6a",
+      "model": "TECNO LC6a"
     },
     {
       "manufacturer": "",
@@ -879,6 +891,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO SPARK 4 Air",
+      "codename": "TECNO-KC1j",
+      "model": "TECNO KC1j"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK Go",
+      "codename": "TECNO-KC1",
+      "model": "TECNO KC1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO W5",
       "codename": "TECNO-W5",
       "model": "TECNO-W5"
@@ -912,6 +936,12 @@
       "market_name": "Techno L6",
       "codename": "TECNO-L6",
       "model": "TECNO-L6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tecno pop 2x Air",
+      "codename": "TECNO-RB6S",
+      "model": "TECNO RB6S"
     },
     {
       "manufacturer": "",

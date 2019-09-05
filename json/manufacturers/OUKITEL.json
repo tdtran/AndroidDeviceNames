@@ -63,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C16",
+      "codename": "C16",
+      "model": "C16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C16 Pro",
+      "codename": "C16_Pro",
+      "model": "C16_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -177,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K9",
+      "codename": "K9",
+      "model": "K9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MIX 2",
       "codename": "MIX_2",
       "model": "MIX 2"
@@ -276,6 +294,12 @@
       "market_name": "WP5000",
       "codename": "WP5000",
       "model": "WP5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y4800",
+      "codename": "Y4800",
+      "model": "Y4800"
     }
   ]
 }

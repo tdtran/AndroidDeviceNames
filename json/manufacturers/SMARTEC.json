@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Atractivo",
+      "codename": "Atractivo",
+      "model": "Atractivo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MiCA",
       "codename": "MiCA",
       "model": "MiCA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N4",
+      "codename": "N4",
+      "model": "N4"
     },
     {
       "manufacturer": "",

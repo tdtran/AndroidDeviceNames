@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Go Mobile",
+    "market_name": "X1",
+    "codename": "X1",
+    "model": "X1"
+  },
+  {
     "manufacturer": "Neffos",
     "market_name": "Neffos X1",
     "codename": "X1",
