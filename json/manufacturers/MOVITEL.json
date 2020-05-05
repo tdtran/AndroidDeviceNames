@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M8419",
+      "codename": "M8419",
+      "model": "M8419"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8420",
+      "codename": "M8420",
+      "model": "M8420"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8601",
       "codename": "Movitel_M8601",
       "model": "M8601"
@@ -60,6 +72,12 @@
       "market_name": "M9103",
       "codename": "M9103",
       "model": "M9103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Movitel_M9104",
+      "codename": "Movitel_M9104",
+      "model": "Movitel_M9104"
     }
   ]
 }

@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GRAVITY_OCTACORE",
+      "codename": "GRAVITY_OCTACORE",
+      "model": "GRAVITY_OCTACORE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gravity_Max_EEA",
+      "codename": "Gravity_Max",
+      "model": "Gravity Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L100",
+      "codename": "L100",
+      "model": "L100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L50",
       "codename": "SPC_L50",
       "model": "L50"
@@ -105,9 +123,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L70_Lite",
+      "codename": "L70_Lite",
+      "model": "L70_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L70_PRO",
+      "codename": "L70_PRO",
+      "model": "L70_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L80",
+      "codename": "L80",
+      "model": "L80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S19",
       "codename": "S19",
       "model": "S19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN",
+      "codename": "SPC_GEN",
+      "model": "SPC GEN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN LITE",
+      "codename": "SPC_GEN_LITE",
+      "model": "SPC GEN LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN MAX",
+      "codename": "SPC_GEN_MAX",
+      "model": "SPC GEN MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN PLUS",
+      "codename": "SPC_GEN_PLUS",
+      "model": "SPC GEN PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART",
+      "codename": "SPC_SMART",
+      "model": "SPC SMART"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART LITE",
+      "codename": "SPC_SMART_LITE",
+      "model": "SPC SMART LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART MAX",
+      "codename": "SPC_SMART_MAX",
+      "model": "SPC SMART MAX"
     },
     {
       "manufacturer": "",
@@ -120,6 +198,12 @@
       "market_name": "X3",
       "codename": "SPC_X3",
       "model": "X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5",
+      "model": "X5"
     }
   ]
 }

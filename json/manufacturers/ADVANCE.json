@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HL4936",
+      "codename": "HL4936",
+      "model": "HL4936"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HL5576",
       "codename": "HL5576",
       "model": "HL5576"
@@ -69,9 +75,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PR7145",
+      "codename": "PR7145",
+      "model": "PR7145"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pr5747",
       "codename": "Pr5747",
       "model": "Pr5747"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pr5950",
+      "codename": "Pr5950",
+      "model": "Pr5950"
     },
     {
       "manufacturer": "",
@@ -84,6 +102,24 @@
       "market_name": "Pr6150",
       "codename": "Pr6150",
       "model": "Pr6150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pr7547",
+      "codename": "Pr7547",
+      "model": "Pr7547"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sp5730",
+      "codename": "Sp5730",
+      "model": "Sp5730"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR3947",
+      "codename": "TR3947",
+      "model": "TR3947"
     },
     {
       "manufacturer": "",

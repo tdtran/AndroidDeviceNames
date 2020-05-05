@@ -1,0 +1,11 @@
+{
+  "manufacturer": "PointMobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PM451",
+      "codename": "PM451",
+      "model": "PM451"
+    }
+  ]
+}

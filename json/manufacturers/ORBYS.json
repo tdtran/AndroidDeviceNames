@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ORBYS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F20",
+      "codename": "F20",
+      "model": "F20"
+    }
+  ]
+}

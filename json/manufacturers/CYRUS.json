@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CS22XA",
+      "codename": "CS22XA",
+      "model": "CS22XA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS22XA_EEA",
+      "codename": "CS22XA_EEA",
+      "model": "CS22XA_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS24",
       "codename": "CS24",
       "model": "CS24"
@@ -24,6 +36,18 @@
       "market_name": "CS40",
       "codename": "CS40",
       "model": "CS40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS45XA",
+      "codename": "CS45XA",
+      "model": "CS45XA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS45XA_EEA",
+      "codename": "CS45XA_EEA",
+      "model": "CS45XA_EEA"
     }
   ]
 }

@@ -6,6 +6,12 @@
       "market_name": "T7 Pro",
       "codename": "T7_PRO",
       "model": "T7_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T9 S",
+      "codename": "T9S",
+      "model": "T9S"
     }
   ]
 }

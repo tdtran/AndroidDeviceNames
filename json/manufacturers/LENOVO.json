@@ -603,7 +603,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\t Lenovo YOGA Laptop with Android",
+      "market_name": "\t Lenovo YOGA Laptop with Android",
       "codename": "YOGABOOK12",
       "model": "Lenovo YB-Q501F"
     },
@@ -1314,6 +1314,12 @@
       "market_name": "A690e",
       "codename": "A690e",
       "model": "LNV-Lenovo A690e"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A7",
+      "codename": "AK47",
+      "model": "Lenovo L19111"
     },
     {
       "manufacturer": "",
@@ -2049,6 +2055,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LAVIE Tab E 10FHD2",
+      "codename": "LAVIETabE10FHD2",
+      "model": "LAVIE Tab E 10FHD2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab E 7SD1",
+      "codename": "LAVIETabE7SD1",
+      "model": "LAVIE Tab E 7SD1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIFETAB E10310",
       "codename": "LIFETAB_E10310",
       "model": "LIFETAB_E10310"
@@ -2189,6 +2207,12 @@
       "manufacturer": "",
       "market_name": "Lenovo N Series Chromebook",
       "codename": "reks_cheets",
+      "model": "Intel Braswell Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo N Series Chromebook",
+      "codename": "reks_cheets",
       "model": "Lenovo Intel Braswell Chromebook"
     },
     {
@@ -2262,6 +2286,42 @@
       "market_name": "Lenovo S820",
       "codename": "S820",
       "model": "Lenovo S820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Smart Tab M10 FHD Plus with Amazon Alexa",
+      "codename": "X606FA",
+      "model": "Lenovo TB-X606FA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Smart Tab M10 FHD Plus with Amazon Alexa",
+      "codename": "X606XA",
+      "model": "Lenovo TB-X606XA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Smart Tab M8",
+      "codename": "8505FS",
+      "model": "Lenovo TB-8505FS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Smart Tab M8",
+      "codename": "8705F",
+      "model": "Lenovo TB-8705F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Smrat Tab M8",
+      "codename": "8505XC",
+      "model": "Lenovo TB-8505XC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Smrat Tab M8",
+      "codename": "8505XS",
+      "model": "Lenovo TB-8505XS"
     },
     {
       "manufacturer": "",
@@ -2364,6 +2424,12 @@
       "market_name": "Lenovo TAB 8",
       "codename": "TB-8304F",
       "model": "Lenovo TB-8304F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo TAB E8",
+      "codename": "TB-8304F1",
+      "model": "Lenovo TB-8304F1"
     },
     {
       "manufacturer": "",
@@ -2625,12 +2691,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo TAB5",
-      "codename": "801LV",
-      "model": "801LV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Lenovo TB-8304F1",
       "codename": "TB-8304F1",
       "model": "Lenovo TB-8304F1"
@@ -2664,6 +2724,12 @@
       "market_name": "Lenovo Tab E10",
       "codename": "X104F",
       "model": "Lenovo TB-X104F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab E10",
+      "codename": "X104F1",
+      "model": "Lenovo TB-X104F1"
     },
     {
       "manufacturer": "",
@@ -2709,6 +2775,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M10 (FHD)",
+      "codename": "X605M",
+      "model": "Lenovo TB-X605M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab M10 (HD)",
       "codename": "TB-X505F",
       "model": "Lenovo TB-X505F"
@@ -2733,9 +2805,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo Tab M10(FHD)",
-      "codename": "X605M",
-      "model": "Lenovo TB-X605M"
+      "market_name": "Lenovo Tab M10 FHD Plus",
+      "codename": "X606F",
+      "model": "Lenovo TB-X606F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 FHD Plus",
+      "codename": "X606M",
+      "model": "Lenovo TB-X606M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 FHD Plus",
+      "codename": "X606X",
+      "model": "Lenovo TB-X606X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 FHD Rel",
+      "codename": "801LV",
+      "model": "801LV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 Plus",
+      "codename": "X606V",
+      "model": "Lenovo TB-X606V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 Plus",
+      "codename": "X606X",
+      "model": "Lenovo TB-X606X"
     },
     {
       "manufacturer": "",
@@ -2757,6 +2859,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M8",
+      "codename": "8505F",
+      "model": "Lenovo TB-8505F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8",
+      "codename": "8505FS",
+      "model": "Lenovo TB-8505FS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8",
+      "codename": "8505N",
+      "model": "Lenovo TB-8505N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8",
+      "codename": "8505X",
+      "model": "Lenovo TB-8505X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8",
+      "codename": "8705F",
+      "model": "Lenovo TB-8705F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8",
+      "codename": "8705N",
+      "model": "Lenovo TB-8705N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8",
+      "codename": "8705X",
+      "model": "Lenovo TB-8705X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab P10",
       "codename": "X705F",
       "model": "Lenovo TB-X705F"
@@ -2766,6 +2910,12 @@
       "market_name": "Lenovo Tab P10",
       "codename": "X705L",
       "model": "Lenovo TB-X705L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P10",
+      "codename": "X705M",
+      "model": "Lenovo TB-X705M"
     },
     {
       "manufacturer": "",
@@ -2799,9 +2949,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo YOGA Tab 3 Plus",
+      "codename": "YT-X703F",
+      "model": "Lenovo YT-X703F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo YOGA Tab 3 Plus",
+      "codename": "YT-X703L",
+      "model": "Lenovo YT-X703L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo YOGA Tab 3 Plus",
+      "codename": "YT-X703X",
+      "model": "Lenovo YT-X703X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Z5 Pro",
       "codename": "heart",
       "model": "Lenovo L78032"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Z6 Pro 5G",
+      "codename": "cream",
+      "model": "Lenovo L79041"
     },
     {
       "manufacturer": "",
@@ -2817,43 +2991,31 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LenovoTB-X104F1",
-      "codename": "X104F1",
-      "model": "Lenovo TB-X104F1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LenovoTB-X104F1_EEA",
-      "codename": "X104F1",
-      "model": "Lenovo TB-X104F1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
+      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A",
       "codename": "jazz",
       "model": "AQUOS 58U1"
     },
     {
       "manufacturer": "",
-      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
+      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A",
       "codename": "jazz",
       "model": "AQUOS 60LX765A"
     },
     {
       "manufacturer": "",
-      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
+      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A",
       "codename": "jazz",
       "model": "AQUOS 60UE20A"
     },
     {
       "manufacturer": "",
-      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
+      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A",
       "codename": "jazz",
       "model": "LenovoTV 40S9"
     },
     {
       "manufacturer": "",
-      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
+      "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A",
       "codename": "jazz",
       "model": "LenovoTV 58S9"
     },
@@ -3471,12 +3633,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TB-X104F1",
-      "codename": "X104F1",
-      "model": "Lenovo TB-X104F1"
-    },
-    {
-      "manufacturer": "",
       "market_name": "TB3-601LV",
       "codename": "601LV",
       "model": "601LV"
@@ -3507,9 +3663,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Tab P10",
-      "codename": "X705M",
-      "model": "Lenovo TB-X705M"
+      "market_name": "ThinkPad 11e Chromebook 3rd Gen",
+      "codename": "ultima_cheets",
+      "model": "Lenovo ThinkPad 11e 3rd Gen Chromebook"
     },
     {
       "manufacturer": "",
@@ -3527,7 +3683,19 @@
       "manufacturer": "",
       "market_name": "Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
       "codename": "pyro_cheets",
+      "model": "Lenovo ThinkPad 11e 4th Gen Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
+      "codename": "pyro_cheets",
       "model": "Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thinkpad 13 Chromebook",
+      "codename": "sentry_cheets",
+      "model": "Lenovo ThinkPad 13"
     },
     {
       "manufacturer": "",
@@ -3606,6 +3774,12 @@
       "market_name": "VIBE X3 Lite",
       "codename": "k5fp_m",
       "model": "Lenovo K51c78"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VR-S3",
+      "codename": "VRS3",
+      "model": "VR-S3"
     },
     {
       "manufacturer": "",
@@ -3699,87 +3873,69 @@
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 10”",
       "codename": "YT3-X50F",
       "model": "Lenovo YT3-X50F"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 10”",
       "codename": "YT3-X50L",
       "model": "Lenovo YT3-X50L"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 10”",
       "codename": "YT3-X50M",
       "model": "Lenovo YT3-X50M"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 8\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 8”",
       "codename": "YT3-850F",
       "model": "Lenovo YT3-850F"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 8\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 8”",
       "codename": "YT3-850L",
       "model": "Lenovo YT3-850L"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 8\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 8”",
       "codename": "YT3-850M",
       "model": "Lenovo YT3-850M"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 PRO 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 PRO 10”",
       "codename": "YT3",
       "model": "Lenovo YT3-X90F"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 PRO 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 PRO 10”",
       "codename": "YT3",
       "model": "Lenovo YT3-X90L"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 PRO 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 PRO 10”",
       "codename": "YT3",
       "model": "Lenovo YT3-X90X"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 PRO 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 PRO 10”",
       "codename": "YT3",
       "model": "Lenovo YT3-X90Y"
     },
     {
       "manufacturer": "",
-      "market_name": "YOGA Tab 3 PRO 10\\xe2\\x80\\x9d",
+      "market_name": "YOGA Tab 3 PRO 10”",
       "codename": "YT3",
       "model": "Lenovo YT3-X90Z"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "YOGA Tab 3 Plus",
-      "codename": "YT-X703F",
-      "model": "Lenovo YT-X703F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "YOGA Tab 3 Plus",
-      "codename": "YT-X703L",
-      "model": "Lenovo YT-X703L"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "YOGA Tab 3 Plus",
-      "codename": "YT-X703X",
-      "model": "Lenovo YT-X703X"
     },
     {
       "manufacturer": "",
@@ -3816,6 +3972,30 @@
       "market_name": "YOGA Tablet Pro-830LC/Yoga Tablet 2",
       "codename": "YT2",
       "model": "YOGA Tablet 2-830LC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yoga Smart Tab",
+      "codename": "YT-X705F",
+      "model": "Lenovo YT-X705F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yoga Smart Tab",
+      "codename": "YT-X705L",
+      "model": "Lenovo YT-X705L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yoga Smart Tab",
+      "codename": "YT-X705M",
+      "model": "Lenovo YT-X705M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yoga Smart Tab",
+      "codename": "YT-X705X",
+      "model": "Lenovo YT-X705X"
     },
     {
       "manufacturer": "",
@@ -3879,6 +4059,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z6 Pro",
+      "codename": "zippo",
+      "model": "Lenovo L78051"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z90/VIBE Shot",
       "codename": "zoom_fdd",
       "model": "Lenovo Z90"
@@ -3903,12 +4089,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "enovo TAB M10 FHD Rel",
-      "codename": "TB-X605FC",
-      "model": "Lenovo TB-X605FC"
-    },
-    {
-      "manufacturer": "",
       "market_name": "ideatv S52",
       "codename": "ideatv_S52",
       "model": "ideatv S52"
@@ -3921,13 +4101,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\xb0\\x8f\\xe6\\x96\\xb0\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf",
+      "market_name": "小新平板",
       "codename": "TB-8804F",
       "model": "Lenovo TB-8804F"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\xb0\\x8f\\xe6\\x96\\xb0\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf",
+      "market_name": "小新平板",
       "codename": "X804F",
       "model": "Lenovo TB-X804F"
     }

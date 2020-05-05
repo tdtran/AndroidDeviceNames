@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress_Indigo",
+      "codename": "Impress_Indigo",
+      "model": "Impress_Indigo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Lagune",
       "codename": "Impress_Lagune",
       "model": "Impress_Lagune"
@@ -411,6 +417,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Luck_L100_3G",
+      "codename": "Luck_L100_3G",
+      "model": "Luck_L100_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luck_L120_4G",
+      "codename": "Luck_L120_4G",
+      "model": "Luck_L120_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Luck_L_5045_3G",
       "codename": "Luck_L_5045_3G",
       "model": "Vertex_Luck_L_5045_3G"
@@ -441,9 +459,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pro_P200_4G",
+      "codename": "Pro_P200_4G",
+      "model": "Pro_P200_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pro_P300_4G",
+      "codename": "Pro_P300_4G",
+      "model": "Pro_P300_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pro_P300_4G",
+      "codename": "Pro_P310_4G",
+      "model": "Pro_P310_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S1",
       "codename": "GlocalMe_S1",
       "model": "G1701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart Touch",
+      "codename": "smart_touch",
+      "model": "smart_touch"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart_S_100_4G",
+      "codename": "Smart_S_100_4G",
+      "model": "Smart_S_100_4G"
     },
     {
       "manufacturer": "",
@@ -468,6 +516,12 @@
       "market_name": "Vertex Tab 3G 7-2",
       "codename": "Vertex_Tab",
       "model": "Tab 3G 7-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wolverine12",
+      "codename": "wolverine12",
+      "model": "wolverine12"
     }
   ]
 }

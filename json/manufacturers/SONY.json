@@ -93,9 +93,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA 4K UR3",
+      "codename": "BRAVIA_UR3",
+      "model": "BRAVIA 4K UR3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA Smart Stick",
       "codename": "NSZGU1",
       "model": "NSZ-GU1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA VH1",
+      "codename": "BRAVIA_VH1",
+      "model": "BRAVIA VH1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA_VU",
+      "codename": "BRAVIA_VU1",
+      "model": "BRAVIA VU1"
     },
     {
       "manufacturer": "",
@@ -238,6 +256,12 @@
     {
       "manufacturer": "",
       "market_name": "Xperia 1",
+      "codename": "J9180",
+      "model": "J9180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1",
       "codename": "SO-03L",
       "model": "SO-03L"
     },
@@ -246,6 +270,12 @@
       "market_name": "Xperia 1",
       "codename": "SOV40",
       "model": "SOV40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 Professional Edition",
+      "codename": "J9150",
+      "model": "J9150"
     },
     {
       "manufacturer": "",
@@ -297,6 +327,60 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "901SO",
+      "model": "901SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "J8210",
+      "model": "J8210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "J8270",
+      "model": "J8270"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "J9210",
+      "model": "J9210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "SO-01M",
+      "model": "SO-01M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "SOV41",
+      "model": "SOV41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 8",
+      "codename": "902SO",
+      "model": "902SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 8",
+      "codename": "SOV42",
+      "model": "SOV42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 8",
+      "codename": "SOV42-u",
+      "model": "SOV42-u"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xperia A",
       "codename": "SO-04E",
       "model": "SO-04E"
@@ -312,6 +396,12 @@
       "market_name": "Xperia A4",
       "codename": "SO-04G",
       "model": "SO-04G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia Ace",
+      "codename": "J3173",
+      "model": "J3173"
     },
     {
       "manufacturer": "",
@@ -2097,109 +2187,109 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 C4",
+      "market_name": "Xperia™ C4",
       "codename": "E5303",
       "model": "E5303"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 C4",
+      "market_name": "Xperia™ C4",
       "codename": "E5306",
       "model": "E5306"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 C4",
+      "market_name": "Xperia™ C4",
       "codename": "E5353",
       "model": "E5353"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
+      "market_name": "Xperia™ C4 Dual",
       "codename": "E5333",
       "model": "E5333"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
+      "market_name": "Xperia™ C4 Dual",
       "codename": "E5343",
       "model": "E5343"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
+      "market_name": "Xperia™ C4 Dual",
       "codename": "E5363",
       "model": "E5363"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 E4",
+      "market_name": "Xperia™ E4",
       "codename": "E2104",
       "model": "E2104"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 E4",
+      "market_name": "Xperia™ E4",
       "codename": "E2105",
       "model": "E2105"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 E4 Dual",
+      "market_name": "Xperia™ E4 Dual",
       "codename": "E2115",
       "model": "E2115"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 E4 Dual",
+      "market_name": "Xperia™ E4 Dual",
       "codename": "E2124",
       "model": "E2124"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 E4g",
+      "market_name": "Xperia™ E4g",
       "codename": "E2003",
       "model": "E2003"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 E4g",
+      "market_name": "Xperia™ E4g",
       "codename": "E2006",
       "model": "E2006"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
+      "market_name": "Xperia™ M4 Aqua",
       "codename": "E2303",
       "model": "E2303"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
+      "market_name": "Xperia™ M4 Aqua",
       "codename": "E2306",
       "model": "E2306"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
+      "market_name": "Xperia™ M4 Aqua",
       "codename": "E2353",
       "model": "E2353"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
+      "market_name": "Xperia™ M4 Aqua Dual",
       "codename": "E2312",
       "model": "E2312"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
+      "market_name": "Xperia™ M4 Aqua Dual",
       "codename": "E2333",
       "model": "E2333"
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
+      "market_name": "Xperia™ M4 Aqua Dual",
       "codename": "E2363",
       "model": "E2363"
     }

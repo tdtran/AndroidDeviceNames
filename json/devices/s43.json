@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Altice",
+    "market_name": "ALTICE S43",
+    "codename": "S43",
+    "model": "ALTICE_S43"
+  },
+  {
+    "manufacturer": "Altice",
+    "market_name": "ALTICE S43",
+    "codename": "S43",
+    "model": "S43"
+  },
+  {
     "manufacturer": "Hurricane",
     "market_name": "S43",
     "codename": "S43",

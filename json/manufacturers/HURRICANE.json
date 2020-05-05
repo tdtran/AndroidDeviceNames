@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flame_Plus",
+      "codename": "Flame_Plus",
+      "model": "Flame_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flex",
       "codename": "Flex",
       "model": "Flex"
@@ -168,6 +174,12 @@
       "market_name": "Icon",
       "codename": "Icon",
       "model": "Icon"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Iris",
+      "codename": "Iris",
+      "model": "Iris"
     },
     {
       "manufacturer": "",
@@ -264,6 +276,12 @@
       "market_name": "Sprint",
       "codename": "Sprint",
       "model": "Sprint"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Storm",
+      "codename": "Storm",
+      "model": "Storm"
     },
     {
       "manufacturer": "",

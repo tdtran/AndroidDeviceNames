@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SonyAudio",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NW-A100",
+      "codename": "icx1293",
+      "model": "NW-A100Series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NW-ZX500",
+      "codename": "icx1295",
+      "model": "NW-ZX500Series"
+    }
+  ]
+}

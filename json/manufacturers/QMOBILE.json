@@ -87,13 +87,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Energy\\xc2\\xa0X10\\xc2\\xa04G",
+      "market_name": "Energy X10 4G",
       "codename": "Energy_X10_4G",
       "model": "QMobile Energy X10 4G"
     },
     {
       "manufacturer": "",
-      "market_name": "Energy\\xc2\\xa0X5 4G",
+      "market_name": "Energy X5 4G",
       "codename": "Energy_X5_4G",
       "model": "QMobile Energy X5 4G"
     },
@@ -114,6 +114,24 @@
       "market_name": "Fire",
       "codename": "Fire",
       "model": "Fire"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GLi 2020",
+      "codename": "GLi_2020",
+      "model": "GLi 2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GLi Lite",
+      "codename": "GLi_Lite",
+      "model": "GLi Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grande",
+      "codename": "QSmart_Grande",
+      "model": "Grande"
     },
     {
       "manufacturer": "",
@@ -366,6 +384,12 @@
       "market_name": "Qmobile S8 Plus",
       "codename": "QMobile_S8_Plus",
       "model": "S8 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rocket Pro",
+      "codename": "Rocket_Pro",
+      "model": "Rocket Pro"
     },
     {
       "manufacturer": "",
@@ -657,6 +681,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i7i 2020",
+      "codename": "i7i_2020",
+      "model": "i7i 2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i7i PRO",
       "codename": "i7i_PRO",
       "model": "QMobile i7i PRO"
@@ -681,7 +711,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "i8i_Pro_\\xe2\\x85\\xa1",
+      "market_name": "i8i_Pro_Ⅱ",
       "codename": "i8i_Pro_II",
       "model": "QMobile i8i Pro II"
     }

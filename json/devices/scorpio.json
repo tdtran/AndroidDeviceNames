@@ -36,6 +36,12 @@
     "model": "nuvi 3595"
   },
   {
+    "manufacturer": "NYX Mobile",
+    "market_name": "Scorpio",
+    "codename": "Scorpio",
+    "model": "Scorpio"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "Mi Note2",
     "codename": "scorpio",

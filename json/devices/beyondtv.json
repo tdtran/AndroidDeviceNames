@@ -4,5 +4,17 @@
     "market_name": "Beyond TV",
     "codename": "BeyondTV",
     "model": "BeyondTV"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "BeyondTV2",
+    "codename": "BeyondTV",
+    "model": "BeyondTV2"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "BeyondTV5",
+    "codename": "BeyondTV",
+    "model": "BeyondTV5"
   }
 ]

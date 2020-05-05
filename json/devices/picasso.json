@@ -16,5 +16,11 @@
     "market_name": "Picasso",
     "codename": "picasso",
     "model": "A501"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi K30 5G",
+    "codename": "picasso",
+    "model": "Redmi K30 5G"
   }
 ]

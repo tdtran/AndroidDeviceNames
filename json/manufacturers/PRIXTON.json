@@ -9,7 +9,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "T1800Q\\xef\\xbc\\xbfPlus",
+      "market_name": "T1800Q＿Plus",
       "codename": "T1800Q_Plus",
       "model": "T1800Q Plus"
     },
@@ -18,6 +18,12 @@
       "market_name": "T7014Q_Plus",
       "codename": "T7014Q_Plus",
       "model": "T7014Q_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T9120_EEA",
+      "codename": "T9120",
+      "model": "T9120"
     }
   ]
 }

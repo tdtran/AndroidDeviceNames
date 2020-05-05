@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "iTAB-A1",
+      "codename": "iTAB-A1",
+      "model": "iTAB-A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iTab_XPLUS_10_1",
       "codename": "iTab_XPLUS_10_1",
       "model": "iTab_XPLUS_10_1"

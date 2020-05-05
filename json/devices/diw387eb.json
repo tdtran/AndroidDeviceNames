@@ -4,5 +4,11 @@
     "market_name": "EBoxTv",
     "codename": "diw387eb",
     "model": "EboxTV"
+  },
+  {
+    "manufacturer": "eBox",
+    "market_name": "Ebox",
+    "codename": "diw387eb",
+    "model": "EboxTV"
   }
 ]

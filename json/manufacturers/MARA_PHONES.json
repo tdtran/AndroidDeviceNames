@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Mara Phones",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MARA Z",
+      "codename": "Mara_Z_sprout",
+      "model": "Mara Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mara X",
+      "codename": "Mara_X_sc",
+      "model": "Mara X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mara X dual",
+      "codename": "Mara_X",
+      "model": "Mara X dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mara Z d",
+      "codename": "Mara_Z_d_sprout",
+      "model": "Mara Z d"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L9S",
+    "codename": "Tokyo_Lite",
+    "model": "5107G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L9S",
+    "codename": "Tokyo_Lite",
+    "model": "5107J"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1V",
+    "codename": "Tokyo_Lite",
+    "model": "5007A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1V",
+    "codename": "Tokyo_Lite",
+    "model": "5007G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1V",
+    "codename": "Tokyo_Lite",
+    "model": "5007U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1V",
+    "codename": "Tokyo_Lite",
+    "model": "5007U_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1V",
+    "codename": "Tokyo_Lite",
+    "model": "5007U_RU"
+  }
+]

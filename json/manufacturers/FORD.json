@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Ford",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Omni 8",
+      "codename": "Omni8",
+      "model": "Omni8"
+    }
+  ]
+}

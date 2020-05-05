@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DECO ENTEL",
+      "codename": "DIW585",
+      "model": "DECO ENTEL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OWN I62S",
       "codename": "OWN-I62S",
       "model": "OWN-I62S"

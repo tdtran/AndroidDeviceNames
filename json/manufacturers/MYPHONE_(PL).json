@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer IRON 3 LTE",
+      "codename": "Hammer_IRON_3_LTE",
+      "model": "Hammer_IRON_3_LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Titan 2",
       "codename": "Hammer_Titan_2",
       "model": "Hammer Titan 2"
@@ -48,6 +54,12 @@
       "market_name": "Hammer_Energy_3G",
       "codename": "Hammer_Energy_3G",
       "model": "Hammer Energy 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer_Explorer",
+      "codename": "Hammer_Explorer",
+      "model": "Hammer_Explorer"
     },
     {
       "manufacturer": "",
@@ -108,6 +120,12 @@
       "market_name": "myPhone Fun 5",
       "codename": "FUN5_OPM",
       "model": "FUN5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone Fun 6",
+      "codename": "myPhone_Fun_6",
+      "model": "myPhone_Fun_6"
     },
     {
       "manufacturer": "",

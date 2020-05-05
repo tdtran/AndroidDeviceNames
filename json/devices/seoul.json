@@ -10,5 +10,107 @@
     "market_name": "K520",
     "codename": "seoul",
     "model": "Lenovo S680"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L7",
+    "codename": "Seoul",
+    "model": "5102I"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L7",
+    "codename": "Seoul",
+    "model": "5102M"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1A",
+    "codename": "Seoul",
+    "model": "5002F_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002D_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002D_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002D_TR"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002F"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002I"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002J"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002L"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002M"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002S"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002X"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Seoul",
+    "model": "5002X_EEA"
   }
 ]

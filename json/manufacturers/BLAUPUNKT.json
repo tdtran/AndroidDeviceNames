@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BP_6010",
+      "codename": "BP_6010",
+      "model": "BP_6010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "bangbae",
+      "model": "BLAUPUNKT 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blaupunkt SL 01",
       "codename": "Blaupunkt_SL_01",
       "model": "Blaupunkt SL 01"
@@ -60,6 +72,12 @@
       "market_name": "SLplus02",
       "codename": "SLplus02",
       "model": "SLplus02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SM 05",
+      "codename": "Blaupunkt_SM_05",
+      "model": "Blaupunkt SM 05"
     },
     {
       "manufacturer": "",

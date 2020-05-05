@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "DigiLand",
+    "market_name": "DC-7015",
+    "codename": "MID7015A-MK",
+    "model": "DC-7015"
+  },
+  {
+    "manufacturer": "DigiLand",
+    "market_name": "TPC-705Kids_EEA",
+    "codename": "MID7015A-MK",
+    "model": "TPC-705Kids"
+  },
+  {
+    "manufacturer": "PCBOX",
+    "market_name": "PCB-T732",
+    "codename": "MID7015A-MK",
+    "model": "Kova 2 Plus PCB-T732"
+  }
+]

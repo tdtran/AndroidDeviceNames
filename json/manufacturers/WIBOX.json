@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Wibox",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "WiboxTv",
+      "codename": "dtiw384wb",
+      "model": "m384wb"
+    }
+  ]
+}

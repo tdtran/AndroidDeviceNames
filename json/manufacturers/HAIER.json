@@ -51,6 +51,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "hanyang",
+      "model": "Haitech Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "hanyang",
+      "model": "haierATV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "nippori",
+      "model": "CANDY Android TV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "nippori",
+      "model": "haierATVnippori"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT7003",
       "codename": "AT7003",
       "model": "AT7003"
@@ -369,6 +393,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier Titan T5",
+      "codename": "Titan_T5",
+      "model": "Titan_T5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HaierG61",
       "codename": "HM-G701-FL",
       "model": "HM-G701-FL"
@@ -441,6 +471,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LATAM",
+      "codename": "nippori",
+      "model": "Haier 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LE32U5000A",
       "codename": "LE32U5000A",
       "model": "LE32U5000A"
@@ -486,6 +522,12 @@
       "market_name": "LE55M7000CF",
       "codename": "LE55M7000CF",
       "model": "LE55M7000CF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Latin America",
+      "codename": "hanyang",
+      "model": "Haier 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -564,6 +606,12 @@
       "market_name": "P2",
       "codename": "P2",
       "model": "P2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PA",
+      "codename": "nippori",
+      "model": "Haitech Android TV 2K"
     },
     {
       "manufacturer": "",
@@ -714,6 +762,12 @@
       "market_name": "TMK27A2",
       "codename": "TMK27A2",
       "model": "TMK27A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan T3 Pro",
+      "codename": "Titan_T3_Pro",
+      "model": "Titan_T3_Pro"
     },
     {
       "manufacturer": "",

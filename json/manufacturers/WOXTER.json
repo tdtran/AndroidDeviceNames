@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X200",
+      "codename": "X200",
+      "model": "X200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X70",
       "codename": "X70",
       "model": "X70"

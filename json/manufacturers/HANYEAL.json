@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HANYEAL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E101GC",
+      "codename": "E101GC",
+      "model": "E101GC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E108GC4G",
+      "codename": "E108GC4G",
+      "model": "E108GC4G"
+    }
+  ]
+}

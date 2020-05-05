@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Masstel_X9",
+      "codename": "Masstel_X9",
+      "model": "Masstel_X9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N535",
       "codename": "Masstel_N535",
       "model": "Masstel N535"

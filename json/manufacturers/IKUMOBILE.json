@@ -3,15 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10",
+      "codename": "A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A20",
       "codename": "A20",
       "model": "A20"
     },
     {
       "manufacturer": "",
+      "market_name": "A30",
+      "codename": "A30",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6",
+      "codename": "A6",
+      "model": "A6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I3",
       "codename": "I3",
       "model": "IKU i3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKU A4",
+      "codename": "A4",
+      "model": "IKU A4"
     },
     {
       "manufacturer": "",
@@ -48,6 +72,30 @@
       "market_name": "T1",
       "codename": "T1",
       "model": "iKU T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T4",
+      "codename": "T4",
+      "model": "T4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y2",
+      "codename": "Y2",
+      "model": "Y2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y3",
+      "codename": "Y3",
+      "model": "Y3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y5",
+      "codename": "Y5",
+      "model": "Y5"
     }
   ]
 }

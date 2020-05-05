@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DT40",
+      "codename": "DT40",
+      "model": "DT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT50",
+      "codename": "DT50",
+      "model": "DT50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8100",
+      "codename": "P8100",
+      "model": "P8100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i6200Series",
+      "codename": "i6200Series",
+      "model": "i6200Series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i6310",
       "codename": "i6310",
       "model": "i6310"

@@ -3,15 +3,117 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GLi",
+      "codename": "GLi",
+      "model": "GLi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hot 5",
+      "codename": "Hot_5",
+      "model": "Hot 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT900",
+      "codename": "QSmart_LT900",
+      "model": "LT900"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT950",
       "codename": "LT950",
       "model": "LT950"
     },
     {
       "manufacturer": "",
+      "market_name": "Mark 2",
+      "codename": "MARK_2",
+      "model": "Mark 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QSmart Canopus",
+      "codename": "Canopus",
+      "model": "QSmart_Canopus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QSmart Rocket",
+      "codename": "Rocket",
+      "model": "QSmart Rocket"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QSmart X10",
+      "codename": "X10",
+      "model": "QSmart X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QSmart X20",
+      "codename": "X20",
+      "model": "QSmart X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QSmart X40",
+      "codename": "X40",
+      "model": "QSmart X40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QSmart i4i",
+      "codename": "i4i",
+      "model": "QSmart i4i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rocket_Lite",
+      "codename": "Rocket_Lite",
+      "model": "Rocket Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart HD Pro",
+      "codename": "Smart_HD_Pro",
+      "model": "Smart HD Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "View",
       "codename": "View",
       "model": "View"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View Max",
+      "codename": "View_Max",
+      "model": "View Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i10 2019",
+      "codename": "i10_2019",
+      "model": "i10 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i10_2020",
+      "codename": "i10_2020",
+      "model": "i10 2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i5i 2019",
+      "codename": "QSmart_i5i_2019",
+      "model": "QSmart i5i 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i6i_2020",
+      "codename": "QSmart_i6i_2020",
+      "model": "i6i 2020"
     }
   ]
 }

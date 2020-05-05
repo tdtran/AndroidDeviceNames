@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iBall_Slide",
+      "codename": "Perfect_10",
+      "model": "iBall_Slide_Perfect_10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iBall_Slide_Majestic_01",
       "codename": "Slide_Majestic_01",
       "model": "iBall_Slide_Majestic_01"
@@ -132,6 +138,24 @@
       "market_name": "iBall_Slide_Spirit_V2",
       "codename": "iBall_Slide_Spirit_V2",
       "model": "iBall Slide Spirit V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iT-KSA0003",
+      "codename": "iT-KSA0003",
+      "model": "iT-KSA0003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iT-KSA0012",
+      "codename": "iT-KSA0012",
+      "model": "iT-KSA0012"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iT-KSA0066",
+      "codename": "iT-KSA0066",
+      "model": "iT-KSA0066"
     }
   ]
 }

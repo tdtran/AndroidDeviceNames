@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TT02",
+      "codename": "TT02",
+      "model": "TT02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "d-01J",
       "codename": "d-01J",
       "model": "d-01J"

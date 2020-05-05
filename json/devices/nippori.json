@@ -1,0 +1,56 @@
+[
+  {
+    "manufacturer": "Aqua",
+    "market_name": "APAC",
+    "codename": "nippori",
+    "model": "AQUA Android TV 2K"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "Australia",
+    "codename": "nippori",
+    "model": "EKO Android TV 2K"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "APAC",
+    "codename": "nippori",
+    "model": "CANDY Android TV 2K"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "APAC",
+    "codename": "nippori",
+    "model": "haierATVnippori"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "LATAM",
+    "codename": "nippori",
+    "model": "Haier 2K Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "PA",
+    "codename": "nippori",
+    "model": "Haitech Android TV 2K"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Australia",
+    "codename": "nippori",
+    "model": "Kogan SmarterTV 2K"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "EU",
+    "codename": "nippori",
+    "model": "QBELL Android TV 2K"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "Australia",
+    "codename": "nippori",
+    "model": "Svision Android TV 2K"
+  }
+]

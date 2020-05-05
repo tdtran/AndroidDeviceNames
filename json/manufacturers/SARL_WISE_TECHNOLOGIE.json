@@ -1,0 +1,23 @@
+{
+  "manufacturer": "SARL WISE TECHNOLOGIE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P1_Plus",
+      "codename": "P1_Plus",
+      "model": "P1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wise_Tab",
+      "codename": "Wise_Tab",
+      "model": "Wise_Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wise_Tech_Wifi",
+      "codename": "Wise_Tech_Wifi",
+      "model": "Wise Tech Wifi"
+    }
+  ]
+}

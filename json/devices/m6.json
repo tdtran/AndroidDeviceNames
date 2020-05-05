@@ -12,6 +12,12 @@
     "model": "MP1503"
   },
   {
+    "manufacturer": "Olla",
+    "market_name": "M6",
+    "codename": "M6",
+    "model": "M6"
+  },
+  {
     "manufacturer": "Techpad",
     "market_name": "M6",
     "codename": "M6",
@@ -25,6 +31,18 @@
   },
   {
     "manufacturer": "Xplore Technologies",
+    "market_name": "M6",
+    "codename": "M6",
+    "model": "M6"
+  },
+  {
+    "manufacturer": "ZOOMME",
+    "market_name": "M6",
+    "codename": "M6",
+    "model": "M6"
+  },
+  {
+    "manufacturer": "beafon",
     "market_name": "M6",
     "codename": "M6",
     "model": "M6"

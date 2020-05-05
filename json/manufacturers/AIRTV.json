@@ -6,6 +6,12 @@
       "market_name": "AirTV Mini",
       "codename": "kunlun",
       "model": "AirTV Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DV8535",
+      "codename": "DV8535",
+      "model": "DV8535"
     }
   ]
 }

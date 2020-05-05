@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CoolMinttBlaze",
+      "codename": "CoolMinttBlaze",
+      "model": "CoolMinttBlaze"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CoolMinttDUO3",
+      "codename": "CoolMinttDUO3",
+      "model": "CoolMinttDUO3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CoolMinttM2",
       "codename": "CoolMinttM2",
       "model": "CoolMinttM2"
@@ -30,6 +42,12 @@
       "market_name": "Coolmintt P2",
       "codename": "Coolmintt_P2",
       "model": "Coolmintt_P2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGI",
+      "codename": "DIGI",
+      "model": "DIGI"
     },
     {
       "manufacturer": "",

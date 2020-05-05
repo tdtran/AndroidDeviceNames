@@ -285,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Taiwan",
+      "codename": "laoshan",
+      "model": "U7900"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Thrive 7",
       "codename": "tostab04",
       "model": "AT1S0"
@@ -294,6 +300,12 @@
       "market_name": "Toshiba Chromebook 2 (2015 Edition)",
       "codename": "gandof_cheets",
       "model": "Toshiba Chromebook 2 (2015 Edition)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "fushan_euT",
+      "codename": "hamamatsucho",
+      "model": "Smart TV"
     },
     {
       "manufacturer": "",

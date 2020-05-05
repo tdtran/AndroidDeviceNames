@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "Engel",
+    "market_name": "LE3290ATV",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "LT-32K397",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "LEVEL TV",
+    "market_name": "32F1D",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "ODL 32760HN-TAB",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RS43F2-EU",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "Soniq",
+    "market_name": "G32HW60A",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  }
+]

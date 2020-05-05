@@ -6,6 +6,12 @@
     "model": "V5+"
   },
   {
+    "manufacturer": "QTab",
+    "market_name": "V5_Plus",
+    "codename": "V5_Plus",
+    "model": "V5_Plus"
+  },
+  {
     "manufacturer": "Venus",
     "market_name": "V5Plus",
     "codename": "V5_Plus",

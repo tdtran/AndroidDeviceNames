@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor X7",
+      "codename": "Armor_X7_Q",
+      "model": "Armor X7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor6",
       "codename": "Armor_6",
       "model": "Armor_6"
@@ -69,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_5S",
+      "codename": "Armor_5S",
+      "model": "Armor 5S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_6E",
       "codename": "Armor_6E",
       "model": "Armor_6E"
@@ -81,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_7",
+      "codename": "Armor_7",
+      "model": "Armor_7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_7E",
+      "codename": "Armor_7E",
+      "model": "Armor 7E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_X2",
       "codename": "Armor_X2",
       "model": "Armor_X2"
@@ -90,6 +114,18 @@
       "market_name": "Armor_X3",
       "codename": "Armor_X3",
       "model": "Armor_X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X5",
+      "codename": "Armor_X5",
+      "model": "Armor X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X6",
+      "codename": "Armor_X6",
+      "model": "Armor_X6"
     },
     {
       "manufacturer": "",
@@ -186,6 +222,12 @@
       "market_name": "S10_Pro",
       "codename": "S10_Pro",
       "model": "S10_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11_Pro",
+      "codename": "S11_Pro",
+      "model": "S11 Pro"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1052",
+      "codename": "A1052",
+      "model": "A1052"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A720",
       "codename": "wing-inet",
       "model": "A720"

@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Senwa_LS5018",
+      "codename": "Senwa_LS5018",
+      "model": "LS5018"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Senwa_S571",
       "codename": "Senwa_S571",
       "model": "S571"

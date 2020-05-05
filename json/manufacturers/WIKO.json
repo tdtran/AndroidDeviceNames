@@ -303,6 +303,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10 Lite",
+      "codename": "M10_Lite",
+      "model": "M10 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MACARON",
       "codename": "l8401_international",
       "model": "MACARON"
@@ -429,7 +435,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "RIDGE\\t\\t",
+      "market_name": "RIDGE\t\t",
       "codename": "s5513ap",
       "model": "RIDGE"
     },
@@ -729,6 +735,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U307AS",
+      "codename": "U307AS",
+      "model": "U307AS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIEW",
       "codename": "v12dnlite",
       "model": "View"
@@ -791,7 +803,31 @@
       "manufacturer": "",
       "market_name": "View3",
       "codename": "W-P311",
+      "model": "W-P311-CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3",
+      "codename": "W-P311",
       "model": "W-P311-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3",
+      "codename": "W-P311",
+      "model": "W-P311-JP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Lite",
+      "codename": "W-V800",
+      "model": "W-V800-CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Lite",
+      "codename": "W-V800",
+      "model": "W-V800-DU"
     },
     {
       "manufacturer": "",
@@ -834,6 +870,36 @@
       "market_name": "View3 Pro",
       "codename": "W-P611",
       "model": "W-P611-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View4",
+      "codename": "W-V830",
+      "model": "W-V830-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View4",
+      "codename": "W-V830",
+      "model": "W-V830-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View4 Lite",
+      "codename": "W-V730",
+      "model": "W-V730-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View4 Lite",
+      "codename": "W-V730",
+      "model": "W-V730-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View4 Lite",
+      "codename": "W-V730",
+      "model": "W-V730-TVM"
     },
     {
       "manufacturer": "",
@@ -953,6 +1019,12 @@
       "manufacturer": "",
       "market_name": "Y50",
       "codename": "W-K130",
+      "model": "W-K130-BYT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y50",
+      "codename": "W-K130",
       "model": "W-K130-EEA"
     },
     {
@@ -1005,6 +1077,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510S-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510S-SWI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510DG",
+      "model": "W-K510-TH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y61",
+      "codename": "W-K560",
+      "model": "W-K560-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y61",
+      "codename": "W-K560",
+      "model": "W-K560-TVM1G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y80",
+      "codename": "W-V720",
+      "model": "W-V720-CA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y80",
       "codename": "W-V720",
       "model": "W-V720-EEA"
@@ -1020,6 +1128,12 @@
       "market_name": "Y80",
       "codename": "W-V720",
       "model": "W-V720-SUN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y80",
+      "codename": "W-V720",
+      "model": "W-V720-TVM"
     },
     {
       "manufacturer": "",

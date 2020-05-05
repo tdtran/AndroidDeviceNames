@@ -18,6 +18,24 @@
       "market_name": "CORN C10",
       "codename": "CORN_C10",
       "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R20",
+      "codename": "R20",
+      "model": "CORN R20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R60",
+      "codename": "R60",
+      "model": "CORN R60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star7_3G",
+      "codename": "Star7_3G",
+      "model": "Star7 3G"
     }
   ]
 }

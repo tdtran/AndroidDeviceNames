@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Candi",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Blaze",
+      "codename": "Blaze",
+      "model": "Blaze"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cola S",
+      "codename": "Candi_M671M3",
+      "model": "M671M3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cola S 4G",
+      "codename": "Candi_M671M4",
+      "model": "M671M4"
+    }
+  ]
+}

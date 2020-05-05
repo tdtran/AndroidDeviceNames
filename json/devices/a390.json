@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Blu",
+    "market_name": "ADVANCE L5",
+    "codename": "A390",
+    "model": "Advance L5"
+  },
+  {
     "manufacturer": "Lenovo",
     "market_name": "A390",
     "codename": "A390",

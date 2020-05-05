@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TazTag",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Tazpad-FAP60",
+      "codename": "Tazpad-FAP60",
+      "model": "Tazpad-FAP60"
+    }
+  ]
+}

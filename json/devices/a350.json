@@ -6,6 +6,12 @@
     "model": "Advance L4"
   },
   {
+    "manufacturer": "DEXP",
+    "market_name": "A.350",
+    "codename": "A350",
+    "model": "A350"
+  },
+  {
     "manufacturer": "Micromax",
     "market_name": "CANVAS KNIGHT",
     "codename": "A350",

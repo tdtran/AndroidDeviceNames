@@ -1,0 +1,56 @@
+[
+  {
+    "manufacturer": "Aqua",
+    "market_name": "APAC",
+    "codename": "hanyang",
+    "model": "AQUA Android TV"
+  },
+  {
+    "manufacturer": "Bauhn",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "Tempo Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "Ayonz Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "APAC",
+    "codename": "hanyang",
+    "model": "Haitech Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "APAC",
+    "codename": "hanyang",
+    "model": "haierATV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Latin America",
+    "codename": "hanyang",
+    "model": "Haier 4K Android TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "Kogan SmarterTV"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "EU",
+    "codename": "hanyang",
+    "model": "QBELL Android TV"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "Svision Android TV"
+  }
+]

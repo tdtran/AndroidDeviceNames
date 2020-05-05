@@ -1,0 +1,41 @@
+{
+  "manufacturer": "Olla",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M5",
+      "codename": "M5",
+      "model": "M5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8",
+      "codename": "M8",
+      "model": "M8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8_PLUS",
+      "codename": "M8_PLUS",
+      "model": "M8_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note3",
+      "codename": "Note3",
+      "model": "Note3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V9",
+      "codename": "V9",
+      "model": "V9"
+    }
+  ]
+}

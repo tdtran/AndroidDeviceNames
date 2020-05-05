@@ -75,9 +75,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A11 中国版",
+      "codename": "OP4A4D",
+      "model": "PCHM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11 中国版",
+      "codename": "OP4A4D",
+      "model": "PCHT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A11f",
       "codename": "A11",
       "model": "A11f"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11n中国版",
+      "codename": "OP4A54",
+      "model": "PCHM00"
     },
     {
       "manufacturer": "",
@@ -90,6 +108,18 @@
       "market_name": "A11w",
       "codename": "A11w",
       "model": "A11w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11x 中国版",
+      "codename": "OP4A54",
+      "model": "PCHM30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11x 中国版",
+      "codename": "OP4A54",
+      "model": "PCHT30"
     },
     {
       "manufacturer": "",
@@ -297,13 +327,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "A3\\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "A3中国版",
       "codename": "PADM00",
       "model": "PADM00"
     },
     {
       "manufacturer": "",
-      "market_name": "A3\\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "A3中国版",
       "codename": "PADT00",
       "model": "PADT00"
     },
@@ -336,6 +366,24 @@
       "market_name": "A5",
       "codename": "PBBT30",
       "model": "PBBT30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5 2020",
+      "codename": "OP4B79L1",
+      "model": "CPH1931"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5 2020",
+      "codename": "OP4B79L1",
+      "model": "CPH1933"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5 2020",
+      "codename": "OP4B80L1",
+      "model": "CPH1943"
     },
     {
       "manufacturer": "",
@@ -372,6 +420,24 @@
       "market_name": "A51w",
       "codename": "A51",
       "model": "A51w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A52",
+      "codename": "OP4C77L1",
+      "model": "CPH2061"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A52",
+      "codename": "OP4C7BL1",
+      "model": "CPH2069"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A52 中国版",
+      "codename": "OP4AE7",
+      "model": "PDAM10"
     },
     {
       "manufacturer": "",
@@ -489,6 +555,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A72",
+      "codename": "OP4C72L1",
+      "model": "CPH2067"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A73",
       "codename": "A73",
       "model": "OPPO A73"
@@ -561,13 +633,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "A7x \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "A7x 中国版",
       "codename": "PBBM00",
       "model": "PBBM00"
     },
     {
       "manufacturer": "",
-      "market_name": "A7x \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "A7x 中国版",
       "codename": "PBBT00",
       "model": "PBBT00"
     },
@@ -585,15 +657,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "A9 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "A9 2020",
+      "codename": "OP4B80L1",
+      "model": "CPH1937"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A9 2020",
+      "codename": "OP4B80L1",
+      "model": "CPH1941"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A9 中国版",
       "codename": "OP46F1",
       "model": "PCAM10"
     },
     {
       "manufacturer": "",
-      "market_name": "A9 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "A9 中国版",
       "codename": "OP46F1",
       "model": "PCAT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A91",
+      "codename": "OP4ACF",
+      "model": "PCPM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A92",
+      "codename": "OP4C72L1",
+      "model": "CPH2059"
     },
     {
       "manufacturer": "",
@@ -951,9 +1047,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Find X \\xe5\\x85\\xb0\\xe5\\x8d\\x9a\\xe5\\x9f\\xba\\xe5\\xb0\\xbc",
+      "market_name": "Find X 兰博基尼",
       "codename": "PAHM00",
       "model": "PAHM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X2",
+      "codename": "OP4BA1L1",
+      "model": "CPH2023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X2 Pro",
+      "codename": "OP4BA2L1",
+      "model": "CPH2025"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X2 Pro 中国版",
+      "codename": "OP4A7A",
+      "model": "PDEM30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X2 中国版",
+      "codename": "OP4A77",
+      "model": "PDEM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X2 中国版",
+      "codename": "OP4A77",
+      "model": "PDET10"
     },
     {
       "manufacturer": "",
@@ -990,6 +1116,12 @@
       "market_name": "K3",
       "codename": "OP486B",
       "model": "CPH1955"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K5",
+      "codename": "OP4AA7",
+      "model": "PCNM00"
     },
     {
       "manufacturer": "",
@@ -1155,25 +1287,25 @@
     },
     {
       "manufacturer": "",
-      "market_name": "R15 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "R15 中国版",
       "codename": "PACM00",
       "model": "PACM00"
     },
     {
       "manufacturer": "",
-      "market_name": "R15 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "R15 中国版",
       "codename": "PACT00",
       "model": "PACT00"
     },
     {
       "manufacturer": "",
-      "market_name": "R15 \\xe6\\xa2\\xa6\\xe5\\xa2\\x83\\xe7\\x89\\x88",
+      "market_name": "R15 梦境版",
       "codename": "PAAM00",
       "model": "PAAM00"
     },
     {
       "manufacturer": "",
-      "market_name": "R15 \\xe6\\xa2\\xa6\\xe5\\xa2\\x83\\xe7\\x89\\x88",
+      "market_name": "R15 梦境版",
       "codename": "PAAT00",
       "model": "PAAT00"
     },
@@ -1834,6 +1966,12 @@
     {
       "manufacturer": "",
       "market_name": "Reno 10x Zoom",
+      "codename": "OP4845",
+      "model": "CPH1919RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno 10x Zoom",
       "codename": "OP4845L1",
       "model": "CPH1919"
     },
@@ -1845,15 +1983,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Reno 10\\xe5\\x80\\x8d\\xe5\\x8f\\x98\\xe7\\x84\\xa6\\xe7\\x89\\x88",
+      "market_name": "Reno 10倍变焦版",
       "codename": "OP46C3",
       "model": "PCCM00"
     },
     {
       "manufacturer": "",
-      "market_name": "Reno 10\\xe5\\x80\\x8d\\xe5\\x8f\\x98\\xe7\\x84\\xa6\\xe7\\x89\\x88",
+      "market_name": "Reno 10倍变焦版",
       "codename": "OP46C3",
       "model": "PCCT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno 2",
+      "codename": "OP4B83L1",
+      "model": "CPH1907"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno 2 中国版",
+      "codename": "OP4A57",
+      "model": "PCKM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno A",
+      "codename": "OP47CFL1",
+      "model": "CPH1983"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno Ace",
+      "codename": "OP4A89",
+      "model": "PCLM10"
     },
     {
       "manufacturer": "",
@@ -1869,27 +2031,87 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Reno Z \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "Reno Z 中国版",
       "codename": "OP4699",
       "model": "PCDM10"
     },
     {
       "manufacturer": "",
-      "market_name": "Reno Z \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+      "market_name": "Reno Z 中国版",
       "codename": "OP4699",
       "model": "PCDT10"
     },
     {
       "manufacturer": "",
-      "market_name": "Reno \\xe6\\xa0\\x87\\xe5\\x87\\x86\\xe7\\x89\\x88",
+      "market_name": "Reno 标准版",
       "codename": "OP46B1",
       "model": "PCAM00"
     },
     {
       "manufacturer": "",
-      "market_name": "Reno \\xe6\\xa0\\x87\\xe5\\x87\\x86\\xe7\\x89\\x88",
+      "market_name": "Reno 标准版",
       "codename": "OP46B1",
       "model": "PCAT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno2 Z",
+      "codename": "OP4B65L1",
+      "model": "CPH1945"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno2 Z",
+      "codename": "OP4B65L1",
+      "model": "CPH1951"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno2 Z 中国版",
+      "codename": "OP4A43",
+      "model": "PCKM80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3",
+      "codename": "OP4B9EL1",
+      "model": "CPH2043"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 5G 中国版",
+      "codename": "OP4ADD",
+      "model": "PDCM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 Pro",
+      "codename": "OP4C5FL1",
+      "model": "CPH2035"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 Pro",
+      "codename": "OP4C5FL1",
+      "model": "CPH2036"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 Pro",
+      "codename": "OP4C5FL1",
+      "model": "CPH2037"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 Pro 5G中国版",
+      "codename": "OP4A9D",
+      "model": "PCRM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 元气版 5G",
+      "codename": "OP4AB5",
+      "model": "PCLM50"
     },
     {
       "manufacturer": "",
@@ -2032,12 +2254,6 @@
     {
       "manufacturer": "",
       "market_name": "realme 2 Pro",
-      "codename": "RMX1801",
-      "model": "RMX1801"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "realme 2 Pro",
       "codename": "RMX1803",
       "model": "RMX1803"
     },
@@ -2068,12 +2284,6 @@
     {
       "manufacturer": "",
       "market_name": "realme 3Pro",
-      "codename": "RMX1851",
-      "model": "RMX1851"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "realme 3Pro",
       "codename": "RMX1853",
       "model": "RMX1853"
     },
@@ -2082,6 +2292,12 @@
       "market_name": "realme 3i",
       "codename": "RMX1827",
       "model": "RMX1827"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 5",
+      "codename": "RMX1911",
+      "model": "RMX1911"
     },
     {
       "manufacturer": "",
@@ -2133,7 +2349,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "realme X\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "realme X50 5G",
+      "codename": "RMX2051CN",
+      "model": "RMX2051"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X青春版",
       "codename": "RMX1851CN",
       "model": "RMX1851"
     }

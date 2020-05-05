@@ -1,0 +1,11 @@
+{
+  "manufacturer": "EcoStar",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EcostarTV",
+      "codename": "shibuya",
+      "model": "EcostarTV"
+    }
+  ]
+}

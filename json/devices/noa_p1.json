@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "NOA Mobile",
+    "market_name": "NOA_P1",
+    "codename": "NOA_P1",
+    "model": "P1"
+  },
+  {
+    "manufacturer": "NOA Mobile",
     "market_name": "P1",
     "codename": "NOA_P1",
     "model": "P1"

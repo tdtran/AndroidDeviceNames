@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KONKA",
+      "codename": "seocho",
+      "model": "KONKA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RE1",
       "codename": "RE1",
       "model": "RE1"
@@ -27,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SE2",
+      "codename": "SE2",
+      "model": "SE2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP3",
       "codename": "SP3",
       "model": "SP3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5",
+      "codename": "SP5",
+      "model": "SP5"
     },
     {
       "manufacturer": "",
@@ -48,6 +66,12 @@
       "market_name": "TP701",
       "codename": "TP701",
       "model": "TP701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "sp6",
+      "codename": "SP6",
+      "model": "SP6"
     }
   ]
 }

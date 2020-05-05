@@ -3,15 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10A_LTE_eea",
+      "codename": "10A_LTE",
+      "model": "10A_LTE_eea"
+    },
+    {
+      "manufacturer": "",
       "market_name": "10Qa_3G",
       "codename": "10Qa_3G",
       "model": "VisionBook_10Qa_3G"
     },
     {
       "manufacturer": "",
+      "market_name": "7A_Plus_eea",
+      "codename": "7A_Plus",
+      "model": "7A_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "7Qa_3G",
       "codename": "7Qa_3G",
       "model": "7Qa_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8A_Plus_eea",
+      "codename": "8A_Plus_eea",
+      "model": "8A_Plus"
     },
     {
       "manufacturer": "",
@@ -24,6 +42,12 @@
       "market_name": "U452TL",
       "codename": "U452TL",
       "model": "U452TL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMAX",
+      "codename": "seocho",
+      "model": "UMAX 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -54,6 +78,12 @@
       "market_name": "VisionBook_P55_LTE_Pro",
       "codename": "VisionBook_P55_LTE_Pro",
       "model": "VisionBook P55 LTE Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Visionbook_10Q_Pro",
+      "codename": "Visionbook_10Q_Pro",
+      "model": "Visionbook_10Q_Pro"
     }
   ]
 }

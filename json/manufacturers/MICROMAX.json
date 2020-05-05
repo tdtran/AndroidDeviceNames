@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B5 Pro",
       "codename": "B5_Pro",
       "model": "Micromax B5 Pro"
@@ -1233,6 +1239,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ione Note",
+      "codename": "N8305",
+      "model": "ione note"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAD",
       "codename": "A94",
       "model": "Micromax A94"
@@ -1290,6 +1302,12 @@
       "market_name": "Micromax Canvax 1(2018)",
       "codename": "C1A",
       "model": "Micromax C1A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Micromax Kicka 6",
+      "codename": "N4120",
+      "model": "Micromax N4120"
     },
     {
       "manufacturer": "",

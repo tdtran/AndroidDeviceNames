@@ -1599,57 +1599,57 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_1",
       "model": "ASUS_X00PD"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_1",
       "model": "ZB555KL"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_2",
       "model": "ASUS_X00PD"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
+      "codename": "ASUS_X00P_3",
+      "model": "ASUS_X00PD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_3",
       "model": "ZB555KL"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_4",
       "model": "ASUS_X00PD"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_6",
       "model": "ASUS_X00PD"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_8",
       "model": "ASUS_X00PD"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "market_name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
       "codename": "ASUS_X00P_8",
       "model": "ZB555KL"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ZenFone Max M1/M2 (ZB555KL)",
-      "codename": "ASUS_X00P_3",
-      "model": "ASUS_X00PD"
     },
     {
       "manufacturer": "",
@@ -1696,6 +1696,12 @@
     {
       "manufacturer": "",
       "market_name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
+      "codename": "ASUS_X00T_2",
+      "model": "ASUS_X00TDB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
       "codename": "ASUS_X00T_3",
       "model": "ASUS_X00TD"
     },
@@ -1722,6 +1728,12 @@
       "market_name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
       "codename": "ASUS_X00T_6",
       "model": "ZB602KL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
+      "codename": "ASUS_X00T_8",
+      "model": "ASUS_X00TD"
     },
     {
       "manufacturer": "",
@@ -2133,25 +2145,25 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac (T500KLC)",
+      "market_name": "飛馬 (T500KLC)",
       "codename": "ASUS_X003",
       "model": "ASUS_X003"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac (T500TLT)",
+      "market_name": "飛馬 (T500TLT)",
       "codename": "ASUS_X002",
       "model": "ASUS_X002"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac 5000 (T551TLC)",
+      "market_name": "飛馬 5000 (T551TLC)",
       "codename": "ASUS_X005",
       "model": "ASUS_X005"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac2 Plus (T550KLC)",
+      "market_name": "飛馬2 Plus (T550KLC)",
       "codename": "ASUS_X550",
       "model": "ASUS_X550"
     }

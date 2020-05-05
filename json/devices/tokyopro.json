@@ -1,0 +1,80 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL T9+",
+    "codename": "TokyoPro",
+    "model": "5129A"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL T9x",
+    "codename": "TokyoPro",
+    "model": "5129Y"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3",
+    "codename": "TokyoPro",
+    "model": "5029E"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "5029D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "5029D_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "5029D_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "5029D_TR"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "5029Y"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "5029Y_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "5029Y_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "Alpha 20"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "HEYOU60"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X Plus",
+    "codename": "TokyoPro",
+    "model": "5029A"
+  }
+]

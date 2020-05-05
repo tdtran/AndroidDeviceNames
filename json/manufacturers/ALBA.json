@@ -27,15 +27,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alba10Pie",
+      "codename": "Alba10Pie",
+      "model": "Alba10Pie"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alba7Nou",
       "codename": "Alba7Nou",
       "model": "Alba7Nou"
     },
     {
       "manufacturer": "",
+      "market_name": "Alba7Pie",
+      "codename": "Alba7Pie",
+      "model": "Alba7Pie"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alba8Nou",
       "codename": "Alba8Nou",
       "model": "Alba8Nou"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alba8Pie",
+      "codename": "Alba8Pie",
+      "model": "Alba8Pie"
     },
     {
       "manufacturer": "",

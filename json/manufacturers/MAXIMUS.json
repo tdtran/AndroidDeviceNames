@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G10 max",
+      "codename": "G10_max",
+      "model": "G10 max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Noir X",
       "codename": "Noir_X",
       "model": "Noir X"

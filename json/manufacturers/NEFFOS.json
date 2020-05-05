@@ -39,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neffos  A5",
+      "codename": "A5",
+      "model": "Neffos A5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neffos  C9 Max",
       "codename": "C9_Max",
       "model": "Neffos C9 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neffos  C9s",
+      "codename": "C9s",
+      "model": "Neffos C9s"
     },
     {
       "manufacturer": "",

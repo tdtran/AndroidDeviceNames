@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hangsung",
+      "codename": "seocho",
+      "model": "Hansung 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartEver",
+      "codename": "seocho",
+      "model": "SmartEver 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart_Light",
       "codename": "Smart_Light",
       "model": "Smart_Light"

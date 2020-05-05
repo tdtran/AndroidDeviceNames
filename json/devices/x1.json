@@ -6,6 +6,12 @@
     "model": "X1"
   },
   {
+    "manufacturer": "Mobicell",
+    "market_name": "X1",
+    "codename": "X1",
+    "model": "X1"
+  },
+  {
     "manufacturer": "Neffos",
     "market_name": "Neffos X1",
     "codename": "X1",
@@ -31,6 +37,12 @@
   },
   {
     "manufacturer": "Vernee",
+    "market_name": "X1",
+    "codename": "X1",
+    "model": "X1"
+  },
+  {
+    "manufacturer": "X-PREMIUM",
     "market_name": "X1",
     "codename": "X1",
     "model": "X1"

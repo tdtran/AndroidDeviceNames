@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "MyPhone (PL)",
+    "market_name": "Hammer IRON 3 LTE",
+    "codename": "Hammer_IRON_3_LTE",
+    "model": "Hammer_IRON_3_LTE"
+  },
+  {
     "manufacturer": "Myphone",
     "market_name": "Hammer Iron 3 LTE",
     "codename": "Hammer_Iron_3_LTE",

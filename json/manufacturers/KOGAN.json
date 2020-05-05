@@ -9,6 +9,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "hanyang",
+      "model": "Kogan SmarterTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "nippori",
+      "model": "Kogan SmarterTV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "shibuya",
+      "model": "KoganTVAP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kogan Agora 8 Plus",
       "codename": "Agora_8_Plus",
       "model": "Agora 8 Plus"
@@ -18,6 +42,18 @@
       "market_name": "Kogan Agora 9",
       "codename": "Kogan_Agora_9",
       "model": "Kogan Agora 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kogan Agora Go",
+      "codename": "Agora_Go",
+      "model": "Agora Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kogan Agora XI",
+      "codename": "AGORA_XI",
+      "model": "AGORA XI"
     },
     {
       "manufacturer": "",

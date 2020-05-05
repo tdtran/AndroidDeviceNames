@@ -1,0 +1,17 @@
+{
+  "manufacturer": "MITSUSHIBA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MITSUSHIBA",
+      "codename": "TP-10-0232P3G",
+      "model": "TP-10-0232P3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP-07-016",
+      "codename": "TP-07-016",
+      "model": "TP-07-016"
+    }
+  ]
+}

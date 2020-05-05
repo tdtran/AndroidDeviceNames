@@ -405,6 +405,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "La Tab 109 HD",
+      "codename": "LaTab109HD",
+      "model": "La Tab 109 HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "La Tab 113",
       "codename": "La_Tab_113",
       "model": "La_Tab_113"
@@ -480,6 +486,24 @@
       "market_name": "La_Tab_Link_101",
       "codename": "La_Tab_Link_101",
       "model": "LOGICOM La Tab Link 101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_Link_71_P",
+      "codename": "La_Tab_Link_71_P",
+      "model": "La_Tab_Link_71_P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_Stand",
+      "codename": "La_Tab_Stand",
+      "model": "La Tab Stand"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Connect",
+      "codename": "Le_Connect",
+      "model": "Le_Connect"
     },
     {
       "manufacturer": "",

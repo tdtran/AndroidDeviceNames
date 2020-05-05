@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Evertek",
+    "market_name": "Hero",
+    "codename": "Hero",
+    "model": "Hero"
+  },
+  {
     "manufacturer": "HTC",
     "market_name": "Hero",
     "codename": "hero",
@@ -28,5 +34,11 @@
     "market_name": "Hero",
     "codename": "hero",
     "model": "dopod A6288"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "HERO",
+    "codename": "HERO",
+    "model": "HERO"
   }
 ]

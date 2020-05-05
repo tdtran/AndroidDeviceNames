@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ACTION",
+      "codename": "ACTION",
+      "model": "ACTION"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CamPad P7",
       "codename": "CamPad_P7",
       "model": "CamPad_P7"

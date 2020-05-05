@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Dicle",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DTABC2",
+      "codename": "DTABC2",
+      "model": "DTABC2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DTABPLUS",
+      "codename": "DTABPLUS",
+      "model": "DTABPLUS"
+    }
+  ]
+}

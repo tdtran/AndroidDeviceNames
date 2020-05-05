@@ -6,6 +6,18 @@
       "market_name": "H-27",
       "codename": "H-27",
       "model": "H-27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H-31",
+      "codename": "h31",
+      "model": "h31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H-33",
+      "codename": "h33",
+      "model": "h33"
     }
   ]
 }

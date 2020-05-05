@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BDL1064PR001",
+      "codename": "BDL1064PR001",
+      "model": "BDL1064PR001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BDL5048",
       "codename": "BDL5048",
       "model": "BDL5048PR001"
@@ -123,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID1095PR001",
+      "codename": "MID1095PR001",
+      "model": "MID1095PR001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID1264",
       "codename": "MID1264",
       "model": "MID1264"
@@ -186,6 +198,12 @@
       "market_name": "MIDS185PR",
       "codename": "MIDS185PR",
       "model": "MIDS185PR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIDS2410PR001",
+      "codename": "MIDS2410PR001",
+      "model": "MIDS2410PR001"
     },
     {
       "manufacturer": "",
@@ -378,6 +396,12 @@
       "market_name": "Phantom 5",
       "codename": "Phantom5",
       "model": "PRO5023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polaroid",
+      "codename": "bangbae",
+      "model": "Polaroid 4K Android TV"
     },
     {
       "manufacturer": "",

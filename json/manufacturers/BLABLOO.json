@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Blabloo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Space1Blue",
+      "codename": "Space1Blue",
+      "model": "Space1Blue"
+    }
+  ]
+}

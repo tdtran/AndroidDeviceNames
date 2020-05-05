@@ -6,6 +6,24 @@
       "market_name": "Atom",
       "codename": "Atom",
       "model": "Atom"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Atom_L",
+      "codename": "Atom_L",
+      "model": "Atom_L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Atom_XL",
+      "codename": "Atom_XL",
+      "model": "Atom_XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan",
+      "codename": "Titan",
+      "model": "Titan"
     }
   ]
 }

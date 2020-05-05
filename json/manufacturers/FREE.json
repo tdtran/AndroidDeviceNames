@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Free",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Liberty",
+      "codename": "Liberty",
+      "model": "Liberty"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "PadBook",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PadBook",
+      "codename": "PadBook",
+      "model": "PadBook"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TASKPHONE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T20",
+      "codename": "T20P",
+      "model": "T20"
+    }
+  ]
+}

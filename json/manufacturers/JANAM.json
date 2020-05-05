@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HT1",
+      "codename": "HT1",
+      "model": "HT1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XG200",
       "codename": "XG200",
       "model": "XG200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XG4",
+      "codename": "XG4",
+      "model": "XG4"
     },
     {
       "manufacturer": "",
@@ -30,6 +42,18 @@
       "market_name": "XT200",
       "codename": "XT200",
       "model": "XT200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XT3",
+      "codename": "XT3",
+      "model": "XT3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XT30",
+      "codename": "XT30",
+      "model": "XT30"
     },
     {
       "manufacturer": "",

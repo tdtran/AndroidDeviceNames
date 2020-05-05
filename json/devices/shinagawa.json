@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "AllView",
+    "market_name": "Allview 2K TV",
+    "codename": "shinagawa",
+    "model": "Allview 2K TV"
+  },
+  {
+    "manufacturer": "Artel",
+    "market_name": "Artel 2K TV",
+    "codename": "shinagawa",
+    "model": "Artel 2K TV"
+  },
+  {
+    "manufacturer": "Iris",
+    "market_name": "Iris 2K TV",
+    "codename": "shinagawa",
+    "model": "Iris 2K TV"
+  },
+  {
+    "manufacturer": "Skyworth",
+    "market_name": "METZ 2K TV",
+    "codename": "shinagawa",
+    "model": "METZ 2K TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "Tesla 2K TV",
+    "codename": "shinagawa",
+    "model": "Tesla 2K TV"
+  }
+]

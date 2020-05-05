@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T20",
+      "codename": "T20",
+      "model": "T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7",
+      "codename": "T7",
+      "model": "T7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VEIDOO_T8",
       "codename": "VEIDOO_T8",
       "model": "T8"

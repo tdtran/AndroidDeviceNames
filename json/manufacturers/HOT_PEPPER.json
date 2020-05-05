@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Ghost",
+      "codename": "HPP-GS1",
+      "model": "HPP-GS1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H5",
       "codename": "H5",
       "model": "H5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Serrano",
+      "codename": "HPP-L55",
+      "model": "HPP-L55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Serrano",
+      "codename": "HPP-L55B",
+      "model": "HPP-L55B"
     },
     {
       "manufacturer": "",

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F10_PRIME",
+      "codename": "F10_PRIME",
+      "model": "F10_PRIME"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F3Prime",
       "codename": "F3Prime",
       "model": "F3Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F4",
+      "codename": "F4",
+      "model": "F4"
     },
     {
       "manufacturer": "",
@@ -15,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F9_PLUS",
+      "codename": "F9_PLUS",
+      "model": "F9_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEAM_7_3G",
       "codename": "TEAM_7_3G",
       "model": "TEAM_7_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Team73G",
+      "codename": "Team73G",
+      "model": "Team73G"
     },
     {
       "manufacturer": "",

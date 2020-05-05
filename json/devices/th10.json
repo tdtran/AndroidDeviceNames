@@ -1,19 +1,25 @@
 [
   {
+    "manufacturer": "Adreamer (Shenzhen)",
+    "market_name": "TH10",
+    "codename": "TH10",
+    "model": "TH10"
+  },
+  {
     "manufacturer": "LGE",
-    "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+    "market_name": "G PADⅢ 10.1",
     "codename": "th10",
     "model": "LG-X760"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+    "market_name": "G PADⅢ 10.1",
     "codename": "th10",
     "model": "LG-X760E"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+    "market_name": "G PADⅢ 10.1",
     "codename": "th10",
     "model": "LG-X760W"
   }

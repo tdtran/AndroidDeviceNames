@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G50",
+      "codename": "G50",
+      "model": "G50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G55_LITE",
       "codename": "G55_LITE",
       "model": "G55 LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUNA G50",
+      "codename": "LUNA_G50",
+      "model": "LUNA G50"
     },
     {
       "manufacturer": "",

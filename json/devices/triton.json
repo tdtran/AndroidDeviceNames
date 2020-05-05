@@ -4,5 +4,11 @@
     "market_name": "SUMMIT",
     "codename": "triton",
     "model": "SUMMIT"
+  },
+  {
+    "manufacturer": "Webfleet Solutions",
+    "market_name": "PRO 8475",
+    "codename": "triton",
+    "model": "PRO 8475"
   }
 ]

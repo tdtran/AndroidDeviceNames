@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Kaicom",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H702",
+      "codename": "H702",
+      "model": "H702"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K901",
+      "codename": "K901",
+      "model": "K901"
+    }
+  ]
+}

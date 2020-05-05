@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Westgate",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Westgate_T801",
+      "codename": "Westgate-T801",
+      "model": "T801"
+    }
+  ]
+}

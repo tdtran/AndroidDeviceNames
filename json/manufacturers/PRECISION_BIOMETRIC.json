@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Precision Biometric",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PBTAB100-1G3",
+      "codename": "PBTAB100-1G3",
+      "model": "PBTAB100-1G3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBTAB100-2G4",
+      "codename": "PBTAB100-2G4",
+      "model": "PBTAB100-2G4"
+    }
+  ]
+}

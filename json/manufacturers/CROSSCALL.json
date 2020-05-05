@@ -33,9 +33,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CORE-M4",
+      "codename": "CORE-M4",
+      "model": "CORE-M4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CORE-M4 GO",
+      "codename": "CORE-M4-GO",
+      "model": "CORE-M4 GO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Core- X3",
       "codename": "HS8917QC",
       "model": "Core-X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-T4",
+      "codename": "L810",
+      "model": "Core-T4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-X4",
+      "codename": "L762",
+      "model": "Core-X4"
     },
     {
       "manufacturer": "",

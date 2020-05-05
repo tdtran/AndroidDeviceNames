@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TIQ-10",
+      "codename": "TIQ-10",
+      "model": "TIQ-10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIQ-102",
       "codename": "TIQ102",
       "model": "TIQ-102"

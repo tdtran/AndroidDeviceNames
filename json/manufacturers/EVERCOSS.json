@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M55",
+      "codename": "M55",
+      "model": "M55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M55A",
       "codename": "M55A",
       "model": "M55A"
@@ -90,6 +96,12 @@
       "market_name": "M70",
       "codename": "M70",
       "model": "M70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M80",
+      "codename": "EVERCOSS_M80",
+      "model": "M80"
     },
     {
       "manufacturer": "",
@@ -243,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U6A",
+      "codename": "U6A_PLUS",
+      "model": "U6A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U6B",
       "codename": "U6B",
       "model": "U6B"
@@ -267,9 +285,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U70B",
+      "codename": "U70B",
+      "model": "U70B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U70C",
       "codename": "U70C",
       "model": "U70C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "X7",
+      "model": "X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7A",
+      "codename": "X7A",
+      "model": "X7A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8",
+      "codename": "X8",
+      "model": "X8"
     }
   ]
 }

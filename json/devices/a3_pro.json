@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Elephone",
+    "market_name": "A3_Pro",
+    "codename": "A3_Pro",
+    "model": "A3_Pro"
+  },
+  {
     "manufacturer": "Umidigi",
     "market_name": "A3_Pro",
     "codename": "A3_Pro",

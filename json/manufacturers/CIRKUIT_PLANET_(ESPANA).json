@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CIRKUIT PLANET (ESPANA)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SMARTLIFE",
+      "codename": "SL-TAB07116",
+      "model": "SL-TAB07116"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMARTLIFE",
+      "codename": "SL-TAB10232",
+      "model": "SL-TAB10232"
+    }
+  ]
+}

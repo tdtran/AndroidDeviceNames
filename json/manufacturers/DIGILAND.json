@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DC-7015",
+      "codename": "MID7015A-MK",
+      "model": "DC-7015"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DL1001",
       "codename": "DL1001",
       "model": "DL1001"
@@ -78,6 +84,12 @@
       "market_name": "DL1026",
       "codename": "DL1026",
       "model": "DL1026"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL1031",
+      "codename": "mid1031",
+      "model": "mid1031_mp_64"
     },
     {
       "manufacturer": "",
@@ -204,6 +216,18 @@
       "market_name": "TP1_N",
       "codename": "TP1_N",
       "model": "TP1_N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPC-705Kids_EEA",
+      "codename": "MID7015A-MK",
+      "model": "TPC-705Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ismart",
+      "codename": "MID1016-MK",
+      "model": "MID1016-MK"
     }
   ]
 }

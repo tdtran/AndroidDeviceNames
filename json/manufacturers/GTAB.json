@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C3",
+      "codename": "C3",
+      "model": "C3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G4",
       "codename": "G4",
       "model": "G4"
@@ -15,9 +21,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G9",
+      "codename": "G9",
+      "model": "G9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P2000",
+      "codename": "P2000",
+      "model": "P2000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P7000",
+      "codename": "P7000",
+      "model": "P7000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P733",
+      "codename": "P733",
+      "model": "P733"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q2",
+      "codename": "Q2",
+      "model": "Q2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q4",
+      "codename": "Q4",
+      "model": "Q4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q69",
       "codename": "Q69",
       "model": "Q69"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10",
+      "codename": "S10",
+      "model": "S10"
     }
   ]
 }

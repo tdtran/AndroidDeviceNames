@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P19",
+      "codename": "P19",
+      "model": "P19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P6",
+      "codename": "P6",
+      "model": "P6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "THOR",
       "codename": "THOR",
       "model": "THOR"

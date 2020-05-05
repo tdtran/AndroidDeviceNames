@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Kinstone",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SA070",
+      "codename": "Kinstone_SA070",
+      "model": "SA070"
+    }
+  ]
+}

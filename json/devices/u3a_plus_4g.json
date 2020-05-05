@@ -51,6 +51,18 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1",
     "codename": "U3A_PLUS_4G",
+    "model": "5033G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
+    "model": "5033G_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
     "model": "5033J"
   },
   {
@@ -111,6 +123,18 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1",
     "codename": "U3A_PLUS_4G",
+    "model": "HEYOU10"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
     "model": "Optus X Start"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
+    "model": "Orange Rise 54_Alcatel_5033D"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 6",
+    "codename": "cereus",
+    "model": "Redmi 6"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "Redmi 6",
     "codename": "cereus",

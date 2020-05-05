@@ -22,5 +22,11 @@
     "market_name": "TSUTAYA Stick",
     "codename": "ts201",
     "model": "TStick"
+  },
+  {
+    "manufacturer": "Life Stick",
+    "market_name": "LifeStick",
+    "codename": "ts201",
+    "model": "LifeStick"
   }
 ]

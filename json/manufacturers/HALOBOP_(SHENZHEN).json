@@ -1,0 +1,11 @@
+{
+  "manufacturer": "HaloBop (ShenZhen)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BG001",
+      "codename": "HelloGenius",
+      "model": "BG001"
+    }
+  ]
+}

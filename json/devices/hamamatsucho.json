@@ -1,8 +1,38 @@
 [
   {
+    "manufacturer": "G-Guard",
+    "market_name": "fushan_Guard",
+    "codename": "hamamatsucho",
+    "model": "Smart TV"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "EM",
+    "codename": "hamamatsucho",
+    "model": "HiSmart 2K ATV4"
+  },
+  {
     "manufacturer": "Hisense",
     "market_name": "fushan_em",
     "codename": "hamamatsucho",
     "model": "HiSmart 2K ATV4"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "fushan_emeu",
+    "codename": "hamamatsucho",
+    "model": "HiSmart 2K ATV4"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "fushan_euT",
+    "codename": "hamamatsucho",
+    "model": "Smart TV"
+  },
+  {
+    "manufacturer": "Vu Televisions",
+    "market_name": "India",
+    "codename": "hamamatsucho",
+    "model": "Smart 2K ATV4"
   }
 ]

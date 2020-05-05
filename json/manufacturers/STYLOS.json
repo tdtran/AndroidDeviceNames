@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "STTCE37",
+      "codename": "STTCE37",
+      "model": "STTCE37"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TARISTAB2",
       "codename": "TARISTAB2",
       "model": "TARISTAB2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TARISTAB3",
+      "codename": "TARISTAB3",
+      "model": "TARISTAB3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TARISTAB4",
+      "codename": "TARISTAB4",
+      "model": "TARISTAB4"
     },
     {
       "manufacturer": "",

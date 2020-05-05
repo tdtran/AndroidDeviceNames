@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Syinix",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Africa \u0026 Asia Pacific",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Africa \u0026 Asia Pacific",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

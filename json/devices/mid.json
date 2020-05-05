@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Mpgio",
+    "market_name": "ATHENA_X",
+    "codename": "MID",
+    "model": "MID"
+  },
+  {
     "manufacturer": "X-TIGI",
     "market_name": "JOY10_LTE",
     "codename": "MID",

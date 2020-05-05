@@ -15,6 +15,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Black Shark 2 Pro",
+      "codename": "darklighter",
+      "model": "DLT-H0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KLE-A0",
+      "codename": "klein",
+      "model": "SHARK KLE-A0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KLE-H0",
+      "codename": "klein",
+      "model": "SHARK KLE-H0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MBU-A0",
+      "codename": "mobius",
+      "model": "SHARK MBU-A0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Shark",
       "codename": "shark",
       "model": "SKR-H0"
@@ -27,7 +51,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xbb\\x91\\xe9\\xb2\\xa8\\xe6\\xb8\\xb8\\xe6\\x88\\x8f\\xe6\\x89\\x8b\\xe6\\x9c\\xba 2 Pro",
+      "market_name": "黑鲨游戏手机 2 Pro",
       "codename": "darklighter",
       "model": "DLT-A0"
     }

@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EV-A-101-3",
+      "codename": "EV-A-101-3",
+      "model": "EV-A-101-3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EV-A-116-1",
+      "codename": "EV-A-116-1",
+      "model": "EV-A-116-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EV-A-133-1",
+      "codename": "EV-A-133-1",
+      "model": "EV-A-133-1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EV-A-156-1",
       "codename": "EV-A-156-1",
       "model": "EV-A-156-1"

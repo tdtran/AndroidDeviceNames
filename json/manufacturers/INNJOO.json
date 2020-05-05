@@ -108,6 +108,12 @@
       "market_name": "VISION LTE",
       "codename": "VISION_LTE",
       "model": "VISION LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOOM_TAB_LTE",
+      "codename": "VOOM_TAB_LTE",
+      "model": "VOOM_TAB_LTE"
     }
   ]
 }

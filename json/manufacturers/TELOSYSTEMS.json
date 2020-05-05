@@ -1,0 +1,29 @@
+{
+  "manufacturer": "TeloSystems",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TE580P",
+      "codename": "TE580P",
+      "model": "TE580P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE580PS",
+      "codename": "TE580PS",
+      "model": "TE580PS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TELO_TE610",
+      "codename": "TELO_TE610",
+      "model": "TELO_TE610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TELO_TE610_O",
+      "codename": "TELO_TE610_O",
+      "model": "TELO_TE610_O"
+    }
+  ]
+}

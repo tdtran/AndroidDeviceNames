@@ -1,0 +1,23 @@
+{
+  "manufacturer": "OK (Mediamark)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Italy",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ODL 32760HN-TAB",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OK",
+      "codename": "bangbae",
+      "model": "OK 4K Android TV"
+    }
+  ]
+}

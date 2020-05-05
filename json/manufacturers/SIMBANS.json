@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Excello",
+      "codename": "ExcelloTab",
+      "model": "ExcelloTab"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PicassoTab",
       "codename": "PicassoTab",
       "model": "PicassoTab"
@@ -15,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PicassoTab_9",
+      "codename": "PicassoTab_9",
+      "model": "PicassoTab_9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TANGO",
+      "codename": "TangoTab_9",
+      "model": "TangoTab_9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TangoTab",
       "codename": "TangoTab",
       "model": "TangoTab"
@@ -24,6 +42,12 @@
       "market_name": "TangoTab8",
       "codename": "TangoTab8",
       "model": "TangoTab8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TangoTab_364",
+      "codename": "TangoTab_364",
+      "model": "TangoTab_364"
     }
   ]
 }

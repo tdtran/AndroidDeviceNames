@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K406",
+      "codename": "K406",
+      "model": "K406"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K500",
       "codename": "K500",
       "model": "K500"
@@ -36,6 +42,12 @@
       "market_name": "K502",
       "codename": "K502",
       "model": "K502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K503T",
+      "codename": "K503T",
+      "model": "K503T"
     },
     {
       "manufacturer": "",
@@ -75,9 +87,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K545",
+      "codename": "K545",
+      "model": "K545"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K546",
+      "codename": "K546",
+      "model": "K546"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K573",
       "codename": "K573",
       "model": "K573"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K600",
+      "codename": "K600",
+      "model": "K600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K601",
+      "codename": "K601",
+      "model": "K601"
     },
     {
       "manufacturer": "",
@@ -90,6 +126,12 @@
       "market_name": "T700",
       "codename": "T700",
       "model": "T700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TX800",
+      "codename": "TX800",
+      "model": "TX800"
     },
     {
       "manufacturer": "",
@@ -126,6 +168,18 @@
       "market_name": "X572",
       "codename": "X572",
       "model": "X572"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X610",
+      "codename": "X610",
+      "model": "X610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "k503",
+      "codename": "K503",
+      "model": "K503"
     }
   ]
 }

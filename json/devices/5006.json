@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "TCT (Alcatel)",
-    "market_name": "5006",
+    "market_name": "Alcatel 3C",
+    "codename": "5006",
+    "model": "5006A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3C",
     "codename": "5006",
     "model": "5006G"
   }

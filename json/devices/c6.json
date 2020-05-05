@@ -10,5 +10,11 @@
     "market_name": "",
     "codename": "C6",
     "model": "Acer E320-orange"
+  },
+  {
+    "manufacturer": "CILICO",
+    "market_name": "C6",
+    "codename": "C6",
+    "model": "C6"
   }
 ]

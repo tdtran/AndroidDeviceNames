@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cola",
+      "codename": "M671M3",
+      "model": "M671M3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cola 4G",
+      "codename": "M671M4",
+      "model": "M671M4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RUIO S5506",
+      "codename": "S5506",
+      "model": "S5506"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RUIO i7c Tablet",
       "codename": "i7c",
       "model": "i7c"

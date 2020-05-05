@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BeyondTV2",
+      "codename": "BeyondTV",
+      "model": "BeyondTV2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BeyondTV5",
+      "codename": "BeyondTV",
+      "model": "BeyondTV5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C9",
       "codename": "A3A_XL_4G",
       "model": "5199I"
@@ -99,6 +111,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 10 Pro",
+      "codename": "T1_PRO",
+      "model": "T799B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 Pro",
+      "codename": "T1_PRO",
+      "model": "T799H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10L",
+      "codename": "T1_LITE",
+      "model": "T770B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10L",
+      "codename": "T1_LITE",
+      "model": "T770H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL C5",
       "codename": "A3A",
       "model": "5152D"
@@ -123,12 +159,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TCL C9",
-      "codename": "Venice",
-      "model": "5148A"
-    },
-    {
-      "manufacturer": "",
       "market_name": "TCL C9 Plus",
       "codename": "Venice",
       "model": "5148I"
@@ -141,9 +171,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Jakarta",
+      "model": "5130J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Tokyo",
+      "model": "5128A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Tokyo",
+      "model": "5128Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL L5",
       "codename": "U3A_PLUS_4G",
       "model": "5133A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L7",
+      "codename": "Seoul",
+      "model": "5102I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L7",
+      "codename": "Seoul",
+      "model": "5102M"
     },
     {
       "manufacturer": "",
@@ -165,15 +225,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL L9 Plus",
+      "codename": "Wright",
+      "model": "5101J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L9S",
+      "codename": "Tokyo_Lite",
+      "model": "5107G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L9S",
+      "codename": "Tokyo_Lite",
+      "model": "5107J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL PLEX",
       "codename": "T1",
       "model": "T780H"
     },
     {
       "manufacturer": "",
+      "market_name": "TCL PLEX",
+      "codename": "T1_L1",
+      "model": "T780H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL T Pro",
+      "codename": "Milan",
+      "model": "5161A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL T7",
       "codename": "A5A_INFINI",
       "model": "5186A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL T9",
+      "codename": "Venice",
+      "model": "5148A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL T9+",
+      "codename": "TokyoPro",
+      "model": "5129A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL T9x",
+      "codename": "TokyoPro",
+      "model": "5129Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TKEE MINI",
+      "codename": "Hulk_7_KIDS_WIFI",
+      "model": "8093"
     },
     {
       "manufacturer": "",

@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A5",
+      "codename": "HLTE202N",
+      "model": "HLTE202N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AGM  X2",
       "codename": "HS8976QC",
       "model": "AGM X2"
@@ -777,6 +783,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EM",
+      "codename": "hamamatsucho",
+      "model": "HiSmart 2K ATV4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EM",
+      "codename": "laoshan",
+      "model": "HAT4KDTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F10",
       "codename": "HS6737MT",
       "model": "BM001"
@@ -975,6 +993,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H5500F",
+      "codename": "harajuku",
+      "model": "HiSmart 2K ATV4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H800T",
       "codename": "H800T",
       "model": "HS-H800T"
@@ -996,6 +1020,12 @@
       "market_name": "H910-F01",
       "codename": "HS8939QC",
       "model": "Hisense H910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HITV101C",
+      "codename": "HITV101C",
+      "model": "HITV101C"
     },
     {
       "manufacturer": "",
@@ -1044,6 +1074,12 @@
       "market_name": "HLTE213T",
       "codename": "HSSDM439QC",
       "model": "HLTE213T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE230E",
+      "codename": "SC9863A",
+      "model": "Hisense Infinity H40 Lite"
     },
     {
       "manufacturer": "",
@@ -1605,6 +1641,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense E MAX",
+      "codename": "SC9863A_RU",
+      "model": "Hisense E MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E40",
+      "codename": "HLTE229E",
+      "model": "HLTE229E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense E76MINIM",
       "codename": "HS8937QC",
       "model": "Hisense E76MINIM"
@@ -1683,6 +1731,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense H40",
+      "codename": "HLTE321E",
+      "model": "Hisense H40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense H40",
+      "codename": "HLTE321E",
+      "model": "Hisense Infinity H40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense H40 Lite",
+      "codename": "SC9863A",
+      "model": "HLTE230E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense H40 Lite",
+      "codename": "SC9863A",
+      "model": "Hisense H40 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense Infinity E30 Lite",
+      "codename": "SC9832E",
+      "model": "Hisense Infinity E30 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense Infinity H12 Pro",
       "codename": "HSSDM636QC",
       "model": "Hisense Infinity H12 Pro"
@@ -1725,6 +1803,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense U40",
+      "codename": "SC9832E",
+      "model": "Hisense U40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U963",
+      "codename": "SC9832E",
+      "model": "HLTE100E_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U963",
+      "codename": "SC9832E",
+      "model": "Hisense U963"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U963",
+      "codename": "SC9832E",
+      "model": "Hisense V40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HS7731ESP",
+      "model": "Hisense U40 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense U964",
       "codename": "HS7731ESP",
       "model": "Hisense U964"
@@ -1740,6 +1848,12 @@
       "market_name": "Hisense U965",
       "codename": "HS6580MT",
       "model": "Hisense U965"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hong kong",
+      "codename": "laoshan",
+      "model": "HKU7A"
     },
     {
       "manufacturer": "",
@@ -2715,6 +2829,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mexico",
+      "codename": "HLTE226E",
+      "model": "Hisense Infinity H40 Rock"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mexico",
+      "codename": "HLTE226E",
+      "model": "Hisense Rocks 6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Oysters Pacific 800",
       "codename": "x4701ae",
       "model": "Oysters Pacific 800"
@@ -3075,6 +3201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "US",
+      "codename": "xinhaoshan",
+      "model": "HiSmart 4K ATV4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VH777",
       "codename": "VH777",
       "model": "VH777"
@@ -3083,6 +3215,12 @@
       "manufacturer": "",
       "market_name": "VIDAA_TV",
       "codename": "Hi3751",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "Hi3751v351",
       "model": "VIDAA_TV"
     },
     {
@@ -3136,7 +3274,25 @@
     {
       "manufacturer": "",
       "market_name": "VIDAA_TV",
+      "codename": "MTK9632",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "MTK9652",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
       "codename": "NOVA72673",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "NOVA72685",
       "model": "VIDAA_TV"
     },
     {
@@ -3237,13 +3393,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "fushan",
-      "codename": "harajuku",
+      "market_name": "fushan_em",
+      "codename": "hamamatsucho",
       "model": "HiSmart 2K ATV4"
     },
     {
       "manufacturer": "",
-      "market_name": "fushan_em",
+      "market_name": "fushan_emeu",
       "codename": "hamamatsucho",
       "model": "HiSmart 2K ATV4"
     },
@@ -3279,6 +3435,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "laoshan",
+      "codename": "xiaoyushan",
+      "model": "HAT4KDTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "laoshan",
+      "codename": "xiaoyushan",
+      "model": "HiSmartTV A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "laoshan_emH",
+      "codename": "laoshan",
+      "model": "HAT4KDTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "laoshan_laser",
+      "codename": "laoshan",
+      "model": "HAT4KDTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "lt971",
       "codename": "LT971",
       "model": "LT971"
@@ -3294,6 +3474,12 @@
       "market_name": "vision2_1",
       "codename": "vision2_1",
       "model": "vision2_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xiaoyushan-em",
+      "codename": "xiaoyushan",
+      "model": "HiSmartTV A4"
     }
   ]
 }

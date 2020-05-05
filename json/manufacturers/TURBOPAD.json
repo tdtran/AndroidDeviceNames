@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Turbopad1015NEW",
+      "codename": "Turbopad1015NEW",
+      "model": "Turbopad1015NEW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Turbopad1016",
       "codename": "Turbopad1016",
       "model": "Turbopad1016"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turbopad1016NEW",
+      "codename": "Turbopad1016NEW",
+      "model": "Turbopad1016NEW"
     }
   ]
 }

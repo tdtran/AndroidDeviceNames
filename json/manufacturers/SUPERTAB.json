@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A7A",
+      "codename": "A7A",
+      "model": "A7A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K7_KIDS",
       "codename": "K7_KIDS",
       "model": "K7 Kids"

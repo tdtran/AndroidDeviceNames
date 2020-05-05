@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M1035S",
+      "codename": "M1035S",
+      "model": "M1035S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M1035SE",
+      "codename": "M1035SE_EEA",
+      "model": "M1035SE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7133",
       "codename": "M7133",
       "model": "M7133"

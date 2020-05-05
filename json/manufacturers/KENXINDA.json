@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "A1",
+      "model": "A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A8",
+      "codename": "A8",
+      "model": "A8M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A9",
+      "codename": "A9",
+      "model": "A9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D58",
+      "codename": "D58",
+      "model": "D58"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K10",
       "codename": "K10",
       "model": "K10"
@@ -57,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "W41",
+      "codename": "W41",
+      "model": "W41"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W45S",
       "codename": "W45S",
       "model": "W45S"
@@ -78,6 +108,12 @@
       "market_name": "W55M",
       "codename": "W55M",
       "model": "W55M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W55Y",
+      "codename": "W55Y",
+      "model": "W55Y"
     },
     {
       "manufacturer": "",

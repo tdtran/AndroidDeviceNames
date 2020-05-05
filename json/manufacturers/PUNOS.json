@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Punos",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Punos_10",
+      "codename": "Punos_10",
+      "model": "Punos 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Punos_7",
+      "codename": "Punos_7",
+      "model": "Punos 7"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "manufacturer": "benco",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "benco Y30",
+      "codename": "AF9030",
+      "model": "AF9030"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco Y41",
+      "codename": "AH9910",
+      "model": "AH9910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco Y41",
+      "codename": "AN9910",
+      "model": "AN9910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco Y50",
+      "codename": "AF9010",
+      "model": "AF9010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco Y50",
+      "codename": "AF9010_F",
+      "model": "AF9010_F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco Y50",
+      "codename": "AF9020",
+      "model": "AF9020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "v6",
+      "codename": "LH9921",
+      "model": "LH9921"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "v7",
+      "codename": "LE9920_P",
+      "model": "LE9920_P"
+    }
+  ]
+}

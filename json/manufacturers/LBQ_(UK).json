@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LBQ (UK)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LbQ-F10v2",
+      "codename": "LbQ-F10v2",
+      "model": "K102L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LbQ_F8v2",
+      "codename": "LbQ_F8v2",
+      "model": "LbQ-F8v2"
+    }
+  ]
+}

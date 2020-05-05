@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cobalt",
+      "codename": "Cobalt",
+      "model": "Cobalt"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FIT",
       "codename": "FIT",
       "model": "FIT"
@@ -69,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L604",
+      "codename": "L604",
+      "model": "L604"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NICKEL",
+      "codename": "NICKEL",
+      "model": "NICKEL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOBA",
       "codename": "NOBA",
       "model": "NOBA"
@@ -96,6 +114,24 @@
       "market_name": "SHADE",
       "codename": "NYX_SHADE",
       "model": "NYX_SHADE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SILVERGT",
+      "codename": "SILVERGT",
+      "model": "SILVER"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SILVERMX",
+      "codename": "SILVERMX",
+      "model": "SILVER"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Scorpio",
+      "codename": "Scorpio",
+      "model": "Scorpio"
     },
     {
       "manufacturer": "",

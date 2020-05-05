@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Eternity_G57",
+      "codename": "HT2G57K",
+      "model": "Hyundai_Eternity_G57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Koral 7W4",
       "codename": "HT0704W08",
       "model": "HT0704W08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_10W3",
+      "codename": "Koral_10W3",
+      "model": "HT1003W16"
     },
     {
       "manufacturer": "",

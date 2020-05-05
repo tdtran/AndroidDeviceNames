@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10600",
+      "codename": "M10600",
+      "model": "M10600"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M11550",
       "codename": "M11550",
       "model": "M11550"

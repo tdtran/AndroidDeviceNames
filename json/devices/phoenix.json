@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi K30",
+    "codename": "phoenix",
+    "model": "Redmi K30"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "SM-G6200",
     "codename": "Phoenix",

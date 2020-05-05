@@ -21,6 +21,18 @@
     "manufacturer": "Wiko",
     "market_name": "View3",
     "codename": "W-P311",
+    "model": "W-P311-CA"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "View3",
+    "codename": "W-P311",
     "model": "W-P311-EEA"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "View3",
+    "codename": "W-P311",
+    "model": "W-P311-JP"
   }
 ]

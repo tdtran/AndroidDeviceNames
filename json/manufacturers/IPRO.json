@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Amber5S",
+      "codename": "Amber5S",
+      "model": "Amber5S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amber5S_Pro",
+      "codename": "Amber5S_Pro",
+      "model": "Amber5S_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Amber6",
       "codename": "Amber6",
       "model": "Amber6"
@@ -12,6 +24,12 @@
       "market_name": "Amber7S",
       "codename": "Amber7S",
       "model": "Amber7S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Benny",
+      "codename": "Benny",
+      "model": "Benny"
     },
     {
       "manufacturer": "",

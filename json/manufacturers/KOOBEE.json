@@ -42,6 +42,12 @@
       "market_name": "koobee_K10",
       "codename": "koobee_K10",
       "model": "K10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "koobee_S12",
+      "codename": "koobee_S12",
+      "model": "S12"
     }
   ]
 }

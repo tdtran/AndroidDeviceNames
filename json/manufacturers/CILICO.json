@@ -1,0 +1,23 @@
+{
+  "manufacturer": "CILICO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "C6",
+      "codename": "C6",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F750",
+      "codename": "F750",
+      "model": "F750"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F880",
+      "codename": "F880",
+      "model": "F880"
+    }
+  ]
+}

@@ -30,6 +30,24 @@
       "market_name": "MID-790IPS",
       "codename": "MID-790IPS",
       "model": "MID-790IPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_1087V9",
+      "codename": "MID_1087V9",
+      "model": "MID_1087V9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_1090IPSV9",
+      "codename": "MID_1090IPSV9",
+      "model": "MID_1090IPSV9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_787V9",
+      "codename": "MID_787V9",
+      "model": "MID_787V9"
     }
   ]
 }

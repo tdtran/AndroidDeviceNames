@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CT9A06P23_eea",
+      "codename": "CT9A06P23",
+      "model": "CT9A06P23"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT9B83W12",
       "codename": "CT9B83W12",
       "model": "CT9B83W12"

@@ -9,6 +9,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Algeria",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Algeria",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Delight TH201",
       "codename": "Delight_TH201",
       "model": "Delight TH201"
@@ -69,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TEO10A",
+      "codename": "TEO10A1BK32",
+      "model": "TEO10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEO13P",
       "codename": "TEO13P",
       "model": "TEO13P"
@@ -102,6 +132,12 @@
       "market_name": "Thomson T50",
       "codename": "Thomson_T50",
       "model": "Thomson T50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ThomsonTV",
+      "codename": "shibuya",
+      "model": "ThomsonTV"
     }
   ]
 }

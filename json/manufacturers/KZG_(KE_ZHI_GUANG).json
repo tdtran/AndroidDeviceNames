@@ -3,7 +3,19 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Dream one",
+      "codename": "Dream_one",
+      "model": "Dream one"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KZG Scope",
+      "codename": "KZG_Scope",
+      "model": "KZG Scope"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KZG_Scope",
       "codename": "KZG_Scope",
       "model": "KZG Scope"
     }

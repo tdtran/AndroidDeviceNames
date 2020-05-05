@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ATHENA_X",
+      "codename": "MID",
+      "model": "MID"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LEGEND_EZ",
+      "codename": "LEGEND_EZ",
+      "model": "LEGEND_EZ"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LEGEND_NEW7",
       "codename": "LEGEND_NEW7",
       "model": "LEGEND_NEW7"
@@ -24,6 +36,12 @@
       "market_name": "LEGEND_R_PLUS",
       "codename": "LEGEND_R_PLUS",
       "model": "LEGEND_R_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Legend_A",
+      "codename": "Legend_A",
+      "model": "Legend_A"
     },
     {
       "manufacturer": "",

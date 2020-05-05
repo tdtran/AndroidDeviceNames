@@ -1,6 +1,18 @@
 [
   {
+    "manufacturer": "Astro_Tab",
+    "market_name": "K10",
+    "codename": "K10",
+    "model": "K10"
+  },
+  {
     "manufacturer": "Kenxinda",
+    "market_name": "K10",
+    "codename": "K10",
+    "model": "K10"
+  },
+  {
+    "manufacturer": "Kudae",
     "market_name": "K10",
     "codename": "K10",
     "model": "K10"

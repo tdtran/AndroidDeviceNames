@@ -22,5 +22,11 @@
     "market_name": "Ultra",
     "codename": "Ultra",
     "model": "Ultra"
+  },
+  {
+    "manufacturer": "Zoom",
+    "market_name": "ULTRA",
+    "codename": "ULTRA",
+    "model": "ULTRA"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "Arris",
+    "market_name": "VIP6102W",
+    "codename": "vip6102w",
+    "model": "VIP6102W"
+  },
+  {
+    "manufacturer": "LLA",
+    "market_name": "VIP6102W-LLA",
+    "codename": "vip6102w",
+    "model": "VIP6102W"
+  },
+  {
+    "manufacturer": "TDS",
+    "market_name": "VIP6102W",
+    "codename": "vip6102w",
+    "model": "VIP6102W"
+  },
+  {
     "manufacturer": "Vodafone",
     "market_name": "VIP6102W",
     "codename": "vip6102w",

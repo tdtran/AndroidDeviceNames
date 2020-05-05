@@ -1,0 +1,29 @@
+{
+  "manufacturer": "iData",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "iData 50",
+      "codename": "iData_50_EEA",
+      "model": "iData 50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iData K1",
+      "codename": "iData_K1_EEA",
+      "model": "iData K1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iData_50",
+      "codename": "iData_50",
+      "model": "iData 50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iData_K1",
+      "codename": "iData_K1",
+      "model": "iData K1"
+    }
+  ]
+}

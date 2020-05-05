@@ -183,6 +183,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Acer One 10 T4-129L",
+      "codename": "AcerO10T4129L",
+      "model": "Acer One 10 T4-129L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer One 10 T4-129LI",
+      "codename": "AcerO10T412LI",
+      "model": "Acer One 10 T4-129LI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer One 10 T8-129L",
+      "codename": "Acer_One_10_T8-129L",
+      "model": "Acer_One_10_T8-129L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Acer One 7",
       "codename": "Acer_One_7_4G",
       "model": "Acer One 7 4G"
@@ -318,6 +336,12 @@
       "market_name": "CW01",
       "codename": "acer_cw01",
       "model": "CW01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook 14 for work",
+      "codename": "lars_cheets",
+      "model": "Acer Chromebook 14 for Work (CP5-471)"
     },
     {
       "manufacturer": "",
@@ -1092,6 +1116,12 @@
       "market_name": "Tab 7",
       "codename": "td070va1",
       "model": "TD070VA1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Walle",
+      "codename": "Walle",
+      "model": "ET-108-11A"
     },
     {
       "manufacturer": "",

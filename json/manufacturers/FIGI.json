@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G5",
+      "codename": "G5",
+      "model": "G5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6",
       "codename": "G6",
       "model": "G6"
@@ -78,6 +84,12 @@
       "market_name": "Nopal",
       "codename": "Nopal",
       "model": "Nopal"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 1",
+      "codename": "Note_1",
+      "model": "Note 1"
     }
   ]
 }

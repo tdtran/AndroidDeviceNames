@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10S",
+      "codename": "M10S",
+      "model": "M10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_Pro_LTE",
+      "codename": "M10_Pro_LTE",
+      "model": "M10 Pro LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7 Plus",
       "codename": "reeder_M7Plus",
       "model": "M7Plus"
@@ -18,6 +30,18 @@
       "market_name": "M7Go_2019",
       "codename": "M7Go_2019",
       "model": "M7Go_2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S",
+      "codename": "M7S",
+      "model": "M7S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8 Go",
+      "codename": "M8_Go",
+      "model": "M8_Go"
     },
     {
       "manufacturer": "",
@@ -66,6 +90,18 @@
       "market_name": "P13 Blue",
       "codename": "P13_Blue",
       "model": "P13_Blue"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue Maks",
+      "codename": "P13_Blue_Maks",
+      "model": "P13_Blue_Maks"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue Max",
+      "codename": "P13_Blue_Max",
+      "model": "P13_Blue_Max"
     },
     {
       "manufacturer": "",

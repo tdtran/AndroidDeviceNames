@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L55A",
+      "codename": "L55A",
+      "model": "L55A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L55SCLARO",
+      "codename": "L55SCLARO",
+      "model": "L55SCLARO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L57",
+      "codename": "Logic_L57",
+      "model": "Logic L57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L5G",
       "codename": "L5G",
       "model": "L5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC L50T",
+      "codename": "LOGIC_L50T",
+      "model": "LOGIC L50T"
     },
     {
       "manufacturer": "",
@@ -21,15 +45,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIC_L60",
+      "codename": "LOGIC_L60",
+      "model": "LOGIC L60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_X40",
+      "codename": "LOGIC_X40",
+      "model": "X40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_X60G",
+      "codename": "LOGIC_X60G",
+      "model": "LOGIC_X60G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10B",
       "codename": "T10B",
       "model": "T10B"
     },
     {
       "manufacturer": "",
+      "market_name": "T10L",
+      "codename": "T10L",
+      "model": "T10L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T3G",
       "codename": "T3G",
       "model": "T3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T4G",
+      "codename": "T4G",
+      "model": "T4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7W",
+      "codename": "T7W",
+      "model": "LOGIC T7W"
     },
     {
       "manufacturer": "",
@@ -42,6 +102,30 @@
       "market_name": "X4 Plus",
       "codename": "X4",
       "model": "Logic X4 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X50",
+      "codename": "LOGIC_X50",
+      "model": "LOGIC X50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X55G",
+      "codename": "X55G",
+      "model": "X55G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X55_PLUS_B125",
+      "codename": "X55_PLUS",
+      "model": "X55_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X55_PLUS_B18",
+      "codename": "X55_PLUS",
+      "model": "X55_PLUS"
     },
     {
       "manufacturer": "",

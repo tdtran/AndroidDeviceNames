@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Singer",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SingerTV",
+      "codename": "shibuya",
+      "model": "SingerTV"
+    }
+  ]
+}

@@ -30,6 +30,12 @@
       "market_name": "IRAW801",
       "codename": "IRAW801",
       "model": "IRAW801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRA_DUO",
+      "codename": "IRA_DUO",
+      "model": "IRA_DUO"
     }
   ]
 }

@@ -63,6 +63,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BASIO4",
+      "codename": "KYV47",
+      "model": "KYV47"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BASIO4",
+      "codename": "KYV47",
+      "model": "KYV47-j"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BASIO4",
+      "codename": "KYV47",
+      "model": "KYV47-u"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Brigadier",
       "codename": "E6782",
       "model": "E6782"
@@ -78,6 +96,12 @@
       "market_name": "DIGNO",
       "codename": "KYL22",
       "model": "KYL22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO BX",
+      "codename": "901KC",
+      "model": "901KC"
     },
     {
       "manufacturer": "",
@@ -216,6 +240,12 @@
       "market_name": "DuraForce PRO with Sapphire Shield",
       "codename": "E6810_3GB",
       "model": "E6810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DuraForce Pro 2",
+      "codename": "E6920",
+      "model": "E6921"
     },
     {
       "manufacturer": "",
@@ -405,6 +435,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KC-T302DT",
+      "codename": "KC-T302DT",
+      "model": "KC-T302DT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KC-T302DT",
+      "codename": "SZJ202",
+      "model": "SZJ-JS202"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LUCE",
       "codename": "KCP01K",
       "model": "KCP01K"
@@ -492,6 +534,12 @@
       "market_name": "S4",
       "codename": "S4-KC_sprout",
       "model": "S4-KC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6",
+      "codename": "S6-KC_sprout",
+      "model": "S6-KC"
     },
     {
       "manufacturer": "",
@@ -663,7 +711,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe3\\x81\\x8a\\xe3\\x81\\xa6\\xe3\\x81\\x8c\\xe3\\x82\\x8b\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b01",
+      "market_name": "おてがるスマホ01",
       "codename": "KYV44_u2",
       "model": "KYV44_u2"
     }

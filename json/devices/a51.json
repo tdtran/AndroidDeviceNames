@@ -28,5 +28,29 @@
     "market_name": "A51w",
     "codename": "A51",
     "model": "A51w"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A51",
+    "codename": "a51",
+    "model": "SM-A515F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A51",
+    "codename": "a51",
+    "model": "SM-A515U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A51",
+    "codename": "a51",
+    "model": "SM-A515U1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A51",
+    "codename": "a51",
+    "model": "SM-A515W"
   }
 ]

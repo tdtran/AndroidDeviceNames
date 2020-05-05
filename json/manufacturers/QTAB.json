@@ -1,0 +1,17 @@
+{
+  "manufacturer": "QTab",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "V5",
+      "codename": "V5",
+      "model": "V5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V5_Plus",
+      "codename": "V5_Plus",
+      "model": "V5_Plus"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Vu Televisions",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "hamamatsucho",
+      "model": "Smart 2K ATV4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xiaoyushan-vu",
+      "codename": "xiaoyushan",
+      "model": "HiSmartTV A4"
+    }
+  ]
+}

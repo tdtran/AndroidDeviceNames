@@ -1,0 +1,11 @@
+{
+  "manufacturer": "CIMRL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "tab10",
+      "codename": "tab10",
+      "model": "tab10"
+    }
+  ]
+}

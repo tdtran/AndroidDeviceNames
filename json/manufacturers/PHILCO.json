@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Brazil",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PCS01",
+      "codename": "PCS01",
+      "model": "PCS01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PCS02",
+      "codename": "PCS02",
+      "model": "PCS02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILCO_TP7A6",
+      "codename": "PHILCO_TP7A6",
+      "model": "TP7A6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTB7PAP_ PTB7PAB _ PTB7PAR",
       "codename": "PTB7PA",
       "model": "PTB7PAP_PTB7PAB_PTB7PAR"
@@ -12,6 +36,18 @@
       "market_name": "PTB7QSG_3G",
       "codename": "PTB7QSG_3G",
       "model": "PTB7QSG_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PTB7R",
+      "codename": "PTB7R",
+      "model": "PTB7R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PhilcoTV",
+      "codename": "shinjuku",
+      "model": "PhilcoTV"
     },
     {
       "manufacturer": "",

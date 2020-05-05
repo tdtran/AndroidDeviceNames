@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Einstein",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ENTAB3",
+      "codename": "ENTAB3",
+      "model": "EinsteinT3"
+    }
+  ]
+}

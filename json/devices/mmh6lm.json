@@ -1,12 +1,6 @@
 [
   {
     "manufacturer": "LGE",
-    "market_name": "K20",
-    "codename": "mmh6lm",
-    "model": "LM-X120"
-  },
-  {
-    "manufacturer": "LGE",
     "market_name": "LM-X120",
     "codename": "mmh6lm",
     "model": "LM-X120"

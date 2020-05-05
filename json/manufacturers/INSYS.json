@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AF9- AT701_ EEA",
+      "codename": "AF9-AT701_EEA",
+      "model": "AF9-AT701_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HK9-4010_EEA",
+      "codename": "HK9-4010",
+      "model": "HK9-4010"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HK9-K5023",
       "codename": "HK9-K5023",
       "model": "HK9-K5023"
@@ -12,6 +24,12 @@
       "market_name": "IH8-S559",
       "codename": "IH8-S559",
       "model": "IH8-S559"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KT9-70RA",
+      "codename": "KT9-70RA",
+      "model": "KT9-70RA"
     }
   ]
 }

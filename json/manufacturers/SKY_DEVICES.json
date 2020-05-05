@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite A5",
+      "codename": "Elite_A5",
+      "model": "Elite A5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite A55",
       "codename": "Elite_A55",
       "model": "Elite_A55"
@@ -138,6 +144,12 @@
       "market_name": "Elite T55",
       "codename": "Elite_T55_SV",
       "model": "Elite T55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T6",
+      "codename": "Elite_T6",
+      "model": "Elite T6"
     },
     {
       "manufacturer": "",
@@ -318,6 +330,24 @@
       "market_name": "SKY 55M",
       "codename": "SKY_55M",
       "model": "SKY 55M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY Black",
+      "codename": "Negro_SKY_Black",
+      "model": "SKY Black"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY Black",
+      "codename": "SKY_Black",
+      "model": "SKY Black"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY Prestige",
+      "codename": "SKY_Prestige",
+      "model": "SKY Prestige"
     },
     {
       "manufacturer": "",

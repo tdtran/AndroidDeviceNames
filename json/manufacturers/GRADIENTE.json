@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GTB_106",
+      "codename": "GTB_106",
+      "model": "GTB_106"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iphone C600",
       "codename": "GBC_bravo",
       "model": "iphone C600"

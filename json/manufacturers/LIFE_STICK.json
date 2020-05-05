@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Life Stick",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LifeStick",
+      "codename": "ts201",
+      "model": "LifeStick"
+    }
+  ]
+}

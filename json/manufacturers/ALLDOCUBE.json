@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T701",
+      "codename": "T701",
+      "model": "T701"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T806",
       "codename": "T806",
       "model": "T806"
@@ -45,9 +51,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U1006H",
+      "codename": "U1006H",
+      "model": "U1006H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U1006HE",
+      "codename": "U1006HE",
+      "model": "U1006HE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U63PLUS",
       "codename": "U63PLUS",
       "model": "U63PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay 8 Pro",
+      "codename": "T806MH",
+      "model": "T806MH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay 8 Pro",
+      "codename": "T806MHE",
+      "model": "T806MHE"
     }
   ]
 }

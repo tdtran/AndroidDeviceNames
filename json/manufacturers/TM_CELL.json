@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "LOGIC_X60_PLUS",
+      "codename": "LOGIC_X60_PLUS",
+      "model": "LOGIC_X60_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNONU_W60_PLUSt",
+      "codename": "UNONU_W60_PLUS",
+      "model": "UNONU_W60_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X40L",
       "codename": "X40L",
       "model": "X40L"

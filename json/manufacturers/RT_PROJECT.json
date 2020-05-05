@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Glam",
+      "codename": "Glam",
+      "model": "Glam"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHOCK6",
+      "codename": "SHOCK6",
+      "model": "SHOCK6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WIDE",
+      "codename": "WIDE",
+      "model": "WIDE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wide",
       "codename": "Wide",
       "model": "Wide"

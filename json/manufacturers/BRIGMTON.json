@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BTPC-1023OC4G_EEA",
+      "codename": "BTPC-1023OC4G",
+      "model": "BTPC-1023OC4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BTPC-1024QC",
       "codename": "BTPC-1024QC",
       "model": "BTPC-1024QC"
@@ -12,6 +18,12 @@
       "market_name": "BTPC-1025OC",
       "codename": "BTPC-1025OC",
       "model": "BTPC-1025OC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BTPC-1027QC3G",
+      "codename": "BTPC-1027QC3G",
+      "model": "BTPC-1027QC3G"
     },
     {
       "manufacturer": "",

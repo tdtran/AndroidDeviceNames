@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Positivo T1075B",
+      "codename": "T1075B",
+      "model": "T1075B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Positivo T760",
       "codename": "T760",
       "model": "T760"
@@ -147,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP2",
+      "codename": "SP2",
+      "model": "SP2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SX1000",
       "codename": "SX1000",
       "model": "Positivo SX1000"
@@ -192,6 +204,12 @@
       "market_name": "T1075",
       "codename": "T1075",
       "model": "Positivo T1075"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1085",
+      "codename": "T1085",
+      "model": "T1085"
     },
     {
       "manufacturer": "",
@@ -279,6 +297,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Twist 2 Pro",
+      "codename": "S532",
+      "model": "Twist 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Twist 2018",
       "codename": "S511",
       "model": "Twist (2018)"
@@ -318,6 +342,36 @@
       "market_name": "Twist Mini (2018)",
       "codename": "S431",
       "model": "Twist Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist SE",
+      "codename": "SP2",
+      "model": "S545"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist SE",
+      "codename": "SP2",
+      "model": "Twist SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab",
+      "codename": "T770",
+      "model": "Twist Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab Kids",
+      "codename": "T770",
+      "model": "Twist Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab Kids",
+      "codename": "T770",
+      "model": "Twist Tab Kids"
     },
     {
       "manufacturer": "",
@@ -401,7 +455,7 @@
       "manufacturer": "",
       "market_name": "Ypy 07FTB",
       "codename": "YPY_07FTB",
-      "model": "POSITIVO TABLET YPY 07FTB PM BEL\\xc3\\x89M"
+      "model": "POSITIVO TABLET YPY 07FTB PM BELÉM"
     },
     {
       "manufacturer": "",

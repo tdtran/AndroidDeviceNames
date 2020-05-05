@@ -1,0 +1,11 @@
+{
+  "manufacturer": "VNPT Technology",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VNPT SmartBox 2x",
+      "codename": "vnptt_smb_v2x",
+      "model": "VNPT SmartBox 2x"
+    }
+  ]
+}

@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA I6",
+      "codename": "Eluga_I6",
+      "model": "Eluga I6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA I7",
       "codename": "ELUGA_I7",
       "model": "ELUGA I7"
@@ -210,6 +216,12 @@
       "market_name": "ELUGA I7 EE",
       "codename": "ELUGA_I7_EE",
       "model": "ELUGA_I7_EE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA I8",
+      "codename": "Eluga_I8",
+      "model": "Eluga I8"
     },
     {
       "manufacturer": "",
@@ -435,6 +447,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EcoFW 10",
+      "codename": "ecofw10",
+      "model": "Eco v3 plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite 11",
       "codename": "Elite11",
       "model": "Elite"
@@ -630,6 +648,12 @@
       "market_name": "FZ-A2A",
       "codename": "fz_a2a",
       "model": "FZ-A2A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-A3",
+      "codename": "FZ-A3",
+      "model": "FZ-A3"
     },
     {
       "manufacturer": "",
@@ -855,9 +879,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GS655",
+      "codename": "shibuya",
+      "model": "GS655"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GX600C",
       "codename": "GX600C",
       "model": "GX600C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX655",
+      "codename": "SW3H_ATV",
+      "model": "GX655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX655",
+      "codename": "SW3_ATV",
+      "model": "GX655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX655",
+      "codename": "SW3_ATV",
+      "model": "PanasonicTV"
     },
     {
       "manufacturer": "",
@@ -903,6 +951,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IPSC 1.5",
+      "codename": "ipsc1_5",
+      "model": "IPSC1_5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IPSC 4",
       "codename": "ipsc4",
       "model": "IPSC4"
@@ -918,6 +972,12 @@
       "market_name": "JT-C52",
       "codename": "JT-C52",
       "model": "JT-C52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JT-C60",
+      "codename": "JT-C60",
+      "model": "JT-C60"
     },
     {
       "manufacturer": "",
@@ -1185,6 +1245,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Panasonic TV",
+      "codename": "SW3H_ATV",
+      "model": "GX655"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RSE1708",
       "codename": "RSE1708",
       "model": "RSE1708"
@@ -1206,6 +1272,12 @@
       "market_name": "SM17",
       "codename": "SM17",
       "model": "Smart Monitor 17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMLK2A",
+      "codename": "SMLK2A",
+      "model": "SMLK2A"
     },
     {
       "manufacturer": "",
@@ -1320,6 +1392,12 @@
       "market_name": "TH-65DX400C",
       "codename": "TH_65DX400C",
       "model": "TH_65DX400C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 8",
+      "codename": "Tab_8",
+      "model": "Tab 8"
     },
     {
       "manufacturer": "",

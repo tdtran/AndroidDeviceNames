@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M4",
+      "codename": "M4",
+      "model": "M4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q25",
       "codename": "Q25",
       "model": "Q25"

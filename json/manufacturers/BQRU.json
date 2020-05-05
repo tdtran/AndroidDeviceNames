@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-1045G",
+      "codename": "BQru-1045G_2019",
+      "model": "BQ-1045G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-1056L",
       "codename": "BQru_1056L",
       "model": "BQru-1056L"
@@ -36,6 +42,12 @@
       "market_name": "BQ-1057L",
       "codename": "BQru_1057L",
       "model": "BQru-1057L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-1081G",
+      "codename": "BQru-1081G_2019",
+      "model": "BQ-1081G"
     },
     {
       "manufacturer": "",
@@ -183,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5016G",
+      "codename": "BQru-5016G",
+      "model": "BQ-5016G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5033 Shark",
       "codename": "BQru_5033",
       "model": "BQru-5033"
@@ -303,7 +321,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "BQ-5504\\xc2\\xa0Strike\\xc2\\xa0Selfie\\xc2\\xa0Max",
+      "market_name": "BQ-5504 Strike Selfie Max",
       "codename": "BQru_5504",
       "model": "BQru-5504"
     },
@@ -351,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5519G",
+      "codename": "BQru-5519G",
+      "model": "BQ-5519G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5519L Tele2",
       "codename": "BQru-5519L",
       "model": "BQ-5519L"
@@ -369,7 +393,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "BQ-5522\\xc2\\xa0Next",
+      "market_name": "BQ-5522 Next",
       "codename": "BQru-5522",
       "model": "BQ-5522"
     },
@@ -390,6 +414,12 @@
       "market_name": "BQ-5535L",
       "codename": "BQru-5535L",
       "model": "BQ-5535L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5540L",
+      "codename": "BQru-5540L",
+      "model": "BQ-5540L"
     },
     {
       "manufacturer": "",
@@ -441,6 +471,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5731L Magic S",
+      "codename": "BQru-5731L",
+      "model": "BQ-5731L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5732L",
+      "codename": "BQru-5732L",
+      "model": "BQ-5732L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-6000L Aurora",
       "codename": "BQru-6000L",
       "model": "BQ-6000L"
@@ -477,9 +519,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-6042",
+      "codename": "BQru-6042L",
+      "model": "BQ-6042L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-6200L Aurora",
       "codename": "BQru-6200L",
       "model": "BQ-6200L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-6424L",
+      "codename": "BQru-6424L",
+      "model": "BQ-6424L"
     },
     {
       "manufacturer": "",
@@ -567,6 +621,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQru-1077L_2019",
+      "codename": "BQru-1077L_2019",
+      "model": "BQ-1077L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQru-1081G",
       "codename": "BQru-1081G",
       "model": "BQru-1081G"
@@ -630,6 +690,12 @@
       "market_name": "BQru-7083",
       "codename": "BQru-7083",
       "model": "BQru-7083"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQru_6022G",
+      "codename": "BQru_6022G",
+      "model": "BQ-6022G"
     },
     {
       "manufacturer": "",

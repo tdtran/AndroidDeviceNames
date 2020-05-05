@@ -189,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TZ180",
+      "codename": "TZ180",
+      "model": "TZ180"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ183",
       "codename": "TZ183",
       "model": "TZ183"
@@ -216,6 +222,12 @@
       "market_name": "TZ55",
       "codename": "TZ55",
       "model": "TZ55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ711",
+      "codename": "TZ711",
+      "model": "TZ711"
     },
     {
       "manufacturer": "",
@@ -306,6 +318,12 @@
       "market_name": "TZ772",
       "codename": "TZ772",
       "model": "TZ772"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ773",
+      "codename": "TZ773",
+      "model": "TZ773"
     },
     {
       "manufacturer": "",

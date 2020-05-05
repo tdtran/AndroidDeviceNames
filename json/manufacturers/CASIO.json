@@ -15,15 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ET-L10",
+      "codename": "ET-L10",
+      "model": "ET-L10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IT-G400",
       "codename": "itg400",
       "model": "IT-G400"
     },
     {
       "manufacturer": "",
-      "market_name": "PRO TREK SMART",
-      "codename": "kingyo",
-      "model": "WSD-F30"
+      "market_name": "IT-G650",
+      "codename": "itg650",
+      "model": "IT-G650"
     },
     {
       "manufacturer": "",
@@ -42,6 +48,24 @@
       "market_name": "WSD-F20",
       "codename": "ayu",
       "model": "CASIO WSD-F20S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WSD-F21HR",
+      "codename": "medaka",
+      "model": "WSD-F21HR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WSD-F30",
+      "codename": "kingyo",
+      "model": "WSD-F30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itg600",
+      "codename": "itg600",
+      "model": "IT-G600"
     }
   ]
 }

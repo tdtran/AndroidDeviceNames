@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G10",
+      "codename": "G10",
+      "model": "Symphony G10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G100",
       "codename": "G100",
       "model": "Symphony G100"
@@ -147,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Symphony_Z12",
+      "codename": "Symphony_Z12",
+      "model": "Symphony_Z12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Symphony_Z50",
+      "codename": "Symphony_Z50",
+      "model": "Symphony Z50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Symphony_Z9",
       "codename": "Z9",
       "model": "Symphony Z9"
@@ -156,6 +174,18 @@
       "market_name": "V100",
       "codename": "V100",
       "model": "V100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V102",
+      "codename": "V102",
+      "model": "V102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V105",
+      "codename": "V105",
+      "model": "V105"
     },
     {
       "manufacturer": "",
@@ -192,6 +222,12 @@
       "market_name": "V140",
       "codename": "V140",
       "model": "V140"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V141",
+      "codename": "V141",
+      "model": "V141"
     },
     {
       "manufacturer": "",
@@ -291,9 +327,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V99",
+      "codename": "V99",
+      "model": "V99"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V99+",
+      "codename": "V99plus",
+      "model": "V99+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z10",
       "codename": "Z10",
       "model": "SYMPHONY Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z15",
+      "codename": "Z15",
+      "model": "Z15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z20",
+      "codename": "Z20",
+      "model": "Z20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z25",
+      "codename": "Z25",
+      "model": "Z25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z30",
+      "codename": "Z30",
+      "model": "Z30"
     },
     {
       "manufacturer": "",
@@ -339,6 +411,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i18",
+      "codename": "i18",
+      "model": "i18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i20",
       "codename": "i20",
       "model": "i20"
@@ -348,6 +426,12 @@
       "market_name": "i25",
       "codename": "Symphonyi25",
       "model": "i25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i30",
+      "codename": "i30",
+      "model": "i30"
     },
     {
       "manufacturer": "",
@@ -369,6 +453,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i68",
+      "codename": "i68",
+      "model": "i68"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i72",
+      "codename": "i72",
+      "model": "i72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i74",
+      "codename": "i74",
+      "model": "i74"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i90",
       "codename": "i90",
       "model": "i90"
@@ -378,6 +480,12 @@
       "market_name": "i95",
       "codename": "i95",
       "model": "i95"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i97",
+      "codename": "i97",
+      "model": "i97"
     },
     {
       "manufacturer": "",

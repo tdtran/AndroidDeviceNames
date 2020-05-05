@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "GFive",
+    "market_name": "Stark",
+    "codename": "Stark",
+    "model": "Stark"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Majesty Pro LTE",
     "codename": "stark",

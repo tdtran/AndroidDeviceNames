@@ -1,0 +1,23 @@
+{
+  "manufacturer": "NEWSUN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S13",
+      "codename": "S13",
+      "model": "S13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S20",
+      "codename": "S20",
+      "model": "S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S9",
+      "codename": "S9",
+      "model": "S9"
+    }
+  ]
+}

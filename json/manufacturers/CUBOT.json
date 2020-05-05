@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG_MINI",
+      "codename": "KINGKONG_MINI",
+      "model": "KINGKONG_MINI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KING_KONG_3",
       "codename": "KING_KONG_3",
       "model": "KING_KONG_3"
@@ -126,6 +132,12 @@
       "market_name": "NOTE S",
       "codename": "CUBOT_NOTE_S",
       "model": "CUBOT_NOTE_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30",
+      "codename": "P30",
+      "model": "P30"
     },
     {
       "manufacturer": "",
@@ -174,6 +186,24 @@
       "market_name": "X19",
       "codename": "X19",
       "model": "X19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X19_S",
+      "codename": "X19_S",
+      "model": "X19 S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X20",
+      "codename": "X20",
+      "model": "X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X20_PRO",
+      "codename": "X20_PRO",
+      "model": "X20 PRO"
     }
   ]
 }

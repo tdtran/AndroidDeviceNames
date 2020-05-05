@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EGQ101",
+      "codename": "EGQ101",
+      "model": "EGQ101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EGQ178",
       "codename": "EGQ178",
       "model": "EGQ178"

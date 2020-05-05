@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALFA_7M",
+      "codename": "ALFA_7M",
+      "model": "ALFA_7M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA_7RC",
       "codename": "ALFA_7RC",
       "model": "ALFA_7RC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EMEA",
+      "codename": "ALFA_7RS",
+      "model": "ALFA 7RS"
     },
     {
       "manufacturer": "",

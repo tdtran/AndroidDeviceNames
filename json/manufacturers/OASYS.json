@@ -12,6 +12,12 @@
       "market_name": "TEG9300",
       "codename": "TEG9300",
       "model": "TEG9300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEG9300-M",
+      "codename": "TEG9300-M",
+      "model": "TEG9300-M"
     }
   ]
 }

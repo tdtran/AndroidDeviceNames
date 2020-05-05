@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HT-001",
+      "codename": "HT-001",
+      "model": "HT-001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JT07-90",
+      "codename": "JT07-90",
+      "model": "JT07-90"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JT10-90",
       "codename": "JT10-90",
       "model": "JT10-90"

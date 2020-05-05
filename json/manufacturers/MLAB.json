@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MB4",
+      "codename": "MB4",
+      "model": "MB4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MB4 WIFI",
       "codename": "MB4_WIFI",
       "model": "MB4 WIFI"
@@ -18,6 +24,30 @@
       "market_name": "MB5 WIFI",
       "codename": "MB5_WIFI",
       "model": "MB5 WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MB8715",
+      "codename": "MB8715",
+      "model": "MB8715"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MB8717",
+      "codename": "MB8717",
+      "model": "MB8717"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MB8866",
+      "codename": "MB8866",
+      "model": "MB8866"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLAB_KIDS_PLUS",
+      "codename": "MLAB_KIDS_PLUS",
+      "model": "MLAB_KIDS_PLUS"
     },
     {
       "manufacturer": "",

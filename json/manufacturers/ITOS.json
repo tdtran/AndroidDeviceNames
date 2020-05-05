@@ -1,0 +1,29 @@
+{
+  "manufacturer": "ITOS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IC-51",
+      "codename": "IC_51",
+      "model": "IC_51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IC_55",
+      "codename": "IC_55",
+      "model": "IC_55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IC_61",
+      "codename": "IC_61",
+      "model": "IC_61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IT_51",
+      "codename": "IT_51",
+      "model": "IT_51"
+    }
+  ]
+}

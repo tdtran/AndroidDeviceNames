@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A545",
+      "codename": "A545",
+      "model": "KARBONN A545"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9_Indian",
       "codename": "A9_Indian",
       "model": "A9 Indian"
@@ -225,9 +231,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Titanium S9 Plus",
+      "codename": "Titanium_S9_Plus",
+      "model": "Titanium_S9_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Titanium Vista 4G",
       "codename": "TitaniumVista4G",
       "model": "Titanium Vista 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titanium_S9_Plus",
+      "codename": "Karbonn_Titanium_S9_Plus",
+      "model": "Titanium_S9_Plus"
     }
   ]
 }

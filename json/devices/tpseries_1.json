@@ -1,0 +1,14 @@
+[
+  {
+    "manufacturer": "IDspire",
+    "market_name": "IRA_Biometric",
+    "codename": "TPSeries_1",
+    "model": "IRA_Biometric"
+  },
+  {
+    "manufacturer": "IDspire",
+    "market_name": "TPSeries_1",
+    "codename": "TPSeries_1",
+    "model": "TPSeries_1"
+  }
+]

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Free",
+    "market_name": "Liberty",
+    "codename": "Liberty",
+    "model": "Liberty"
+  },
+  {
     "manufacturer": "HTC",
     "market_name": "Aria",
     "codename": "liberty",

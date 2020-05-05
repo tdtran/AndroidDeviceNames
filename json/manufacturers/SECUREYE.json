@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Secureye",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S-SAB220",
+      "codename": "S-SAB220",
+      "model": "S-SAB220"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SAB200_001",
+      "codename": "SAB200_001",
+      "model": "SAB200_001"
+    }
+  ]
+}

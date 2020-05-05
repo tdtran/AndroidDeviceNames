@@ -21,7 +21,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LMT viedtelev\\xc4\\xabzijas iek\\xc4\\x81rta",
+      "market_name": "LMT viedtelevīzijas iekārta",
       "codename": "dwt765lmt",
       "model": "skipper"
     },
@@ -48,6 +48,12 @@
       "market_name": "Tv Hub",
       "codename": "uzx8020chm",
       "model": "Tv Hub"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WOW! Sapphire",
+      "codename": "uiw4020wow",
+      "model": "CWM19"
     },
     {
       "manufacturer": "",

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G1036",
+      "codename": "G1036",
+      "model": "G1036"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G1101T",
       "codename": "MJA1031",
       "model": "G1101T"

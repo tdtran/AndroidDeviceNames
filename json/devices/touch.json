@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "BTC Mobile",
+    "market_name": "Touch",
+    "codename": "Touch",
+    "model": "Touch"
+  },
+  {
     "manufacturer": "Hurricane",
     "market_name": "Touch",
     "codename": "Touch",

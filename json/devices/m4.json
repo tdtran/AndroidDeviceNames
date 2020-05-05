@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "E-Tel",
+    "market_name": "M4",
+    "codename": "M4",
+    "model": "M4"
+  },
+  {
     "manufacturer": "HTC",
     "market_name": "601e",
     "codename": "m4",

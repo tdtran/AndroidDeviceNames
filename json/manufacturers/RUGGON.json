@@ -1,0 +1,23 @@
+{
+  "manufacturer": "RuggON",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MT7030",
+      "codename": "MT7030",
+      "model": "MT7030"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PA501",
+      "codename": "PA501BG",
+      "model": "PA501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PA501",
+      "codename": "PA501BW",
+      "model": "PA501"
+    }
+  ]
+}

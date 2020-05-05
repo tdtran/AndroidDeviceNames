@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Epson",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "STI6110",
+      "codename": "Bushi",
+      "model": "STI6110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "embt4",
+      "codename": "embt4",
+      "model": "EMBT4"
+    }
+  ]
+}

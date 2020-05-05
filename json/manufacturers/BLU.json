@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A30",
+      "codename": "A30",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ADVANCE 4.0 L2",
       "codename": "BLU_ADVANCE_4_0_L2",
       "model": "BLU ADVANCE 4.0 L2"
@@ -36,6 +42,18 @@
       "market_name": "ADVANCE 5.0 HD",
       "codename": "Advance_5_0_HD",
       "model": "Advance 5.0 HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADVANCE L5",
+      "codename": "A380",
+      "model": "Advance L5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADVANCE L5",
+      "codename": "A390",
+      "model": "Advance L5"
     },
     {
       "manufacturer": "",
@@ -93,9 +111,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Advance\\xc2\\xa0A5\\xc2\\xa0Plus\\xc2\\xa0LTE",
+      "market_name": "Advance A5 Plus LTE",
       "codename": "A0031WW",
       "model": "Advance A5 Plus LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B110DL",
+      "codename": "B110DL",
+      "model": "B110DL"
     },
     {
       "manufacturer": "",
@@ -159,6 +183,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C1",
+      "codename": "C190",
+      "model": "C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C2",
+      "codename": "C210",
+      "model": "C2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C4",
       "codename": "C050",
       "model": "C4"
@@ -189,9 +225,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5 2019",
+      "codename": "C110",
+      "model": "C5 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5 2019",
+      "codename": "C111",
+      "model": "C5 2019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5 LTE",
       "codename": "C0010UU",
       "model": "C5 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5 PLUS",
+      "codename": "C130EQ",
+      "model": "C5 Plus"
     },
     {
       "manufacturer": "",
@@ -202,7 +256,19 @@
     {
       "manufacturer": "",
       "market_name": "C5L",
+      "codename": "C0040LL",
+      "model": "C5L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L",
       "codename": "C0050",
+      "model": "C5L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L",
+      "codename": "C0051LL",
       "model": "C5L"
     },
     {
@@ -225,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C6 2019",
+      "codename": "C090EQ",
+      "model": "C6 2019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6L",
       "codename": "C0030",
       "model": "C6L"
@@ -234,6 +306,12 @@
       "market_name": "C6x",
       "codename": "C090P",
       "model": "C6x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D10",
+      "codename": "D10",
+      "model": "D10"
     },
     {
       "manufacturer": "",
@@ -252,6 +330,12 @@
       "market_name": "D600",
       "codename": "D600",
       "model": "D600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D701",
+      "codename": "D701",
+      "model": "D701"
     },
     {
       "manufacturer": "",
@@ -375,6 +459,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E20",
+      "codename": "E20",
+      "model": "E20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ENERGY  XL",
       "codename": "BLU_ENERGY_XL",
       "model": "ENERGY XL"
@@ -423,9 +513,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G0290WW",
+      "codename": "G0290WW",
+      "model": "G80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G5",
       "codename": "G0090",
       "model": "G5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5 Plus",
+      "codename": "G0180LL",
+      "model": "G5 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5 Plus",
+      "codename": "G0190",
+      "model": "G5 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G6",
+      "codename": "G0210",
+      "model": "G6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G60",
+      "codename": "G0270WW",
+      "model": "G60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G70",
+      "codename": "G0250WW",
+      "model": "G70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G8",
+      "codename": "G0170",
+      "model": "G8"
     },
     {
       "manufacturer": "",
@@ -444,6 +576,18 @@
       "market_name": "G9 PRO",
       "codename": "G0230WW",
       "model": "G9 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9 PRO",
+      "codename": "G0231WW",
+      "model": "G9 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G90",
+      "codename": "G0310WW",
+      "model": "G90"
     },
     {
       "manufacturer": "",
@@ -549,6 +693,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J7",
+      "codename": "J0000LL_ATT_MX",
+      "model": "J7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIFE ONE X",
       "codename": "BLU_LIFE_ONE_X",
       "model": "BLU LIFE ONE X"
@@ -594,6 +744,12 @@
       "market_name": "Life One X3",
       "codename": "L0150WW",
       "model": "Life One X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M0030TT",
+      "model": "M6"
     },
     {
       "manufacturer": "",
@@ -717,6 +873,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S5",
+      "codename": "S0480LL_ALTAN",
+      "model": "S5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S950P",
+      "codename": "S950P",
+      "model": "Studio X9 HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STUDIO 7.0 LTE",
       "codename": "blu_s0010tw",
       "model": "BLU STUDIO 7.0 LTE"
@@ -774,6 +942,12 @@
       "market_name": "STUDIO M LTE",
       "codename": "BLU_STUDIO_M_LTE",
       "model": "STUDIO M LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STUDIO M4 PLUS",
+      "codename": "S850U",
+      "model": "Studio M4 Plus"
     },
     {
       "manufacturer": "",
@@ -976,6 +1150,12 @@
     {
       "manufacturer": "",
       "market_name": "Studio View",
+      "codename": "S810P",
+      "model": "Studio View"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio View",
       "codename": "S812P",
       "model": "Studio View"
     },
@@ -1023,6 +1203,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T5",
+      "codename": "T0050TT",
+      "model": "T5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5 Plus",
+      "codename": "T0070TT_TIGO",
+      "model": "T5 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TOUCHBOOK M7",
       "codename": "BLU_TOUCHBOOK_M7",
       "model": "BLU TOUCHBOOK M7"
@@ -1044,6 +1236,12 @@
       "market_name": "Tank Xtreme Pro",
       "codename": "T0010UU",
       "model": "Tank Xtreme Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tank_Xtreme",
+      "codename": "T0030WW",
+      "model": "Tank Xtreme"
     },
     {
       "manufacturer": "",

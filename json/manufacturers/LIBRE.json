@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Libre",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "W101",
+      "codename": "W101",
+      "model": "W101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W808",
+      "codename": "W808",
+      "model": "W808"
+    }
+  ]
+}

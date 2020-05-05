@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A-DA",
+      "codename": "yebisuAA",
+      "model": "MY20ADA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A-DA",
+      "codename": "yebisuBA",
+      "model": "MY20ADA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Accord",
       "codename": "koelsch",
       "model": "MY16ADA"

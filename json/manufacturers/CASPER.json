@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CASPER_L10_4_5G",
       "codename": "CASPER_L10_4_5G",
       "model": "CASPER_L10_4.5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L20",
+      "codename": "L20",
+      "model": "L20"
     },
     {
       "manufacturer": "",
@@ -39,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA A4",
+      "codename": "VIA_A4",
+      "model": "VIA A4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA G1",
       "codename": "CASPER_VIA_G1",
       "model": "CASPER_VIA_G1"
@@ -54,6 +78,12 @@
       "market_name": "VIA M3",
       "codename": "CASPER_VIA_M3",
       "model": "CASPER_VIA_M3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA P3",
+      "codename": "VIA_P3",
+      "model": "VIA_P3"
     },
     {
       "manufacturer": "",

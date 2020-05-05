@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MAXTRON Genio",
+      "codename": "MAXTRON_Genio",
+      "model": "MAXTRON Genio"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAXTRON_M2",
+      "codename": "MAXTRON_M2",
+      "model": "MAXTRON M2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S9",
       "codename": "S9",
       "model": "S9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "smart",
+      "codename": "smart",
+      "model": "smart"
     }
   ]
 }

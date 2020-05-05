@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DSB-0220",
+      "codename": "DSB0220",
+      "model": "DSB-0220"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DSB-0230",
+      "codename": "DSB0230",
+      "model": "DSB-0230"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DSB0010",
       "codename": "DSB0010",
       "model": "Doro 8030"

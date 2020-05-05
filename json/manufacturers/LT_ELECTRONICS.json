@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT C4300",
+      "codename": "LT_C4300",
+      "model": "LT C4300"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT-NOTE-10S",
       "codename": "LT-NOTE-10S",
       "model": "LT-NOTE 10S"
@@ -66,6 +72,30 @@
       "market_name": "LT_X5",
       "codename": "LT_X5",
       "model": "LT_X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPURT_K300",
+      "codename": "SPURT_K300",
+      "model": "K300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPURT_K400",
+      "codename": "SPURT_K400",
+      "model": "K400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPURT_K500",
+      "codename": "SPURT_K500",
+      "model": "K500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPURT_K600",
+      "codename": "SPURT_K600",
+      "model": "K600"
     }
   ]
 }

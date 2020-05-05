@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "R5",
+      "codename": "R5",
+      "model": "R5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R5Plus",
       "codename": "R5Plus",
       "model": "R5Plus"

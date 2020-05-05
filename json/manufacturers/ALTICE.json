@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALTICE S43",
+      "codename": "S43",
+      "model": "ALTICE_S43"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALTICE S43",
+      "codename": "S43",
+      "model": "S43"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALTICE S60",
       "codename": "S60",
       "model": "S60"
@@ -39,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S23",
+      "codename": "S23",
+      "model": "S23"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S31",
       "codename": "S31",
       "model": "Altice_S31"
@@ -54,6 +72,18 @@
       "market_name": "S32",
       "codename": "S32",
       "model": "S32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S32_NFC",
+      "codename": "S32_NFC",
+      "model": "S32_NFC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S32_Plus",
+      "codename": "S32_Plus",
+      "model": "S32_Plus"
     },
     {
       "manufacturer": "",

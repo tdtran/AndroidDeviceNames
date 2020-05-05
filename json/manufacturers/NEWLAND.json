@@ -48,6 +48,24 @@
       "market_name": "NLS-MT9052-RU",
       "codename": "NLS-MT9052-GL",
       "model": "NLS-MT90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-NFT10",
+      "codename": "NLS-NFT10-GL",
+      "model": "NLS-NFT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-NFT10",
+      "codename": "NLS-NFT10-RU",
+      "model": "NLS-NFT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Newland NLS-N7",
+      "codename": "NLS-N7-GL",
+      "model": "NLS-N7"
     }
   ]
 }

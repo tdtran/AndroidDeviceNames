@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K9Pro",
+      "codename": "K9Pro",
+      "model": "K9Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "O51",
       "codename": "O51",
       "model": "O51"
@@ -54,6 +60,12 @@
       "market_name": "O61",
       "codename": "O61",
       "model": "O61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "O71",
+      "codename": "O71",
+      "model": "O71"
     }
   ]
 }

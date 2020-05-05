@@ -4,5 +4,11 @@
     "market_name": "Twist Neo",
     "codename": "S501",
     "model": "twist neo"
+  },
+  {
+    "manufacturer": "Stylo",
+    "market_name": "S501",
+    "codename": "S501",
+    "model": "Stylo S501"
   }
 ]

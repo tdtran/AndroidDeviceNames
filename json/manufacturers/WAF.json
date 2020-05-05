@@ -12,6 +12,12 @@
       "market_name": "F808NM",
       "codename": "F808NM",
       "model": "F808NM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "THMTKAW01216_eea",
+      "codename": "THMTKAW01216",
+      "model": "Surftab WAF"
     }
   ]
 }

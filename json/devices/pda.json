@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "BLOVEDREAM",
+    "market_name": "PDA",
+    "codename": "PDA",
+    "model": "PDA"
+  },
+  {
     "manufacturer": "Nokia",
     "market_name": "Nokia X5",
     "codename": "PDA",

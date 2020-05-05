@@ -72,6 +72,12 @@
       "market_name": "Wow(Window of the world)",
       "codename": "itq700",
       "model": "YBMK01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iRiver",
+      "codename": "seocho",
+      "model": "Iriver 4K Android TV"
     }
   ]
 }

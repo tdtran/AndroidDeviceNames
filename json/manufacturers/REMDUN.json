@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RD15QE",
+      "codename": "RD15QE",
+      "model": "RD15QE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD51QE",
+      "codename": "RD51QE",
+      "model": "RD51QE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD52E",
       "codename": "RD52E",
       "model": "RD52E"
@@ -30,6 +42,12 @@
       "market_name": "RD86E",
       "codename": "RD86E",
       "model": "RD86E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD86QE",
+      "codename": "RD86QE",
+      "model": "RD86QE"
     }
   ]
 }

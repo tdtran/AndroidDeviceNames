@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SEI500TR",
+      "codename": "SEI500TR",
+      "model": "TRANSVISION-Xstream"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TRANSVISION-OTT-Box",
+      "codename": "UHD_I56AD_TRV",
+      "model": "TRANSVISION-OTT-Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Transvision",
       "codename": "USB6_IR80",
       "model": "TRANSVISION-iTV"

@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K30 PRO",
+      "codename": "lmi",
+      "model": "Lmi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K30 PRO",
+      "codename": "lmi",
+      "model": "Redmi K30 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi  9T  Pro",
+      "codename": "raphaelin",
+      "model": "Redmi K20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 9T",
+      "codename": "davinci",
+      "model": "Mi 9T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi  7A",
       "codename": "pine",
       "model": "Redmi 7A"
@@ -21,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 6",
+      "codename": "cereus",
+      "model": "Redmi 6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 7",
       "codename": "onc",
       "model": "Redmi 7"
@@ -36,6 +66,30 @@
       "market_name": "Redmi 7A",
       "codename": "pine",
       "model": "Redmi 7A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 8",
+      "codename": "olive",
+      "model": "Redmi 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 8A",
+      "codename": "olivelite",
+      "model": "Redmi 8A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 8A Dual",
+      "codename": "olivewood",
+      "model": "Redmi 8A Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 8A Dual",
+      "codename": "olivewood",
+      "model": "Redmi 8A Pro"
     },
     {
       "manufacturer": "",
@@ -75,9 +129,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi K30",
+      "codename": "phoenix",
+      "model": "Redmi K30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K30 5G",
+      "codename": "picasso",
+      "model": "Redmi K30 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 7",
       "codename": "lavender",
       "model": "Redmi Note 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8",
+      "codename": "ginkgo",
+      "model": "GINKGO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8",
+      "codename": "ginkgo",
+      "model": "Redmi Note 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8 Pro",
+      "codename": "begonia",
+      "model": "Redmi Note 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8 pro",
+      "codename": "begoniain",
+      "model": "Redmi Note 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8T",
+      "codename": "willow",
+      "model": "Redmi Note 8T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8T",
+      "codename": "willow",
+      "model": "willow"
     }
   ]
 }

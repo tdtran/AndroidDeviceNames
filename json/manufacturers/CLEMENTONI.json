@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MFClempad_9",
+      "codename": "MFClempad_9",
+      "model": "MFC7_2019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "My First Clempad 6.0",
       "codename": "MFC_6",
       "model": "MFC_6"

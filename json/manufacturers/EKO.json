@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "hanyang",
+      "model": "Ayonz Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "nippori",
+      "model": "EKO Android TV 2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EKO OMEGA LTE Q60",
       "codename": "EKO_OMEGA_LTE_Q60",
       "model": "EKO OMEGA LTE Q60"

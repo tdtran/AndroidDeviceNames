@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Capstone",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CAP-001M",
+      "codename": "CAP-001M",
+      "model": "CAP-001M"
+    }
+  ]
+}

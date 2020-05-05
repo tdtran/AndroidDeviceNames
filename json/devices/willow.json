@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 8T",
+    "codename": "willow",
+    "model": "Redmi Note 8T"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 8T",
+    "codename": "willow",
+    "model": "willow"
+  },
+  {
     "manufacturer": "SK Telesys",
     "market_name": "ITP-E410W",
     "codename": "willow",

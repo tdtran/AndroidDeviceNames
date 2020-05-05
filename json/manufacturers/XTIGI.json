@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A3",
+      "codename": "A3",
+      "model": "A3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope10_Pro",
+      "codename": "Hope10_Pro",
+      "model": "Hope10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope7_Mate",
+      "codename": "Hope7_Mate",
+      "model": "Hope7_Mate"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JOY10_LTE",
       "codename": "MID",
       "model": "JOY10_LTE"
@@ -48,6 +66,18 @@
       "market_name": "Photo P15 Lite",
       "codename": "Photo_P15_Lite",
       "model": "Photo_P15_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP1",
+      "codename": "SHARP1",
+      "model": "SHARP1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp1_Lite",
+      "codename": "Sharp1_Lite",
+      "model": "Sharp1_Lite"
     },
     {
       "manufacturer": "",
@@ -192,6 +222,12 @@
       "market_name": "X_TIGI_V16_LTE",
       "codename": "X_TIGI_V16_LTE",
       "model": "X_TIGI_V16_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10",
+      "codename": "Y10",
+      "model": "Y10"
     }
   ]
 }

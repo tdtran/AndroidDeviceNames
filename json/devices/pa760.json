@@ -4,5 +4,17 @@
     "market_name": "PA760",
     "codename": "PA760",
     "model": "PA760"
+  },
+  {
+    "manufacturer": "Unitech",
+    "market_name": "PA760_EE",
+    "codename": "PA760",
+    "model": "PA760"
+  },
+  {
+    "manufacturer": "Unitech",
+    "market_name": "PA760_FP",
+    "codename": "PA760",
+    "model": "PA760"
   }
 ]

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BNT-1013",
+      "codename": "BNT-1013",
+      "model": "BNT-1013"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BNT-700K",
       "codename": "BNT-700K",
       "model": "BNT-700K"
@@ -12,6 +18,12 @@
       "market_name": "BNT-801W",
       "codename": "BNT_801W",
       "model": "BNT-801W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BNT-802",
+      "codename": "BNT-802",
+      "model": "BNT-802"
     },
     {
       "manufacturer": "",

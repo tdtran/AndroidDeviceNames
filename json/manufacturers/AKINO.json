@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Akino",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IN-32SE9",
+      "codename": "shibuya",
+      "model": "AkinoTV"
+    }
+  ]
+}

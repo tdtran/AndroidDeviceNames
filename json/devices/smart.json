@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Maxtron",
+    "market_name": "smart",
+    "codename": "smart",
+    "model": "smart"
+  },
+  {
     "manufacturer": "QMobile",
     "market_name": "Smart",
     "codename": "Smart",

@@ -123,6 +123,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S72",
+      "codename": "Premio_S72",
+      "model": "S72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S73",
+      "codename": "S73",
+      "model": "S73"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S75",
+      "codename": "S75",
+      "model": "PREMIO S75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S80",
+      "codename": "S80",
+      "model": "S80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X1",
       "codename": "186HS2080531",
       "model": "186HS2080531"
@@ -132,6 +156,12 @@
       "market_name": "X80",
       "codename": "X80",
       "model": "X80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X81",
+      "codename": "X81",
+      "model": "X81"
     }
   ]
 }

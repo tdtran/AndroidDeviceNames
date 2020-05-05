@@ -1,6 +1,24 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 9X lite",
+    "codename": "HWJSN-H",
+    "model": "JSN-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HONOR 9X lite",
+    "codename": "HWJSN-H",
+    "model": "JSN-L22"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HONOR 9X lite",
+    "codename": "HWJSN-H",
+    "model": "JSN-L23"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "Honor 8X",
     "codename": "HWJSN-H",
     "model": "JSN-L21"
@@ -25,13 +43,13 @@
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+    "market_name": "荣耀 8X",
     "codename": "HWJSN-H",
     "model": "JSN-AL00"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+    "market_name": "荣耀 8X",
     "codename": "HWJSN-H",
     "model": "JSN-TL00"
   }

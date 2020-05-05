@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Point of view",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PVT-R78-3288",
+      "codename": "PVT-R78-3288",
+      "model": "PVT-R78-3288"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-PTDF-116",
+      "codename": "TAB-PTDF-116",
+      "model": "TAB-PTDF-116"
+    }
+  ]
+}

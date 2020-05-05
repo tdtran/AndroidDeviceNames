@@ -165,6 +165,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 8",
+      "codename": "Infinix-X650D",
+      "model": "Infinix X650D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 8 Lite",
+      "codename": "Infinix-X650",
+      "model": "Infinix X650"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT NOTE",
       "codename": "Infinix-X551",
       "model": "Infinix-X551"
@@ -249,6 +261,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix HOT 9",
+      "codename": "Infinix-X655",
+      "model": "Infinix X655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 9",
+      "codename": "Infinix-X655C",
+      "model": "Infinix X655C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 9",
+      "codename": "Infinix-X655D",
+      "model": "Infinix X655D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 9 Play",
+      "codename": "Infinix-X680",
+      "model": "Infinix X680"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 9 Pro",
+      "codename": "Infinix-X655F",
+      "model": "Infinix X655F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix NOTE 5",
       "codename": "Infinix-X604_sprout",
       "model": "Infinix X604"
@@ -264,6 +306,12 @@
       "market_name": "Infinix NOTE 5 Stylus",
       "codename": "Infinix-X605_sprout",
       "model": "Infinix X605"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 7 Lite",
+      "codename": "Infinix-X656",
+      "model": "Infinix X656"
     },
     {
       "manufacturer": "",
@@ -357,6 +405,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOTE 7",
+      "codename": "Infinix-X690",
+      "model": "Infinix X690"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 7",
+      "codename": "Infinix-X690B",
+      "model": "Infinix X690B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 7",
+      "codename": "Infinix-X690C",
+      "model": "Infinix X690C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 6",
       "codename": "Infinix-X610",
       "model": "Infinix X610B"
@@ -402,6 +468,48 @@
       "market_name": "S4",
       "codename": "Infinix-X626B-LTE",
       "model": "Infinix X626B LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5",
+      "codename": "Infinix-X652",
+      "model": "Infinix X652"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5",
+      "codename": "Infinix-X652A",
+      "model": "Infinix X652A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5 Lite",
+      "codename": "Infinix-X652B",
+      "model": "Infinix X652B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5 Lite",
+      "codename": "Infinix-X652C",
+      "model": "Infinix X652C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5 Pro",
+      "codename": "Infinix-X660",
+      "model": "Infinix X660"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5 Pro",
+      "codename": "Infinix-X660B",
+      "model": "Infinix X660B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5 Pro",
+      "codename": "Infinix-X660C",
+      "model": "Infinix X660C"
     },
     {
       "manufacturer": "",
@@ -480,6 +588,18 @@
       "market_name": "Smart 3 Plus",
       "codename": "Infinix-X627W",
       "model": "Infinix X627W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 4",
+      "codename": "Infinix-X653",
+      "model": "Infinix X653"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 4",
+      "codename": "Infinix-X653C",
+      "model": "Infinix X653C"
     },
     {
       "manufacturer": "",

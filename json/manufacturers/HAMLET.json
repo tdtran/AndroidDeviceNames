@@ -12,6 +12,12 @@
       "market_name": "XZPAD412LTE",
       "codename": "XZPAD412LTE",
       "model": "XZPAD412LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XZPAD470LTE",
+      "codename": "XZPAD470LTE",
+      "model": "XZPAD470LTE"
     }
   ]
 }

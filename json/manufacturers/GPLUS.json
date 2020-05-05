@@ -21,9 +21,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GNE-N001S",
+      "codename": "GNE-N001S",
+      "model": "GNE-N001S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GPLUS_A2_Plus",
       "codename": "GPLUS_A2_Plus",
       "model": "GPLUS_A2_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gplus",
+      "codename": "Q10",
+      "model": "Q10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gplus",
+      "codename": "T10",
+      "model": "T10"
     },
     {
       "manufacturer": "",

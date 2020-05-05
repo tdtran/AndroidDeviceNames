@@ -21,15 +21,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Smart\\\u0027TAB 7800",
+      "market_name": "Smart\u0027TAB 7800",
       "codename": "fiber-785q6",
-      "model": "Smart\\\u0027Tab_7800"
+      "model": "Smart\u0027Tab_7800"
     },
     {
       "manufacturer": "",
-      "market_name": "Smart\\\u0027TAB 9001",
+      "market_name": "Smart\u0027TAB 9001",
       "codename": "fiber-smart",
-      "model": "Smart\\\u0027TAB 9001"
+      "model": "Smart\u0027TAB 9001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartTAB1008",
+      "codename": "SmartTAB1008",
+      "model": "SmartTAB1008"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Tech-A1",
+      "codename": "Tech-A1",
+      "model": "Tech A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WISENET5",
       "codename": "WISENET5",
       "model": "WISENET5"

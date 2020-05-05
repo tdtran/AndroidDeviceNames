@@ -1,0 +1,17 @@
+{
+  "manufacturer": "S Vision",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "hanyang",
+      "model": "Svision Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "nippori",
+      "model": "Svision Android TV 2K"
+    }
+  ]
+}

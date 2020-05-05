@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Switel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VS700",
+      "codename": "VS700",
+      "model": "VS700"
+    }
+  ]
+}

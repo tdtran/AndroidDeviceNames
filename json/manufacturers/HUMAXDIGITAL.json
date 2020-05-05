@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TMAU400",
+      "codename": "tmau400",
+      "model": "tmau400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VISION W1",
       "codename": "vision",
       "model": "VISION W1"

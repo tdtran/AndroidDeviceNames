@@ -10,5 +10,17 @@
     "market_name": "M2_3G",
     "codename": "G10",
     "model": "InFocus M2_3G"
+  },
+  {
+    "manufacturer": "Symphony",
+    "market_name": "G10",
+    "codename": "G10",
+    "model": "Symphony G10"
+  },
+  {
+    "manufacturer": "iMuz",
+    "market_name": "G10",
+    "codename": "G10",
+    "model": "G10"
   }
 ]

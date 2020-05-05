@@ -12,6 +12,12 @@
       "market_name": "Bolt",
       "codename": "Bolt",
       "model": "Bolt"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CoolminttTribe",
+      "codename": "CoolMinttTribe",
+      "model": "CoolMinttTribe"
     }
   ]
 }

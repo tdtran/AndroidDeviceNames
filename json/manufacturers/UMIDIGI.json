@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A3S",
+      "codename": "A3S",
+      "model": "A3S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A3S_EEA",
+      "codename": "A3S",
+      "model": "A3S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A3X",
+      "codename": "A3X",
+      "model": "A3X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3_Pro",
       "codename": "A3_Pro",
       "model": "A3_Pro"
@@ -21,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A7",
+      "codename": "A7",
+      "model": "A7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A7",
+      "codename": "A7_EEA",
+      "model": "A7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F1",
       "codename": "F1",
       "model": "F1"
@@ -30,6 +60,12 @@
       "market_name": "F1_EEA",
       "codename": "F1",
       "model": "F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F2",
+      "codename": "F2",
+      "model": "F2"
     },
     {
       "manufacturer": "",
@@ -69,6 +105,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power_3",
+      "codename": "Power_3",
+      "model": "Power_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power_3_EEA",
+      "codename": "Power_3",
+      "model": "Power_3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S2PRO",
       "codename": "S2_PRO",
       "model": "S2_PRO"
@@ -78,6 +126,12 @@
       "market_name": "S3_Pro",
       "codename": "S3_Pro",
       "model": "S3_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI X",
+      "codename": "UMIDIGI_X",
+      "model": "UMIDIGI X"
     },
     {
       "manufacturer": "",

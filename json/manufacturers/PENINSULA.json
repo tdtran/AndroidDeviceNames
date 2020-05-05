@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Peninsula",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "WP20",
+      "codename": "WP20",
+      "model": "WP20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP20N",
+      "codename": "WP20N",
+      "model": "WP20N"
+    }
+  ]
+}

@@ -3,9 +3,93 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "H10",
+      "codename": "H10",
+      "model": "H10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H10Pro_eea",
+      "codename": "H10Pro",
+      "model": "H10Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H10_US",
+      "codename": "H10_US",
+      "model": "H10_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H7",
+      "codename": "H7",
+      "model": "H7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H7_US",
+      "codename": "H7_US",
+      "model": "H7_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H8",
+      "codename": "H8",
+      "model": "H8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H8_US",
+      "codename": "H8_US",
+      "model": "H8_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M86",
+      "codename": "M86",
+      "model": "M86"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10",
       "codename": "T10",
       "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10LTE_eea",
+      "codename": "T10LTE",
+      "model": "T10LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T113",
+      "codename": "T113",
+      "model": "T113"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T113_eea",
+      "codename": "T113",
+      "model": "T113"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7_eea",
+      "codename": "T7",
+      "model": "T7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8",
+      "codename": "T8",
+      "model": "T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8_eea",
+      "codename": "T8",
+      "model": "T8"
     }
   ]
 }

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "New 5",
+      "codename": "NEW_5",
+      "model": "NEW 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OCEAN 6",
       "codename": "VGOTEL_OCEAN_6",
       "model": "Ocean 6"

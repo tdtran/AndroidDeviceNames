@@ -10,5 +10,11 @@
     "market_name": "K83",
     "codename": "K83",
     "model": "K83"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE ZPAD8",
+    "codename": "K83",
+    "model": "K83V"
   }
 ]

@@ -36,6 +36,12 @@
     "model": "Garmin-Asus A10"
   },
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "A10",
+    "codename": "A10",
+    "model": "A10"
+  },
+  {
     "manufacturer": "Lenovo",
     "market_name": "A10",
     "codename": "A10",

@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MINT_LEGEND",
+      "codename": "MINT_LEGEND",
+      "model": "Legend"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MINT_Pearl_plus",
       "codename": "MINT_Pearl_plus",
       "model": "Pearl+_M5PD"
@@ -90,6 +96,12 @@
       "market_name": "Mint Leo",
       "codename": "Mint_Leo",
       "model": "Mint Leo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mint Triton",
+      "codename": "Mint_Triton",
+      "model": "Mint Triton"
     },
     {
       "manufacturer": "",

@@ -21,7 +21,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Calltab 7\\xe2\\x80\\x9d",
+      "market_name": "Aqua_II",
+      "codename": "Aqua_II",
+      "model": "Aqua_II"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Calltab 7”",
       "codename": "Calltab7inch",
       "model": "Calltab7inch"
     },
@@ -57,9 +63,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Earth 7.0\\\u0027 3G",
+      "market_name": "Earth 7.0\u0027 3G",
       "codename": "Earth3G",
-      "model": "Earth 7.0\\\u00273G"
+      "model": "Earth 7.0\u00273G"
     },
     {
       "manufacturer": "",

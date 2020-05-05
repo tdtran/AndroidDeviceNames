@@ -33,7 +33,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Key\\\u0027TAB 1001",
+      "market_name": "Key\u0027TAB 1001",
       "codename": "MB979T9",
       "model": "Smarttab_9701"
     },
@@ -69,7 +69,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Smart\\\u0027 Tab 1006",
+      "market_name": "Smart\u0027 Tab 1006",
       "codename": "M16Q1A",
       "model": "SmartTab1006"
     },
@@ -81,7 +81,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Web\\\u0027Pad_1002_02",
+      "market_name": "Web\u0027Pad_1002_02",
       "codename": "Webpad_1002_02",
       "model": "Webpad_1002_02"
     },
@@ -90,6 +90,12 @@
       "market_name": "WebPad1004",
       "codename": "WebPad1004",
       "model": "WebPad1004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WebPad7007",
+      "codename": "WebPad7007",
+      "model": "WebPad7007"
     },
     {
       "manufacturer": "",

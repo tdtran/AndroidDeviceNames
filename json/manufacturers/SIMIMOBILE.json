@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G507",
+      "codename": "G507",
+      "model": "G507"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S502",
+      "codename": "S502",
+      "model": "S502"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S507",
       "codename": "S507",
       "model": "S507"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S630",
+      "codename": "S630",
+      "model": "S630"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S630M",
+      "codename": "S630M",
+      "model": "S630M"
     }
   ]
 }

@@ -6,6 +6,12 @@
       "market_name": "A1 Smart N9",
       "codename": "VFD720",
       "model": "VFD 720"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADT-3",
+      "codename": "adt3",
+      "model": "ADT-3"
     }
   ]
 }

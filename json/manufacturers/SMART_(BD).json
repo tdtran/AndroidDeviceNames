@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MQ703G",
+      "codename": "MQ703G",
+      "model": "MQ703G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MQ703G_1",
+      "codename": "MQ703G_1",
+      "model": "MQ703G_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SQ811G",
       "codename": "SQ811G",
       "model": "SQ811G"

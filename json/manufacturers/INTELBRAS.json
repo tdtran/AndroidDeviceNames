@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Intelbras",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IZY01",
+      "codename": "DV8038",
+      "model": "IZY01"
+    }
+  ]
+}

@@ -4,5 +4,11 @@
     "market_name": "Smart Box Android TV",
     "codename": "DV8038",
     "model": "Smart Box Android TV"
+  },
+  {
+    "manufacturer": "Intelbras",
+    "market_name": "IZY01",
+    "codename": "DV8038",
+    "model": "IZY01"
   }
 ]

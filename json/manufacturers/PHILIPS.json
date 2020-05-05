@@ -21,13 +21,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "4K \u0026 Full HD Slim LED TV powered by Android\\xe2\\x84\\xa2",
+      "market_name": "4K \u0026 Full HD Slim LED TV powered by Android™",
       "codename": "philips_MT5593FHT_EU",
       "model": "QM152E"
     },
     {
       "manufacturer": "",
-      "market_name": "4K \u0026 Full HD Slim LED TV powered by Android\\xe2\\x84\\xa2",
+      "market_name": "4K \u0026 Full HD Slim LED TV powered by Android™",
       "codename": "philips_MT5593HT_LT",
       "model": "QM152E"
     },
@@ -45,7 +45,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "4K Razor Slim LED TV powered by Android TV\\xe2\\x84\\xa2",
+      "market_name": "4K Razor Slim LED TV powered by Android TV™",
       "codename": "MT5593Uplus",
       "model": "QM151E"
     },
@@ -57,7 +57,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "4K UHD Razor Slim LED TV powered by Android\\xe2\\x84\\xa2",
+      "market_name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+      "codename": "PH9M_EA_5599",
+      "model": "TPM191E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+      "codename": "PH9M_EA_5599",
+      "model": "TPM191L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K UHD Razor Slim LED TV powered by Android™",
       "codename": "QV151E",
       "model": "QV151E"
     },
@@ -327,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philips SmartTV",
+      "codename": "freesia",
+      "model": "PHILIPS 4k TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philips V787",
       "codename": "Philips_Xenium_V787",
       "model": "Philips Xenium V787"
@@ -408,6 +426,12 @@
       "market_name": "S395",
       "codename": "S395",
       "model": "Philips S395"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "sindap",
+      "model": "PHILIPS 4K TV"
     },
     {
       "manufacturer": "",

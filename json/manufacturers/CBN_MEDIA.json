@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CBN Media",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "connect",
+      "codename": "connect",
+      "model": "connect"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "g-mee1",
+      "codename": "g-mee1",
+      "model": "g-mee1"
+    }
+  ]
+}

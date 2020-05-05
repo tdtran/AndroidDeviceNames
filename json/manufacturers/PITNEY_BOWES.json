@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Pitney Bowes C-Series",
+      "codename": "ELINK2",
+      "model": "CSD-ELINK2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SendPro C Series",
       "codename": "TitanX2",
       "model": "CSD-TXT2"

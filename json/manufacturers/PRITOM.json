@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Pritom",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K7",
+      "codename": "K7",
+      "model": "K7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P7PRO",
+      "codename": "P7PRO",
+      "model": "P7PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P7PRO_EEA",
+      "codename": "P7PRO_EEA",
+      "model": "P7PRO_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "USA",
+      "codename": "M10",
+      "model": "M10 Pro"
+    }
+  ]
+}

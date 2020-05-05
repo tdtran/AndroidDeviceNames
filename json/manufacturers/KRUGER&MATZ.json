@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DRIVE_6",
+      "codename": "DRIVE_6",
+      "model": "DRIVE_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DRIVE_6SS",
+      "codename": "DRIVE_6S",
+      "model": "DRIVE_6S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EAGLE 701",
       "codename": "EAGLE_KM0701_1",
       "model": "KM0701_1"
@@ -81,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FLOW7",
+      "codename": "FLOW7",
+      "model": "FLOW7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flow_7S_EEA",
+      "codename": "Flow_7S",
+      "model": "Flow 7S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM1066",
       "codename": "EAGLE_1066",
       "model": "KM1066"
@@ -95,7 +119,7 @@
       "manufacturer": "",
       "market_name": "LIVE 5",
       "codename": "LIVE_5",
-      "model": "Kr\\xc3\\xbcger\u0026Matz _LIVE5_KM0450"
+      "model": "Krüger\u0026Matz _LIVE5_KM0450"
     },
     {
       "manufacturer": "",
@@ -138,6 +162,18 @@
       "market_name": "MOVE8mini",
       "codename": "MOVE8mini",
       "model": "MOVE8mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOVE8mini",
+      "codename": "MOVE8mini_Q",
+      "model": "MOVE8mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOVE9",
+      "codename": "MOVE9",
+      "model": "MOVE9"
     },
     {
       "manufacturer": "",

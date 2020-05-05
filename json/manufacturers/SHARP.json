@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2T-BG1X",
+      "codename": "ebisu",
+      "model": "AQUOS-TVX19A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "2T-C12AF",
       "codename": "taurus_2tcxxaf",
       "model": "2T-C12AF"
@@ -63,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2T-C50BG1X",
+      "codename": "meguro",
+      "model": "AQUOS-TVX19C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "306SH",
       "codename": "SG306SH",
       "model": "306SH"
@@ -81,15 +93,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C**BN1/BL1",
+      "codename": "tcmeruj",
+      "model": "AQUOS-TVJ19B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C50AG1T",
       "codename": "LCD_50FOCAG1T",
       "model": "LCD_50FOCAG1T"
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA",
+      "codename": "Lcd_50sumtcca_xa",
+      "model": "LCD_50SUMTCCA_XA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C50BJ8T",
+      "codename": "gangnam",
+      "model": "TVX19B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C50BK1X",
+      "codename": "gangnam",
+      "model": "AQUOS-TVX19B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C50BK1X",
+      "codename": "jamsil",
+      "model": "AQUOS-TVX19D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C60BK2UD",
+      "codename": "guro",
+      "model": "AQUOS-TVU19A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "507SH",
       "codename": "eve_sprout",
       "model": "507SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8T-C**BW1",
+      "codename": "tcme8sj",
+      "model": "AQUOS-8KTVJ19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8T-C**CX1",
+      "codename": "tcme8tsj",
+      "model": "AQUOS-8KTVJ20"
     },
     {
       "manufacturer": "",
@@ -585,6 +645,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R5G 908SH",
+      "codename": "SG908SH",
+      "model": "908SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R5G SH-51A",
+      "codename": "SH-51A",
+      "model": "SH-51A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R5G SHG01",
+      "codename": "TGD",
+      "model": "SHG01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -654,6 +732,12 @@
       "market_name": "AQUOS U SHV37",
       "codename": "FSP",
       "model": "SHV37"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS V",
+      "codename": "VGO",
+      "model": "SH-C02"
     },
     {
       "manufacturer": "",
@@ -795,6 +879,66 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense3",
+      "codename": "PCZ-u",
+      "model": "SHV45-u"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 SH-02M",
+      "codename": "SH-02M",
+      "model": "SH-02M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 SH-M12",
+      "codename": "SH-M12",
+      "model": "SH-M12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 SHV45",
+      "codename": "PCZ",
+      "model": "SHV45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 basic (907SH)",
+      "codename": "SG907SH",
+      "model": "907SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 lite",
+      "codename": "SH-RM12",
+      "model": "SH-RM12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 plus (901SH)",
+      "codename": "SG901SH",
+      "model": "901SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 plus SH-M11",
+      "codename": "SH-M11",
+      "model": "SH-M11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 plus SH-RM11",
+      "codename": "SH-RM11",
+      "model": "SH-RM11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 plus　サウンド SHV46",
+      "codename": "OBY",
+      "model": "SHV46"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS zero",
       "codename": "SG801SH",
       "model": "801SH"
@@ -819,13 +963,37 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-02L",
+      "market_name": "AQUOS zero2 906SH",
+      "codename": "SG906SH",
+      "model": "906SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero2 SH-01M",
+      "codename": "SH-01M",
+      "model": "SH-01M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero2 SH-M13",
+      "codename": "SH-M13",
+      "model": "SH-M13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero2 SHV47",
+      "codename": "QDA",
+      "model": "SHV47"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS ケータイ SH-02L",
       "codename": "SH-02L",
       "model": "SH-02L"
     },
     {
       "manufacturer": "",
-      "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",
+      "market_name": "AQUOS ケータイ SH-06G",
       "codename": "SH-06G",
       "model": "SH-06G"
     },
@@ -852,6 +1020,12 @@
       "market_name": "C1",
       "codename": "MS1",
       "model": "FS8001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20",
+      "codename": "VGO",
+      "model": "SH-C02"
     },
     {
       "manufacturer": "",
@@ -936,6 +1110,12 @@
       "market_name": "EB-WX1GJ/EB-W51GJ",
       "codename": "Galapagos",
       "model": "EB-WX1GJ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "sindang",
+      "model": "AQUOS_TVE19A"
     },
     {
       "manufacturer": "",
@@ -1467,6 +1647,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S7",
+      "codename": "vespa_sprout",
+      "model": "S7-SH"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SBM204SH",
       "codename": "SBM204SH",
       "model": "SBM204SH"
@@ -1779,31 +1965,31 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe3\\x82\\xb7\\xe3\\x83\\xb3\\xe3\\x83\\x97\\xe3\\x83\\xab\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b\\xef\\xbc\\x93",
+      "market_name": "シンプルスマホ３",
       "codename": "SG509SH",
       "model": "509SH"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe3\\x82\\xb7\\xe3\\x83\\xb3\\xe3\\x83\\x97\\xe3\\x83\\xab\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b\\xef\\xbc\\x94",
+      "market_name": "シンプルスマホ４",
       "codename": "SG704SH",
       "model": "704SH"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",
+      "market_name": "ロボホン",
       "codename": "SR01MW",
       "model": "SR01MW"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",
+      "market_name": "ロボホン",
       "codename": "SR02MW",
       "model": "SR02MW"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",
+      "market_name": "ロボホン",
       "codename": "SRX002",
       "model": "SRX002"
     }

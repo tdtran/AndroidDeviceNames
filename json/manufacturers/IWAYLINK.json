@@ -1,0 +1,17 @@
+{
+  "manufacturer": "iWaylink",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MC401",
+      "codename": "MC401_GWL",
+      "model": "MC401_GWL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC601",
+      "codename": "TC601_GWL",
+      "model": "TC601_GWL"
+    }
+  ]
+}

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AUTOID Pad Air",
+      "codename": "d520",
+      "model": "AUTOID Pad Air"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AUTOID Q7",
+      "codename": "d310m",
+      "model": "AUTOID Q7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AUTOID9N",
       "codename": "d500b",
       "model": "AUTIOD9N"

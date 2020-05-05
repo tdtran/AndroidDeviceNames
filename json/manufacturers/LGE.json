@@ -795,6 +795,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aristo 4+",
+      "codename": "mh5lm",
+      "model": "LM-X320"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B6",
       "codename": "b6",
       "model": "LG-V426"
@@ -963,19 +969,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+      "market_name": "G PADⅢ 10.1",
       "codename": "th10",
       "model": "LG-X760"
     },
     {
       "manufacturer": "",
-      "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+      "market_name": "G PADⅢ 10.1",
       "codename": "th10",
       "model": "LG-X760E"
     },
     {
       "manufacturer": "",
-      "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+      "market_name": "G PADⅢ 10.1",
       "codename": "th10",
       "model": "LG-X760W"
     },
@@ -1008,6 +1014,24 @@
       "market_name": "G Pad 10.1 LTE",
       "codename": "e9lte",
       "model": "VK700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G Pad 5 10.1 FHD",
+      "codename": "tf10",
+      "model": "LM-T600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G Pad 5 10.1 FHD",
+      "codename": "tf10",
+      "model": "LM-T600L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G Pad 5 10.1 FHD",
+      "codename": "tf10w",
+      "model": "LM-T605"
     },
     {
       "manufacturer": "",
@@ -1089,19 +1113,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "G Pad \\xe2\\x85\\xa1 10.1",
+      "market_name": "G Pad Ⅱ 10.1",
       "codename": "t1lte",
       "model": "LGUK932"
     },
     {
       "manufacturer": "",
-      "market_name": "G Pad \\xe2\\x85\\xa1 10.1 FHD 4G LTE",
+      "market_name": "G Pad Ⅱ 10.1 FHD 4G LTE",
       "codename": "t1lte",
       "model": "LG-V935"
     },
     {
       "manufacturer": "",
-      "market_name": "G Pad \\xe2\\x85\\xa1 10.1 FHD 4G LTE",
+      "market_name": "G Pad Ⅱ 10.1 FHD 4G LTE",
       "codename": "t1lte",
       "model": "LG-V935T"
     },
@@ -1425,6 +1449,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G8X ThinQ",
+      "codename": "mh2lm",
+      "model": "901LG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G8X ThinQ",
+      "codename": "mh2lm",
+      "model": "LM-G850"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G8s",
       "codename": "betalm",
       "model": "LM-G810"
@@ -1491,12 +1527,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "K20",
-      "codename": "mmh6lm",
-      "model": "LM-X120"
-    },
-    {
-      "manufacturer": "",
       "market_name": "K3 2017",
       "codename": "lv0",
       "model": "LG-AS110"
@@ -1530,6 +1560,24 @@
       "market_name": "K4 (2017)",
       "codename": "lv1",
       "model": "LGL57BL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K50S",
+      "codename": "mmh45lm",
+      "model": "LM-X540"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K51S",
+      "codename": "mdh35lm",
+      "model": "LM-K510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K61",
+      "codename": "mdh40lm",
+      "model": "LM-Q630"
     },
     {
       "manufacturer": "",
@@ -2325,13 +2373,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0 2nd Gen",
+      "market_name": "LG G Pad F™ 8.0 2nd Gen",
       "codename": "t8lte",
       "model": "LG-AK495"
     },
     {
       "manufacturer": "",
-      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0 2nd Gen",
+      "market_name": "LG G Pad F™ 8.0 2nd Gen",
       "codename": "t8lte",
       "model": "LG-UK495"
     },
@@ -2427,13 +2475,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG G Pad X\\xc2\\xae II 10.1",
+      "market_name": "LG G Pad X® II 10.1",
       "codename": "b5",
       "model": "LGUK750"
     },
     {
       "manufacturer": "",
-      "market_name": "LG G Pad\\xe2\\x84\\xa2 X 8.0",
+      "market_name": "LG G Pad™ X 8.0",
       "codename": "b3",
       "model": "LG-V520"
     },
@@ -3129,19 +3177,25 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG G8 ThinQ\\xe2\\x84\\xa2",
+      "market_name": "LG G8 ThinQ™",
+      "codename": "alphaamz",
+      "model": "LM-G820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG G8 ThinQ™",
       "codename": "alphalm",
       "model": "LM-G820"
     },
     {
       "manufacturer": "",
-      "market_name": "LG G8 ThinQ\\xe2\\x84\\xa2",
+      "market_name": "LG G8 ThinQ™",
       "codename": "alphaplus",
       "model": "LM-G820N"
     },
     {
       "manufacturer": "",
-      "market_name": "LG GRACE\\xe2\\x84\\xa2 LTE",
+      "market_name": "LG GRACE™ LTE",
       "codename": "lv517",
       "model": "LGL59BL"
     },
@@ -3465,6 +3519,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG K40S",
+      "codename": "mmh55lm",
+      "model": "LM-X430"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K41S",
+      "codename": "mdh15lm",
+      "model": "LM-K410"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG K5",
       "codename": "d3",
       "model": "LG-X220"
@@ -3621,7 +3687,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG K8+(2018)",
+      "market_name": "LG K8(2018)",
       "codename": "mcv150",
       "model": "LM-X210"
     },
@@ -3651,7 +3717,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG LEON\\xe2\\x84\\xa2 LTE",
+      "market_name": "LG L455DL",
+      "codename": "mdh10lm",
+      "model": "LGL455DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG L455DL",
+      "codename": "mdh10lm",
+      "model": "LM-K400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG LEON™ LTE",
       "codename": "c50",
       "model": "LG-H345"
     },
@@ -3765,7 +3843,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG Mach\\xe2\\x84\\xa2",
+      "market_name": "LG Mach™",
       "codename": "l2s",
       "model": "LG-LS860"
     },
@@ -3849,7 +3927,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG Optimus ELITE\\xe2\\x84\\xa2",
+      "market_name": "LG Optimus ELITE™",
       "codename": "m3s",
       "model": "LG-VM696"
     },
@@ -5127,6 +5205,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Stylo 5+",
+      "codename": "cv7as-pr",
+      "model": "LM-Q720"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG Stylo3",
       "codename": "sf317",
       "model": "LG-M430"
@@ -5235,7 +5319,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LG Tribute 2\\xe2\\x84\\xa2",
+      "market_name": "LG Tribute 2™",
       "codename": "c50",
       "model": "LGLS665"
     },
@@ -5256,6 +5340,12 @@
       "market_name": "LG Tribute Empire",
       "codename": "mcv1s",
       "model": "LM-X220PM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Tribute Royal",
+      "codename": "mmh5lm",
+      "model": "LM-X320"
     },
     {
       "manufacturer": "",
@@ -5286,6 +5376,18 @@
       "market_name": "LG V50 ThinQ",
       "codename": "flashlmdd",
       "model": "LM-V500N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG V60 ThinQ",
+      "codename": "timelm",
+      "model": "LM-V600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG V60 ThinQ",
+      "codename": "timelm",
+      "model": "LM-V600N"
     },
     {
       "manufacturer": "",
@@ -5370,6 +5472,12 @@
       "market_name": "LG Watch Urbane 2nd Edition LTE",
       "codename": "nemo",
       "model": "LG Watch Urbane"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Watch W7",
+      "codename": "narwhal",
+      "model": "LG Watch W7"
     },
     {
       "manufacturer": "",
@@ -5826,6 +5934,12 @@
       "market_name": "LG-E985T",
       "codename": "gvarfhd",
       "model": "LG-E985T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG-K41S",
+      "codename": "mdh15lm",
+      "model": "LM-K410"
     },
     {
       "manufacturer": "",
@@ -7023,6 +7137,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q51",
+      "codename": "mdh30lm",
+      "model": "LM-Q510N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q61",
+      "codename": "mdh40lm",
+      "model": "LM-Q630"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q61",
+      "codename": "mdh40lm",
+      "model": "LM-Q630N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q8",
       "codename": "anna",
       "model": "LG-H970"
@@ -7125,6 +7257,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Signature",
+      "codename": "flashsignaturelm",
+      "model": "LM-V520N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart Dios V8700",
       "codename": "SE_TF",
       "model": "ref_SCTF"
@@ -7200,6 +7338,18 @@
       "market_name": "TBD",
       "codename": "aka",
       "model": "LG-F520K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR3BF",
+      "codename": "Hi3751V811",
+      "model": "65TR3BF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR3BF",
+      "codename": "Hi3751V811",
+      "model": "86TR3BF"
     },
     {
       "manufacturer": "",
@@ -7491,6 +7641,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V50S ThinQ",
+      "codename": "mh2lm",
+      "model": "LM-V510N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VU3",
       "codename": "vu3",
       "model": "LG-F300K"
@@ -7515,9 +7671,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "W10 Alpha",
+      "codename": "Neo2ALP",
+      "model": "LM-X210LMW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W30",
       "codename": "LM-X440IM",
       "model": "LM-X440IM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W30",
+      "codename": "LM-X440ZM",
+      "model": "LM-X440ZM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W30",
+      "codename": "LM-X440ZMW",
+      "model": "LM-X440ZMW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W30 Pro",
+      "codename": "Neo4LM",
+      "model": "LM-X600IM"
     },
     {
       "manufacturer": "",

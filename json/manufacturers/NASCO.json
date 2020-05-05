@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CANDY2",
+      "codename": "CANDY2",
+      "model": "CANDY2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hero",
       "codename": "NAS-510",
       "model": "Hero"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MARS7",
+      "codename": "MARS7",
+      "model": "MARS7"
     },
     {
       "manufacturer": "",

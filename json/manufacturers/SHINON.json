@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SHINON",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Iraq",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Iraq",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

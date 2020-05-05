@@ -24,6 +24,12 @@
       "market_name": "T84G",
       "codename": "T84G",
       "model": "T84G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPOS74G-IGF720",
+      "codename": "TPOS74G-IGF720",
+      "model": "TPOS74G-IGF720"
     }
   ]
 }

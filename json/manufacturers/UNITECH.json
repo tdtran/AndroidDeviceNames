@@ -3,13 +3,43 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EA320",
+      "codename": "EA320",
+      "model": "EA320"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EA500Plus",
       "codename": "EA500Plus",
       "model": "EA500Plus"
     },
     {
       "manufacturer": "",
+      "market_name": "EA510",
+      "codename": "EA510",
+      "model": "EA510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EA630",
+      "codename": "EA630",
+      "model": "EA630"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PA760",
+      "codename": "PA760",
+      "model": "PA760"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PA760_EE",
+      "codename": "PA760",
+      "model": "PA760"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PA760_FP",
       "codename": "PA760",
       "model": "PA760"
     },

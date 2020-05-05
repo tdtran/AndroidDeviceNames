@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DL3",
+      "codename": "DL3",
+      "model": "DL3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL3Plus",
+      "codename": "DL3Plus",
+      "model": "DL3Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL3_3G",
+      "codename": "DL3_3G",
+      "model": "DL3_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DL501",
       "codename": "DL501",
       "model": "DL501"

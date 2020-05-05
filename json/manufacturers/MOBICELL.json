@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BEAM",
+      "codename": "BEAM",
+      "model": "BEAM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BERRY",
       "codename": "BERRY",
       "model": "BERRY"
@@ -45,15 +51,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLINK",
+      "codename": "BLINK",
+      "model": "BLINK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Berry 2",
+      "codename": "BERRY_2",
+      "model": "BERRY 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CHERRY",
       "codename": "CHERRY",
       "model": "CHERRY"
     },
     {
       "manufacturer": "",
+      "market_name": "CLIK",
+      "codename": "CLIK",
+      "model": "CLIK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COSMO",
       "codename": "COSMO",
       "model": "COSMO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CRAZE",
+      "codename": "CRAZE",
+      "model": "CRAZE"
     },
     {
       "manufacturer": "",
@@ -69,6 +99,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DANDY_RW",
+      "codename": "DANDY_RW",
+      "model": "DANDY_RW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DANDY_ZAM",
+      "codename": "DANDY_ZAM",
+      "model": "DANDY_ZAM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ECHO",
       "codename": "ECHO",
       "model": "ECHO"
@@ -81,9 +123,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FAME",
+      "codename": "FAME",
+      "model": "FAME"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FAME_DS",
+      "codename": "FAME_DS",
+      "model": "FAME_DS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FENDY_DS",
+      "codename": "FENDY_DS",
+      "model": "FENDY_DS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FEVER",
       "codename": "FEVER",
       "model": "FEVER"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FEVER_PLUS_H",
+      "codename": "FEVER_PLUS_H",
+      "model": "FEVER_PLUS_H"
     },
     {
       "manufacturer": "",
@@ -99,9 +165,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fever_Plus_J",
+      "codename": "Fever_Plus_J",
+      "model": "Fever_Plus_J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GEO",
+      "codename": "GEO",
+      "model": "GEO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GLO",
+      "codename": "GLO",
+      "model": "GLO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GLO_2",
+      "codename": "GLO_2",
+      "model": "GLO 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HERO",
+      "codename": "HERO",
+      "model": "HERO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HERO X",
       "codename": "HERO_X",
       "model": "HERO_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HERO_DS",
+      "codename": "HERO_DS",
+      "model": "HERO_DS"
     },
     {
       "manufacturer": "",
@@ -225,6 +327,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R4 LTE",
+      "codename": "R4_LTE",
+      "model": "R4 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R7",
+      "codename": "R7",
+      "model": "R7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R8",
       "codename": "R8",
       "model": "R8"
@@ -243,6 +357,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RIO 2",
+      "codename": "RIO_2",
+      "model": "RIO 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RIO_BN",
+      "codename": "RIO_BN",
+      "model": "RIO_BN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RIO_DS",
+      "codename": "RIO_DS",
+      "model": "RIO_DS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RIO_GN",
+      "codename": "RIO_GN",
+      "model": "RIO_GN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RIO_RW",
+      "codename": "RIO_RW",
+      "model": "RIO_RW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RIO_SS",
+      "codename": "RIO_SS",
+      "model": "RIO_SS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RIO_ZAM",
+      "codename": "RIO_ZAM",
+      "model": "RIO_ZAM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RUBY",
+      "codename": "RUBY",
+      "model": "RUBY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RUSH",
       "codename": "RUSH",
       "model": "RUSH"
@@ -258,6 +420,12 @@
       "market_name": "SHIFT",
       "codename": "SHIFT",
       "model": "SHIFT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STAR",
+      "codename": "STAR",
+      "model": "STAR"
     },
     {
       "manufacturer": "",
@@ -363,6 +531,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VENUS_G",
+      "codename": "VENUS_G",
+      "model": "VENUS_G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "X1",
+      "model": "X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X4",
       "codename": "X4",
       "model": "X4"
@@ -378,6 +558,12 @@
       "market_name": "ZOOM",
       "codename": "ZOOM",
       "model": "ZOOM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZOOM_H",
+      "codename": "ZOOM_H",
+      "model": "ZOOM-H"
     },
     {
       "manufacturer": "",

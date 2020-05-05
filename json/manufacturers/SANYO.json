@@ -54,6 +54,12 @@
       "market_name": "CER3",
       "codename": "CER3",
       "model": "CER3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SanyoTV",
+      "codename": "shibuya",
+      "model": "SanyoTV"
     }
   ]
 }

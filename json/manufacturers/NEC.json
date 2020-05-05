@@ -3,7 +3,7 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "101T \\xe3\\x80\\x80MEDIAS",
+      "market_name": "101T 　MEDIAS",
       "codename": "NEC-101",
       "model": "NEC-101T"
     },
@@ -33,13 +33,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "CASIO G\\\u0027zOne Commando 4G LTE",
+      "market_name": "CASIO G\u0027zOne Commando 4G LTE",
       "codename": "C811",
       "model": "C811 4G"
     },
     {
       "manufacturer": "",
-      "market_name": "Casio G\\\u0027zOne Commando",
+      "market_name": "Casio G\u0027zOne Commando",
       "codename": "C771",
       "model": "C771"
     },
@@ -51,19 +51,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "G\\\u0027z One IS11CA",
+      "market_name": "G\u0027z One IS11CA",
       "codename": "IS11CA",
       "model": "IS11CA"
     },
     {
       "manufacturer": "",
-      "market_name": "G\\\u0027zOne TYPE-L CAL21",
+      "market_name": "G\u0027zOne TYPE-L CAL21",
       "codename": "CAL21",
       "model": "CAL21"
     },
     {
       "manufacturer": "",
-      "market_name": "G\\xe2\\x80\\x99zOne CA-201L",
+      "market_name": "G’zOne CA-201L",
       "codename": "CA201L",
       "model": "CA-201L"
     },
@@ -78,6 +78,24 @@
       "market_name": "LAVIE Tab E",
       "codename": "PC-TE508HAW",
       "model": "PC-TE508HAW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab E 10FHD1",
+      "codename": "LAVIETabE10FHD1",
+      "model": "LAVIE Tab E 10FHD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab E 8FHD1",
+      "codename": "LAVIETabE8FHD1",
+      "model": "LAVIE Tab E 8FHD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab E 8HD1",
+      "codename": "LAVIETabE8HD1",
+      "model": "LAVIE Tab E 8HD1"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KidsTAB7_EEA",
+      "codename": "KidsTAB7",
+      "model": "KidsTAB7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LaserTAB10",
+      "codename": "LaserTAB10",
+      "model": "LaserTAB10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PlatinumTAB10",
       "codename": "PlatinumTAB10",
       "model": "PlatinumTAB10"

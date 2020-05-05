@@ -1,0 +1,23 @@
+{
+  "manufacturer": "BRAVA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DU 400",
+      "codename": "DU_400",
+      "model": "DU_400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DU-500",
+      "codename": "DU-500",
+      "model": "DU-500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DU-600",
+      "codename": "DU_600",
+      "model": "DU-600"
+    }
+  ]
+}

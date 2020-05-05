@@ -16,5 +16,11 @@
     "market_name": "MI CC 9",
     "codename": "pyxis",
     "model": "Pyxis"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 9 Lite",
+    "codename": "pyxis",
+    "model": "Mi 9 Lite"
   }
 ]

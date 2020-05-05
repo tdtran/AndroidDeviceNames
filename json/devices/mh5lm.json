@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "Aristo 4+",
+    "codename": "mh5lm",
+    "model": "LM-X320"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "MY LG Mobile",
     "codename": "mh5lm",
     "model": "LM-X320"

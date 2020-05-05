@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A10 Max",
+      "codename": "A10_Max",
+      "model": "A10_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A10 Plus",
       "codename": "A10_Plus",
       "model": "A10_Plus"
@@ -111,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALLVIEW",
+      "codename": "bangbae",
+      "model": "ALLVIEW 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX4 Nano Plus",
       "codename": "AX4Nano_plus",
       "model": "AX4Nano_plus"
@@ -132,6 +144,12 @@
       "market_name": "AX503",
       "codename": "AX503",
       "model": "AX503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Allview 2K TV",
+      "codename": "shinagawa",
+      "model": "Allview 2K TV"
     },
     {
       "manufacturer": "",
@@ -615,6 +633,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V4 Viper PRO",
+      "codename": "V4_Viper_PRO",
+      "model": "V4_Viper_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva 1001G",
       "codename": "Viva_1001G",
       "model": "Viva_1001G"
@@ -633,6 +657,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Viva 803G",
+      "codename": "Viva_803G",
+      "model": "Viva_803G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva C701",
       "codename": "Viva_C701",
       "model": "Viva_C701"
@@ -642,6 +672,12 @@
       "market_name": "Viva C702",
       "codename": "Viva_C702",
       "model": "Viva_C702"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva C703",
+      "codename": "Viva_C703",
+      "model": "Viva_C703"
     },
     {
       "manufacturer": "",
@@ -972,6 +1008,18 @@
       "market_name": "X6 Soul mini",
       "codename": "X6_Soul_mini",
       "model": "X6_Soul_mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7 Soul Style",
+      "codename": "X7_Soul_Style",
+      "model": "X7_Soul_Style"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7_Soul_Pro_EEA",
+      "codename": "X7_Soul_Pro",
+      "model": "X7_Soul_Pro"
     }
   ]
 }

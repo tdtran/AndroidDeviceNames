@@ -4,5 +4,11 @@
     "market_name": "Emulator",
     "codename": "generic_x86",
     "model": "Android SDK built for x86"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "gcar emulator",
+    "codename": "generic_x86",
+    "model": "Automotive SDK built for x86"
   }
 ]

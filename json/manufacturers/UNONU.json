@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "UNONU U4001",
+      "codename": "UNONU_U4001",
+      "model": "U4001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UNONU X5C",
       "codename": "X5C",
       "model": "X5C"
@@ -42,6 +48,24 @@
       "market_name": "W50A",
       "codename": "W50A",
       "model": "W50A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W55G",
+      "codename": "W55G",
+      "model": "W55G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W55_PLUS_B125",
+      "codename": "W55_PLUS",
+      "model": "W55_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W55_PLUS_B18",
+      "codename": "W55_PLUS",
+      "model": "W55_PLUS"
     },
     {
       "manufacturer": "",

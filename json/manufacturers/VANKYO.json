@@ -3,6 +3,72 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S20",
+      "codename": "S20",
+      "model": "S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S20_EEA",
+      "codename": "S20_EEA",
+      "model": "S20_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S21",
+      "codename": "S21",
+      "model": "S21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S21_EEA",
+      "codename": "S21_EEA",
+      "model": "S21_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S30",
+      "codename": "S30",
+      "model": "S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S30_EEA",
+      "codename": "S30_EEA",
+      "model": "S30_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S7",
+      "codename": "S7",
+      "model": "S7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S7_EEA",
+      "codename": "S7_EEA",
+      "model": "S7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8_EEA",
+      "codename": "S8_EEA",
+      "model": "S8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vankyo_S10",
+      "codename": "Vankyo_S10",
+      "model": "Vankyo_S10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vankyo_S10_EEA",
+      "codename": "Vankyo_S10_EEA",
+      "model": "Vankyo_S10_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z1",
       "codename": "Z1",
       "model": "Z1"
@@ -30,6 +96,12 @@
       "market_name": "Z4_EEA",
       "codename": "Z4_EEA",
       "model": "Z4_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "s8",
+      "codename": "S8",
+      "model": "S8"
     }
   ]
 }

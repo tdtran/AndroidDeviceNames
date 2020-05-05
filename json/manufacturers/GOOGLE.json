@@ -11,6 +11,12 @@
       "manufacturer": "",
       "market_name": "Chromebook 14 (CB3-431)",
       "codename": "edgar_cheets",
+      "model": "Acer Chromebook 14 (CB3-431)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook 14 (CB3-431)",
+      "codename": "edgar_cheets",
       "model": "Chromebook 14 (CB3-431)"
     },
     {
@@ -30,6 +36,12 @@
       "market_name": "Chromebox",
       "codename": "fizz_cheets",
       "model": "fizz"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Emualtor",
+      "codename": "generic_x86_arm",
+      "model": "AOSP on IA Emulator"
     },
     {
       "manufacturer": "",
@@ -99,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Intel Comet Lake U Chromebook",
+      "codename": "hatch_cheets",
+      "model": "hatch"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Intel Gemini Lake Chromebook",
       "codename": "octopus_cheets",
       "model": "octopus"
@@ -111,9 +129,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mediatek MT8183 Tablet",
+      "codename": "kukui_cheets",
+      "model": "kukui"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mediatek MTK8173 Chromebook",
       "codename": "hana_cheets",
       "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediatek MTK8173 Chromebook",
+      "codename": "hana_cheets",
+      "model": "Mediatek MT8173 Chromebook"
     },
     {
       "manufacturer": "",
@@ -165,9 +195,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixel 4",
+      "codename": "flame",
+      "model": "Pixel 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 4 XL",
+      "codename": "coral",
+      "model": "Pixel 4 XL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixel C",
       "codename": "dragon",
       "model": "Pixel C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel Slate",
+      "codename": "nocturne_cheets",
+      "model": "Google Pixel Slate"
     },
     {
       "manufacturer": "",
@@ -228,6 +276,12 @@
       "market_name": "Rockchip RK3288 Chromebook",
       "codename": "mighty_cheets",
       "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "gcar emulator",
+      "codename": "generic_x86",
+      "model": "Automotive SDK built for x86"
     }
   ]
 }

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "BDQ",
+    "market_name": "Destiny",
+    "codename": "Destiny",
+    "model": "Destiny"
+  },
+  {
     "manufacturer": "Stylo",
     "market_name": "Destiny",
     "codename": "Destiny",

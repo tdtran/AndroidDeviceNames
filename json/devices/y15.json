@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "StarMobile",
+    "market_name": "Y15",
+    "codename": "Y15",
+    "model": "Y15"
+  },
+  {
     "manufacturer": "Vivo",
     "market_name": "Y15",
     "codename": "Y15",

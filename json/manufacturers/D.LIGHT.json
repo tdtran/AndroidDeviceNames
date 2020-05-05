@@ -12,6 +12,12 @@
       "market_name": "M1000",
       "codename": "M1000",
       "model": "M1000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M1000D",
+      "codename": "M1000",
+      "model": "M1000"
     }
   ]
 }

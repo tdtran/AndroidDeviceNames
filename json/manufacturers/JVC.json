@@ -15,15 +15,57 @@
     },
     {
       "manufacturer": "",
-      "market_name": "DM65UXR\\\\DM65USR\\\\DM85UXR",
+      "market_name": "Australia",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Central America",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DM65UXR\\DM65USR\\DM85UXR",
       "codename": "mstarnapoli_atsc",
       "model": "DM65UXR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "bangbae",
+      "model": "EU 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "bangbae",
+      "model": "Engel 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "bangbae",
+      "model": "JVC 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "seocho",
+      "model": "JVC 4K Android TV"
     },
     {
       "manufacturer": "",
       "market_name": "JVC J20",
       "codename": "Cunda",
       "model": "J20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-32K397",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
     }
   ]
 }

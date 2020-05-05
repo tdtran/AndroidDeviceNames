@@ -16,5 +16,11 @@
     "market_name": "Optimus 2X",
     "codename": "star",
     "model": "LG-SU660"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "STAR",
+    "codename": "STAR",
+    "model": "STAR"
   }
 ]

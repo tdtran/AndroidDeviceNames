@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sagemcom",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Wibox",
+      "codename": "dtiw384wb",
+      "model": "m384wb"
+    }
+  ]
+}

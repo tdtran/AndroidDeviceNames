@@ -1,0 +1,17 @@
+{
+  "manufacturer": "DayMark",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IT119345",
+      "codename": "IT119345",
+      "model": "IT119345"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IT119411",
+      "codename": "IT119411",
+      "model": "IT119411"
+    }
+  ]
+}

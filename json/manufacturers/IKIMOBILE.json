@@ -30,6 +30,12 @@
       "market_name": "KF45",
       "codename": "KF45",
       "model": "KF45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab4you_6",
+      "codename": "Tab4you_6",
+      "model": "Tab4you_6"
     }
   ]
 }

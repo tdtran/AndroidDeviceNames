@@ -52,5 +52,11 @@
     "market_name": "S8_",
     "codename": "S8",
     "model": "Ulefone S8"
+  },
+  {
+    "manufacturer": "Vankyo",
+    "market_name": "s8",
+    "codename": "S8",
+    "model": "S8"
   }
 ]

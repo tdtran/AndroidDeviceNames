@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Mobicell",
+    "market_name": "R7",
+    "codename": "R7",
+    "model": "R7"
+  },
+  {
     "manufacturer": "Oppo",
     "market_name": "R7",
     "codename": "R7",
@@ -22,5 +28,11 @@
     "market_name": "R7t",
     "codename": "R7",
     "model": "R7t"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note10 Lite",
+    "codename": "r7",
+    "model": "SM-N770F"
   }
 ]

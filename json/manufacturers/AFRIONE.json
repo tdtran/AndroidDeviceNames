@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CYGNUS",
+      "codename": "CYGNUS",
+      "model": "CYGNUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CYGNUSX",
+      "codename": "CYGNUSX",
+      "model": "CYGNUSX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ChampionPro",
       "codename": "ChampionPro",
       "model": "ChampionPro"

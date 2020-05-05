@@ -4,5 +4,11 @@
     "market_name": "AirStick 4K",
     "codename": "ts302",
     "model": "AirStick 4K"
+  },
+  {
+    "manufacturer": "CCC",
+    "market_name": "LifeStick 4k",
+    "codename": "ts302",
+    "model": "LifeStick 4K"
   }
 ]

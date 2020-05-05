@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "6S",
+      "codename": "6S",
+      "model": "6S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SGINO6",
       "codename": "SGINO6",
       "model": "SGINO6"

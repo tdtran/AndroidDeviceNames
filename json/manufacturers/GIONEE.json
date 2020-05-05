@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F10",
+      "codename": "F10",
+      "model": "GIONEE F10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10 Plus",
+      "codename": "F10_Plus",
+      "model": "GIONEE F10 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F100",
       "codename": "GIONEE_GBL7358",
       "model": "F100"
@@ -171,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F9",
+      "codename": "F9",
+      "model": "GIONEE F9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F9 Plus",
       "codename": "F9_Plus",
       "model": "GIONEE F9 Plus"
@@ -228,6 +246,18 @@
       "market_name": "GIONEE X1",
       "codename": "GIONEE_SWW1631",
       "model": "GIONEE X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE_M100",
+      "codename": "GIONEE_M100",
+      "model": "M100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE_M11",
+      "codename": "GIONEE_M11",
+      "model": "M11"
     },
     {
       "manufacturer": "",

@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HT-705PRO",
+      "codename": "HT-705PRO",
+      "model": "HT-705PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT-705XS",
+      "codename": "HT-705XS",
+      "model": "HT-705XS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT-705_Go",
       "codename": "HT-705_Go",
       "model": "HT-705 Go"

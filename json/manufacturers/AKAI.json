@@ -24,6 +24,12 @@
       "market_name": "FZ703",
       "codename": "FZ703",
       "model": "FZ703"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MD1063",
+      "codename": "MD1063",
+      "model": "MD1063"
     }
   ]
 }

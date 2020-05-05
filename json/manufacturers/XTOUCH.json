@@ -27,9 +27,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S10",
+      "codename": "S10",
+      "model": "S10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S20",
+      "codename": "S20",
+      "model": "S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40",
+      "codename": "S40",
+      "model": "S40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X10",
       "codename": "X10",
       "model": "X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X40",
+      "codename": "X40",
+      "model": "X40"
     },
     {
       "manufacturer": "",

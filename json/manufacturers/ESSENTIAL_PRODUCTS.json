@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Essential",
+      "codename": "Essential",
+      "model": "Essential"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PH-1",
       "codename": "mata",
       "model": "PH-1"

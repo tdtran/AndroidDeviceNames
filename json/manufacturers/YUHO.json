@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Candy",
+      "codename": "Candy",
+      "model": "Candy"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Candy_Pro",
+      "codename": "Candy_Pro",
+      "model": "Candy_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Netra_Lite",
+      "codename": "Netra_Lite",
+      "model": "Netra_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Netra_Plus",
+      "codename": "Netra_Plus",
+      "model": "Netra_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "O2 PRO",
       "codename": "YUHO_O2_PRO",
       "model": "YUHO_O2_PRO"

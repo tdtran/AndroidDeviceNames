@@ -25,15 +25,15 @@
   },
   {
     "manufacturer": "TCL",
-    "market_name": "TCL C9",
-    "codename": "Venice",
-    "model": "5148A"
-  },
-  {
-    "manufacturer": "TCL",
     "market_name": "TCL C9 Plus",
     "codename": "Venice",
     "model": "5148I"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL T9",
+    "codename": "Venice",
+    "model": "5148A"
   },
   {
     "manufacturer": "TCT (Alcatel)",
@@ -52,6 +52,12 @@
     "market_name": "Alcatel 3X",
     "codename": "Venice",
     "model": "5048U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Venice",
+    "model": "5048U_EEA"
   },
   {
     "manufacturer": "TCT (Alcatel)",

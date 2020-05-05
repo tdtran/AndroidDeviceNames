@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A25",
+      "codename": "itel-L5002",
+      "model": "itel L5002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A25 Pro",
+      "codename": "itel-L5002P",
+      "model": "itel L5002P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A31 Plus",
       "codename": "itel-A31Plus",
       "model": "itel A31Plus"
@@ -126,6 +138,12 @@
       "market_name": "A46",
       "codename": "itel-L5503",
       "model": "itel L5503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A46",
+      "codename": "itel-L5503L",
+      "model": "itel L5503L"
     },
     {
       "manufacturer": "",
@@ -195,6 +213,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P15",
+      "codename": "itel-W5005",
+      "model": "itel W5005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P15",
+      "codename": "itel-W5005P",
+      "model": "itel W5005P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P31",
       "codename": "itel-P31",
       "model": "itel P31"
@@ -216,6 +246,12 @@
       "market_name": "P33 Plus",
       "codename": "itel-W6001",
       "model": "itel W6001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P36",
+      "codename": "itel-W6501",
+      "model": "itel W6501"
     },
     {
       "manufacturer": "",
@@ -273,6 +309,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S15",
+      "codename": "itel-W6002",
+      "model": "itel W6002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S15",
+      "codename": "itel-W6002E",
+      "model": "itel W6002E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S15 Pro(VISION)",
+      "codename": "itel-L6002P",
+      "model": "itel L6002P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S21",
       "codename": "itel-S21",
       "model": "itel S21"
@@ -312,6 +366,24 @@
       "market_name": "S42",
       "codename": "itel-S42",
       "model": "itel S42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP591",
+      "codename": "itel-W6004",
+      "model": "itel W6004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision1",
+      "codename": "itel-L6005",
+      "model": "itel L6005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision1 Plus(P36 Pro LTE)",
+      "codename": "itel-L6501",
+      "model": "itel L6501"
     },
     {
       "manufacturer": "",
@@ -592,6 +664,12 @@
     {
       "manufacturer": "",
       "market_name": "itel A23",
+      "codename": "itel-A23",
+      "model": "itel A23R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A23",
       "codename": "itel-A23F",
       "model": "itel A23"
     },
@@ -606,6 +684,12 @@
       "market_name": "itel A31",
       "codename": "itel_A31",
       "model": "itel A31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A36",
+      "codename": "itel-W5505",
+      "model": "itel W5505"
     },
     {
       "manufacturer": "",
@@ -645,6 +729,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A47",
+      "codename": "itel-L5505",
+      "model": "itel L5505"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A52",
       "codename": "itel-A52",
       "model": "itel A52"
@@ -663,9 +753,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A55 LTE",
+      "codename": "itel-L6003P",
+      "model": "itel L6003P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A56 LTE",
+      "codename": "itel-L6004",
+      "model": "itel L6004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A56 Pro",
+      "codename": "itel-W6004P",
+      "model": "itel W6004P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A56 Pro LTE",
+      "codename": "itel-L6004P",
+      "model": "itel L6004P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel AC12",
+      "codename": "itel-A14",
+      "model": "itel A14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel AC32",
       "codename": "itel-A16S",
       "model": "itel A16S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel AC32",
+      "codename": "itel-W5004",
+      "model": "itel W5004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel AC60",
+      "codename": "itel-L6004L",
+      "model": "itel L6004L"
     },
     {
       "manufacturer": "",
@@ -702,6 +834,12 @@
       "market_name": "itel S32LTE",
       "codename": "itel-S32LTE",
       "model": "itel S32LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel Vision1(P36 Play)",
+      "codename": "itel-L6005",
+      "model": "itel L6005"
     },
     {
       "manufacturer": "",

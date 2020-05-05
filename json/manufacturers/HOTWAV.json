@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pearl_K2_Prime",
+      "codename": "Pearl_K2_Prime",
+      "model": "Pearl K2 Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pearl_K3_Lite",
+      "codename": "Pearl_K3",
+      "model": "Pearl K3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Symbol",
       "codename": "Symbol",
       "model": "Symbol"
@@ -150,6 +162,12 @@
       "market_name": "Symbol X",
       "codename": "Symbol_X",
       "model": "Symbol X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venus",
+      "codename": "Venus",
+      "model": "Venus"
     }
   ]
 }

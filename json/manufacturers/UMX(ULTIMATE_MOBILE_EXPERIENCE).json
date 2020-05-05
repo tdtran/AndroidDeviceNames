@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "U2-PLUS-TE-VR",
+      "codename": "U2-PLUS-TE-VR",
+      "model": "U2-PLUS-TE-VR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U2VR",
       "codename": "U2VR",
       "model": "U2VR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U3AR",
+      "codename": "U3AR",
+      "model": "U3AR"
     },
     {
       "manufacturer": "",
@@ -24,6 +36,12 @@
       "market_name": "U683CL",
       "codename": "U683CL",
       "model": "U683CL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U693CL",
+      "codename": "U693CL",
+      "model": "U693CL"
     }
   ]
 }

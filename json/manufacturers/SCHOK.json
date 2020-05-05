@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SCHOK",
+      "codename": "SM7216H",
+      "model": "SM7216H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "freedom turbo",
       "codename": "SFT5216",
       "model": "freedom turbo"

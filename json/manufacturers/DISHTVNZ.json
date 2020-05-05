@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A7070",
+      "codename": "STB",
+      "model": "A7070"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SV10",
       "codename": "HiCast",
       "model": "SV10"

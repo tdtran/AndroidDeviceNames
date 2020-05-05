@@ -6,6 +6,30 @@
       "market_name": "S12",
       "codename": "S12",
       "model": "S12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10S",
+      "codename": "T10S",
+      "model": "T10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7Q-4G",
+      "codename": "T7Q-4G",
+      "model": "T7Q-4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8Q-4G",
+      "codename": "T8Q-4G",
+      "model": "T8Q-4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8S",
+      "codename": "T8S",
+      "model": "T8S"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Mione",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A10",
+      "codename": "MIONEI",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mione_Pro",
+      "codename": "MIONEI",
+      "model": "Mione_Pro"
+    }
+  ]
+}

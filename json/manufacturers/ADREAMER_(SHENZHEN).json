@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Adreamer (Shenzhen)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TH10",
+      "codename": "TH10",
+      "model": "TH10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TH10_Tab",
+      "codename": "TH10_Tab",
+      "model": "TH10_Tab"
+    }
+  ]
+}

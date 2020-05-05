@@ -57,15 +57,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E475",
+      "codename": "E475",
+      "model": "E475"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E503F",
       "codename": "E503F",
       "model": "E503F"
     },
     {
       "manufacturer": "",
+      "market_name": "E553",
+      "codename": "E553",
+      "model": "E553"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E601F",
       "codename": "E601F",
       "model": "E601F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E602",
+      "codename": "E602",
+      "model": "E602"
     },
     {
       "manufacturer": "",
@@ -159,6 +177,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hyundai",
+      "codename": "bangbae",
+      "model": "Hyundai 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai Eternity G50L",
+      "codename": "HT1G50L",
+      "model": "Hyundai_Eternity_G50L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hyundai Koral 10W",
       "codename": "HT1002W16",
       "model": "HT1002W16"
@@ -189,6 +219,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hyundai_Eternity_G50",
+      "codename": "HT1G50K",
+      "model": "Hyundai_Eternity_G50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai_Eternity_G60",
+      "codename": "HT3G60L",
+      "model": "Hyundai_Eternity_G60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Israel",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Koral 10W2",
       "codename": "HT1003W16",
       "model": "HT1003W16"
@@ -204,6 +252,30 @@
       "market_name": "Koral_10X2",
       "codename": "HT1004X16",
       "model": "Koral_10X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_10XL",
+      "codename": "Koral_10XL",
+      "model": "HT1004LI16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_10XL_Plus",
+      "codename": "Koral_10XL_Plus",
+      "model": "HT1002LI32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_7XL",
+      "codename": "Koral_7XL",
+      "model": "HT0701LI16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L465",
+      "codename": "L465",
+      "model": "L465"
     },
     {
       "manufacturer": "",
@@ -237,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L553",
+      "codename": "L553",
+      "model": "L553"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L575",
       "codename": "L575",
       "model": "L575"
@@ -246,6 +324,18 @@
       "market_name": "L601F",
       "codename": "L601F",
       "model": "L601F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Russia",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Russia",
+      "codename": "samseong",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

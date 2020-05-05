@@ -3,6 +3,18 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy Note10+ 5G",
     "codename": "d2xq",
+    "model": "SM-N9760"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note10+ 5G",
+    "codename": "d2xq",
+    "model": "SM-N976Q"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note10+ 5G",
+    "codename": "d2xq",
     "model": "SM-N976V"
   }
 ]

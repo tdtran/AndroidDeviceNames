@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alien X Apex 2020",
+      "codename": "Alien_X_Apex_2020",
+      "model": "Alien_X_Apex_2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alien X Lite",
       "codename": "Alien_X_Lite",
       "model": "Alien X Lite"
@@ -33,9 +39,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Like_7",
+      "codename": "Like_7",
+      "model": "Like_7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Like_Hi5",
       "codename": "Like_Hi5",
       "model": "Like Hi5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10 Tank 2020",
+      "codename": "S10_Tank_2020",
+      "model": "S10 Tank 2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10 Tank PRO 2020",
+      "codename": "S10_Tank_PRO_2020",
+      "model": "S10 Tank PRO 2020"
     },
     {
       "manufacturer": "",
@@ -48,6 +72,12 @@
       "market_name": "S10_Tank_2019",
       "codename": "S10_Tank_2019",
       "model": "S10_Tank_2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60 Discovery Plus",
+      "codename": "S60_Discovery_Plus",
+      "model": "S60 Discovery Plus"
     },
     {
       "manufacturer": "",
@@ -84,6 +114,12 @@
       "market_name": "iHunt S90 Apex",
       "codename": "S90_Apex",
       "model": "S90_Apex"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt_S60_Discovery_Pro_2020",
+      "codename": "iHunt_S60_Discovery_Pro_2020",
+      "model": "iHunt_S60_Discovery_Pro_2020"
     }
   ]
 }

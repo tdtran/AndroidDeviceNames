@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QS31",
+      "codename": "QS31",
+      "model": "QS31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QS701",
       "codename": "QS701",
       "model": "QS701"

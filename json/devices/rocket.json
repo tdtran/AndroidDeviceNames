@@ -6,6 +6,12 @@
     "model": "ROCKET"
   },
   {
+    "manufacturer": "Qsmart",
+    "market_name": "QSmart Rocket",
+    "codename": "Rocket",
+    "model": "QSmart Rocket"
+  },
+  {
     "manufacturer": "Tech 4u",
     "market_name": "Rocket",
     "codename": "Rocket",

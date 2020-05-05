@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HP5116",
+      "codename": "HPA12_8GB",
+      "model": "HP5116"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mediacenter 6G 4K",
       "codename": "SEI300T",
       "model": "Mediacenter 6G 4K"

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1AZ_EEA",
+      "codename": "1AZ",
+      "model": "1AZ_eea"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1BEC_eea",
+      "codename": "1BEC_eea",
+      "model": "1BEC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1BY",
       "codename": "1BY",
       "model": "1BY"
@@ -30,6 +42,12 @@
       "market_name": "1CY_EEA",
       "codename": "1CY",
       "model": "1CY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1DY4G_eea",
+      "codename": "1DY4G_eea",
+      "model": "1DY4G"
     },
     {
       "manufacturer": "",

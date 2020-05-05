@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Hisense",
+    "market_name": "laoshan",
+    "codename": "xiaoyushan",
+    "model": "HAT4KDTV"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "laoshan",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "xiaoyushan-em",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Vu Televisions",
+    "market_name": "xiaoyushan-vu",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  }
+]

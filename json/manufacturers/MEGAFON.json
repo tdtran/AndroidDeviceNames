@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KM8-ATV-MF",
+      "codename": "MF8_ATV",
+      "model": "KM8-ATV-MF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Login 3",
       "codename": "MFLogin3",
       "model": "MegaFon Login 3"

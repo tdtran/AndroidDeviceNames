@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ST1020",
+      "codename": "ST1020",
+      "model": "ST1020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ST700",
       "codename": "ST700",
       "model": "ST700"
@@ -36,6 +42,12 @@
       "market_name": "ST7160",
       "codename": "ST7160",
       "model": "ST7160"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ST7650",
+      "codename": "ST7650",
+      "model": "ST7650"
     },
     {
       "manufacturer": "",

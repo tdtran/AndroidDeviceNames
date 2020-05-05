@@ -9,9 +9,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hero",
+      "codename": "Hero",
+      "model": "Hero"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10",
       "codename": "M10",
       "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 Nano",
+      "codename": "M10_Nano",
+      "model": "M10 Nano"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_Max",
+      "codename": "EVERTEK_M10_Max",
+      "model": "M10+Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_Pro",
+      "codename": "Evertek_M10_Pro",
+      "model": "M10_Pro"
     },
     {
       "manufacturer": "",

@@ -9,13 +9,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "B.PRO\\xe3\\x82\\xab\\xe3\\x83\\xbc\\xe3\\x83\\x8a\\xe3\\x83\\x93",
+      "market_name": "B.PROカーナビ",
       "codename": "AVIC_BX500",
       "model": "jupiter"
     },
     {
       "manufacturer": "",
-      "market_name": "B.PRO\\xe3\\x82\\xab\\xe3\\x83\\xbc\\xe3\\x83\\x8a\\xe3\\x83\\x93",
+      "market_name": "B.PROカーナビ",
       "codename": "AVIC_BZ500",
       "model": "jupiter"
     },
@@ -138,6 +138,24 @@
       "market_name": "R1",
       "codename": "RCK8726Y703H",
       "model": "R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SDA-80TAB",
+      "codename": "SDA_80TAB",
+      "model": "SDA-80TAB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SDA-835TAB",
+      "codename": "SDA_835TAB",
+      "model": "SDA-835TAB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SDA-8TAB",
+      "codename": "SDA_8TAB",
+      "model": "SDA-8TAB"
     },
     {
       "manufacturer": "",

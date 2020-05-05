@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1803",
+      "codename": "Coolpad_1803",
+      "model": "1803"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1825-I01",
       "codename": "1825-I01",
       "model": "1825-I01"
@@ -231,15 +237,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1826-I01",
+      "codename": "1826-I01",
+      "model": "1826-I01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1827",
+      "codename": "1827",
+      "model": "1827"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1903",
       "codename": "1903",
       "model": "1903"
     },
     {
       "manufacturer": "",
+      "market_name": "1904",
+      "codename": "1904",
+      "model": "1904"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1921",
       "codename": "1921",
       "model": "1921"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1932",
+      "codename": "1932",
+      "model": "1932"
     },
     {
       "manufacturer": "",
@@ -891,6 +921,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Coolpad 1821",
+      "codename": "1821",
+      "model": "1821"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Coolpad 3310A",
       "codename": "ventura",
       "model": "Coolpad 3310A"
@@ -900,6 +936,12 @@
       "market_name": "Coolpad 3636a_m",
       "codename": "cp3636a",
       "model": "cp3636a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Coolpad 3706AS",
+      "codename": "apollo",
+      "model": "CP3706AS"
     },
     {
       "manufacturer": "",
@@ -1308,6 +1350,12 @@
       "market_name": "cp3648A",
       "codename": "cp3648a",
       "model": "cp3648A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "cp3648AT",
+      "codename": "cp3648at",
+      "model": "cp3648AT"
     },
     {
       "manufacturer": "",

@@ -2583,7 +2583,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "G9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "G9青春版",
       "codename": "HWVNS-Q",
       "model": "HUAWEI VNS-AL00"
     },
@@ -2889,6 +2889,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 20 LITE",
+      "codename": "HWMAR",
+      "model": "MAR-LX1R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR 20 PRO",
       "codename": "HWYAL",
       "model": "YAL-AL10"
@@ -2904,6 +2910,12 @@
       "market_name": "HONOR 20S",
       "codename": "HWMAR",
       "model": "MAR-LX1H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 20e",
+      "codename": "HWHRY-HF",
+      "model": "HRY-LX1T"
     },
     {
       "manufacturer": "",
@@ -2982,6 +2994,24 @@
       "market_name": "HONOR 9X",
       "codename": "HWSTK-HF",
       "model": "STK-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 9X lite",
+      "codename": "HWJSN-H",
+      "model": "JSN-L21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 9X lite",
+      "codename": "HWJSN-H",
+      "model": "JSN-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 9X lite",
+      "codename": "HWJSN-H",
+      "model": "JSN-L23"
     },
     {
       "manufacturer": "",
@@ -3747,6 +3777,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI Y8s",
+      "codename": "HWJKM-H",
+      "model": "JKM-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y8s",
+      "codename": "HWJKM-H",
+      "model": "JKM-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y8s",
+      "codename": "HWJKM-H",
+      "model": "JKM-LX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI Y9 2018",
       "codename": "HWFLA-H",
       "model": "FLA-LX1"
@@ -3828,6 +3876,12 @@
       "market_name": "HUAWEI nova 5T",
       "codename": "HWYAL",
       "model": "YAL-L21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI nova 5T Pro",
+      "codename": "HWYAL",
+      "model": "YAL-L41"
     },
     {
       "manufacturer": "",
@@ -4539,19 +4593,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Honor\\xc2\\xa08A",
+      "market_name": "Honor 8A",
       "codename": "HWJAT-M",
       "model": "JAT-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "Huawei Ascend XT2\\xe2\\x84\\xa2",
+      "market_name": "Huawei Ascend XT2™",
       "codename": "HWH1711-Q",
       "model": "H1711"
     },
     {
       "manufacturer": "",
-      "market_name": "Huawei Elate\\xe2\\x84\\xa2",
+      "market_name": "Huawei Elate™",
       "codename": "HWH1711-Q",
       "model": "H1711z"
     },
@@ -4608,6 +4662,12 @@
       "market_name": "Huawei Y9 2019",
       "codename": "HWJKM-HM",
       "model": "JKM-AL00a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Huawei Y9s",
+      "codename": "HWSTK-HF",
+      "model": "STK-L21"
     },
     {
       "manufacturer": "",
@@ -5967,13 +6027,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "P8 青春版",
       "codename": "hwALE-H",
       "model": "ALE-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "P8 青春版",
       "codename": "hwALE-H",
       "model": "ALE-UL00"
     },
@@ -7491,7 +7551,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Y6 \\xe2\\x85\\xa1 Compact",
+      "market_name": "Y6 Ⅱ Compact",
       "codename": "HWLYO-L6735",
       "model": "HUAWEI LYO-L01"
     },
@@ -7689,7 +7749,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Y6\\xe2\\x85\\xa1Compact",
+      "market_name": "Y6ⅡCompact",
       "codename": "HWLYO-L6735",
       "model": "HUAWEI LYO-L03"
     },
@@ -8163,36 +8223,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "nova 5",
-      "codename": "HWSEA",
-      "model": "SEA-AL00"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "nova 5",
-      "codename": "HWSEA",
-      "model": "SEA-TL00"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "nova 5 Pro",
-      "codename": "HWSEA-A",
-      "model": "SEA-AL10"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "nova 5 Pro",
-      "codename": "HWSEA-A",
-      "model": "SEA-TL10"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "nova 5i",
-      "codename": "HWGLK",
-      "model": "GLK-AL00"
-    },
-    {
-      "manufacturer": "",
       "market_name": "nova lite",
       "codename": "HWPRA-H",
       "model": "PRA-LX2"
@@ -8277,13 +8307,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "nova \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88\\xe6\\x9c\\xac",
+      "market_name": "nova 青春版本",
       "codename": "HWWAS-H",
       "model": "WAS-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "nova \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88\\xe6\\x9c\\xac",
+      "market_name": "nova 青春版本",
       "codename": "HWWAS-H",
       "model": "WAS-TL10"
     },
@@ -8343,907 +8373,907 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xbaG9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "华为G9青春版",
       "codename": "HWVNS-H",
       "model": "HUAWEI VNS-DL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xbaG9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "华为G9青春版",
       "codename": "HWVNS-H",
       "model": "HUAWEI VNS-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWBZT",
       "model": "BZT-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWBZT",
       "model": "BZT-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWBZT",
       "model": "BZT-W09"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWHDL",
       "model": "BZW-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWHDL",
       "model": "BZW-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWMON-Q",
       "model": "MON-AL19"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWMON-Q",
       "model": "MON-AL19B"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "market_name": "华为平板 C5",
       "codename": "HWMON-Q",
       "model": "MON-W19"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf M5 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "华为平板 M5 青春版",
       "codename": "HWBAH2",
       "model": "BAH2-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf M5 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "华为平板 M5 青春版",
       "codename": "HWBAH2",
       "model": "BAH2-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf M5 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "华为平板 M5 青春版",
       "codename": "HWBAH2",
       "model": "BAH2-W09"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM5\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "华为平板M5青春版",
       "codename": "HWJDN2",
       "model": "JDN2-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM5\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "华为平板M5青春版",
       "codename": "HWJDN2",
       "model": "JDN2-W09"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfT3 8\\xe8\\xa1\\x8c\\xe4\\xb8\\x9a\\xe4\\xb8\\x93\\xe4\\xba\\xab\\xe7\\x89\\x88",
+      "market_name": "华为平板T3 8行业专享版",
       "codename": "HWBZK-Q",
       "model": "BZK-L00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfT3 8\\xe8\\xa1\\x8c\\xe4\\xb8\\x9a\\xe4\\xb8\\x93\\xe4\\xba\\xab\\xe7\\x89\\x88",
+      "market_name": "华为平板T3 8行业专享版",
       "codename": "HWBZK-Q",
       "model": "BZK-W00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe6\\x8f\\xbd\\xe9\\x98\\x85M2\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x887.0",
+      "market_name": "华为揽阅M2青春版7.0",
       "codename": "hwple703l",
       "model": "PLE-701L"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe6\\x8f\\xbd\\xe9\\x98\\x85M2\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x887.0",
+      "market_name": "华为揽阅M2青春版7.0",
       "codename": "hwple703l",
       "model": "PLE-703L"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab 8e \\xe9\\x9d\\x92\\xe6\\x98\\xa5",
+      "market_name": "华为畅享 8e 青春",
       "codename": "HWDRA-M",
       "model": "DRA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab 8e \\xe9\\x9d\\x92\\xe6\\x98\\xa5",
+      "market_name": "华为畅享 8e 青春",
       "codename": "HWDRA-M",
       "model": "DRA-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab 9S",
+      "market_name": "华为畅享 9S",
       "codename": "HWPOT-HF",
       "model": "POT-AL00a"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab 9S",
+      "market_name": "华为畅享 9S",
       "codename": "HWPOT-HF",
       "model": "POT-TL00a"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab 9e",
+      "market_name": "华为畅享 9e",
       "codename": "HWMRD-M",
       "model": "MRD-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab 9e",
+      "market_name": "华为畅享 9e",
       "codename": "HWMRD-M",
       "model": "MRD-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab MAX",
+      "market_name": "华为畅享 MAX",
       "codename": "HWARS-Q",
       "model": "ARS-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab MAX",
+      "market_name": "华为畅享 MAX",
       "codename": "HWARS-Q",
       "model": "ARS-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab10 Plus",
+      "market_name": "华为畅享10 Plus",
       "codename": "HWSTK-HF",
       "model": "STK-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab10 Plus",
+      "market_name": "华为畅享10 Plus",
       "codename": "HWSTK-HF",
       "model": "STK-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
+      "market_name": "华为畅享6",
       "codename": "HWNCE-L6750",
       "model": "NCE-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
+      "market_name": "华为畅享6",
       "codename": "HWNCE-L6750",
       "model": "NCE-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
+      "market_name": "华为畅享6",
       "codename": "HWNCE-L6750",
       "model": "NCE-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6S",
+      "market_name": "华为畅享6S",
       "codename": "HWDIG-L8940",
       "model": "DIG-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6S",
+      "market_name": "华为畅享6S",
       "codename": "HWDIG-L8940",
       "model": "DIG-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7",
+      "market_name": "华为畅享7",
       "codename": "HWSLA-Q",
       "model": "SLA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7",
+      "market_name": "华为畅享7",
       "codename": "HWSLA-Q",
       "model": "SLA-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "market_name": "华为畅享7S",
       "codename": "HWFIG-H",
       "model": "FIG-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "market_name": "华为畅享7S",
       "codename": "HWFIG-H",
       "model": "FIG-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "market_name": "华为畅享7S",
       "codename": "HWFIG-H",
       "model": "FIG-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "market_name": "华为畅享7S",
       "codename": "HWFIG-H",
       "model": "FIG-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8",
+      "market_name": "华为畅享8",
       "codename": "HWLDN-Q",
       "model": "LDN-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8",
+      "market_name": "华为畅享8",
       "codename": "HWLDN-Q",
       "model": "LDN-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8",
+      "market_name": "华为畅享8",
       "codename": "HWLDN-Q",
       "model": "LDN-AL20"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8",
+      "market_name": "华为畅享8",
       "codename": "HWLDN-Q",
       "model": "LDN-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8",
+      "market_name": "华为畅享8",
       "codename": "HWLDN-Q",
       "model": "LDN-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8",
+      "market_name": "华为畅享8",
       "codename": "HWLDN-Q",
       "model": "LDN-TL20"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8 Plus",
+      "market_name": "华为畅享8 Plus",
       "codename": "HWFLA-H",
       "model": "FLA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8 Plus",
+      "market_name": "华为畅享8 Plus",
       "codename": "HWFLA-H",
       "model": "FLA-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8 Plus",
+      "market_name": "华为畅享8 Plus",
       "codename": "HWFLA-H",
       "model": "FLA-AL20"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8 Plus",
+      "market_name": "华为畅享8 Plus",
       "codename": "HWFLA-H",
       "model": "FLA-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8 Plus",
+      "market_name": "华为畅享8 Plus",
       "codename": "HWFLA-H",
       "model": "FLA-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8e",
+      "market_name": "华为畅享8e",
       "codename": "HWATU-QC",
       "model": "ATU-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab8e",
+      "market_name": "华为畅享8e",
       "codename": "HWATU-QC",
       "model": "ATU-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "market_name": "华为畅享9",
       "codename": "HWDUB-Q",
       "model": "DUB-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "market_name": "华为畅享9",
       "codename": "HWDUB-Q",
       "model": "DUB-AL00a"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "market_name": "华为畅享9",
       "codename": "HWDUB-Q",
       "model": "DUB-AL20"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "market_name": "华为畅享9",
       "codename": "HWDUB-Q",
       "model": "DUB-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "market_name": "华为畅享9",
       "codename": "HWDUB-Q",
       "model": "DUB-TL00a"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "market_name": "华为畅享9 Plus",
       "codename": "HWJKM-H",
       "model": "JKM-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "market_name": "华为畅享9 Plus",
       "codename": "HWJKM-H",
       "model": "JKM-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "market_name": "华为畅享9 Plus",
       "codename": "HWJKM-HM",
       "model": "JKM-AL00a"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "market_name": "华为畅享9 Plus",
       "codename": "HWJKM-HM",
       "model": "JKM-AL00b"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf",
+      "market_name": "华为畅享平板",
       "codename": "HWAGS2",
       "model": "AGS2-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+      "market_name": "荣耀 8X",
       "codename": "HWJSN-H",
       "model": "JSN-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+      "market_name": "荣耀 8X",
       "codename": "HWJSN-H",
       "model": "JSN-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+      "market_name": "荣耀 8X",
       "codename": "HWJSN-HM",
       "model": "JSN-AL00a"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "market_name": "荣耀 V9 play",
       "codename": "HWJMM-Q",
       "model": "JMM-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "market_name": "荣耀 V9 play",
       "codename": "HWJMM-Q",
       "model": "JMM-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "market_name": "荣耀 V9 play",
       "codename": "HWJMM-Q",
       "model": "JMM-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "market_name": "荣耀 V9 play",
       "codename": "HWJMM-Q",
       "model": "JMM-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x8010\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "荣耀10青春版",
       "codename": "HWHRY-H",
       "model": "HRY-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x8020i",
+      "market_name": "荣耀20i",
       "codename": "HWHRY-H",
       "model": "HRY-AL00T"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x8020i",
+      "market_name": "荣耀20i",
       "codename": "HWHRY-HF",
       "model": "HRY-TL00T"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x804A",
+      "market_name": "荣耀4A",
       "codename": "hwSCL-Q",
       "model": "SCL-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "market_name": "荣耀5X",
       "codename": "HNKIW-Q",
       "model": "KIW-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "market_name": "荣耀5X",
       "codename": "HNKIW-Q",
       "model": "KIW-AL20"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "market_name": "荣耀5X",
       "codename": "HNKIW-Q",
       "model": "KIW-CL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "market_name": "荣耀5X",
       "codename": "HNKIW-Q",
       "model": "KIW-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "market_name": "荣耀5X",
       "codename": "HNKIW-Q",
       "model": "KIW-UL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808X Max",
+      "market_name": "荣耀8X Max",
       "codename": "HWARE-Q",
       "model": "ARE-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808X Max",
+      "market_name": "荣耀8X Max",
       "codename": "HWARE-Q",
       "model": "ARE-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808X Max",
+      "market_name": "荣耀8X Max",
       "codename": "HWARE-QC",
       "model": "ARE-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "荣耀8青春版",
       "codename": "HWPRA-H",
       "model": "PRA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "荣耀8青春版",
       "codename": "HWPRA-H",
       "model": "PRA-AL00X"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "荣耀8青春版",
       "codename": "HWPRA-H",
       "model": "PRA-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809X",
+      "market_name": "荣耀9X",
       "codename": "HWHLK-H",
       "model": "HLK-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809i",
+      "market_name": "荣耀9i",
       "codename": "HWLLD-H2",
       "model": "LLD-AL20"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809i",
+      "market_name": "荣耀9i",
       "codename": "HWLLD-H2",
       "model": "LLD-AL30"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "荣耀9青春版",
       "codename": "HWLLD-H",
       "model": "LLD-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "荣耀9青春版",
       "codename": "HWLLD-H",
       "model": "LLD-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "market_name": "荣耀9青春版",
       "codename": "HWLLD-H",
       "model": "LLD-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
+      "market_name": "荣耀Note8",
       "codename": "hwedison",
       "model": "EDI-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
+      "market_name": "荣耀Note8",
       "codename": "hwedison",
       "model": "EDI-DL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Waterplay 8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8",
+      "market_name": "荣耀Waterplay 8英寸",
       "codename": "HWHDL",
       "model": "HDL-AL09"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Waterplay 8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8",
+      "market_name": "荣耀Waterplay 8英寸",
       "codename": "HWHDL",
       "model": "HDL-W09"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf5",
+      "market_name": "荣耀平板5",
       "codename": "HWAGS2",
       "model": "AGS2-AL00HN"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf5",
+      "market_name": "荣耀平板5",
       "codename": "HWAGS2",
       "model": "AGS2-W09HN"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf5",
+      "market_name": "荣耀平板5",
       "codename": "HWJDN2",
       "model": "JDN2-AL00HN"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf5",
+      "market_name": "荣耀平板5",
       "codename": "HWJDN2",
       "model": "JDN2-W09HN"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "market_name": "荣耀畅享7 Plus",
       "codename": "HWTRT-Q",
       "model": "TRT-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "market_name": "荣耀畅享7 Plus",
       "codename": "HWTRT-Q",
       "model": "TRT-AL00A"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "market_name": "荣耀畅享7 Plus",
       "codename": "HWTRT-Q",
       "model": "TRT-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "market_name": "荣耀畅享7 Plus",
       "codename": "HWTRT-Q",
       "model": "TRT-TL10A"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+      "market_name": "荣耀畅玩 6X",
       "codename": "HWBLN-H",
       "model": "BLN-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+      "market_name": "荣耀畅玩 6X",
       "codename": "HWBLN-H",
       "model": "BLN-AL20"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+      "market_name": "荣耀畅玩 6X",
       "codename": "HWBLN-H",
       "model": "BLN-AL30"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+      "market_name": "荣耀畅玩 6X",
       "codename": "HWBLN-H",
       "model": "BLN-AL40"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+      "market_name": "荣耀畅玩 6X",
       "codename": "HWBLN-H",
       "model": "BLN-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+      "market_name": "荣耀畅玩 6X",
       "codename": "HWBLN-H",
       "model": "BLN-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+      "market_name": "荣耀畅玩4C",
       "codename": "hwCHM-H",
       "model": "CHM-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+      "market_name": "荣耀畅玩4C",
       "codename": "hwCHM-H",
       "model": "CHM-TL00H"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+      "market_name": "荣耀畅玩4C",
       "codename": "hwCHM-H",
       "model": "CHM-UL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94X",
+      "market_name": "荣耀畅玩4X",
       "codename": "hnCHE-H",
       "model": "CHE-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94X",
+      "market_name": "荣耀畅玩4X",
       "codename": "hnCHE-H",
       "model": "CHE-TL00H"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HNCAM-H",
       "model": "CAM-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HNCAM-H",
       "model": "CAM-TL00H"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HNCAM-H",
       "model": "CAM-UL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HNCAM-Q",
       "model": "CAM-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HNCAM-Q",
       "model": "CAM-CL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HWCAM-H",
       "model": "CAM-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HWCAM-H",
       "model": "CAM-TL00H"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HWCAM-H",
       "model": "CAM-UL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",
+      "market_name": "荣耀畅玩5A",
       "codename": "HWCAM-Q",
       "model": "CAM-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+      "market_name": "荣耀畅玩5C",
       "codename": "HNNEM-H",
       "model": "NEM-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+      "market_name": "荣耀畅玩5C",
       "codename": "HNNEM-H",
       "model": "NEM-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+      "market_name": "荣耀畅玩5C",
       "codename": "HNNEM-H",
       "model": "NEM-TL00H"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95C",
+      "market_name": "荣耀畅玩5C",
       "codename": "HNNEM-H",
       "model": "NEM-UL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa96",
+      "market_name": "荣耀畅玩6",
       "codename": "HWMYA-L6737",
       "model": "MYA-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa96",
+      "market_name": "荣耀畅玩6",
       "codename": "HWMYA-L6737",
       "model": "MYA-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa96A",
+      "market_name": "荣耀畅玩6A",
       "codename": "HWDLI-Q",
       "model": "DLI-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97",
+      "market_name": "荣耀畅玩7",
       "codename": "HWDUA-M",
       "model": "DUA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97",
+      "market_name": "荣耀畅玩7",
       "codename": "HWDUA-M",
       "model": "DUA-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
+      "market_name": "荣耀畅玩7X",
       "codename": "HWBND-H",
       "model": "BND-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
+      "market_name": "荣耀畅玩7X",
       "codename": "HWBND-H",
       "model": "BND-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
+      "market_name": "荣耀畅玩7X",
       "codename": "HWBND-H",
       "model": "BND-TL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98",
+      "market_name": "荣耀畅玩8",
       "codename": "HWKSA-M",
       "model": "KSA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98",
+      "market_name": "荣耀畅玩8",
       "codename": "HWKSA-M",
       "model": "KSA-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98A",
+      "market_name": "荣耀畅玩8A",
       "codename": "HWJAT-M",
       "model": "JAT-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98A",
+      "market_name": "荣耀畅玩8A",
       "codename": "HWJAT-M",
       "model": "JAT-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98C",
+      "market_name": "荣耀畅玩8C",
       "codename": "HWBKK-Q",
       "model": "BKK-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98C",
+      "market_name": "荣耀畅玩8C",
       "codename": "HWBKK-Q",
       "model": "BKK-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98C",
+      "market_name": "荣耀畅玩8C",
       "codename": "HWBKK-Q",
       "model": "BKK-TL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
+      "market_name": "荣耀畅玩平板2 9.6",
       "codename": "HWBZA-Q",
       "model": "BZA-L00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
+      "market_name": "荣耀畅玩平板2 9.6",
       "codename": "HWBZA-Q",
       "model": "BZA-W00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x92 8",
+      "market_name": "麦芒 8",
       "codename": "HWPOT-H",
       "model": "POT-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x92 8",
+      "market_name": "麦芒 8",
       "codename": "HWPOT-HF",
       "model": "POT-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x924",
+      "market_name": "麦芒4",
       "codename": "hwRIO-AL00",
       "model": "HUAWEI RIO-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x925",
+      "market_name": "麦芒5",
       "codename": "HWMLA",
       "model": "HUAWEI MLA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x925",
+      "market_name": "麦芒5",
       "codename": "HWMLA",
       "model": "HUAWEI MLA-AL10"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x925",
+      "market_name": "麦芒5",
       "codename": "HWMLA",
       "model": "MLA-AL00"
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x925",
+      "market_name": "麦芒5",
       "codename": "HWMLA",
       "model": "MLA-AL10"
     }

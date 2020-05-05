@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Hero",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HERO 4ALL",
+      "codename": "HERO_4ALL",
+      "model": "HERO 4ALL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HERO B1",
+      "codename": "HERO_B1",
+      "model": "HERO B1"
+    }
+  ]
+}

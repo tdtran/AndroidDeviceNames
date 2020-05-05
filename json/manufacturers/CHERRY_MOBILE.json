@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A810",
+      "codename": "A810",
+      "model": "Superion S1 Plus DTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cherry S8 Deluxe",
       "codename": "Flare_S8_Deluxe",
       "model": "Flare_S8_Deluxe"
@@ -24,6 +30,12 @@
       "market_name": "DOH01",
       "codename": "DOH01",
       "model": "DOH01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DOH02",
+      "codename": "DOH02",
+      "model": "DOH02"
     },
     {
       "manufacturer": "",
@@ -411,6 +423,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare S8 2020",
+      "codename": "X930A",
+      "model": "Flare S8 2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S8 2020",
+      "codename": "X930B",
+      "model": "Flare S8 2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S8 Lite",
+      "codename": "H1950",
+      "model": "Flare S8 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S8 Max",
+      "codename": "X970",
+      "model": "Flare S8 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S8e",
+      "codename": "H1990",
+      "model": "Flare S8e"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Tab",
+      "codename": "A830",
+      "model": "Flare Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Tab Pro",
+      "codename": "A820",
+      "model": "Flare Tab Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare X",
       "codename": "Flare_X",
       "model": "Flare_X_V2"
@@ -492,6 +546,24 @@
       "market_name": "Flare_S7_Prime",
       "codename": "Flare_S7_Prime",
       "model": "Flare_S7_Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_S8_Plus",
+      "codename": "Flare_S8_Plus",
+      "model": "Flare_S8_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_S8_Prime",
+      "codename": "Flare_S8_Prime",
+      "model": "Flare_S8_Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_S8_Pro",
+      "codename": "Flare_S8_Pro",
+      "model": "Flare_S8_Pro"
     },
     {
       "manufacturer": "",
@@ -636,6 +708,12 @@
       "market_name": "Superion Radar Duluxe",
       "codename": "Radar_Deluxe",
       "model": "Superion Radar Deluxe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Superion S1 DTV",
+      "codename": "A800",
+      "model": "Superion S1 DTV"
     },
     {
       "manufacturer": "",

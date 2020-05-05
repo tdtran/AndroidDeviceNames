@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Mightier",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MT003-19",
+      "codename": "MT003-19",
+      "model": "MT003-19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT003-20",
+      "codename": "MT003-20",
+      "model": "MT003-20"
+    }
+  ]
+}

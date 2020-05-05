@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Chanbly",
+    "market_name": "q7",
+    "codename": "q7",
+    "model": "q7"
+  },
+  {
     "manufacturer": "Quantum",
     "market_name": "FLY",
     "codename": "Q7",

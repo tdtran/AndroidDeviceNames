@@ -9,6 +9,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10S_EEA",
+      "codename": "P10S_EEA",
+      "model": "P10S_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10S_ROW",
+      "codename": "P10S_ROW",
+      "model": "P10S_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10_HD_EEA",
+      "codename": "P10_HD_EEA",
+      "model": "P10_HD_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10_HD_ROW",
+      "codename": "P10_HD_ROW",
+      "model": "P10_HD_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P80X",
       "codename": "P80X",
       "model": "P80X"
@@ -18,6 +42,42 @@
       "market_name": "P80X_EEA",
       "codename": "P80X",
       "model": "P80X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T30_EEA",
+      "codename": "T30",
+      "model": "T30_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T30_ROW",
+      "codename": "T30",
+      "model": "T30_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T30_RU",
+      "codename": "T30",
+      "model": "T30_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_EEA",
+      "codename": "X_EEA",
+      "model": "X_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_ROW",
+      "codename": "X_ROW",
+      "model": "X_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "tPad8",
+      "codename": "tPad8",
+      "model": "tPad8"
     }
   ]
 }

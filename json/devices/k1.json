@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Invens",
+    "market_name": "K1",
+    "codename": "K1",
+    "model": "K1"
+  },
+  {
     "manufacturer": "Lenovo",
     "market_name": "",
     "codename": "K1",
@@ -7,6 +13,12 @@
   },
   {
     "manufacturer": "Lenovo",
+    "market_name": "K1",
+    "codename": "K1",
+    "model": "K1"
+  },
+  {
+    "manufacturer": "MOBULAA",
     "market_name": "K1",
     "codename": "K1",
     "model": "K1"

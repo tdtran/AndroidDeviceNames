@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Nautilus",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NFTM-LAR",
+      "codename": "nftm_lar",
+      "model": "NFTM-LAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NFTM-MED",
+      "codename": "nftm_med",
+      "model": "NFTM-MED"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NFTM-SMA",
+      "codename": "nftm_sma",
+      "model": "NFTM-SMA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NFTM-XSMA",
+      "codename": "nftm_xsma",
+      "model": "NFTM-XSMA"
+    }
+  ]
+}

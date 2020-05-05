@@ -1,11 +1,17 @@
 {
-  "manufacturer": "IPRODA",
+  "manufacturer": "Iproda",
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "T1144",
-      "codename": "T1144",
-      "model": "T1144"
+      "market_name": "T1045LI",
+      "codename": "T1045LI",
+      "model": "T1045LI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7044NP",
+      "codename": "T7044NP",
+      "model": "T7044NP"
     }
   ]
 }

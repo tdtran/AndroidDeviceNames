@@ -1,0 +1,17 @@
+{
+  "manufacturer": "NETGREEN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H10",
+      "codename": "H10",
+      "model": "H10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MW75QF6",
+      "codename": "MW75QF6",
+      "model": "MW75QF6"
+    }
+  ]
+}

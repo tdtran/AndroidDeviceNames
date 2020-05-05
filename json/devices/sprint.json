@@ -4,5 +4,11 @@
     "market_name": "Sprint",
     "codename": "Sprint",
     "model": "Sprint"
+  },
+  {
+    "manufacturer": "Pixus",
+    "market_name": "Pixus_Sprint",
+    "codename": "Sprint",
+    "model": "Pixus_Sprint"
   }
 ]

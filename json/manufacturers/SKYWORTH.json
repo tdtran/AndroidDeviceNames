@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "SW3H_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "APAC 2K TV",
       "codename": "shibuya",
       "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Airtel",
+      "codename": "AirtelOTTBox",
+      "model": "HP2707"
     },
     {
       "manufacturer": "",
@@ -27,8 +39,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Asia",
+      "codename": "open_uhd_ap",
+      "model": "open_uhd"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Euro",
       "codename": "SW3_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "SW3H_ATV",
       "model": "SWTV"
     },
     {
@@ -39,9 +63,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hong Kong",
+      "codename": "open_uhd_hk",
+      "model": "open_uhd"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "METZ 2K TV",
+      "codename": "shinagawa",
+      "model": "METZ 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "SW3_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "North America",
       "codename": "globe_na",
       "model": "globe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "shimbashi",
+      "model": "2K TV"
     },
     {
       "manufacturer": "",
@@ -64,8 +112,26 @@
     {
       "manufacturer": "",
       "market_name": "South America",
+      "codename": "SW3_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South America",
       "codename": "globe_sa",
       "model": "globe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South America",
+      "codename": "shinjuku",
+      "model": "SA 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Taiwan",
+      "codename": "SW3H_ATV",
+      "model": "SWTV"
     }
   ]
 }

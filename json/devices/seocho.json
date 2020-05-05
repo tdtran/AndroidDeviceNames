@@ -1,0 +1,44 @@
+[
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "seocho",
+    "model": "JVC 4K Android TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "KONKA",
+    "codename": "seocho",
+    "model": "KONKA 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "Hangsung",
+    "codename": "seocho",
+    "model": "Hansung 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "SmartEver",
+    "codename": "seocho",
+    "model": "SmartEver 4K Android TV"
+  },
+  {
+    "manufacturer": "Umax",
+    "market_name": "UMAX",
+    "codename": "seocho",
+    "model": "UMAX 4K Android TV"
+  },
+  {
+    "manufacturer": "iRiver",
+    "market_name": "iRiver",
+    "codename": "seocho",
+    "model": "Iriver 4K Android TV"
+  },
+  {
+    "manufacturer": "truvii",
+    "market_name": "Truvii",
+    "codename": "seocho",
+    "model": "Truvii 4K Android TV"
+  }
+]

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Ctroniq_Snook_B70",
+      "codename": "Ctroniq_B70",
+      "model": "Ctroniq_Snook_B70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ctroniq_Snook_W10",
+      "codename": "Ctroniq_Snook_W10",
+      "model": "Ctroniq_Snook_W10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ctroniq_Snook_W70",
+      "codename": "Ctroniq_Snook_W70",
+      "model": "Ctroniq_Snook_W70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K9",
       "codename": "K9",
       "model": "K9"

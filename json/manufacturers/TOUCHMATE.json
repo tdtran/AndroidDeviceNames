@@ -6,6 +6,48 @@
       "market_name": "TM-MID1010",
       "codename": "TM-MID1010",
       "model": "TM-MID1010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM-MID1050B",
+      "codename": "TM-MID1050B",
+      "model": "TM-MID1050B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM-MID1065",
+      "codename": "TM-MID1065",
+      "model": "TM-MID1065"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM-MID792SB",
+      "codename": "TM_MID792SB",
+      "model": "TM-MID792SB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM-MID794",
+      "codename": "TM-MID794",
+      "model": "TM-MID794"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM-MID795",
+      "codename": "TM-MID795",
+      "model": "TM-MID795"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM_MID792WP",
+      "codename": "TM_MID792WP",
+      "model": "TM-MID792WP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TOUCHMATE-TM-MID811A",
+      "codename": "TM-MID811A",
+      "model": "TOUCHMATE-TM-MID811A"
     }
   ]
 }

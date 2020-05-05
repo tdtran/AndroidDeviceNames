@@ -4,5 +4,17 @@
     "market_name": "A71",
     "codename": "A71",
     "model": "A71"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A71",
+    "codename": "a71",
+    "model": "SM-A715F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A71",
+    "codename": "a71",
+    "model": "SM-A715W"
   }
 ]

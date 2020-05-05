@@ -1,0 +1,17 @@
+{
+  "manufacturer": "VOLFEN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NEXO_TAB_10",
+      "codename": "NEXO_TAB_10",
+      "model": "NEXO_TAB_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nexo TAB 7",
+      "codename": "Nexo-TAB-7",
+      "model": "Nexo-TAB-7"
+    }
+  ]
+}

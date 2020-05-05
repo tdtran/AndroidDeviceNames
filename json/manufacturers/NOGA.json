@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NOGAPAD101GHD",
+      "codename": "NOGAPAD101GHD",
+      "model": "NOGAPAD101GHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOGAPAD101XTREME",
+      "codename": "NOGAPAD101XTREME",
+      "model": "NOGAPAD101XTREME"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOGAPAD7G",
       "codename": "NOGAPAD7G",
       "model": "NOGAPAD7G"

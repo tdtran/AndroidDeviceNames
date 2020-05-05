@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ithemba",
+      "codename": "Ithemba",
+      "model": "Ithemba"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Luna",
       "codename": "Luna",
       "model": "Luna"
@@ -39,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S40_LIFE",
+      "codename": "S40_LIFE",
+      "model": "S40_LIFE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40_VINO_PLUS",
+      "codename": "S40_VINO_PLUS",
+      "model": "S40 VINO PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S49 ECO",
       "codename": "S49_ECO",
       "model": "S49 ECO"
@@ -60,6 +78,18 @@
       "market_name": "S49_POISE",
       "codename": "S49_POISE",
       "model": "S49_POISE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S50",
+      "codename": "STYLO_S50_Granite",
+      "model": "S50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S501",
+      "codename": "S501",
+      "model": "Stylo S501"
     },
     {
       "manufacturer": "",
@@ -93,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S56 Mist",
+      "codename": "S56_MIST",
+      "model": "S56 MIST"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S57_ALURE",
       "codename": "S57_ALURE",
       "model": "S57_ALURE"
@@ -108,6 +144,12 @@
       "market_name": "S61_JAZZ",
       "codename": "S61_JAZZ",
       "model": "S61 JAZZ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S64 ALPHA",
+      "codename": "S64_ALPHA",
+      "model": "S64_ALPHA"
     },
     {
       "manufacturer": "",
@@ -144,6 +186,12 @@
       "market_name": "Stylo S40",
       "codename": "S40_Vida",
       "model": "Stylo S40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stylo_Viva",
+      "codename": "Stylo_Viva",
+      "model": "Stylo_Viva"
     },
     {
       "manufacturer": "",

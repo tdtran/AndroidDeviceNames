@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "My",
+    "market_name": "Android TV",
+    "codename": "yeoksam",
+    "model": "Android TV"
+  },
+  {
+    "manufacturer": "My",
+    "market_name": "Android TV",
+    "codename": "yeoksam",
+    "model": "AndroidTV"
+  },
+  {
+    "manufacturer": "My",
+    "market_name": "Android TV",
+    "codename": "yeoksam",
+    "model": "Cosmos"
+  }
+]

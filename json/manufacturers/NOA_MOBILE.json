@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOA_P1",
+      "codename": "NOA_P1",
+      "model": "P1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NextSE",
       "codename": "NextSE",
       "model": "NextSE"

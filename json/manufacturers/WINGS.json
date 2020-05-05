@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "W1",
+      "codename": "W1",
+      "model": "W1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W6",
       "codename": "W6",
       "model": "W6"

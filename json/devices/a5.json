@@ -30,6 +30,12 @@
     "model": "A5"
   },
   {
+    "manufacturer": "Neffos",
+    "market_name": "Neffos  A5",
+    "codename": "A5",
+    "model": "Neffos A5"
+  },
+  {
     "manufacturer": "Southern Telecom",
     "market_name": "A5",
     "codename": "A5",

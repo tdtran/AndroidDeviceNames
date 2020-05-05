@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Opay",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M1 Lite",
+      "codename": "M1_Lite",
+      "model": "M1 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V9 Pro",
+      "codename": "V9_Pro",
+      "model": "V9 Pro"
+    }
+  ]
+}

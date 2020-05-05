@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Formuler",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GTV",
+      "codename": "GTV",
+      "model": "GTV"
+    }
+  ]
+}

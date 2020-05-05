@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PDB-F2",
+      "codename": "PDB_F2",
+      "model": "PDB-F2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POLYTRON P552",
       "codename": "POLYTRON_P552",
       "model": "POLYTRON_P552"
@@ -54,6 +60,18 @@
       "market_name": "PRIME T8",
       "codename": "POLYTRON_R255B",
       "model": "R255B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7001",
+      "codename": "T7001",
+      "model": "T7001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8001",
+      "codename": "T8001",
+      "model": "T8001"
     }
   ]
 }

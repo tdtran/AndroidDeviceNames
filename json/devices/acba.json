@@ -1,15 +1,15 @@
 [
   {
+    "manufacturer": "Ascom",
+    "market_name": "Ascom Myco 3",
+    "codename": "ACBA",
+    "model": "Ascom Myco 3 Cellular Wi-Fi EU"
+  },
+  {
     "manufacturer": "Ascom Wireless Solutions",
     "market_name": "Ascom Myco 2 WiFi",
     "codename": "ACBA",
     "model": "SH1"
-  },
-  {
-    "manufacturer": "Ascom Wireless Solutions",
-    "market_name": "Ascom Myco 3",
-    "codename": "ACBA",
-    "model": "Ascom Myco 3 Cellular Wi-Fi EU"
   },
   {
     "manufacturer": "Ascom Wireless Solutions",

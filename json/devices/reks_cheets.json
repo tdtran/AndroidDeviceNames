@@ -9,6 +9,12 @@
     "manufacturer": "Lenovo",
     "market_name": "Lenovo N Series Chromebook",
     "codename": "reks_cheets",
+    "model": "Intel Braswell Chromebook"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "market_name": "Lenovo N Series Chromebook",
+    "codename": "reks_cheets",
     "model": "Lenovo Intel Braswell Chromebook"
   }
 ]

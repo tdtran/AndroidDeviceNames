@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GS290",
+      "codename": "GS290",
+      "model": "GS290"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GS80",
       "codename": "GS80",
       "model": "GS80"

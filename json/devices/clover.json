@@ -6,6 +6,12 @@
     "model": "Coolpad COR-I0"
   },
   {
+    "manufacturer": "Vsmart",
+    "market_name": "Bee 3",
+    "codename": "clover",
+    "model": "Bee 3"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "MI PAD 4",
     "codename": "clover",

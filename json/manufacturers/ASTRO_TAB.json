@@ -12,6 +12,12 @@
       "market_name": "G10",
       "codename": "G10",
       "model": "G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K10",
+      "codename": "K10",
+      "model": "K10"
     }
   ]
 }

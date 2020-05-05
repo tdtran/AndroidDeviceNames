@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 20e",
+    "codename": "HWHRY-HF",
+    "model": "HRY-LX1T"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HONOR 20i",
     "codename": "HWHRY-HF",
     "model": "HRY-AL00Ta"
@@ -31,7 +37,7 @@
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x8020i",
+    "market_name": "荣耀20i",
     "codename": "HWHRY-HF",
     "model": "HRY-TL00T"
   }

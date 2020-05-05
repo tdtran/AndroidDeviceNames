@@ -15,9 +15,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Active 1+",
+      "codename": "PQ6002",
+      "model": "Active 1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active 3",
+      "codename": "coconut",
+      "model": "Active 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bee",
       "codename": "V220A",
       "model": "Bee"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bee",
+      "codename": "V220B",
+      "model": "Bee"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bee 3",
+      "codename": "clover",
+      "model": "Bee 3"
     },
     {
       "manufacturer": "",
@@ -33,9 +57,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Joy 1+",
+      "codename": "PQ4002",
+      "model": "Joy 1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Joy 2+",
+      "codename": "V420A",
+      "model": "Joy 2+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Joy 3",
+      "codename": "casuarina",
+      "model": "Joy 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Live",
       "codename": "V620A",
       "model": "Live"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star",
+      "codename": "V320A",
+      "model": "Star"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star 3",
+      "codename": "sugarcane",
+      "model": "Star 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VINATV 4K",
+      "codename": "TR2001",
+      "model": "VINATV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VINTV 2K",
+      "codename": "TR2002",
+      "model": "VINTV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vietnam",
+      "codename": "samseong",
+      "model": "VINATV 4K"
     }
   ]
 }

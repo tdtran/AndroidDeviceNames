@@ -51,6 +51,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10A_3G",
+      "codename": "M10A_3G",
+      "model": "M10A_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G PLUS",
+      "codename": "ML-JI11-M7_3G_PLUS",
+      "model": "M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G PLUS",
+      "codename": "ML_WI0A_M7_3G_PLUS",
+      "model": "M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G Plus",
+      "codename": "ML_WI12_M7_3G_PLUS",
+      "model": "M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7-3G PLUS",
       "codename": "ML-JI21-M7-3G-PLUS",
       "model": "M7-3G-PLUS"
@@ -93,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7SQC Plus",
+      "codename": "ML-JI22-M7SQC_Plus",
+      "model": "M7SQC_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7SQC_ Plus",
       "codename": "ML-JI22-M7SQC_Plus",
       "model": "M7SQC_Plus"
@@ -114,6 +144,18 @@
       "market_name": "M7S_PLUS",
       "codename": "ML-SO07-M7S-PLUS",
       "model": "M7S_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S_PLUS",
+      "codename": "ML-SO07-M7S-PLUS",
+      "model": "M7S_PLUS_KIDPAD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S_PLUS",
+      "codename": "ML-SO07-M7S-PLUS",
+      "model": "M7S_PLUS_PRINCESAS"
     },
     {
       "manufacturer": "",
@@ -171,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9S-Go",
+      "codename": "ML-JI09-M9S-GO",
+      "model": "M9S-Go"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ML-JI-M7_3G_PLUS",
       "codename": "ML-JI-M7_3G_PLUS",
       "model": "ML-JI-M7_3G_PLUS"
@@ -207,9 +255,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MLX8 4G",
+      "codename": "MLX8_4G",
+      "model": "MLX8_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS40G",
       "codename": "ML-TI-MS40G",
       "model": "MS40G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS40G_VIVO",
+      "codename": "ML-TI-MS40G_VIVO",
+      "model": "MS40G_VIVO"
     },
     {
       "manufacturer": "",
@@ -387,9 +447,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Multilaser E Lite",
+      "codename": "Multilaser_E_Lite",
+      "model": "Multilaser_E_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser F Pro",
+      "codename": "Multilaser_F_Pro",
+      "model": "Multilaser_F_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Multilaser G",
       "codename": "Multilaser_G",
       "model": "Multilaser_G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G Max",
+      "codename": "Multilaser_G_Max",
+      "model": "Multilaser_G_Max"
     },
     {
       "manufacturer": "",
@@ -399,9 +477,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Multilaser G VIVO",
+      "codename": "Multilaser_G_VIVO",
+      "model": "Multilaser_G_VIVO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser H",
+      "codename": "Multilaser_H",
+      "model": "Multilaser H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Multilaser_F",
       "codename": "Multilaser_F",
       "model": "Multilaser_F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OBASMART 3",
+      "codename": "OBASMART_3",
+      "model": "OBASMART_3"
     }
   ]
 }

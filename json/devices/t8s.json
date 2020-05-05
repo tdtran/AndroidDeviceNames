@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Aldo Mobile",
+    "market_name": "T8S",
+    "codename": "T8S",
+    "model": "T8S"
+  },
+  {
     "manufacturer": "Leagoo",
     "market_name": "T8s",
     "codename": "T8s",

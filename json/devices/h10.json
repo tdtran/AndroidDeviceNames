@@ -1,8 +1,20 @@
 [
   {
+    "manufacturer": "NETGREEN",
+    "market_name": "H10",
+    "codename": "H10",
+    "model": "H10"
+  },
+  {
     "manufacturer": "OTOT",
     "market_name": "H10",
     "codename": "H10",
     "model": "H10"
+  },
+  {
+    "manufacturer": "Winnovo",
+    "market_name": "H10",
+    "codename": "H10",
+    "model": "H10_EEA"
   }
 ]

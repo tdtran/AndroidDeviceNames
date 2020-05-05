@@ -10,5 +10,11 @@
     "market_name": "LG Enlighten",
     "codename": "VS700",
     "model": "LG-VS700PP"
+  },
+  {
+    "manufacturer": "Switel",
+    "market_name": "VS700",
+    "codename": "VS700",
+    "model": "VS700"
   }
 ]

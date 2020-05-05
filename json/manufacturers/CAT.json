@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cat S42",
+      "codename": "S42",
+      "model": "S42"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cat S48c",
       "codename": "CatS48c",
       "model": "S48c"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cat S52",
+      "codename": "CatS52",
+      "model": "S52"
     },
     {
       "manufacturer": "",

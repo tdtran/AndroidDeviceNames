@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tonn_100003561",
+      "codename": "mid8011",
+      "model": "100003561"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100003562",
+      "codename": "mid1035_mq",
+      "model": "100003562"
+    },
+    {
+      "manufacturer": "",
       "market_name": "100005207",
       "codename": "100005207",
       "model": "100005207"
@@ -12,6 +24,12 @@
       "market_name": "100005208",
       "codename": "100005208",
       "model": "100005208"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100005208-CA",
+      "codename": "100005208-CA",
+      "model": "100005208-CA"
     },
     {
       "manufacturer": "",
@@ -30,6 +48,24 @@
       "market_name": "ONA19TB003",
       "codename": "ONA19TB003",
       "model": "ONA19TB003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBBVNC100005207",
+      "codename": "TBBVNC100005207",
+      "model": "TBBVNC100005207"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBBVNC100005208",
+      "codename": "TBBVNC100005208",
+      "model": "TBBVNC100005208"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBBVNC100005209",
+      "codename": "TBBVNC100005209",
+      "model": "TBBVNC100005209"
     }
   ]
 }

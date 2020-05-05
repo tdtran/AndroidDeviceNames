@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SYLVANIA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SL321AN",
+      "codename": "kanda",
+      "model": "2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SLTDVD9220_C",
+      "codename": "SLTDVD9220-C",
+      "model": "SLTDVD9220-C"
+    }
+  ]
+}

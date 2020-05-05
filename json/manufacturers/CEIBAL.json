@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACRUX",
+      "codename": "ACRUX",
+      "model": "ACRUX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BETELGEUSE",
+      "codename": "BETELGEUSE",
+      "model": "BETELGEUSE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ibirapita",
       "codename": "A81F",
       "model": "A81F"

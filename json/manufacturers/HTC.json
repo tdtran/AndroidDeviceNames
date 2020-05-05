@@ -33,13 +33,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\t HTC One X9 dual sim",
+      "market_name": "\t HTC One X9 dual sim",
       "codename": "htc_e56ml_dtul",
       "model": "HTC One X9 dual sim"
     },
     {
       "manufacturer": "",
-      "market_name": "\\tADR6325",
+      "market_name": "\tADR6325",
       "codename": "lexikon",
       "model": "ADR6325"
     },
@@ -1755,7 +1755,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Desire 826 4G \\xe7\\xa7\\xbb\\xe5\\x8b\\x95\\xe5\\x85\\xac\\xe9\\x96\\x8b\\xe7\\x89\\x88(\\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xbe\\x85)",
+      "market_name": "Desire 826 4G 移動公開版(双卡双待)",
       "codename": "htc_a52dtul",
       "model": "HTC D826t"
     },
@@ -2338,8 +2338,26 @@
     {
       "manufacturer": "",
       "market_name": "HTC 5G Hub",
+      "codename": "htc_rtx",
+      "model": "HTC 5G Hub"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC 5G Hub",
       "codename": "htc_rtxspcs",
       "model": "HTC 5G Hub"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 19s",
+      "codename": "htc_zddugl",
+      "model": "2Q8L10000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 19s",
+      "codename": "htc_zddugl",
+      "model": "HTC Desire 19s"
     },
     {
       "manufacturer": "",
@@ -2955,19 +2973,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "One (E8) \\xe6\\x97\\xb6\\xe5\\xb0\\x9a\\xe7\\x89\\x88",
+      "market_name": "One (E8) 时尚版",
       "codename": "htc_mectl",
       "model": "HTC M8St"
     },
     {
       "manufacturer": "",
-      "market_name": "One (E8) \\xe6\\x97\\xb6\\xe5\\xb0\\x9a\\xe7\\x89\\x88   4G LTE\\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xbe\\x85\\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88",
+      "market_name": "One (E8) 时尚版   4G LTE双卡双待联通版",
       "codename": "htc_mecdug",
       "model": "HTC M8Sw"
     },
     {
       "manufacturer": "",
-      "market_name": "One (E8) \\xe6\\x99\\x82\\xe5\\xb0\\x9a\\xe7\\x89\\x884G LTE \\xe7\\xa7\\xbb\\xe5\\x8a\\xa8\\xe7\\x89\\x88",
+      "market_name": "One (E8) 時尚版4G LTE 移动版",
       "codename": "htc_mectl",
       "model": "HTC M8Ss"
     },
@@ -3057,7 +3075,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "One (M8) (4G LTE \\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xbe\\x85 \\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88)",
+      "market_name": "One (M8) (4G LTE 双卡双待 联通版)",
       "codename": "htc_m8dug",
       "model": "HTC M8e"
     },
@@ -3771,7 +3789,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Telstra Signature\\xe2\\x84\\xa2 Premium",
+      "market_name": "Telstra Signature™ Premium",
       "codename": "htc_hiaeuhl",
       "model": "HTC 2PQ910"
     },
@@ -4038,6 +4056,18 @@
       "market_name": "Wildfire E",
       "codename": "Wildfire_E",
       "model": "Wildfire E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E1",
+      "codename": "Wildfire-E1",
+      "model": "Wildfire E1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E1 Plus",
+      "codename": "Wildfire_E1_Plus",
+      "model": "Wildfire E1 Plus"
     },
     {
       "manufacturer": "",

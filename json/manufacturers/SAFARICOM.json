@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEON_RAY_PRO",
+      "codename": "NEON_RAY_PRO",
+      "model": "NEON_RAY_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neon Storm",
       "codename": "Neon_Storm",
       "model": "Neon Storm"

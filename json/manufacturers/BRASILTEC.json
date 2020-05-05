@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Brasiltec",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "B1",
+      "codename": "B1",
+      "model": "B1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Polestar",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Polestar",
+      "codename": "ihu_abl_car",
+      "model": "Polestar"
+    }
+  ]
+}

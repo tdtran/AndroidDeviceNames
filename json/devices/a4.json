@@ -30,6 +30,12 @@
     "model": "A4"
   },
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "IKU A4",
+    "codename": "A4",
+    "model": "IKU A4"
+  },
+  {
     "manufacturer": "Plaisio",
     "market_name": "A4",
     "codename": "A4",

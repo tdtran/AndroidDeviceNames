@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EU",
+      "codename": "hanyang",
+      "model": "QBELL Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "nippori",
+      "model": "QBELL Android TV 2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QPHONE_10_1",
       "codename": "QPHONE_10_1",
       "model": "QPHONE_10.1"

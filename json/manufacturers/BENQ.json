@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "China Taiwan",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "China Taiwan",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F3",
       "codename": "F3",
       "model": "F3"
@@ -246,6 +258,12 @@
       "market_name": "T55",
       "codename": "T55",
       "model": "T55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Taiwan",
+      "codename": "laoshan",
+      "model": "BENQANDROIDTV"
     }
   ]
 }

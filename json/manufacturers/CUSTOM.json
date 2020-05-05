@@ -1,0 +1,41 @@
+{
+  "manufacturer": "Custom",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Ares",
+      "codename": "Ares",
+      "model": "Ares"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K-Ranger",
+      "codename": "K-Ranger",
+      "model": "K-Ranger"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K-Ranger",
+      "codename": "K-Ranger",
+      "model": "K-Ranger_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K-Ranger",
+      "codename": "K-Ranger",
+      "model": "K-Ranger_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P-Ranger",
+      "codename": "P-Ranger",
+      "model": "P-Ranger"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P-Ranger",
+      "codename": "P-Ranger",
+      "model": "P-Ranger_ROW"
+    }
+  ]
+}

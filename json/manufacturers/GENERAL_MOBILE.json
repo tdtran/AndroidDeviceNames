@@ -87,6 +87,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GM 9 Go",
+      "codename": "G008",
+      "model": "G008"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 9 Go",
+      "codename": "G008_d",
+      "model": "G008"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 9 Plus",
+      "codename": "GM9PLUS_s",
+      "model": "GM 9 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 9 Pro",
       "codename": "GM9PRO_d_sprout",
       "model": "GM 9 Pro d"

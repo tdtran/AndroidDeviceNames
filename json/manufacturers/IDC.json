@@ -1,0 +1,11 @@
+{
+  "manufacturer": "IDC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EVO_G4",
+      "codename": "EVO_G4",
+      "model": "EVO G4"
+    }
+  ]
+}

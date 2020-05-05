@@ -4,5 +4,53 @@
     "market_name": "Milan",
     "codename": "Milan",
     "model": "Milan"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL T Pro",
+    "codename": "Milan",
+    "model": "5161A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061K"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061K_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061K_TR"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061U_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061U_TR"
   }
 ]

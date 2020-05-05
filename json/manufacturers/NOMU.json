@@ -54,6 +54,18 @@
       "market_name": "T20E",
       "codename": "T20",
       "model": "T20E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V31",
+      "codename": "V31",
+      "model": "V31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V31E",
+      "codename": "V31E",
+      "model": "V31E"
     }
   ]
 }

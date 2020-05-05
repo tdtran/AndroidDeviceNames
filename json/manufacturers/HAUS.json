@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JS409",
+      "codename": "JS409",
+      "model": "JS409"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JS550",
       "codename": "JS550",
       "model": "JS550"

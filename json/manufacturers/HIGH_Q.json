@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELT0704H9",
+      "codename": "ELT0704H9",
+      "model": "ELT0704H9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELT0706H",
       "codename": "ELT0706H",
       "model": "ELT0706H"
@@ -18,6 +24,18 @@
       "market_name": "ELT0802H",
       "codename": "ELT0802H",
       "model": "ELT0802H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELT0802H9",
+      "codename": "ELT0802H9",
+      "model": "ELT0802H9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELT10101H9",
+      "codename": "ELT10101H9",
+      "model": "ELT10101H9"
     }
   ]
 }

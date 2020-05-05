@@ -3,9 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALO",
+      "codename": "ALO",
+      "model": "ALO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Artel 2K TV",
+      "codename": "shinagawa",
+      "model": "Artel 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Artel Tomchi",
+      "codename": "Artel_Tomchi",
+      "model": "Artel Tomchi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Artel U5",
       "codename": "U5",
       "model": "U5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Artel_Premium",
+      "codename": "Artel_Premium",
+      "model": "Artel Premium"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GAP YOQ",
+      "codename": "GAP_YOQ",
+      "model": "GAP YOQ"
     },
     {
       "manufacturer": "",

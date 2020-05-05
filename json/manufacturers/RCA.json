@@ -40,6 +40,12 @@
     {
       "manufacturer": "",
       "market_name": "10 Viking Pro",
+      "codename": "RCT6A03W13M",
+      "model": "RCT6A03W13M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "10 Viking Pro",
       "codename": "RCT6K03W13",
       "model": "RCT6K03W13"
     },
@@ -225,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA RCT6A03W12",
+      "codename": "RCT6A03W12",
+      "model": "RCT6A03W12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA RCT6A03W13E",
       "codename": "RCT6A03W13E",
       "model": "RCT6A03W13E"
@@ -255,6 +267,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA RCT6B86E12",
+      "codename": "RCT6B86E12",
+      "model": "RCT6B86E12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA RCT6S03W12",
       "codename": "RCT6S03W12",
       "model": "RCT6S03W12"
@@ -264,6 +282,12 @@
       "market_name": "RCA RCT6S03W14",
       "codename": "RCT6S03W14",
       "model": "RCT6S03W14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA_G2",
+      "codename": "RCA_G2",
+      "model": "RCA G2"
     },
     {
       "manufacturer": "",
@@ -411,9 +435,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCT6973W43MDEU",
+      "codename": "RCT6973W43MDEU",
+      "model": "RCT6973W43MDEU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6973W43R",
       "codename": "RCT6973W43R",
       "model": "RCT6973W43R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6A06E12",
+      "codename": "RCT6A06E12",
+      "model": "RCT6A06E12"
     },
     {
       "manufacturer": "",
@@ -423,9 +459,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RS43F2-EU",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RTA3201",
+      "codename": "kanda",
+      "model": "2K Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Voyager",
       "codename": "RCT6873W42BMF8",
       "model": "RCT6873W42BMF8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Voyager",
+      "codename": "RCT6873W42BMF9E",
+      "model": "RCT6873W42BMF9E"
     },
     {
       "manufacturer": "",

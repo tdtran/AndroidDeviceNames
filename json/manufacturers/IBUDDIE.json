@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TG08RK",
+      "codename": "TG08RK",
+      "model": "TG08RK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TM75A-V2",
       "codename": "TM75A-V2",
       "model": "TM75A-V2"
@@ -90,6 +96,12 @@
       "market_name": "TU10MK1",
       "codename": "TU10MK1",
       "model": "TU10MK1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TU10MK1_1",
+      "codename": "TU10MK1_1",
+      "model": "TU10MK1_1"
     }
   ]
 }

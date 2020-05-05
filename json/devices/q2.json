@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "G-Tab",
+    "market_name": "Q2",
+    "codename": "Q2",
+    "model": "Q2"
+  },
+  {
     "manufacturer": "Quantum",
     "market_name": "Go",
     "codename": "Q2",
@@ -7,6 +13,12 @@
   },
   {
     "manufacturer": "RCA",
+    "market_name": "Q2",
+    "codename": "Q2",
+    "model": "Q2"
+  },
+  {
+    "manufacturer": "Umiio",
     "market_name": "Q2",
     "codename": "Q2",
     "model": "Q2"

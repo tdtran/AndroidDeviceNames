@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UHD_S56AT",
+      "codename": "INTEKS19SS",
+      "model": "UHD_S56AT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "skylife LTE TV",
       "codename": "DMTS17SS",
       "model": "DMT_1621"

@@ -22,5 +22,11 @@
     "market_name": "LG X cam",
     "codename": "k7",
     "model": "LG-K580"
+  },
+  {
+    "manufacturer": "Pritom",
+    "market_name": "K7",
+    "codename": "K7",
+    "model": "K7"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "BenQ",
+    "market_name": "China Taiwan",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Changhong",
     "market_name": "AP(Indonesia etc.)/MENA",
     "codename": "ikebukuro",
@@ -18,7 +24,43 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Hyundai",
+    "market_name": "Russia",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Micromax",
+    "market_name": "India",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Realme",
+    "market_name": "India",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "SHINON",
+    "market_name": "Iraq",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Syinix",
+    "market_name": "Africa \u0026 Asia Pacific",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "Algeria",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Vu Televisions",
     "market_name": "India",
     "codename": "ikebukuro",
     "model": "AI PONT"

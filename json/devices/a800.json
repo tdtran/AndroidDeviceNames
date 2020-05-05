@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cherry Mobile",
+    "market_name": "Superion S1 DTV",
+    "codename": "A800",
+    "model": "Superion S1 DTV"
+  },
+  {
     "manufacturer": "Foxconn",
     "market_name": "",
     "codename": "A800",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "IWRIST",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IWRIST_M7",
+      "codename": "IWRIST_M7",
+      "model": "IWRIST_M7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IWRIST_M8",
+      "codename": "IWRIST_M8",
+      "model": "IWRIST_M8"
+    }
+  ]
+}

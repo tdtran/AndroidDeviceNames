@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Life mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LM1",
+      "codename": "LM1",
+      "model": "LM1"
+    }
+  ]
+}

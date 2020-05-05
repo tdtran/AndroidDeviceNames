@@ -12,6 +12,12 @@
       "market_name": "WS041",
       "codename": "WS041",
       "model": "WS041"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WS051",
+      "codename": "WS051",
+      "model": "WS051"
     }
   ]
 }

@@ -51,8 +51,26 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A7",
+      "codename": "N5002WE",
+      "model": "N5002W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A7L",
       "codename": "N5002LA",
+      "model": "N5002L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A7L",
+      "codename": "N5002LATC",
+      "model": "N5002L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A7L",
+      "codename": "N5002LE",
       "model": "N5002L"
     },
     {
@@ -150,6 +168,18 @@
       "market_name": "X5",
       "codename": "NUU_X5",
       "model": "NUU_X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X6",
+      "codename": "S5702LA",
+      "model": "S5702L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X6mini",
+      "codename": "S5702LA",
+      "model": "S5702L"
     },
     {
       "manufacturer": "",

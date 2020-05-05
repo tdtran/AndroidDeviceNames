@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IMO Q4 Pro",
+      "codename": "IMO_Q4_Pro",
+      "model": "IMO Q4 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IMO S2",
       "codename": "S2",
       "model": "IMO S2"

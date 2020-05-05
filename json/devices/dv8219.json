@@ -30,6 +30,12 @@
     "model": "Perseo TV Home 2nd Generation Ranger"
   },
   {
+    "manufacturer": "SFR.fr",
+    "market_name": "DV8219_SFR",
+    "codename": "DV8219",
+    "model": "DV8219_SFR"
+  },
+  {
     "manufacturer": "TekSavvy",
     "market_name": "TekSavvy_DV8219",
     "codename": "DV8219",
@@ -49,7 +55,7 @@
   },
   {
     "manufacturer": "Telkom Indonesia",
-    "market_name": "Indonesia",
+    "market_name": "Telkom  Indonesia",
     "codename": "DV8219",
     "model": "AX117 ATV"
   },

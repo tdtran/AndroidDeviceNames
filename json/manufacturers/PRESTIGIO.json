@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CD10A7G",
+      "codename": "CD10A7G",
+      "model": "PMT4311_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CD80A5G",
+      "codename": "CD80A5G",
+      "model": "PMT4118_3G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CD80A5G",
+      "codename": "CD80A5G",
+      "model": "PMT4638_3G_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GRACE P5",
       "codename": "HT50B2G",
       "model": "PSP5515DUO"
@@ -129,6 +147,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HP10A4L",
+      "codename": "HP10A4L",
+      "model": "PMT4791_4G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP10A4L",
+      "codename": "HP10A4L",
+      "model": "PMT4991_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP10A5L",
+      "codename": "HP10A5L",
+      "model": "PMT4891_4G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP8A6L",
+      "codename": "HP8A6L",
+      "model": "PMT4238_4G_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LS96A7G",
       "codename": "LS96A7G",
       "model": "PMT3196_3G"
@@ -186,6 +228,12 @@
       "market_name": "MULTIPAD WIZE 3787 3G",
       "codename": "PMT3777_3G",
       "model": "PMT3787_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MUZE E5 LTE",
+      "codename": "TL55B3L",
+      "model": "PSP5545DUO"
     },
     {
       "manufacturer": "",
@@ -309,6 +357,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT1157_4G_RU",
+      "codename": "HP70A6L",
+      "model": "PMT1157_4G_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT1177_ 4G",
       "codename": "LS70A6L",
       "model": "PMT1177_4G"
@@ -393,6 +447,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3103_W",
+      "codename": "JR10A1W",
+      "model": "PMT3103_W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3103_W_RU",
+      "codename": "JR10A1W",
+      "model": "PMT3103_W_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3137_3G",
       "codename": "JP70A1W",
       "model": "PMT3137_3G"
@@ -432,6 +498,12 @@
       "market_name": "PMT3177_3G",
       "codename": "PMT3177_3G",
       "model": "PMT3177_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3197_W_EU",
+      "codename": "HP70A1W",
+      "model": "PMT3197_W_EU"
     },
     {
       "manufacturer": "",
@@ -606,6 +678,60 @@
       "market_name": "PMT3878_4G",
       "codename": "CD80A3L",
       "model": "PMT3878_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4111_3G",
+      "codename": "CD10A7G",
+      "model": "PMT4111_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4117_3G",
+      "codename": "HP70A2G",
+      "model": "PMT4117_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4117_3G_EEA",
+      "codename": "HP70A2G",
+      "model": "PMT4117_3G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4131_4G",
+      "codename": "CD10A8L",
+      "model": "PMT4131_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4137_4G",
+      "codename": "HP70A3L",
+      "model": "PMT4137_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4138_4G_EEA",
+      "codename": "CD80A6L",
+      "model": "PMT4138_4G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4227_3G_RU",
+      "codename": "HP70A2G",
+      "model": "PMT4227_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4317_3G_RU",
+      "codename": "HP70A2G",
+      "model": "PMT4317_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4667_3G_RU",
+      "codename": "HP70A7G",
+      "model": "PMT4667_3G_RU"
     },
     {
       "manufacturer": "",
@@ -1236,6 +1362,12 @@
       "market_name": "Prestigio X pro",
       "codename": "KN54B1L",
       "model": "PSP7546DUO_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC70A1G",
+      "codename": "TC70A1G",
+      "model": "PMT4327_3G_RU"
     },
     {
       "manufacturer": "",

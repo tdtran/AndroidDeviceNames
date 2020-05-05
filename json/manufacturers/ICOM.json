@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ICOM",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CTGED01",
+      "codename": "CTGED01",
+      "model": "CTGED01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CTGED02",
+      "codename": "CTGED02",
+      "model": "CTGED02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CTGED03",
+      "codename": "CTGED03",
+      "model": "CTGED03"
+    }
+  ]
+}

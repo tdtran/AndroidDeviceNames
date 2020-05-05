@@ -75,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C17 Pro",
+      "codename": "C17_Pro",
+      "model": "C17 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C18 Pro",
+      "codename": "C18_Pro",
+      "model": "C18_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -135,9 +147,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K13 Pro",
+      "codename": "K13_Pro",
+      "model": "K13_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K3",
       "codename": "K3",
       "model": "K3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K3 Pro",
+      "codename": "K3_Pro",
+      "model": "K3_Pro"
     },
     {
       "manufacturer": "",
@@ -174,6 +198,12 @@
       "market_name": "K7 Power",
       "codename": "K7_Power",
       "model": "K7 Power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K7_Pro",
+      "codename": "K7_Pro",
+      "model": "K7_Pro"
     },
     {
       "manufacturer": "",
@@ -291,9 +321,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP5",
+      "codename": "WP5",
+      "model": "WP5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP5000",
       "codename": "WP5000",
       "model": "WP5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP6",
+      "codename": "WP6",
+      "model": "WP6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP7",
+      "codename": "WP7",
+      "model": "WP7"
     },
     {
       "manufacturer": "",

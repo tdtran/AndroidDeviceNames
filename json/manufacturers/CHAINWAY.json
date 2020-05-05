@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C61",
+      "codename": "C61",
+      "model": "C61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C66",
+      "codename": "C66",
+      "model": "C66"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C66_EEA",
+      "codename": "C66",
+      "model": "C66"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C71",
       "codename": "C71",
       "model": "C71"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80",
+      "codename": "P80",
+      "model": "P80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80_EEA",
+      "codename": "P80",
+      "model": "P80"
     }
   ]
 }

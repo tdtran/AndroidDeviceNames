@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Kurio Tab",
+      "codename": "Hulk_7_KIDS_WIFI",
+      "model": "8076"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kurio Tab",
+      "codename": "Hulk_7_KIDS_WIFI",
+      "model": "8076_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TabGo Next Connect",
       "codename": "M7006A",
       "model": "01519"

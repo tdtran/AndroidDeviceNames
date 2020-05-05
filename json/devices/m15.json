@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Leagoo",
+    "market_name": "M15",
+    "codename": "M15",
+    "model": "M15"
+  },
+  {
     "manufacturer": "Meizu",
     "market_name": "M15",
     "codename": "M15",

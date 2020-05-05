@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "Z851M",
+    "codename": "jeff",
+    "model": "Z851M"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE Overture 3",
     "codename": "jeff",
     "model": "Z851"

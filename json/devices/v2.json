@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Greentel",
+    "market_name": "V2",
+    "codename": "V2",
+    "model": "V2"
+  },
+  {
     "manufacturer": "Vava",
     "market_name": "V2",
     "codename": "V2",

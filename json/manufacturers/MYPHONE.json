@@ -81,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer Energy 2",
+      "codename": "Hammer_Energy_2",
+      "model": "Hammer_Energy_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer IRON 3",
+      "codename": "Hammer_IRON_3",
+      "model": "Hammer_IRON_3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Iron 3 LTE",
       "codename": "Hammer_Iron_3_LTE",
       "model": "Hammer_Iron_3_LTE"
@@ -375,6 +387,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myA18",
+      "codename": "myA18",
+      "model": "myA18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myA1_Plus",
+      "codename": "myA1_Plus",
+      "model": "myA1_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myA2",
       "codename": "MY802",
       "model": "MY802"
@@ -426,6 +450,12 @@
       "market_name": "myNX1",
       "codename": "myNX1",
       "model": "myNX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myP1",
+      "codename": "myP1",
+      "model": "myP1"
     },
     {
       "manufacturer": "",
@@ -522,6 +552,24 @@
       "market_name": "myXI1",
       "codename": "myXI1",
       "model": "myXI1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myXI1 Plus",
+      "codename": "myXI1_Plus",
+      "model": "myXI1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myXI1 Pro",
+      "codename": "myXI1_Pro",
+      "model": "myXI1 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myXI3",
+      "codename": "myXI3",
+      "model": "myXI3"
     },
     {
       "manufacturer": "",

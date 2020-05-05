@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Slate2",
+      "codename": "Slate2",
+      "model": "Slate2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Strike",
+      "codename": "Strike",
+      "model": "Strike"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Strike",
       "codename": "Swipe_Strike",
       "model": "Strike"

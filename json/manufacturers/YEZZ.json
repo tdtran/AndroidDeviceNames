@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LIV1",
+      "codename": "LIV1",
+      "model": "LIV1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAX1",
       "codename": "MAX1",
       "model": "MAX1"

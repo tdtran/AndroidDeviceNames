@@ -4,5 +4,11 @@
     "market_name": "Matrix",
     "codename": "Matrix",
     "model": "Matrix"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV4C",
+    "codename": "matrix",
+    "model": "MiTV4C"
   }
 ]

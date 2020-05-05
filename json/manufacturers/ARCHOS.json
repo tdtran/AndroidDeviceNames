@@ -939,9 +939,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "9.4\\\u0027\\\u0027 FFF",
+      "market_name": "9.4\u0027\u0027 FFF",
       "codename": "ac94fff",
-      "model": "9.4\\\u0027\\\u0027 FFF"
+      "model": "9.4\u0027\u0027 FFF"
     },
     {
       "manufacturer": "",
@@ -1083,13 +1083,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Alba 7\\\u0027\\\u0027",
+      "market_name": "Alba 7\u0027\u0027",
       "codename": "ac70plv4",
       "model": "Alba 7"
     },
     {
       "manufacturer": "",
-      "market_name": "Alba 7\\\u0027\\\u0027",
+      "market_name": "Alba 7\u0027\u0027",
       "codename": "ac70plv4",
       "model": "\"Alba 7\"\"\""
     },
@@ -1101,7 +1101,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Alba 8\\\u0027\\\u0027",
+      "market_name": "Alba 8\u0027\u0027",
       "codename": "ac80cplv2_16G",
       "model": "\"Alba 8\"\"\""
     },
@@ -1647,7 +1647,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Bush 10\\\u0027\\\u0027",
+      "market_name": "Bush 10\u0027\u0027",
       "codename": "ac101dplv2",
       "model": "\"Bush 10\"\" Android\""
     },
@@ -1719,7 +1719,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Bush 8\\\u0027\\\u0027",
+      "market_name": "Bush 8\u0027\u0027",
       "codename": "ac80dpl",
       "model": "Bush 8 Android"
     },
@@ -1755,13 +1755,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Bush Spira B1 10.1\\\u0027\\\u0027",
+      "market_name": "Bush Spira B1 10.1\u0027\u0027",
       "codename": "ac101dplv3",
       "model": "\"Bush Spira B1 10.1\"\"\""
     },
     {
       "manufacturer": "",
-      "market_name": "Bush Spira B1 8\\\u0027\\\u0027",
+      "market_name": "Bush Spira B1 8\u0027\u0027",
       "codename": "ac80dplv2",
       "model": "\"Bush Spira B1 8\"\"\""
     },

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LifeStick 4k",
+      "codename": "ts302",
+      "model": "LifeStick 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TSUTAYA Stick",
       "codename": "ts201",
       "model": "TStick"

@@ -24,6 +24,18 @@
       "market_name": "MEMOR 1",
       "codename": "M1_PISTOL",
       "model": "Memor 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Memor 20",
+      "codename": "Q10",
+      "model": "Memor 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Memor 20",
+      "codename": "Q10A",
+      "model": "Memor 20"
     }
   ]
 }

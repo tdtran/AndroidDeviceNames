@@ -1,0 +1,11 @@
+{
+  "manufacturer": "BTC Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Touch",
+      "codename": "Touch",
+      "model": "Touch"
+    }
+  ]
+}

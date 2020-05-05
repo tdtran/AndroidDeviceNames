@@ -4,5 +4,11 @@
     "market_name": "RG725",
     "codename": "RG725",
     "model": "RG725"
+  },
+  {
+    "manufacturer": "Ruggear",
+    "market_name": "RG725_P_ROW",
+    "codename": "RG725",
+    "model": "RG725"
   }
 ]

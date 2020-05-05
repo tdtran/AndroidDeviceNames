@@ -177,6 +177,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80G-L0-C",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80G-L0-C-B",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80G-L0-N",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80G-L0-N-B",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80G-L1-N",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CN85",
       "codename": "CN85-L0-C",
       "model": "CN85"
@@ -203,6 +233,18 @@
       "manufacturer": "",
       "market_name": "CT40",
       "codename": "CT40-L1-C",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40P",
+      "codename": "CT40P-L1-D",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40P-L0-D",
+      "codename": "CT40P-L0-D",
       "model": "CT40"
     },
     {
@@ -369,6 +411,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EDA61K",
+      "codename": "EDA61K-0C",
+      "model": "EDA61K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA61K",
+      "codename": "EDA61K-0U",
+      "model": "EDA61K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA61K",
+      "codename": "EDA61K-1C",
+      "model": "EDA61K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA61K",
+      "codename": "EDA61K-1U",
+      "model": "EDA61K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EDA70",
       "codename": "eda70-0",
       "model": "EDA70"
@@ -399,6 +465,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TA60A",
+      "codename": "TA60A-L0-C",
+      "model": "TA60A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA60A",
+      "codename": "TA60A-L1-C",
+      "model": "TA60A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VM1A",
       "codename": "VM1A-L0-N",
       "model": "VM1A"
@@ -408,6 +486,18 @@
       "market_name": "VM1A",
       "codename": "VM1A-L0-P",
       "model": "VM1A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VM3A",
+      "codename": "VM3A-L0-N",
+      "model": "VM3A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VM3A",
+      "codename": "VM3A-L0-P",
+      "model": "VM3A"
     }
   ]
 }

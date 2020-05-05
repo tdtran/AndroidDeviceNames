@@ -1,0 +1,11 @@
+{
+  "manufacturer": "boxchip",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S900Plus",
+      "codename": "S900Plus",
+      "model": "S900Plus"
+    }
+  ]
+}

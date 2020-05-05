@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 20 LITE",
+    "codename": "HWMAR",
+    "model": "MAR-LX1R"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HONOR 20S",
     "codename": "HWMAR",
     "model": "MAR-LX1H"

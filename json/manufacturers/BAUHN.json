@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Bauhn",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "hanyang",
+      "model": "Tempo Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BAUHN",
+      "codename": "bangbae",
+      "model": "BAUHN 4K Android TV"
+    }
+  ]
+}

@@ -6,6 +6,18 @@
       "market_name": "Pixus_Blast",
       "codename": "Pixus_Blast",
       "model": "Pixus_Blast"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixus_Joker",
+      "codename": "Pixus_Joker",
+      "model": "Pixus_Joker"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixus_Sprint",
+      "codename": "Sprint",
+      "model": "Pixus_Sprint"
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "manufacturer": "MiTAC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "N630",
+      "codename": "surfing_pro",
+      "model": "N630"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N635",
+      "codename": "chiron_pro",
+      "model": "N635"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N635_8",
+      "codename": "skating",
+      "model": "N635_8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N650",
+      "codename": "prometheus",
+      "model": "N650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N651",
+      "codename": "centaur",
+      "model": "N651"
+    }
+  ]
+}

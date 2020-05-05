@@ -1,7 +1,7 @@
 [
   {
     "manufacturer": "TCT (Alcatel)",
-    "market_name": "\\t ALCATEL ONETOUCH PIXI 3 (4.5)",
+    "market_name": "\t ALCATEL ONETOUCH PIXI 3 (4.5)",
     "codename": "PIXI3_45_4G",
     "model": "5017X"
   },
@@ -31,7 +31,7 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
-    "market_name": "ALCATEL ONETOUCH PIXI\\xe2\\x84\\xa2 3 (4.5)",
+    "market_name": "ALCATEL ONETOUCH PIXI™ 3 (4.5)",
     "codename": "PIXI3_45_4G",
     "model": "5017O"
   },

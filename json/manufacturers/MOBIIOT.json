@@ -1,0 +1,17 @@
+{
+  "manufacturer": "MobiIoT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Hotah",
+      "codename": "HotahOTG_N",
+      "model": "HotahOTG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hotah",
+      "codename": "HotahOTG_V",
+      "model": "HotahOTG"
+    }
+  ]
+}

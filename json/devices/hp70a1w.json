@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Prestigio",
+    "market_name": "PMT3197_W_EU",
+    "codename": "HP70A1W",
+    "model": "PMT3197_W_EU"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "Prestigio SmartKids",
     "codename": "HP70A1W",
     "model": "PMT3997_W_RU"

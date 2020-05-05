@@ -363,6 +363,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V7",
+      "codename": "LE9920_P",
+      "model": "LE9920_P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V7 Prime",
+      "codename": "LE9940",
+      "model": "LAVA LE9940"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V7s Prime",
+      "codename": "LE9940_W",
+      "model": "LAVA LE9940_W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V8",
+      "codename": "LE9910",
+      "model": "LE9910"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X10",
       "codename": "X10",
       "model": "LavaX10"
@@ -519,9 +543,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z30",
+      "codename": "AH9910",
+      "model": "AH9910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z30",
+      "codename": "AN9910",
+      "model": "AN9910"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z40",
       "codename": "Z40",
       "model": "Z40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z41 2GB",
+      "codename": "LN9910_2GB",
+      "model": "LN9910_2GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z42",
+      "codename": "AF9010_F",
+      "model": "AF9010_F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z42 Pro",
+      "codename": "AF9020",
+      "model": "AF9020"
     },
     {
       "manufacturer": "",
@@ -540,6 +594,18 @@
       "market_name": "Z51",
       "codename": "Z51",
       "model": "Z51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z52 Pro",
+      "codename": "LH9910",
+      "model": "LH9910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z53",
+      "codename": "LE9920",
+      "model": "LE9920"
     },
     {
       "manufacturer": "",
@@ -570,6 +636,12 @@
       "market_name": "Z61-2GB",
       "codename": "Z61_2GB",
       "model": "Z61_2GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z61P",
+      "codename": "Z61P",
+      "model": "Lava Z61P"
     },
     {
       "manufacturer": "",
@@ -618,6 +690,36 @@
       "market_name": "ZX",
       "codename": "ZX",
       "model": "ZX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco Y30",
+      "codename": "AF9030",
+      "model": "LAVA AF9030"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ir59",
+      "codename": "LE9930",
+      "model": "LAVA LE9930"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris 46",
+      "codename": "LH9950",
+      "model": "LAVA LH9950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris 54",
+      "codename": "LH9930",
+      "model": "LAVA LH9930"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris 54",
+      "codename": "LH9931",
+      "model": "LAVA LH9931"
     },
     {
       "manufacturer": "",
@@ -798,6 +900,12 @@
       "market_name": "iris88s",
       "codename": "iris88s",
       "model": "iris88s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "op200",
+      "codename": "AF9010",
+      "model": "AF9010"
     }
   ]
 }

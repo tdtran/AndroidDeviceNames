@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ULTRA",
+      "codename": "ULTRA",
+      "model": "ULTRA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z101G",
       "codename": "Z101G",
       "model": "Z101G"

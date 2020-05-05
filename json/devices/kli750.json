@@ -4,5 +4,11 @@
     "market_name": "KLI750",
     "codename": "KLI750",
     "model": "KL I750"
+  },
+  {
+    "manufacturer": "Klipad",
+    "market_name": "KLI750_EEA",
+    "codename": "KLI750",
+    "model": "KL I750"
   }
 ]

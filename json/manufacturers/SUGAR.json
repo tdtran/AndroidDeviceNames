@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SUGAR_Y18",
+      "codename": "SUGAR_Y18",
+      "model": "SUGAR_Y18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sugar",
       "codename": "s9121",
       "model": "SUGAR"

@@ -27,9 +27,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STG_A1",
+      "codename": "STG_A1",
+      "model": "STG A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG_B10",
+      "codename": "STG_B10",
+      "model": "STG_B10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG_C10",
+      "codename": "STG_C10",
+      "model": "STG_C10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STG_S1",
       "codename": "STG_S1",
       "model": "STG S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG_S20",
+      "codename": "STG_S20",
+      "model": "STG S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG_S30",
+      "codename": "STG_S30",
+      "model": "STG S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG_X1",
+      "codename": "STG_X1",
+      "model": "STG X1"
     }
   ]
 }

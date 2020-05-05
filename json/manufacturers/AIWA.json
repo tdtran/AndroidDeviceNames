@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ASIA MIDDLE EAST  AFRICA  EU",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AW790",
       "codename": "AW790",
       "model": "AW790"

@@ -51,7 +51,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "V TAB 7\\\u0027\\\u0027 LITE II",
+      "market_name": "V TAB 7\u0027\u0027 LITE II",
       "codename": "V_TAB_7_LITE_II",
       "model": "V_TAB_7_LITE_II"
     },
@@ -111,9 +111,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "V TAB 9.7\\\u0027\\\u0027 PRO",
+      "market_name": "V TAB 9.7\u0027\u0027 PRO",
       "codename": "VT97PRO",
       "model": "VT97PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V TAB c1",
+      "codename": "MELTEM",
+      "model": "V TAB c1"
     },
     {
       "manufacturer": "",
@@ -251,13 +257,13 @@
       "manufacturer": "",
       "market_name": "VT10E2",
       "codename": "VT10E2",
-      "model": "S TAB 10\\\u0027\\\u0027 II"
+      "model": "S TAB 10\u0027\u0027 II"
     },
     {
       "manufacturer": "",
       "market_name": "VT10E2",
       "codename": "VT10E2",
-      "model": "V TAB 10\\\u0027\\\u0027 LITE"
+      "model": "V TAB 10\u0027\u0027 LITE"
     },
     {
       "manufacturer": "",
@@ -269,7 +275,7 @@
       "manufacturer": "",
       "market_name": "VT785P2",
       "codename": "VT785P2",
-      "model": "V TAB 7.85\\\u0027\\\u0027 LITE"
+      "model": "V TAB 7.85\u0027\u0027 LITE"
     },
     {
       "manufacturer": "",
@@ -357,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Venus E5",
+      "codename": "Lodos",
+      "model": "Venus e5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Venus Go",
       "codename": "AdaGo",
       "model": "Venus GO"
@@ -411,6 +423,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Venus V6 S",
+      "codename": "Iletee",
+      "model": "V6S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Venus V7",
       "codename": "Pardus",
       "model": "Venus V7"
@@ -426,6 +444,12 @@
       "market_name": "Venus Z30",
       "codename": "Troia",
       "model": "Venus Z30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venus Z40",
+      "codename": "Poyraz",
+      "model": "Venus Z40"
     },
     {
       "manufacturer": "",

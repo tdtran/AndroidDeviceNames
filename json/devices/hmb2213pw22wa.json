@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Sasktel",
+    "market_name": "HMB2213PW22WA",
+    "codename": "HMB2213PW22WA",
+    "model": "HMB2213PW22WA"
+  },
+  {
+    "manufacturer": "Sasktel",
     "market_name": "SaskTel maxTV Stream",
     "codename": "HMB2213PW22WA",
     "model": "HMB2213PW22WA"

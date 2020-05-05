@@ -34,5 +34,17 @@
     "market_name": "Y60",
     "codename": "W-K510",
     "model": "W-K510-TVM"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "Y60",
+    "codename": "W-K510",
+    "model": "W-K510S-OPE"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "Y60",
+    "codename": "W-K510",
+    "model": "W-K510S-SWI"
   }
 ]

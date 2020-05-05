@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hotwav",
+    "market_name": "Venus",
+    "codename": "Venus",
+    "model": "Venus"
+  },
+  {
     "manufacturer": "Mobicell",
     "market_name": "Mobicel",
     "codename": "Venus",

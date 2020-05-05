@@ -1,0 +1,17 @@
+{
+  "manufacturer": "BARTEC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Pixavi Phone",
+      "codename": "PixaviPhone",
+      "model": "Pixavi Phone"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixavi Thermal",
+      "codename": "PixaviThermal",
+      "model": "Pixavi Thermal"
+    }
+  ]
+}

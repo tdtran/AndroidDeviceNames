@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Sharp",
+    "market_name": "S7",
+    "codename": "vespa_sprout",
+    "model": "S7-SH"
+  },
+  {
+    "manufacturer": "Sharp",
     "market_name": "X4",
     "codename": "vespa_sprout",
     "model": "X4-SH"

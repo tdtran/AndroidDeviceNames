@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DN6015",
+      "codename": "DN6015",
+      "model": "DN6015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HK7-3502",
+      "codename": "HK7-3502",
+      "model": "HK7-3502"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KT5509",
       "codename": "KT5509",
       "model": "KT5509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS_M103A",
+      "codename": "TS_M103A",
+      "model": "TS_M103A"
     }
   ]
 }

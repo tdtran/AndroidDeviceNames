@@ -10,5 +10,17 @@
     "market_name": "Power 3",
     "codename": "Power_3",
     "model": "Power_3"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "Power_3",
+    "codename": "Power_3",
+    "model": "Power_3"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "Power_3_EEA",
+    "codename": "Power_3",
+    "model": "Power_3"
   }
 ]

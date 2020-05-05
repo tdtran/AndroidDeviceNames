@@ -6,6 +6,12 @@
     "model": "Beam"
   },
   {
+    "manufacturer": "Mobicell",
+    "market_name": "BEAM",
+    "codename": "BEAM",
+    "model": "BEAM"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Warp 7",
     "codename": "beam",

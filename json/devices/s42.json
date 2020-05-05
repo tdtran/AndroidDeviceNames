@@ -4,5 +4,11 @@
     "market_name": "S42",
     "codename": "S42",
     "model": "S42"
+  },
+  {
+    "manufacturer": "Cat",
+    "market_name": "Cat S42",
+    "codename": "S42",
+    "model": "S42"
   }
 ]

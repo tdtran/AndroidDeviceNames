@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C-708",
+      "codename": "C-708",
+      "model": "C-708"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Concord M15",
+      "codename": "Concord_M15",
+      "model": "Concord M15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dream_Edition_C-754",
+      "codename": "Dream_Edition_C-754",
+      "model": "Dream_Edition_C-754"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plus-7_C777",
       "codename": "Plus-7_C777",
       "model": "Plus-7_C777"

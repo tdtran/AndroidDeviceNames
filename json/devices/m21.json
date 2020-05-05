@@ -4,5 +4,11 @@
     "market_name": "M21",
     "codename": "M21",
     "model": "M21"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M21",
+    "codename": "m21",
+    "model": "SM-M215F"
   }
 ]

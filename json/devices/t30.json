@@ -4,5 +4,23 @@
     "market_name": "T30",
     "codename": "T30",
     "model": "Panasonic T30"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "T30_EEA",
+    "codename": "T30",
+    "model": "T30_EEA"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "T30_ROW",
+    "codename": "T30",
+    "model": "T30_ROW"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "T30_RU",
+    "codename": "T30",
+    "model": "T30_RU"
   }
 ]

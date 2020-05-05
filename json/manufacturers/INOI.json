@@ -39,9 +39,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI_1",
+      "codename": "INOI_1",
+      "model": "INOI 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_1_Lite_2020",
+      "codename": "INOI_1_Lite_2020",
+      "model": "INOI 1 Lite 2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI_2",
       "codename": "INOI_2",
       "model": "INOI_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_2_2019",
+      "codename": "INOI_2_2019",
+      "model": "INOI 2 2019"
     },
     {
       "manufacturer": "",
@@ -120,6 +138,12 @@
       "market_name": "INOI_6i_Lite",
       "codename": "INOI_6i_Lite",
       "model": "INOI_6i_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_7_2020",
+      "codename": "INOI_7_2020",
+      "model": "INOI 7 2020"
     },
     {
       "manufacturer": "",

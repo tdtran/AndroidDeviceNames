@@ -16,6 +16,12 @@
     {
       "manufacturer": "",
       "market_name": "HSG1351",
+      "codename": "HSG1351",
+      "model": "HSG1351"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HSG1351",
       "codename": "rk3368_32",
       "model": "HSG1351"
     },

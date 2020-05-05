@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Realtek",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RealtekHank",
+      "codename": "RealtekHank",
+      "model": "RealtekHank"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RealtekThor",
+      "codename": "RealtekThor",
+      "model": "RealtekThor"
+    }
+  ]
+}

@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BMM441S",
+      "codename": "BMM441S",
+      "model": "BMM441S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM441W",
+      "codename": "BMM441W",
+      "model": "BMM441W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BMM442D",
       "codename": "BMM442D",
       "model": "BMM442D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM442S",
+      "codename": "BMM442S",
+      "model": "BMM442S"
     },
     {
       "manufacturer": "",
@@ -54,6 +72,12 @@
       "market_name": "BMM541D",
       "codename": "BMM541D",
       "model": "BMM541D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM541W",
+      "codename": "BMM541W",
+      "model": "BMM541W"
     },
     {
       "manufacturer": "",

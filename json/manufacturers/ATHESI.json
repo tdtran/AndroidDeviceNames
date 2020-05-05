@@ -3,9 +3,57 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AP5701",
+      "codename": "AP5701",
+      "model": "AP5701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AP5801",
+      "codename": "AP5801",
+      "model": "AP5801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AP6301",
+      "codename": "AP6301",
+      "model": "AP6301"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT-E8T",
       "codename": "AT-E8T",
       "model": "AT-E8T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E6A",
+      "codename": "E6A",
+      "model": "E6A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT101A",
+      "codename": "RT101A",
+      "model": "RT101A9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT4500_EEA",
+      "codename": "RT4500",
+      "model": "RT4500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT55_EEA",
+      "codename": "RT55",
+      "model": "RT55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT80A",
+      "codename": "RT80A",
+      "model": "RT80A9"
     }
   ]
 }

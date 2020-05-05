@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Coolpad",
+    "market_name": "Coolpad 3706AS",
+    "codename": "apollo",
+    "model": "CP3706AS"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "N9101",
     "codename": "apollo",

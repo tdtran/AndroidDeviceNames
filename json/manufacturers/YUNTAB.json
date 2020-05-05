@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D107",
+      "codename": "D107",
+      "model": "D107"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YUNTAB-K107",
       "codename": "YUNTAB-K107",
       "model": "YUNTAB-K107"

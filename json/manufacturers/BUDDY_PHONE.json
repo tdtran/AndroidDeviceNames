@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Buddy Phone",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P1",
+      "codename": "BP",
+      "model": "P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P2",
+      "codename": "P2",
+      "model": "P2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P3",
+      "codename": "P3",
+      "model": "P3"
+    }
+  ]
+}

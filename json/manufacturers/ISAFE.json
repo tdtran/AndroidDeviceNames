@@ -3,15 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IS520",
+      "codename": "IS520",
+      "model": "IS520"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS520.1",
       "codename": "IS520_1",
       "model": "IS520_1"
     },
     {
       "manufacturer": "",
+      "market_name": "IS530",
+      "codename": "IS530",
+      "model": "IS530"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IS655",
+      "codename": "IS655",
+      "model": "IS655"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS910.1",
       "codename": "IS910_1",
       "model": "IS910_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IS930",
+      "codename": "IS930",
+      "model": "IS930"
     }
   ]
 }

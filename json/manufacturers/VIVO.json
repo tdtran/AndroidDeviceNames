@@ -21,15 +21,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "1818",
-      "codename": "1818",
-      "model": "vivo 1818"
+      "market_name": "I1927",
+      "codename": "I1928",
+      "model": "I1927"
     },
     {
       "manufacturer": "",
-      "market_name": "1818N",
-      "codename": "1818N",
-      "model": "vivo 1818"
+      "market_name": "I1928",
+      "codename": "I1928",
+      "model": "I1928"
     },
     {
       "manufacturer": "",
@@ -72,12 +72,6 @@
       "market_name": "V1",
       "codename": "V1",
       "model": "vivo V1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "V17 Neo",
-      "codename": "1907N",
-      "model": "vivo 1907"
     },
     {
       "manufacturer": "",
@@ -189,15 +183,141 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V1913A",
+      "codename": "PD1913",
+      "model": "V1913A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1914A",
+      "codename": "PD1914",
+      "model": "V1914A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1916A",
       "codename": "PD1916",
       "model": "V1916A"
     },
     {
       "manufacturer": "",
+      "market_name": "V1921A",
+      "codename": "PD1921",
+      "model": "V1921A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1922A",
       "codename": "PD1922",
       "model": "V1922A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1923A",
+      "codename": "PD1923",
+      "model": "V1923A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1924A",
+      "codename": "PD1924",
+      "model": "V1924A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1926",
+      "codename": "1926",
+      "model": "V1926"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1928A",
+      "codename": "PD1928",
+      "model": "V1928A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1930A",
+      "codename": "PD1930",
+      "model": "V1930A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1932A",
+      "codename": "PD1932",
+      "model": "V1932A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1934A",
+      "codename": "PD1934",
+      "model": "V1934A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1936A",
+      "codename": "PD1936",
+      "model": "V1936A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1936AL",
+      "codename": "PD1936G",
+      "model": "V1936AL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1938A",
+      "codename": "PD1938",
+      "model": "V1938T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1938CT",
+      "codename": "PD1938",
+      "model": "V1938CT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1941A",
+      "codename": "PD1941",
+      "model": "V1941A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1945A",
+      "codename": "PD1945",
+      "model": "V1945A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1950A",
+      "codename": "PD1950",
+      "model": "V1950A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1955A",
+      "codename": "PD1955",
+      "model": "V1955A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1962A",
+      "codename": "PD1962",
+      "model": "V1962A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1963A",
+      "codename": "PD1963",
+      "model": "V1963A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1965A",
+      "codename": "PD1965",
+      "model": "V1965A"
     },
     {
       "manufacturer": "",
@@ -591,13 +711,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Y93\\xe6\\xa0\\x87\\xe5\\x87\\x86\\xe7\\x89\\x88 64G",
+      "market_name": "Y93标准版 64G",
       "codename": "PD1818B",
       "model": "V1818BA"
     },
     {
       "manufacturer": "",
-      "market_name": "Y93\\xe6\\xa0\\x87\\xe5\\x87\\x86\\xe7\\x89\\x88 64G",
+      "market_name": "Y93标准版 64G",
       "codename": "PD1818B",
       "model": "V1818CA"
     },
@@ -630,6 +750,12 @@
       "market_name": "Z3i",
       "codename": "PD1813E",
       "model": "V1813A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo  1907",
+      "codename": "1907",
+      "model": "vivo 1907"
     },
     {
       "manufacturer": "",
@@ -808,6 +934,18 @@
     {
       "manufacturer": "",
       "market_name": "vivo 1818",
+      "codename": "1818",
+      "model": "vivo 1818"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1818",
+      "codename": "1818N",
+      "model": "vivo 1818"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1818",
       "codename": "PD1832",
       "model": "V1832A"
     },
@@ -849,9 +987,111 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo 1906",
+      "codename": "1906",
+      "model": "vivo 1906"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo 1907",
       "codename": "1907",
       "model": "vivo 1907"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1907",
+      "codename": "1907N",
+      "model": "vivo 1907"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1909",
+      "codename": "1909",
+      "model": "vivo 1909"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1910",
+      "codename": "1910",
+      "model": "vivo 1910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1910",
+      "codename": "1910N",
+      "model": "vivo 1910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1912",
+      "codename": "1912",
+      "model": "vivo 1912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1913",
+      "codename": "1913",
+      "model": "vivo 1913"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1914",
+      "codename": "1811",
+      "model": "vivo 1914"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1915",
+      "codename": "1915",
+      "model": "vivo 1915"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1916",
+      "codename": "1916",
+      "model": "vivo 1916"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1917",
+      "codename": "1917",
+      "model": "vivo 1917"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1919",
+      "codename": "1919",
+      "model": "vivo 1919"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1920",
+      "codename": "1920",
+      "model": "vivo 1920"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1921",
+      "codename": "1921",
+      "model": "vivo 1921"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1933",
+      "codename": "1933",
+      "model": "vivo 1933"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1935",
+      "codename": "1935",
+      "model": "vivo 1935"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1937",
+      "codename": "1937",
+      "model": "vivo 1937"
     },
     {
       "manufacturer": "",

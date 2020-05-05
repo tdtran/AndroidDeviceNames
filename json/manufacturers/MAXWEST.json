@@ -45,6 +45,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gravity_6P",
+      "codename": "Gravity_6P",
+      "model": "Gravity_6P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gravity_6P_Plus",
+      "codename": "Gravity_6P_Plus",
+      "model": "Gravity_6P_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gravity_7P",
+      "codename": "Gravity_7P",
+      "model": "Gravity_7P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAXWEST",
       "codename": "Black765857703671",
       "model": "AstroPhablet7s"
@@ -96,6 +114,12 @@
       "market_name": "Nitro_55R",
       "codename": "Nitro_55R",
       "model": "Nitro_55R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro_5P",
+      "codename": "Nitro_5P",
+      "model": "Nitro 5P"
     },
     {
       "manufacturer": "",

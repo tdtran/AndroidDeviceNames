@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DT07",
+      "codename": "DT07",
+      "model": "DT07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT08-TAB4G",
+      "codename": "DT08-TAB4G",
+      "model": "DT08-TAB4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT10-TAB4G",
+      "codename": "DT10-TAB4G",
+      "model": "DT10-TAB4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H70_G",
       "codename": "H70_G",
       "model": "H70_G"

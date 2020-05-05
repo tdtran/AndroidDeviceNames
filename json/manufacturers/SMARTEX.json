@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M530",
+      "codename": "M530",
+      "model": "M530"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M700",
       "codename": "M700",
       "model": "M700"

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Mobicell",
+    "market_name": "BLINK",
+    "codename": "BLINK",
+    "model": "BLINK"
+  },
+  {
     "manufacturer": "NYX Mobile",
     "market_name": "BLINK",
     "codename": "BLiNK",

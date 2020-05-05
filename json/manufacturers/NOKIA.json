@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C2",
+      "codename": "NBL",
+      "model": "Nebula"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C2",
+      "codename": "NBL",
+      "model": "Nokia C2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N1",
       "codename": "Nokia_N1",
       "model": "N1"
@@ -18,6 +30,12 @@
       "market_name": "Nokia 1 Plus",
       "codename": "ANT",
       "model": "Nokia 1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 1.3",
+      "codename": "DRX",
+      "model": "Nokia 1.3"
     },
     {
       "manufacturer": "",
@@ -45,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 2.3",
+      "codename": "IRM_sprout",
+      "model": "Nokia 2.3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 3",
       "codename": "NE1",
       "model": "TA-1020"
@@ -66,6 +90,12 @@
       "market_name": "Nokia 3",
       "codename": "NE1",
       "model": "TA-1038"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3 V",
+      "codename": "DPL_VZW",
+      "model": "Nokia 3 V"
     },
     {
       "manufacturer": "",
@@ -231,6 +261,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 6.2",
+      "codename": "SLDA_sprout",
+      "model": "Nokia 6.2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 6.2",
+      "codename": "SLD_sprout",
+      "model": "Nokia 6.2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 7",
       "codename": "C1N",
       "model": "TA-1041"
@@ -252,6 +294,18 @@
       "market_name": "Nokia 7.1",
       "codename": "CTL_sprout",
       "model": "Nokia 7.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 7.2",
+      "codename": "DDVA_sprout",
+      "model": "Nokia 7.2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 7.2",
+      "codename": "DDV_sprout",
+      "model": "Nokia 7.2"
     },
     {
       "manufacturer": "",
@@ -306,6 +360,12 @@
       "market_name": "Nokia 9",
       "codename": "AOP_sprout",
       "model": "Nokia 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C1",
+      "codename": "RKU",
+      "model": "Nokia C1"
     },
     {
       "manufacturer": "",

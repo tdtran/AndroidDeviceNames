@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Quantum UP",
+      "codename": "QF74",
+      "model": "Quantum UP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sky",
       "codename": "QX1",
       "model": "Sky"

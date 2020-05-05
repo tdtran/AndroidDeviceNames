@@ -1,0 +1,62 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10+",
+    "codename": "Tokyo",
+    "model": "5128A"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10+",
+    "codename": "Tokyo",
+    "model": "5128Y"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028D_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028D_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028D_TR"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028Y"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028Y_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "Tokyo",
+    "model": "5028Y_RU"
+  }
+]

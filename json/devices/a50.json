@@ -33,10 +33,16 @@
     "manufacturer": "Garmin",
     "market_name": "Nuvifone",
     "codename": "a50",
-    "model": "n\\xc3\\xbcvifone A50"
+    "model": "nüvifone A50"
   },
   {
     "manufacturer": "Lava",
+    "market_name": "A50",
+    "codename": "A50",
+    "model": "A50"
+  },
+  {
+    "manufacturer": "PAX (CN)",
     "market_name": "A50",
     "codename": "A50",
     "model": "A50"
@@ -93,6 +99,12 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy A50",
     "codename": "a50",
+    "model": "SM-A505U1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A50",
+    "codename": "a50",
     "model": "SM-A505W"
   },
   {
@@ -100,5 +112,11 @@
     "market_name": "Galaxy A50",
     "codename": "a50",
     "model": "SM-A505YN"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A50",
+    "codename": "a50",
+    "model": "SM-S506DL"
   }
 ]

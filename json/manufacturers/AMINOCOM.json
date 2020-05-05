@@ -9,6 +9,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amigo7x",
+      "codename": "Amigo7x",
+      "model": "Amigo7x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amigo7xSCB",
+      "codename": "Amigo7xSCB",
+      "model": "Amigo7xSCB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kamai 7B",
+      "codename": "Kamai7B",
+      "model": "Kamai7B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kamai7",
+      "codename": "Kamai7",
+      "model": "Kamai7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kamai7B",
       "codename": "Kamai7B",
       "model": "Kamai7B"

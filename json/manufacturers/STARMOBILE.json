@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y15",
+      "codename": "Y15",
+      "model": "Y15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "up_octa",
       "codename": "UP_Octa",
       "model": "UP Octa"

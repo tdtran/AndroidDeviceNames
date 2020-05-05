@@ -57,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HS_Boost_4",
+      "codename": "HS_Boost_4",
+      "model": "HS Boost 4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K2050 C1 Fest Pro",
       "codename": "Fest-Pro",
       "model": "Fest-Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Max3",
+      "codename": "Max3",
+      "model": "Max3"
     },
     {
       "manufacturer": "",

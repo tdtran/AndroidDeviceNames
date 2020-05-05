@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IK-1025",
+      "codename": "IK-1025",
+      "model": "IK-1025"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IK-7108",
       "codename": "IK-7108",
       "model": "IK-7108"
@@ -12,6 +18,12 @@
       "market_name": "IK-787",
       "codename": "IK-787",
       "model": "IK-787"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IK-869",
+      "codename": "IK-869",
+      "model": "IK-869"
     }
   ]
 }

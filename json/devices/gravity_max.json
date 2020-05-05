@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "SPC Mobile",
+    "market_name": "Gravity_Max_EEA",
+    "codename": "Gravity_Max",
+    "model": "Gravity Max"
+  },
+  {
     "manufacturer": "SPC Universe",
     "market_name": "Gravity_Max",
     "codename": "Gravity_Max",

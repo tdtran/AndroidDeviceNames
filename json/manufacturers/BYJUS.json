@@ -1,0 +1,17 @@
+{
+  "manufacturer": "BYJUS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ITM03081",
+      "codename": "BYJUS",
+      "model": "ITM03081"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRN10",
+      "codename": "LRN10",
+      "model": "LRN10"
+    }
+  ]
+}

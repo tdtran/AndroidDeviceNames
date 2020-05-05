@@ -1,0 +1,17 @@
+{
+  "manufacturer": "YesTeL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Note_30_pro",
+      "codename": "Note_30_pro",
+      "model": "Note 30 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7_EEA",
+      "codename": "X7_EEA",
+      "model": "X7_EEA"
+    }
+  ]
+}

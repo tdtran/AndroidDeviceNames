@@ -75,6 +75,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MITO_T18",
+      "codename": "MITO_T18",
+      "model": "MITO_T18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MITO_T7",
+      "codename": "MITO_T7",
+      "model": "MITO_T7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MITO_T7A",
+      "codename": "MITO_T7A",
+      "model": "MITO_T7A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MITO_T8A",
+      "codename": "MITO_T8A",
+      "model": "MITO_T8A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mito_A35",
+      "codename": "Mito_A35",
+      "model": "Mito_A35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mito_A36_W1",
       "codename": "MITO_A36_W1",
       "model": "MITO_A36_W1"
@@ -96,6 +126,12 @@
       "market_name": "T5091A",
       "codename": "MITO_A16",
       "model": "MITO A16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8",
+      "codename": "T8",
+      "model": "T8"
     }
   ]
 }

@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M002KID-15",
+      "codename": "M002KID-15",
+      "model": "M002KID-15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "T1",
       "model": "T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1mini",
+      "codename": "T1mini",
+      "model": "T1mini"
     }
   ]
 }

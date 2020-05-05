@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CONQUEST S12Pro",
+      "codename": "S12Pro",
+      "model": "S12Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S11",
       "codename": "conquest-S11",
       "model": "S11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "conquest_S16",
+      "codename": "conquest_S16",
+      "model": "conquest_S16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "conquest_S16_RU",
+      "codename": "conquest_S16",
+      "model": "conquest_S16"
     }
   ]
 }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "hanyang",
+      "model": "AQUA Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "nippori",
+      "model": "AQUA Android TV 2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S1 Jazz",
       "codename": "S1_Jazz",
       "model": "S1 Jazz"

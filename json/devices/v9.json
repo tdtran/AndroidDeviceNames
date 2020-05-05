@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Olla",
+    "market_name": "V9",
+    "codename": "V9",
+    "model": "V9"
+  },
+  {
     "manufacturer": "POPTEL",
     "market_name": "V9",
     "codename": "V9",

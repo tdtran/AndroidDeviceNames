@@ -3,9 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K105",
+      "codename": "K105",
+      "model": "K105"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K105_EEA",
+      "codename": "K105_EEA",
+      "model": "K105_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K106",
+      "codename": "K106",
+      "model": "K106"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K108",
+      "codename": "K108",
+      "model": "K108"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K108_EEA",
+      "codename": "K108_EEA",
+      "model": "K108_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K78",
       "codename": "K78",
       "model": "K78"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K78_EEA",
+      "codename": "K78_EEA",
+      "model": "K78_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K79",
+      "codename": "K79",
+      "model": "K79"
     }
   ]
 }

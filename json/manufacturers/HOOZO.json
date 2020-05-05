@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HZ0010J",
+      "codename": "HZ0010J",
+      "model": "HZ0010J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HZ0011",
       "codename": "HZ0011",
       "model": "HZ0011"
@@ -24,6 +30,30 @@
       "market_name": "MR7863",
       "codename": "MR7863",
       "model": "MR7863"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MZ10863",
+      "codename": "MZ10863",
+      "model": "MZ10863"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MZ10863W",
+      "codename": "MZ10863W",
+      "model": "MZ10863W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YK_P30",
+      "codename": "YK_P30",
+      "model": "YK_P30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YK_P30_EEA",
+      "codename": "YK_P30_EEA",
+      "model": "YK_P30_EEA"
     }
   ]
 }

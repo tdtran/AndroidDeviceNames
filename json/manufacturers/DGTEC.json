@@ -1,0 +1,29 @@
+{
+  "manufacturer": "DGTEC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DG101TBIPS",
+      "codename": "DG101TBIPS",
+      "model": "DG101TBIPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DG7TBIPSBT",
+      "codename": "DG7TBIPSBT",
+      "model": "DG7TBIPSBT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DG7TBIPSG",
+      "codename": "DG7TBIPSG",
+      "model": "DG7TBIPSG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DG7TBIPSPA",
+      "codename": "DG7TBIPSPA",
+      "model": "DG7TBIPSPA"
+    }
+  ]
+}

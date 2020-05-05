@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G3 Pro",
+      "codename": "ADVAN_G3_Pro",
+      "model": "6002"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I Tab",
       "codename": "ADVAN_i_Tab",
       "model": "i7_Plus"
@@ -138,6 +144,12 @@
       "market_name": "M4",
       "codename": "ADVAN_M4",
       "model": "ADVAN M4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NASA",
+      "codename": "ADVAN_NASA",
+      "model": "5202"
     },
     {
       "manufacturer": "",
@@ -222,6 +234,24 @@
       "market_name": "T2K",
       "codename": "T2K",
       "model": "T2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 10",
+      "codename": "ADVAN_TAB_10",
+      "model": "1010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 7",
+      "codename": "ADVAN_TAB_7",
+      "model": "7039"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 8",
+      "codename": "ADVAN_TAB_8",
+      "model": "8002"
     },
     {
       "manufacturer": "",

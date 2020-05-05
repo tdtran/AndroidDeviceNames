@@ -16,5 +16,17 @@
     "market_name": "",
     "codename": "T20",
     "model": "one touch T20"
+  },
+  {
+    "manufacturer": "Veidoo",
+    "market_name": "T20",
+    "codename": "T20",
+    "model": "T20"
+  },
+  {
+    "manufacturer": "Xstar",
+    "market_name": "T20",
+    "codename": "T20",
+    "model": "T20"
   }
 ]

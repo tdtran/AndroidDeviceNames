@@ -1,6 +1,18 @@
 [
   {
+    "manufacturer": "Evercoss",
+    "market_name": "X7",
+    "codename": "X7",
+    "model": "X7"
+  },
+  {
     "manufacturer": "SBET",
+    "market_name": "X7",
+    "codename": "X7",
+    "model": "X7"
+  },
+  {
+    "manufacturer": "Selfix",
     "market_name": "X7",
     "codename": "X7",
     "model": "X7"

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMARTPHONE3.5",
+      "codename": "Tesla_SP3_5",
+      "model": "Tesla_SP3.5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smartphone 3.4",
       "codename": "Tesla_SP3_4",
       "model": "Tesla_SP3_4"
@@ -30,6 +36,12 @@
       "market_name": "Tablet_L7_1",
       "codename": "Tablet_L7_1",
       "model": "Tesla L7.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tesla 2K TV",
+      "codename": "shinagawa",
+      "model": "Tesla 2K TV"
     },
     {
       "manufacturer": "",
