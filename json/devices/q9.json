@@ -4,5 +4,11 @@
     "market_name": "Connect 504",
     "codename": "Q9",
     "model": "Connect504"
+  },
+  {
+    "manufacturer": "Win (VE)",
+    "market_name": "Q9",
+    "codename": "Q9",
+    "model": "Q9"
   }
 ]

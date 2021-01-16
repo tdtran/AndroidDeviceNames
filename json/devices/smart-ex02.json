@@ -3,6 +3,12 @@
     "manufacturer": "ecom",
     "market_name": "Smart-Ex02",
     "codename": "Smart-Ex02",
+    "model": "Smart-Ex 02 RUS"
+  },
+  {
+    "manufacturer": "ecom",
+    "market_name": "Smart-Ex02",
+    "codename": "Smart-Ex02",
     "model": "Smart-Ex02 ROW"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "YQSVAIOR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "YQ-SVAIOR-EEA",
+      "codename": "YQ-SVAIOR-EEA",
+      "model": "YQ-SVAIOR-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ11",
+      "codename": "YQ11",
+      "model": "YQ11"
+    }
+  ]
+}

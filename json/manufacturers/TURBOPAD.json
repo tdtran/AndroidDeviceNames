@@ -48,6 +48,12 @@
       "market_name": "Turbopad1016NEW",
       "codename": "Turbopad1016NEW",
       "model": "Turbopad1016NEW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turbopadpro",
+      "codename": "TurboPadPro",
+      "model": "TurboPadPro"
     }
   ]
 }

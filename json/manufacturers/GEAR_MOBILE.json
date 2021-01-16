@@ -42,6 +42,12 @@
       "market_name": "Space",
       "codename": "Space",
       "model": "Space"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Space_Pro",
+      "codename": "Space_Pro",
+      "model": "Space_Pro"
     }
   ]
 }

@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SCHNEIDER",
       "codename": "bangbae",
       "model": "SCHNEIDER 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SCHNEIDER",
+      "codename": "komagome",
+      "model": "SCHNEIDER 2K Android TV"
     }
   ]
 }

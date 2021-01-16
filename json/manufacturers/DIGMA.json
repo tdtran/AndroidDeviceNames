@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CITI_1590_3G_CS1207MG",
+      "codename": "CS1207MG",
+      "model": "CITI 1590 3G CS1207MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITI_1593_3G_CS1210MG",
+      "codename": "CS1210MG",
+      "model": "CITI 1593 3G CS1210MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CITI_7591_3G_CS7208MG",
       "codename": "CS7208MG",
       "model": "CITI 7591 3G CS7208MG"
@@ -21,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CITI_Kids",
+      "codename": "CS7216MG",
+      "model": "CITI Kids CS7216MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CITI_Kids_CS7216MG",
       "codename": "CS7216MG",
       "model": "CITI Kids CS7216MG"
@@ -30,6 +48,12 @@
       "market_name": "CITI_Octa_10_CS1219PL",
       "codename": "CS1219PL",
       "model": "CITI Octa 10 CS1219PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS1235PL",
+      "codename": "CS1235PL",
+      "model": "CITI 10 E402 4G CS1235PL"
     },
     {
       "manufacturer": "",
@@ -51,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CS7234PL",
+      "codename": "CS7234PL",
+      "model": "CITI 7 E401 4G CS7234PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS8205PG",
       "codename": "CS8205PG",
       "model": "CITI_8588_3G_CS8205PG"
@@ -60,6 +90,12 @@
       "market_name": "CS8218PL",
       "codename": "CS8218PL",
       "model": "CITI Octa 80 CS8218PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS8231PL",
+      "codename": "CS8231PL",
+      "model": "CITI 8 E400 4G CS8231PL"
     },
     {
       "manufacturer": "",
@@ -561,6 +597,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optima_10_A500S_3G_TS1220PG",
+      "codename": "TS1220PG",
+      "model": "Optima 10 A500S 3G TS1220PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima_7_A100S_3G_TS7222PG",
+      "codename": "TS7222PG",
+      "model": "Optima 7 A100S 3G TS7222PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima_7_A101_3G",
+      "codename": "TT7223PG",
+      "model": "Optima 7 A101 3G TT7223PG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optima_8019N_4G",
       "codename": "TS8182ML",
       "model": "Optima 8019N 4G TS8182ML"
@@ -570,6 +624,12 @@
       "market_name": "Optima_8027_3G",
       "codename": "TS8211PG",
       "model": "Optima_8027_3G_TS8211PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima_8_Z801_4G",
+      "codename": "TS8227PL",
+      "model": "Optima 8 Z801 4G TS8227PL"
     },
     {
       "manufacturer": "",
@@ -660,6 +720,24 @@
       "market_name": "Plane_8549S_4G",
       "codename": "PS8162PL",
       "model": "Plane_8549S_4G_PS8162PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS1221PL",
+      "codename": "TS1221PL",
+      "model": "Optima 10 A501S 4G TS1221PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS1229PL",
+      "codename": "TS1229PL",
+      "model": "Optima 10 Z802 4G TS1229PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS7225PL",
+      "codename": "TS7225PL",
+      "model": "Optima 7 Z800 4G TS7225PL"
     },
     {
       "manufacturer": "",

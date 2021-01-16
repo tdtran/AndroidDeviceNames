@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CP-G3",
+      "codename": "CP-G3",
+      "model": "CP-G3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP-J55a",
       "codename": "x5090_rh_j9_covia",
       "model": "CP-J55a"

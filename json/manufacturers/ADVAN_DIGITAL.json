@@ -111,6 +111,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G5",
+      "codename": "ADVAN_G5",
+      "model": "6201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5 Elite",
+      "codename": "ADVAN_G5_Elite",
+      "model": "6003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9",
+      "codename": "ADVAN_G9",
+      "model": "6501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I Tab",
       "codename": "ADVAN_i_Tab",
       "model": "i7_Plus"
@@ -150,6 +168,12 @@
       "market_name": "NASA",
       "codename": "ADVAN_NASA",
       "model": "5202"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NASA_Plus",
+      "codename": "ADVAN_NASA_Plus",
+      "model": "5505"
     },
     {
       "manufacturer": "",
@@ -252,6 +276,18 @@
       "market_name": "TAB 8",
       "codename": "ADVAN_TAB_8",
       "model": "8002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB Gallilea",
+      "codename": "ADVAN_TAB_Gallilea",
+      "model": "8003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_10",
+      "codename": "ADVAN_TAB_10",
+      "model": "1010"
     },
     {
       "manufacturer": "",

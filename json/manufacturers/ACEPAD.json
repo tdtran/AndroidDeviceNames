@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Acepad",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A121",
+      "codename": "A121",
+      "model": "A121"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A140",
+      "codename": "A140",
+      "model": "A140"
+    }
+  ]
+}

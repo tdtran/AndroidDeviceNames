@@ -105,6 +105,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MC2200",
+      "codename": "MC2200",
+      "model": "MC2200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC2700",
+      "codename": "MC2700",
+      "model": "MC2700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC3300x",
+      "codename": "MC3300x",
+      "model": "MC3300x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC3300x",
+      "codename": "MC3300xC",
+      "model": "MC3300x"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MC330K",
       "codename": "MC33",
       "model": "MC33"
@@ -183,9 +207,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC21",
+      "codename": "TC21",
+      "model": "TC21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC25",
       "codename": "TC25FM",
       "model": "TC25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC26",
+      "codename": "TC26",
+      "model": "TC26"
     },
     {
       "manufacturer": "",
@@ -288,6 +324,48 @@
       "market_name": "WT6000",
       "codename": "WT6000",
       "model": "WT6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WT6300",
+      "codename": "WT63B0",
+      "model": "WT6300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zebra Technologies MC3300xN",
+      "codename": "MC3300x",
+      "model": "MC3300x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zebra Technologies MC3300xNS",
+      "codename": "MC3300xC",
+      "model": "MC3300x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zebra Technologies TC52XA",
+      "codename": "TC52X",
+      "model": "TC52X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zebra Technologies TC52x",
+      "codename": "TC52X",
+      "model": "TC52X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zebra Technologies TC57XA",
+      "codename": "TC57X",
+      "model": "TC57X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zebra Technologies TC57x",
+      "codename": "TC57X",
+      "model": "TC57X"
     }
   ]
 }

@@ -30,6 +30,12 @@
       "market_name": "N651",
       "codename": "centaur",
       "model": "N651"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "surfing_pro",
+      "codename": "surfing_pro",
+      "model": "N630"
     }
   ]
 }

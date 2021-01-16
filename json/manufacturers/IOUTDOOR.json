@@ -6,6 +6,12 @@
       "market_name": "Polar3",
       "codename": "Polar3",
       "model": "Polar3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polar3_EEA",
+      "codename": "Polar3",
+      "model": "Polar3"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "vatenick",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M03",
+      "codename": "M03",
+      "model": "M03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "v7",
+      "codename": "v7",
+      "model": "v7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "v7-EEA",
+      "codename": "v7-EEA",
+      "model": "v7-EEA"
+    }
+  ]
+}

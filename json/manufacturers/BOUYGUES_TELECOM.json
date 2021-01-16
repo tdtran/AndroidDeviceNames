@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BboxTV",
+      "codename": "UZW4020BYT",
+      "model": "BboxTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bs 451",
       "codename": "Bs_451",
       "model": "Bs 451"

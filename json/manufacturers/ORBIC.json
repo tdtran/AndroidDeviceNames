@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RC545L",
+      "codename": "RC545L",
+      "model": "RC545L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wonder",
       "codename": "RC555L",
       "model": "RC555L"

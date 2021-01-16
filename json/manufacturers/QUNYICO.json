@@ -1,0 +1,29 @@
+{
+  "manufacturer": "qunyiCO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Y10",
+      "codename": "Y10",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10_EEA",
+      "codename": "Y10_EEA",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y7",
+      "codename": "Y7",
+      "model": "Y7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y7_EEA",
+      "codename": "Y7_EEA",
+      "model": "Y7"
+    }
+  ]
+}

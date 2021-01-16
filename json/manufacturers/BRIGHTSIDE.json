@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Brightside",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BS101",
+      "codename": "BS101",
+      "model": "BS101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BS701",
+      "codename": "BS701",
+      "model": "BS701"
+    }
+  ]
+}

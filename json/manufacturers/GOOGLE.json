@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AMD Raven Ridge Chromebook",
+      "codename": "zork_cheets",
+      "model": "zork"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AMD Stoney Ridge Chromebook",
       "codename": "grunt_cheets",
       "model": "grunt"
@@ -39,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Chromebox",
+      "codename": "puff_cheets",
+      "model": "puff"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromecast Google TV",
+      "codename": "sabrina",
+      "model": "Chromecast"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Emualtor",
       "codename": "generic_x86_arm",
       "model": "AOSP on IA Emulator"
@@ -60,6 +78,12 @@
       "market_name": "Galaxy S4 Google Play edition",
       "codename": "jgedlte",
       "model": "GT-I9505G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google Android Emulator",
+      "codename": "generic_x86_arm",
+      "model": "sdk_gphone_x86"
     },
     {
       "manufacturer": "",
@@ -123,9 +147,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Intel Jasper Lake Chromebook",
+      "codename": "dedede_cheets",
+      "model": "dedede"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Intel Kaby Lake U Chromebook",
       "codename": "nami_cheets",
       "model": "nami"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediatek MT8173 Chromebook",
+      "codename": "jacuzzi_cheets",
+      "model": "jacuzzi"
     },
     {
       "manufacturer": "",
@@ -207,6 +243,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixel 4a",
+      "codename": "sunfish",
+      "model": "Pixel 4a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 4a (5G)",
+      "codename": "bramble",
+      "model": "Pixel 4a (5G)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 5",
+      "codename": "redfin",
+      "model": "Pixel 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixel C",
       "codename": "dragon",
       "model": "Pixel C"
@@ -234,6 +288,18 @@
       "market_name": "Pixel XL",
       "codename": "marlin",
       "model": "Pixel XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixelbook",
+      "codename": "atlas_cheets",
+      "model": "Google Pixelbook Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixelbook",
+      "codename": "atlas_cheets",
+      "model": "atlas"
     },
     {
       "manufacturer": "",
@@ -276,6 +342,12 @@
       "market_name": "Rockchip RK3288 Chromebook",
       "codename": "mighty_cheets",
       "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "gcar emulator",
+      "codename": "generic_x86",
+      "model": "AOSP on x86"
     },
     {
       "manufacturer": "",

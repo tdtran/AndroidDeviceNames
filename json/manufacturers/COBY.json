@@ -6,6 +6,18 @@
       "market_name": "CTB761",
       "codename": "CTB761",
       "model": "CTB761"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID7052",
+      "codename": "MID7052",
+      "model": "MID7052"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID8072",
+      "codename": "MID8072",
+      "model": "MID8072"
     }
   ]
 }

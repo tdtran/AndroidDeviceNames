@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Zephir",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Zephir",
+      "codename": "bangbae",
+      "model": "Zephir 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zephir",
+      "codename": "komagome",
+      "model": "Zephir 2K Android TV"
+    }
+  ]
+}

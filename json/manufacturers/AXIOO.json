@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MH",
+      "codename": "MH",
+      "model": "MH"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PICOpad-7H",
       "codename": "PICOpad-7H",
       "model": "PICOpad-7H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PICOpad_7H_JE",
+      "codename": "PICOpad_7H_JE",
+      "model": "PICOpad_7H_JE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PICOpad_7H_JL",
+      "codename": "PICOpad_7H_JL",
+      "model": "PICOpad_7H_JL"
     },
     {
       "manufacturer": "",

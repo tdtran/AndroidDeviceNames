@@ -3,19 +3,19 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "32TG6A9",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "5014G_EEA",
       "codename": "5014G",
       "model": "5014G"
     },
     {
       "manufacturer": "",
-      "market_name": "Algeria",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Algeria",
+      "market_name": "50TG7UA9X",
       "codename": "samseong",
       "model": "AI PONT"
     },
@@ -60,6 +60,12 @@
       "market_name": "Friendly TH101",
       "codename": "Friendly_TH101",
       "model": "Friendly_TH101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HERO10RK",
+      "codename": "HERO10RK_EEA",
+      "model": "HERO10RK"
     },
     {
       "manufacturer": "",
@@ -108,6 +114,18 @@
       "market_name": "TEO7RK",
       "codename": "TEO7RK",
       "model": "TEO7RK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEOX102",
+      "codename": "TEOX102",
+      "model": "TEOX102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEOX103",
+      "codename": "TEOX103",
+      "model": "TEOX103"
     },
     {
       "manufacturer": "",

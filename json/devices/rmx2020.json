@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Realme",
+    "market_name": "RMX2020",
+    "codename": "RMX2020",
+    "model": "RMX2020"
+  },
+  {
+    "manufacturer": "Realme",
     "market_name": "realme C3",
     "codename": "RMX2020",
     "model": "RMX2020"

@@ -54,6 +54,24 @@
       "market_name": "AOC",
       "codename": "AOC_A831L-D",
       "model": "A831L-D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q10107L-ME",
+      "codename": "Q10107L-ME",
+      "model": "Q10107L-ME"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q10107LW-ME",
+      "codename": "Q10107LW-ME",
+      "model": "Q10107LW-ME"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q8108L-ME",
+      "codename": "Q8108L-ME",
+      "model": "Q8108L-ME"
     }
   ]
 }

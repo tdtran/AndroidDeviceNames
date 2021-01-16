@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Axioo",
+    "market_name": "MH",
+    "codename": "MH",
+    "model": "MH"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "LG Q6",
     "codename": "mh",

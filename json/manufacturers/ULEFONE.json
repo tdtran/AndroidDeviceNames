@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 10 5G",
+      "codename": "Armor_10_5G",
+      "model": "Armor 10 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2",
       "codename": "Armor_2",
       "model": "Armor_2"
@@ -27,6 +33,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 7",
+      "codename": "Armor_7_Q",
+      "model": "Armor 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 8",
+      "codename": "Armor_8",
+      "model": "Armor 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 9",
+      "codename": "Armor_9",
+      "model": "Armor 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 9E",
+      "codename": "Armor_9E",
+      "model": "Armor 9E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor X",
       "codename": "Armor_X",
       "model": "Armor_X"
@@ -39,9 +69,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor X5",
+      "codename": "Armor_X5_Q",
+      "model": "Armor X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X5 Pro",
+      "codename": "Armor_X5_Pro",
+      "model": "Armor X5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X5 Q",
+      "codename": "Armor_X5_Q",
+      "model": "Armor X5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor X7",
       "codename": "Armor_X7_Q",
       "model": "Armor X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X7 Pro",
+      "codename": "Armor_X7_Pro",
+      "model": "Armor X7 Pro"
     },
     {
       "manufacturer": "",
@@ -105,6 +159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_7E",
+      "codename": "Armor_7E_Q",
+      "model": "Armor 7E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_9E",
+      "codename": "Armor_9E",
+      "model": "Armor 9E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_X2",
       "codename": "Armor_X2",
       "model": "Armor_X2"
@@ -147,9 +213,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 8",
+      "codename": "Note_8",
+      "model": "Note 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 8P",
+      "codename": "Note_8P",
+      "model": "Note 8P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 9P",
+      "codename": "Note_9P",
+      "model": "Note 9P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note_7P",
       "codename": "Note_7P",
       "model": "Note_7P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_7T",
+      "codename": "Note_7T",
+      "model": "Note 7T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_7T_EEA",
+      "codename": "Note_7T",
+      "model": "Note 7T"
     },
     {
       "manufacturer": "",

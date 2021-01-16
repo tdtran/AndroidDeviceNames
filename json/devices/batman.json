@@ -16,5 +16,11 @@
     "market_name": "Batman",
     "codename": "Batman",
     "model": "S70PCI"
+  },
+  {
+    "manufacturer": "Partner",
+    "market_name": "S70PCI",
+    "codename": "Batman",
+    "model": "S70PCI"
   }
 ]

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A10L",
+      "codename": "N5502LA",
+      "model": "N5502L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "NUU_A3",
       "model": "NUU_A3"
@@ -111,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M6",
+      "codename": "S6503LE",
+      "model": "S6503L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N4L",
       "codename": "N4L",
       "model": "N4L"
@@ -138,6 +150,12 @@
       "market_name": "NUU G3",
       "codename": "N5702L",
       "model": "N5702L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NUU G5",
+      "codename": "S6501LA",
+      "model": "S6501L"
     },
     {
       "manufacturer": "",
@@ -177,9 +195,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X6 Plus",
+      "codename": "S6003LA",
+      "model": "S6003L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X6mini",
       "codename": "S5702LA",
       "model": "S5702L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X6mini",
+      "codename": "S5704LE",
+      "model": "S5704L"
     },
     {
       "manufacturer": "",

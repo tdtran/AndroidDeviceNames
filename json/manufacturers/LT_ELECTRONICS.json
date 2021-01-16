@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K700",
+      "codename": "SPURT_K700",
+      "model": "K700"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT C4300",
       "codename": "LT_C4300",
       "model": "LT C4300"

@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "MP3TV",
+    "codename": "shinjuku",
+    "model": "MP3-A 2K TV"
+  },
+  {
+    "manufacturer": "Hitachi",
+    "market_name": "HitachiTV",
+    "codename": "shinjuku",
+    "model": "HitachiTV"
+  },
+  {
+    "manufacturer": "Noblex",
+    "market_name": "NoblexTV",
+    "codename": "shinjuku",
+    "model": "NoblexTV"
+  },
+  {
     "manufacturer": "Philco",
     "market_name": "PhilcoTV",
     "codename": "shinjuku",

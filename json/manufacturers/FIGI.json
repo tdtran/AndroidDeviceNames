@@ -90,6 +90,12 @@
       "market_name": "Note 1",
       "codename": "Note_1",
       "model": "Note 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_3_Pro",
+      "codename": "Note_3_Pro",
+      "model": "Note_3_Pro"
     }
   ]
 }

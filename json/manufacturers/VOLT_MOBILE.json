@@ -6,6 +6,12 @@
       "market_name": "VOLT_SV451_Vision",
       "codename": "VOLT_SV451_Vision",
       "model": "VOLT_SV451_Vision"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "v7",
+      "codename": "v7",
+      "model": "v7"
     }
   ]
 }

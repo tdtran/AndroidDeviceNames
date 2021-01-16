@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Advance",
+    "market_name": "Tablet_Advance",
+    "codename": "Tablet_adv_v1",
+    "model": "ADVANCE"
+  },
+  {
+    "manufacturer": "Advance",
     "market_name": "Tr4986",
     "codename": "Tablet_adv_v1",
     "model": "ADVANCE"

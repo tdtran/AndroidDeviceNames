@@ -1527,6 +1527,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K22",
+      "codename": "dh0lm",
+      "model": "LM-K200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K3 2017",
       "codename": "lv0",
       "model": "LG-AS110"
@@ -1563,9 +1569,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K42",
+      "codename": "meh15lm",
+      "model": "LM-K420"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K50S",
       "codename": "mmh45lm",
       "model": "LM-X540"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K51",
+      "codename": "mdh30lm",
+      "model": "LGL555DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K51",
+      "codename": "mdh30lm",
+      "model": "LM-K500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K51",
+      "codename": "mdh30xlm",
+      "model": "LM-K500"
     },
     {
       "manufacturer": "",
@@ -1575,9 +1605,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K52",
+      "codename": "meh35lm",
+      "model": "LM-K520"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K61",
       "codename": "mdh40lm",
       "model": "LM-Q630"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K62",
+      "codename": "meh35lm",
+      "model": "LM-K525"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K71",
+      "codename": "mdh50lm",
+      "model": "LM-Q730"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K92",
+      "codename": "acexlm",
+      "model": "LM-K920"
     },
     {
       "manufacturer": "",
@@ -3231,6 +3285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Harmony 4",
+      "codename": "mdh10xlm",
+      "model": "LM-K400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG Joy",
       "codename": "y30",
       "model": "LG-H220"
@@ -3450,6 +3510,18 @@
       "market_name": "LG K30",
       "codename": "mh5lm-8m",
       "model": "LM-X320"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K31",
+      "codename": "mdh5lm",
+      "model": "LGL355DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K31",
+      "codename": "mdh5lm",
+      "model": "LM-K300"
     },
     {
       "manufacturer": "",
@@ -4983,6 +5055,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Q70",
+      "codename": "mh3",
+      "model": "LM-Q620"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q70",
+      "codename": "mh3-pl",
+      "model": "LM-Q730N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG Q9",
       "codename": "falcon",
       "model": "LM-Q925K"
@@ -5022,6 +5106,18 @@
       "market_name": "LG Rebel",
       "codename": "e1q",
       "model": "LGL44VL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Reflect",
+      "codename": "mdh30lm",
+      "model": "LGL555DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Reflect",
+      "codename": "mdh30lm",
+      "model": "LM-K500"
     },
     {
       "manufacturer": "",
@@ -5391,6 +5487,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG V60 ThinQ 5G",
+      "codename": "L-51A",
+      "model": "L-51A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG VELVET",
+      "codename": "L-52A",
+      "model": "L-52A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG Venice",
       "codename": "u0_cdma",
       "model": "LG-LG730"
@@ -5448,6 +5556,18 @@
       "market_name": "LG Volt S",
       "codename": "c90",
       "model": "LG-F640S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG WING",
+      "codename": "winglm",
+      "model": "LM-F100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG WING",
+      "codename": "winglm",
+      "model": "LM-F100N"
     },
     {
       "manufacturer": "",
@@ -5907,6 +6027,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG style3",
+      "codename": "L-41A",
+      "model": "L-41A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG-AS876",
       "codename": "x5",
       "model": "AS876"
@@ -5946,6 +6072,12 @@
       "market_name": "LGL22",
       "codename": "g2",
       "model": "LGL22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM-K420",
+      "codename": "meh15lm",
+      "model": "LM-K420"
     },
     {
       "manufacturer": "",
@@ -7137,9 +7269,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q31",
+      "codename": "mdh5lm",
+      "model": "LM-Q310N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q51",
       "codename": "mdh30lm",
       "model": "LM-Q510N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q52",
+      "codename": "meh35lm",
+      "model": "LM-Q520N"
     },
     {
       "manufacturer": "",
@@ -7188,6 +7332,12 @@
       "market_name": "Q8",
       "codename": "cv7an",
       "model": "LM-Q815S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q92",
+      "codename": "acelm",
+      "model": "LM-Q920N"
     },
     {
       "manufacturer": "",
@@ -7308,6 +7458,12 @@
       "market_name": "Stylo 2 V",
       "codename": "mph1",
       "model": "VS835"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stylo 6",
+      "codename": "mdh50lm",
+      "model": "LM-Q730"
     },
     {
       "manufacturer": "",
@@ -7647,6 +7803,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V60 ThinQ",
+      "codename": "timelm",
+      "model": "A001LG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V60 ThinQ",
+      "codename": "timelm",
+      "model": "LM-V600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VELVET",
+      "codename": "caymanlm",
+      "model": "LM-G900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VELVET",
+      "codename": "caymanlm",
+      "model": "LM-G900N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VELVET",
+      "codename": "caymanlm",
+      "model": "LM-G910N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VELVET",
+      "codename": "caymanslm",
+      "model": "LM-G910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VELVET",
+      "codename": "mcaymanlm",
+      "model": "LM-G900TM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VU3",
       "codename": "vu3",
       "model": "LG-F300K"
@@ -7665,6 +7863,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Velvet",
+      "codename": "caymanlm",
+      "model": "LM-G900"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W10",
       "codename": "LMX130IM",
       "model": "LMX130IM"
@@ -7674,6 +7878,12 @@
       "market_name": "W10 Alpha",
       "codename": "Neo2ALP",
       "model": "LM-X210LMW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W11",
+      "codename": "Neo11LM",
+      "model": "LM-K310IM"
     },
     {
       "manufacturer": "",
@@ -7698,6 +7908,12 @@
       "market_name": "W30 Pro",
       "codename": "Neo4LM",
       "model": "LM-X600IM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W31",
+      "codename": "Neo31LM",
+      "model": "LM-K315IM"
     },
     {
       "manufacturer": "",

@@ -18,8 +18,20 @@
     "model": "S3"
   },
   {
+    "manufacturer": "Cellecor",
+    "market_name": "S3",
+    "codename": "S3",
+    "model": "S3"
+  },
+  {
     "manufacturer": "Emporia",
     "market_name": "Emporia SMART 3",
+    "codename": "S3",
+    "model": "S3"
+  },
+  {
+    "manufacturer": "G-Tab",
+    "market_name": "S3",
     "codename": "S3",
     "model": "S3"
   },

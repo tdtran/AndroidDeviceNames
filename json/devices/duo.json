@@ -6,6 +6,12 @@
     "model": "DUO"
   },
   {
+    "manufacturer": "Surface",
+    "market_name": "Surface Duo",
+    "codename": "duo",
+    "model": "Surface Duo"
+  },
+  {
     "manufacturer": "Trimble Navigation",
     "market_name": "Trimble DUO",
     "codename": "DUO",

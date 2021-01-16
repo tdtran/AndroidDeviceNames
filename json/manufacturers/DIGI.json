@@ -30,6 +30,12 @@
       "market_name": "Digi R2",
       "codename": "Digi_R2",
       "model": "Digi R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digi_K2_EEA",
+      "codename": "Digi_K2",
+      "model": "Digi K2"
     }
   ]
 }

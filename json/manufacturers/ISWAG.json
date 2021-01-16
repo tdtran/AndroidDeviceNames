@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLINK",
+      "codename": "BLINK",
+      "model": "BLINK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ISWAG_NEMESIS",
       "codename": "ISWAG_NEMESIS",
       "model": "ISWAG_NEMESIS"
@@ -24,6 +30,12 @@
       "market_name": "ISWAG_VIPER",
       "codename": "ISWAG_VIPER",
       "model": "ISWAG VIPER"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEO",
+      "codename": "ISWAG_NEO",
+      "model": "ISWAG NEO"
     },
     {
       "manufacturer": "",

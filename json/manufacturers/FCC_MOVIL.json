@@ -6,6 +6,12 @@
       "market_name": "GK738_3G",
       "codename": "GK738_3G",
       "model": "GK738_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK788",
+      "codename": "GK788",
+      "model": "GK788"
     }
   ]
 }

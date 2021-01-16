@@ -19,6 +19,18 @@
   },
   {
     "manufacturer": "Huawei",
+    "market_name": "HUAWEI P smart 2020",
+    "codename": "HWPOT-H",
+    "model": "POT-LX1A"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P smart 2020",
+    "codename": "HWPOT-H",
+    "model": "POT-LX3"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HUAWEI P smart+ 2019",
     "codename": "HWPOT-H",
     "model": "POT-LX1T"
@@ -26,6 +38,12 @@
   {
     "manufacturer": "Huawei",
     "market_name": "HUAWEI nova lite 3",
+    "codename": "HWPOT-H",
+    "model": "POT-LX2J"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI nova lite 3+",
     "codename": "HWPOT-H",
     "model": "POT-LX2J"
   },

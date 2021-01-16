@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LUNA G5",
+      "codename": "G5",
+      "model": "LUNA G5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LUNA G50",
       "codename": "LUNA_G50",
       "model": "LUNA G50"

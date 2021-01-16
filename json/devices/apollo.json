@@ -6,6 +6,36 @@
     "model": "CP3706AS"
   },
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi K30S Ultra",
+    "codename": "apollo",
+    "model": "M2007J3SC"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 10T",
+    "codename": "apollo",
+    "model": "M2007J3SP"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 10T",
+    "codename": "apollo",
+    "model": "M2007J3SY"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 10T Pro",
+    "codename": "apollo",
+    "model": "M2007J3SG"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 10T pro",
+    "codename": "apollo",
+    "model": "M2007J3SI"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "N9101",
     "codename": "apollo",

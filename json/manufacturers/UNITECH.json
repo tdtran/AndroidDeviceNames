@@ -48,6 +48,12 @@
       "market_name": "TB85",
       "codename": "TB85",
       "model": "TB85"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB85Plus",
+      "codename": "TB85Plus",
+      "model": "TB85Plus"
     }
   ]
 }

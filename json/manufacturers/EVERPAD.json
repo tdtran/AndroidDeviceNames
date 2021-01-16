@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EW2021",
+      "codename": "EVERPAD-EW2021",
+      "model": "EW2021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HappyKids",
       "codename": "HappyKids",
       "model": "HappyKids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SC730",
+      "codename": "EVERPAD-SC730",
+      "model": "SC730"
     }
   ]
 }

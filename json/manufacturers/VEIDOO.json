@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T7S",
+      "codename": "T7S",
+      "model": "T7S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VEIDOO_T8",
       "codename": "VEIDOO_T8",
       "model": "T8"

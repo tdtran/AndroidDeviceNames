@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "G-Tab",
+    "market_name": "Q3",
+    "codename": "Q3",
+    "model": "Q3"
+  },
+  {
     "manufacturer": "Quantum",
     "market_name": "Muv",
     "codename": "Q3",

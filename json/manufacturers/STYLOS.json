@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab2",
+      "codename": "Tab2",
+      "model": "Tab2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab8",
       "codename": "Tab8",
       "model": "Tab8"

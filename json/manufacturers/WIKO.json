@@ -357,6 +357,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power U20",
+      "codename": "W-V750BN",
+      "model": "W-V750BN-TVM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RAINBOW",
       "codename": "s5501",
       "model": "RAINBOW"
@@ -597,6 +603,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Sunny5",
+      "codename": "W-K380",
+      "model": "W-K380-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunny5",
+      "codename": "W-K380",
+      "model": "W-K380-TVM2G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunny5 Lite",
+      "codename": "W-K211",
+      "model": "W-K211-TVM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TOMMY",
       "codename": "P4901AC",
       "model": "TOMMY"
@@ -741,6 +765,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U520AS",
+      "codename": "U520AS",
+      "model": "Wiko U520AS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIEW",
       "codename": "v12dnlite",
       "model": "View"
@@ -881,6 +911,12 @@
       "manufacturer": "",
       "market_name": "View4",
       "codename": "W-V830",
+      "model": "W-V830-ID"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View4",
+      "codename": "W-V830",
       "model": "W-V830-OPE"
     },
     {
@@ -893,6 +929,12 @@
       "manufacturer": "",
       "market_name": "View4 Lite",
       "codename": "W-V730",
+      "model": "W-V730-ID"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View4 Lite",
+      "codename": "W-V730",
       "model": "W-V730-OPE"
     },
     {
@@ -900,6 +942,36 @@
       "market_name": "View4 Lite",
       "codename": "W-V730",
       "model": "W-V730-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View5",
+      "codename": "W-V851",
+      "model": "W-V851-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View5",
+      "codename": "W-V851",
+      "model": "W-V851-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View5",
+      "codename": "W-V851",
+      "model": "W-V851-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View5 Plus",
+      "codename": "W-V850",
+      "model": "W-V850-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View5 Plus",
+      "codename": "W-V850",
+      "model": "W-V850-OPE"
     },
     {
       "manufacturer": "",
@@ -1017,6 +1089,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wiko Ride 3",
+      "codename": "U614AS",
+      "model": "Wiko U614AS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y50",
       "codename": "W-K130",
       "model": "W-K130-BYT"
@@ -1038,6 +1116,12 @@
       "market_name": "Y50",
       "codename": "W-K420",
       "model": "W-K420-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y51",
+      "codename": "W-K211",
+      "model": "W-K211-EEA"
     },
     {
       "manufacturer": "",
@@ -1097,6 +1181,24 @@
       "manufacturer": "",
       "market_name": "Y61",
       "codename": "W-K560",
+      "model": "W-K560-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y61",
+      "codename": "W-K560",
+      "model": "W-K560-ID"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y61",
+      "codename": "W-K560",
+      "model": "W-K560-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y61",
+      "codename": "W-K560",
       "model": "W-K560-TVM"
     },
     {
@@ -1134,6 +1236,30 @@
       "market_name": "Y80",
       "codename": "W-V720",
       "model": "W-V720-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y81",
+      "codename": "W-V680",
+      "model": "W-V680-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y81",
+      "codename": "W-V680",
+      "model": "W-V680-ID"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y81",
+      "codename": "W-V680",
+      "model": "W-V680-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y81",
+      "codename": "W-V680",
+      "model": "W-V680-SUN"
     },
     {
       "manufacturer": "",

@@ -21,6 +21,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F104",
+      "codename": "F104",
+      "model": "F104"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F106",
+      "codename": "F106",
+      "model": "F106"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F106_Plus",
+      "codename": "F106_Plus",
+      "model": "F106_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F5",
       "codename": "F5",
       "model": "F5"

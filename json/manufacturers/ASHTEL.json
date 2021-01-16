@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Ashtel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RAVOZ Z5 Lite",
+      "codename": "RAVOZ_Z5_Lite",
+      "model": "RAVOZ Z5 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RAVOZ Z7",
+      "codename": "RAVOZ_R7",
+      "model": "RAVOZ R7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RAVOZ_Z5",
+      "codename": "RAVOZ_Z5",
+      "model": "RAVOZ Z5"
+    }
+  ]
+}

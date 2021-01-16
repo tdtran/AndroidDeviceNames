@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A50",
+      "codename": "A50",
+      "model": "iKU A50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A6",
       "codename": "A6",
       "model": "A6"
@@ -36,6 +42,12 @@
       "market_name": "IKU A4",
       "codename": "A4",
       "model": "IKU A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKU A40",
+      "codename": "A40",
+      "model": "IKU A40"
     },
     {
       "manufacturer": "",
@@ -69,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K5",
+      "codename": "K5",
+      "model": "K5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "T1",
       "model": "iKU T1"
@@ -96,6 +114,12 @@
       "market_name": "Y5",
       "codename": "Y5",
       "model": "Y5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y7",
+      "codename": "Y7",
+      "model": "Y7"
     }
   ]
 }

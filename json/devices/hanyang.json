@@ -12,6 +12,24 @@
     "model": "Tempo Android TV"
   },
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "BP Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Ecuador",
+    "codename": "hanyang",
+    "model": "BP 4K Android TV"
+  },
+  {
+    "manufacturer": "Durabrand",
+    "market_name": "Central America",
+    "codename": "hanyang",
+    "model": "Durabrand 4K Android TV"
+  },
+  {
     "manufacturer": "EKO",
     "market_name": "Australia",
     "codename": "hanyang",
@@ -42,6 +60,18 @@
     "model": "Kogan SmarterTV"
   },
   {
+    "manufacturer": "Linsar",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "Linsar Android TV"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "Polaroid Android TV"
+  },
+  {
     "manufacturer": "QBell",
     "market_name": "EU",
     "codename": "hanyang",
@@ -52,5 +82,11 @@
     "market_name": "Australia",
     "codename": "hanyang",
     "model": "Svision Android TV"
+  },
+  {
+    "manufacturer": "Soniq",
+    "market_name": "Australia",
+    "codename": "hanyang",
+    "model": "SONIQ Android TV"
   }
 ]

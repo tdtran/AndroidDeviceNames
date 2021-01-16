@@ -1,0 +1,29 @@
+{
+  "manufacturer": "GOODTEL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "G2_EEA",
+      "codename": "G2_EEA",
+      "model": "G2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3_EEA",
+      "codename": "G3_EEA",
+      "model": "G3_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G6",
+      "codename": "G6",
+      "model": "G6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G6_EEA",
+      "codename": "G6_EEA",
+      "model": "G6"
+    }
+  ]
+}

@@ -22,14 +22,20 @@
     {
       "manufacturer": "",
       "market_name": "Australia",
-      "codename": "samseong",
+      "codename": "shibuya",
+      "model": "KoganTVAP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KALED32RH9210STA",
+      "codename": "ikebukuro",
       "model": "AI PONT"
     },
     {
       "manufacturer": "",
-      "market_name": "Australia",
-      "codename": "shibuya",
-      "model": "KoganTVAP"
+      "market_name": "KALED50XU9210STA",
+      "codename": "samseong",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

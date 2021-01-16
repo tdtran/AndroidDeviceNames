@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A870",
+      "codename": "A870",
+      "model": "A870"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cola",
       "codename": "M671M3",
       "model": "M671M3"
@@ -12,6 +18,12 @@
       "market_name": "Cola 4G",
       "codename": "M671M4",
       "model": "M671M4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cola Plus 4G",
+      "codename": "M675M4",
+      "model": "M675M4"
     },
     {
       "manufacturer": "",
@@ -51,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ruio_i7Ultra",
+      "codename": "Ruio_i7Ultra",
+      "model": "Ruio_i7Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S4",
       "codename": "RUIO_S4",
       "model": "RUIO_S4"
@@ -60,6 +78,12 @@
       "market_name": "S5006",
       "codename": "RUIO_S5006",
       "model": "S5006"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6501",
+      "codename": "S6501",
+      "model": "S6501"
     }
   ]
 }

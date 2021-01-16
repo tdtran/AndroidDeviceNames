@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1046G",
+      "codename": "A1046G",
+      "model": "A1046G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1052",
       "codename": "A1052",
       "model": "A1052"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A1080",
+      "codename": "mid1032_mk_32",
+      "model": "A1080"
     },
     {
       "manufacturer": "",
@@ -21,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A780B",
+      "codename": "A780B",
+      "model": "A780B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A920",
       "codename": "wing-ibt",
       "model": "A920"
@@ -30,6 +48,12 @@
       "market_name": "K749",
       "codename": "K749",
       "model": "K749"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K749B",
+      "codename": "K749B",
+      "model": "K749B"
     }
   ]
 }

@@ -45,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "hanyang",
+      "model": "Polaroid Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BDL1064PR001",
       "codename": "BDL1064PR001",
       "model": "BDL1064PR001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BDL424",
+      "codename": "BDL424",
+      "model": "BDL424"
     },
     {
       "manufacturer": "",
@@ -66,6 +84,12 @@
       "market_name": "BDLT107",
       "codename": "BDLT107",
       "model": "BDLT107"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Connect4G",
+      "codename": "Connect4G",
+      "model": "Connect4G"
     },
     {
       "manufacturer": "",
@@ -207,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mobility3G",
+      "codename": "Mobility3G",
+      "model": "Mobility3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P10/Q10/PTAB1040/PTAB1041",
       "codename": "pq10-Polaroid",
       "model": "P10/Q10/PTAB1040/PTAB1041"
@@ -288,6 +318,12 @@
       "market_name": "POMDTB002",
       "codename": "POMDTB002",
       "model": "POMDTB002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POMDTB005",
+      "codename": "POMDTB005",
+      "model": "POMDTB005"
     },
     {
       "manufacturer": "",
@@ -405,9 +441,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Polaroid",
+      "codename": "komagome",
+      "model": "Polaroid 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SIGMA 5",
       "codename": "SIGMA-5",
       "model": "SIGMA-5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMX4K",
+      "codename": "GMP",
+      "model": "SMX4K"
     },
     {
       "manufacturer": "",
@@ -426,6 +474,12 @@
       "market_name": "V7",
       "codename": "nuclear-M7021",
       "model": "V7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "midcb232pr_EEA",
+      "codename": "midcb232pr",
+      "model": "midcb232pr"
     }
   ]
 }

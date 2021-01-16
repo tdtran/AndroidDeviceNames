@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Proximus",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Proximus TV",
+      "codename": "uiw4020pxm",
+      "model": "decoder"
+    }
+  ]
+}

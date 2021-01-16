@@ -10,5 +10,11 @@
     "market_name": "PadFone Infinity",
     "codename": "A80",
     "model": "PadFone Infinity"
+  },
+  {
+    "manufacturer": "Blackview",
+    "market_name": "A80",
+    "codename": "A80",
+    "model": "A80"
   }
 ]

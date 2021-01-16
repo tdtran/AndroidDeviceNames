@@ -4,5 +4,11 @@
     "market_name": "Polestar",
     "codename": "ihu_abl_car",
     "model": "Polestar"
+  },
+  {
+    "manufacturer": "Volvo",
+    "market_name": "Volvo",
+    "codename": "ihu_abl_car",
+    "model": "Volvo"
   }
 ]

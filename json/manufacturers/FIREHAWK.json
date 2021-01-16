@@ -6,6 +6,12 @@
       "market_name": "FP-600",
       "codename": "FP-600",
       "model": "FP-600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ToughDroid",
+      "codename": "ToughDroid",
+      "model": "ToughDroid"
     }
   ]
 }

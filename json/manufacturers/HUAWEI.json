@@ -2997,6 +2997,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 9X Lite",
+      "codename": "HWJSN-H",
+      "model": "JSN-L21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR 9X lite",
       "codename": "HWJSN-H",
       "model": "JSN-L21"
@@ -3292,6 +3298,18 @@
     {
       "manufacturer": "",
       "market_name": "HUAWEI P smart 2019",
+      "codename": "HWPOT-H",
+      "model": "POT-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI P smart 2020",
+      "codename": "HWPOT-H",
+      "model": "POT-LX1A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI P smart 2020",
       "codename": "HWPOT-H",
       "model": "POT-LX3"
     },
@@ -3892,6 +3910,12 @@
     {
       "manufacturer": "",
       "market_name": "HUAWEI nova lite 3",
+      "codename": "HWPOT-H",
+      "model": "POT-LX2J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI nova lite 3+",
       "codename": "HWPOT-H",
       "model": "POT-LX2J"
     },

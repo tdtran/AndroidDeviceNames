@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Iskon",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "wh220_iskon",
+      "codename": "wh220_iskon",
+      "model": "Iskon.TV"
+    }
+  ]
+}

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ASIUR-702",
+      "codename": "ASIUR-702",
+      "model": "ASIUR-702"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASIUR-703",
+      "codename": "ASIUR-703",
+      "model": "ASIUR-703"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KID15",
+      "codename": "KID15",
+      "model": "KID15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KIDS01",
       "codename": "KIDS01",
       "model": "KIDS01"
@@ -12,6 +30,18 @@
       "market_name": "M002KID-15",
       "codename": "M002KID-15",
       "model": "M002KID-15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P70-EEA",
+      "codename": "P70-EEA",
+      "model": "P70-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11",
+      "codename": "S11",
+      "model": "S11"
     },
     {
       "manufacturer": "",

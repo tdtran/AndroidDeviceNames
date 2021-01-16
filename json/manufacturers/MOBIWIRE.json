@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kicka 5 Plus 4G",
+      "codename": "K5P_4G",
+      "model": "Kicka 5 Plus 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kicka Zoom",
       "codename": "Kicka_Zoom",
       "model": "Kicka Zoom"
@@ -174,6 +180,18 @@
       "market_name": "STARXTREM 5",
       "codename": "STARXTREM5",
       "model": "STARXTREM5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart E11",
+      "codename": "Smart_E11",
+      "model": "SmartE11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart N11",
+      "codename": "Smart_N11",
+      "model": "SmartN11"
     },
     {
       "manufacturer": "",

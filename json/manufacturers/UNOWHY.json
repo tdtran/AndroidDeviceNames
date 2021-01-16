@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S10G001S4M",
+      "codename": "S10G001S4M",
+      "model": "S10G001S4M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10G001S4M_EEA",
+      "codename": "S10G001S4M_EEA",
+      "model": "S10G001S4M_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SQOOL-V4",
       "codename": "SQOOL-V4",
       "model": "SQOOL-V4"
@@ -36,6 +48,18 @@
       "market_name": "Y10G001S4M_EEA",
       "codename": "Y10G001S4M",
       "model": "Y10G001S4M_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10G007S4MI_EEA",
+      "codename": "Y10G007S4MI_EEA",
+      "model": "Y10G007S4MI_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10G007S4M_EEA",
+      "codename": "Y10G007S4M_EEA",
+      "model": "Y10G007S4M_EEA"
     }
   ]
 }

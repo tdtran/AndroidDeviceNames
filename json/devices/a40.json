@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "IKU A40",
+    "codename": "A40",
+    "model": "IKU A40"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy A40",
     "codename": "a40",

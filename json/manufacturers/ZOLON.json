@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ZOLON",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M30",
+      "codename": "M30",
+      "model": "M30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50",
+      "codename": "M50",
+      "model": "M50"
+    }
+  ]
+}

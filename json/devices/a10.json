@@ -30,6 +30,12 @@
     "model": "A10"
   },
   {
+    "manufacturer": "Concord",
+    "market_name": "A10",
+    "codename": "A10",
+    "model": "A10"
+  },
+  {
     "manufacturer": "Garmin",
     "market_name": "",
     "codename": "a10",

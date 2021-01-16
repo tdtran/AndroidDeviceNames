@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APOLO",
+      "codename": "APOLO",
+      "model": "APOLO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GRAVITY_3G_2019_eea",
       "codename": "GRAVITY_3G",
       "model": "GRAVITY 3G_2019"
@@ -141,9 +147,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L80_S",
+      "codename": "L80_S",
+      "model": "L80_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lightyear",
+      "codename": "Lightyear",
+      "model": "Lightyear"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S19",
       "codename": "S19",
       "model": "S19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART  2",
+      "codename": "SMART_2",
+      "model": "SMART 2"
     },
     {
       "manufacturer": "",
@@ -186,6 +210,12 @@
       "market_name": "SPC SMART MAX",
       "codename": "SPC_SMART_MAX",
       "model": "SPC SMART MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART PLUS",
+      "codename": "SPC_SMART_PLUS",
+      "model": "SPC SMART PLUS"
     },
     {
       "manufacturer": "",

@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIWA_V10",
+      "codename": "VIWA_V10",
+      "model": "VIWA_V10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIWA_V20",
+      "codename": "VIWA_V20",
+      "model": "VIWA_V20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X2",
       "codename": "VIWA_X2",
       "model": "X2"

@@ -1,0 +1,35 @@
+{
+  "manufacturer": "OKAPI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Okapi10",
+      "codename": "Okapi10",
+      "model": "Okapi10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi10_Pro",
+      "codename": "Okapi10_Pro",
+      "model": "Okapi10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi10_Pro_Max",
+      "codename": "Okapi10_Pro_Max",
+      "model": "Okapi10 Pro Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi10_S",
+      "codename": "Okapi10_S",
+      "model": "Okapi10_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi10_Simple",
+      "codename": "Okapi10_Simple",
+      "model": "Okapi10_Simple"
+    }
+  ]
+}

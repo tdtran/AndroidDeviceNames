@@ -15,21 +15,51 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Australia",
-      "codename": "samseong",
-      "model": "AI PONT"
+      "market_name": "AV-10NT310",
+      "codename": "AV-10NT310",
+      "model": "AV-10NT310"
     },
     {
       "manufacturer": "",
-      "market_name": "Central America",
-      "codename": "samseong",
-      "model": "AI PONT"
+      "market_name": "AV-11NT510",
+      "codename": "AV-11NT510",
+      "model": "AV-11NT510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amtran",
+      "codename": "gangbyeon",
+      "model": "4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amtran",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
     },
     {
       "manufacturer": "",
       "market_name": "DM65UXR\\DM65USR\\DM85UXR",
       "codename": "mstarnapoli_atsc",
       "model": "DM65UXR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dixons",
+      "codename": "sadang",
+      "model": "UK 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -41,19 +71,73 @@
       "manufacturer": "",
       "market_name": "JVC",
       "codename": "bangbae",
-      "model": "Engel 4K Android TV"
+      "model": "JVC 4K Android TV"
     },
     {
       "manufacturer": "",
       "market_name": "JVC",
       "codename": "bangbae",
-      "model": "JVC 4K Android TV"
+      "model": "JVC EU 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "komagome",
+      "model": "EU 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "komagome",
+      "model": "JVC EU 2K Android TV"
     },
     {
       "manufacturer": "",
       "market_name": "JVC",
       "codename": "seocho",
       "model": "JVC 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "seocho",
+      "model": "JVC SA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "seocho",
+      "model": "JVC US 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "seocho",
+      "model": "SA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "sugamo",
+      "model": "JVC 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "sugamo",
+      "model": "JVC SA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "sugamo",
+      "model": "JVC US 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "sugamo",
+      "model": "US 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -66,6 +150,60 @@
       "market_name": "LT-32K397",
       "codename": "osaki",
       "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-32N3115A",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-40KB308",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-40N5115A",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-50KC507",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-50KD507",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-50N7115A",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT-55KB597",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UK",
+      "codename": "tabata",
+      "model": "UK 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "france",
+      "codename": "tamachi",
+      "model": "JVC 2K Android TV"
     }
   ]
 }

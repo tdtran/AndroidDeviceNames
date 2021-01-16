@@ -12,6 +12,18 @@
       "market_name": "TAB-PTDF-116",
       "codename": "TAB-PTDF-116",
       "model": "TAB-PTDF-116"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_ASR_7232_3G_SERIES",
+      "codename": "TABLET_PC",
+      "model": "TAB_ASR_7232_3G_SERIES"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_TS101S_LTE",
+      "codename": "TAB_TS101S_LTE",
+      "model": "TAB_TS101S_LTE"
     }
   ]
 }

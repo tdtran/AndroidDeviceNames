@@ -58,5 +58,11 @@
     "market_name": "One Google Play edition",
     "codename": "m7",
     "model": "HTC One"
+  },
+  {
+    "manufacturer": "Meberry",
+    "market_name": "M7",
+    "codename": "M7",
+    "model": "M7"
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "BilimBook",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BilimBook_mini",
+      "codename": "BilimBook_mini",
+      "model": "BilimBook mini"
+    }
+  ]
+}

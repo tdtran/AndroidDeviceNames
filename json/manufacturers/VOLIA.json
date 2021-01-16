@@ -1,0 +1,11 @@
+{
+  "manufacturer": "VOLIA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VOL001",
+      "codename": "VOL001",
+      "model": "VOL001"
+    }
+  ]
+}

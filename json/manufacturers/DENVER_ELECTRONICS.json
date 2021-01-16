@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SCQ-50001G",
+      "codename": "SCQ-50001G",
+      "model": "SCQ-50001G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SDQ-55034L",
       "codename": "SDQ-55034L",
       "model": "SDQ-55034L"
@@ -45,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAQ-104A",
+      "codename": "TAQ-104A",
+      "model": "TAQ_104A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAQ-70",
       "codename": "TAQ70",
       "model": "TAQ-70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAQ-703A",
+      "codename": "TAQ-703A",
+      "model": "TAQ_703A"
     },
     {
       "manufacturer": "",

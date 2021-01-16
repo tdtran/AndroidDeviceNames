@@ -1,19 +1,61 @@
 [
   {
+    "manufacturer": "G-Guard",
+    "market_name": "xiaoyushan_emG",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
     "manufacturer": "Hisense",
-    "market_name": "laoshan",
+    "market_name": "xiaoyushan",
     "codename": "xiaoyushan",
     "model": "HAT4KDTV"
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "laoshan",
+    "market_name": "xiaoyushan",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "xiaoyushan-bgh",
     "codename": "xiaoyushan",
     "model": "HiSmartTV A4"
   },
   {
     "manufacturer": "Hisense",
     "market_name": "xiaoyushan-em",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "xiaoyushan-sa",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "xiaoyushan_riviera",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Kalley",
+    "market_name": "xiaoyushan_kalley",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "xiaoyushan_emT",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "xiaoyushan_etT",
     "codename": "xiaoyushan",
     "model": "HiSmartTV A4"
   },

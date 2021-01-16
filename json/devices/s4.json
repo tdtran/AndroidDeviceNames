@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Emporia",
+    "market_name": "emporiaSMART.4",
+    "codename": "S4",
+    "model": "S4"
+  },
+  {
     "manufacturer": "Gini",
     "market_name": "s4",
     "codename": "s4",

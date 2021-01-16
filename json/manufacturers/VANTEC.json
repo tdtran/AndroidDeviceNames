@@ -12,6 +12,12 @@
       "market_name": "G5",
       "codename": "G5",
       "model": "G5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "telma_i401",
+      "codename": "G4",
+      "model": "G4"
     }
   ]
 }

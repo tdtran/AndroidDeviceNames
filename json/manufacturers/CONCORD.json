@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10",
+      "codename": "A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C-708",
       "codename": "C-708",
       "model": "C-708"
@@ -12,6 +18,18 @@
       "market_name": "Concord M15",
       "codename": "Concord_M15",
       "model": "Concord M15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Concord_RANGE_HS",
+      "codename": "Concord_RANGE_HS",
+      "model": "Concord_RANGE_HS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Concord_Range_S9",
+      "codename": "Concord_Range_S9",
+      "model": "Concord_Range_S9"
     },
     {
       "manufacturer": "",

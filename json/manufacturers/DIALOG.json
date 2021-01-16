@@ -12,6 +12,12 @@
       "market_name": "SEI103DL",
       "codename": "SEI103",
       "model": "SEI103DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sri Lanka",
+      "codename": "N9106H_B_Dialog",
+      "model": "N9106H_B"
     }
   ]
 }

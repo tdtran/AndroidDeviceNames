@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Core Innovations",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CRTB7001",
+      "codename": "CRTB7001",
+      "model": "CRTB7001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CTB1016G",
+      "codename": "CTB1016G",
+      "model": "CTB1016G"
+    }
+  ]
+}

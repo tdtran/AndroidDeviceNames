@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10 Lite",
+    "codename": "Jakarta_Lite",
+    "model": "4187M"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10 Lite",
+    "codename": "Jakarta_Lite",
+    "model": "4187U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE elite edition",
+    "codename": "Jakarta_Lite",
+    "model": "4087M"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE elite edition",
+    "codename": "Jakarta_Lite",
+    "model": "4087N"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE elite edition",
+    "codename": "Jakarta_Lite",
+    "model": "4087U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE elite edition",
+    "codename": "Jakarta_Lite",
+    "model": "4087U_RU"
+  }
+]

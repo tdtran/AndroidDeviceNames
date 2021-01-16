@@ -1,0 +1,92 @@
+[
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "EU",
+    "codename": "tamachi",
+    "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+    "manufacturer": "Contex",
+    "market_name": "Egypt",
+    "codename": "tamachi",
+    "model": "AiPlus2K"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "France",
+    "codename": "tamachi",
+    "model": "Continental Android TV"
+  },
+  {
+    "manufacturer": "Estar",
+    "market_name": "Lithuania",
+    "codename": "tamachi",
+    "model": "eSTAR FHD Android TV"
+  },
+  {
+    "manufacturer": "F\u0026U (Fandu)",
+    "market_name": "Greece",
+    "codename": "tamachi",
+    "model": "F and U Android TV"
+  },
+  {
+    "manufacturer": "Grunkel",
+    "market_name": "Spain",
+    "codename": "tamachi",
+    "model": "GRUNKEL FHD Android TV"
+  },
+  {
+    "manufacturer": "Inves",
+    "market_name": "Spain",
+    "codename": "tamachi",
+    "model": "INVES FHD Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "france",
+    "codename": "tamachi",
+    "model": "JVC 2K Android TV"
+  },
+  {
+    "manufacturer": "LISTO",
+    "market_name": "Rumania",
+    "codename": "tamachi",
+    "model": "LISTO Android TV"
+  },
+  {
+    "manufacturer": "MULTYNET",
+    "market_name": "Pakistan",
+    "codename": "tamachi",
+    "model": "MULTYNET FHD Android TV"
+  },
+  {
+    "manufacturer": "Nano",
+    "market_name": "Thailand",
+    "codename": "tamachi",
+    "model": "Nano FHD Android TV"
+  },
+  {
+    "manufacturer": "Smart-Tech TV",
+    "market_name": "France",
+    "codename": "tamachi",
+    "model": "AiPlus2K"
+  },
+  {
+    "manufacturer": "Starlight",
+    "market_name": "Rumania",
+    "codename": "tamachi",
+    "model": "STARLIGHT Android TV"
+  },
+  {
+    "manufacturer": "Turbo-X",
+    "market_name": "Greece",
+    "codename": "tamachi",
+    "model": "TURBO-X FHD Android TV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "Bangladesh",
+    "codename": "tamachi",
+    "model": "Vision FHD Android TV"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Riviera",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RLED-AND42CHG6F",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RLED-AND50CHG6FP",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    }
+  ]
+}

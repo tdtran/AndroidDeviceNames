@@ -1,0 +1,17 @@
+{
+  "manufacturer": "MEDER",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MEDER",
+      "codename": "smartguide210_eea",
+      "model": "SmartGuide_2.10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartGuide210-464",
+      "codename": "SmartGuide210-464",
+      "model": "SmartGuide210-464"
+    }
+  ]
+}

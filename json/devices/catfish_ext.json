@@ -1,8 +1,14 @@
 [
   {
     "manufacturer": "Mobvoi",
-    "market_name": "TicWatch Pro BT",
+    "market_name": "TicWatch Pro",
     "codename": "catfish_ext",
     "model": "TicWatch Pro"
+  },
+  {
+    "manufacturer": "Mobvoi",
+    "market_name": "TicWatch Pro",
+    "codename": "catfish_ext",
+    "model": "TicWatch Pro S"
   }
 ]

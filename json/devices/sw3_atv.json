@@ -12,26 +12,26 @@
     "model": "PanasonicTV"
   },
   {
-    "manufacturer": "Skyworth",
+    "manufacturer": "SWTV",
     "market_name": "Asia",
+    "codename": "SW3_ATV",
+    "model": "SWTV"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "North America",
+    "codename": "SW3_ATV",
+    "model": "SWTV"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "South America",
     "codename": "SW3_ATV",
     "model": "SWTV"
   },
   {
     "manufacturer": "Skyworth",
     "market_name": "Euro",
-    "codename": "SW3_ATV",
-    "model": "SWTV"
-  },
-  {
-    "manufacturer": "Skyworth",
-    "market_name": "North America",
-    "codename": "SW3_ATV",
-    "model": "SWTV"
-  },
-  {
-    "manufacturer": "Skyworth",
-    "market_name": "South America",
     "codename": "SW3_ATV",
     "model": "SWTV"
   }

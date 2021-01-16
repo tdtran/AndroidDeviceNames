@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X6",
+      "codename": "X6",
+      "model": "X6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z5",
       "codename": "Z5",
       "model": "Z5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "x7",
+      "codename": "X7",
+      "model": "X7"
     }
   ]
 }

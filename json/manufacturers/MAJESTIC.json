@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "JACK",
+      "codename": "JACK",
+      "model": "JACK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JOE",
+      "codename": "JOE",
+      "model": "JOE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB 611 3G",
       "codename": "TAB_611_3G",
       "model": "TAB 611 3G"
@@ -24,6 +36,30 @@
       "market_name": "TAB_711_4G",
       "codename": "TAB_711_4G",
       "model": "TAB 711 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_811_4G",
+      "codename": "TAB_811_4G",
+      "model": "TAB_811_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_812_4G",
+      "codename": "TAB_812_4G",
+      "model": "TAB_812_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_847_3G",
+      "codename": "TAB_847_3G",
+      "model": "TAB_847_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_911_3G",
+      "codename": "TAB_911_3G",
+      "model": "TAB_911_3G"
     }
   ]
 }

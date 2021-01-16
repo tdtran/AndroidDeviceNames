@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y11",
+      "codename": "Y11",
+      "model": "Y11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y15",
       "codename": "Y15",
       "model": "Y15"

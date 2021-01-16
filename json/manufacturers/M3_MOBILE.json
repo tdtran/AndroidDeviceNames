@@ -42,6 +42,48 @@
       "market_name": "M3SL10",
       "codename": "M3SL10",
       "model": "M3SL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3SM15N",
+      "codename": "M3SM15N",
+      "model": "M3SM15N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3SM15N_EEA",
+      "codename": "M3SM15N",
+      "model": "M3SM15N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3SM15X",
+      "codename": "M3SM15X",
+      "model": "M3SM15X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3SM15X_EEA",
+      "codename": "M3SM15X",
+      "model": "M3SM15X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3UL20F_EEA",
+      "codename": "M3UL20F",
+      "model": "M3UL20F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3UL20W_EEA",
+      "codename": "M3UL20W",
+      "model": "M3UL20W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3UL20X_EEA",
+      "codename": "M3UL20X",
+      "model": "M3UL20X"
     }
   ]
 }

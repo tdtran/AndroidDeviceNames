@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G8060",
+      "codename": "G8060",
+      "model": "G8060"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS2PLUS",
       "codename": "IS2PLUS",
       "model": "IS2PLUS"

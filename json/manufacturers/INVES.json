@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Inves",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Spain",
+      "codename": "tamachi",
+      "model": "INVES FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Spain",
+      "codename": "yeongdeungpo",
+      "model": "INVES UHD Android TV"
+    }
+  ]
+}

@@ -40,5 +40,17 @@
     "market_name": "Alcatel 1V",
     "codename": "Tokyo_Lite",
     "model": "5007U_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1V",
+    "codename": "Tokyo_Lite",
+    "model": "5007U_TR"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1V",
+    "codename": "Tokyo_Lite",
+    "model": "HEYOU40"
   }
 ]

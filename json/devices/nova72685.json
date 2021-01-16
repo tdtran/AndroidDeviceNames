@@ -4,5 +4,11 @@
     "market_name": "VIDAA_TV",
     "codename": "NOVA72685",
     "model": "VIDAA_TV"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "Toshiba_TV",
+    "codename": "NOVA72685",
+    "model": "Toshiba_TV"
   }
 ]

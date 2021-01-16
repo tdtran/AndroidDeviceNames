@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DV8555",
+      "codename": "DV8555-KPO",
+      "model": "DV8555"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dive 30",
       "codename": "P635E40",
       "model": "Orange Dive 30"
@@ -108,6 +114,24 @@
       "market_name": "Orange",
       "codename": "Rise_55",
       "model": "Orange Rise 55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orange Neva play",
+      "codename": "Neva_play",
+      "model": "Orange Neva play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orange Neva zen",
+      "codename": "Neva_zen",
+      "model": "Orange Neva zen"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orange Nola play",
+      "codename": "Nola_play",
+      "model": "Orange Nola play"
     },
     {
       "manufacturer": "",
@@ -222,6 +246,12 @@
       "market_name": "Roya",
       "codename": "Alto45",
       "model": "Orange Roya"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sanza_touch",
+      "codename": "Sanza_touch",
+      "model": "Orange Sanza touch"
     },
     {
       "manufacturer": "",

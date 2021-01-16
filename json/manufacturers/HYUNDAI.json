@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10LA2",
+      "codename": "10LA2",
+      "model": "10LA2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "7LB1",
+      "codename": "7LB1",
+      "model": "7LB1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A25563L",
       "codename": "A25563L",
       "model": "A25563L"
@@ -18,6 +30,18 @@
       "market_name": "A26062k",
       "codename": "A26062K",
       "model": "A26062K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
     },
     {
       "manufacturer": "",
@@ -87,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E603",
+      "codename": "E603",
+      "model": "E603"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Eternity A24",
       "codename": "A25024L",
       "model": "A25024L"
@@ -117,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eternity H68",
+      "codename": "H25568K",
+      "model": "Eternity_H68"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Eternity W42",
       "codename": "W25042L",
       "model": "W25042L"
@@ -132,6 +168,54 @@
       "market_name": "Eternity_G25",
       "codename": "Eternity_G25",
       "model": "Eternity_G25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eternity_H66",
+      "codename": "H25566K",
+      "model": "Eternity_H66"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eternity_P7",
+      "codename": "HT4P7128LB",
+      "model": "Eternity_P7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eternity_P7",
+      "codename": "HT4P764LB",
+      "model": "Eternity_P7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9S",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H-LED32ES5008",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H-LED32ES5108",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H-LED50EU7008",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HATV-58AA100",
+      "codename": "samseong",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -177,9 +261,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HYLED4321AiM",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYLED5015A4KM",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYLED5520A4KM",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HY_BDL163G_001",
+      "codename": "HY_BDL163G_001_EEA",
+      "model": "HY-BDL163G-001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hyundai",
       "codename": "bangbae",
       "model": "Hyundai 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai",
+      "codename": "gangbyeon",
+      "model": "HYUNDAI 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai",
+      "codename": "gangbyeon",
+      "model": "HYUNDAI 4K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai",
+      "codename": "komagome",
+      "model": "Hyundai 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai",
+      "codename": "osaki",
+      "model": "HYUNDAI 2K AI Smart TV"
     },
     {
       "manufacturer": "",
@@ -225,15 +357,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hyundai_Eternity_G50W",
+      "codename": "HT1G50KFBK",
+      "model": "Hyundai_Eternity_G50W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai_Eternity_G57",
+      "codename": "HT2G57L",
+      "model": "Hyundai_Eternity_G57L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hyundai_Eternity_G60",
       "codename": "HT3G60L",
       "model": "Hyundai_Eternity_G60"
     },
     {
       "manufacturer": "",
-      "market_name": "Israel",
-      "codename": "samseong",
-      "model": "AI PONT"
+      "market_name": "Hyundai_Home",
+      "codename": "Hyundai_Home",
+      "model": "HTSH10W216"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral",
+      "codename": "Koral_10WB1",
+      "model": "10WB1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral",
+      "codename": "Koral_7WB1",
+      "model": "7WB1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral",
+      "codename": "Koral_7WC1",
+      "model": "7WC1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral",
+      "codename": "Koral_7WD1",
+      "model": "7WD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral",
+      "codename": "Koral_8WC1",
+      "model": "8WC1"
     },
     {
       "manufacturer": "",
@@ -249,9 +423,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Koral_10LB1",
+      "codename": "10LB1",
+      "model": "10LB1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Koral_10X2",
       "codename": "HT1004X16",
       "model": "Koral_10X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_10X3",
+      "codename": "Koral_10X3",
+      "model": "HT1002W32"
     },
     {
       "manufacturer": "",
@@ -264,6 +450,18 @@
       "market_name": "Koral_10XL_Plus",
       "codename": "Koral_10XL_Plus",
       "model": "HT1002LI32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_7LC1",
+      "codename": "7LC1",
+      "model": "7LC1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_7W4X",
+      "codename": "Koral_7W4X",
+      "model": "HT0701W16"
     },
     {
       "manufacturer": "",
@@ -324,18 +522,6 @@
       "market_name": "L601F",
       "codename": "L601F",
       "model": "L601F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Russia",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Russia",
-      "codename": "samseong",
-      "model": "AI PONT"
     },
     {
       "manufacturer": "",

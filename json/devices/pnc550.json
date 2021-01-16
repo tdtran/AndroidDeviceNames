@@ -4,5 +4,11 @@
     "market_name": "PNC550",
     "codename": "PNC550",
     "model": "PNC550"
+  },
+  {
+    "manufacturer": "Hytera",
+    "market_name": "PNC550_P_TU",
+    "codename": "PNC550",
+    "model": "PNC550"
   }
 ]

@@ -24,6 +24,12 @@
     "model": "Y7"
   },
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "Y7",
+    "codename": "Y7",
+    "model": "Y7"
+  },
+  {
     "manufacturer": "Neffos",
     "market_name": "Neffos Y7",
     "codename": "Y7",
@@ -34,5 +40,11 @@
     "market_name": "Neffos Y7",
     "codename": "Y7",
     "model": "Neffos_Y7"
+  },
+  {
+    "manufacturer": "qunyiCO",
+    "market_name": "Y7",
+    "codename": "Y7",
+    "model": "Y7"
   }
 ]

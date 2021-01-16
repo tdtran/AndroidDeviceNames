@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Ipro",
+    "market_name": "S501",
+    "codename": "S501",
+    "model": "S501"
+  },
+  {
     "manufacturer": "Quantum",
     "market_name": "Twist Neo",
     "codename": "S501",

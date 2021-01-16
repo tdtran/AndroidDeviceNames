@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOA_F10_Pro_EEA",
+      "codename": "NOA_F10_Pro",
+      "model": "F10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOA_N20",
+      "codename": "NOA_N20",
+      "model": "N20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOA_P1",
       "codename": "NOA_P1",
       "model": "P1"

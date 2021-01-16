@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K108",
+      "codename": "K108",
+      "model": "K108"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KN C4",
       "codename": "JIMI_KNC4",
       "model": "JIMI_KNC4"

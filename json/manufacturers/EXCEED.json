@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EX10S10",
+      "codename": "EX10S10",
+      "model": "EX10S10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EX10S4",
       "codename": "EX10S4",
       "model": "EX10S4"
@@ -30,6 +36,12 @@
       "market_name": "EX7W1",
       "codename": "EX7W1",
       "model": "EX7W1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EX7W1S",
+      "codename": "EX7W1S",
+      "model": "EX7W1S"
     }
   ]
 }

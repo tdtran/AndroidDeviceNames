@@ -76,5 +76,11 @@
     "market_name": "Alcatel 3X",
     "codename": "Venice",
     "model": "5048Y_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Venice",
+    "model": "5048Y_TR"
   }
 ]

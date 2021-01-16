@@ -6,6 +6,12 @@
       "market_name": "A322BV-SRC",
       "codename": "kanda",
       "model": "2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TATUNG",
+      "codename": "gangbyeon",
+      "model": "TATUNG 4K AI Smart TV"
     }
   ]
 }

@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HT_705_G_PLUS",
+      "codename": "HOW_HT_705_G_PLUS",
+      "model": "HT-705-G PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "kids 3g",
       "codename": "sp7731c_1h10",
       "model": "kids 3g"

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jelly2",
+      "codename": "Jelly2",
+      "model": "Jelly2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Jelly2_JP",
+      "codename": "Jelly2_JP",
+      "model": "Jelly2_JP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Titan",
       "codename": "Titan",
       "model": "Titan"

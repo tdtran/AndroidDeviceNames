@@ -3,15 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Italy",
-      "codename": "samseong",
+      "market_name": "ODL 32760HN-TAB",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ODL 32770H-TAB",
+      "codename": "ikebukuro",
       "model": "AI PONT"
     },
     {
       "manufacturer": "",
-      "market_name": "ODL 32760HN-TAB",
-      "codename": "osaki",
-      "model": "2K AI Smart TV"
+      "market_name": "ODL50672U-TAB",
+      "codename": "samseong",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

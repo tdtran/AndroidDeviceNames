@@ -33,9 +33,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lithuania",
+      "codename": "tamachi",
+      "model": "eSTAR FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID1020L",
+      "codename": "MID1020L",
+      "model": "MID1020L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID7399",
       "codename": "MID7399",
       "model": "eSTAR BEAUTY 3 HD Quad core"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID7399_BM",
+      "codename": "MID7399_BM",
+      "model": "MID7399_BM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID7399_HP",
+      "codename": "MID7399_HP",
+      "model": "MID7399_HP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID7399_SD",
+      "codename": "MID7399_SD",
+      "model": "MID7399_SD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID7399_WW",
+      "codename": "MID7399_WW",
+      "model": "MID7399_WW"
     },
     {
       "manufacturer": "",

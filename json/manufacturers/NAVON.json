@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NavonOrpheus3G2020",
+      "codename": "NavonOrpheus3G2020",
+      "model": "NavonOrpheus3G2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Navon_IQ7_2020",
+      "codename": "Navon_IQ7_2020",
+      "model": "IQ7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Navon_Orpheus_3G",
       "codename": "Navon_Orpheus_3G",
       "model": "Navon Orpheus 3G"

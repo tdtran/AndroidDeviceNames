@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NETWORK",
+      "codename": "NETWORK",
+      "model": "NETWORK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NET_ADVANCE",
+      "codename": "NET_ADVANCE",
+      "model": "NET_ADVANCE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NET_LITE",
       "codename": "NET_LITE",
       "model": "NET_LITE"
@@ -27,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NET_ONE",
+      "codename": "NET_ONE",
+      "model": "NET_ONE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NET_TITAN",
       "codename": "NET_TITAN",
       "model": "NET_TITAN"
@@ -39,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Net_Max_Go",
+      "codename": "Net_Max_Go",
+      "model": "Net_Max_Go"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY",
       "codename": "SKY",
       "model": "SKY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRA",
+      "codename": "ULTRA",
+      "model": "ULTRA"
     },
     {
       "manufacturer": "",

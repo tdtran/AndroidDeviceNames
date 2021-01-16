@@ -12,6 +12,12 @@
       "market_name": "TC601",
       "codename": "TC601_GWL",
       "model": "TC601_GWL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC601A",
+      "codename": "TC601A_GWL",
+      "model": "TC601A_GWL"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "CAIXUN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Australian/EU",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Canada",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Malaysia",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4KMY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "USA",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    }
+  ]
+}

@@ -30,6 +30,24 @@
       "market_name": "E0114",
       "codename": "E0114",
       "model": "E0114"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E0115",
+      "codename": "E0115",
+      "model": "E0115"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E0116",
+      "codename": "E0116",
+      "model": "E0116"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E0117",
+      "codename": "E0117",
+      "model": "E0117"
     }
   ]
 }

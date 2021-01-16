@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "A1_EEA",
+      "model": "A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEENO S9",
       "codename": "TEENO_S9",
       "model": "TEENO_S9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEENO_i12",
+      "codename": "TEENO_i12",
+      "model": "TEENO_i12"
     }
   ]
 }

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MB4_3G_PLUS_SE",
+      "codename": "MB4_3G_PLUS_SE",
+      "model": "MB4_3G_PLUS_SE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MB5 WIFI",
       "codename": "MB5_WIFI",
       "model": "MB5 WIFI"
@@ -42,6 +48,18 @@
       "market_name": "MB8866",
       "codename": "MB8866",
       "model": "MB8866"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLAB_GLOWY7",
+      "codename": "MLAB_GLOWY7",
+      "model": "MLAB_GLOWY7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLAB_GLOWY8",
+      "codename": "MLAB_GLOWY8",
+      "model": "MLAB_GLOWY8"
     },
     {
       "manufacturer": "",

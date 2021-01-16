@@ -9,6 +9,60 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A850",
+      "codename": "A850",
+      "model": "A850"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A860",
+      "codename": "A860",
+      "model": "A860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A890",
+      "codename": "A890",
+      "model": "A890"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A930",
+      "codename": "A930",
+      "model": "A930"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A940",
+      "codename": "A940",
+      "model": "A940"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua S9",
+      "codename": "Aqua_S9",
+      "model": "Aqua S9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua S9 Lite",
+      "codename": "X1020",
+      "model": "Aqua S9 lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua S9 Max",
+      "codename": "Aqua_S9_Max",
+      "model": "Aqua S9 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua_Infinity",
+      "codename": "Aqua_Infinity",
+      "model": "Aqua_Infinity"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cherry S8 Deluxe",
       "codename": "Flare_S8_Deluxe",
       "model": "Flare_S8_Deluxe"
@@ -477,6 +531,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare Y20",
+      "codename": "X1010",
+      "model": "Flare Y20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare Y3",
       "codename": "FlareY3",
       "model": "Flare_Y3"
@@ -492,6 +552,12 @@
       "market_name": "Flare Y3 mini",
       "codename": "Flare_Y3_mini",
       "model": "Flare Y3 mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Y5",
+      "codename": "H2050",
+      "model": "Flare Y5"
     },
     {
       "manufacturer": "",
@@ -714,6 +780,18 @@
       "market_name": "Superion S1 DTV",
       "codename": "A800",
       "model": "Superion S1 DTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Superion S2",
+      "codename": "Superion_S2",
+      "model": "Superion_S2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Superion S2+",
+      "codename": "Superion_S2_Plus",
+      "model": "Superion_S2_Plus"
     },
     {
       "manufacturer": "",

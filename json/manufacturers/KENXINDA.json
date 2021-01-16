@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "6Cb",
+      "codename": "6Cb",
+      "model": "6Cb"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1",
       "codename": "A1",
       "model": "A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A1s",
+      "codename": "A1s",
+      "model": "A1s"
     },
     {
       "manufacturer": "",

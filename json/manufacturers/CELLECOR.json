@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Cellecor",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S3",
+      "codename": "S3",
+      "model": "S3"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "LATAM and America",
+      "codename": "SoyMomo_Lite_V2",
+      "model": "SoyMomo_Lite_V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S8-RK3368",
       "codename": "S8-RK3368",
       "model": "S8-RK3368"
@@ -18,6 +24,12 @@
       "market_name": "SoyMomo_Lite_V1_EEA",
       "codename": "SoyMomo_Lite_V1",
       "model": "SoyMomo_Lite_V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SoyMomo_Pro_EU_V1",
+      "codename": "SoyMomo_Pro_EU_V1",
+      "model": "SoyMomo_Pro_EU_V1"
     },
     {
       "manufacturer": "",

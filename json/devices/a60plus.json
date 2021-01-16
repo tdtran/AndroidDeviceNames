@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Blackview",
+    "market_name": "A60 Plus",
+    "codename": "A60Plus",
+    "model": "A60Plus"
+  },
+  {
     "manufacturer": "Lenovo",
     "market_name": "",
     "codename": "A60plus",

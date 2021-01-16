@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Teracube 2e",
+      "codename": "Teracube_2e",
+      "model": "Teracube 2e"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Teracube_One",
       "codename": "Teracube_One",
       "model": "Teracube One"

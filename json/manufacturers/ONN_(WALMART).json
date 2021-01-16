@@ -39,6 +39,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "100011885",
+      "codename": "100011885",
+      "model": "100011885"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100011886",
+      "codename": "100011886",
+      "model": "100011886"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100011886CA",
+      "codename": "100011886CA",
+      "model": "100011886CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100015685-A",
+      "codename": "100015685-A",
+      "model": "100015685-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100015685-E",
+      "codename": "100015685-E",
+      "model": "100015685-E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ONA19TB002",
       "codename": "ONA19TB002",
       "model": "ONA19TB002"
@@ -48,6 +78,12 @@
       "market_name": "ONA19TB003",
       "codename": "ONA19TB003",
       "model": "ONA19TB003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ONA19TB007",
+      "codename": "ONA19TB007",
+      "model": "ONA19TB007"
     },
     {
       "manufacturer": "",

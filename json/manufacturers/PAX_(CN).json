@@ -6,6 +6,12 @@
       "market_name": "A50",
       "codename": "A50",
       "model": "A50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M30",
+      "codename": "PAXM30",
+      "model": "M30"
     }
   ]
 }

@@ -237,6 +237,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CT40",
+      "codename": "CT40P-L0-F",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40",
+      "codename": "CT40P-L1-F",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT40P",
       "codename": "CT40P-L1-D",
       "model": "CT40"
@@ -399,6 +411,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EDA50P",
+      "codename": "EDA50P-0",
+      "model": "EDA50P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA50P",
+      "codename": "EDA50P-1",
+      "model": "EDA50P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EDA51",
       "codename": "EDA51-0",
       "model": "EDA51"
@@ -408,6 +432,18 @@
       "market_name": "EDA51",
       "codename": "EDA51-1",
       "model": "EDA51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA51K",
+      "codename": "EDA51K-0",
+      "model": "EDA51K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA51K",
+      "codename": "EDA51K-1",
+      "model": "EDA51K"
     },
     {
       "manufacturer": "",
@@ -462,6 +498,12 @@
       "market_name": "EdA50",
       "codename": "eda50-211",
       "model": "EDA50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T60A",
+      "codename": "TA60A-L1-C",
+      "model": "TA60A"
     },
     {
       "manufacturer": "",

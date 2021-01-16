@@ -3,7 +3,37 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "ASIA MIDDLE EAST  AFRICA  EU",
+      "market_name": "A81",
+      "codename": "AIWA_A81",
+      "model": "A81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AFL0065S",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIWA 2K TV",
+      "codename": "shinagawa",
+      "model": "AIWA 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AW-LED32G7K",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AW-LED43GKF",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AW-LED50X6FL",
       "codename": "samseong",
       "model": "AI PONT"
     },
@@ -60,6 +90,12 @@
       "market_name": "Aiwa",
       "codename": "KSTB6043",
       "model": "KSTB6043"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA10-SO10",
+      "codename": "TA10-SO10",
+      "model": "TA10-SO10"
     },
     {
       "manufacturer": "",

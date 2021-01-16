@@ -33,15 +33,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alien_X_Pro_2021",
+      "codename": "Alien_X_Pro_2021",
+      "model": "Alien X Pro 2021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Like 4U",
       "codename": "Like_4U",
       "model": "Like_4U"
     },
     {
       "manufacturer": "",
+      "market_name": "Like 8",
+      "codename": "Like_8",
+      "model": "Like_8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Like_7",
       "codename": "Like_7",
       "model": "Like_7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Like_Hi10_2021",
+      "codename": "Like_Hi10_2021",
+      "model": "Like_Hi10_2021"
     },
     {
       "manufacturer": "",
@@ -102,6 +120,12 @@
       "market_name": "Tian_P7000",
       "codename": "Tian_P7000",
       "model": "Tian_P7000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan P8000 PRO 2021",
+      "codename": "Titan_P8000_PRO_2021",
+      "model": "Titan P8000 PRO 2021"
     },
     {
       "manufacturer": "",

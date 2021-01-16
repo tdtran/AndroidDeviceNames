@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Boost Ultra",
+      "codename": "Boost_Ultra",
+      "model": "Boost Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HMR5450",
       "codename": "HMR5450",
       "model": "HMR5450"

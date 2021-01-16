@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CHOTT0102",
+      "codename": "CHOTT0102",
+      "model": "CHOTT0102"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SDOTT0202",
       "codename": "DV8519",
       "model": "SDOTT0202"

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MOTOTRBO ION",
+      "codename": "mkz_sdm660_64",
+      "model": "MSLB-MKZ900i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC55",
       "codename": "TC55",
       "model": "TC55"

@@ -6,6 +6,18 @@
       "market_name": "HP2714",
       "codename": "HPH65",
       "model": "HP2714"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mexico",
+      "codename": "B820C-A15_ZTE",
+      "model": "B820C-A15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKYWORTH-HY4002",
+      "codename": "HY40A1",
+      "model": "SKYWORTH-HY4002"
     }
   ]
 }

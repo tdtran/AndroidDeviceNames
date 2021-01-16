@@ -4,5 +4,17 @@
     "market_name": "Liquid S2",
     "codename": "a12",
     "model": "S520"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A12",
+    "codename": "a12",
+    "model": "SM-A125F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A12",
+    "codename": "a12",
+    "model": "SM-A125M"
   }
 ]

@@ -21,9 +21,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP-5400",
+      "codename": "SP-5400",
+      "model": "SP-5400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP-5450 ",
+      "codename": "SP-5450",
+      "model": "SP-5450"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP-6000",
       "codename": "SP-6000",
       "model": "SP-6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP-6100",
+      "codename": "SP-6100",
+      "model": "SP-6100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP-6150",
+      "codename": "SP-6150",
+      "model": "SP-6150"
     },
     {
       "manufacturer": "",

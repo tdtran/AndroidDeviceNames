@@ -1,27 +1,39 @@
 [
   {
-    "manufacturer": "BenQ",
-    "market_name": "Taiwan",
-    "codename": "laoshan",
-    "model": "BENQANDROIDTV"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "EM",
+    "manufacturer": "Akino",
+    "market_name": "laoshan-Akino",
     "codename": "laoshan",
     "model": "HAT4KDTV"
   },
   {
-    "manufacturer": "Hisense",
-    "market_name": "Hong kong",
+    "manufacturer": "BenQ",
+    "market_name": "laoshan_BenQ",
     "codename": "laoshan",
-    "model": "HKU7A"
+    "model": "BENQANDROIDTV"
   },
   {
     "manufacturer": "Hisense",
     "market_name": "laoshan",
     "codename": "laoshan",
     "model": "HAT4KDTV"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "laoshan-Hisense",
+    "codename": "laoshan",
+    "model": "HAT4KDTV"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "laoshan-emT",
+    "codename": "laoshan",
+    "model": "HAT4KDTV"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "laoshan_HK",
+    "codename": "laoshan",
+    "model": "HKU7A"
   },
   {
     "manufacturer": "Hisense",
@@ -37,7 +49,7 @@
   },
   {
     "manufacturer": "Toshiba",
-    "market_name": "Taiwan",
+    "market_name": "laoshan_Toshiba",
     "codename": "laoshan",
     "model": "U7900"
   }

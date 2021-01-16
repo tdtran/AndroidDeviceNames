@@ -6,6 +6,12 @@
       "market_name": "J110A",
       "codename": "J110A",
       "model": "J110A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UHD Android TV",
+      "codename": "sindorim",
+      "model": "AI PONT"
     }
   ]
 }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EGL11QF6",
+      "codename": "EGL11QF6",
+      "model": "EGL11QF6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EGL1529I",
+      "codename": "EGL1529I",
+      "model": "EGL1529I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EGL15QF6",
       "codename": "EGL15QF6",
       "model": "EGL15QF6"

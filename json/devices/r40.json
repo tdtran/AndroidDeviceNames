@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CORN",
+    "market_name": "R40",
+    "codename": "R40",
+    "model": "R40"
+  },
+  {
     "manufacturer": "Symphony",
     "market_name": "R40",
     "codename": "R40",

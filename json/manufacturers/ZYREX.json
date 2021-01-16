@@ -15,9 +15,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZT216_17",
+      "codename": "ZT216_17",
+      "model": "ZT216_17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZT216_19",
+      "codename": "ZT216_19",
+      "model": "ZT216_19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZT216_2",
+      "codename": "ZT216_2",
+      "model": "ZT216_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZT216_23",
+      "codename": "ZT216_23",
+      "model": "ZT216_23"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZT216_3",
       "codename": "ZT216_3",
       "model": "ZT216_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZT216_4",
+      "codename": "ZT216_4",
+      "model": "ZT216_4"
     },
     {
       "manufacturer": "",
@@ -33,9 +63,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ZT8332_3",
-      "codename": "ZT8332_3",
-      "model": "ZT8332_3"
+      "market_name": "ZT8332_2",
+      "codename": "ZT8332_2",
+      "model": "ZT8332_2"
     },
     {
       "manufacturer": "",
@@ -48,6 +78,12 @@
       "market_name": "Zyrex  ZA833",
       "codename": "ZA833",
       "model": "ZA833"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "zyrex",
+      "codename": "ZT216_7",
+      "model": "ZT216_7"
     }
   ]
 }

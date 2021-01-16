@@ -1,0 +1,23 @@
+{
+  "manufacturer": "DUODUOGO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "10 Plus",
+      "codename": "10_Plus",
+      "model": "10 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet-P8_A",
+      "codename": "Tablet-P8_A",
+      "model": "Tablet-P8_A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet-P8_EEA",
+      "codename": "Tablet-P8_EEA",
+      "model": "Tablet-P8_EEA"
+    }
+  ]
+}

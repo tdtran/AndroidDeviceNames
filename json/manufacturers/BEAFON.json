@@ -18,6 +18,12 @@
       "market_name": "M6",
       "codename": "M6",
       "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MX1",
+      "codename": "MX1",
+      "model": "MX1"
     }
   ]
 }

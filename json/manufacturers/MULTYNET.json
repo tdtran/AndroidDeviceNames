@@ -1,0 +1,17 @@
+{
+  "manufacturer": "MULTYNET",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Pakistan",
+      "codename": "tamachi",
+      "model": "MULTYNET FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pakistan",
+      "codename": "yeongdeungpo",
+      "model": "MULTYNET UHD Android TV"
+    }
+  ]
+}

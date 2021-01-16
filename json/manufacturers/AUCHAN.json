@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LZ_890",
+      "codename": "LZ_890",
+      "model": "LZ_890"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q.4514",
       "codename": "Q4514",
       "model": "Q4514"

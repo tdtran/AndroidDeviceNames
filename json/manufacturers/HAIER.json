@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alpha A2",
+      "codename": "A2",
+      "model": "A2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alpha A3",
       "codename": "A3",
       "model": "A3"
@@ -204,6 +210,12 @@
       "market_name": "D2-961G",
       "codename": "D2-961G",
       "model": "D2-961G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "nippori",
+      "model": "HEC Android TV 2K"
     },
     {
       "manufacturer": "",
@@ -423,6 +435,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I4",
+      "codename": "I4",
+      "model": "I4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I50",
       "codename": "i50_b1b8",
       "model": "I50"
@@ -537,6 +555,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M53-52401",
+      "codename": "M53-52401",
+      "model": "M53-52401"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7808",
       "codename": "M7808",
       "model": "M7808"
@@ -600,6 +624,12 @@
       "market_name": "NEO8-1",
       "codename": "NEO8-1",
       "model": "NEO8-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "uguisudani",
+      "model": "haierATVuguisudani"
     },
     {
       "manufacturer": "",
@@ -690,6 +720,12 @@
       "market_name": "Power P8",
       "codename": "P8",
       "model": "P8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5_Silk",
+      "codename": "S5_Silk",
+      "model": "S5 Silk"
     },
     {
       "manufacturer": "",

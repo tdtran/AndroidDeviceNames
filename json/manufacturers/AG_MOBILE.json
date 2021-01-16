@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AGM A10",
+      "codename": "SHARKL5",
+      "model": "Android"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AGM A9",
       "codename": "HSSDM450QC",
       "model": "AGM A9"

@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ART1",
+      "codename": "ART1",
+      "model": "ART1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ART1_PRO",
+      "codename": "ART1_PRO",
+      "model": "ART1_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E400A",
       "codename": "E400A",
       "model": "E400A"
@@ -45,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GO1",
+      "codename": "GO1",
+      "model": "GO1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIV1",
       "codename": "LIV1",
       "model": "LIV1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIV2LTE",
+      "codename": "LIV2LTE",
+      "model": "LIV2LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIV2_LTE",
+      "codename": "LIV2_LTE",
+      "model": "LIV2_LTE"
     },
     {
       "manufacturer": "",

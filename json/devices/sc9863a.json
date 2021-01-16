@@ -7,6 +7,42 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "Hisense F16",
+    "codename": "SC9863A",
+    "model": "HLTE221E.20"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F16",
+    "codename": "SC9863A",
+    "model": "Hisense F16"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F19",
+    "codename": "SC9863A",
+    "model": "HLTE223E"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F19",
+    "codename": "SC9863A",
+    "model": "HLTE223E.40"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F19",
+    "codename": "SC9863A",
+    "model": "Hisense E40 Lite"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F19",
+    "codename": "SC9863A",
+    "model": "Hisense F19"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "Hisense H40 Lite",
     "codename": "SC9863A",
     "model": "HLTE230E"

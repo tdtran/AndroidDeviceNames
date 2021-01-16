@@ -81,9 +81,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N20Pro",
+      "codename": "N20Pro",
+      "model": "N20Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N30",
+      "codename": "N30",
+      "model": "N30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S30",
       "codename": "S30",
       "model": "S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S35Pro",
+      "codename": "S35Pro",
+      "model": "S35Pro"
     },
     {
       "manufacturer": "",
@@ -96,6 +114,12 @@
       "market_name": "S40Lite",
       "codename": "S40Lite",
       "model": "S40Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40Pro",
+      "codename": "S40Pro",
+      "model": "S40Pro"
     },
     {
       "manufacturer": "",
@@ -114,6 +138,12 @@
       "market_name": "S55_Lite",
       "codename": "S55_Lite",
       "model": "S55_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S58Pro",
+      "codename": "S58Pro",
+      "model": "S58Pro"
     },
     {
       "manufacturer": "",
@@ -165,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S88Pro",
+      "codename": "S88Pro",
+      "model": "S88Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S90C",
       "codename": "S90C",
       "model": "S90C"
@@ -192,6 +228,12 @@
       "market_name": "S95Pro",
       "codename": "S95Pro",
       "model": "S95Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S96Pro",
+      "codename": "S96Pro",
+      "model": "S96Pro"
     },
     {
       "manufacturer": "",

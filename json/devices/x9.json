@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Evercoss",
+    "market_name": "X9",
+    "codename": "X9",
+    "model": "X9"
+  },
+  {
     "manufacturer": "FPT Trading",
     "market_name": "FPT X9",
     "codename": "X9",

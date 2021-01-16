@@ -4,5 +4,17 @@
     "market_name": "TECNO P3S",
     "codename": "P3S",
     "model": "TECNO P3S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 Ultra 5G",
+    "codename": "p3s",
+    "model": "SM-G998B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 Ultra 5G",
+    "codename": "p3s",
+    "model": "SM-G998N"
   }
 ]

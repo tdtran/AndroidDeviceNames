@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALTAB08",
+      "codename": "ALTAB08",
+      "model": "ALTAB08"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MTC 982o",
       "codename": "MTC_982O",
       "model": "MTC_982O"

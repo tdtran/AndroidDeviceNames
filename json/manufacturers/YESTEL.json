@@ -9,9 +9,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T5",
+      "codename": "T5",
+      "model": "T5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5_EEA",
+      "codename": "T5-plus-EEA",
+      "model": "T5-plus-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5_EEA",
+      "codename": "T5_EEA",
+      "model": "T5_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X7_EEA",
       "codename": "X7_EEA",
       "model": "X7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8",
+      "codename": "YESTEL_X8",
+      "model": "X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8_EEA",
+      "codename": "X8_EEA",
+      "model": "X8"
     }
   ]
 }

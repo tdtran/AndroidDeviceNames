@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ST7680",
+      "codename": "ST7680",
+      "model": "ST7680"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ST8200",
       "codename": "ST8200",
       "model": "ST8200"

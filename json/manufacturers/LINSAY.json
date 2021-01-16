@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F10XIPS",
+      "codename": "F10XIPS",
+      "model": "F10XIPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10XIPS",
+      "codename": "F10XIPS",
+      "model": "LINSAY F10XIPS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F7HD4CORE",
       "codename": "F7HD4CORE",
       "model": "F7HD4CORE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F7UHD",
+      "codename": "F7UHD",
+      "model": "F7UHD"
     },
     {
       "manufacturer": "",
@@ -36,6 +54,12 @@
       "market_name": "LINSAY_F10XIPS",
       "codename": "LINSAY_F10XIPS",
       "model": "LINSAY_F10XIPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LINSAY_F7HD4CORE",
+      "codename": "LINSAY-F7HD4CORE",
+      "model": "LINSAY F7HD4CORE"
     }
   ]
 }

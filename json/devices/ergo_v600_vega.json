@@ -4,5 +4,11 @@
     "market_name": "ERGO V600 Vega",
     "codename": "ERGO_V600_Vega",
     "model": "ERGO V600 Vega"
+  },
+  {
+    "manufacturer": "Ergo",
+    "market_name": "ERGO_V600_Vega",
+    "codename": "ERGO_V600_Vega",
+    "model": "ERGO V600 Vega"
   }
 ]

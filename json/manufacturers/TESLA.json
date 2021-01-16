@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P80X_ROW",
+      "codename": "P80X",
+      "model": "P80X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMARTPHONE3.5",
       "codename": "Tesla_SP3_5",
       "model": "Tesla_SP3.5"
@@ -78,6 +84,12 @@
       "market_name": "Tesla_9_3",
       "codename": "Tesla_9_3",
       "model": "Tesla_9_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tesla_L8_2",
+      "codename": "Tesla_L8_2",
+      "model": "Tesla_L8_2"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,11 @@
     "market_name": "Y4800",
     "codename": "Y4800",
     "model": "Y4800"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "Y4800_EEA",
+    "codename": "Y4800",
+    "model": "Y4800"
   }
 ]

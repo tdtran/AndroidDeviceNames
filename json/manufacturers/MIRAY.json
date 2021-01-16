@@ -12,6 +12,12 @@
       "market_name": "MIDM_F10",
       "codename": "MIDM_F10",
       "model": "MIDM_F10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPM4G_105",
+      "codename": "TPM4G_105",
+      "model": "TPM4G_105"
     }
   ]
 }

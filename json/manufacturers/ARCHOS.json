@@ -1035,6 +1035,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ARCHOS T101 4G",
+      "codename": "act1014g",
+      "model": "Archos T 101 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alba 10",
       "codename": "ac101cplv3",
       "model": "ALBA 10 TABLET"
@@ -1560,6 +1566,18 @@
       "market_name": "Archos Sense 55 S",
       "codename": "ac55ses",
       "model": "Archos Sense 55 S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos T 80 W",
+      "codename": "act80w",
+      "model": "Archos T 80 W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos T101X 4G",
+      "codename": "act101x4g",
+      "model": "Archos T 101X 4G"
     },
     {
       "manufacturer": "",

@@ -1,7 +1,25 @@
 [
   {
     "manufacturer": "Epson",
+    "market_name": "Epson",
+    "codename": "embt4",
+    "model": "EMBT4"
+  },
+  {
+    "manufacturer": "Epson",
     "market_name": "embt4",
+    "codename": "embt4",
+    "model": "EMBT4"
+  },
+  {
+    "manufacturer": "Epson",
+    "market_name": "embt4cn",
+    "codename": "embt4",
+    "model": "EMBT4"
+  },
+  {
+    "manufacturer": "Epson",
+    "market_name": "embt4ru",
     "codename": "embt4",
     "model": "EMBT4"
   }

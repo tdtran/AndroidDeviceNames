@@ -22,5 +22,11 @@
     "market_name": "TCL PLEX",
     "codename": "T1",
     "model": "T780H"
+  },
+  {
+    "manufacturer": "iData",
+    "market_name": "iData T1",
+    "codename": "T1",
+    "model": "iData T1"
   }
 ]

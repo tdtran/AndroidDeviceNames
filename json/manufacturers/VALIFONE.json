@@ -6,6 +6,12 @@
       "market_name": "V700",
       "codename": "V700",
       "model": "V700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V710",
+      "codename": "V710",
+      "model": "V710"
     }
   ]
 }

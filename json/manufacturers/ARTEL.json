@@ -27,6 +27,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Artel Air",
+      "codename": "Artel_Air",
+      "model": "Artel Air"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Artel Quadro",
+      "codename": "Artel_Quadro",
+      "model": "Artel Quadro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Artel Quadro Pro",
+      "codename": "Artel_Quadro_Pro",
+      "model": "Artel Quadro Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Artel Tesla",
+      "codename": "Artel_Tesla",
+      "model": "Artel Tesla"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Artel Tomchi",
       "codename": "Artel_Tomchi",
       "model": "Artel Tomchi"
@@ -45,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Artel_T10",
+      "codename": "Artel_T10",
+      "model": "Artel T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GAP YOQ",
       "codename": "GAP_YOQ",
       "model": "GAP YOQ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GAPYOQ",
+      "codename": "GAPYOQ",
+      "model": "GAP"
     },
     {
       "manufacturer": "",

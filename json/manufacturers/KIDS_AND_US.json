@@ -6,6 +6,12 @@
       "market_name": "KIDSPAD",
       "codename": "Kids_and_Us",
       "model": "KIDSPAD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIDSPAD_V2",
+      "codename": "KIDSPAD_V2",
+      "model": "KIDSPAD_V2"
     }
   ]
 }

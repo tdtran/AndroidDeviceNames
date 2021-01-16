@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amber5s Plus",
+      "codename": "Amber5s_Plus",
+      "model": "Amber5s Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Amber6",
       "codename": "Amber6",
       "model": "Amber6"
@@ -27,9 +33,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amber8S",
+      "codename": "Amber8S",
+      "model": "Amber8S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amber8S plus",
+      "codename": "Amber8S_plus",
+      "model": "Amber8S plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amber8s Pro",
+      "codename": "Amber8s_Pro",
+      "model": "Amber8s Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Benny",
       "codename": "Benny",
       "model": "Benny"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Benny10",
+      "codename": "Benny10",
+      "model": "Benny10"
     },
     {
       "manufacturer": "",
@@ -132,6 +162,18 @@
       "market_name": "Ruby5S",
       "codename": "Ruby5S",
       "model": "Ruby5S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S401",
+      "codename": "S401",
+      "model": "S401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S501",
+      "codename": "S501",
+      "model": "S501"
     },
     {
       "manufacturer": "",

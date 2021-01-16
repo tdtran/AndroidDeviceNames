@@ -3,14 +3,44 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P31",
+      "codename": "P31",
+      "model": "P31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P31-E",
+      "codename": "P31-E_EEA",
+      "model": "P31-E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTAB1010X",
+      "codename": "QTAB1010X_EEA",
+      "model": "QTAB1010X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S20",
       "codename": "S20",
       "model": "S20"
     },
     {
       "manufacturer": "",
+      "market_name": "S20_2020",
+      "codename": "S20_2020",
+      "model": "S20_2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S20_EEA",
       "codename": "S20_EEA",
+      "model": "S20_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S20_EEA",
+      "codename": "S20_EEA_2020",
       "model": "S20_EEA"
     },
     {
@@ -39,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S30_EEA",
+      "codename": "S30_EEA_2020",
+      "model": "S30_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S7",
       "codename": "S7",
       "model": "S7"
@@ -54,6 +90,30 @@
       "market_name": "S8_EEA",
       "codename": "S8_EEA",
       "model": "S8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VANKYO_S7",
+      "codename": "VANKYO_S7",
+      "model": "VANKYO_S7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VANKYO_S7_EEA",
+      "codename": "VANKYO_S7_EEA",
+      "model": "VANKYO_S7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VANKYO_S8",
+      "codename": "VANKYO_S8",
+      "model": "VANKYO_S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VANKYO_S8_EEA",
+      "codename": "VANKYO_S8_EEA",
+      "model": "VANKYO_S8_EEA"
     },
     {
       "manufacturer": "",
@@ -78,6 +138,12 @@
       "market_name": "Z10",
       "codename": "Z10",
       "model": "Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z12",
+      "codename": "Z1",
+      "model": "Z1"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "221",
+      "codename": "221",
+      "model": "221"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BOLD",
+      "codename": "BOLD",
+      "model": "BOLD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BOLD PLUS",
+      "codename": "BOLD_PLUS",
+      "model": "BOLD_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Destiny",
       "codename": "Destiny",
       "model": "Destiny"
@@ -57,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S40_VISTA",
+      "codename": "S40_VISTA",
+      "model": "S40_VISTA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S49 ECO",
       "codename": "S49_ECO",
       "model": "S49 ECO"
@@ -78,6 +102,12 @@
       "market_name": "S49_POISE",
       "codename": "S49_POISE",
       "model": "S49_POISE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S49_cobalt",
+      "codename": "S49_cobalt",
+      "model": "S49 cobalt"
     },
     {
       "manufacturer": "",
@@ -198,6 +228,12 @@
       "market_name": "TAB2",
       "codename": "TAB2",
       "model": "TAB2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB4",
+      "codename": "TAB4",
+      "model": "TAB4"
     },
     {
       "manufacturer": "",

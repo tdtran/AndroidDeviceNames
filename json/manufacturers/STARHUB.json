@@ -6,6 +6,12 @@
       "market_name": "Android TV Set-Top Box",
       "codename": "KM_SH368AT",
       "model": "KM_SH368AT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NVSH800H1",
+      "codename": "NVSH800H1",
+      "model": "NVSH800H1"
     }
   ]
 }

@@ -1,5 +1,35 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9A",
+    "codename": "dandelion",
+    "model": "M2006C3LC"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9A",
+    "codename": "dandelion",
+    "model": "M2006C3LG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9A",
+    "codename": "dandelion",
+    "model": "M2006C3LI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9A",
+    "codename": "dandelion",
+    "model": "M2006C3LVG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9A",
+    "codename": "dandelion",
+    "model": "dandelion"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Zmax 3",
     "codename": "dandelion",

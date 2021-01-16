@@ -63,9 +63,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ERGO_V552_Intense",
+      "codename": "ERGO_V552_Intense",
+      "model": "ERGO V552 Intense"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ERGO_V600_Vega",
+      "codename": "ERGO_V600_Vega",
+      "model": "ERGO V600 Vega"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F501_Magic",
       "codename": "F501_Magic",
       "model": "F501_Magic"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet_PC",
+      "codename": "Tablet_PC",
+      "model": "Tablet_PC"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TriaPlay",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TriaPlayBox",
+      "codename": "TriaPlayBox",
+      "model": "TriaPlayBox"
+    }
+  ]
+}

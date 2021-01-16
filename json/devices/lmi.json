@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO F2 Pro",
+    "codename": "lmi",
+    "model": "POCO F2 Pro"
+  },
+  {
     "manufacturer": "Redmi",
     "market_name": "K30 PRO",
     "codename": "lmi",
@@ -10,17 +16,5 @@
     "market_name": "K30 PRO",
     "codename": "lmi",
     "model": "Redmi K30 Pro"
-  },
-  {
-    "manufacturer": "Xiaomi",
-    "market_name": "K30 PRO",
-    "codename": "lmi",
-    "model": "POCO F2 Pro"
-  },
-  {
-    "manufacturer": "Xiaomi",
-    "market_name": "K30 Pro",
-    "codename": "lmi",
-    "model": "POCO F2 Pro"
   }
 ]

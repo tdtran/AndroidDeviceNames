@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IFEEL MAX",
+      "codename": "TELMA_IFEEL_MAX",
+      "model": "TELMA IFEEL MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TELMA FEEL",
       "codename": "TELMA_FEEL",
       "model": "TELMA FEEL"
@@ -46,6 +52,18 @@
     {
       "manufacturer": "",
       "market_name": "Telma i401",
+      "codename": "telma_i401",
+      "model": "telma i401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telma_F1_Max_4G",
+      "codename": "Telma_F1_Max_4G",
+      "model": "Telma_F1_Max_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "telma_i401",
       "codename": "telma_i401",
       "model": "telma i401"
     }

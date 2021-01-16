@@ -18,6 +18,12 @@
       "market_name": "S4G",
       "codename": "S4G",
       "model": "S4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "X1",
+      "model": "X1"
     }
   ]
 }

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DG7TBIPSDG",
+      "codename": "DG7TBIPSDG",
+      "model": "DG7TBIPSDG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DG7TBIPSG",
       "codename": "DG7TBIPSG",
       "model": "DG7TBIPSG"
@@ -24,6 +30,12 @@
       "market_name": "DG7TBIPSPA",
       "codename": "DG7TBIPSPA",
       "model": "DG7TBIPSPA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dg_1522",
+      "codename": "Dg_1522",
+      "model": "Dg_1522"
     }
   ]
 }

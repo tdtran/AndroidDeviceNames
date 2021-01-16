@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A32 中国版",
+      "codename": "OP4E35",
+      "model": "PDVM00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A33",
       "codename": "A33",
       "model": "A33"
@@ -441,9 +447,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A52 中国版",
+      "codename": "OP4AE7",
+      "model": "PDAT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A53",
       "codename": "A53",
       "model": "OPPO A53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A53",
+      "codename": "OP4EFDL1",
+      "model": "CPH2127"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A53",
+      "codename": "OP4EFDL1",
+      "model": "CPH2131"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A53",
+      "codename": "OP4EFDL1",
+      "model": "CPH2133"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A53",
+      "codename": "OP4EFDL1",
+      "model": "CPH2139"
     },
     {
       "manufacturer": "",
@@ -462,6 +498,12 @@
       "market_name": "A53m",
       "codename": "A53",
       "model": "OPPO A53m"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A53s",
+      "codename": "OP4EFDL1",
+      "model": "CPH2135"
     },
     {
       "manufacturer": "",
@@ -690,6 +732,18 @@
       "market_name": "A92",
       "codename": "OP4C72L1",
       "model": "CPH2059"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A93",
+      "codename": "OP4C51L1",
+      "model": "CPH2121"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A93",
+      "codename": "OP4C51L1",
+      "model": "CPH2123"
     },
     {
       "manufacturer": "",
@@ -945,6 +999,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F17 Pro",
+      "codename": "OP4C51L1",
+      "model": "CPH2119"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F1f",
       "codename": "F1f",
       "model": "F1f"
@@ -1059,9 +1119,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Find X2 Lite",
+      "codename": "OP4C41L1",
+      "model": "CPH2005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X2 Neo/Reno3 Pro",
+      "codename": "OP4C2DL1",
+      "model": "CPH2009"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Find X2 Pro",
       "codename": "OP4BA2L1",
       "model": "CPH2025"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X2 Pro",
+      "codename": "OP4BA2L1",
+      "model": "OPG01"
     },
     {
       "manufacturer": "",
@@ -1185,6 +1263,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO Watch",
+      "codename": "beluga",
+      "model": "OPPO Watch"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Watch",
+      "codename": "orca",
+      "model": "OPPO Watch"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R1001",
       "codename": "OPPO72_13076",
       "model": "R1001"
@@ -1283,6 +1373,12 @@
       "manufacturer": "",
       "market_name": "R15 Pro",
       "codename": "CPH1833",
+      "model": "CPH1833"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R15 Pro",
+      "codename": "CPH1833L1",
       "model": "CPH1833"
     },
     {
@@ -2007,6 +2103,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Reno 4Z 5G",
+      "codename": "OP4BDCL1",
+      "model": "CPH2065"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno 5",
+      "codename": "OP4F25L1",
+      "model": "CPH2159"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Reno A",
       "codename": "OP47CFL1",
       "model": "CPH1983"
@@ -2016,6 +2124,12 @@
       "market_name": "Reno Ace",
       "codename": "OP4A89",
       "model": "PCLM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno Ace2",
+      "codename": "OP4AD9",
+      "model": "PDHM00"
     },
     {
       "manufacturer": "",
@@ -2079,9 +2193,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Reno3 5G",
+      "codename": "OP4C2DL1",
+      "model": "A001OP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Reno3 5G 中国版",
       "codename": "OP4ADD",
       "model": "PDCM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 A",
+      "codename": "OP4BAFL1",
+      "model": "A002OP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 A",
+      "codename": "OP4BAFL1",
+      "model": "CPH2013"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno3 Pro",
+      "codename": "OP4C2DL1",
+      "model": "CPH2009"
     },
     {
       "manufacturer": "",
@@ -2112,6 +2250,78 @@
       "market_name": "Reno3 元气版 5G",
       "codename": "OP4AB5",
       "model": "PCLM50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 5G",
+      "codename": "OP4C45L1",
+      "model": "CPH2091"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 F",
+      "codename": "OP4C51L1",
+      "model": "CPH2209"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 Lite",
+      "codename": "OP4C51L1",
+      "model": "CPH2125"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 Pro",
+      "codename": "OP4AF7",
+      "model": "PDNT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 Pro",
+      "codename": "OP4C87L1",
+      "model": "CPH2089"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 Pro 5G",
+      "codename": "OP4C87L1",
+      "model": "CPH2089"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 Pro 中国版",
+      "codename": "OP4AF7",
+      "model": "PDNM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 中国版",
+      "codename": "OP4A47",
+      "model": "PDPM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno4 中国版",
+      "codename": "OP4A47",
+      "model": "PDPT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno5",
+      "codename": "OP4F25L1",
+      "model": "CPH2159"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno5 Pro 5G",
+      "codename": "OP4EA3",
+      "model": "PDSM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno5 Pro 5G",
+      "codename": "OP4EA3",
+      "model": "PDST00"
     },
     {
       "manufacturer": "",

@@ -3,15 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tW7 Q",
+      "codename": "W7_Q",
+      "model": "W7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W1",
       "codename": "W1",
       "model": "W1"
     },
     {
       "manufacturer": "",
+      "market_name": "W4",
+      "codename": "W4",
+      "model": "W4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W4 EEA",
+      "codename": "W4",
+      "model": "W4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W6",
       "codename": "W6",
       "model": "W6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W7",
+      "codename": "W7",
+      "model": "W7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W7_Q_EEA",
+      "codename": "W7_Q",
+      "model": "W7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WX",
+      "codename": "WX",
+      "model": "WX"
     }
   ]
 }

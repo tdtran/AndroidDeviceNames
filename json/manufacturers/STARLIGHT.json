@@ -93,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Rumania",
+      "codename": "tamachi",
+      "model": "STARLIGHT Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rumania",
+      "codename": "yeongdeungpo",
+      "model": "STARLIGHT Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STAR PRO",
       "codename": "STAR_PRO",
       "model": "STAR PRO"
@@ -180,6 +192,12 @@
       "market_name": "star_plus_plus",
       "codename": "star_plus_plus",
       "model": "star_plus_plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "star_two",
+      "codename": "star_two",
+      "model": "star_two"
     }
   ]
 }

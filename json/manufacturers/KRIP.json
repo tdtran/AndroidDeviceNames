@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K4m",
+      "codename": "K4m",
+      "model": "K4m"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K5",
       "codename": "K5",
       "model": "K5"
@@ -21,9 +27,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K57",
+      "codename": "K57",
+      "model": "K57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K5b",
       "codename": "K5b",
       "model": "K5b"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K5c",
+      "codename": "K5c",
+      "model": "K5c"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K5d",
+      "codename": "K5d",
+      "model": "K5d"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K5m",
+      "codename": "K5m",
+      "model": "K5m"
     },
     {
       "manufacturer": "",
@@ -36,6 +66,12 @@
       "market_name": "K65",
       "codename": "K65",
       "model": "K65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K6b",
+      "codename": "K6b",
+      "model": "K6b"
     },
     {
       "manufacturer": "",

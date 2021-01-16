@@ -12,6 +12,12 @@
       "market_name": "Russia",
       "codename": "B866_MTS_IPTV",
       "model": "B866"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart_Bit",
+      "codename": "Smart_Bit",
+      "model": "Smart Bit"
     }
   ]
 }

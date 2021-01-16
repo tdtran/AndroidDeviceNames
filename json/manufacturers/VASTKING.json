@@ -1,0 +1,41 @@
+{
+  "manufacturer": "Vastking",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H20",
+      "codename": "H20",
+      "model": "H20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KindPad_SA8_EEA",
+      "codename": "KindPad_SA8_EEA",
+      "model": "KindPad_SA8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_SA10",
+      "codename": "KingPad_SA10",
+      "model": "KingPad_SA10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_SA10_EEA",
+      "codename": "KingPad_SA10_EEA",
+      "model": "KingPad_SA10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_SA8",
+      "codename": "KingPad_SA8",
+      "model": "KingPad_SA8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VZ-1",
+      "codename": "VZ-1",
+      "model": "VZ-1"
+    }
+  ]
+}

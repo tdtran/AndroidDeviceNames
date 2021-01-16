@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EAGLE1069",
+      "codename": "EAGLE_1069",
+      "model": "KM1069"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIVE 4 KM0438",
       "codename": "LIVE4_KM0438",
       "model": "LIVE4_KM0438"

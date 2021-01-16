@@ -6,6 +6,12 @@
       "market_name": "C330",
       "codename": "C330",
       "model": "C330"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rakuten Hand",
+      "codename": "P710",
+      "model": "P710"
     }
   ]
 }

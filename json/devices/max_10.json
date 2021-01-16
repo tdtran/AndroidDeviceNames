@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Dragontouch",
+    "market_name": "Dragon_Touch",
+    "codename": "MAX_10",
+    "model": "MAX_10"
+  },
+  {
+    "manufacturer": "Dragontouch",
     "market_name": "MAX_10",
     "codename": "MAX_10",
     "model": "MAX 10"

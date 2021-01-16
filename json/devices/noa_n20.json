@@ -4,5 +4,11 @@
     "market_name": "N20",
     "codename": "NOA_N20",
     "model": "N20"
+  },
+  {
+    "manufacturer": "NOA Mobile",
+    "market_name": "NOA_N20",
+    "codename": "NOA_N20",
+    "model": "N20"
   }
 ]

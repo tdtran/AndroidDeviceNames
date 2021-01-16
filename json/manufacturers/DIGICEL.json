@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DL3Plus",
+      "codename": "DL3Plus",
+      "model": "DL3PlusPro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DL3_3G",
       "codename": "DL3_3G",
       "model": "DL3_3G"

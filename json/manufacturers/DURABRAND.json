@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Durabrand",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Central America",
+      "codename": "hanyang",
+      "model": "Durabrand 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Central America",
+      "codename": "nippori",
+      "model": "Durabrand 2K Android TV"
+    }
+  ]
+}

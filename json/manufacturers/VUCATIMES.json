@@ -1,0 +1,77 @@
+{
+  "manufacturer": "VUCATIMES",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HAOQIN",
+      "codename": "E10",
+      "model": "E10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N10",
+      "codename": "N10",
+      "model": "N10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N10_EEA",
+      "codename": "N10",
+      "model": "N10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N7",
+      "codename": "N7",
+      "model": "N7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N8",
+      "codename": "N8",
+      "model": "N8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N8_EEA",
+      "codename": "N8_EEA",
+      "model": "N8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VUCATIMES",
+      "codename": "N7",
+      "model": "N7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VucaPad_N20",
+      "codename": "VucaPad_N20",
+      "model": "VucaPad_N20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VucaPad_N20_LTE",
+      "codename": "VucaPad_N20_LTE",
+      "model": "VucaPad_N20_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VucaPad_NS20",
+      "codename": "VucaPad_NS20",
+      "model": "VucaPad_NS20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VucaPad_NS20_EEA",
+      "codename": "VucaPad_NS20_EEA",
+      "model": "VucaPad_NS20_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vucatimes",
+      "codename": "VucaPad_N20_LTE_JP",
+      "model": "VucaPad_N20_LTE_JP"
+    }
+  ]
+}

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mexio",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nitro",
       "codename": "Nitro",
       "model": "Nitro"

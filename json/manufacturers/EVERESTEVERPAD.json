@@ -1,0 +1,23 @@
+{
+  "manufacturer": "EVEREST-EVERPAD",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DC-1032",
+      "codename": "mid1032_mk",
+      "model": "DC-1032"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DC-8015",
+      "codename": "mid7015_mk",
+      "model": "DC-8015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DC-M700",
+      "codename": "DC-M700",
+      "model": "DC-M700"
+    }
+  ]
+}

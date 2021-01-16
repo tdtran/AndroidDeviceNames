@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BIG1",
+      "codename": "BIG1",
+      "model": "BIG1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hermes",
       "codename": "Hermes",
       "model": "Hermes"
@@ -33,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q7_Tablet",
+      "codename": "Q7_Tablet",
+      "model": "Q7_Tablet"
+    },
+    {
+      "manufacturer": "",
       "market_name": "THOR",
       "codename": "THOR",
       "model": "THOR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X626",
+      "codename": "X626",
+      "model": "X626"
     }
   ]
 }

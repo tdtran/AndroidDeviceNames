@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PicassoTab_X",
+      "codename": "PicassoTab_X",
+      "model": "PicassoTab_X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TANGO",
       "codename": "TangoTab_9",
       "model": "TangoTab_9"
@@ -48,6 +54,12 @@
       "market_name": "TangoTab_364",
       "codename": "TangoTab_364",
       "model": "TangoTab_364"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TangoTab_X",
+      "codename": "TangoTab_X",
+      "model": "TangoTab_X"
     }
   ]
 }

@@ -36,6 +36,12 @@
       "market_name": "P-Ranger",
       "codename": "P-Ranger",
       "model": "P-Ranger_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P-Ranger",
+      "codename": "P-Ranger",
+      "model": "P-Ranger_RU"
     }
   ]
 }

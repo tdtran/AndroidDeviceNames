@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "ZTE Blade A7 2020",
+    "codename": "P662F02",
+    "model": "ZTE Blade A7 2020"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE Blade A7s",
     "codename": "P662F02",
     "model": "ZTE Blade A7s"

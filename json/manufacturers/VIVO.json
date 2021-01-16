@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tV2040",
+      "codename": "2040",
+      "model": "V2040"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1601",
       "codename": "1601",
       "model": "vivo 1601"
@@ -177,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V1901K",
+      "codename": "PD1901",
+      "model": "V1901A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1911A",
       "codename": "PD1911",
       "model": "V1911A"
@@ -237,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V1930",
+      "codename": "1930",
+      "model": "V1930"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1930A",
       "codename": "PD1930",
       "model": "V1930A"
@@ -264,6 +282,18 @@
       "market_name": "V1936AL",
       "codename": "PD1936G",
       "model": "V1936AL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1937",
+      "codename": "1920",
+      "model": "V1937"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1937",
+      "codename": "1937",
+      "model": "V1937"
     },
     {
       "manufacturer": "",
@@ -321,9 +351,297 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V1981A",
+      "codename": "PD1981",
+      "model": "V1981A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1986A",
+      "codename": "PD1986",
+      "model": "V1986A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1990A",
+      "codename": "PD1990",
+      "model": "V1990A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1Max",
       "codename": "Y37",
       "model": "vivo Y37"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2001A",
+      "codename": "PD2001",
+      "model": "V2001A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2002A",
+      "codename": "PD2002",
+      "model": "V2002A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2002A",
+      "codename": "PD2019",
+      "model": "V2002A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2002A",
+      "codename": "PD2019",
+      "model": "V2019A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2005A",
+      "codename": "PD2005",
+      "model": "V2005A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2006",
+      "codename": "2006",
+      "model": "V2006"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2011A",
+      "codename": "PD2011",
+      "model": "V2011A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2012A",
+      "codename": "PD2012",
+      "model": "V2012A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2020A",
+      "codename": "PD2020",
+      "model": "V2020A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2022",
+      "codename": "2023",
+      "model": "V2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2023",
+      "codename": "2023",
+      "model": "V2023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2023A",
+      "codename": "PD2023",
+      "model": "V2023A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2024",
+      "codename": "1920",
+      "model": "V2024"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2024A",
+      "codename": "PD2024",
+      "model": "V2024A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2025",
+      "codename": "2025",
+      "model": "V2025"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2025A",
+      "codename": "PD2024",
+      "model": "V2025A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2026",
+      "codename": "2026",
+      "model": "V2026"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2027",
+      "codename": "2027",
+      "model": "V2027"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2028",
+      "codename": "2027",
+      "model": "V2028"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2028",
+      "codename": "2028",
+      "model": "V2028"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2029",
+      "codename": "2027",
+      "model": "V2029"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2029_PK",
+      "codename": "2027",
+      "model": "V2029_PK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2030",
+      "codename": "2030",
+      "model": "V2030"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2031",
+      "codename": "2036",
+      "model": "V2031"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2031A",
+      "codename": "PD2031",
+      "model": "V2031A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2031EA",
+      "codename": "PD2031EA",
+      "model": "V2031EA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2031_21",
+      "codename": "2036",
+      "model": "V2031_21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2032",
+      "codename": "2027",
+      "model": "V2032"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2033",
+      "codename": "2034",
+      "model": "V2033"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2034",
+      "codename": "2034",
+      "model": "V2034"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2034A",
+      "codename": "PD2034",
+      "model": "V2034A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2035",
+      "codename": "2036",
+      "model": "V2035"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2036",
+      "codename": "2036",
+      "model": "V2031"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2036",
+      "codename": "2036",
+      "model": "V2036"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2036A",
+      "codename": "PD2036",
+      "model": "V2036A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2036_21",
+      "codename": "2036",
+      "model": "V2036_21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2040",
+      "codename": "2040",
+      "model": "V2040"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2042",
+      "codename": "2026",
+      "model": "V2042"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2043",
+      "codename": "2026",
+      "model": "V2043"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2052",
+      "codename": "2034",
+      "model": "V2052"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2054",
+      "codename": "2034",
+      "model": "V2054"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2057A",
+      "codename": "PD2057",
+      "model": "V2057A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2061A",
+      "codename": "PD2061",
+      "model": "V2061A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2065A",
+      "codename": "PD2065",
+      "model": "V2065A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2099A",
+      "codename": "PD2034D",
+      "model": "V2099A"
     },
     {
       "manufacturer": "",
@@ -396,6 +714,18 @@
       "market_name": "X5",
       "codename": "X5",
       "model": "vivo X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X50",
+      "codename": "2004",
+      "model": "vivo 2004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X50 Pro",
+      "codename": "2006",
+      "model": "vivo 2006"
     },
     {
       "manufacturer": "",
@@ -993,6 +1323,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo 1906",
+      "codename": "1906",
+      "model": "vivo 2007"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo 1907",
       "codename": "1907",
       "model": "vivo 1907"
@@ -1077,6 +1413,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo 1929",
+      "codename": "2015",
+      "model": "vivo 1929"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo 1933",
       "codename": "1933",
       "model": "vivo 1933"
@@ -1092,6 +1434,54 @@
       "market_name": "vivo 1937",
       "codename": "1937",
       "model": "vivo 1937"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1938",
+      "codename": "1938",
+      "model": "vivo 1938"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1940",
+      "codename": "1938",
+      "model": "vivo 1940"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 2005",
+      "codename": "2005",
+      "model": "vivo 2005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 2010",
+      "codename": "1902",
+      "model": "vivo 1902"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 2010",
+      "codename": "1902",
+      "model": "vivo 2010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 2015",
+      "codename": "2015",
+      "model": "vivo 2015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 2018",
+      "codename": "2018",
+      "model": "vivo 2018"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 2019",
+      "codename": "1938",
+      "model": "vivo 2019"
     },
     {
       "manufacturer": "",
@@ -1188,6 +1578,12 @@
       "market_name": "vivo X9s Plus",
       "codename": "PD1635",
       "model": "vivo X9s Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Y22",
+      "codename": "Y22",
+      "model": "vivo Y22"
     },
     {
       "manufacturer": "",

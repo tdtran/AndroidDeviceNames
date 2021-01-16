@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Nikkei",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NI32HG7NA9",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NI43UG7NA9",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

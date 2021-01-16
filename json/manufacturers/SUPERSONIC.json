@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SC-2109",
+      "codename": "SC-2109",
+      "model": "SC-2109"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SC-2110",
+      "codename": "SC-2110",
+      "model": "SC-2110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SC-4317BT",
       "codename": "SC-4317BT",
       "model": "SC-4317BT"
@@ -18,6 +30,12 @@
       "market_name": "SC-813",
       "codename": "SC-813",
       "model": "SC-813"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SC-9810",
+      "codename": "SC-9810",
+      "model": "SC-9810"
     },
     {
       "manufacturer": "",
@@ -48,6 +66,12 @@
       "market_name": "SC_774KT",
       "codename": "SC_774KT",
       "model": "SC_774KT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUPERSONIC",
+      "codename": "kanda",
+      "model": "SUPERSONIC 2K Smart TV"
     },
     {
       "manufacturer": "",

@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALIGATOR S6500",
+      "codename": "ALIGATOR_S6500",
+      "model": "ALIGATOR S6500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALIGATOR_RX710_EEA",
+      "codename": "ALIGATOR_RX710",
+      "model": "ALIGATOR RX710"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aligator S5066",
       "codename": "Aligator_S5066",
       "model": "Aligator_S5066"
@@ -54,6 +66,12 @@
       "market_name": "RX700",
       "codename": "RX700",
       "model": "RX700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4090",
+      "codename": "S4090",
+      "model": "S4090"
     },
     {
       "manufacturer": "",

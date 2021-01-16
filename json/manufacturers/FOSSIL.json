@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fossil Gen 5e",
+      "codename": "sole",
+      "model": "Fossil 5e"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fossil Gen 5e",
+      "codename": "sole",
+      "model": "Fossil SS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fossil Sport",
       "codename": "darter",
       "model": "Fadelite"
@@ -24,6 +36,12 @@
       "market_name": "Fossil Sport",
       "codename": "darter",
       "model": "MK Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fossil Sport",
+      "codename": "darter",
+      "model": "MKGO"
     },
     {
       "manufacturer": "",

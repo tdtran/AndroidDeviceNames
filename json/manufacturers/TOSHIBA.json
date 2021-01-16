@@ -285,12 +285,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Taiwan",
-      "codename": "laoshan",
-      "model": "U7900"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Thrive 7",
       "codename": "tostab04",
       "model": "AT1S0"
@@ -303,15 +297,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Toshiba_TV",
+      "codename": "MTK9652",
+      "model": "Toshiba_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Toshiba_TV",
+      "codename": "NOVA72685",
+      "model": "Toshiba_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "fushan_Toshiba",
+      "codename": "hamamatsucho",
+      "model": "HiSmart 2K ATV4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "fushan_euT",
       "codename": "hamamatsucho",
       "model": "Smart TV"
     },
     {
       "manufacturer": "",
+      "market_name": "laoshan_Toshiba",
+      "codename": "laoshan",
+      "model": "U7900"
+    },
+    {
+      "manufacturer": "",
       "market_name": "tt300/tt301/tt302",
       "codename": "Mozart",
       "model": "Mozart"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xiaoyushan_emT",
+      "codename": "xiaoyushan",
+      "model": "HiSmartTV A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xiaoyushan_etT",
+      "codename": "xiaoyushan",
+      "model": "HiSmartTV A4"
     }
   ]
 }

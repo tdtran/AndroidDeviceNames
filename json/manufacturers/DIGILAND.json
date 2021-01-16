@@ -22,6 +22,12 @@
     {
       "manufacturer": "",
       "market_name": "CompumaxBlue",
+      "codename": "mid1016_mk_64",
+      "model": "CompumaxBlue"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CompumaxBlue",
       "codename": "mid1024_e",
       "model": "Compumax_Blue_6030-805-0001"
     },
@@ -153,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Digiland_mid1032_mr",
+      "codename": "mid1032_mr",
+      "model": "DL1036"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EVERPAD",
       "codename": "EVERPAD",
       "model": "SC-725"
@@ -198,6 +210,12 @@
       "market_name": "NS-P16AT785HD",
       "codename": "MID7802RA",
       "model": "NS-P16AT785HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ONN",
+      "codename": "mid7015_mk_32",
+      "model": "100005206"
     },
     {
       "manufacturer": "",

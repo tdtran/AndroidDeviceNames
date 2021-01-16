@@ -243,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Titanium_S9Plus",
+      "codename": "Titanium_S9Plus",
+      "model": "Titanium_S9Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Titanium_S9_Plus",
       "codename": "Karbonn_Titanium_S9_Plus",
       "model": "Titanium_S9_Plus"

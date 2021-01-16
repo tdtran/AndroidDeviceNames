@@ -12,6 +12,18 @@
       "market_name": "S3mini",
       "codename": "S3mini",
       "model": "S3mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5_EEA",
+      "codename": "S5",
+      "model": "S5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "emporiaSMART.4",
+      "codename": "S4",
+      "model": "S4"
     }
   ]
 }

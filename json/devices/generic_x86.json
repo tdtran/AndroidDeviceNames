@@ -9,6 +9,12 @@
     "manufacturer": "Google",
     "market_name": "gcar emulator",
     "codename": "generic_x86",
+    "model": "AOSP on x86"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "gcar emulator",
+    "codename": "generic_x86",
     "model": "Automotive SDK built for x86"
   }
 ]

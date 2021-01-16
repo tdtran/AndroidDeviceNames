@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L55B",
+      "codename": "L55B",
+      "model": "L55B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L55SCLARO",
       "codename": "L55SCLARO",
       "model": "L55SCLARO"
@@ -30,6 +36,18 @@
       "market_name": "LOGIC L50T",
       "codename": "LOGIC_L50T",
       "model": "LOGIC L50T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC L61",
+      "codename": "LOGIC_L61",
+      "model": "LOGIC L61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_L4T_1",
+      "codename": "LOGIC_L4T",
+      "model": "LOGIC L4T"
     },
     {
       "manufacturer": "",
@@ -75,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10W",
+      "codename": "T10W",
+      "model": "LOGIC T10W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T3G",
       "codename": "T3G",
       "model": "T3G"
@@ -84,12 +108,6 @@
       "market_name": "T4G",
       "codename": "T4G",
       "model": "T4G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "T7W",
-      "codename": "T7W",
-      "model": "LOGIC T7W"
     },
     {
       "manufacturer": "",
@@ -111,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X50A",
+      "codename": "X50A",
+      "model": "X50A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X55G",
       "codename": "X55G",
       "model": "X55G"
@@ -126,6 +150,12 @@
       "market_name": "X55_PLUS_B18",
       "codename": "X55_PLUS",
       "model": "X55_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X57A",
+      "codename": "LOGIC_X57A",
+      "model": "LOGIC X57A"
     },
     {
       "manufacturer": "",

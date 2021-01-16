@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mione_PUBG_1",
+      "codename": "Mione_PUBG_1",
+      "model": "Mione_PUBG_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mione_Pro",
       "codename": "MIONEI",
       "model": "Mione_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mione_S20",
+      "codename": "mione_S20",
+      "model": "mione_S20"
     }
   ]
 }

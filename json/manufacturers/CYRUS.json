@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CM17XA",
+      "codename": "CM17XA",
+      "model": "CM17XA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM17XA_EEA",
+      "codename": "CM17XA",
+      "model": "CM17XA_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS22",
       "codename": "CS22",
       "model": "CS22"

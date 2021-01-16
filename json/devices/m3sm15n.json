@@ -4,5 +4,17 @@
     "market_name": "M3 SM15N",
     "codename": "M3SM15N",
     "model": "M3SM15N"
+  },
+  {
+    "manufacturer": "M3 Mobile",
+    "market_name": "M3SM15N",
+    "codename": "M3SM15N",
+    "model": "M3SM15N"
+  },
+  {
+    "manufacturer": "M3 Mobile",
+    "market_name": "M3SM15N_EEA",
+    "codename": "M3SM15N",
+    "model": "M3SM15N"
   }
 ]

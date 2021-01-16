@@ -237,6 +237,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX1078",
+      "codename": "Bmobile_AX1078_TG05",
+      "model": "AX1078"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1078",
+      "codename": "Bmobile_AX1078_TG07",
+      "model": "AX1078"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1078_OM",
+      "codename": "Bmobile_AX1078_OM",
+      "model": "AX1078"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1078_TG06",
+      "codename": "Bmobile_AX1078_TG06",
+      "model": "AX1078"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX1080",
       "codename": "Bmobile_AX1080",
       "model": "AX1080"
@@ -603,9 +627,93 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B50",
+      "codename": "Bmobile_B50",
+      "model": "B50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B50 PRO",
+      "codename": "Bmobile_B50Pro",
+      "model": "B50Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B50 PRO",
+      "codename": "Bmobile_B50Pro_MV03",
+      "model": "B50Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B50ProSS",
+      "codename": "Bmobile_B50ProSS",
+      "model": "B50Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B50_1",
+      "codename": "Bmobile_B50_1",
+      "model": "B50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B55",
+      "codename": "B55",
+      "model": "B55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B60Pro_DG",
+      "codename": "Bmobile_B60Pro_DG",
+      "model": "B60Pro_DG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B60Pro_MV03",
+      "codename": "B60Pro_MV03",
+      "model": "B60Pro_MV03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL54Pro",
+      "codename": "Bmobile_BL54Pro",
+      "model": "BL54Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL54_PRO_TG05",
+      "codename": "Bmobile_BL54_PRO_TG05",
+      "model": "BL54_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL60",
+      "codename": "Bmobile_BL60",
+      "model": "BL60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL60_TG05",
+      "codename": "Bmobile_BL60_TG05",
+      "model": "BL60_TG05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL60_TG17",
+      "codename": "Bmobile_BL60_TG17",
+      "model": "BL60_TG17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bella",
       "codename": "Bella",
       "model": "Bella"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmbile AX687",
+      "codename": "Bmobile_AX687",
+      "model": "AX687"
     },
     {
       "manufacturer": "",
@@ -663,6 +771,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bmobile_AX688",
+      "codename": "Bmobile_AX688",
+      "model": "AX688+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bmobile_AX751_PLUS",
       "codename": "Bmobile_AX751_PLUS",
       "model": "AX751+"
@@ -672,6 +786,12 @@
       "market_name": "Bmobile_AX752",
       "codename": "Bmobile_AX752",
       "model": "AX752"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmobile_B60Pro",
+      "codename": "Bmobile_B60Pro",
+      "model": "Bmobile_B60Pro"
     },
     {
       "manufacturer": "",

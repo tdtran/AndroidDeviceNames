@@ -36,6 +36,12 @@
     "model": "DV8219_SFR"
   },
   {
+    "manufacturer": "SFR.fr",
+    "market_name": "FR",
+    "codename": "DV8219",
+    "model": "DV8219_SFR"
+  },
+  {
     "manufacturer": "TekSavvy",
     "market_name": "TekSavvy_DV8219",
     "codename": "DV8219",

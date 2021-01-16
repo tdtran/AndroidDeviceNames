@@ -1,9 +1,45 @@
 [
   {
+    "manufacturer": "ANAM",
+    "market_name": "ANAM",
+    "codename": "seocho",
+    "model": "ANAM 4K Android TV"
+  },
+  {
+    "manufacturer": "Adonis",
+    "market_name": "Adonis",
+    "codename": "seocho",
+    "model": "Adonis 4K Android TV"
+  },
+  {
+    "manufacturer": "Cobia",
+    "market_name": "Cobia",
+    "codename": "seocho",
+    "model": "Cobia 4K Android TV"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "seocho",
     "model": "JVC 4K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "seocho",
+    "model": "JVC SA 4K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "seocho",
+    "model": "JVC US 4K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "seocho",
+    "model": "SA 4K Android TV"
   },
   {
     "manufacturer": "KONKA",
@@ -13,7 +49,13 @@
   },
   {
     "manufacturer": "MTC",
-    "market_name": "Hangsung",
+    "market_name": "ENTV",
+    "codename": "seocho",
+    "model": "ENTV 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "Hansung",
     "codename": "seocho",
     "model": "Hansung 4K Android TV"
   },
@@ -22,6 +64,30 @@
     "market_name": "SmartEver",
     "codename": "seocho",
     "model": "SmartEver 4K Android TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA",
+    "codename": "seocho",
+    "model": "RCA 4K Android TV"
+  },
+  {
+    "manufacturer": "Tecnomaster",
+    "market_name": "Tecnomaster",
+    "codename": "seocho",
+    "model": "Tecnomaster 4K Android TV"
+  },
+  {
+    "manufacturer": "Tvera",
+    "market_name": "Tvera",
+    "codename": "seocho",
+    "model": "Tvera 4K Android TV"
+  },
+  {
+    "manufacturer": "Tvstar",
+    "market_name": "TVSTAR",
+    "codename": "seocho",
+    "model": "TVSTAR 4K Android TV"
   },
   {
     "manufacturer": "Umax",

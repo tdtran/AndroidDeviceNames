@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M863",
+      "codename": "M863",
+      "model": "M863"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M863-EEA",
+      "codename": "M863-EEA",
+      "model": "M863-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N107",
       "codename": "N107",
       "model": "N107"
@@ -54,6 +66,18 @@
       "market_name": "ST-920",
       "codename": "ST-920",
       "model": "ST-920"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XQ107",
+      "codename": "XQ107",
+      "model": "XQ107"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XQ107-EEA",
+      "codename": "XQ107-EEA",
+      "model": "XQ107-EEA"
     }
   ]
 }

@@ -36,6 +36,12 @@
       "market_name": "Proline FalconXL",
       "codename": "Proline_FalconXL",
       "model": "Proline_FalconXL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "base10.3g silver",
+      "codename": "H1010",
+      "model": "H1010"
     }
   ]
 }

@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RS60",
+      "codename": "RS60",
+      "model": "RS60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RS80",
+      "codename": "RS80",
+      "model": "RS80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart-Ex 01",
       "codename": "XP7700Z1",
       "model": "Smart-Ex 01"

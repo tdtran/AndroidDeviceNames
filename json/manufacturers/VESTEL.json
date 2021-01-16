@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V TAB Z1",
+      "codename": "ATLAS",
+      "model": "V TAB Z1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V TAB c1",
       "codename": "MELTEM",
       "model": "V TAB c1"

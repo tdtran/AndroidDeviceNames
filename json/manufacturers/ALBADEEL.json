@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ALBADEEL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "B725050U",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B725U",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    }
+  ]
+}

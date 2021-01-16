@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amigo7xESP",
+      "codename": "Amigo7xESP",
+      "model": "Amigo7xESP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amigo7xGM",
+      "codename": "Amigo7xGM",
+      "model": "GO Android TV Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Amigo7xSCB",
       "codename": "Amigo7xSCB",
       "model": "Amigo7xSCB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amigo7xcCN",
+      "codename": "Amigo7xcCN",
+      "model": "Amigo7xcCN"
     },
     {
       "manufacturer": "",

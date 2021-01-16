@@ -447,6 +447,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAIWAN",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VZH",
       "codename": "VZH",
       "model": "VZH"

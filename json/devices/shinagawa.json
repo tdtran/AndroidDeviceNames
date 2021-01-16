@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Aiwa",
+    "market_name": "AIWA 2K TV",
+    "codename": "shinagawa",
+    "model": "AIWA 2K TV"
+  },
+  {
     "manufacturer": "AllView",
     "market_name": "Allview 2K TV",
     "codename": "shinagawa",
@@ -10,6 +16,18 @@
     "market_name": "Artel 2K TV",
     "codename": "shinagawa",
     "model": "Artel 2K TV"
+  },
+  {
+    "manufacturer": "ECHOSONIC",
+    "market_name": "EchosonicTV",
+    "codename": "shinagawa",
+    "model": "EchosonicTV"
+  },
+  {
+    "manufacturer": "Fresh",
+    "market_name": "FreshTV",
+    "codename": "shinagawa",
+    "model": "FreshTV"
   },
   {
     "manufacturer": "Iris",
@@ -28,5 +46,11 @@
     "market_name": "Tesla 2K TV",
     "codename": "shinagawa",
     "model": "Tesla 2K TV"
+  },
+  {
+    "manufacturer": "Yasin",
+    "market_name": "YASIN 2K TV",
+    "codename": "shinagawa",
+    "model": "YASIN 2K TV"
   }
 ]

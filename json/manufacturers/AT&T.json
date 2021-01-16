@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT\u0026T TV",
+      "codename": "c71kw400-4gb",
+      "model": "AT\u0026T TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QS5509A",
       "codename": "QS5509QL",
       "model": "QS5509A"
@@ -42,6 +48,18 @@
       "market_name": "U304AA",
       "codename": "U304AA",
       "model": "U304AA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U318AA",
+      "codename": "U318AA",
+      "model": "U318AA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U705AA",
+      "codename": "U705AA",
+      "model": "U705AA"
     }
   ]
 }

@@ -3,30 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "AP(Indonesia etc.)/MENA",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "AP(Indonesia etc.)/MENA",
-      "codename": "ikebukuro",
-      "model": "CHiQ AI Center"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "AP(Indonesia etc.)/MENA",
-      "codename": "samseong",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "AP(Indonesia etc.)/MENA",
-      "codename": "samseong",
-      "model": "CHiQ AI Center"
-    },
-    {
-      "manufacturer": "",
       "market_name": "GIU6060",
       "codename": "GIU6060",
       "model": "GIU6060"
@@ -36,6 +12,48 @@
       "market_name": "GIU6860",
       "codename": "GIU6860",
       "model": "GIU6860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Korea",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L32H7",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L32H7",
+      "codename": "ikebukuro",
+      "model": "CHiQ AI Center"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L42G6F",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U50H7",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U50H7",
+      "codename": "samseong",
+      "model": "CHiQ AI Center"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U58H7",
+      "codename": "sindorim",
+      "model": "AI PONT"
     }
   ]
 }

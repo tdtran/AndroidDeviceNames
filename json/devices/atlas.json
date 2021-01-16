@@ -4,5 +4,11 @@
     "market_name": "Atlas",
     "codename": "Atlas",
     "model": "Atlas"
+  },
+  {
+    "manufacturer": "Vestel",
+    "market_name": "V TAB Z1",
+    "codename": "ATLAS",
+    "model": "V TAB Z1"
   }
 ]

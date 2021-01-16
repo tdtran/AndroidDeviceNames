@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Avvio_A600",
+      "codename": "Avvio_A600",
+      "model": "Avvio_A600"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CHIVAS 50",
       "codename": "CHIVAS_50",
       "model": "CHIVAS_50"

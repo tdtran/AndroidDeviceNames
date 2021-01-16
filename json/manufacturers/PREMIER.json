@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MAXI 20",
+      "codename": "MAXI_20",
+      "model": "MAXI 20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB-7001-16G",
       "codename": "TAB-7001-16G",
       "model": "TAB-7001-16G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-7293-16G",
+      "codename": "TAB-7293-16G",
+      "model": "TAB-7293-16G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-7304-16G3GS",
+      "codename": "TAB-7304-16G3GS",
+      "model": "TAB-7304-16G3GS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-7383-16G3GS",
+      "codename": "TAB-7383-16G3GS",
+      "model": "TAB-7383-16G3GS"
     }
   ]
 }

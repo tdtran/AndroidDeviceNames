@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10HD_Lite",
+      "codename": "P10HD_Lite",
+      "model": "P10HD_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TM772",
       "codename": "TM772",
       "model": "TM772"

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Surface",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Surface Duo",
+      "codename": "duo",
+      "model": "Surface Duo"
+    }
+  ]
+}

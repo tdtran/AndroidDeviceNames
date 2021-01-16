@@ -6,6 +6,36 @@
       "market_name": "E101GC4G",
       "codename": "E101GC4G",
       "model": "E101GC4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E101GCM",
+      "codename": "E101GCM",
+      "model": "E101GCM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ET103G",
+      "codename": "ET103G",
+      "model": "ET103G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kidpad_M7",
+      "codename": "Kidpa_M7",
+      "model": "Kidpa_M7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_M30",
+      "codename": "Pad_M30",
+      "model": "Pad_M30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z8",
+      "codename": "Z8",
+      "model": "Z8"
     }
   ]
 }

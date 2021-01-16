@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "32FD1",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT750",
       "codename": "LT750",
       "model": "LT750"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMO D10",
+      "codename": "PRIMO_D10",
+      "model": "PRIMO D10"
     },
     {
       "manufacturer": "",
@@ -165,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo GH9",
+      "codename": "Primo_GH9",
+      "model": "Primo GH9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo GM2",
       "codename": "Primo_GM2",
       "model": "Primo GM2"
@@ -240,6 +258,18 @@
       "market_name": "Primo HM4i",
       "codename": "Primo_HM4i",
       "model": "Primo HM4i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo HM5",
+      "codename": "Primo_HM5",
+      "model": "Primo HM5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo HM6",
+      "codename": "Primo_HM6",
+      "model": "Primo HM6"
     },
     {
       "manufacturer": "",
@@ -360,6 +390,12 @@
       "market_name": "Primo RM2 mini",
       "codename": "WBW5616WA",
       "model": "Primo RM2 mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo RM4",
+      "codename": "Primo_RM4",
+      "model": "Primo RM4"
     },
     {
       "manufacturer": "",

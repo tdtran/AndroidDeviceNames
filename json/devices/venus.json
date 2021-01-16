@@ -16,5 +16,11 @@
     "market_name": "VENUS",
     "codename": "VENUS",
     "model": "VENUS"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 11",
+    "codename": "venus",
+    "model": "M2011K2C"
   }
 ]

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UNITEL_TAB_4G_H101",
+      "codename": "UNITEL_TAB_4G_H101",
+      "model": "UNITEL_TAB_4G_H101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Unitel_Smart_1",
       "codename": "Unitel_Smart_1",
       "model": "Unitel Smart 1"

@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A5+",
+      "codename": "Azumi_A5_P",
+      "model": "A5+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A50 Style Plus",
       "codename": "A50_Style_Plus",
       "model": "A50_Style_Plus"
@@ -114,6 +120,12 @@
       "market_name": "A5_AC11",
       "codename": "A5_AC11",
       "model": "A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5_P1",
+      "codename": "Azumi_A5_P1",
+      "model": "A5+"
     },
     {
       "manufacturer": "",
@@ -501,6 +513,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOBU_A55_PRO",
+      "codename": "NOBU_A55_PRO",
+      "model": "NOBU_A55_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nobu A55",
       "codename": "NOBU_A55",
       "model": "Azumi NOBU A55"
@@ -582,6 +600,12 @@
       "market_name": "V54_AC24",
       "codename": "Azumi_V54_AC24",
       "model": "V54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V55",
+      "codename": "Azumi_V55",
+      "model": "V55"
     },
     {
       "manufacturer": "",

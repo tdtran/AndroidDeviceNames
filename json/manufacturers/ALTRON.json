@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OB-1021",
+      "codename": "OB-1021",
+      "model": "OB-1021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OB-627",
       "codename": "OB-627",
       "model": "OB-627"
@@ -36,6 +42,12 @@
       "market_name": "OB_421",
       "codename": "OB_421",
       "model": "OB_421"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OB_627",
+      "codename": "OB_627",
+      "model": "OB_627"
     }
   ]
 }

@@ -4,5 +4,11 @@
     "market_name": "BOLT",
     "codename": "A24",
     "model": "Micromax A24"
+  },
+  {
+    "manufacturer": "Trident",
+    "market_name": "A24",
+    "codename": "A24",
+    "model": "A24"
   }
 ]

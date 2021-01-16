@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "KONKA",
+    "market_name": "SP10",
+    "codename": "SP10",
+    "model": "SP10"
+  },
+  {
     "manufacturer": "Unnion Technologies",
     "market_name": "Unnion SP10",
     "codename": "SP10",

@@ -1,0 +1,71 @@
+{
+  "manufacturer": "SWTV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Asia",
+      "codename": "SW3_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "SW3H_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "SW3_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20AE",
+      "codename": "SW4H",
+      "model": "SWTV-20AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20AE-PRO",
+      "codename": "SW4H_FF",
+      "model": "SWTV-20AE-PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20HK",
+      "codename": "SW4H",
+      "model": "SWTV-20HK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20N",
+      "codename": "SW4H",
+      "model": "SWTV-20NA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20SA",
+      "codename": "SW4H",
+      "model": "SWTV-20SA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South America",
+      "codename": "SW3_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV",
+      "codename": "SW3H_ATV",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Taiwan",
+      "codename": "SW3H_ATV",
+      "model": "SWTV"
+    }
+  ]
+}

@@ -9,15 +9,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1032",
+      "codename": "1032",
+      "model": "1032"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "3GR",
+      "codename": "Tech_Pad_3GR",
+      "model": "3GR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "3G_16",
+      "codename": "Tech_Pad_3G16",
+      "model": "3G_16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "816",
       "codename": "816",
       "model": "816"
     },
     {
       "manufacturer": "",
+      "market_name": "GamePad",
+      "codename": "GamePad",
+      "model": "GamePad"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K13",
       "codename": "K13",
       "model": "K13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M5Go",
+      "codename": "M5Go",
+      "model": "M5Go"
     },
     {
       "manufacturer": "",
@@ -54,6 +84,12 @@
       "market_name": "S6",
       "codename": "S6",
       "model": "S6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S813G",
+      "codename": "Tech_Pad_S813G",
+      "model": "S813G"
     },
     {
       "manufacturer": "",

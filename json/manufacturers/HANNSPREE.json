@@ -36,6 +36,18 @@
       "market_name": "HSG1376",
       "codename": "HSG1376_MT8163",
       "model": "HSG1376"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HSG1415",
+      "codename": "HSG1415",
+      "model": "HSG1415"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HSG1416",
+      "codename": "HANNSPAD",
+      "model": "HSG1416"
     }
   ]
 }

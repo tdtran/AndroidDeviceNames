@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M80_EEA",
+      "codename": "M80_EEA",
+      "model": "M80_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T30",
       "codename": "T30-EEA",
       "model": "T30-EEA"
@@ -42,6 +48,12 @@
       "market_name": "X108",
       "codename": "X108",
       "model": "X108"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X80-EEA",
+      "codename": "X80-EEA",
+      "model": "X80-EEA"
     }
   ]
 }

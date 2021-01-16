@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HZ1012",
+      "codename": "HZ1012",
+      "model": "HZ1012"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MA768",
+      "codename": "MA768",
+      "model": "MA768"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MR768",
       "codename": "MR768",
       "model": "MR768"

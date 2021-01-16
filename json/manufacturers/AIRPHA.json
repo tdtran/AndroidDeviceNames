@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Halo4 Pro",
+      "codename": "Halo4_Pro",
+      "model": "Halo4 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sense2",
       "codename": "Sense2",
       "model": "Sense2"

@@ -6,6 +6,12 @@
       "market_name": "K72P",
       "codename": "K72P",
       "model": "K72P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WINTOUCH_K702",
+      "codename": "WINTOUCH_K702",
+      "model": "K702"
     }
   ]
 }

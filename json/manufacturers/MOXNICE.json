@@ -1,0 +1,23 @@
+{
+  "manufacturer": "MOXNICE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P50-EEA",
+      "codename": "P50-EEA",
+      "model": "P50-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50-ROW",
+      "codename": "P50-ROW",
+      "model": "P50-ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P63_EEA",
+      "codename": "P63",
+      "model": "P63"
+    }
+  ]
+}

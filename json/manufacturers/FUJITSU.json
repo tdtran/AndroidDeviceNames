@@ -381,6 +381,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F-42A",
+      "codename": "F42A",
+      "model": "F-42A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-51A",
+      "codename": "F51A",
+      "model": "F-51A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FARTM9334P1",
       "codename": "FARTM9334",
       "model": "FARTM9334P1"
@@ -402,6 +414,18 @@
       "market_name": "FHMD001",
       "codename": "FHMD001",
       "model": "FHMD001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FMP179R",
+      "codename": "FMP179R",
+      "model": "FMP179R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FMP181L",
+      "codename": "FMP181L",
+      "model": "FMP181L"
     },
     {
       "manufacturer": "",
@@ -456,6 +480,12 @@
       "market_name": "Patio600",
       "codename": "Patio600",
       "model": "Patio600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Patio730",
+      "codename": "Patio730",
+      "model": "Patio730"
     },
     {
       "manufacturer": "",
@@ -555,6 +585,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "arrows Be4 F-41A",
+      "codename": "F41A",
+      "model": "F-41A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "arrows M02",
       "codename": "M02",
       "model": "M02"
@@ -582,6 +618,12 @@
       "market_name": "arrows M05",
       "codename": "arrowsM05",
       "model": "arrowsM05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows NX9 F-52A",
+      "codename": "F52A",
+      "model": "F-52A"
     },
     {
       "manufacturer": "",

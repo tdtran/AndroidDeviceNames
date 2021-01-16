@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A340",
+      "codename": "A340",
+      "model": "A340"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A345",
+      "codename": "A345",
+      "model": "A345"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AL140",
       "codename": "AL140",
       "model": "AL140"
@@ -93,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B17",
+      "codename": "B17",
+      "model": "B17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B245",
       "codename": "B245",
       "model": "B245"
@@ -102,6 +120,12 @@
       "market_name": "B260",
       "codename": "B260",
       "model": "B260"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B31",
+      "codename": "B31",
+      "model": "B31"
     },
     {
       "manufacturer": "",
@@ -123,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B38",
+      "codename": "B38",
+      "model": "B38"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B450",
       "codename": "B450",
       "model": "B450"
@@ -138,6 +168,12 @@
       "market_name": "BL155",
       "codename": "BL155",
       "model": "BL155"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL160",
+      "codename": "BL160",
+      "model": "BL160"
     },
     {
       "manufacturer": "",
@@ -375,6 +411,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EX111",
+      "codename": "EX111",
+      "model": "EX111"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G250",
       "codename": "G250",
       "model": "G250"
@@ -396,6 +438,12 @@
       "market_name": "G355",
       "codename": "G355",
       "model": "G355"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G450",
+      "codename": "G450",
+      "model": "G450"
     },
     {
       "manufacturer": "",
@@ -456,6 +504,18 @@
       "market_name": "H270",
       "codename": "H270",
       "model": "H270"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H310",
+      "codename": "H310",
+      "model": "H310"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H370",
+      "codename": "H370",
+      "model": "H370"
     },
     {
       "manufacturer": "",
@@ -531,9 +591,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L310i",
+      "codename": "L310i",
+      "model": "L310i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L370i",
       "codename": "L370i",
       "model": "L370i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L470",
+      "codename": "L470",
+      "model": "L470"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M170",
+      "codename": "M170",
+      "model": "M170"
     },
     {
       "manufacturer": "",
@@ -657,9 +735,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q180",
+      "codename": "Q180",
+      "model": "Q180"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q210",
       "codename": "Q210",
       "model": "Q210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q280",
+      "codename": "Q280",
+      "model": "Q280"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DRIVE 8",
+      "codename": "DRIVE_8",
+      "model": "DRIVE 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DRIVE_6",
       "codename": "DRIVE_6",
       "model": "DRIVE_6"
@@ -54,6 +60,12 @@
       "market_name": "EAGLE_962",
       "codename": "EAGLE_962",
       "model": "EAGLE_962"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eagle_702",
+      "codename": "Eagle_702",
+      "model": "KM0702"
     },
     {
       "manufacturer": "",
@@ -144,6 +156,18 @@
       "market_name": "LIVE_6plus",
       "codename": "LIVE_6plus",
       "model": "LIVE_6plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIVE_7",
+      "codename": "LIVE_7",
+      "model": "LIVE 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Live 8 EEA",
+      "codename": "Live_8",
+      "model": "Live 8"
     },
     {
       "manufacturer": "",

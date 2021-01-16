@@ -16,5 +16,11 @@
     "market_name": "OTH-100",
     "codename": "SEI103",
     "model": "OTH-100"
+  },
+  {
+    "manufacturer": "Shenzhen SEI Robotics",
+    "market_name": "SEI103V",
+    "codename": "SEI103",
+    "model": "ANDROID TV MEDIA BOX"
   }
 ]

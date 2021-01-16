@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGNO Tab",
+      "codename": "KYT34",
+      "model": "KYT34"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGNO V",
       "codename": "KYV42",
       "model": "KYV42_u"
@@ -288,6 +294,12 @@
       "market_name": "Event",
       "codename": "C5133",
       "model": "Event"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRATINA",
+      "codename": "KYV48",
+      "model": "KYV48"
     },
     {
       "manufacturer": "",
@@ -543,6 +555,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S8",
+      "codename": "S8-KC_sprout",
+      "model": "S8-KC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SZJ201",
       "codename": "SZJ201",
       "model": "SZJ-JS201"
@@ -714,6 +732,12 @@
       "market_name": "おてがるスマホ01",
       "codename": "KYV44_u2",
       "model": "KYV44_u2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "かんたんスマホ２",
+      "codename": "A001KC",
+      "model": "A001KC"
     }
   ]
 }

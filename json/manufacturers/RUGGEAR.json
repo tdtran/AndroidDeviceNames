@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RG725_P_EEA",
+      "codename": "RG725",
+      "model": "RG725"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RG725_P_ROW",
       "codename": "RG725",
       "model": "RG725"

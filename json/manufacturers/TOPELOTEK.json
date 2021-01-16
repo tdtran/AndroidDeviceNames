@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KIDS06",
+      "codename": "KIDS06",
+      "model": "KIDS06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIDS08-X8",
+      "codename": "KIDS08-X8",
+      "model": "KIDS08-X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIDS707",
+      "codename": "TOPELOTEK_KIDS707",
+      "model": "KIDS707"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KIDS708",
       "codename": "KIDS708",
       "model": "KIDS708"

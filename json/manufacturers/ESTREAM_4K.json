@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EVOPRO",
+      "codename": "SEI500EV",
+      "model": "EVOPRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IPA-1104HDH-01",
       "codename": "eSTREAM4K_4x4",
       "model": "IPA-1104HDH-01"
@@ -12,6 +18,66 @@
       "market_name": "IPA1104HDW-02",
       "codename": "kunlun",
       "model": "IPA1104HDW-02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis",
+      "codename": "SEI500TV",
+      "model": "Pyxis"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-ARMSTRONG",
+      "codename": "SEI500AS",
+      "model": "Pyxis-ARMSTRONG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-BlueRidge",
+      "codename": "SEI500BR",
+      "model": "Pyxis-BlueRidge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-BlueStream",
+      "codename": "SEI500BS",
+      "model": "Pyxis-BlueStream"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-CBT",
+      "codename": "SEI500CB",
+      "model": "Pyxis-CBT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-GRANDE",
+      "codename": "SEI500GD",
+      "model": "Pyxis-GRANDE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-MetroNet",
+      "codename": "SEI500MN",
+      "model": "Pyxis-MetroNet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-Midco",
+      "codename": "SEI500MC",
+      "model": "Pyxis-Midco"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-RCN",
+      "codename": "SEI500RCN",
+      "model": "Pyxis-RCN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pyxis-SECV",
+      "codename": "SEI500SECV",
+      "model": "Pyxis-SECV"
     }
   ]
 }

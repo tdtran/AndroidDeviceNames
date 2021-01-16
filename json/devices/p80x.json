@@ -10,5 +10,17 @@
     "market_name": "P80X_EEA",
     "codename": "P80X",
     "model": "P80X"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P80X_EEA",
+    "codename": "P80X",
+    "model": "P80X_EEA"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "P80X_ROW",
+    "codename": "P80X",
+    "model": "P80X"
   }
 ]

@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M50",
+      "codename": "M50",
+      "model": "M50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50C",
+      "codename": "M50C",
+      "model": "M50C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PayPoint® Plus for Android",
       "codename": "Elo-PP3-15",
       "model": "Elo-PP3-15"

@@ -1,0 +1,35 @@
+{
+  "manufacturer": "ZUOPU",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "JH101",
+      "codename": "JH101",
+      "model": "JH101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JH103",
+      "codename": "JH103",
+      "model": "JH103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JH105",
+      "codename": "JH105",
+      "model": "JH105"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JH786",
+      "codename": "JH786",
+      "model": "JH786"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JH863",
+      "codename": "JH863",
+      "model": "JH863"
+    }
+  ]
+}

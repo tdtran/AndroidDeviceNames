@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Point_X503",
+      "codename": "Point_X503",
+      "model": "Point_X503"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TPC-102_4G_eea",
       "codename": "TPC-102_4G",
       "model": "VIVAX TPC-102 4G"
@@ -42,6 +48,18 @@
       "market_name": "TPC_8053G",
       "codename": "TPC_8053G",
       "model": "TPC_8053G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPC_8063G",
+      "codename": "TPC_8063G",
+      "model": "TPC_8063G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVAX Fly6",
+      "codename": "VIVAX_Fly6",
+      "model": "VIVAX Fly6"
     },
     {
       "manufacturer": "",

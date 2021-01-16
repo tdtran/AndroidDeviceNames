@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Newland NLS-MT90",
+      "codename": "NLS-MT90-GL",
+      "model": "NLS-MT90"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Newland NLS-N7",
       "codename": "NLS-N7-GL",
       "model": "NLS-N7"

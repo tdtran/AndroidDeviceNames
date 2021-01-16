@@ -4,5 +4,11 @@
     "market_name": "M6 Note",
     "codename": "M6Note",
     "model": "M6 Note"
+  },
+  {
+    "manufacturer": "Meizu",
+    "market_name": "meizu M6 Note",
+    "codename": "M6Note",
+    "model": "M6 Note"
   }
 ]

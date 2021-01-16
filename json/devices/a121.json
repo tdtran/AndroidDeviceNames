@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Acepad",
+    "market_name": "A121",
+    "codename": "A121",
+    "model": "A121"
+  },
+  {
     "manufacturer": "Micromax",
     "market_name": "CANVAS ELANZA 2",
     "codename": "A121",

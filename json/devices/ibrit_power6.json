@@ -4,5 +4,11 @@
     "market_name": "IBRIT_POWER6",
     "codename": "iBRIT_POWER6",
     "model": "iBRIT_POWER6"
+  },
+  {
+    "manufacturer": "iBRIT",
+    "market_name": "iBRIT_POWER6",
+    "codename": "iBRIT_POWER6",
+    "model": "iBRIT_POWER6"
   }
 ]

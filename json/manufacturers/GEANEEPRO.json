@@ -1,0 +1,17 @@
+{
+  "manufacturer": "geaneePro",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "JT10-X",
+      "codename": "JT10-X",
+      "model": "JT10-X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JT70-X",
+      "codename": "JT07-X",
+      "model": "JT07-X"
+    }
+  ]
+}

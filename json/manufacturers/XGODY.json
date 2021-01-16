@@ -27,6 +27,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XGT-T901-A",
+      "codename": "XGT-T901-A",
+      "model": "XGT-T901-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XGT-T901-E",
+      "codename": "XGT-T901-E",
+      "model": "XGT-T901-E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XGTB-A",
+      "codename": "XGTB-A",
+      "model": "XGTB-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XGTB-E",
+      "codename": "XGTB-E",
+      "model": "XGTB-E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XGT_EEA",
       "codename": "XGT_EEA",
       "model": "XGT_EEA"

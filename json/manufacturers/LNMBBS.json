@@ -1,0 +1,23 @@
+{
+  "manufacturer": "LNMBBS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H11-EEA",
+      "codename": "H11-EEA",
+      "model": "H11-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P40-EEA",
+      "codename": "P40-EEA",
+      "model": "P40-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P401",
+      "codename": "P401",
+      "model": "P401"
+    }
+  ]
+}

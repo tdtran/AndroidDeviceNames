@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BlackTab7_3G_V2",
+      "codename": "BlackTab7_3G_V2",
+      "model": "BlackTab7_3G_V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KidsTAB7_EEA",
       "codename": "KidsTAB7",
       "model": "KidsTAB7"
@@ -24,6 +30,24 @@
       "market_name": "PlatinumTAB10",
       "codename": "PlatinumTAB10",
       "model": "PlatinumTAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PlatinumTAB10_4G_V1",
+      "codename": "PlatinumTAB10_4G_V1",
+      "model": "PlatinumTAB10_4G_V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PlatinumTAB10_4G_V2",
+      "codename": "PlatinumTAB10_4G_V2",
+      "model": "PlatinumTAB10_4G_V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PlatinumTAB10_4G_V3",
+      "codename": "PlatinumTAB10_4G_V3",
+      "model": "PlatinumTAB10_4G_V3"
     }
   ]
 }

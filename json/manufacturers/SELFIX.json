@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ES733",
+      "codename": "ES733",
+      "model": "ES733"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SELFIX_ES732_EXPERIUS",
       "codename": "EXPERIUS",
       "model": "SELFIX_ES732_EXPERIUS"

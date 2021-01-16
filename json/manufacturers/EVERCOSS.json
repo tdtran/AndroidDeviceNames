@@ -93,6 +93,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M60",
+      "codename": "M60",
+      "model": "M60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6A",
+      "codename": "M6A",
+      "model": "M6A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M70",
       "codename": "M70",
       "model": "M70"
@@ -180,6 +198,12 @@
       "market_name": "S57",
       "codename": "S57",
       "model": "S57"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6",
+      "codename": "S6",
+      "model": "S6"
     },
     {
       "manufacturer": "",
@@ -312,6 +336,18 @@
       "market_name": "X8",
       "codename": "X8",
       "model": "X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8_3gb",
+      "codename": "X8_3gb",
+      "model": "X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X9",
+      "codename": "X9",
+      "model": "X9"
     }
   ]
 }

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "India",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
+      "market_name": "50F1",
+      "codename": "gangbyeon",
+      "model": "4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX2020",
+      "codename": "RMX2020",
+      "model": "RMX2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX2040",
+      "codename": "RMX2040",
+      "model": "RMX2040"
     },
     {
       "manufacturer": "",
@@ -48,6 +60,12 @@
       "market_name": "realme 5",
       "codename": "RMX1926",
       "model": "RMX1926"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 5",
+      "codename": "RMX1927",
+      "model": "RMX1927"
     },
     {
       "manufacturer": "",
@@ -106,8 +124,26 @@
     {
       "manufacturer": "",
       "market_name": "realme 6",
+      "codename": "RMX2002L1",
+      "model": "RMX2002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 6",
       "codename": "RMX2003L1",
       "model": "RMX2003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 6Pro",
+      "codename": "RMX2061L1",
+      "model": "RMX2061"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 6Pro",
+      "codename": "RMX2063L1",
+      "model": "RMX2063"
     },
     {
       "manufacturer": "",
@@ -132,6 +168,24 @@
       "market_name": "realme 6i",
       "codename": "RMX2042",
       "model": "RMX2042"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 6s",
+      "codename": "RMX2002L1",
+      "model": "RMX2002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 7 Pro",
+      "codename": "RMX2170L1",
+      "model": "RMX2170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C17",
+      "codename": "RE50BF",
+      "model": "RMX2101"
     },
     {
       "manufacturer": "",
@@ -165,9 +219,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme C3i",
+      "codename": "RMX2027",
+      "model": "RMX2027"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme Q",
       "codename": "RMX1971CN",
       "model": "RMX1971"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme Smart TV",
+      "codename": "SW4H_FF",
+      "model": "realme Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme TV",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme TV 32",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme V3  5G",
+      "codename": "RMX2200CN",
+      "model": "RMX2200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme V3 5G",
+      "codename": "RMX2201CN",
+      "model": "RMX2201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme V5 5G",
+      "codename": "RMX2111CN",
+      "model": "RMX2111"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme V5 5G",
+      "codename": "RMX2112CN",
+      "model": "RMX2112"
     },
     {
       "manufacturer": "",
@@ -201,6 +303,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme X3",
+      "codename": "RMX2081L1",
+      "model": "RMX2081"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X3",
+      "codename": "RMX2083L1",
+      "model": "RMX2083"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X3",
+      "codename": "RMX2085L1",
+      "model": "RMX2085"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X3",
+      "codename": "RMX2086L1",
+      "model": "RMX2086"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50 5G",
+      "codename": "RMX2144L1",
+      "model": "RMX2144"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme X50 5G 移动版",
       "codename": "RMX2025CN",
       "model": "RMX2025"
@@ -214,8 +346,62 @@
     {
       "manufacturer": "",
       "market_name": "realme X50 Pro",
+      "codename": "RMX2075L1",
+      "model": "RMX2075"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50 Pro",
       "codename": "RMX2076L1",
       "model": "RMX2076"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50 Pro Play",
+      "codename": "RMX2072CN",
+      "model": "RMX2072"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50m 5G",
+      "codename": "RE508C",
+      "model": "RMX2141"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50m 5G",
+      "codename": "RE508C",
+      "model": "RMX2142"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50m 5G",
+      "codename": "RMX2141CN",
+      "model": "RMX2141"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50m 5G",
+      "codename": "RMX2142CN",
+      "model": "RMX2142"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50t 5G",
+      "codename": "RE508C",
+      "model": "RMX2052"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X50t 5G",
+      "codename": "RMX2052CN",
+      "model": "RMX2052"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X7 5G",
+      "codename": "RMX2176CN",
+      "model": "RMX2176"
     },
     {
       "manufacturer": "",
@@ -234,6 +420,30 @@
       "market_name": "realme XT",
       "codename": "RMX1922",
       "model": "RMX1922"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme narzo 20A",
+      "codename": "RMX2050",
+      "model": "RMX2050"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme  X7 Pro ",
+      "codename": "RMX2121CN",
+      "model": "RMX2121"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 7i",
+      "codename": "RE50C1",
+      "model": "RMX2103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 7i",
+      "codename": "RE50C1",
+      "model": "RMX2104"
     }
   ]
 }

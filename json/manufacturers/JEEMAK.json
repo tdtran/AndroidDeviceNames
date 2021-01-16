@@ -1,0 +1,17 @@
+{
+  "manufacturer": "JEEMAK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M70",
+      "codename": "M70",
+      "model": "M70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M70E",
+      "codename": "M70E",
+      "model": "M70E"
+    }
+  ]
+}

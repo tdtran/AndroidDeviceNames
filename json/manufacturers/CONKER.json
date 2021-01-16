@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CONKER",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ST60",
+      "codename": "ST_60",
+      "model": "ST 60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SX50",
+      "codename": "SX50",
+      "model": "SX50"
+    }
+  ]
+}

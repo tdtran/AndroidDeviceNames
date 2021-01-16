@@ -1,0 +1,17 @@
+{
+  "manufacturer": "iCare",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "iCare07",
+      "codename": "iCare07",
+      "model": "iCare07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iCare10",
+      "codename": "iCare10",
+      "model": "iCare10"
+    }
+  ]
+}

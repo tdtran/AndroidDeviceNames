@@ -1,0 +1,44 @@
+[
+  {
+    "manufacturer": "Motorola",
+    "market_name": "FlipkartTV",
+    "codename": "SW4H",
+    "model": "FlipkartTV"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "4KTV-0SU",
+    "codename": "SW4H",
+    "model": "4KTV-0SU"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "4KTV-0SUW",
+    "codename": "SW4H",
+    "model": "4KTV-0SUW"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20AE",
+    "codename": "SW4H",
+    "model": "SWTV-20AE"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20HK",
+    "codename": "SW4H",
+    "model": "SWTV-20HK"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20N",
+    "codename": "SW4H",
+    "model": "SWTV-20NA"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20SA",
+    "codename": "SW4H",
+    "model": "SWTV-20SA"
+  }
+]

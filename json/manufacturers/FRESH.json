@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Fresh",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FreshTV",
+      "codename": "shinagawa",
+      "model": "FreshTV"
+    }
+  ]
+}

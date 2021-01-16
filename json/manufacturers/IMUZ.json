@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "muPAD L10",
+      "codename": "muPAD_L10",
+      "model": "muPAD L10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "muPADT7",
       "codename": "muPADT7",
       "model": "muPADT7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "muPAD_K10",
+      "codename": "muPAD_K10",
+      "model": "muPAD_K10"
     }
   ]
 }

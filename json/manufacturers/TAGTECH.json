@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TAG Phone",
+      "codename": "TAG_Phone",
+      "model": "TAG_Phone"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAG-TAB-III",
+      "codename": "TAG-TAB-III",
+      "model": "TAG-TAB-III"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAG-TABKIDS",
+      "codename": "TAG-TABKIDS",
+      "model": "TT-III"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAG_TAB_II",
       "codename": "TAG_TAB_II",
       "model": "TAG TAB II"

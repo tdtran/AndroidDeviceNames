@@ -6,6 +6,36 @@
     "model": "AQUA Android TV 2K"
   },
   {
+    "manufacturer": "Bauhn",
+    "market_name": "Australia",
+    "codename": "nippori",
+    "model": "Bauhn Android TV 2K"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Australia",
+    "codename": "nippori",
+    "model": "BP Android TV 2K"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Czech/Ukraine/Russia",
+    "codename": "nippori",
+    "model": "BLAUPUNKT Android TV 2K"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Ecuador",
+    "codename": "nippori",
+    "model": "BP 2K Android TV"
+  },
+  {
+    "manufacturer": "Durabrand",
+    "market_name": "Central America",
+    "codename": "nippori",
+    "model": "Durabrand 2K Android TV"
+  },
+  {
     "manufacturer": "EKO",
     "market_name": "Australia",
     "codename": "nippori",
@@ -22,6 +52,12 @@
     "market_name": "APAC",
     "codename": "nippori",
     "model": "haierATVnippori"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "EU",
+    "codename": "nippori",
+    "model": "HEC Android TV 2K"
   },
   {
     "manufacturer": "Haier",
@@ -52,5 +88,11 @@
     "market_name": "Australia",
     "codename": "nippori",
     "model": "Svision Android TV 2K"
+  },
+  {
+    "manufacturer": "Unionaire",
+    "market_name": "Africa",
+    "codename": "nippori",
+    "model": "Unionaire Android TV 2K"
   }
 ]

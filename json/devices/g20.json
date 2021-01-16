@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hafury",
+    "market_name": "G20",
+    "codename": "G20",
+    "model": "G20"
+  },
+  {
     "manufacturer": "Infocus",
     "market_name": "M530",
     "codename": "G20",

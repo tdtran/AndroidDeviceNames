@@ -87,6 +87,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C19",
+      "codename": "C19",
+      "model": "C19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C19 Pro",
+      "codename": "C19_Pro",
+      "model": "C19 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C19 Pro_ROW",
+      "codename": "C19_Pro",
+      "model": "C19 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C21",
+      "codename": "C21",
+      "model": "C21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C22",
+      "codename": "C22",
+      "model": "C22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -196,6 +226,12 @@
     {
       "manufacturer": "",
       "market_name": "K7 Power",
+      "codename": "K7_Power",
+      "model": "K7 Power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K7_Power",
       "codename": "K7_Power",
       "model": "K7 Power"
     },
@@ -327,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP5 Pro",
+      "codename": "WP5_Pro",
+      "model": "WP5 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP5000",
       "codename": "WP5000",
       "model": "WP5000"
@@ -339,13 +381,37 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP6_EEA",
+      "codename": "WP6",
+      "model": "WP6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP7",
       "codename": "WP7",
       "model": "WP7"
     },
     {
       "manufacturer": "",
+      "market_name": "WP8_Pro",
+      "codename": "WP8_Pro",
+      "model": "WP8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y1000",
+      "codename": "Y1000",
+      "model": "Y1000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y4800",
+      "codename": "Y4800",
+      "model": "Y4800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y4800_EEA",
       "codename": "Y4800",
       "model": "Y4800"
     }

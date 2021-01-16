@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A45",
+      "codename": "A45_1",
+      "model": "A45"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A4G",
       "codename": "A4G",
       "model": "A4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS6",
+      "codename": "AS6",
+      "model": "AS6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASPERA R9",
+      "codename": "R9",
+      "model": "ASPERA_R9"
     },
     {
       "manufacturer": "",

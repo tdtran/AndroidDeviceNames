@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Bell Canada",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Bell Streamer",
+      "codename": "sti6130d324",
+      "model": "Bell Streamer"
+    }
+  ]
+}

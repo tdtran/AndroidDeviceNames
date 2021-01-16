@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "3T10 WIFI KDDI",
+      "codename": "Aquaman_10_KDDI",
+      "model": "8194"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Beyond TV",
       "codename": "BeyondTV",
       "model": "BeyondTV"
@@ -15,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BeyondTV4",
+      "codename": "BeyondTV4",
+      "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BeyondTV5",
       "codename": "BeyondTV",
       "model": "BeyondTV5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BeyondTV6",
+      "codename": "BeyondTV4",
+      "model": "Smart TV Pro"
     },
     {
       "manufacturer": "",
@@ -30,6 +48,12 @@
       "market_name": "GO5c",
       "codename": "U3A_PLUS_4G",
       "model": "5033E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HotelTV",
+      "codename": "HotelTV",
+      "model": "WelcomeTV"
     },
     {
       "manufacturer": "",
@@ -93,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "BeyondTV4",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smartphone",
       "codename": "A5A_INFINI",
       "model": "5086D"
@@ -111,6 +141,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 10 5G",
+      "codename": "Seattle",
+      "model": "T790B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 5G",
+      "codename": "Seattle",
+      "model": "T790H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 5G",
+      "codename": "Seattle",
+      "model": "T790Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 Plus",
+      "codename": "Boston",
+      "model": "T782H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 Plus",
+      "codename": "Boston",
+      "model": "T782P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 10 Pro",
       "codename": "T1_PRO",
       "model": "T799B"
@@ -123,6 +183,78 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766H_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766H_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766H_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
+      "model": "T766U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX 4G",
+      "codename": "Transformer_4G",
+      "model": "9295G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX 4G",
+      "codename": "Transformer_4G",
+      "model": "9295G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX WIFI",
+      "codename": "Transformer_WIFI",
+      "model": "9296X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX WIFI",
+      "codename": "Transformer_WIFI",
+      "model": "9296X_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 10L",
       "codename": "T1_LITE",
       "model": "T770B"
@@ -132,6 +264,60 @@
       "market_name": "TCL 10L",
       "codename": "T1_LITE",
       "model": "T770H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20 5G",
+      "codename": "Irvine",
+      "model": "T781"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20 Pro 5G",
+      "codename": "Ottawa",
+      "model": "T810H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20 SE",
+      "codename": "Austin",
+      "model": "T671E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20 SE",
+      "codename": "Austin",
+      "model": "T671F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20 SE",
+      "codename": "Austin",
+      "model": "T671H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20E",
+      "codename": "HONG_KONG",
+      "model": "6125A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20E",
+      "codename": "HONG_KONG",
+      "model": "6125D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20E",
+      "codename": "HONG_KONG",
+      "model": "6125F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20S",
+      "codename": "Miami_Pro",
+      "model": "T773O"
     },
     {
       "manufacturer": "",
@@ -171,9 +357,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL L10 Lite",
+      "codename": "Jakarta_Lite",
+      "model": "4187M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10 Lite",
+      "codename": "Jakarta_Lite",
+      "model": "4187U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Jakarta",
+      "model": "5030E_TCL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Jakarta",
+      "model": "5130E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Jakarta",
+      "model": "5130G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Jakarta",
+      "model": "5130I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL L10+",
       "codename": "Jakarta",
       "model": "5130J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10+",
+      "codename": "Jakarta",
+      "model": "5130K"
     },
     {
       "manufacturer": "",
@@ -197,13 +425,31 @@
       "manufacturer": "",
       "market_name": "TCL L7",
       "codename": "Seoul",
+      "model": "5102B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L7",
+      "codename": "Seoul",
       "model": "5102I"
     },
     {
       "manufacturer": "",
       "market_name": "TCL L7",
       "codename": "Seoul",
+      "model": "5102K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L7",
+      "codename": "Seoul",
       "model": "5102M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L7",
+      "codename": "Seoul",
+      "model": "5102P"
     },
     {
       "manufacturer": "",
@@ -243,6 +489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL NXTPAPAER 8.88",
+      "codename": "Da_Vinci",
+      "model": "9288A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL PLEX",
       "codename": "T1",
       "model": "T780H"
@@ -256,8 +508,20 @@
     {
       "manufacturer": "",
       "market_name": "TCL T Pro",
+      "codename": "Jakarta",
+      "model": "5130M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL T Pro",
       "codename": "Milan",
       "model": "5161A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL T Pro",
+      "codename": "Milan",
+      "model": "5161K"
     },
     {
       "manufacturer": "",
@@ -282,6 +546,72 @@
       "market_name": "TCL T9x",
       "codename": "TokyoPro",
       "model": "5129Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB",
+      "codename": "Thor_8_4G_VZW",
+      "model": "9048S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10 4G",
+      "codename": "Aquaman_10_4G",
+      "model": "8094X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10 HD 4G",
+      "codename": "Aquaman_10_Pro",
+      "model": "9060X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10 HD 4G",
+      "codename": "Aquaman_10_Pro",
+      "model": "9060X_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10 SMART",
+      "codename": "Aquaman_10_4G",
+      "model": "8094T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10s",
+      "codename": "Aquaman_10_Pro",
+      "model": "9061"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10s",
+      "codename": "Odin",
+      "model": "9081X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10s 4G",
+      "codename": "Odin",
+      "model": "9080G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10s 4G",
+      "codename": "Odin",
+      "model": "9080X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8 4G",
+      "codename": "Apollo_8_4G",
+      "model": "9032X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB kids",
+      "codename": "Thor_8_4G_VZW",
+      "model": "9049L"
     },
     {
       "manufacturer": "",

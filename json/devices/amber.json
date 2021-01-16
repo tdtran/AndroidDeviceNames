@@ -4,5 +4,11 @@
     "market_name": "Amber",
     "codename": "Amber",
     "model": "YNDX-000SB"
+  },
+  {
+    "manufacturer": "Yandex",
+    "market_name": "YNDX-000SB",
+    "codename": "Amber",
+    "model": "YNDX-000SB"
   }
 ]

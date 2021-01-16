@@ -63,6 +63,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Magnet_G10",
+      "codename": "Magnet_G10",
+      "model": "Magnet_G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnet_G30_EEA",
+      "codename": "Magnet_G30",
+      "model": "Magnet_G30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnet_G50",
+      "codename": "Magnet_G50",
+      "model": "Magnet_G50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Magnet_M1",
       "codename": "Magnet_M1",
       "model": "Magnet M1"
@@ -72,6 +90,12 @@
       "market_name": "Magnet_M10",
       "codename": "Magnet_M10",
       "model": "Magnet_M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnet_M10_2020",
+      "codename": "Magnet_M10_2020",
+      "model": "Magnet_M10_2020"
     },
     {
       "manufacturer": "",
@@ -183,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pluri_M8_2020_A10",
+      "codename": "Pluri_M8_2020_A10",
+      "model": "Pluri_M8_2020_A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Volt S",
       "codename": "Volt_S",
       "model": "Volt S"
@@ -216,6 +246,12 @@
       "market_name": "Xavy T7 A6",
       "codename": "Xavy_T7",
       "model": "Xavy_T7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xavy_G8",
+      "codename": "Xavy_G8",
+      "model": "Xavy_G8"
     },
     {
       "manufacturer": "",
@@ -294,6 +330,12 @@
       "market_name": "Zun_N",
       "codename": "Zun_N",
       "model": "Zun_N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iMart_Pro",
+      "codename": "iMart_Pro",
+      "model": "iMart_Pro"
     },
     {
       "manufacturer": "",

@@ -15,15 +15,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STG A2 Pro",
+      "codename": "STG_A2_Pro",
+      "model": "STG A2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG H10",
+      "codename": "STG_H10",
+      "model": "STG H10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STG S1",
       "codename": "STG_S1",
       "model": "STG S1"
     },
     {
       "manufacturer": "",
+      "market_name": "STG S10",
+      "codename": "STG_S10",
+      "model": "STG S10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STG X1",
       "codename": "STG_X1",
       "model": "STG X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG X2",
+      "codename": "STG_X2",
+      "model": "STG X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG X3",
+      "codename": "STG_X3",
+      "model": "STG X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG-KeyTab",
+      "codename": "STG-KeyTab",
+      "model": "STG-KeyTab"
     },
     {
       "manufacturer": "",
@@ -42,6 +78,12 @@
       "market_name": "STG_C10",
       "codename": "STG_C10",
       "model": "STG_C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG_P10",
+      "codename": "STG_P10",
+      "model": "STG_P10"
     },
     {
       "manufacturer": "",

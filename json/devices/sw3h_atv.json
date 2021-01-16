@@ -12,19 +12,19 @@
     "model": "GX655"
   },
   {
-    "manufacturer": "Skyworth",
-    "market_name": "APAC",
-    "codename": "SW3H_ATV",
-    "model": "SWTV"
-  },
-  {
-    "manufacturer": "Skyworth",
+    "manufacturer": "SWTV",
     "market_name": "Europe",
     "codename": "SW3H_ATV",
     "model": "SWTV"
   },
   {
-    "manufacturer": "Skyworth",
+    "manufacturer": "SWTV",
+    "market_name": "TV",
+    "codename": "SW3H_ATV",
+    "model": "SWTV"
+  },
+  {
+    "manufacturer": "SWTV",
     "market_name": "Taiwan",
     "codename": "SW3H_ATV",
     "model": "SWTV"

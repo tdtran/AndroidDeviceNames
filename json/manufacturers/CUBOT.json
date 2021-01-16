@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C20",
+      "codename": "C20",
+      "model": "C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30",
+      "codename": "C30",
+      "model": "C30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CUBOT CHEETAH 2",
       "codename": "CUBOT_CHEETAH_2",
       "model": "CUBOT CHEETAH 2"
@@ -12,6 +24,12 @@
       "market_name": "CUBOT H3",
       "codename": "CUBOT_H3",
       "model": "CUBOT H3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CUBOT J9",
+      "codename": "CUBOT_J9",
+      "model": "CUBOT J9"
     },
     {
       "manufacturer": "",
@@ -48,6 +66,12 @@
       "market_name": "CUBOT_A5",
       "codename": "CUBOT_A5",
       "model": "CUBOT A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CUBOT_J3",
+      "codename": "CUBOT_J3",
+      "model": "CUBOT_J3"
     },
     {
       "manufacturer": "",
@@ -93,6 +117,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J8",
+      "codename": "J8",
+      "model": "J8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KING KONG CS",
+      "codename": "KING_KONG_CS",
+      "model": "KING KONG CS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG MINI2",
+      "codename": "KINGKONG_MINI2",
+      "model": "KINGKONG MINI2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG_MINI",
       "codename": "KINGKONG_MINI",
       "model": "KINGKONG_MINI"
@@ -123,6 +165,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOTE 20",
+      "codename": "NOTE_20",
+      "model": "NOTE 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 20 PRO",
+      "codename": "NOTE_20_PRO",
+      "model": "NOTE 20 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 7",
+      "codename": "NOTE_7",
+      "model": "NOTE 7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE S",
       "codename": "CUBOT_CHEETAH_2",
       "model": "CUBOT CHEETAH 2"
@@ -138,6 +198,12 @@
       "market_name": "P30",
       "codename": "P30",
       "model": "P30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P40",
+      "codename": "P40",
+      "model": "P40"
     },
     {
       "manufacturer": "",
@@ -204,6 +270,12 @@
       "market_name": "X20_PRO",
       "codename": "X20_PRO",
       "model": "X20 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X30",
+      "codename": "X30",
+      "model": "X30"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HUAVI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Eastaeon - Mediatek",
+      "codename": "KHATARH10mini",
+      "model": "KHATAR H-10 mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KHATAR H-20 PRO",
+      "codename": "KHATARH20PRO",
+      "model": "KHATAR H-20 PRO"
+    }
+  ]
+}

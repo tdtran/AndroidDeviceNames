@@ -1,0 +1,17 @@
+{
+  "manufacturer": "KUNFT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K5130H43U",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K5132H32H",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    }
+  ]
+}

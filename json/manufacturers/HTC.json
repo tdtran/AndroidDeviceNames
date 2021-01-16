@@ -825,6 +825,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Desire 12s",
+      "codename": "htc_bre2exdugl",
+      "model": "EXODUS 1s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12s",
+      "codename": "htc_bre2exdugl",
+      "model": "HTC Desire 12s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 20 Pro",
+      "codename": "htc_bymdugl",
+      "model": "2Q9J100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 20 Pro",
+      "codename": "htc_bymdugl",
+      "model": "HTC Desire 20 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Desire 200",
       "codename": "gtou",
       "model": "HTC Desire 200"
@@ -2344,6 +2368,12 @@
     {
       "manufacturer": "",
       "market_name": "HTC 5G Hub",
+      "codename": "htc_rtxcmcc",
+      "model": "HTC 5G Hub"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC 5G Hub",
       "codename": "htc_rtxspcs",
       "model": "HTC 5G Hub"
     },
@@ -2358,6 +2388,42 @@
       "market_name": "HTC Desire 19s",
       "codename": "htc_zddugl",
       "model": "HTC Desire 19s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 20 Pro",
+      "codename": "htc_bymdugl",
+      "model": "HTC 2Q9J10000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 20 Pro",
+      "codename": "htc_bymdugl",
+      "model": "HTC Desire 20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 20+",
+      "codename": "htc_srcdugl",
+      "model": "2Q9U100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 20+",
+      "codename": "htc_srcdugl",
+      "model": "HTC Desire 20+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 21 Pro 5G",
+      "codename": "htc_thudugl",
+      "model": "2QAG100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 21 Pro 5G",
+      "codename": "htc_thudugl",
+      "model": "HTC Desire 21 pro 5G"
     },
     {
       "manufacturer": "",
@@ -3999,6 +4065,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U20 5G",
+      "codename": "htc_flhdugl",
+      "model": "2Q9F100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U20 5G",
+      "codename": "htc_flhdugl",
+      "model": "HTC U20 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Velocity 4G",
       "codename": "holiday",
       "model": "HTC PH39100"
@@ -4059,6 +4137,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wildfire E Lite",
+      "codename": "Wildfire_E_Lite",
+      "model": "Wildfire E Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E1",
+      "codename": "Wildfire-E1",
+      "model": "HTC Wildfire E1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wildfire E1",
       "codename": "Wildfire-E1",
       "model": "Wildfire E1"
@@ -4068,6 +4158,18 @@
       "market_name": "Wildfire E1 Plus",
       "codename": "Wildfire_E1_Plus",
       "model": "Wildfire E1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E2",
+      "codename": "Wildfire_E2",
+      "model": "Wildfire E2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E3",
+      "codename": "Wildfire_E3",
+      "model": "Wildfire E3"
     },
     {
       "manufacturer": "",
@@ -4110,6 +4212,18 @@
       "market_name": "Wildfire S A515c",
       "codename": "marvelc",
       "model": "USCCADR6230US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire_E1_Plus",
+      "codename": "Wildfire_E1_Plus",
+      "model": "Wildfire E1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire_R70",
+      "codename": "Wildfire_R70",
+      "model": "Wildfire R70"
     },
     {
       "manufacturer": "",

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Netra",
+      "codename": "Netra",
+      "model": "Netra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Netra_Lite",
       "codename": "Netra_Lite",
       "model": "Netra_Lite"

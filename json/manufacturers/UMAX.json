@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10A_3G",
+      "codename": "10A_3G",
+      "model": "10A_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "10A_LTE_eea",
       "codename": "10A_LTE",
       "model": "10A_LTE_eea"
@@ -12,6 +18,12 @@
       "market_name": "10Qa_3G",
       "codename": "10Qa_3G",
       "model": "VisionBook_10Qa_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "7A_3G",
+      "codename": "7A_3G",
+      "model": "7A_3G"
     },
     {
       "manufacturer": "",
@@ -36,6 +48,12 @@
       "market_name": "MediaTek",
       "codename": "8Qa_3G",
       "model": "8Qa_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8_3G_eea",
+      "codename": "T8_3G",
+      "model": "T8_3G"
     },
     {
       "manufacturer": "",

@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HL9000",
+      "codename": "HL9000",
+      "model": "HL9000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PR7145",
       "codename": "PR7145",
       "model": "PR7145"
@@ -111,6 +117,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP4872",
+      "codename": "SP4872",
+      "model": "SP4872"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5712",
+      "codename": "SP5712",
+      "model": "SP5712"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5760",
+      "codename": "SP5760",
+      "model": "SP5760"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sp5730",
       "codename": "Sp5730",
       "model": "Sp5730"
@@ -124,6 +148,30 @@
     {
       "manufacturer": "",
       "market_name": "TR4986",
+      "codename": "Tablet_adv_v1",
+      "model": "ADVANCE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR5994",
+      "codename": "TR5994",
+      "model": "TR5994"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR6948",
+      "codename": "TR6948",
+      "model": "TR6948"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR7988",
+      "codename": "TR7988",
+      "model": "TR7988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet_Advance",
       "codename": "Tablet_adv_v1",
       "model": "ADVANCE"
     },

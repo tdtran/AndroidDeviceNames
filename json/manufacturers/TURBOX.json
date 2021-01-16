@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Turbo-X",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Greece",
+      "codename": "tamachi",
+      "model": "TURBO-X FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Greek and Bulgarian",
+      "codename": "yeongdeungpo",
+      "model": "TURBO-X UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\"Turbo-X Fire II (2GB) Tablet 10.1\"\" WIFI\"",
+      "codename": "Fire_II_WiFi",
+      "model": "Fire_II_WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turbo_X8",
+      "codename": "Turbo_X8",
+      "model": "Turbo_X8"
+    }
+  ]
+}

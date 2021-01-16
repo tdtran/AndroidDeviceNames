@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "WV7P",
+      "codename": "Wave_8_7",
+      "model": "WV7P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WV8O",
       "codename": "WV8O",
       "model": "WV8O"
@@ -12,6 +18,12 @@
       "market_name": "WV8TV",
       "codename": "WV8TV",
       "model": "WV8TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wave_8_10",
+      "codename": "Wave_8_10",
+      "model": "WV10Q"
     }
   ]
 }

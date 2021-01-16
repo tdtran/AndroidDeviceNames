@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Grunkel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Spain",
+      "codename": "tamachi",
+      "model": "GRUNKEL FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Spain",
+      "codename": "yeongdeungpo",
+      "model": "GRUNKEL UHD Android TV"
+    }
+  ]
+}

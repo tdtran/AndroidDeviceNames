@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GRAND",
+      "codename": "GRAND",
+      "model": "GRAND"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID-1087",
       "codename": "MID-1087",
       "model": "MID-1087"
@@ -33,9 +39,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID_1085",
+      "codename": "MID_1085",
+      "model": "MID_1085"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_1085A100",
+      "codename": "MID-1085A100",
+      "model": "MID_1085A100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID_1087V9",
       "codename": "MID_1087V9",
       "model": "MID_1087V9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_1089IPS",
+      "codename": "MID_1089IPS",
+      "model": "MID_1089IPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_1089IPSA100",
+      "codename": "MID_1089IPSA100",
+      "model": "MID_1089IPSA100"
     },
     {
       "manufacturer": "",
@@ -45,9 +75,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID_785",
+      "codename": "MID_785",
+      "model": "MID_785"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_785A100",
+      "codename": "MID-785A100",
+      "model": "MID_785A100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID_787V9",
       "codename": "MID_787V9",
       "model": "MID_787V9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_789",
+      "codename": "MID_789",
+      "model": "MID_789"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_789A100",
+      "codename": "MID_789A100",
+      "model": "MID_789A100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_789IPS",
+      "codename": "MID_789IPS",
+      "model": "MID_789IPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_789IPSA100",
+      "codename": "MID_789IPSA100",
+      "model": "MID_789IPSA100"
     }
   ]
 }

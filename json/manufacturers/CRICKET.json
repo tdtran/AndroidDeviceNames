@@ -6,6 +6,18 @@
       "market_name": "U304AC",
       "codename": "U304AC",
       "model": "U304AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U325AC",
+      "codename": "U325AC",
+      "model": "U325AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U705AC",
+      "codename": "U705AC",
+      "model": "U705AC"
     }
   ]
 }

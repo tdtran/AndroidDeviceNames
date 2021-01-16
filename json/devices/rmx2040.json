@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Realme",
+    "market_name": "RMX2040",
+    "codename": "RMX2040",
+    "model": "RMX2040"
+  },
+  {
+    "manufacturer": "Realme",
     "market_name": "realme 6i",
     "codename": "RMX2040",
     "model": "RMX2040"

@@ -63,6 +63,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4KTV-0SU",
+      "codename": "SW4H",
+      "model": "4KTV-0SU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4KTV-0SUF",
+      "codename": "SW4H_FF",
+      "model": "4KTV-0SUF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4KTV-0SUW",
+      "codename": "SW4H",
+      "model": "4KTV-0SUW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "55AX600C",
       "codename": "mst918_4k2k",
       "model": "55AX600C"
@@ -84,6 +102,12 @@
       "market_name": "AX600C",
       "codename": "AX600C",
       "model": "AX600C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active Surface",
+      "codename": "surface7",
+      "model": "surface7"
     },
     {
       "manufacturer": "",
@@ -114,6 +138,18 @@
       "market_name": "Altus4K43",
       "codename": "Altus4K43",
       "model": "Qualcomm elite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "PANASONIC TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "PANASONIC TV"
     },
     {
       "manufacturer": "",
@@ -432,6 +468,18 @@
       "market_name": "Eco12 v3 Plus",
       "codename": "ecov3p12",
       "model": "Eco v3 plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eco4K12A",
+      "codename": "NEXT820",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eco4K13A",
+      "codename": "NEXT820",
+      "model": "NEXT"
     },
     {
       "manufacturer": "",
@@ -795,6 +843,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FZ-N1EVFE",
+      "codename": "FZ-N1EVFE",
+      "model": "FZ-N1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ-N1F",
       "codename": "FZ-N1F",
       "model": "FZ-N1"
@@ -996,6 +1050,24 @@
       "market_name": "LUMIX CM1",
       "codename": "DMC-CM1",
       "model": "DMC-CM1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Crew Terminal - AutoChip",
+      "codename": "NEXT820",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Crew Terminal - IoT Chip",
+      "codename": "NEXT821",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Eco4K 12",
+      "codename": "NEXT821",
+      "model": "NEXT"
     },
     {
       "manufacturer": "",
@@ -1404,6 +1476,12 @@
       "market_name": "Theater v3",
       "codename": "theaterv3",
       "model": "theaterv3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Theater12",
+      "codename": "Theater12",
+      "model": "Theater"
     },
     {
       "manufacturer": "",

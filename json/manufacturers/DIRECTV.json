@@ -1,0 +1,11 @@
+{
+  "manufacturer": "DIRECTV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "OTT-01",
+      "codename": "HP40A",
+      "model": "OTT-01"
+    }
+  ]
+}

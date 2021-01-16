@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DAYTONA-G12",
+      "codename": "DAYTONA-G12",
+      "model": "DAYTONA-G12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10400",
       "codename": "M10400",
       "model": "M10400"
@@ -57,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MONZA-T7",
+      "codename": "MONZA-T7",
+      "model": "MONZA-T7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PB1009",
       "codename": "PB1009",
       "model": "PB1009"
@@ -66,6 +78,12 @@
       "market_name": "PB101",
       "codename": "PB101",
       "model": "PB101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SILVERSTONE-T10",
+      "codename": "SILVERSTONE-T10",
+      "model": "SILVERSTONE-T10"
     },
     {
       "manufacturer": "",

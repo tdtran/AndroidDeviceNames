@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CoolMinttA5",
+      "codename": "CoolMinttA5",
+      "model": "CoolMinttA5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CoolMinttBlaze",
       "codename": "CoolMinttBlaze",
       "model": "CoolMinttBlaze"
@@ -66,6 +72,30 @@
       "market_name": "Mintt_Tab_T1",
       "codename": "Mintt_Tab_T1",
       "model": "Mintt_Tab_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRAMINTT A5",
+      "codename": "ULTRAMINTT_A5",
+      "model": "ULTRAMINTT A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRAMINTT Y3",
+      "codename": "ULTRAMINTT_Y3",
+      "model": "ULTRAMINTT Y3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRAMINTT Y5",
+      "codename": "ULTRAMINTT_Y5",
+      "model": "ULTRAMINTT Y5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRAMINTT_P3",
+      "codename": "ULTRAMINTT_P3",
+      "model": "COOLMINTT P3"
     },
     {
       "manufacturer": "",

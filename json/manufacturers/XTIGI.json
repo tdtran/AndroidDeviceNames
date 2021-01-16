@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10S",
+      "codename": "A10S",
+      "model": "A10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20S",
+      "codename": "A20S",
+      "model": "A20S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20S_PRO",
+      "codename": "A20S_PRO",
+      "model": "A20S PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55",
+      "codename": "X-TIGI_A55",
+      "model": "A55"
     },
     {
       "manufacturer": "",
@@ -15,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hope7_LTE",
+      "codename": "Hope7_LTE",
+      "model": "Hope7 LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hope7_Mate",
       "codename": "Hope7_Mate",
       "model": "Hope7_Mate"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope7_Max",
+      "codename": "Hope7_Max",
+      "model": "Hope7 Max"
     },
     {
       "manufacturer": "",
@@ -57,9 +93,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KIDS_TAB",
+      "codename": "KIDS_TAB",
+      "model": "KIDS_TAB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kids7_Pro",
       "codename": "Kids7_Pro",
       "model": "Kids7 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20S",
+      "codename": "M20S",
+      "model": "M20S"
     },
     {
       "manufacturer": "",
@@ -72,6 +120,12 @@
       "market_name": "SHARP1",
       "codename": "SHARP1",
       "model": "SHARP1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP_2",
+      "codename": "SHARP_2",
+      "model": "SHARP_2"
     },
     {
       "manufacturer": "",

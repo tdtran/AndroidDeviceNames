@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Majestic",
+    "market_name": "JOE",
+    "codename": "JOE",
+    "model": "JOE"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "",
     "codename": "joe",

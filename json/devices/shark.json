@@ -6,6 +6,12 @@
     "model": "SKR-H0"
   },
   {
+    "manufacturer": "Blackshark",
+    "market_name": "黑鲨游戏手机",
+    "codename": "shark",
+    "model": "SKR-A0"
+  },
+  {
     "manufacturer": "Stream",
     "market_name": "SHARK",
     "codename": "SHARK",

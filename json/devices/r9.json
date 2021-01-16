@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Aspera",
+    "market_name": "ASPERA R9",
+    "codename": "R9",
+    "model": "ASPERA_R9"
+  },
+  {
     "manufacturer": "Oppo",
     "market_name": "R9",
     "codename": "R9",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1 Alpha 20+",
+      "codename": "P671F60",
+      "model": "A1 Alpha 20+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1 Smart N9",
       "codename": "VFD720",
       "model": "VFD 720"

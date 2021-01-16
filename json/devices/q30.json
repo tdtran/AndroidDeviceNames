@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Brantel",
+    "market_name": "Q30",
+    "codename": "Q30",
+    "model": "Q30"
+  },
+  {
     "manufacturer": "E-Tel",
     "market_name": "Q30",
     "codename": "Q30",

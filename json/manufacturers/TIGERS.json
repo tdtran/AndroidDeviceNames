@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TIS001",
+      "codename": "TIS001-T2",
+      "model": "TIS001-T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIS001-S3",
+      "codename": "TIS001-S3",
+      "model": "TIS001-S3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIS001A",
       "codename": "TIS001A",
       "model": "TIS001A"
@@ -24,6 +36,12 @@
       "market_name": "TIS001C",
       "codename": "TIS001C",
       "model": "TIS001C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIS001_S4",
+      "codename": "TIS001_S4",
+      "model": "TIS001_S4"
     },
     {
       "manufacturer": "",

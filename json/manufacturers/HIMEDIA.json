@@ -1,0 +1,11 @@
+{
+  "manufacturer": "HiMedia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S500",
+      "codename": "HiBox",
+      "model": "S500"
+    }
+  ]
+}

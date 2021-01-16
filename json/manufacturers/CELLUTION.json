@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CT_Cosmas_V",
+      "codename": "CT_Cosmas_V",
+      "model": "CT_Cosmas_V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cosmas",
       "codename": "Cosmas",
       "model": "Cosmas"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PADUA",
+      "codename": "PADUA",
+      "model": "PADUA"
     }
   ]
 }

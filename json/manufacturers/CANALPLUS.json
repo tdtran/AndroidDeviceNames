@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CANAL+ BOX",
+      "codename": "HY40A2",
+      "model": "CANAL PLUS BOX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CANALATV1",
+      "codename": "HY40A2",
+      "model": "CANAL PLUS BOX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CANALATV1",
       "codename": "HY40A2",
       "model": "CANALATV1"

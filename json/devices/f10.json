@@ -1,9 +1,21 @@
 [
   {
+    "manufacturer": "G-Tab",
+    "market_name": "F10",
+    "codename": "F10",
+    "model": "F10"
+  },
+  {
     "manufacturer": "Gionee",
     "market_name": "F10",
     "codename": "F10",
     "model": "GIONEE F10"
+  },
+  {
+    "manufacturer": "Gol Mobile",
+    "market_name": "F10",
+    "codename": "F10",
+    "model": "F10"
   },
   {
     "manufacturer": "Telego",

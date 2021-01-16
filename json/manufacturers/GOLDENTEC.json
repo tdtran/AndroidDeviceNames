@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Goldentec",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GT_Tab",
+      "codename": "GT_Tab",
+      "model": "GT_Tab"
+    }
+  ]
+}

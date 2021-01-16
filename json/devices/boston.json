@@ -10,5 +10,17 @@
     "market_name": "",
     "codename": "Boston",
     "model": "Orange_Boston"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 10 Plus",
+    "codename": "Boston",
+    "model": "T782H"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 10 Plus",
+    "codename": "Boston",
+    "model": "T782P"
   }
 ]

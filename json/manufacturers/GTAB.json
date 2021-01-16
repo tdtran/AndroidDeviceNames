@@ -9,6 +9,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C9",
+      "codename": "C9",
+      "model": "C9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F1",
+      "codename": "F1",
+      "model": "F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10",
+      "codename": "F10",
+      "model": "F10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F2",
+      "codename": "F2",
+      "model": "F2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F4",
+      "codename": "F4",
+      "model": "F4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F8",
+      "codename": "F8",
+      "model": "F8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G4",
       "codename": "G4",
       "model": "G4"
@@ -24,6 +60,24 @@
       "market_name": "G9",
       "codename": "G9",
       "model": "G9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N271",
+      "codename": "N271",
+      "model": "N271"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N28",
+      "codename": "N28",
+      "model": "N28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N281",
+      "codename": "N281",
+      "model": "N281"
     },
     {
       "manufacturer": "",
@@ -51,9 +105,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q2S",
+      "codename": "Q2S",
+      "model": "Q2S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q3",
+      "codename": "Q3",
+      "model": "Q3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q4",
       "codename": "Q4",
       "model": "Q4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q5",
+      "codename": "Q5",
+      "model": "Q5"
     },
     {
       "manufacturer": "",
@@ -63,9 +135,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q7",
+      "codename": "Q7",
+      "model": "Q7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S10",
       "codename": "S10",
       "model": "S10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S12",
+      "codename": "S12",
+      "model": "S12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S20",
+      "codename": "S20",
+      "model": "S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S3",
+      "codename": "S3",
+      "model": "S3"
     }
   ]
 }

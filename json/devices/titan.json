@@ -6,6 +6,12 @@
     "model": "Titan"
   },
   {
+    "manufacturer": "Mobicell",
+    "market_name": "Titan",
+    "codename": "TITAN",
+    "model": "TITAN"
+  },
+  {
     "manufacturer": "Unihertz",
     "market_name": "Titan",
     "codename": "Titan",

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Ascom",
+    "market_name": "\tAscom Myco 3",
+    "codename": "ADAA",
+    "model": "Ascom Myco 3 DECT Wi-Fi EU"
+  },
+  {
+    "manufacturer": "Ascom",
     "market_name": "Ascom Myco 3",
     "codename": "ADAA",
     "model": "Ascom Myco 3 DECT Wi-Fi"

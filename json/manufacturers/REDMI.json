@@ -45,6 +45,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 10X",
+      "codename": "apricot",
+      "model": "M2004J7AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10X",
+      "codename": "atom",
+      "model": "M2004J7AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10X",
+      "codename": "atom",
+      "model": "atom"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10X 4G",
+      "codename": "merlin",
+      "model": "M2003J15SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10X Pro",
+      "codename": "banana",
+      "model": "M2004J7BC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10X pro",
+      "codename": "bomb",
+      "model": "M2004J7BC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10X pro",
+      "codename": "bomb",
+      "model": "bomb"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 6",
       "codename": "cereus",
       "model": "Redmi 6"
@@ -90,6 +132,102 @@
       "market_name": "Redmi 8A Dual",
       "codename": "olivewood",
       "model": "Redmi 8A Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9",
+      "codename": "cattail",
+      "model": "M2006C3MII"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9",
+      "codename": "cattail",
+      "model": "cattail"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9",
+      "codename": "galahad",
+      "model": "M2004J19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9",
+      "codename": "galahad",
+      "model": "galahad"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9",
+      "codename": "lancelot",
+      "model": "M2004J19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9 Power",
+      "codename": "lime",
+      "model": "M2010J19SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9 Prime",
+      "codename": "lancelot",
+      "model": "M2004J19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9A",
+      "codename": "dandelion",
+      "model": "M2006C3LC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9A",
+      "codename": "dandelion",
+      "model": "M2006C3LG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9A",
+      "codename": "dandelion",
+      "model": "M2006C3LI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9A",
+      "codename": "dandelion",
+      "model": "M2006C3LVG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9A",
+      "codename": "dandelion",
+      "model": "dandelion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9C",
+      "codename": "angelica",
+      "model": "M2006C3MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9C",
+      "codename": "angelica",
+      "model": "angelica"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9C NFC",
+      "codename": "angelican",
+      "model": "M2006C3MNG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9C NFC",
+      "codename": "angelican",
+      "model": "angelican"
     },
     {
       "manufacturer": "",
@@ -141,6 +279,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi K30 Ultra",
+      "codename": "cezanne",
+      "model": "M2006J10C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K30S Ultra",
+      "codename": "apollo",
+      "model": "M2007J3SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K30i 5G",
+      "codename": "picasso",
+      "model": "Redmi K30i 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 7",
       "codename": "lavender",
       "model": "Redmi Note 7"
@@ -180,6 +336,72 @@
       "market_name": "Redmi Note 8T",
       "codename": "willow",
       "model": "willow"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9",
+      "codename": "cannon",
+      "model": "M2007J22C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9",
+      "codename": "merlin",
+      "model": "M2003J15SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9",
+      "codename": "merlinnfc",
+      "model": "M2003J15SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9 4G",
+      "codename": "lime",
+      "model": "M2010J19SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9 Pro",
+      "codename": "curtana",
+      "model": "Redmi Note 9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9 Pro",
+      "codename": "curtana",
+      "model": "curtana"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9 Pro",
+      "codename": "joyeuse",
+      "model": "Redmi Note 9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9 Pro Max",
+      "codename": "excalibur",
+      "model": "Redmi Note 9 Pro Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9 pro",
+      "codename": "gauguinpro",
+      "model": "M2007J17C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9S",
+      "codename": "curtana",
+      "model": "Redmi Note 9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9S",
+      "codename": "curtana",
+      "model": "Redmi Note 9S"
     }
   ]
 }

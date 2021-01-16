@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Voger",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "X100",
+      "codename": "X100",
+      "model": "X100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X100_EEA",
+      "codename": "X100_EEA",
+      "model": "X100_EEA"
+    }
+  ]
+}

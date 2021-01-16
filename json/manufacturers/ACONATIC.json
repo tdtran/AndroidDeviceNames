@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ACONATIC",
+      "codename": "bangbae",
+      "model": "Aconatic 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aconatic",
+      "codename": "komagome",
+      "model": "Aconatic 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R1",
       "model": "ATV R1"

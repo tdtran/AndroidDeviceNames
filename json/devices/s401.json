@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Ipro",
+    "market_name": "S401",
+    "codename": "S401",
+    "model": "S401"
+  },
+  {
     "manufacturer": "Sansui",
     "market_name": "Go",
     "codename": "S401",

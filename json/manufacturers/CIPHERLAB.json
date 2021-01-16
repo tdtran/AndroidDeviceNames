@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RS35",
+      "codename": "RS35",
+      "model": "RS35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RS51_HS",
       "codename": "RS51_HS",
       "model": "RS51_HS"

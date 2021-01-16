@@ -1,0 +1,11 @@
+{
+  "manufacturer": "QLA (tw)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T1",
+      "codename": "QLA",
+      "model": "T1"
+    }
+  ]
+}

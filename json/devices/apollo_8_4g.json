@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 8 4G",
+    "codename": "Apollo_8_4G",
+    "model": "9032X"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel 3T8",
+    "codename": "Apollo_8_4G",
+    "model": "9032T"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel 3T8",
+    "codename": "Apollo_8_4G",
+    "model": "9032X"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel 3T8",
+    "codename": "Apollo_8_4G",
+    "model": "9032X_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel 3T8",
+    "codename": "Apollo_8_4G",
+    "model": "9032X_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel 3T8",
+    "codename": "Apollo_8_4G",
+    "model": "9032X_TR"
+  }
+]

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SPEED_2021",
+      "codename": "SPEED_2021",
+      "model": "SPEED_2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stella Omega Plus",
+      "codename": "Stella_Omega_Plus",
+      "model": "Stella Omega Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Stella X",
       "codename": "Stella_X",
       "model": "Stella X"

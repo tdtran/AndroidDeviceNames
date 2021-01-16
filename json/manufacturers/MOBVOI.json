@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TicWatch C2",
+      "codename": "skipjack",
+      "model": "TicWatch C2+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TicWatch E2/S2",
       "codename": "tunny",
       "model": "TicWatch E2"
@@ -27,15 +33,33 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TicWatch Pro 4G",
-      "codename": "catshark",
-      "model": "TicWatch Pro 4G"
+      "market_name": "TicWatch Pro",
+      "codename": "catfish_ext",
+      "model": "TicWatch Pro"
     },
     {
       "manufacturer": "",
-      "market_name": "TicWatch Pro BT",
+      "market_name": "TicWatch Pro",
       "codename": "catfish_ext",
-      "model": "TicWatch Pro"
+      "model": "TicWatch Pro S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TicWatch Pro 3 Cellular/LTE",
+      "codename": "rover",
+      "model": "TicWatch Pro 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TicWatch Pro 3 GPS",
+      "codename": "rubyfish",
+      "model": "TicWatch Pro 3 GPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TicWatch Pro 4G",
+      "codename": "catshark",
+      "model": "TicWatch Pro 4G"
     },
     {
       "manufacturer": "",

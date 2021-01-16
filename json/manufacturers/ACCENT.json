@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FAST7",
+      "codename": "FAST7",
+      "model": "FAST7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FAST7 3G",
       "codename": "FAST7_3G",
       "model": "FAST7 3G"
@@ -48,6 +54,18 @@
       "market_name": "FAST73G",
       "codename": "FAST73G",
       "model": "FAST73G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FAST_10",
+      "codename": "FAST_10",
+      "model": "FAST_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fasts7",
+      "codename": "Fasts7",
+      "model": "Fasts7"
     },
     {
       "manufacturer": "",

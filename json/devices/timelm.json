@@ -10,5 +10,17 @@
     "market_name": "LG V60 ThinQ",
     "codename": "timelm",
     "model": "LM-V600N"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "V60 ThinQ",
+    "codename": "timelm",
+    "model": "A001LG"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "V60 ThinQ",
+    "codename": "timelm",
+    "model": "LM-V600"
   }
 ]

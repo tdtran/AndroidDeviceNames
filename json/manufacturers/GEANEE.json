@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ADP-503G",
+      "codename": "ADP-503G",
+      "model": "ADP-503G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FXC-5A",
       "codename": "FXC-5A",
       "model": "FXC-5A"

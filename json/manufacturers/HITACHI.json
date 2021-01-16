@@ -3,7 +3,37 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "SAUDI ARABIC/Iraq Australia",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hitachi",
+      "codename": "bangbae",
+      "model": "Hitachi 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hitachi",
+      "codename": "komagome",
+      "model": "Hitachi 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HitachiTV",
+      "codename": "shinjuku",
+      "model": "HitachiTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LD50CHS04U",
       "codename": "samseong",
       "model": "AI PONT"
     }

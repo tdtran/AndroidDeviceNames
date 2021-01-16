@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACTAB721",
+      "codename": "ACTAB721",
+      "model": "ACTAB721"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AK330s",
       "codename": "C8n",
       "model": "AK330S"
@@ -210,6 +216,18 @@
       "market_name": "Acer One 7 4G",
       "codename": "Acer_One_7_4G",
       "model": "Acer One 7 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer One 8 T4-82L",
+      "codename": "AcerOne8T482L",
+      "model": "Acer One 8 T4-82L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer_one_8_T2",
+      "codename": "Acer_one_8_T2",
+      "model": "Acer_one_8_T2"
     },
     {
       "manufacturer": "",

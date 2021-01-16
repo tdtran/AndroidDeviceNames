@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZPAD_1",
+      "codename": "ZPAD_1",
+      "model": "ZPAD_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZPLAY1_2018",
       "codename": "Zatec_Zplay",
       "model": "ZPLAY1_2018"

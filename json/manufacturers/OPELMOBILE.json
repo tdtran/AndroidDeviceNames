@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Opel Mobile_Smart_J2",
+      "codename": "Smart_J2",
+      "model": "Smart_J2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart X6",
       "codename": "SmartX6",
       "model": "Opel Mobile SmartX6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartJX",
+      "codename": "SmartJX",
+      "model": "OpelMobile_SmartJX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartX1",
+      "codename": "SmartX1",
+      "model": "OpelMobile_SmartX1"
     }
   ]
 }

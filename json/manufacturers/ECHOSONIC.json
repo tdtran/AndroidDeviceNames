@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ECHOSONIC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EchosonicTV",
+      "codename": "shinagawa",
+      "model": "EchosonicTV"
+    }
+  ]
+}

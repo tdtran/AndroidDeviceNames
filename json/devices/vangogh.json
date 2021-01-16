@@ -22,5 +22,11 @@
     "market_name": "Iconia Tab A100 (VanGogh)",
     "codename": "vangogh",
     "model": "A101"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 10 Lite zoom",
+    "codename": "vangogh",
+    "model": "M2002J9E"
   }
 ]

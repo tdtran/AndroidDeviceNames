@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C2420G",
+      "codename": "ueno",
+      "model": "2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cello",
+      "codename": "sadang",
+      "model": "cello UK 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1045PC",
       "codename": "T1045PC",
       "model": "T1045PC"

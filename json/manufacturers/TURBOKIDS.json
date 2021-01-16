@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TurbokidsStarA100",
+      "codename": "TurbokidsStarA100",
+      "model": "Turbokids Star"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Turbokids_Star",
       "codename": "Turbokids_Star",
       "model": "Turbokids_Star"

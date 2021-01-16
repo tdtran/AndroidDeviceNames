@@ -6,6 +6,18 @@
     "model": "andrino 4K Android TV"
   },
   {
+    "manufacturer": "Aconatic",
+    "market_name": "ACONATIC",
+    "codename": "bangbae",
+    "model": "Aconatic 4K Android TV"
+  },
+  {
+    "manufacturer": "Akai",
+    "market_name": "AKAI",
+    "codename": "bangbae",
+    "model": "AKAI 4K Android TV"
+  },
+  {
     "manufacturer": "AllView",
     "market_name": "ALLVIEW",
     "codename": "bangbae",
@@ -24,6 +36,48 @@
     "model": "BLAUPUNKT 4K Android TV"
   },
   {
+    "manufacturer": "Continental Edison",
+    "market_name": "Continential_Edison",
+    "codename": "bangbae",
+    "model": "Continental 4K Android TV"
+  },
+  {
+    "manufacturer": "Dual",
+    "market_name": "Dual",
+    "codename": "bangbae",
+    "model": "Dual 4K Android TV"
+  },
+  {
+    "manufacturer": "Dyon",
+    "market_name": "Dyon",
+    "codename": "bangbae",
+    "model": "Dyon 4K Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "bangbae",
+    "model": "EKO 4K Android TV"
+  },
+  {
+    "manufacturer": "Engel",
+    "market_name": "ENGEL",
+    "codename": "bangbae",
+    "model": "Engel 4K Android TV"
+  },
+  {
+    "manufacturer": "GABA",
+    "market_name": "GABA",
+    "codename": "bangbae",
+    "model": "GABA 4K Android TV"
+  },
+  {
+    "manufacturer": "Hitachi",
+    "market_name": "Hitachi",
+    "codename": "bangbae",
+    "model": "Hitachi 4K Android TV"
+  },
+  {
     "manufacturer": "Hyundai",
     "market_name": "Hyundai",
     "codename": "bangbae",
@@ -39,13 +93,43 @@
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "bangbae",
-    "model": "Engel 4K Android TV"
+    "model": "JVC 4K Android TV"
   },
   {
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "bangbae",
-    "model": "JVC 4K Android TV"
+    "model": "JVC EU 4K Android TV"
+  },
+  {
+    "manufacturer": "K-ELEC",
+    "market_name": "K-ELEC",
+    "codename": "bangbae",
+    "model": "K-Elec 4K Android TV"
+  },
+  {
+    "manufacturer": "Kivi",
+    "market_name": "KIVI",
+    "codename": "bangbae",
+    "model": "KIVI 4K Android TV"
+  },
+  {
+    "manufacturer": "Linsar",
+    "market_name": "Linsar",
+    "codename": "bangbae",
+    "model": "Linsar 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "Infiniton",
+    "codename": "bangbae",
+    "model": "Infiniton 4K Android TV"
+  },
+  {
+    "manufacturer": "MarQ",
+    "market_name": "MarQ",
+    "codename": "bangbae",
+    "model": "MarQ 4K Android TV"
   },
   {
     "manufacturer": "OK (Mediamark)",
@@ -60,9 +144,39 @@
     "model": "Polaroid 4K Android TV"
   },
   {
+    "manufacturer": "QBell",
+    "market_name": "QBell",
+    "codename": "bangbae",
+    "model": "QBell 4K Android TV"
+  },
+  {
     "manufacturer": "SCHNEIDER",
     "market_name": "SCHNEIDER",
     "codename": "bangbae",
     "model": "SCHNEIDER 4K Android TV"
+  },
+  {
+    "manufacturer": "Strong",
+    "market_name": "Strong",
+    "codename": "bangbae",
+    "model": "Strong 4K Android TV"
+  },
+  {
+    "manufacturer": "Veon",
+    "market_name": "VEON",
+    "codename": "bangbae",
+    "model": "VEON 4K Android TV"
+  },
+  {
+    "manufacturer": "Yasin",
+    "market_name": "Yasin",
+    "codename": "bangbae",
+    "model": "YASIN 4K Android TV"
+  },
+  {
+    "manufacturer": "Zephir",
+    "market_name": "Zephir",
+    "codename": "bangbae",
+    "model": "Zephir 4K Android TV"
   }
 ]

@@ -12,6 +12,12 @@
       "market_name": "Gaming Android Gem Box",
       "codename": "F500",
       "model": "Gem Box F500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBSKD7001",
+      "codename": "PBSKD7001",
+      "model": "PBSKD7001"
     }
   ]
 }

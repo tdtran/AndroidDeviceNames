@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10 4G",
+      "codename": "ML-JI0A-M10-4G",
+      "model": "M10-4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10-3G",
       "codename": "ML-JI06-M10-3G",
       "model": "M10-3G"
@@ -57,9 +63,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10A_Lite",
+      "codename": "ML_SO0A_M10A_Lite",
+      "model": "M10A_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_4G_PRO",
+      "codename": "ML-SO0C_M10_4G_PRO_PLUS",
+      "model": "M10_4G_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_4G_PRO",
+      "codename": "ML_SO0G_M10_4G_PRO_PLUS",
+      "model": "M10_4G_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7 3G PLUS",
       "codename": "ML-JI11-M7_3G_PLUS",
       "model": "M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G PLUS",
+      "codename": "ML-JI31-M7-3G-PLUS",
+      "model": "M7-3G-PLUS"
     },
     {
       "manufacturer": "",
@@ -159,6 +189,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7_3G_A10",
+      "codename": "ML_WI1A_M7_3G_A10",
+      "model": "M7_3G_A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7_3G_A10",
+      "codename": "ML_WI2A_M7_3G_A10",
+      "model": "M7_3G_A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7_3G_A10",
+      "codename": "ML_WI3A_M7_3G_A10",
+      "model": "M7_3G_A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7s Dual Core",
       "codename": "NB116_NB117_NB118",
       "model": "M7s Dual ML03"
@@ -174,6 +222,12 @@
       "market_name": "M7sLite",
       "codename": "ML-SO06-M7sLite",
       "model": "M7sLite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8_4G",
+      "codename": "ML_SO19_M8_4G",
+      "model": "M8_4G"
     },
     {
       "manufacturer": "",
@@ -258,6 +312,30 @@
       "market_name": "MLX8 4G",
       "codename": "MLX8_4G",
       "model": "MLX8_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLX8_4G",
+      "codename": "ML_SO09_MLX8_4G",
+      "model": "MLX8_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ML_JI1C_M7S_PLUS",
+      "codename": "ML_JI1C_M7S_PLUS",
+      "model": "M7S_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ML_JI29_M9S_GO",
+      "codename": "ML_JI29_M9S_GO",
+      "model": "M9S_GO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ML_JI37_M7S_LITE",
+      "codename": "ML_JI37_M7S_LITE",
+      "model": "M7S_LITE"
     },
     {
       "manufacturer": "",
@@ -474,6 +552,12 @@
       "market_name": "Multilaser G Pro",
       "codename": "Multilaser_G_Pro",
       "model": "Multilaser_G_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G Pro 2",
+      "codename": "Multilaser_GPRO2",
+      "model": "Multilaser_GPRO2"
     },
     {
       "manufacturer": "",

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V511",
+      "codename": "V511",
+      "model": "V511"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V608C",
       "codename": "V608C",
       "model": "V608C"

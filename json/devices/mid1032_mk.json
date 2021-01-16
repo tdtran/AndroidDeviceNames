@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "EVEREST-EVERPAD",
+    "market_name": "DC-1032",
+    "codename": "mid1032_mk",
+    "model": "DC-1032"
+  },
+  {
+    "manufacturer": "PCBOX",
+    "market_name": "PCB-T104",
+    "codename": "mid1032_mk",
+    "model": "PCB-T104"
+  },
+  {
+    "manufacturer": "ViewSonic",
+    "market_name": "ViewPad_M10_2_32",
+    "codename": "mid1032_mk",
+    "model": "ViewPad M10-2/32"
+  }
+]

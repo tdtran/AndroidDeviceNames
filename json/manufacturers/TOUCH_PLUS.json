@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "1100AS",
+      "codename": "1100AS",
+      "model": "1100AS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "770G",
       "codename": "770G",
       "model": "770G"

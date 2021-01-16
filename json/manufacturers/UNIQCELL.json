@@ -1,0 +1,17 @@
+{
+  "manufacturer": "UNIQ-CELL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "D10",
+      "codename": "D10",
+      "model": "D10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D7PRO",
+      "codename": "D7PRO",
+      "model": "D7PRO"
+    }
+  ]
+}

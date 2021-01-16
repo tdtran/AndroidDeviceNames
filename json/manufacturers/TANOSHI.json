@@ -6,6 +6,12 @@
       "market_name": "TTBKB10-01",
       "codename": "TTBKB10-01",
       "model": "Tanoshi 2-in-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TTBKB10-A1",
+      "codename": "TTBKB10-A1",
+      "model": "TTBKB10-A1"
     }
   ]
 }

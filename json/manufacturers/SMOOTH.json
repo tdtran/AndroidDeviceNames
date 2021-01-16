@@ -12,6 +12,18 @@
       "market_name": "S2_Advance",
       "codename": "SSmooth_S2_Advance",
       "model": "S2 Advance"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth5_5",
+      "codename": "SSmooth5_5",
+      "model": "Smooth 5.5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth_5",
+      "codename": "SSmooth_5",
+      "model": "Smooth 5.0"
     }
   ]
 }

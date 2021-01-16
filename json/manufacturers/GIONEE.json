@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F11VE",
+      "codename": "F11VE",
+      "model": "GIONEE F11VE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F205",
       "codename": "GIONEE_SW17G18",
       "model": "GIONEE F205"
@@ -183,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F8_Neo",
+      "codename": "F8_Neo",
+      "model": "GIONEE F8 Neo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F9",
       "codename": "F9",
       "model": "GIONEE F9"
@@ -219,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GIONEE F11",
+      "codename": "GIONEE_F11",
+      "model": "GIONEE F11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GIONEE F205L",
       "codename": "GIONEE_SW17G18",
       "model": "GIONEE F205L"
@@ -237,15 +255,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GIONEE H601",
+      "codename": "GIONEE_H601",
+      "model": "GIONEE S12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GIONEE M7L",
       "codename": "GIONEE_SW17G07",
       "model": "GIONEE M7L"
     },
     {
       "manufacturer": "",
+      "market_name": "GIONEE MAX",
+      "codename": "GIONEE_MAX",
+      "model": "GIONEE MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GIONEE X1",
       "codename": "GIONEE_SWW1631",
       "model": "GIONEE X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE_H603",
+      "codename": "GIONEE_H603",
+      "model": "GIONEE M12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE_H603B",
+      "codename": "GIONEE_H603",
+      "model": "GIONEE M12"
     },
     {
       "manufacturer": "",
@@ -402,6 +444,12 @@
       "market_name": "Gtel_X5pro",
       "codename": "Gtel_X5pro",
       "model": "Gtel_X5pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "F205_Pro",
+      "model": "GIONEE F205 Pro"
     },
     {
       "manufacturer": "",
@@ -708,6 +756,12 @@
       "market_name": "S11L",
       "codename": "GIONEE_SW17G13",
       "model": "GIONEE S11L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S12 Lite",
+      "codename": "S12_Lite",
+      "model": "S12 Lite"
     },
     {
       "manufacturer": "",

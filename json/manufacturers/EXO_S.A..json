@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EXO_Wave_i716",
+      "codename": "EXO_Wave_i716",
+      "model": "EXO_Wave_i716"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wave i007Kids",
       "codename": "Wave_i007Kids",
       "model": "Wave i007Kids"
@@ -12,6 +18,12 @@
       "market_name": "Wave i007T",
       "codename": "Wave_i007T",
       "model": "Wave i007T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wave_i007Kids",
+      "codename": "Wave_i007Kids",
+      "model": "Wave i007Kids"
     },
     {
       "manufacturer": "",

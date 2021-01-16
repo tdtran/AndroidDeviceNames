@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Chrome LTE",
+      "codename": "CHROME_LTE",
+      "model": "CHROME LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DANDY",
       "codename": "DANDY",
       "model": "DANDY"
@@ -219,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Legend",
+      "codename": "Legend",
+      "model": "Legend"
+    },
+    {
+      "manufacturer": "",
       "market_name": "METRO2",
       "codename": "METRO2",
       "model": "MOBICEL METRO2"
@@ -273,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEO LTE",
+      "codename": "Neo_LTE",
+      "model": "Neo LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ONYX",
       "codename": "ONYX",
       "model": "ONYX"
@@ -288,6 +306,12 @@
       "market_name": "PLUM",
       "codename": "PLUM",
       "model": "PLUM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PULSE_1",
+      "codename": "PULSE_1",
+      "model": "PULSE_1"
     },
     {
       "manufacturer": "",
@@ -315,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R1Plus",
+      "codename": "R1PLUS_1",
+      "model": "R1PLUS_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R3",
       "codename": "R3",
       "model": "R3"
@@ -336,6 +366,12 @@
       "market_name": "R7",
       "codename": "R7",
       "model": "R7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R7",
+      "codename": "R7_1",
+      "model": "R7_1"
     },
     {
       "manufacturer": "",
@@ -477,6 +513,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Titan",
+      "codename": "TITAN",
+      "model": "TITAN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan_1",
+      "codename": "Titan_1",
+      "model": "Titan_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Trendy",
       "codename": "TREDNY",
       "model": "TREDNY"
@@ -561,6 +609,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZOOM_1",
+      "codename": "ZOOM_1",
+      "model": "ZOOM_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZOOM_H",
       "codename": "ZOOM_H",
       "model": "ZOOM-H"
@@ -570,6 +624,12 @@
       "market_name": "Zoom",
       "codename": "ZOOM",
       "model": "ZOOM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "switch plus",
+      "codename": "switch_plus",
+      "model": "switch plus"
     }
   ]
 }

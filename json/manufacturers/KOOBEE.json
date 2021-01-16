@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Koobee K60",
+      "codename": "Koobee_K60",
+      "model": "K60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S12",
       "codename": "koobee_S12",
       "model": "S12"
@@ -36,6 +42,12 @@
       "market_name": "S16",
       "codename": "koobee_S16",
       "model": "S16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19",
+      "codename": "Koobee_S19",
+      "model": "S19"
     },
     {
       "manufacturer": "",

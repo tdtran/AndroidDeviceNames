@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Seiki",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "hongik",
+      "model": "Seiki Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "uguisudani",
+      "model": "Seiki Android TV 2K"
+    }
+  ]
+}

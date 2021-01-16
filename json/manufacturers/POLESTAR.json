@@ -6,6 +6,12 @@
       "market_name": "Polestar",
       "codename": "ihu_abl_car",
       "model": "Polestar"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polestar Emu",
+      "codename": "ihu_emulator",
+      "model": "Polestar 2"
     }
   ]
 }

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI 2 Lite 2021",
+      "codename": "INOI_2_Lite_2021",
+      "model": "INOI 2 Lite 2021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI 2 Lite 4Gb",
       "codename": "INOI_2_Lite_4Gb",
       "model": "INOI 2 Lite 4Gb"
@@ -63,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI_2_2021",
+      "codename": "INOI_2_2021",
+      "model": "INOI 2 2021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI_2_LITE",
       "codename": "INOI_2_LITE",
       "model": "INOI_2_LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_2_Lite_4Gb",
+      "codename": "INOI_2_Lite_4Gb",
+      "model": "INOI 2 Lite 4Gb"
     },
     {
       "manufacturer": "",
@@ -96,6 +114,18 @@
       "market_name": "INOI_5X_Lite",
       "codename": "INOI_5X_Lite",
       "model": "INOI_5X_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_5_2021",
+      "codename": "INOI_5_2021",
+      "model": "INOI 5 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_5_Lite_2021",
+      "codename": "INOI_5_Lite_2021",
+      "model": "INOI 5 Lite 2021"
     },
     {
       "manufacturer": "",
@@ -147,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI_7_4_64_2021",
+      "codename": "INOI_7_4_64_2021",
+      "model": "INOI 7 4+64 2021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI_7_LITE",
       "codename": "INOI_7_LITE",
       "model": "INOI_7_LITE"
@@ -156,6 +192,18 @@
       "market_name": "INOI_7i",
       "codename": "INOI_7i",
       "model": "INOI_7i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "easyphone",
+      "codename": "easyphone",
+      "model": "INOI easyphone"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "inoiPad_mini_3G",
+      "codename": "inoiPad_mini_3G",
+      "model": "inoiPad mini 2+32 Wi-Fi+3G"
     }
   ]
 }

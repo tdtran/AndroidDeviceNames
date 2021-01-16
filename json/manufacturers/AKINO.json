@@ -6,6 +6,12 @@
       "market_name": "IN-32SE9",
       "codename": "shibuya",
       "model": "AkinoTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "laoshan-Akino",
+      "codename": "laoshan",
+      "model": "HAT4KDTV"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tK101A",
+      "codename": "K101A",
+      "model": "K101A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CONTIXO_V8",
       "codename": "CONTIXO-V8",
       "model": "V8"
@@ -33,9 +39,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V10",
+      "codename": "V10",
+      "model": "V10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V80",
+      "codename": "V80",
+      "model": "V80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V9",
       "codename": "CONTIXO-V9",
       "model": "V9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V90",
+      "codename": "V90",
+      "model": "V90"
     }
   ]
 }

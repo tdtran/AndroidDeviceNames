@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Swissvoice",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "G50",
+      "codename": "G50",
+      "model": "G50"
+    }
+  ]
+}

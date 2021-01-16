@@ -18,6 +18,18 @@
       "market_name": "OT-310",
       "codename": "OT-310",
       "model": "OT-310"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Partner_Evolution",
+      "codename": "Partner_Evolution",
+      "model": "Partner Evolution"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S70PCI",
+      "codename": "Batman",
+      "model": "S70PCI"
     }
   ]
 }

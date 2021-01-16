@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Orion",
+      "codename": "SEI500L",
+      "model": "Orion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIP6102W LLA-PA",
+      "codename": "vip6102w",
+      "model": "VIP6102W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIP6102W-LLA",
       "codename": "vip6102w",
       "model": "VIP6102W"

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Formovie Laser TV 4K Cinema",
+      "codename": "angleeUHD",
+      "model": "MiProjL1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HM 1SC",
       "codename": "armani",
       "model": "HM 1AC"
@@ -148,20 +154,8 @@
     {
       "manufacturer": "",
       "market_name": "K30 PRO",
-      "codename": "lmi",
-      "model": "POCO F2 Pro"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "K30 PRO",
       "codename": "lmiinpro",
       "model": "Redmi K30 Pro 5G Zoom Edition"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "K30 Pro",
-      "codename": "lmi",
-      "model": "POCO F2 Pro"
     },
     {
       "manufacturer": "",
@@ -573,6 +567,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi 10 Lite 5G",
+      "codename": "monet",
+      "model": "XIG01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10 Lite zoom",
+      "codename": "vangogh",
+      "model": "M2002J9E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi 10 Pro",
       "codename": "cmi",
       "model": "Cmi"
@@ -585,9 +591,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi 10 Ultra",
+      "codename": "cas",
+      "model": "M2007J1SC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi 10 lite 5G",
       "codename": "monet",
       "model": "M2002J9G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10 lite 5G",
+      "codename": "monet",
+      "model": "M2002J9S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10T",
+      "codename": "apollo",
+      "model": "M2007J3SP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10T",
+      "codename": "apollo",
+      "model": "M2007J3SY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10T Lite",
+      "codename": "gauguin",
+      "model": "M2007J17G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10T Pro",
+      "codename": "apollo",
+      "model": "M2007J3SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10T pro",
+      "codename": "apollo",
+      "model": "M2007J3SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10i",
+      "codename": "gauguininpro",
+      "model": "M2007J17I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11",
+      "codename": "venus",
+      "model": "M2011K2C"
     },
     {
       "manufacturer": "",
@@ -693,6 +753,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi Laser Projector 4K",
+      "codename": "angleeUHD",
+      "model": "MiProjL1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi MIX 3 5G",
       "codename": "andromeda",
       "model": "Mi MIX 3 5G"
@@ -711,9 +777,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi Note 10 Lite",
+      "codename": "toco",
+      "model": "Mi Note 10 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi Note 10 Lite",
+      "codename": "toco",
+      "model": "toco"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi Note2",
       "codename": "scorpio",
       "model": "Mi Note 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi TV Stick",
+      "codename": "aquaman",
+      "model": "MiTV-AESP0"
     },
     {
       "manufacturer": "",
@@ -798,6 +882,12 @@
       "market_name": "MiTV",
       "codename": "nino",
       "model": "MiTV-MSSP1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "tarzan",
+      "model": "MiTV-MOOQ1"
     },
     {
       "manufacturer": "",
@@ -1056,6 +1146,12 @@
       "market_name": "Redmi Note 5A",
       "codename": "ugglite",
       "model": "Redmi Note 5A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8",
+      "codename": "ginkgo",
+      "model": "Redmi Note 8"
     },
     {
       "manufacturer": "",

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TE590P",
+      "codename": "TE590P_E",
+      "model": "TE590P_E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TELO_TE610",
       "codename": "TELO_TE610",
       "model": "TELO_TE610"

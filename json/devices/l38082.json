@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Lenovo",
+    "market_name": "L38082",
+    "codename": "L38082",
+    "model": "Lenovo L38082"
+  },
+  {
+    "manufacturer": "Lenovo",
     "market_name": "Lenovo K11",
     "codename": "L38082",
     "model": "Lenovo L38082"

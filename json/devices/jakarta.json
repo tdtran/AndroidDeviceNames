@@ -3,7 +3,49 @@
     "manufacturer": "TCL",
     "market_name": "TCL L10+",
     "codename": "Jakarta",
+    "model": "5030E_TCL"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10+",
+    "codename": "Jakarta",
+    "model": "5130E"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10+",
+    "codename": "Jakarta",
+    "model": "5130G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10+",
+    "codename": "Jakarta",
+    "model": "5130I"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10+",
+    "codename": "Jakarta",
     "model": "5130J"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L10+",
+    "codename": "Jakarta",
+    "model": "5130K"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL T Pro",
+    "codename": "Jakarta",
+    "model": "5130M"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE",
+    "codename": "Jakarta",
+    "model": "5030A"
   },
   {
     "manufacturer": "TCT (Alcatel)",
@@ -27,6 +69,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1SE",
     "codename": "Jakarta",
+    "model": "5030E"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE",
+    "codename": "Jakarta",
     "model": "5030F"
   },
   {
@@ -45,6 +93,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1SE",
     "codename": "Jakarta",
+    "model": "5030G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE",
+    "codename": "Jakarta",
     "model": "5030I"
   },
   {
@@ -57,6 +111,18 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1SE",
     "codename": "Jakarta",
+    "model": "5030M"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE",
+    "codename": "Jakarta",
     "model": "5030U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SP",
+    "codename": "Jakarta",
+    "model": "5030E_RU"
   }
 ]

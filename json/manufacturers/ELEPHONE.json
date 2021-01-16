@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E10",
+      "codename": "E10",
+      "model": "E10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E10_Pro",
+      "codename": "E10_Pro",
+      "model": "E10_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elephone S8",
       "codename": "S8",
       "model": "S8"
@@ -81,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PX_Pro",
+      "codename": "PX_Pro",
+      "model": "PX_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Soldier",
       "codename": "Soldier",
       "model": "Soldier"
@@ -102,6 +120,12 @@
       "market_name": "U3H",
       "codename": "U3H",
       "model": "U3H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U5",
+      "codename": "U5",
+      "model": "U5"
     },
     {
       "manufacturer": "",

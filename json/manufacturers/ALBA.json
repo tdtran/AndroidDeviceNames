@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alba10Q",
+      "codename": "Alba10Q",
+      "model": "Alba10Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alba7Nou",
       "codename": "Alba7Nou",
       "model": "Alba7Nou"
@@ -42,6 +48,12 @@
       "market_name": "Alba7Pie",
       "codename": "Alba7Pie",
       "model": "Alba7Pie"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alba7Q",
+      "codename": "Alba7Q",
+      "model": "Alba7Q"
     },
     {
       "manufacturer": "",

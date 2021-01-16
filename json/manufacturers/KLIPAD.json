@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL1019_EEA",
+      "codename": "KL1019_EEA",
+      "model": "KL1019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL1088",
       "codename": "KL1088",
       "model": "KL1088"
@@ -39,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL3669E_EEA",
+      "codename": "KL3669E_EEA",
+      "model": "KL3669E_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL3669_EEA",
       "codename": "KL3669_EEA",
       "model": "KL3669_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL3678E_EEA",
+      "codename": "KL3678E_EEA",
+      "model": "KL3678E_EEA"
     },
     {
       "manufacturer": "",
@@ -63,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL4889B_EEA",
+      "codename": "KL4889B",
+      "model": "KL4889B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL4890",
       "codename": "KL4890",
       "model": "KL4890"
@@ -72,6 +96,12 @@
       "market_name": "KL4891",
       "codename": "KL4891",
       "model": "KL4891"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL4891_A50_EEA",
+      "codename": "KL4891-A50",
+      "model": "KL4891_A50"
     },
     {
       "manufacturer": "",
@@ -96,6 +126,12 @@
       "market_name": "KL502",
       "codename": "KL502",
       "model": "KL502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL553",
+      "codename": "KL553",
+      "model": "KL553_EEA"
     },
     {
       "manufacturer": "",

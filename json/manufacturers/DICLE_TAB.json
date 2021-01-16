@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Dicle_Tab",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Dicle_Tab_Active",
+      "codename": "Active",
+      "model": "Active"
+    }
+  ]
+}

@@ -3,9 +3,57 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "POCO C3",
+      "codename": "angelicain",
+      "model": "M2006C3MI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO F2 Pro",
+      "codename": "lmi",
+      "model": "POCO F2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M2",
+      "codename": "shiva",
+      "model": "M2004J19PI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M2 Pro",
+      "codename": "gram",
+      "model": "POCO M2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M3",
+      "codename": "citrus",
+      "model": "M2010J19CG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M3",
+      "codename": "citrus",
+      "model": "M2010J19CI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO X2",
       "codename": "phoenixin",
       "model": "POCO X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X3",
+      "codename": "karna",
+      "model": "M2007J20CI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X3 NFC",
+      "codename": "surya",
+      "model": "M2007J20CG"
     }
   ]
 }

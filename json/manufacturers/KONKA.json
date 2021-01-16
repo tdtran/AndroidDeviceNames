@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KONKA",
+      "codename": "sugamo",
+      "model": "KONKA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "hongik",
+      "model": "KONKA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RE1",
       "codename": "RE1",
       "model": "RE1"
@@ -36,6 +48,18 @@
       "market_name": "SE2",
       "codename": "SE2",
       "model": "SE2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP10",
+      "codename": "SP10",
+      "model": "SP10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP20",
+      "codename": "SP20",
+      "model": "SP20"
     },
     {
       "manufacturer": "",

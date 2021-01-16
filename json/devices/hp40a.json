@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "DIRECTV",
+    "market_name": "OTT-01",
+    "codename": "HP40A",
+    "model": "OTT-01"
+  },
+  {
+    "manufacturer": "Jawwy TV",
+    "market_name": "JAWWY-TV-2.0",
+    "codename": "HP40A",
+    "model": "JAWWY-TV-2.0"
+  },
+  {
+    "manufacturer": "Viettel",
+    "market_name": "ViettelTV 4K Box",
+    "codename": "HP40A",
+    "model": "ViettelTV 4K Box"
+  }
+]

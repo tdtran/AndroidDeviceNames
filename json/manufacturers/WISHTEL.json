@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IRA102017I",
+      "codename": "IRA102017I",
+      "model": "IRA102017I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IRAW7258",
       "codename": "IRAW7258",
       "model": "IRAW7258"
@@ -36,6 +42,12 @@
       "market_name": "IRA_DUO",
       "codename": "IRA_DUO",
       "model": "IRA_DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRA_S1",
+      "codename": "IRA_S1",
+      "model": "IRA_S1"
     }
   ]
 }

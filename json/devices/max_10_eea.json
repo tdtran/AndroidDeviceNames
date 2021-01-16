@@ -4,5 +4,11 @@
     "market_name": "MAX_10_EEA",
     "codename": "MAX_10_EEA",
     "model": "MAX 10"
+  },
+  {
+    "manufacturer": "Dragontouch",
+    "market_name": "MAX_10_eea",
+    "codename": "MAX_10_EEA",
+    "model": "MAX_10"
   }
 ]

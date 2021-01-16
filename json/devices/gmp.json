@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "A-STREAM",
+    "codename": "GMP",
+    "model": "A-STREAM"
+  },
+  {
+    "manufacturer": "HAKO",
+    "market_name": "HAKO mini",
+    "codename": "GMP",
+    "model": "HAKO mini"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "DVM4KA01",
+    "codename": "GMP",
+    "model": "DVM4KA01"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "NeoViu D1",
+    "codename": "GMP",
+    "model": "NeoViu D1"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "SMX4K",
+    "codename": "GMP",
+    "model": "SMX4K"
+  }
+]

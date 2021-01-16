@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Tecnomaster",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Tecnomaster",
+      "codename": "seocho",
+      "model": "Tecnomaster 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tecnomaster",
+      "codename": "sugamo",
+      "model": "Tecnomaster 2K Android TV"
+    }
+  ]
+}

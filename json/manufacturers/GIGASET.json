@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gigaset GS3",
+      "codename": "GS3",
+      "model": "E940-2766-00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gigaset GS370",
       "codename": "GS370",
       "model": "GS370"
@@ -102,6 +108,12 @@
       "market_name": "Gigaset GS370_Plus",
       "codename": "GS370_Plus",
       "model": "GS370_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gigaset GS4",
+      "codename": "Gigaset_GS4",
+      "model": "E940-2795-00"
     },
     {
       "manufacturer": "",

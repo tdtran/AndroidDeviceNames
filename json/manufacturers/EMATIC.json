@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "7\u0027\u0027 dvd tablet",
+      "codename": "PBDV704DVD",
+      "model": "PBDV704DVD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cubby",
       "codename": "SproutChannelCubby",
       "model": "SproutChannelCubby"
@@ -204,6 +210,24 @@
       "market_name": "PBS Kids PlayPad",
       "codename": "PBSKD12",
       "model": "PBSKD12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBSKD7001",
+      "codename": "PBSKD7001",
+      "model": "PBSKD7001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBSKD7200",
+      "codename": "PBSKD7200",
+      "model": "PBSKD7200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBSKD7201",
+      "codename": "PBSKD7201",
+      "model": "PBSKD7201"
     },
     {
       "manufacturer": "",

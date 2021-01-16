@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EASY_5",
+      "codename": "EASY_5",
+      "model": "EASY_5_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EASY_S55P",
+      "codename": "EASY_S55P",
+      "model": "EASY_S55P_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KONROW",
       "codename": "KONROW_701X",
       "model": "KONROW_701X"
@@ -78,6 +90,18 @@
       "market_name": "SKY PLUS",
       "codename": "KONROW_SKY_PLUS",
       "model": "SKY PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY55",
+      "codename": "SKY55",
+      "model": "SKY55_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_55",
+      "codename": "SKY_55",
+      "model": "SKY_55_EEA"
     },
     {
       "manufacturer": "",

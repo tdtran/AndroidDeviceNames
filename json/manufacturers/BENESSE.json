@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB-A05-BD",
+      "codename": "TAB-A05-BD",
+      "model": "TAB-A05-BD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB-BEG-01",
       "codename": "beg01",
       "model": "TAB-BEG-01"

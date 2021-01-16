@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FVP-4KGTR",
+      "codename": "fvp4kgtr",
+      "model": "FVP-4KGTR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H5_DLIVE",
       "codename": "h5mini",
       "model": "H5_DLIVE"

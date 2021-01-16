@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DragonTouch",
+      "codename": "MAX-10",
+      "model": "MAX-10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DragonTouch",
+      "codename": "MAX-10_EEA",
+      "model": "MAX-10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dragon_Touch",
+      "codename": "MAX_10",
+      "model": "MAX_10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K8",
       "codename": "K8",
       "model": "K8"
@@ -12,6 +30,18 @@
       "market_name": "KidzPad_Y80",
       "codename": "KidzPad_Y80",
       "model": "KidzPad_Y80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KidzPad_Y88X_8",
+      "codename": "KidzPad_Y88X_8",
+      "model": "KidzPad_Y88X_8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KidzPad_Y88X_8_EEA",
+      "codename": "KidzPad_Y88X_8_EEA",
+      "model": "KidzPad_Y88X_8_EEA"
     },
     {
       "manufacturer": "",
@@ -39,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAX_10_eea",
+      "codename": "MAX_10_EEA",
+      "model": "MAX_10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NotePad_101_B",
       "codename": "NotePad_101_B",
       "model": "NotePad_101_B"
@@ -63,6 +99,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Notepad-K10",
+      "codename": "Notepad-K10",
+      "model": "Notepad-K10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Notepad102",
+      "codename": "Notepad102",
+      "model": "Notepad 102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Notepad102_EEA",
+      "codename": "Notepad102_EEA",
+      "model": "Notepad 102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NotepadGo801",
+      "codename": "NotepadGo801",
+      "model": "Notepad_Go_801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NotepadGo801_EEA",
+      "codename": "NotepadGo801_EEA",
+      "model": "Notepad_Go_801_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Notepad_Go_801",
       "codename": "Notepad_Go_801",
       "model": "Notepad_Go_801"
@@ -81,6 +147,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S10M",
+      "codename": "S10M",
+      "model": "S10M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10M_EEA",
+      "codename": "S10M_EEA",
+      "model": "S10M_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10M",
+      "codename": "T10M",
+      "model": "T10M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10M_EEA",
+      "codename": "T10M_EEA",
+      "model": "T10M_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"
@@ -96,6 +186,12 @@
       "market_name": "X10",
       "codename": "tulip-d210",
       "model": "X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "X7",
+      "model": "X7"
     },
     {
       "manufacturer": "",

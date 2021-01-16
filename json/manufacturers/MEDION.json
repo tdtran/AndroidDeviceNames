@@ -105,6 +105,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LIFETAB E1042X",
+      "codename": "E1042X",
+      "model": "LIFETAB E1042X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIFETAB E1043X",
+      "codename": "E1043X",
+      "model": "LIFETAB E1043X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIFETAB E1052X",
+      "codename": "E1052X",
+      "model": "LIFETAB E1052X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIFETAB E1053X",
+      "codename": "E1053X",
+      "model": "LIFETAB E1053X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIFETAB E1060X",
       "codename": "E1060X",
       "model": "E1060X"
@@ -114,6 +138,12 @@
       "market_name": "LIFETAB E1070X",
       "codename": "E1070X",
       "model": "LIFETAB E1070X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIFETAB E1071X",
+      "codename": "E1071X",
+      "model": "LIFETAB E1071X"
     },
     {
       "manufacturer": "",
@@ -288,6 +318,12 @@
       "market_name": "P1061X",
       "codename": "P1061X",
       "model": "P1061X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P1071X",
+      "codename": "P1071X",
+      "model": "LIFETAB P1071X"
     },
     {
       "manufacturer": "",

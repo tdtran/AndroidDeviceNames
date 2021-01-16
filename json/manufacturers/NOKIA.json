@@ -3,15 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "C2",
-      "codename": "NBL",
-      "model": "Nebula"
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
     },
     {
       "manufacturer": "",
-      "market_name": "C2",
-      "codename": "NBL",
-      "model": "Nokia C2"
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DVN2KA01",
+      "codename": "DV6068H_Nokia",
+      "model": "DVN2KA01"
     },
     {
       "manufacturer": "",
@@ -51,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 2 V Tella",
+      "codename": "ARV_VZW",
+      "model": "Nokia 2 V Tella"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 2.1",
       "codename": "E2M",
       "model": "Nokia 2.1"
@@ -66,6 +78,18 @@
       "market_name": "Nokia 2.3",
       "codename": "IRM_sprout",
       "model": "Nokia 2.3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 2.4",
+      "codename": "WVR",
+      "model": "Nokia 2.4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 2.4",
+      "codename": "WVR_sprout",
+      "model": "Nokia 2.4"
     },
     {
       "manufacturer": "",
@@ -153,8 +177,32 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 3.4",
+      "codename": "DRS",
+      "model": "Nokia 3.4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3.4",
+      "codename": "DRSA_sprout",
+      "model": "Nokia 3.4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3.4",
+      "codename": "DRS_sprout",
+      "model": "Nokia 3.4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 4.2",
       "codename": "PAN_sprout",
+      "model": "Nokia 4.2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 4.2",
+      "codename": "Panther_00EEE",
       "model": "Nokia 4.2"
     },
     {
@@ -198,6 +246,36 @@
       "market_name": "Nokia 5.1 Plus",
       "codename": "PDA_sprout",
       "model": "Nokia 5.1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5.3",
+      "codename": "CAP",
+      "model": "Nokia 5.3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5.3",
+      "codename": "CAP_sprout",
+      "model": "Nokia 5.3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5.4",
+      "codename": "DRD",
+      "model": "Nokia 5.4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5.4",
+      "codename": "DRDA_sprout",
+      "model": "Nokia 5.4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5.4",
+      "codename": "DRD_sprout",
+      "model": "Nokia 5.4"
     },
     {
       "manufacturer": "",
@@ -339,6 +417,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 8 V 5G UW",
+      "codename": "RAV_VZW",
+      "model": "Nokia 8 V 5G UW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 8.1",
       "codename": "PNXN",
       "model": "Nokia 8.1"
@@ -348,6 +432,18 @@
       "market_name": "Nokia 8.1",
       "codename": "PNX_sprout",
       "model": "Nokia 8.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 8.3 5G",
+      "codename": "BGT",
+      "model": "Nokia 8.3 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 8.3 5G",
+      "codename": "BGT_sprout",
+      "model": "Nokia 8.3 5G"
     },
     {
       "manufacturer": "",
@@ -366,6 +462,48 @@
       "market_name": "Nokia C1",
       "codename": "RKU",
       "model": "Nokia C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C1 Plus",
+      "codename": "YDU",
+      "model": "Nokia C1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C2",
+      "codename": "NBL",
+      "model": "Nebula"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C2",
+      "codename": "NBL",
+      "model": "Nokia C2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C2 Tennen",
+      "codename": "ARV_CUS",
+      "model": "Nokia C2 Tennen"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C3",
+      "codename": "GMR",
+      "model": "Nokia C3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C5 Endi",
+      "codename": "PMC_CUS",
+      "model": "Nokia C5 Endi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia Steaming Box 8000",
+      "codename": "HND",
+      "model": "Nokia Streaming Box 8000"
     },
     {
       "manufacturer": "",
@@ -390,6 +528,12 @@
       "market_name": "Nokia X71",
       "codename": "TAS",
       "model": "Nokia X71"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEI600HM",
+      "codename": "HND",
+      "model": "Box Q"
     }
   ]
 }

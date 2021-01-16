@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "BeyondTV4",
+    "codename": "BeyondTV4",
+    "model": "Smart TV Pro"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "BeyondTV6",
+    "codename": "BeyondTV4",
+    "model": "Smart TV Pro"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "Smart TV",
+    "codename": "BeyondTV4",
+    "model": "Smart TV"
+  }
+]

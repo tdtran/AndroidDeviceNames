@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AudeaTablet",
+      "codename": "AudeaTablet",
+      "model": "AudeaTablet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OASTN_9301",
+      "codename": "OASTN_9301",
+      "model": "OASTN_9301"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OAS_9301",
       "codename": "OAS_9301",
       "model": "OAS_9301"
@@ -12,6 +24,12 @@
       "market_name": "TEG9300",
       "codename": "TEG9300",
       "model": "TEG9300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEG9300-5",
+      "codename": "TEG9300-5",
+      "model": "TEG9300-5"
     },
     {
       "manufacturer": "",

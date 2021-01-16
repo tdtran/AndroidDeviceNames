@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 10s",
+    "codename": "Odin",
+    "model": "9081X"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 10s 4G",
+    "codename": "Odin",
+    "model": "9080G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 10s 4G",
+    "codename": "Odin",
+    "model": "9080X"
+  },
+  {
     "manufacturer": "Vertu",
     "market_name": "Signature Touch",
     "codename": "odin",

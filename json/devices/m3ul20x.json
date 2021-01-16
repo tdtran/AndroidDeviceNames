@@ -4,5 +4,11 @@
     "market_name": "M3 UL20X",
     "codename": "M3UL20X",
     "model": "M3UL20X"
+  },
+  {
+    "manufacturer": "M3 Mobile",
+    "market_name": "M3UL20X_EEA",
+    "codename": "M3UL20X",
+    "model": "M3UL20X"
   }
 ]

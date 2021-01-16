@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10_Blue_Max",
+      "codename": "M10_Blue_Max",
+      "model": "M10_Blue_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10_Pro_LTE",
       "codename": "M10_Pro_LTE",
       "model": "M10 Pro LTE"
@@ -102,6 +108,18 @@
       "market_name": "P13 Blue Max",
       "codename": "P13_Blue_Max",
       "model": "P13_Blue_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue Max Lite",
+      "codename": "P13_BML",
+      "model": "P13 Blue Max Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue Plus",
+      "codename": "P13_Blue_Plus",
+      "model": "P13_Blue_Plus"
     },
     {
       "manufacturer": "",

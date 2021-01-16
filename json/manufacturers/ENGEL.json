@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ENGEL",
+      "codename": "bangbae",
+      "model": "Engel 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LE3290ATV",
       "codename": "osaki",
       "model": "2K AI Smart TV"

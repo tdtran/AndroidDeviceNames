@@ -6,6 +6,18 @@
       "market_name": "DV6067H",
       "codename": "DV6067H",
       "model": "DV6067H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MarQ",
+      "codename": "bangbae",
+      "model": "MarQ 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MarQ",
+      "codename": "komagome",
+      "model": "MarQ 2K Android TV"
     }
   ]
 }

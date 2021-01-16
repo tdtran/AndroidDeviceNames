@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T701_X",
+      "codename": "T701_X",
+      "model": "T701_X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T806",
       "codename": "T806",
       "model": "T806"
@@ -78,6 +84,18 @@
       "market_name": "iPlay 8 Pro",
       "codename": "T806MHE",
       "model": "T806MHE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay_20",
+      "codename": "iPlay_20",
+      "model": "iPlay_20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay_30",
+      "codename": "T1012",
+      "model": "iPlay_30"
     }
   ]
 }

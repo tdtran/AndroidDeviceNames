@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AKAI",
+      "codename": "bangbae",
+      "model": "AKAI 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ101",
       "codename": "FZ101",
       "model": "FZ101"

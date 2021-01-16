@@ -1,11 +1,23 @@
 {
-  "manufacturer": "ENTITY",
+  "manufacturer": "Entity",
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "GDENTMY7317",
-      "codename": "GDENTMY7317",
-      "model": "GDENTMY7317"
+      "market_name": "ENT1529I20",
+      "codename": "ENT1529I20",
+      "model": "ENT1529I20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ENT15QF220",
+      "codename": "ENT15QF220",
+      "model": "ENT15QF220"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ENT75QF620_EEA",
+      "codename": "ENT75QF620",
+      "model": "ENT75QF620"
     }
   ]
 }

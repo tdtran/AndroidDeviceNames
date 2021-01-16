@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S1",
+      "codename": "S1",
+      "model": "S1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UNO",
       "codename": "UNO",
       "model": "UNO"

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10X Pro",
+    "codename": "banana",
+    "model": "M2004J7BC"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "",
     "codename": "banana",

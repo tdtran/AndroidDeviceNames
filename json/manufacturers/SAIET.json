@@ -1,0 +1,23 @@
+{
+  "manufacturer": "SAIET",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "STS502",
+      "codename": "STS502",
+      "model": "STS502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STS550",
+      "codename": "STS550",
+      "model": "STS550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STS570",
+      "codename": "STS570",
+      "model": "STS570"
+    }
+  ]
+}

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "My",
+    "market_name": "Android TV",
+    "codename": "tokyo",
+    "model": "Android TV"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "TCL L10+",
     "codename": "Tokyo",

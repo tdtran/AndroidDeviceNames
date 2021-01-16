@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T3G_10B",
+      "codename": "T3G_10B",
+      "model": "T3G_10B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TWIFI-04",
       "codename": "TWIFI-04",
       "model": "TWIFI-04"
@@ -18,6 +24,12 @@
       "market_name": "TWIFI-06",
       "codename": "TWIFI-06",
       "model": "TWIFI-06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TWIFI_07",
+      "codename": "TWIFI-07",
+      "model": "TWIFI-07"
     }
   ]
 }

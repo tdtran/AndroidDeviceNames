@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Casper VIA S48",
+      "codename": "VIA_S48",
+      "model": "VIA_S48"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Casper VIA X20",
+      "codename": "VIA_X20",
+      "model": "VIA X20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L20",
       "codename": "L20",
       "model": "L20"
@@ -141,9 +153,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA_E4",
+      "codename": "VIA_E4",
+      "model": "VIA_E4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA_F3",
       "codename": "VIA_F3",
       "model": "VIA_F3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_G5",
+      "codename": "VIA_G5",
+      "model": "VIA G5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_L30",
+      "codename": "VIA_L30",
+      "model": "VIA_L30"
     },
     {
       "manufacturer": "",
@@ -180,6 +210,12 @@
       "market_name": "VIA_S18",
       "codename": "VIA_S18",
       "model": "VIA_S18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_S30",
+      "codename": "VIA_S30",
+      "model": "VIA_S30"
     },
     {
       "manufacturer": "",

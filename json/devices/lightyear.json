@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "SPC Mobile",
+    "market_name": "Lightyear",
+    "codename": "Lightyear",
+    "model": "Lightyear"
+  },
+  {
     "manufacturer": "SPC Universe",
     "market_name": "Lightyear",
     "codename": "Lightyear",

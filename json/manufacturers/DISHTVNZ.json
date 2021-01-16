@@ -12,6 +12,12 @@
       "market_name": "SV10",
       "codename": "HiCast",
       "model": "SV10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SV11",
+      "codename": "ICN",
+      "model": "SV11"
     }
   ]
 }

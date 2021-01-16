@@ -1,0 +1,11 @@
+{
+  "manufacturer": "RockTek",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RT-G1",
+      "codename": "RTBox",
+      "model": "RT-G1"
+    }
+  ]
+}

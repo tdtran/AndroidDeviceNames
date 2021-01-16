@@ -10,5 +10,17 @@
     "market_name": "Moto G Turbo Edition",
     "codename": "merlin",
     "model": "MotoG3-TE"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10X 4G",
+    "codename": "merlin",
+    "model": "M2003J15SC"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 9",
+    "codename": "merlin",
+    "model": "M2003J15SC"
   }
 ]

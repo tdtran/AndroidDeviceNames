@@ -3,8 +3,14 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "SAUDI ARABIC",
+      "market_name": "CGS55UHD",
       "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EGS42FHD",
+      "codename": "ikebukuro",
       "model": "AI PONT"
     }
   ]

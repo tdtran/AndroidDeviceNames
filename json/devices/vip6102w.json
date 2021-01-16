@@ -1,7 +1,19 @@
 [
   {
     "manufacturer": "Arris",
-    "market_name": "VIP6102W",
+    "market_name": "VIP6102W Genesis",
+    "codename": "vip6102w",
+    "model": "VIP6102W"
+  },
+  {
+    "manufacturer": "Connexion TV",
+    "market_name": "VIP6102W FCGOV",
+    "codename": "vip6102w",
+    "model": "VIP6102W"
+  },
+  {
+    "manufacturer": "LLA",
+    "market_name": "VIP6102W LLA-PA",
     "codename": "vip6102w",
     "model": "VIP6102W"
   },
@@ -16,6 +28,12 @@
     "market_name": "VIP6102W",
     "codename": "vip6102w",
     "model": "VIP6102W"
+  },
+  {
+    "manufacturer": "TIGO",
+    "market_name": "ONEtv",
+    "codename": "vip6102w",
+    "model": "ONEtv"
   },
   {
     "manufacturer": "Vodafone",

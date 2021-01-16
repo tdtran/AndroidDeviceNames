@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A20 Lite",
+      "codename": "A20_Lite",
+      "model": "A20_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20 Max",
+      "codename": "A20_Max",
+      "model": "A20_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A5 Easy",
       "codename": "A5_Easy",
       "model": "A5_Easy"
@@ -144,6 +156,12 @@
       "market_name": "AX503",
       "codename": "AX503",
       "model": "AX503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Allview",
+      "codename": "komagome",
+      "model": "ALLVIEW 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -639,6 +657,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Viva  H1003 LTE",
+      "codename": "Viva_H1003_LTE",
+      "model": "Viva_H1003_LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva 1001G",
       "codename": "Viva_1001G",
       "model": "Viva_1001G"
@@ -681,6 +705,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Viva C703",
+      "codename": "Viva_C703_Q",
+      "model": "Viva_C703"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva H10 LTE",
       "codename": "Allview_VivaH10LTE_KK",
       "model": "VivaH10LTE"
@@ -696,6 +726,30 @@
       "market_name": "Viva H1002 LTE",
       "codename": "Viva_H1002_LTE",
       "model": "Viva_H1002_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva H1003 LTE PRO",
+      "codename": "H1003_LTE_PRO",
+      "model": "H1003_LTE_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva H1003 LTE PRO/1",
+      "codename": "H1003_LTE_PRO1",
+      "model": "H1003_LTE_PRO1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva H1003 LTE PRO/B6",
+      "codename": "H1003_LTE_PRO",
+      "model": "H1003_LTE_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva H1004 LTE",
+      "codename": "H1004_LTE",
+      "model": "H1004_LTE"
     },
     {
       "manufacturer": "",

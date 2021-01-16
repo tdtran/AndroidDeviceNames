@@ -3,9 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APEX_P10HD_PRO",
+      "codename": "APEX_P10HD_PRO",
+      "model": "APEX_P10HD_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M20_4G",
       "codename": "M20_4G",
       "model": "M20_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M30_Pro_ROW",
+      "codename": "M30_Pro_ROW",
+      "model": "M30_Pro_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40_EEA",
+      "codename": "M40_EEA",
+      "model": "M40_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40_ROW",
+      "codename": "M40_ROW",
+      "model": "M40_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10HD_N5H6",
+      "codename": "P10S_ROW",
+      "model": "P10S_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10SE_EEA",
+      "codename": "P10SE_EEA",
+      "model": "P10SE_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10SE_ROW",
+      "codename": "P10SE_ROW",
+      "model": "P10SE_ROW"
     },
     {
       "manufacturer": "",
@@ -33,6 +75,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P20HD_EEA",
+      "codename": "P20HD_EEA",
+      "model": "P20HD_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20HD_ROW",
+      "codename": "P20HD_ROW",
+      "model": "P20HD_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20HD_RUS",
+      "codename": "P20HD_RUS",
+      "model": "P20HD_RUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20_EEA",
+      "codename": "P20_EEA",
+      "model": "P20_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20_ROW",
+      "codename": "P20_ROW",
+      "model": "P20_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20_RUS",
+      "codename": "P20_RUS",
+      "model": "P20_RUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P80X",
       "codename": "P80X",
       "model": "P80X"
@@ -42,6 +120,42 @@
       "market_name": "P80X_EEA",
       "codename": "P80X",
       "model": "P80X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80X_EEA",
+      "codename": "P80X",
+      "model": "P80X_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80_EEA",
+      "codename": "P80_EEA",
+      "model": "P80_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80_EEA",
+      "codename": "P80_G3M2_EEA",
+      "model": "P80_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80h_EEA",
+      "codename": "P80h_EEA",
+      "model": "P80h_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80h_KR",
+      "codename": "P80h_KR",
+      "model": "P80h_KR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80h_ROW",
+      "codename": "P80h_ROW",
+      "model": "P80h_ROW"
     },
     {
       "manufacturer": "",
@@ -63,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T8",
+      "codename": "T8",
+      "model": "T8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X_EEA",
       "codename": "X_EEA",
       "model": "X_EEA"
@@ -72,6 +192,12 @@
       "market_name": "X_ROW",
       "codename": "X_ROW",
       "model": "X_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ssaemyo-inuriTab",
+      "codename": "P10S_ROW",
+      "model": "P10S_ROW"
     },
     {
       "manufacturer": "",

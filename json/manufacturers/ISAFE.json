@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IS330",
+      "codename": "IS330",
+      "model": "IS330"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS520",
       "codename": "IS520",
       "model": "IS520"

@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BRIO_X31",
+      "codename": "BRIO_X31",
+      "model": "BRIO_X31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10MT16",
+      "codename": "X10MT16",
+      "model": "X10MT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10MT87",
+      "codename": "X10MT87",
+      "model": "X10MT87"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X739Q",
       "codename": "bnd8163_tb_n",
       "model": "X739Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8MT16",
+      "codename": "X8MT16",
+      "model": "X8MT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8MT87",
+      "codename": "X8MT87",
+      "model": "X8MT87"
     },
     {
       "manufacturer": "",

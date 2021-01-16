@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TT20_eea",
+      "codename": "TTfone_TT20",
+      "model": "TTfone TT20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Trifone_X7",
       "codename": "Trifone_X7",
       "model": "Trifone_X7"

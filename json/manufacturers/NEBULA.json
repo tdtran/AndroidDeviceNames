@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D2140",
+      "codename": "D2140-Cosmos",
+      "model": "D2140"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D2150",
+      "codename": "D2140-Cosmos",
+      "model": "D2150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D2241",
       "codename": "DM8260",
       "model": "D2241"

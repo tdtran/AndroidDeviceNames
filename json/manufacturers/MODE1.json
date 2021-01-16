@@ -12,6 +12,12 @@
       "market_name": "MD-04P",
       "codename": "MD-04P",
       "model": "MD-04P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MP1",
+      "codename": "MP1",
+      "model": "MD_G1212U"
     }
   ]
 }

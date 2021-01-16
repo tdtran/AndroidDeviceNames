@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART_L104_eea",
+      "codename": "SMART_L104_eea",
+      "model": "SMART_L104_eea"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART_W101",
       "codename": "SMART_W101",
       "model": "SMART_W101"

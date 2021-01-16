@@ -1,0 +1,17 @@
+{
+  "manufacturer": "GABA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GABA",
+      "codename": "bangbae",
+      "model": "GABA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GABA",
+      "codename": "komagome",
+      "model": "GABA 2K Android TV"
+    }
+  ]
+}

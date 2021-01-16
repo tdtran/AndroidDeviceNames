@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Positivo Q20",
+      "codename": "Q20",
+      "model": "Positivo Q20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Positivo T1075B",
       "codename": "T1075B",
       "model": "T1075B"
@@ -360,6 +366,12 @@
       "market_name": "Twist Tab",
       "codename": "T770",
       "model": "Twist Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab",
+      "codename": "T770",
+      "model": "Twist Tab Kids"
     },
     {
       "manufacturer": "",

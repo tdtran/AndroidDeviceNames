@@ -1,0 +1,17 @@
+{
+  "manufacturer": "F\u0026U (Fandu)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Greece",
+      "codename": "tamachi",
+      "model": "F and U Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Greece",
+      "codename": "yeongdeungpo",
+      "model": "F and U Android TV"
+    }
+  ]
+}

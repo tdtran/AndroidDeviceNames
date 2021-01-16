@@ -1,67 +1,241 @@
 [
   {
+    "manufacturer": "ALBADEEL",
+    "market_name": "B725U",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Aiwa",
+    "market_name": "AW-LED32G7K",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Aiwa",
+    "market_name": "AW-LED43GKF",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Arrow",
+    "market_name": "RO-43LCS",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BPL",
+    "market_name": "A4300",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "BenQ",
-    "market_name": "China Taiwan",
+    "market_name": "E40-520",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Bravis",
+    "market_name": "G7H",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Changhong",
-    "market_name": "AP(Indonesia etc.)/MENA",
+    "market_name": "L32H7",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Changhong",
-    "market_name": "AP(Indonesia etc.)/MENA",
+    "market_name": "L32H7",
     "codename": "ikebukuro",
     "model": "CHiQ AI Center"
   },
   {
+    "manufacturer": "Changhong",
+    "market_name": "L42G6F",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Classpro",
+    "market_name": "EGS42FHD",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Condor",
-    "market_name": "Algeria",
+    "market_name": "32SD520",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Croma",
+    "market_name": "43FDVRCHG5SP",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Grunhelm",
+    "market_name": "GT9HD32",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Hyundai",
-    "market_name": "Russia",
+    "market_name": "G9S",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "H-LED32ES5008",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "H-LED32ES5108",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYLED4321AiM",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Infinix",
+    "market_name": "32X1",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "G4310IE",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "LT-32N3115A",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "LT-40KB308",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "LT-40N5115A",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "KUNFT",
+    "market_name": "K5132H32H",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "KALED32RH9210STA",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Micromax",
-    "market_name": "India",
+    "market_name": "32CAM6SHD",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Nikkei",
+    "market_name": "NI32HG7NA9",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "NobleSkiodo",
+    "market_name": "32VRCHG5SP",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "ODL 32770H-TAB",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "PTV40G71AGBL-VA",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Realme",
-    "market_name": "India",
+    "market_name": "realme TV",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Realme",
+    "market_name": "realme TV 32",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Rindo",
+    "market_name": "R-32B6600",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Riviera",
+    "market_name": "RLED-AND42CHG6F",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "SHINON",
-    "market_name": "Iraq",
+    "market_name": "SH32G7S",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Syinix",
-    "market_name": "Africa \u0026 Asia Pacific",
+    "market_name": "32A1S",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Thomson",
-    "market_name": "Algeria",
+    "market_name": "32TG6A9",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "UNITED TV",
+    "market_name": "LED32HS72A9",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "VTCNOWRINDO",
+    "market_name": "VR-42AF6800",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Vu Televisions",
-    "market_name": "India",
+    "market_name": "43UA",
     "codename": "ikebukuro",
     "model": "AI PONT"
   }

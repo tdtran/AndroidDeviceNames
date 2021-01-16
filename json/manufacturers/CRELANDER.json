@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Crelander",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E101",
+      "codename": "E101",
+      "model": "E101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E102",
+      "codename": "E102",
+      "model": "E102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E105",
+      "codename": "E105",
+      "model": "E105"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z103",
+      "codename": "Z103",
+      "model": "Z103"
+    }
+  ]
+}

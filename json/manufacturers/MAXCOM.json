@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MS507_STRONG",
+      "codename": "MS507_STRONG",
+      "model": "MS507_STRONG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS514",
       "codename": "MS514",
       "model": "MS514"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS515",
+      "codename": "MS515",
+      "model": "MS515"
     },
     {
       "manufacturer": "",
@@ -47,6 +59,12 @@
       "manufacturer": "",
       "market_name": "MS571",
       "codename": "MS571",
+      "model": "MS571"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS571",
+      "codename": "MS571_plus",
       "model": "MS571"
     },
     {

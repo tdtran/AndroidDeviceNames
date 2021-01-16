@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tRCA RCT6716Q25",
+      "codename": "RCT6716Q25",
+      "model": "RCT6716Q25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "10 Viking",
       "codename": "RCT6A03W13",
       "model": "RCT6A03W13"
@@ -147,9 +153,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DRP2091Q",
+      "codename": "DRP2091Q",
+      "model": "DRP2091Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DRP29101QD",
+      "codename": "DRP29101QD",
+      "model": "DRP29101QD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DRP29101QT",
+      "codename": "DRP29101QT",
+      "model": "DRP29101QT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gemini 10 pro",
       "codename": "RCT6A03W13FU",
       "model": "RCT6A03W13FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HKC",
+      "codename": "gangbyeon",
+      "model": "HKC 4K AI Smart TV"
     },
     {
       "manufacturer": "",
@@ -186,6 +216,30 @@
       "market_name": "RC7T3G19",
       "codename": "RC7T3G19",
       "model": "RC7T3G19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RC7T3G21",
+      "codename": "RC7T3G21",
+      "model": "RC7T3G21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA",
+      "codename": "gangbyeon",
+      "model": "4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA",
+      "codename": "seocho",
+      "model": "RCA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA",
+      "codename": "ueno",
+      "model": "2K Android TV"
     },
     {
       "manufacturer": "",
@@ -285,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCARENO5011619",
+      "codename": "RCARENO5011619",
+      "model": "RCARENO5011619"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA_G2",
       "codename": "RCA_G2",
       "model": "RCA G2"
@@ -363,9 +423,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCT6513W87",
+      "codename": "RCT6513W87DK5eQm",
+      "model": "RCT6513W87DK5eQm"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6513W87DK5e",
       "codename": "RCT6513W87DK5e",
       "model": "RCT6513W87DK5e"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6513W87DK5eQ",
+      "codename": "RCT6513W87DK5eQ",
+      "model": "RCT6513W87DK5eQ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6513W87DK5eQe",
+      "codename": "RCT6513W87DK5eQe",
+      "model": "RCT6513W87DK5eQe"
     },
     {
       "manufacturer": "",
@@ -399,6 +477,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCT6716Q24",
+      "codename": "RCT6716Q24",
+      "model": "RCT6716Q24"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6773W22",
       "codename": "RCT6773W22",
       "model": "RCT6773W22"
@@ -411,6 +495,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCT6873W42BMF8QE",
+      "codename": "RCT6873W42BMF8QE",
+      "model": "RCT6873W42BMF8QE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6873W42BMF9A",
       "codename": "RCT6873W42BMF9A",
       "model": "RCT6873W42BMF9A"
@@ -420,6 +510,18 @@
       "market_name": "RCT6873W42M",
       "codename": "RCT6873W42M",
       "model": "RCT6873W42M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6876Q22",
+      "codename": "RCT6876Q22",
+      "model": "RCT6876Q22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6876Q22N",
+      "codename": "RCT6876Q22N",
+      "model": "RCT6876Q22N"
     },
     {
       "manufacturer": "",
@@ -447,9 +549,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCT6A03W13Q",
+      "codename": "RCT6A03W13Q",
+      "model": "RCT6A03W13Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6A06E12",
       "codename": "RCT6A06E12",
       "model": "RCT6A06E12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6A06Q22",
+      "codename": "RCT6A06Q22",
+      "model": "RCT6A06Q22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6B03Q23",
+      "codename": "RCT6B03Q23",
+      "model": "RCT6B03Q23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6B06Q23",
+      "codename": "RCT6B06Q23",
+      "model": "RCT6B06Q23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6T48Q35",
+      "codename": "RCT6T48Q35",
+      "model": "RCT6T48Q35"
     },
     {
       "manufacturer": "",
@@ -468,6 +600,12 @@
       "market_name": "RTA3201",
       "codename": "kanda",
       "model": "2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "US",
+      "codename": "gangbyeon",
+      "model": "4K Smart TV"
     },
     {
       "manufacturer": "",

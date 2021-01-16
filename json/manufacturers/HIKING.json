@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A22",
+      "codename": "A22",
+      "model": "A22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A23",
+      "codename": "A23",
+      "model": "A23"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HIKING_A18",
       "codename": "HIKING_A18",
       "model": "HIKING_A18"

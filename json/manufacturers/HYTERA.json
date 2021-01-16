@@ -9,9 +9,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PDC680",
+      "codename": "PDC680",
+      "model": "PDC680"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PDC760",
+      "codename": "PDC760",
+      "model": "PDC760"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PDM680",
+      "codename": "PDM680",
+      "model": "PDM680"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PNC550",
       "codename": "PNC550",
       "model": "PNC550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PNC550_P_TU",
+      "codename": "PNC550",
+      "model": "PNC550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PTC680",
+      "codename": "PTC680",
+      "model": "PTC680"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PTC760",
+      "codename": "PTC760",
+      "model": "PTC760"
     }
   ]
 }

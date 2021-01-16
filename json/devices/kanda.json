@@ -1,9 +1,27 @@
 [
   {
+    "manufacturer": "IMPECCA",
+    "market_name": "IMP",
+    "codename": "kanda",
+    "model": "IMPECCA 2K Smart TV"
+  },
+  {
+    "manufacturer": "KEMPLER STRAUSS",
+    "market_name": "32FD1",
+    "codename": "kanda",
+    "model": "2K Smart TV"
+  },
+  {
     "manufacturer": "RCA",
     "market_name": "RTA3201",
     "codename": "kanda",
     "model": "2K Smart TV"
+  },
+  {
+    "manufacturer": "SUPERSONIC",
+    "market_name": "SUPERSONIC",
+    "codename": "kanda",
+    "model": "SUPERSONIC 2K Smart TV"
   },
   {
     "manufacturer": "SYLVANIA",

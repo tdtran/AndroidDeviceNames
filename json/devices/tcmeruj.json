@@ -1,7 +1,7 @@
 [
   {
     "manufacturer": "Sharp",
-    "market_name": "4T-C**BL1/BJ1/BN1",
+    "market_name": "4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1",
     "codename": "tcmeruj",
     "model": "AQUOS-TVJ19"
   },
@@ -10,5 +10,11 @@
     "market_name": "4T-C**BN1/BL1",
     "codename": "tcmeruj",
     "model": "AQUOS-TVJ19B"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "4T-C**BN1H/BL1H",
+    "codename": "tcmeruj",
+    "model": "AQUOS-TVJ20B"
   }
 ]

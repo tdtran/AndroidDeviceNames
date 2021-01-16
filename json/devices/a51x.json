@@ -16,5 +16,17 @@
     "market_name": "Galaxy A51 5G",
     "codename": "a51x",
     "model": "SM-A516N"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A51 5G",
+    "codename": "a51x",
+    "model": "SM-A516U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A51 5G",
+    "codename": "a51x",
+    "model": "SM-A516U1"
   }
 ]

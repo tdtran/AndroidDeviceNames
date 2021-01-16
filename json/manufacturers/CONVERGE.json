@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CONVERGE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T7045PS",
+      "codename": "T7045PS",
+      "model": "T7045PS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8045PS",
+      "codename": "T8045PS",
+      "model": "T8045PS"
+    }
+  ]
+}

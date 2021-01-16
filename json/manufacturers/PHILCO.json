@@ -3,9 +3,15 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Brazil",
-      "codename": "sindorim",
-      "model": "AI PONT"
+      "market_name": "Hit P10",
+      "codename": "Hit_P10",
+      "model": "Hit P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hit P6",
+      "codename": "Hit_P6",
+      "model": "Hit P6"
     },
     {
       "manufacturer": "",
@@ -42,6 +48,18 @@
       "market_name": "PTB7R",
       "codename": "PTB7R",
       "model": "PTB7R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PTV40G71AGBL-VA",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PTV55G71AGBLS-4K-VA",
+      "codename": "sindorim",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

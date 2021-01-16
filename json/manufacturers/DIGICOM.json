@@ -18,6 +18,12 @@
       "market_name": "Tribe",
       "codename": "Tribe",
       "model": "Digicom Tribe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V7_LTE",
+      "codename": "V7_LTE",
+      "model": "V7_LTE"
     }
   ]
 }

@@ -30,6 +30,12 @@
       "market_name": "Moby-M70",
       "codename": "Moby-M70",
       "model": "Moby-M70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Moby-M70g",
+      "codename": "Moby-M70g",
+      "model": "IMS-M70-V03"
     }
   ]
 }

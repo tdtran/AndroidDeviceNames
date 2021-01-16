@@ -39,9 +39,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "EF501",
+      "market_name": "EF501R",
+      "codename": "EF501",
+      "model": "EF501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EF501R",
       "codename": "EF501",
       "model": "EF501R_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EF550",
+      "codename": "EF550",
+      "model": "EF550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EF550R",
+      "codename": "EF550R",
+      "model": "EF550R"
     },
     {
       "manufacturer": "",

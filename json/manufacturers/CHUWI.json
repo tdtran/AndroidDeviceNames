@@ -18,6 +18,18 @@
       "market_name": "Hi9Pro",
       "codename": "Hi9Pro",
       "model": "Hi9Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HipadX_eea_1",
+      "codename": "HipadX",
+      "model": "HiPad X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Surpad",
+      "codename": "Surpad",
+      "model": "Surpad"
     }
   ]
 }

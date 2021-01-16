@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2K Android TV",
+      "codename": "takao",
+      "model": "2020 FHD Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4K \u0026 Full HD Slim LED TV powered by Android™",
       "codename": "philips_MT5593FHT_EU",
       "model": "QM152E"
@@ -54,18 +60,6 @@
       "market_name": "4K Razor Slim OLED TV powered by Android TV",
       "codename": "QM16XE_UB",
       "model": "QM161E"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-      "codename": "PH9M_EA_5599",
-      "model": "TPM191E"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-      "codename": "PH9M_EA_5599",
-      "model": "TPM191L"
     },
     {
       "manufacturer": "",
@@ -114,6 +108,18 @@
       "market_name": "Mediasuite",
       "codename": "PH8M_HE_5596",
       "model": "TPM181HE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediasuite",
+      "codename": "PH8M_HE_5596",
+      "model": "TPM191HN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NeoViu D1",
+      "codename": "GMP",
+      "model": "NeoViu D1"
     },
     {
       "manufacturer": "",
@@ -258,6 +264,30 @@
       "market_name": "PI7100/93",
       "codename": "PI7100_93",
       "model": "PI7100_93"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips Android TV",
+      "codename": "PH0M_EA_T32",
+      "model": "2020/2021 UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips Android TV",
+      "codename": "PH9M_EA_5599",
+      "model": "TPM191E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips Android TV",
+      "codename": "PH9M_EA_5599",
+      "model": "TPM191KN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips Android TV",
+      "codename": "PH9M_EA_5599",
+      "model": "TPM191L"
     },
     {
       "manufacturer": "",
@@ -430,6 +460,12 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
+      "codename": "hino",
+      "model": "PHILIPS TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "sindap",
       "model": "PHILIPS 4K TV"
     },
@@ -567,9 +603,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xenium S266",
+      "codename": "S266",
+      "model": "Xenium S266"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xenium S386",
       "codename": "S386",
       "model": "Philips S386"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xenium S566",
+      "codename": "S566",
+      "model": "Xenium S566"
     },
     {
       "manufacturer": "",

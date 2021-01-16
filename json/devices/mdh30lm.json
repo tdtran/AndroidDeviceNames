@@ -1,6 +1,30 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "K51",
+    "codename": "mdh30lm",
+    "model": "LGL555DL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "K51",
+    "codename": "mdh30lm",
+    "model": "LM-K500"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Reflect",
+    "codename": "mdh30lm",
+    "model": "LGL555DL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Reflect",
+    "codename": "mdh30lm",
+    "model": "LM-K500"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "Q51",
     "codename": "mdh30lm",
     "model": "LM-Q510N"

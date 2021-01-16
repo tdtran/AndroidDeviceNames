@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Emporia",
+    "market_name": "S5_EEA",
+    "codename": "S5",
+    "model": "S5"
+  },
+  {
     "manufacturer": "MyFon",
     "market_name": "S5",
     "codename": "S5",

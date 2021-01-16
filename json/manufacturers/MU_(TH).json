@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "8",
+      "codename": "8",
+      "model": "8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "mu 1",
       "codename": "mu_1",
       "model": "1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mu6",
+      "codename": "mu6",
+      "model": "mu6"
     }
   ]
 }

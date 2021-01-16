@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Contex",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Egypt",
+      "codename": "tamachi",
+      "model": "AiPlus2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Egypt",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    }
+  ]
+}

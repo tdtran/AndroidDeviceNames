@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Ordissimo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Celia",
+      "codename": "Celia",
+      "model": "Celia"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ordissimo LeNumero2",
+      "codename": "LeNumero2",
+      "model": "LeNumero2"
+    }
+  ]
+}

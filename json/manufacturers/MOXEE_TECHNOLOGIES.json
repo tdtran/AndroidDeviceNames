@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MT-T800",
+      "codename": "MT-T800",
+      "model": "MT-T800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X10",
       "codename": "X10",
       "model": "X10"

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Jimi",
+    "market_name": "K108",
+    "codename": "K108",
+    "model": "K108"
+  },
+  {
     "manufacturer": "Zonko",
     "market_name": "K108",
     "codename": "K108",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LEGEND",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ACE_I",
+      "codename": "ACE_I",
+      "model": "ACE_I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEBULAE",
+      "codename": "NEBULAE",
+      "model": "NEBULAE"
+    }
+  ]
+}

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Laser",
+    "market_name": "GRAND",
+    "codename": "GRAND",
+    "model": "GRAND"
+  },
+  {
     "manufacturer": "MDC Store",
     "market_name": "Grand",
     "codename": "Grand",

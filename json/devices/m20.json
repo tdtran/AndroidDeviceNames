@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Evertek",
+    "market_name": "M20",
+    "codename": "M20",
+    "model": "M20"
+  },
+  {
+    "manufacturer": "Hafury",
+    "market_name": "M20",
+    "codename": "M20",
+    "model": "M20"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy M20",
     "codename": "m20",

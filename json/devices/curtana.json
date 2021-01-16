@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 9 Pro",
+    "codename": "curtana",
+    "model": "Redmi Note 9 Pro"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 9 Pro",
+    "codename": "curtana",
+    "model": "curtana"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 9S",
+    "codename": "curtana",
+    "model": "Redmi Note 9 Pro"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 9S",
+    "codename": "curtana",
+    "model": "Redmi Note 9S"
+  }
+]

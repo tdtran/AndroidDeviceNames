@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Sansui TV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Canada",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JSC43ASUHD",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "USA",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    }
+  ]
+}

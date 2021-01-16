@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Meberry",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7",
+      "codename": "M7",
+      "model": "M7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7Pro",
+      "codename": "M7Pro",
+      "model": "M7Pro"
+    }
+  ]
+}

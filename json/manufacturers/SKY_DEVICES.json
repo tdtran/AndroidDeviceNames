@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ASSIST 55",
+      "codename": "ASSIST_55",
+      "model": "Elite_B55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELITE 4.0S",
       "codename": "Elite_4_0S_GT_Tigo",
       "model": "Elite_4.0S"
@@ -57,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite 45T",
+      "codename": "Elite_45SM",
+      "model": "Elite 45T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite 5T",
       "codename": "Elite_5T_GT",
       "model": "Elite 5T"
@@ -64,7 +76,19 @@
     {
       "manufacturer": "",
       "market_name": "Elite A5",
+      "codename": "BITA_5",
+      "model": "Elite A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A5",
       "codename": "Elite_A5",
+      "model": "Elite A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A5",
+      "codename": "Elite_AMS",
       "model": "Elite A5"
     },
     {
@@ -78,6 +102,24 @@
       "market_name": "Elite B5",
       "codename": "Elite_B5",
       "model": "Elite_B5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite B55",
+      "codename": "Elite_B55",
+      "model": "Elite_B55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite C5",
+      "codename": "Elite_C5",
+      "model": "Elite C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite C5",
+      "codename": "Elite_C5MS",
+      "model": "Elite C5"
     },
     {
       "manufacturer": "",
@@ -96,6 +138,24 @@
       "market_name": "Elite Go",
       "codename": "Elite_Go_SV",
       "model": "Elite Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite H5",
+      "codename": "Elite_H5",
+      "model": "Elite H5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite H5",
+      "codename": "Elite_H5_FW",
+      "model": "Elite H5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite H55",
+      "codename": "Elite_H55",
+      "model": "Elite H55"
     },
     {
       "manufacturer": "",
@@ -120,6 +180,12 @@
       "market_name": "Elite M5Plus",
       "codename": "Elite_M5Plus_SAL",
       "model": "Elite M5Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite P5",
+      "codename": "Elite_P5",
+      "model": "Elite P5"
     },
     {
       "manufacturer": "",
@@ -150,6 +216,12 @@
       "market_name": "Elite T6",
       "codename": "Elite_T6",
       "model": "Elite T6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_P55",
+      "codename": "Elite_P55",
+      "model": "Elite P55"
     },
     {
       "manufacturer": "",
@@ -261,9 +333,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Platinum A7",
+      "codename": "Platinum_A7",
+      "model": "Platinum_A7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Platinum B4",
       "codename": "Platinum_B4",
       "model": "Platinum B4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum B4",
+      "codename": "Platinum_B4P",
+      "model": "Platinum_B4"
     },
     {
       "manufacturer": "",
@@ -303,15 +387,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Platinum P4",
+      "codename": "Platinum_P4",
+      "model": "Platinum_P4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Platinum View2",
       "codename": "PLATINUM_VIEW2",
       "model": "PLATINUM_VIEW2"
     },
     {
       "manufacturer": "",
+      "market_name": "Platinum_H5",
+      "codename": "Platinum_H5_PLUS",
+      "model": "Platinum H5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum_J5",
+      "codename": "Platinum_J5",
+      "model": "Platinum J5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Platinum_UNO",
       "codename": "Platinum_UNO",
       "model": "Platinum_UNO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prestige2",
+      "codename": "SKY_Prestige2_FP",
+      "model": "SKY Prestige2"
     },
     {
       "manufacturer": "",
@@ -334,6 +442,18 @@
     {
       "manufacturer": "",
       "market_name": "SKY Black",
+      "codename": "NEGTI28",
+      "model": "SKY Black"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY Black",
+      "codename": "Neg10_SKY_Black",
+      "model": "SKY Black"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY Black",
       "codename": "Negro_SKY_Black",
       "model": "SKY Black"
     },
@@ -345,15 +465,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SKY Black",
+      "codename": "TIBLA28",
+      "model": "SKY Black"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY Prestige",
       "codename": "SKY_Prestige",
       "model": "SKY Prestige"
     },
     {
       "manufacturer": "",
+      "market_name": "SKY Prestige2",
+      "codename": "Sky_Prestige2_NFP",
+      "model": "Sky Prestige2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY VISION1",
       "codename": "SKYVISION",
       "model": "SKYVISION"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY Volt",
+      "codename": "SKY_Volt",
+      "model": "SKY Volt"
     },
     {
       "manufacturer": "",

@@ -51,6 +51,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GM 20",
+      "codename": "G301",
+      "model": "G301"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 20 PRO",
+      "codename": "G501",
+      "model": "G501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 20 Pro",
+      "codename": "G501",
+      "model": "G501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 6 d",
       "codename": "GM6_d_sprout",
       "model": "GM 6 d"
@@ -114,6 +132,12 @@
       "market_name": "GM 9 Pro",
       "codename": "GM9PRO_sprout",
       "model": "GM 9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM10",
+      "codename": "G300",
+      "model": "G300"
     },
     {
       "manufacturer": "",

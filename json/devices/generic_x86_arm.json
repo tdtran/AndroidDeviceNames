@@ -4,5 +4,11 @@
     "market_name": "Emualtor",
     "codename": "generic_x86_arm",
     "model": "AOSP on IA Emulator"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Google Android Emulator",
+    "codename": "generic_x86_arm",
+    "model": "sdk_gphone_x86"
   }
 ]

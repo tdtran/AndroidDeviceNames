@@ -51,9 +51,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SUGAR S50",
+      "codename": "SUGAR_S50",
+      "model": "SUGAR S50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SUGAR T10",
       "codename": "p312cs_tw",
       "model": "SUGAR T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUGAR T20",
+      "codename": "v730_64",
+      "model": "SUGAR T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUGAR T30",
+      "codename": "v830_64",
+      "model": "SUGAR T30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUGAR T35",
+      "codename": "v830_64",
+      "model": "SUGAR T35"
     },
     {
       "manufacturer": "",
@@ -66,6 +90,12 @@
       "market_name": "SUGAR Y12s",
       "codename": "SUGAR_Y12s",
       "model": "SUGAR Y12s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUGAR Y13s",
+      "codename": "SUGAR_Y13s",
+      "model": "SUGAR Y13s"
     },
     {
       "manufacturer": "",

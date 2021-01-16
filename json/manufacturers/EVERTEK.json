@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M20",
+      "codename": "M20",
+      "model": "M20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20 Mini",
+      "codename": "M20_Mini",
+      "model": "M20 Mini"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V4",
       "codename": "V4",
       "model": "EVERTEK V4"

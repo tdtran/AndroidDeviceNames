@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VCT9B06Q22_eea",
+      "codename": "VCT9B06Q22",
+      "model": "VCT9B06Q22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F78Q22",
+      "codename": "VCT9F78Q22",
+      "model": "VCT9F78Q22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i7",
       "codename": "RCT6773W22",
       "model": "i7"

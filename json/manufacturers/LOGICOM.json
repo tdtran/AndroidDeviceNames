@@ -381,6 +381,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIKIDS_5_Rev2",
+      "codename": "LOGIKIDS_5_Rev2",
+      "model": "LOGIKIDS_5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L_IXIR_TAB_1047HD",
       "codename": "L_IXIR_TAB_1047HD",
       "model": "L_IXIR_TAB_1047HD"
@@ -465,8 +471,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "La_Tab_105_P_Rev2_EEA",
+      "codename": "La_Tab_105_P_Rev2",
+      "model": "La_Tab_105_P_Rev2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "La_Tab_114",
       "codename": "La_Tab_114",
+      "model": "La_Tab_114"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_114_Rev2",
+      "codename": "La_Tab_114_Rev2",
       "model": "La_Tab_114"
     },
     {
@@ -477,8 +495,32 @@
     },
     {
       "manufacturer": "",
+      "market_name": "La_Tab_124_HD_Plus_EEA",
+      "codename": "La_Tab_124_HD_Plus",
+      "model": "La_Tab_124_HD_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_126",
+      "codename": "LT1012211F",
+      "model": "La_Tab_126"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_292",
+      "codename": "La_Tab_292",
+      "model": "La Tab 292"
+    },
+    {
+      "manufacturer": "",
       "market_name": "La_Tab_74",
       "codename": "La_Tab_74",
+      "model": "La_Tab_74"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_74_Rev2",
+      "codename": "La_Tab_74_Rev2_EEA",
       "model": "La_Tab_74"
     },
     {
@@ -527,7 +569,19 @@
       "manufacturer": "",
       "market_name": "Le Hola",
       "codename": "Le_Hola",
+      "model": "Le Hola"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Hola",
+      "codename": "Le_Hola",
       "model": "Le_Hola"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Hola FR",
+      "codename": "Le_Hola_FR",
+      "model": "Le Hola FR"
     },
     {
       "manufacturer": "",
@@ -552,6 +606,12 @@
       "market_name": "Le Must 2",
       "codename": "LeMust2",
       "model": "Le Must 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Prime",
+      "codename": "Le_Prime",
+      "model": "Le Prime"
     },
     {
       "manufacturer": "",
@@ -591,6 +651,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Le_Pulse",
+      "codename": "Le_Pulse",
+      "model": "Le_Pulse"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le_Spark",
+      "codename": "Le_Spark",
+      "model": "Le_Spark"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LiteTab760",
       "codename": "LiteTab760",
       "model": "LiteTab760"
@@ -612,6 +684,12 @@
       "market_name": "Logikids 4",
       "codename": "logikids4",
       "model": "logikids4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Logikids_6",
+      "codename": "Logikids_6",
+      "model": "Logikids_6"
     },
     {
       "manufacturer": "",

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Contixo",
+    "market_name": "V10",
+    "codename": "V10",
+    "model": "V10"
+  },
+  {
     "manufacturer": "Dragontouch",
     "market_name": "V10",
     "codename": "V10",
@@ -64,5 +70,11 @@
     "market_name": "LG Prime II",
     "codename": "v10",
     "model": "LG-X170g"
+  },
+  {
+    "manufacturer": "POPTEL",
+    "market_name": "V10",
+    "codename": "V10",
+    "model": "V10"
   }
 ]

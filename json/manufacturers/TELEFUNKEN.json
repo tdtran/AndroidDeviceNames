@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TF600",
+      "codename": "TF600",
+      "model": "TF600"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TelefunkenTV",
       "codename": "shibuya",
       "model": "TelefunkenTV"

@@ -4,5 +4,11 @@
     "market_name": "Panasonic P101",
     "codename": "P101",
     "model": "P101"
+  },
+  {
+    "manufacturer": "TOSCIDO",
+    "market_name": "P101",
+    "codename": "P101",
+    "model": "P101"
   }
 ]

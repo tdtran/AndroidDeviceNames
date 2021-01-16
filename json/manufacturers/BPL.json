@@ -1,0 +1,17 @@
+{
+  "manufacturer": "BPL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A4300",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A4310",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

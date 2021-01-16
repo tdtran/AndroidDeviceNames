@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SL1021",
+      "codename": "SL1021",
+      "model": "SL1021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SL1068",
       "codename": "SL1068",
       "model": "SL1068"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SL1069",
+      "codename": "SL1069",
+      "model": "SL1069"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SL721",
+      "codename": "SL721",
+      "model": "SL721"
     },
     {
       "manufacturer": "",

@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALFA10TB",
+      "codename": "ALFA10TB",
+      "model": "ALFA10TB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA_10RX",
       "codename": "ALFA_10RX",
       "model": "ALFA_10RX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA_10YC",
+      "codename": "ALFA_10YC",
+      "model": "ALFA_10YC"
     },
     {
       "manufacturer": "",
@@ -39,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALFA_8SL",
+      "codename": "ALFA_8SL",
+      "model": "ALFA_8SL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EMEA",
       "codename": "ALFA_7RS",
       "model": "ALFA 7RS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOMETECH",
+      "codename": "mid7015_32",
+      "model": "Alfa7LM"
     },
     {
       "manufacturer": "",
@@ -54,6 +78,12 @@
       "market_name": "HT_8MZ",
       "codename": "HT_8MZ",
       "model": "HT_8MZ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "ALFA_7MRC",
+      "model": "ALFA_7MRC"
     }
   ]
 }

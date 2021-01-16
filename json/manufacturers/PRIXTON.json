@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Expert",
+      "codename": "Expert",
+      "model": "Expert"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1700Q",
       "codename": "T1700Q",
       "model": "T1700Q"

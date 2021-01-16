@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Advance L5",
+      "codename": "A390T",
+      "model": "Advance L5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Advance_A7",
       "codename": "A210",
       "model": "Advance A7"
@@ -120,6 +126,12 @@
       "market_name": "B110DL",
       "codename": "B110DL",
       "model": "B110DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B130DL",
+      "codename": "B130DL",
+      "model": "B130DL"
     },
     {
       "manufacturer": "",
@@ -250,6 +262,12 @@
     {
       "manufacturer": "",
       "market_name": "C5L",
+      "codename": "C0010TT",
+      "model": "C5L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L",
       "codename": "C0040",
       "model": "C5L"
     },
@@ -273,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5L_2020",
+      "codename": "C0070WW",
+      "model": "C5L 2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5X",
       "codename": "C0000UU",
       "model": "C5X"
@@ -291,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C6  2020",
+      "codename": "C230EQ",
+      "model": "C6 2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 2019",
       "codename": "C090EQ",
       "model": "C6 2019"
@@ -300,6 +330,12 @@
       "market_name": "C6L",
       "codename": "C0030",
       "model": "C6L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L 2020",
+      "codename": "C0090WW",
+      "model": "C6L 2020"
     },
     {
       "manufacturer": "",
@@ -537,6 +573,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G50",
+      "codename": "G0330WW",
+      "model": "G50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G50 MEGA",
+      "codename": "G0390WW",
+      "model": "G50 Mega"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G50 Plus",
+      "codename": "G0350WW",
+      "model": "G50 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6",
       "codename": "G0210",
       "model": "G6"
@@ -550,7 +604,19 @@
     {
       "manufacturer": "",
       "market_name": "G70",
+      "codename": "G0151WW",
+      "model": "G70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G70",
       "codename": "G0250WW",
+      "model": "G70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G70",
+      "codename": "G0251WW",
       "model": "G70"
     },
     {
@@ -588,6 +654,12 @@
       "market_name": "G90",
       "codename": "G0310WW",
       "model": "G90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G90 PRO",
+      "codename": "G0370WW",
+      "model": "G90 PRO"
     },
     {
       "manufacturer": "",
@@ -1173,6 +1245,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Studio X10",
+      "codename": "S970EQ",
+      "model": "Studio X10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Studio X8 HD",
       "codename": "S532",
       "model": "Studio X8 HD"
@@ -1204,8 +1282,20 @@
     {
       "manufacturer": "",
       "market_name": "T5",
+      "codename": "T0040TT",
+      "model": "T5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5",
       "codename": "T0050TT",
       "model": "T5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5 Plus",
+      "codename": "T0060TT",
+      "model": "T5 Plus"
     },
     {
       "manufacturer": "",

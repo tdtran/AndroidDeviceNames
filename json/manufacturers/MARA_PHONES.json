@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tMara  Z1",
+      "codename": "Mara_Z1",
+      "model": "Mara Phones Z1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\tMara X1",
+      "codename": "Mara_X1",
+      "model": "Mara Phones X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MARA Z",
       "codename": "Mara_Z_sprout",
       "model": "Mara Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mara Phones R",
+      "codename": "MaraPhones_R",
+      "model": "Mara Phones R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mara S",
+      "codename": "Mara_S",
+      "model": "Mara S"
     },
     {
       "manufacturer": "",
@@ -21,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mara X1 d",
+      "codename": "Mara_X1_d",
+      "model": "Mara Phones X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mara Z d",
       "codename": "Mara_Z_d_sprout",
       "model": "Mara Z d"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mara Z1 d",
+      "codename": "Mara_Z1_d",
+      "model": "Mara Phones Z1"
     }
   ]
 }

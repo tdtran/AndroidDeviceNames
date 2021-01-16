@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Mafe",
+    "market_name": "V9",
+    "codename": "V9",
+    "model": "V9"
+  },
+  {
     "manufacturer": "Olla",
     "market_name": "V9",
     "codename": "V9",

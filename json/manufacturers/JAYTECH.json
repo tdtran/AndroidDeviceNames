@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TPC-G1010",
+      "codename": "TPC-G1010_EEA",
+      "model": "TPC-G1010"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TPC-G109_EEA",
       "codename": "TPC-G109",
       "model": "TPC-G109"

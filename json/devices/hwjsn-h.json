@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 9X Lite",
+    "codename": "HWJSN-H",
+    "model": "JSN-L21"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HONOR 9X lite",
     "codename": "HWJSN-H",
     "model": "JSN-L21"

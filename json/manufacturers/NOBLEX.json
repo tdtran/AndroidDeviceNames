@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NoblexTV",
+      "codename": "shinjuku",
+      "model": "NoblexTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T7A6INC",
       "codename": "T7A6INC",
       "model": "T7A6INC"

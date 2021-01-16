@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Strong",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKYHP40A-ZWL",
+      "codename": "HP40A1",
+      "model": "SKWHP40A-ZWL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Strong",
+      "codename": "bangbae",
+      "model": "Strong 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Strong",
+      "codename": "komagome",
+      "model": "Strong 2K Android TV"
+    }
+  ]
+}

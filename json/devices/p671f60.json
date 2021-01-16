@@ -1,8 +1,20 @@
 [
   {
+    "manufacturer": "A1",
+    "market_name": "A1 Alpha 20+",
+    "codename": "P671F60",
+    "model": "A1 Alpha 20+"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "ZTE Blade V 2020",
     "codename": "P671F60",
     "model": "ZTE 9000"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade V 2020",
+    "codename": "P671F60",
+    "model": "ZTE 9000RU"
   }
 ]

@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MFC149",
+      "codename": "MFC149",
+      "model": "MFC149"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MFC191",
       "codename": "MFC191",
       "model": "S952"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S12_classic",
+      "codename": "S12_classic",
+      "model": "S12_classic"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S7-classic",
       "codename": "S7-classic",
       "model": "S7-classic"

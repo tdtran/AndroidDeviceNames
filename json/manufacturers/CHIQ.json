@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CHiQ",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H7A",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7A",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

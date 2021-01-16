@@ -10,5 +10,11 @@
     "market_name": "M6",
     "codename": "meizu_M6",
     "model": "MEIZU M6"
+  },
+  {
+    "manufacturer": "Meizu",
+    "market_name": "meizu M6",
+    "codename": "meizu_M6",
+    "model": "MEIZU M6"
   }
 ]

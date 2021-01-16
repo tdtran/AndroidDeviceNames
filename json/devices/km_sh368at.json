@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "KaonMedia",
+    "market_name": "KM_SH368AT",
+    "codename": "KM_SH368AT",
+    "model": "KM_SH368AT"
+  },
+  {
     "manufacturer": "StarHub",
     "market_name": "Android TV Set-Top Box",
     "codename": "KM_SH368AT",

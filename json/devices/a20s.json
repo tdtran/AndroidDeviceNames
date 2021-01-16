@@ -16,5 +16,11 @@
     "market_name": "Galaxy A20s",
     "codename": "a20s",
     "model": "SM-A207M"
+  },
+  {
+    "manufacturer": "X-TIGI",
+    "market_name": "A20S",
+    "codename": "A20S",
+    "model": "A20S"
   }
 ]

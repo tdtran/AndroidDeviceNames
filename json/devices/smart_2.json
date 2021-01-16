@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "SPC Mobile",
+    "market_name": "SMART  2",
+    "codename": "SMART_2",
+    "model": "SMART 2"
+  },
+  {
     "manufacturer": "Vgo Tel",
     "market_name": "Smart 2",
     "codename": "Smart_2",

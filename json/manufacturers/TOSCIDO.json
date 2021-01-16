@@ -3,6 +3,42 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P101",
+      "codename": "P101",
+      "model": "P101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P101-EEA",
+      "codename": "P101-EEA",
+      "model": "P101-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12-EEA",
+      "codename": "T12-EEA",
+      "model": "T12-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T13-EEA",
+      "codename": "T13-EEA",
+      "model": "T13-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T15",
+      "codename": "T15",
+      "model": "T15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T15-EEA",
+      "codename": "T15-EEA",
+      "model": "T15-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X102",
       "codename": "X102",
       "model": "X102"

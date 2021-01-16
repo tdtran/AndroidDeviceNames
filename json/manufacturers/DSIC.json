@@ -1,0 +1,17 @@
+{
+  "manufacturer": "DSIC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Mobilebase DS6",
+      "codename": "ds6",
+      "model": "DS6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD86QE",
+      "codename": "RD86QE",
+      "model": "RD86QE"
+    }
+  ]
+}

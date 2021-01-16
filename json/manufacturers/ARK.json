@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Benefit_M9",
+      "codename": "Benefit_M9",
+      "model": "Benefit_M9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Benefit_Note 1",
       "codename": "Benefit_Note_1",
       "model": "Benefit_Note_1"
@@ -42,6 +48,12 @@
       "market_name": "Impulse P2",
       "codename": "Impulse_P2",
       "model": "Impulse_P2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MemoPad_T1",
+      "codename": "MemoPad_T1",
+      "model": "MemoPad_T1"
     },
     {
       "manufacturer": "",

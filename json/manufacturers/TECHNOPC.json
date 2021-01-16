@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Technopc",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UP10S43LA",
+      "codename": "Technopc_UP10S43LA",
+      "model": "UP10S43LA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UP10SI36LA",
+      "codename": "Technopc_UP10SI36LA",
+      "model": "UP10SI36LA"
+    }
+  ]
+}

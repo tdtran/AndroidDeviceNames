@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Arrow",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RO-43LCS",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RO-55LCS",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

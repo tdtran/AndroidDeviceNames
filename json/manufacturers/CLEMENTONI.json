@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MFClempadP_9",
+      "codename": "MFClempadP_9",
+      "model": "MFC8_2019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MFClempad_9",
       "codename": "MFClempad_9",
       "model": "MFC7_2019"

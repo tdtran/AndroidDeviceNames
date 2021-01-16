@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F10",
+      "codename": "F10",
+      "model": "F10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F10_PRIME",
       "codename": "F10_PRIME",
       "model": "F10_PRIME"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11",
+      "codename": "F11",
+      "model": "F11"
     },
     {
       "manufacturer": "",

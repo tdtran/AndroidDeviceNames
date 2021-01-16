@@ -21,6 +21,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "REVVL 4",
+      "codename": "Tokyo_Lite_4G",
+      "model": "5007W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 4",
+      "codename": "Tokyo_Lite_4G",
+      "model": "5007Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 4+",
+      "codename": "Porto",
+      "model": "5062W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 4+",
+      "codename": "Porto",
+      "model": "5062Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 5G",
+      "codename": "Seattle_5G",
+      "model": "T790W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 5G",
+      "codename": "Seattle_5G",
+      "model": "T790Z"
+    },
+    {
+      "manufacturer": "",
       "market_name": "REVVLRY",
       "codename": "channel",
       "model": "REVVLRY"

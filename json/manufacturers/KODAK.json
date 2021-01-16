@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KODAK SMARTWAY L1 PRO",
+      "codename": "L1_PRO",
+      "model": "KODAK SMARTWAY L1 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KODAK SMARTWAY T3",
+      "codename": "SMARTWAY_T3",
+      "model": "KODAK SMARTWAY T3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KODAK_SMARTWAY_L1",
       "codename": "KODAK_SMARTWAY_L1",
       "model": "KODAK_SMARTWAY_L1"
@@ -30,6 +42,30 @@
       "market_name": "KodakTV",
       "codename": "shibuya",
       "model": "KodakTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kodak_KD50",
+      "codename": "Kodak_KD50",
+      "model": "KD50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMARTWAY L2",
+      "codename": "SMARTWAY_L2",
+      "model": "SMARTWAY L2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMARTWAY M2",
+      "codename": "SMARTWAY_M2",
+      "model": "KODAK SMARTWAY M2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMARTWAY_F1",
+      "codename": "SMARTWAY_F1",
+      "model": "SMARTWAY_F1"
     },
     {
       "manufacturer": "",

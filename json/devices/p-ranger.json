@@ -10,5 +10,11 @@
     "market_name": "P-Ranger",
     "codename": "P-Ranger",
     "model": "P-Ranger_ROW"
+  },
+  {
+    "manufacturer": "Custom",
+    "market_name": "P-Ranger",
+    "codename": "P-Ranger",
+    "model": "P-Ranger_RU"
   }
 ]

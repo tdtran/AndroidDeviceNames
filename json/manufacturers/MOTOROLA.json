@@ -501,6 +501,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DVM4KA01",
+      "codename": "GMP",
+      "model": "DVM4KA01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Defy",
       "codename": "umts_jordan",
       "model": "MB525"
@@ -777,6 +783,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FlipkartTV",
+      "codename": "SW4H",
+      "model": "FlipkartTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flipout",
       "codename": "umts_ruth",
       "model": "MB511"
@@ -828,6 +840,12 @@
       "market_name": "Lenovo K11 Power",
       "codename": "blackjack",
       "model": "Lenovo K11 Power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo XT2081-4",
+      "codename": "guam",
+      "model": "Lenovo XT2081-4"
     },
     {
       "manufacturer": "",
@@ -2145,6 +2163,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XT2071-4",
+      "codename": "smith",
+      "model": "XT2071-4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XT605",
       "codename": "umts_jorian",
       "model": "XT605"
@@ -2160,6 +2184,18 @@
       "market_name": "moto P30 NOTE",
       "codename": "chef",
       "model": "XT1942-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e",
+      "codename": "ginna",
+      "model": "moto e"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e (XT2052DL)",
+      "codename": "ginna",
+      "model": "moto e (XT2052DL)"
     },
     {
       "manufacturer": "",
@@ -2190,6 +2226,24 @@
       "market_name": "moto e(5) plus",
       "codename": "rhannah",
       "model": "moto e5 plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(7)",
+      "codename": "malta",
+      "model": "malta"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(7)",
+      "codename": "malta",
+      "model": "moto e(7)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(7) plus",
+      "codename": "guam",
+      "model": "moto e(7) plus"
     },
     {
       "manufacturer": "",
@@ -2337,9 +2391,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g 5G",
+      "codename": "kiev",
+      "model": "moto g 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g 5G",
+      "codename": "kiev",
+      "model": "motorola edge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g 5G plus",
+      "codename": "nairo",
+      "model": "moto g 5G plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g fast",
       "codename": "rav",
       "model": "moto g fast"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g play (2021)",
+      "codename": "guamna",
+      "model": "moto E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g play (2021)",
+      "codename": "guamna",
+      "model": "moto g play (2021)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g play (2021)",
+      "codename": "guamna",
+      "model": "moto g play (XT2093DL)"
     },
     {
       "manufacturer": "",
@@ -2349,9 +2439,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "moto g power",
-      "codename": "sofia",
-      "model": "moto g(7)"
+      "market_name": "moto g power (2021)",
+      "codename": "borneo",
+      "model": "moto g power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g power (2021)",
+      "codename": "borneo",
+      "model": "moto g power (2021)"
     },
     {
       "manufacturer": "",
@@ -2361,15 +2457,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g pro",
+      "codename": "sofiap_sprout",
+      "model": "moto g pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g stylus",
       "codename": "sofiap",
       "model": "moto g stylus"
     },
     {
       "manufacturer": "",
-      "market_name": "moto g stylus",
-      "codename": "sofiap",
-      "model": "moto g(7)"
+      "market_name": "moto g stylus (2021)",
+      "codename": "minsk",
+      "model": "moto g stylus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus (2021)",
+      "codename": "minsk",
+      "model": "moto g stylus (2021)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus (2021)",
+      "codename": "minsk",
+      "model": "moto g stylus (XT2115DL)"
     },
     {
       "manufacturer": "",
@@ -2475,6 +2589,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g(7) optimo (XT1952DL)",
+      "codename": "channel",
+      "model": "moto g(7) optimo (XT1952DL)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g(7) optimo maxx(XT1955DL)",
       "codename": "ocean",
       "model": "moto g(7) optimo maxx(XT1955DL)"
@@ -2484,12 +2604,6 @@
       "market_name": "moto g(7) play",
       "codename": "channel",
       "model": "moto g(6)"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "moto g(7) play",
-      "codename": "channel",
-      "model": "moto g(7) optimo (XT1952DL)"
     },
     {
       "manufacturer": "",
@@ -2535,15 +2649,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "moto g(7) supra",
-      "codename": "ocean",
-      "model": "moto g(7) supra"
+      "market_name": "moto g(7) power",
+      "codename": "ocean_t",
+      "model": "moto g(7) power"
     },
     {
       "manufacturer": "",
-      "market_name": "moto g(8)",
-      "codename": "rav",
-      "model": "moto g(7)"
+      "market_name": "moto g(7) supra",
+      "codename": "ocean",
+      "model": "moto g(7) supra"
     },
     {
       "manufacturer": "",
@@ -2585,12 +2699,6 @@
       "manufacturer": "",
       "market_name": "moto g(8) power",
       "codename": "sofiar",
-      "model": "moto g(7)"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "moto g(8) power",
-      "codename": "sofiar",
       "model": "moto g(8) power"
     },
     {
@@ -2604,6 +2712,30 @@
       "market_name": "moto g(8) power lite",
       "codename": "blackjack",
       "model": "moto g8 power lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(9)",
+      "codename": "guamp",
+      "model": "moto g(9)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(9) play",
+      "codename": "guamp",
+      "model": "moto g(9) play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(9) plus",
+      "codename": "odessa",
+      "model": "moto g(9) plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(9) power",
+      "codename": "cebu",
+      "model": "moto g(9) power"
     },
     {
       "manufacturer": "",
@@ -2651,12 +2783,6 @@
       "manufacturer": "",
       "market_name": "motorola edge",
       "codename": "racer",
-      "model": "moto z4"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "motorola edge",
-      "codename": "racer",
       "model": "motorola edge"
     },
     {
@@ -2673,6 +2799,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "motorola one 5G",
+      "codename": "nairo",
+      "model": "motorola one 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one 5G UW",
+      "codename": "nairo",
+      "model": "motorola one 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one 5G UW",
+      "codename": "nairo",
+      "model": "motorola one 5G UW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one 5G ace",
+      "codename": "kiev",
+      "model": "motorola one 5G ace"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola one action",
       "codename": "troika",
       "model": "motorola one action"
@@ -2682,6 +2832,18 @@
       "market_name": "motorola one action",
       "codename": "troika_sprout",
       "model": "motorola one action"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one fusion",
+      "codename": "astro",
+      "model": "motorola one fusion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one fusion+",
+      "codename": "liber",
+      "model": "motorola one fusion+"
     },
     {
       "manufacturer": "",
@@ -2742,6 +2904,18 @@
       "market_name": "motorola razr",
       "codename": "olson",
       "model": "motorola razr"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr (2020)",
+      "codename": "smith",
+      "model": "motorola razr (2020)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 5G",
+      "codename": "smith",
+      "model": "motorola razr 5G"
     }
   ]
 }

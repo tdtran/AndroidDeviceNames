@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CP-860",
+      "codename": "860",
+      "model": "CP-860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP-860S",
+      "codename": "860",
+      "model": "CP-860S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP-DX650",
       "codename": "CP-DX650",
       "model": "CP-DX650"

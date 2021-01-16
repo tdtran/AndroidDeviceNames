@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A151",
+      "codename": "A155",
+      "model": "A151"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DV8330-T2",
       "codename": "DV8330-T2",
       "model": "DV8330-T2"

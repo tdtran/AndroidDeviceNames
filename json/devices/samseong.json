@@ -1,31 +1,79 @@
 [
   {
+    "manufacturer": "ALBADEEL",
+    "market_name": "B725050U",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "ALMATEEN",
+    "market_name": "LXL43G7H-AT",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Aiwa",
-    "market_name": "ASIA MIDDLE EAST  AFRICA  EU",
+    "market_name": "AW-LED50X6FL",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Alpha",
+    "market_name": "Alpha 43G7NUA",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Arrow",
+    "market_name": "RO-55LCS",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BPL",
+    "market_name": "A4310",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BRUHM",
+    "market_name": "BTF-75TG",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "BenQ",
-    "market_name": "China Taiwan",
+    "market_name": "E55-720",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "CHiQ",
+    "market_name": "H7A",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "CHiQ",
+    "market_name": "M7A",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Changhong",
-    "market_name": "AP(Indonesia etc.)/MENA",
+    "market_name": "U50H7",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Changhong",
-    "market_name": "AP(Indonesia etc.)/MENA",
+    "market_name": "U50H7",
     "codename": "samseong",
     "model": "CHiQ AI Center"
   },
   {
     "manufacturer": "Classpro",
-    "market_name": "SAUDI ARABIC",
+    "market_name": "CGS55UHD",
     "codename": "samseong",
     "model": "AI PONT"
   },
@@ -36,86 +84,134 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Grunhelm",
+    "market_name": "GT9UHD",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Hitachi",
-    "market_name": "SAUDI ARABIC/Iraq Australia",
+    "market_name": "LD50CHS04U",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Hyundai",
-    "market_name": "Israel",
+    "market_name": "H-LED50EU7008",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Hyundai",
-    "market_name": "Russia",
+    "market_name": "HATV-58AA100",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYLED5015A4KM",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Infinix",
+    "market_name": "55X1",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "JVC",
-    "market_name": "Australia",
+    "market_name": "LT-50KD507",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "JVC",
-    "market_name": "Central America",
+    "market_name": "LT-50N7115A",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "KUNFT",
+    "market_name": "K5130H43U",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Kogan",
-    "market_name": "Australia",
+    "market_name": "KALED50XU9210STA",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Nikkei",
+    "market_name": "NI43UG7NA9",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "NobleSkiodo",
+    "market_name": "43UDVRCHG7H",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "OK (Mediamark)",
-    "market_name": "Italy",
+    "market_name": "ODL50672U-TAB",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "ORCA",
-    "market_name": "KUWAIT",
+    "market_name": "OR-50UX400S",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "PILOT",
-    "market_name": "Israel",
+    "market_name": "PQ55CH",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "SHINON",
-    "market_name": "Iraq",
+    "market_name": "SH55G7K",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Sansui TV",
+    "market_name": "JSC43ASUHD",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Syinix",
-    "market_name": "Africa \u0026 Asia Pacific",
+    "market_name": "55A1S",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Thomson",
-    "market_name": "Algeria",
+    "market_name": "50TG7UA9X",
     "codename": "samseong",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Vsmart",
-    "market_name": "Vietnam",
+    "market_name": "55KD6800",
     "codename": "samseong",
     "model": "VINATV 4K"
   },
   {
     "manufacturer": "Vu Televisions",
-    "market_name": "India",
+    "market_name": "50CA",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Wansa",
+    "market_name": "WUD55JOA63S",
     "codename": "samseong",
     "model": "AI PONT"
   }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLACK_PRO",
       "codename": "BLACK_PRO",
       "model": "BLACK_PRO"
@@ -69,9 +81,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SILVER_MAX",
+      "codename": "SILVER_MAX",
+      "model": "SILVER_MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Silver P5",
       "codename": "P5",
       "model": "P5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xiaoyushan_kalley",
+      "codename": "xiaoyushan",
+      "model": "HiSmartTV A4"
     }
   ]
 }

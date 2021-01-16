@@ -285,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mark 5",
+      "codename": "Mark_5",
+      "model": "Mark 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOIR A3",
       "codename": "A3",
       "model": "QMobile A3"
@@ -510,6 +516,12 @@
       "market_name": "V8 Plus",
       "codename": "V8_Plus",
       "model": "V8 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIEW PRO",
+      "codename": "VIEW_PRO",
+      "model": "VIEW PRO"
     },
     {
       "manufacturer": "",

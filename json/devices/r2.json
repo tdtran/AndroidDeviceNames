@@ -36,6 +36,18 @@
     "model": "ATV R2"
   },
   {
+    "manufacturer": "Challenger",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "Condor",
     "market_name": "Android TV",
     "codename": "R2",
@@ -48,7 +60,43 @@
     "model": "ATV R2"
   },
   {
-    "manufacturer": "Erito",
+    "manufacturer": "Evvoli",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Hitachi",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Kalley",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "LLOYD",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "LUCOMS",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"
@@ -78,7 +126,61 @@
     "model": "ATV R2"
   },
   {
+    "manufacturer": "Mystic",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "Orient",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "PANASONIC TV"
+  },
+  {
+    "manufacturer": "RECCO",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "SCHNEIDER",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Sanyo",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Strong",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "THE UHD",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"
@@ -91,6 +193,12 @@
   },
   {
     "manufacturer": "Vision Technology",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "innos",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"

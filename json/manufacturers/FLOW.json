@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Flow",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FlowBox-F1",
+      "codename": "HP40A2",
+      "model": "FlowBox-F1"
+    }
+  ]
+}

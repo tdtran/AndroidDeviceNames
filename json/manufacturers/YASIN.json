@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Yasin",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "YASIN",
+      "codename": "komagome",
+      "model": "YASIN 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YASIN 2K TV",
+      "codename": "shinagawa",
+      "model": "YASIN 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yasin",
+      "codename": "bangbae",
+      "model": "YASIN 4K Android TV"
+    }
+  ]
+}

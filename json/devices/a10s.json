@@ -10,5 +10,17 @@
     "market_name": "Galaxy A10s",
     "codename": "a10s",
     "model": "SM-A107M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M01s",
+    "codename": "a10s",
+    "model": "SM-M017F"
+  },
+  {
+    "manufacturer": "X-TIGI",
+    "market_name": "A10S",
+    "codename": "A10S",
+    "model": "A10S"
   }
 ]

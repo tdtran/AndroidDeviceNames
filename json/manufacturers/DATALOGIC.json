@@ -36,6 +36,18 @@
       "market_name": "Memor 20",
       "codename": "Q10A",
       "model": "Memor 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Memor K",
+      "codename": "memor_k",
+      "model": "Memor K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Skorpio X5",
+      "codename": "sx5",
+      "model": "Skorpio X5"
     }
   ]
 }

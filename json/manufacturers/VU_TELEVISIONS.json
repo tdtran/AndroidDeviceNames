@@ -3,21 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "India",
-      "codename": "hamamatsucho",
-      "model": "Smart 2K ATV4"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "India",
+      "market_name": "43UA",
       "codename": "ikebukuro",
       "model": "AI PONT"
     },
     {
       "manufacturer": "",
-      "market_name": "India",
+      "market_name": "50CA",
       "codename": "samseong",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "fushan_vu",
+      "codename": "hamamatsucho",
+      "model": "Smart 2K ATV4"
     },
     {
       "manufacturer": "",

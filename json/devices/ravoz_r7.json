@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Ashtel",
+    "market_name": "RAVOZ Z7",
+    "codename": "RAVOZ_R7",
+    "model": "RAVOZ R7"
+  },
+  {
     "manufacturer": "Bluedigit",
     "market_name": "RAVOZ R7",
     "codename": "RAVOZ_R7",

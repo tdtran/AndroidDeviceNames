@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Tpad",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T255",
+      "codename": "T255",
+      "model": "T255"
+    }
+  ]
+}

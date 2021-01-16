@@ -12,6 +12,12 @@
       "market_name": "Retailer Stores",
       "codename": "KID_TAB_7_S02",
       "model": "KID_TAB_7_S02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab104GS2",
+      "codename": "Tab104GS2",
+      "model": "Tab104GS2"
     }
   ]
 }

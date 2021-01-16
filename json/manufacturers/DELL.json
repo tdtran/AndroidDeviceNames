@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Latitude 7000",
+      "codename": "drallion_cheets",
+      "model": "drallion"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Streak",
       "codename": "streak",
       "model": "001DL"

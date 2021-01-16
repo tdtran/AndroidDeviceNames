@@ -18,6 +18,12 @@
     "model": "ATV R1"
   },
   {
+    "manufacturer": "Brookstone",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
     "manufacturer": "CG Inspiring Life",
     "market_name": "Android TV",
     "codename": "R1",
@@ -25,6 +31,18 @@
   },
   {
     "manufacturer": "Casper",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Challenger",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Compaq",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"
@@ -42,7 +60,55 @@
     "model": "ATV R1"
   },
   {
+    "manufacturer": "EssentielB",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Evvoli",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Hitachi",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Home Elite",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
     "manufacturer": "Intex",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Kalley",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "LLOYD",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"
@@ -60,7 +126,61 @@
     "model": "ATV R1"
   },
   {
+    "manufacturer": "Mystic",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
     "manufacturer": "Orient",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "PANASONIC TV"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "RECCO",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "SCHNEIDER",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Sanyo",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Strong",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"
@@ -73,6 +193,12 @@
   },
   {
     "manufacturer": "Vision Technology",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Xtreme",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"

@@ -27,6 +27,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M17QF6_3G",
+      "codename": "M17QF6_3G",
+      "model": "M17QF6_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M17QF6_4G",
+      "codename": "M17QF6_4G",
+      "model": "M17QF6_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M76QF6",
+      "codename": "M76QF6",
+      "model": "M76QF6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M785P",
       "codename": "M785P",
       "model": "M785P"

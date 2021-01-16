@@ -4,5 +4,11 @@
     "market_name": "TAB 10",
     "codename": "ADVAN_TAB_10",
     "model": "1010"
+  },
+  {
+    "manufacturer": "Advan digital",
+    "market_name": "TAB_10",
+    "codename": "ADVAN_TAB_10",
+    "model": "1010"
   }
 ]

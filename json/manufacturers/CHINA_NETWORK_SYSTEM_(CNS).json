@@ -1,0 +1,11 @@
+{
+  "manufacturer": "China Network System (CNS)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "STB-9642C1",
+      "codename": "BCM72604",
+      "model": "STB-9642C1"
+    }
+  ]
+}

@@ -87,7 +87,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "4T-C**BL1/BJ1/BN1",
+      "market_name": "4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1",
       "codename": "tcmeruj",
       "model": "AQUOS-TVJ19"
     },
@@ -96,6 +96,12 @@
       "market_name": "4T-C**BN1/BL1",
       "codename": "tcmeruj",
       "model": "AQUOS-TVJ19B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C**BN1H/BL1H",
+      "codename": "tcmeruj",
+      "model": "AQUOS-TVJ20B"
     },
     {
       "manufacturer": "",
@@ -132,6 +138,12 @@
       "market_name": "4T-C60BK2UD",
       "codename": "guro",
       "model": "AQUOS-TVU19A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C60CFZA  4T-C70CFZA 4T-C60CFMA 4T-C70CFMA 4T-C60CFKA 4T-C70CFKA 4T-C60CFXA 4T-C70CFXA 4T-C60CFCA 4T-C70CFCA",
+      "codename": "lcd_xxhad5a",
+      "model": "LCD-xxHAD5A"
     },
     {
       "manufacturer": "",
@@ -657,6 +669,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R5G SH-R50",
+      "codename": "Banagher",
+      "model": "SH-R50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R5G SH-RM14",
+      "codename": "Banagher",
+      "model": "SH-M14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS R5G SHG01",
       "codename": "TGD",
       "model": "SHG01"
@@ -855,6 +879,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense2",
+      "codename": "MZW-u",
+      "model": "SHV43-u"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS sense2 (SH-M08)",
       "codename": "SH-M08",
       "model": "SH-M08"
@@ -873,15 +903,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AQUOS sense2 SHV43",
-      "codename": "MZW-u",
-      "model": "SHV43-u"
+      "market_name": "AQUOS sense3",
+      "codename": "PCZ-u",
+      "model": "SHV45-u"
     },
     {
       "manufacturer": "",
       "market_name": "AQUOS sense3",
-      "codename": "PCZ-u",
-      "model": "SHV45-u"
+      "codename": "SH-M12",
+      "model": "SH-M12-y"
     },
     {
       "manufacturer": "",
@@ -903,9 +933,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AQUOS sense3 basic (907SH)",
+      "market_name": "AQUOS sense3 basic",
       "codename": "SG907SH",
       "model": "907SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 basic",
+      "codename": "VIF",
+      "model": "SHV48"
     },
     {
       "manufacturer": "",
@@ -936,6 +972,42 @@
       "market_name": "AQUOS sense3 plus　サウンド SHV46",
       "codename": "OBY",
       "model": "SHV46"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense4 SH-41A",
+      "codename": "Jerid",
+      "model": "SH-41A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense4 SH-M15",
+      "codename": "JeridA",
+      "model": "SH-M15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense4 basic A003SH",
+      "codename": "JeridB",
+      "model": "A003SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense4 lite SH-RM15",
+      "codename": "JeridL",
+      "model": "SH-RM15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense4 plus",
+      "codename": "VG2",
+      "model": "SH-M16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense4 plus",
+      "codename": "VG2",
+      "model": "SH-S40P"
     },
     {
       "manufacturer": "",
@@ -981,9 +1053,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS zero2 SH-Z20",
+      "codename": "SH-Z20",
+      "model": "SH-Z20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS zero2 SHV47",
       "codename": "QDA",
       "model": "SHV47"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero5G basic",
+      "codename": "SGA002SH",
+      "model": "A002SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero5G basic DX",
+      "codename": "OJ6",
+      "model": "SHG02"
     },
     {
       "manufacturer": "",
@@ -1110,6 +1200,12 @@
       "market_name": "EB-WX1GJ/EB-W51GJ",
       "codename": "Galapagos",
       "model": "EB-WX1GJ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "sindang",
+      "model": "AQUOS-TVE19C"
     },
     {
       "manufacturer": "",
@@ -1713,6 +1809,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SH-T01",
+      "codename": "OG6",
+      "model": "SH-T01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SH80F",
       "codename": "SH80F",
       "model": "SH80F"
@@ -1812,6 +1914,12 @@
       "market_name": "SHARP TBC",
       "codename": "SI3",
       "model": "FS8025"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "ewha",
+      "model": "AQUOS-TVE19G"
     },
     {
       "manufacturer": "",
@@ -1953,6 +2061,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "dtab d-41A",
+      "codename": "d-41A",
+      "model": "d-41A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "lcd_xxbel7a_c",
       "codename": "lcd_xxbel7a_c",
       "model": "LCD-xxBEL7A-C"
@@ -1974,6 +2088,12 @@
       "market_name": "シンプルスマホ４",
       "codename": "SG704SH",
       "model": "704SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "シンプルスマホ５",
+      "codename": "OI6",
+      "model": "A001SH"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ACK1010",
+      "codename": "ACK1010",
+      "model": "ACK1010"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DN6015",
       "codename": "DN6015",
       "model": "DN6015"
@@ -18,6 +24,12 @@
       "market_name": "KT5509",
       "codename": "KT5509",
       "model": "KT5509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S90",
+      "codename": "S90",
+      "model": "S90"
     },
     {
       "manufacturer": "",

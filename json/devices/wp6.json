@@ -4,5 +4,11 @@
     "market_name": "WP6",
     "codename": "WP6",
     "model": "WP6"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "WP6_EEA",
+    "codename": "WP6",
+    "model": "WP6"
   }
 ]

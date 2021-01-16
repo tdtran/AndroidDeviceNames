@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Benten",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "Benten_T10",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8",
+      "codename": "T8",
+      "model": "T8"
+    }
+  ]
+}

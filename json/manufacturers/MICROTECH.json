@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ETW101GT_EEA",
+      "codename": "ETW101GT_EEA",
+      "model": "ETW101GT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Microtech_e-tab_Style",
       "codename": "Microtech_etabStyle",
       "model": "Microtech_etabStyle"
@@ -18,6 +24,12 @@
       "market_name": "e-tab_style_rev.3",
       "codename": "e-tab_style_REV3",
       "model": "e-tab_style_REV3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "etab_LTE",
+      "codename": "etab_LTE",
+      "model": "ETL101AL"
     }
   ]
 }

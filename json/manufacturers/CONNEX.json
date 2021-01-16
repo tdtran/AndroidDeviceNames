@@ -12,6 +12,12 @@
       "market_name": "CTAB1044hn",
       "codename": "CTAB1044hn",
       "model": "CTAB1044hn"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEN_1055_ARM",
+      "codename": "SEN_1055_ARM",
+      "model": "SEN_1055_ARM"
     }
   ]
 }

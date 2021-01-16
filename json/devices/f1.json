@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "G-Tab",
+    "market_name": "F1",
+    "codename": "F1",
+    "model": "F1"
+  },
+  {
     "manufacturer": "Infocus",
     "market_name": "NewTab F1",
     "codename": "f1",

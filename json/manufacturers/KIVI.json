@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Kivi",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KIVI",
+      "codename": "bangbae",
+      "model": "KIVI 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIVI",
+      "codename": "komagome",
+      "model": "KIVI 2K Android TV"
+    }
+  ]
+}

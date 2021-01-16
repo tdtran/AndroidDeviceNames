@@ -237,6 +237,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium M7T",
+      "codename": "Ilium_M7T",
+      "model": "Ilium M7T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium M9",
       "codename": "Ilium_M9",
       "model": "Ilium M9"
@@ -351,9 +357,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IliumPad_RX10",
+      "codename": "IliumPad_RX10",
+      "model": "ILIUM_PAD_RX10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IliumPad_RX7",
+      "codename": "IliumPad_RX7",
+      "model": "ILIUM_PAD_RX7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IliumPad_RX8",
+      "codename": "IliumPad_RX8",
+      "model": "IliumPad_RX8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IliumPad_RX8v2",
+      "codename": "IliumPad_RX8v2",
+      "model": "IliumPad_RX8v2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium_Alpha7",
       "codename": "Ilium_Alpha7",
       "model": "Ilium Alpha 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium_Alpha_1TT",
+      "codename": "Ilium_Alpha_1TT",
+      "model": "Ilium Alpha 1T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium_Alpha_5T",
+      "codename": "Ilium_Alpha_5T",
+      "model": "Ilium Alpha 5T"
     },
     {
       "manufacturer": "",
@@ -423,6 +465,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X120C",
+      "codename": "X120C",
+      "model": "X120C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X230",
       "codename": "X230",
       "model": "X230"
@@ -456,6 +504,18 @@
       "market_name": "X540",
       "codename": "X540",
       "model": "X540"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X550",
+      "codename": "X550",
+      "model": "X550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X750",
+      "codename": "X750",
+      "model": "X750"
     },
     {
       "manufacturer": "",

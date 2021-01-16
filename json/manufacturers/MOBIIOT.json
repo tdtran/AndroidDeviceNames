@@ -12,6 +12,12 @@
       "market_name": "Hotah",
       "codename": "HotahOTG_V",
       "model": "HotahOTG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mobigo2",
+      "codename": "MobiGo2",
+      "model": "MobiGo2"
     }
   ]
 }

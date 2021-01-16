@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Astro 4 PRO",
+      "codename": "Astro_4_PRO",
+      "model": "Astro 4 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astro 5 Go LTE",
       "codename": "Astro_5_GO_LTE",
       "model": "Astro_5_GO_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 5 PRO",
+      "codename": "Astro_5_PRO",
+      "model": "Astro 5 PRO"
     },
     {
       "manufacturer": "",
@@ -93,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nitro 55Q",
+      "codename": "Nitro_55Q",
+      "model": "Nitro 55Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nitro 5N",
       "codename": "Nitro_5N",
       "model": "Nitro_5N"
@@ -126,6 +144,12 @@
       "market_name": "Nitro_5X",
       "codename": "Nitro_5X",
       "model": "Nitro_5X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro_7Q",
+      "codename": "Nitro_7Q",
+      "model": "Nitro_7Q"
     },
     {
       "manufacturer": "",

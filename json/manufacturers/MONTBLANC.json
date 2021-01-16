@@ -18,6 +18,18 @@
       "market_name": "Summit",
       "codename": "lionfish",
       "model": "MB SUMMIT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Summit 2+",
+      "codename": "coralia",
+      "model": "Summit 2+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Summit Lite",
+      "codename": "icefish",
+      "model": "SUMMIT LITE"
     }
   ]
 }

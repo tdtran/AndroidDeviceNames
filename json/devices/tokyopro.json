@@ -45,6 +45,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3L",
     "codename": "TokyoPro",
+    "model": "5029F"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
     "model": "5029Y"
   },
   {
@@ -73,8 +79,20 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "TokyoPro",
+    "model": "TECTOY"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3X Plus",
     "codename": "TokyoPro",
     "model": "5029A"
+  },
+  {
+    "manufacturer": "Tectoy",
+    "market_name": "TECTOY ON 128GB",
+    "codename": "TokyoPro",
+    "model": "TECTOY_5029Y"
   }
 ]

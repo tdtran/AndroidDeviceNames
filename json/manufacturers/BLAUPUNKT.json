@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A-STREAM",
+      "codename": "GMP",
+      "model": "A-STREAM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Atlantis_A10_G403",
       "codename": "Atlantis_A10_G403",
       "model": "Atlantis_A10_G403"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "hanyang",
+      "model": "BP Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "nippori",
+      "model": "BP Android TV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B-STREAM",
+      "codename": "JFK",
+      "model": "B-STREAM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BP_6008",
+      "codename": "BP_6008",
+      "model": "BP_6008"
     },
     {
       "manufacturer": "",
@@ -18,6 +48,12 @@
       "market_name": "Blaupunkt",
       "codename": "bangbae",
       "model": "BLAUPUNKT 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "komagome",
+      "model": "BLAUPUNKT 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -51,15 +87,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Czech/Ukraine/Russia",
+      "codename": "nippori",
+      "model": "BLAUPUNKT Android TV 2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Discovery_A10_302",
       "codename": "Discovery_A10_302",
       "model": "Discovery_A10_302"
     },
     {
       "manufacturer": "",
+      "market_name": "EU",
+      "codename": "tamachi",
+      "model": "BLAUPUNKT FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ecuador",
+      "codename": "hanyang",
+      "model": "BP 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ecuador",
+      "codename": "nippori",
+      "model": "BP 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Endeavour101",
       "codename": "Blaupunkt",
       "model": "Endeavour101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Guardian",
+      "codename": "Guardian",
+      "model": "Guardian"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MP3TV",
+      "codename": "shinjuku",
+      "model": "MP3-A 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT16",
+      "codename": "OT16",
+      "model": "OT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT19",
+      "codename": "OT19",
+      "model": "OT19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SF02_eea",
+      "codename": "Blaupunkt_SF02",
+      "model": "Blaupunkt SF02"
     },
     {
       "manufacturer": "",

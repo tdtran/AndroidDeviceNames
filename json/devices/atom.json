@@ -12,6 +12,24 @@
     "model": "JBL LINK BAR"
   },
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10X",
+    "codename": "atom",
+    "model": "M2004J7AC"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10X",
+    "codename": "atom",
+    "model": "atom"
+  },
+  {
+    "manufacturer": "Symphony",
+    "market_name": "ATOM",
+    "codename": "ATOM",
+    "model": "ATOM"
+  },
+  {
     "manufacturer": "Unihertz",
     "market_name": "Atom",
     "codename": "Atom",

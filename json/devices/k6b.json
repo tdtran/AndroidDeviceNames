@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "KRIP",
+    "market_name": "K6b",
+    "codename": "K6b",
+    "model": "K6b"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "LG X Skin",
     "codename": "k6b",

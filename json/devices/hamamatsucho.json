@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "BGH S.A.",
+    "market_name": "fushan_BGH",
+    "codename": "hamamatsucho",
+    "model": "Smart TV"
+  },
+  {
     "manufacturer": "G-Guard",
     "market_name": "fushan_Guard",
     "codename": "hamamatsucho",
@@ -7,9 +13,9 @@
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "EM",
+    "market_name": "fushan_2",
     "codename": "hamamatsucho",
-    "model": "HiSmart 2K ATV4"
+    "model": "HiSmart TV"
   },
   {
     "manufacturer": "Hisense",
@@ -24,6 +30,18 @@
     "model": "HiSmart 2K ATV4"
   },
   {
+    "manufacturer": "Hisense",
+    "market_name": "fushan_sa",
+    "codename": "hamamatsucho",
+    "model": "HiSmart 2K ATV4"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "fushan_Toshiba",
+    "codename": "hamamatsucho",
+    "model": "HiSmart 2K ATV4"
+  },
+  {
     "manufacturer": "Toshiba",
     "market_name": "fushan_euT",
     "codename": "hamamatsucho",
@@ -31,7 +49,7 @@
   },
   {
     "manufacturer": "Vu Televisions",
-    "market_name": "India",
+    "market_name": "fushan_vu",
     "codename": "hamamatsucho",
     "model": "Smart 2K ATV4"
   }

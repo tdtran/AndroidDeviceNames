@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D58",
+      "codename": "D58",
+      "model": "D58"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D60_Pro",
+      "codename": "D60_Pro",
+      "model": "D60 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D68",
+      "codename": "D68",
+      "model": "D68"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W45S",
+      "codename": "W45S",
+      "model": "W45S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W60",
       "codename": "W60",
       "model": "W60"

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Challenger",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Challenger",
+      "codename": "gangbyeon",
+      "model": "Challenger 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Challenger",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    }
+  ]
+}

@@ -6,6 +6,18 @@
       "market_name": "HIHI-40KH-TAB-01",
       "codename": "HIHI-40KH-TAB",
       "model": "HIHI-40KH-TAB-01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HIHI-41KH-TAB-1",
+      "codename": "HIHI-41KH-TAB-1",
+      "model": "HIHI-41KH-TAB-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HIHI-41KH-TAB-1-EEA",
+      "codename": "HIHI-41KH-TAB-1-EEA",
+      "model": "HIHI-41KH-TAB-1-EEA"
     }
   ]
 }

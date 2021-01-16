@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Hangsung",
+      "market_name": "ENTV",
+      "codename": "seocho",
+      "model": "ENTV 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hansung",
       "codename": "seocho",
       "model": "Hansung 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infiniton",
+      "codename": "bangbae",
+      "model": "Infiniton 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infiniton",
+      "codename": "komagome",
+      "model": "Infiniton 2K Android TV"
     },
     {
       "manufacturer": "",

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Guardian",
+    "codename": "Guardian",
+    "model": "Guardian"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Z836BL",
     "codename": "guardian",

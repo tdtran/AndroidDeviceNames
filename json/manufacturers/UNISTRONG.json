@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UT12P",
+      "codename": "UT12P",
+      "model": "UT12P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UT30",
       "codename": "UT30",
       "model": "UT30"
@@ -24,6 +30,18 @@
       "market_name": "UT30_EEA",
       "codename": "UT30",
       "model": "UT30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UT32",
+      "codename": "UT32",
+      "model": "UT32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UT56",
+      "codename": "UT56",
+      "model": "UT56"
     }
   ]
 }

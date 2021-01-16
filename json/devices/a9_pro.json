@@ -4,5 +4,17 @@
     "market_name": "A9 Pro",
     "codename": "A9_Pro",
     "model": "A9_Pro"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "A9 Pro",
+    "codename": "A9_Pro",
+    "model": "A9 Pro"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "A9 Pro_EEA",
+    "codename": "A9_Pro",
+    "model": "A9 Pro"
   }
 ]

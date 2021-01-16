@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "32CAM6SHD",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A110",
       "codename": "s9081",
       "model": "Micromax A110"
@@ -1227,9 +1233,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "India",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
+      "market_name": "IN1b",
+      "codename": "E6523",
+      "model": "Micromax E6523"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IN1b",
+      "codename": "E7533",
+      "model": "Micromax E7533"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IN_Note1",
+      "codename": "E7746",
+      "model": "IN_Note1"
     },
     {
       "manufacturer": "",

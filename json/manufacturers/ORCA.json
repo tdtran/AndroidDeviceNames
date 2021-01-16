@@ -3,7 +3,13 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "KUWAIT",
+      "market_name": "Kuwait",
+      "codename": "yeongdeungpo",
+      "model": "ORCA UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OR-50UX400S",
       "codename": "samseong",
       "model": "AI PONT"
     }

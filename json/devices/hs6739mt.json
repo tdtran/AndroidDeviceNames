@@ -37,6 +37,18 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "Hisense F16",
+    "codename": "HS6739MT",
+    "model": "Hisense F16"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F16",
+    "codename": "HS6739MT",
+    "model": "Hisense Infinity E6"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "Hisense F18",
     "codename": "HS6739MT",
     "model": "Hisense F18"

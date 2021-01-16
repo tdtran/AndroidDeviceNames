@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Smart-Tech TV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "France",
+      "codename": "tamachi",
+      "model": "AiPlus2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartTech",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    }
+  ]
+}

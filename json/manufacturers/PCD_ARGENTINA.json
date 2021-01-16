@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PL504",
+      "codename": "PL504",
+      "model": "PL504"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PL550",
       "codename": "PL550",
       "model": "PL550"
@@ -78,6 +84,12 @@
       "market_name": "PL571",
       "codename": "PL571",
       "model": "PL571"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PL571US",
+      "codename": "PL571US",
+      "model": "PL571US"
     },
     {
       "manufacturer": "",

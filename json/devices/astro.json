@@ -4,5 +4,11 @@
     "market_name": "ASTRO",
     "codename": "ASTRO",
     "model": "ASTRO"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "motorola one fusion",
+    "codename": "astro",
+    "model": "motorola one fusion"
   }
 ]

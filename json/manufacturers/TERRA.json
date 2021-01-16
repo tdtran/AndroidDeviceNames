@@ -24,6 +24,12 @@
       "market_name": "TERRA_PAD_1005POKO",
       "codename": "TERRA_PAD_1005POKO",
       "model": "TERRA_PAD_1005POKO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TERRA_PAD_1006",
+      "codename": "TERRA_PAD_1006",
+      "model": "TERRA_PAD_1006"
     }
   ]
 }

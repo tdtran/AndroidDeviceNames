@@ -273,6 +273,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1939",
+      "codename": "coolpad_Cool_X",
+      "model": "1939"
+    },
+    {
+      "manufacturer": "",
       "market_name": "3300A",
       "codename": "3300A",
       "model": "Coolpad 3300A"
@@ -789,6 +795,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP3503L",
+      "codename": "CP3503L",
+      "model": "CP3503L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP3504L",
+      "codename": "CP3504L",
+      "model": "CP3504L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP5108",
       "codename": "msm7627a_a8_5108_new",
       "model": "Coolpad 5108"
@@ -915,6 +933,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cool6",
+      "codename": "1901",
+      "model": "1901"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Coolmini",
       "codename": "Coolmini",
       "model": "Coolmini"
@@ -990,6 +1014,18 @@
       "market_name": "Coolpad POL-A0",
       "codename": "pollux",
       "model": "POL-A0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Coolpad Suva",
+      "codename": "CP3669AS",
+      "model": "CP3669AS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Coolpad Tasker",
+      "codename": "CP3667AT",
+      "model": "CP3667AT"
     },
     {
       "manufacturer": "",
@@ -1344,6 +1380,18 @@
       "market_name": "Y92-9",
       "codename": "Y92-9",
       "model": "Coolpad Y92-9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad N7 Air",
+      "codename": "2021",
+      "model": "2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad N7 Plus",
+      "codename": "coolpad_N7_Plus",
+      "model": "2032"
     },
     {
       "manufacturer": "",

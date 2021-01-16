@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TZ200",
+      "codename": "TZ200",
+      "model": "TZ200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ55",
       "codename": "TZ55",
       "model": "TZ55"
@@ -264,6 +270,12 @@
       "market_name": "TZ721",
       "codename": "TZ721",
       "model": "TZ721"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ722",
+      "codename": "TZ722",
+      "model": "TZ722"
     },
     {
       "manufacturer": "",

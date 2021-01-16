@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Epson",
+      "codename": "embt4",
+      "model": "EMBT4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Projector",
+      "codename": "sti6200d101",
+      "model": "Projector"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STI6110",
       "codename": "Bushi",
       "model": "STI6110"
@@ -10,6 +22,18 @@
     {
       "manufacturer": "",
       "market_name": "embt4",
+      "codename": "embt4",
+      "model": "EMBT4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "embt4cn",
+      "codename": "embt4",
+      "model": "EMBT4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "embt4ru",
       "codename": "embt4",
       "model": "EMBT4"
     }

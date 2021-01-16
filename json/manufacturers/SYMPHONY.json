@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ATOM",
+      "codename": "ATOM",
+      "model": "ATOM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E90",
       "codename": "E90",
       "model": "E90"
@@ -351,6 +357,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z16",
+      "codename": "Z16",
+      "model": "Z16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z18",
+      "codename": "Z18",
+      "model": "Symphony Z18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z20",
       "codename": "Z20",
       "model": "Z20"
@@ -363,9 +381,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z28",
+      "codename": "Z28",
+      "model": "Z28"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z30",
       "codename": "Z30",
       "model": "Z30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z30 pro",
+      "codename": "Z30_pro",
+      "model": "Z30 pro"
     },
     {
       "manufacturer": "",
@@ -396,6 +426,12 @@
       "market_name": "i100",
       "codename": "i100",
       "model": "i100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i12",
+      "codename": "i12",
+      "model": "i12"
     },
     {
       "manufacturer": "",
@@ -453,6 +489,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i66",
+      "codename": "i66",
+      "model": "i66"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i67",
+      "codename": "i67",
+      "model": "i67"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i68",
       "codename": "i68",
       "model": "i68"
@@ -486,6 +534,18 @@
       "market_name": "i97",
       "codename": "i97",
       "model": "i97"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i98",
+      "codename": "i98",
+      "model": "i98"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i99",
+      "codename": "i99",
+      "model": "i99"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,62 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 20E",
+    "codename": "HONG_KONG",
+    "model": "6125A"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 20E",
+    "codename": "HONG_KONG",
+    "model": "6125D"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 20E",
+    "codename": "HONG_KONG",
+    "model": "6125F"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "HONG_KONG",
+    "model": "6025A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "HONG_KONG",
+    "model": "6025D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "HONG_KONG",
+    "model": "6025D_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "HONG_KONG",
+    "model": "6025D_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "HONG_KONG",
+    "model": "6025H"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "HONG_KONG",
+    "model": "6025H_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1S",
+    "codename": "HONG_KONG",
+    "model": "6025H_RU"
+  }
+]

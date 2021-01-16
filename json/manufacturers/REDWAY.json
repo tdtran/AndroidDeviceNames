@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "redway10_lite",
+      "codename": "redway10_lite",
+      "model": "redway10_lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "redway7_pro",
+      "codename": "redway7_pro",
+      "model": "redway7_pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "redway_7",
       "codename": "redway_7",
       "model": "redway_7"

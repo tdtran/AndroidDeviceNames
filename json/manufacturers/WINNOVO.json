@@ -51,6 +51,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M8_EEA",
+      "codename": "M8",
+      "model": "M8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20-Tab",
+      "codename": "P20-Tab",
+      "model": "P20-Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20-Tab_EEA",
+      "codename": "P20-Tab_EEA",
+      "model": "P20-Tab_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10",
       "codename": "T10",
       "model": "T10"
@@ -90,6 +108,36 @@
       "market_name": "T8_eea",
       "codename": "T8",
       "model": "T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS10",
+      "codename": "TS10",
+      "model": "TS10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS10_EEA",
+      "codename": "TS10_EEA",
+      "model": "TS10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS7",
+      "codename": "TS7",
+      "model": "TS7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS7",
+      "codename": "TS7_EEA",
+      "model": "TS7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Winnovo",
+      "codename": "M8",
+      "model": "M8"
     }
   ]
 }

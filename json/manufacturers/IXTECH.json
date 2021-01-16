@@ -1,0 +1,23 @@
+{
+  "manufacturer": "IXTECH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IX1011",
+      "codename": "IX1011",
+      "model": "IX1011"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IX1012",
+      "codename": "IX1012",
+      "model": "IX1012"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IX701",
+      "codename": "IX701",
+      "model": "IX701"
+    }
+  ]
+}

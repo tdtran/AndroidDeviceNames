@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G20",
+      "codename": "G20",
+      "model": "G20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT20",
+      "codename": "GT20",
+      "model": "GT20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HAFURY MIX",
       "codename": "HAFURY_MIX",
       "model": "HAFURY MIX"
@@ -18,6 +30,24 @@
       "market_name": "HAFURY UMAX",
       "codename": "HAFURY_UMAX",
       "model": "HAFURY UMAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K30",
+      "codename": "K30",
+      "model": "K30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K30 PRO",
+      "codename": "K30_PRO",
+      "model": "K30 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20",
+      "codename": "M20",
+      "model": "M20"
     },
     {
       "manufacturer": "",

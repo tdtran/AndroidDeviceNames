@@ -4,5 +4,11 @@
     "market_name": "MBU-A0",
     "codename": "mobius",
     "model": "SHARK MBU-A0"
+  },
+  {
+    "manufacturer": "Blackshark",
+    "market_name": "MBU-H0",
+    "codename": "mobius",
+    "model": "SHARK MBU-H0"
   }
 ]

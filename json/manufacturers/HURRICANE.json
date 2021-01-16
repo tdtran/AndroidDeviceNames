@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Iris_Plus",
+      "codename": "Iris_Plus",
+      "model": "Iris_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LINK",
       "codename": "LINK",
       "model": "LINK"

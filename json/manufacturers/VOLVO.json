@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Volvo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Volvo",
+      "codename": "ihu_abl_car",
+      "model": "Volvo"
+    }
+  ]
+}

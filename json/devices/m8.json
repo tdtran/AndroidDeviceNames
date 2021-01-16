@@ -16,5 +16,17 @@
     "market_name": "M8",
     "codename": "M8",
     "model": "M8"
+  },
+  {
+    "manufacturer": "Winnovo",
+    "market_name": "M8_EEA",
+    "codename": "M8",
+    "model": "M8"
+  },
+  {
+    "manufacturer": "Winnovo",
+    "market_name": "Winnovo",
+    "codename": "M8",
+    "model": "M8"
   }
 ]

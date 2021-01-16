@@ -1,0 +1,17 @@
+{
+  "manufacturer": "THOMSON_KODAK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PATH_7XPRO",
+      "codename": "LEDTV32HD",
+      "model": "PATH_7XPRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PATH_UHDXANDROID",
+      "codename": "LEDTVUHD",
+      "model": "PATH_UHDXANDROID"
+    }
+  ]
+}

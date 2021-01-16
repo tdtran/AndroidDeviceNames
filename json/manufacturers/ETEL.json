@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E-tel_i20",
+      "codename": "E-tel_i20",
+      "model": "E-tel_i20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E-tel_i250",
       "codename": "E-tel_i250",
       "model": "E-tel_i250"

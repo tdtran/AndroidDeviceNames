@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TVision",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SEI400TM",
+      "codename": "SEI400TM",
+      "model": "TVision"
+    }
+  ]
+}

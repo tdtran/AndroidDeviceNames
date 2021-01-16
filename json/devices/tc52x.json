@@ -1,0 +1,14 @@
+[
+  {
+    "manufacturer": "Zebra",
+    "market_name": "Zebra Technologies TC52XA",
+    "codename": "TC52X",
+    "model": "TC52X"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "Zebra Technologies TC52x",
+    "codename": "TC52X",
+    "model": "TC52X"
+  }
+]

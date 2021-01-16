@@ -10,5 +10,29 @@
     "market_name": "MITO A21",
     "codename": "A21",
     "model": "MITO A21"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A21",
+    "codename": "a21",
+    "model": "SM-A215U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A21",
+    "codename": "a21",
+    "model": "SM-A215U1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A21",
+    "codename": "a21",
+    "model": "SM-A215W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A21",
+    "codename": "a21",
+    "model": "SM-S215DL"
   }
 ]

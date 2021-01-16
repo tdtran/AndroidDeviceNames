@@ -39,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AXE_II",
+      "codename": "Premio",
+      "model": "AXE_II"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Axe",
       "codename": "HMR5510",
       "model": "Axe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEON_RAY_2",
+      "codename": "X82",
+      "model": "X82"
     },
     {
       "manufacturer": "",
@@ -72,6 +84,12 @@
       "market_name": "PREMIO P450",
       "codename": "P450",
       "model": "P450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PREMIO_S50",
+      "codename": "PREMIO_S50",
+      "model": "PREMIO S50"
     },
     {
       "manufacturer": "",
@@ -111,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S53",
+      "codename": "S53",
+      "model": "S53"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S70",
       "codename": "S70",
       "model": "S70"
@@ -147,6 +171,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S81",
+      "codename": "S81",
+      "model": "S81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S82",
+      "codename": "S82",
+      "model": "S82"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S83",
+      "codename": "S83",
+      "model": "S83"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X1",
       "codename": "186HS2080531",
       "model": "186HS2080531"
@@ -162,6 +204,12 @@
       "market_name": "X81",
       "codename": "X81",
       "model": "X81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X83",
+      "codename": "X83",
+      "model": "X83"
     }
   ]
 }

@@ -36,6 +36,18 @@
       "market_name": "NID9009",
       "codename": "NID9009",
       "model": "NID-9009"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Naxa",
+      "codename": "NID_1055",
+      "model": "NID-1055"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Naxa",
+      "codename": "NID_7055",
+      "model": "NID-7055"
     }
   ]
 }

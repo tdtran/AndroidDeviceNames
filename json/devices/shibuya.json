@@ -30,6 +30,12 @@
     "model": "FlipkartTV"
   },
   {
+    "manufacturer": "OnePlus",
+    "market_name": "Y Series",
+    "codename": "shibuya",
+    "model": "Y Series"
+  },
+  {
     "manufacturer": "Orient",
     "market_name": "OrientTV",
     "codename": "shibuya",

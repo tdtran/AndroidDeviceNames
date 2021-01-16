@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Freebox Player POP",
+      "codename": "fbx8am",
+      "model": "Freebox Player POP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mini 4K",
       "codename": "fbx6lc",
       "model": "Freebox Player Mini"

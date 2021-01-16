@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cat S42",
+      "codename": "S42G",
+      "model": "S42"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cat S48c",
       "codename": "CatS48c",
       "model": "S48c"
@@ -63,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cat S62 Pro",
+      "codename": "S62Pro",
+      "model": "S62 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CatS50c",
       "codename": "CatS50c",
       "model": "S50c"
@@ -84,6 +96,12 @@
       "market_name": "S50",
       "codename": "CatS50",
       "model": "S50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S62Pro",
+      "codename": "S62Pro",
+      "model": "S62 Pro"
     }
   ]
 }

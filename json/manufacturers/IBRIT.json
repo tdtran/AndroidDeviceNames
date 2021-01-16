@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAX10-1",
+      "codename": "MAX10-1",
+      "model": "MAX10-1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAX4",
       "codename": "MAX4",
       "model": "MAX4"
@@ -117,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i5+",
+      "codename": "i5Plus",
+      "model": "i5+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i5Plus",
       "codename": "i5Plus",
       "model": "i5Plus"
@@ -126,6 +138,12 @@
       "market_name": "iBRIT SpeedX",
       "codename": "SpeedX",
       "model": "SpeedX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBRIT_POWER6",
+      "codename": "iBRIT_POWER6",
+      "model": "iBRIT_POWER6"
     }
   ]
 }

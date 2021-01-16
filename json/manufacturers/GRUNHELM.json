@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Grunhelm",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GT9HD32",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT9UHD",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

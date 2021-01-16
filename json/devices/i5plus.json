@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "iBRIT",
+    "market_name": "i5+",
+    "codename": "i5Plus",
+    "model": "i5+"
+  },
+  {
+    "manufacturer": "iBRIT",
     "market_name": "i5Plus",
     "codename": "i5Plus",
     "model": "i5Plus"

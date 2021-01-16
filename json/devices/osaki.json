@@ -1,7 +1,25 @@
 [
   {
+    "manufacturer": "Challenger",
+    "market_name": "Challenger",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
     "manufacturer": "Engel",
     "market_name": "LE3290ATV",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Hyundai",
+    "codename": "osaki",
+    "model": "HYUNDAI 2K AI Smart TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "Amtran",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
@@ -24,6 +42,12 @@
     "model": "2K AI Smart TV"
   },
   {
+    "manufacturer": "Polytron",
+    "market_name": "Polytron 2K AI Smart TV",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
     "manufacturer": "RCA",
     "market_name": "RS43F2-EU",
     "codename": "osaki",
@@ -32,6 +56,12 @@
   {
     "manufacturer": "Soniq",
     "market_name": "G32HW60A",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "32FD1",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   }

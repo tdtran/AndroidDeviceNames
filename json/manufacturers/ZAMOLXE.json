@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ZAMOLXE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ZXT-10FL323G-PRO",
+      "codename": "ZXT-10FL323G-PRO",
+      "model": "ZXT-10FL323G-PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZXT-10HL323S",
+      "codename": "ZXT-10HL323S",
+      "model": "ZXT-10HL323S"
+    }
+  ]
+}

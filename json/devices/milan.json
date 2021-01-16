@@ -12,6 +12,12 @@
     "model": "5161A"
   },
   {
+    "manufacturer": "TCL",
+    "market_name": "TCL T Pro",
+    "codename": "Milan",
+    "model": "5161K"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3X",
     "codename": "Milan",
@@ -28,6 +34,12 @@
     "market_name": "Alcatel 3X",
     "codename": "Milan",
     "model": "5061K_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3X",
+    "codename": "Milan",
+    "model": "5061K_RU"
   },
   {
     "manufacturer": "TCT (Alcatel)",

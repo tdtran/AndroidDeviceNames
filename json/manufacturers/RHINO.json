@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Rhino",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "C10",
+      "codename": "Rhino_C10",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10p_001",
+      "codename": "Rhino_M10p",
+      "model": "M10p"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8",
+      "codename": "Rhino_T8",
+      "model": "T8"
+    }
+  ]
+}

@@ -3,26 +3,8 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "APAC",
-      "codename": "SW3H_ATV",
-      "model": "SWTV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "APAC 2K TV",
       "codename": "shibuya",
-      "model": "SWTV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Airtel",
-      "codename": "AirtelOTTBox",
-      "model": "HP2707"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Asia",
-      "codename": "SW3_ATV",
       "model": "SWTV"
     },
     {
@@ -52,12 +34,6 @@
     {
       "manufacturer": "",
       "market_name": "Europe",
-      "codename": "SW3H_ATV",
-      "model": "SWTV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Europe",
       "codename": "globe_eu",
       "model": "globe"
     },
@@ -76,12 +52,6 @@
     {
       "manufacturer": "",
       "market_name": "North America",
-      "codename": "SW3_ATV",
-      "model": "SWTV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "North America",
       "codename": "globe_na",
       "model": "globe"
     },
@@ -93,9 +63,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Skyworth",
-      "codename": "IPBox",
-      "model": "ACT4K1007"
+      "market_name": "SA100",
+      "codename": "HY40A",
+      "model": "SA100"
     },
     {
       "manufacturer": "",
@@ -112,12 +82,6 @@
     {
       "manufacturer": "",
       "market_name": "South America",
-      "codename": "SW3_ATV",
-      "model": "SWTV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "South America",
       "codename": "globe_sa",
       "model": "globe"
     },
@@ -129,9 +93,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Taiwan",
-      "codename": "SW3H_ATV",
-      "model": "SWTV"
+      "market_name": "TV Box",
+      "codename": "HY44G",
+      "model": "TV Box"
     }
   ]
 }

@@ -615,6 +615,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROG Phone 3",
+      "codename": "ASUS_I003_1",
+      "model": "ASUS_I003DD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 3",
+      "codename": "ASUS_I003_1",
+      "model": "ZS661KS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ROG Phone ll",
       "codename": "ASUS_I001_1",
       "model": "ASUS_I001D"
@@ -1362,6 +1374,18 @@
       "market_name": "ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)",
       "codename": "ASUS_I01WD",
       "model": "ZS630KL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+      "codename": "ASUS_I002D",
+      "model": "ASUS_I002D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+      "codename": "ASUS_I002D",
+      "model": "ZS670KS"
     },
     {
       "manufacturer": "",

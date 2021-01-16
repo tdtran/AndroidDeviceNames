@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMADL_R35",
+      "codename": "SMADL_R35_FW",
+      "model": "SMADL R35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Safari",
       "codename": "Safari",
       "model": "Safari"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Safari_ 2plus",
+      "codename": "Safari_2plus",
+      "model": "Safari_2plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Safari_2",
+      "codename": "Safari_2",
+      "model": "Safari 2"
     }
   ]
 }

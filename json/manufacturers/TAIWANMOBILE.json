@@ -42,6 +42,12 @@
       "market_name": "Amazing_A55",
       "codename": "Amazing_A55",
       "model": "Amazing_A55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amazing_A57",
+      "codename": "Amazing_A57",
+      "model": "Amazing_A57"
     }
   ]
 }

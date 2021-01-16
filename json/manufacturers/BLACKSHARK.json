@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MBU-H0",
+      "codename": "mobius",
+      "model": "SHARK MBU-H0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Shark",
       "codename": "shark",
       "model": "SKR-H0"
@@ -48,6 +54,12 @@
       "market_name": "Shark 1S",
       "codename": "bullhead",
       "model": "AWM-A0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "黑鲨游戏手机",
+      "codename": "shark",
+      "model": "SKR-A0"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Lenovo",
+    "market_name": "Lenovo K12 Note",
+    "codename": "guamp",
+    "model": "Lenovo K12 Note"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g(9)",
+    "codename": "guamp",
+    "model": "moto g(9)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g(9) play",
+    "codename": "guamp",
+    "model": "moto g(9) play"
+  }
+]
