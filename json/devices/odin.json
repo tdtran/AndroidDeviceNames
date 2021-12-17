@@ -24,6 +24,12 @@
     "model": "Signature Touch"
   },
   {
+    "manufacturer": "Xiaomi",
+    "market_name": "MIX 4",
+    "codename": "odin",
+    "model": "2106118C"
+  },
+  {
     "manufacturer": "iSWAG",
     "market_name": "ODIN",
     "codename": "ODIN",

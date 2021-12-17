@@ -4,5 +4,11 @@
     "market_name": "Dbook_110",
     "codename": "Dbook_110",
     "model": "Dbook_110"
+  },
+  {
+    "manufacturer": "Danew",
+    "market_name": "Dbook_110_EEA",
+    "codename": "Dbook_110",
+    "model": "Dbook_110"
   }
 ]

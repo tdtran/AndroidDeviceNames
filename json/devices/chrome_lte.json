@@ -4,5 +4,11 @@
     "market_name": "Chrome LTE",
     "codename": "CHROME_LTE",
     "model": "CHROME LTE"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "Chrome_LTE",
+    "codename": "Chrome_LTE",
+    "model": "Chrome LTE"
   }
 ]

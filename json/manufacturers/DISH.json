@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Celero 5G",
+      "codename": "Jupiter",
+      "model": "WTCELERO5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EVOLVE",
       "codename": "dish_cable_bcm",
       "model": "SH960C-DS"

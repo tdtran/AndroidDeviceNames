@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Altice",
+    "market_name": "S24",
+    "codename": "S24",
+    "model": "S24"
+  },
+  {
     "manufacturer": "Inovacel",
     "market_name": "INOVACEL S24",
     "codename": "S24",

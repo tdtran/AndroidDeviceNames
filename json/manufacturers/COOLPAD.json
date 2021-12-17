@@ -903,6 +903,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cool 10",
+      "codename": "2040",
+      "model": "2040"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool 10A",
+      "codename": "Coolpad_2041",
+      "model": "Coolpad_2041"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool 10A",
+      "codename": "Coolpad_2041_S0",
+      "model": "Coolpad_2041_S0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool 10A",
+      "codename": "Coolpad_2041_T3",
+      "model": "Coolpad_2041_T3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool 10A",
+      "codename": "Coolpad_2041_U0",
+      "model": "Coolpad_2041_U0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool 12A",
+      "codename": "2042",
+      "model": "coolpad Cool 12A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool 12A",
+      "codename": "Coolpad_2042_U0",
+      "model": "2042"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cool C1",
       "codename": "cool_c1",
       "model": "C106"
@@ -930,6 +972,12 @@
       "market_name": "Cool C1",
       "codename": "cool_c1",
       "model": "C107-9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool S",
+      "codename": "2039",
+      "model": "2039"
     },
     {
       "manufacturer": "",
@@ -1380,6 +1428,12 @@
       "market_name": "Y92-9",
       "codename": "Y92-9",
       "model": "Coolpad Y92-9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad COOL 20",
+      "codename": "k69v1_64",
+      "model": "CP03"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,11 @@
     "market_name": "Projector",
     "codename": "sti6200d101",
     "model": "Projector"
+  },
+  {
+    "manufacturer": "Epson",
+    "market_name": "SMF2",
+    "codename": "sti6200d101",
+    "model": "Projector"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Benten",
+    "market_name": "T30",
+    "codename": "T30",
+    "model": "T30"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "T30",
     "codename": "T30",

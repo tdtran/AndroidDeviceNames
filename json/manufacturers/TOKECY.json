@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TOKECY",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T847",
+      "codename": "T847",
+      "model": "T847"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T847_EEA",
+      "codename": "T847_EEA",
+      "model": "T847_EEA"
+    }
+  ]
+}

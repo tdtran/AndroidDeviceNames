@@ -33,6 +33,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A26",
+      "codename": "A26",
+      "model": "A26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A27",
+      "codename": "A27",
+      "model": "A27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fun5",
+      "codename": "Fun5",
+      "model": "Fun5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HIKING_A18",
       "codename": "HIKING_A18",
       "model": "HIKING_A18"

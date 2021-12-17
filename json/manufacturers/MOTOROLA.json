@@ -363,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Atrix",
       "codename": "olympus",
       "model": "MB860"
@@ -789,6 +795,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FlipkartTVPro",
+      "codename": "SW4H_FF",
+      "model": "FlipkartTVPro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flipout",
       "codename": "umts_ruth",
       "model": "MB511"
@@ -840,6 +852,54 @@
       "market_name": "Lenovo K11 Power",
       "codename": "blackjack",
       "model": "Lenovo K11 Power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K12",
+      "codename": "malta",
+      "model": "Lenovo K11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K12",
+      "codename": "malta",
+      "model": "Lenovo K12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K13",
+      "codename": "maltalsc",
+      "model": "Lenovo K13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K13",
+      "codename": "maltalsc",
+      "model": "maltalsc"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K13 Note",
+      "codename": "java",
+      "model": "Lenovo K13 Note"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K14",
+      "codename": "aruba",
+      "model": "Lenovo K14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K14 Note",
+      "codename": "cofud",
+      "model": "Lenovo K12 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K14 Note",
+      "codename": "cofud",
+      "model": "Lenovo K14 Note"
     },
     {
       "manufacturer": "",
@@ -1533,6 +1593,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Moto Tab g70",
+      "codename": "mototabg70",
+      "model": "moto tab g70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Moto Tab g70",
+      "codename": "mototabg70LTE",
+      "model": "moto tab g70 LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Moto Turbo",
       "codename": "quark_umts",
       "model": "XT1225"
@@ -1929,6 +2001,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Motorola Defy",
+      "codename": "bathena",
+      "model": "Motorola Defy"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Motorola one",
       "codename": "deen_sprout",
       "model": "motorola one"
@@ -2109,6 +2187,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TBD",
+      "codename": "cyprus64",
+      "model": "Lenovo K14 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBD",
+      "codename": "cyprus64",
+      "model": "cyprus64"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XOOM",
       "codename": "stingray",
       "model": "Xoom"
@@ -2229,6 +2319,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto e(6i)",
+      "codename": "fijisc",
+      "model": "fijisc"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(6i)",
+      "codename": "fijisc",
+      "model": "moto e(6i)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto e(7)",
       "codename": "malta",
       "model": "malta"
@@ -2244,6 +2346,66 @@
       "market_name": "moto e(7) plus",
       "codename": "guam",
       "model": "moto e(7) plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(7) power",
+      "codename": "malta",
+      "model": "malta"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(7) power",
+      "codename": "malta",
+      "model": "moto e(7) power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(7i) power",
+      "codename": "maltalsc",
+      "model": "maltalsc"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e(7i) power",
+      "codename": "maltalsc",
+      "model": "moto e(7i) power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e20",
+      "codename": "aruba",
+      "model": "aruba"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e20",
+      "codename": "aruba",
+      "model": "moto e20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e30",
+      "codename": "cyprus",
+      "model": "cyprus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e30",
+      "codename": "cyprus",
+      "model": "moto e30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e40",
+      "codename": "cyprus64",
+      "model": "cyprus64"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e40",
+      "codename": "cyprus64",
+      "model": "moto e40"
     },
     {
       "manufacturer": "",
@@ -2417,12 +2579,6 @@
       "manufacturer": "",
       "market_name": "moto g play (2021)",
       "codename": "guamna",
-      "model": "moto E"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "moto g play (2021)",
-      "codename": "guamna",
       "model": "moto g play (2021)"
     },
     {
@@ -2463,6 +2619,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g pure",
+      "codename": "ellis",
+      "model": "moto g power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g pure",
+      "codename": "ellis",
+      "model": "moto g pure"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g stylus",
       "codename": "sofiap",
       "model": "moto g stylus"
@@ -2484,6 +2652,78 @@
       "market_name": "moto g stylus (2021)",
       "codename": "minsk",
       "model": "moto g stylus (XT2115DL)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus 5G",
+      "codename": "denver",
+      "model": "moto g stylus (2021)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus 5G",
+      "codename": "denver",
+      "model": "moto g stylus 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(10)",
+      "codename": "capri",
+      "model": "moto e(7) plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(10)",
+      "codename": "capri",
+      "model": "moto g(10)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(100)",
+      "codename": "nio",
+      "model": "moto g(100)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(20)",
+      "codename": "java",
+      "model": "moto g(20)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(20)",
+      "codename": "java",
+      "model": "moto g20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(30)",
+      "codename": "caprip",
+      "model": "moto g(30)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(50)",
+      "codename": "ibiza",
+      "model": "XT2137-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(50)",
+      "codename": "ibiza",
+      "model": "moto g(50)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(50) 5G",
+      "codename": "saipan",
+      "model": "moto g(50)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(50) 5G",
+      "codename": "saipan",
+      "model": "moto g(50) 5G"
     },
     {
       "manufacturer": "",
@@ -2568,6 +2808,24 @@
       "market_name": "moto g(6) plus",
       "codename": "evert_nt",
       "model": "moto g(6) plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(60)",
+      "codename": "hanoip",
+      "model": "moto g(60)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(60)s",
+      "codename": "lisbon",
+      "model": "moto g(60)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(60)s",
+      "codename": "lisbon",
+      "model": "moto g(60)s"
     },
     {
       "manufacturer": "",
@@ -2739,6 +2997,90 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g10 power",
+      "codename": "capri",
+      "model": "moto g(10) power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g200 5G",
+      "codename": "xpeng",
+      "model": "moto g200 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g200 5G",
+      "codename": "xpeng",
+      "model": "motorola edge 20 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g31",
+      "codename": "cofud",
+      "model": "moto g31(w)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g31",
+      "codename": "cofud",
+      "model": "motorola"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g31",
+      "codename": "coful",
+      "model": "moto g31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g31",
+      "codename": "coful",
+      "model": "motorola"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g40 fusion",
+      "codename": "hanoip",
+      "model": "moto g(40) fusion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g41",
+      "codename": "corfu",
+      "model": "moto g41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g41",
+      "codename": "corfu",
+      "model": "motorola"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g51",
+      "codename": "cypfq",
+      "model": "XT2171-3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g51",
+      "codename": "cypfq",
+      "model": "moto[SPACE]g(50)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g51 5G",
+      "codename": "cypfq",
+      "model": "moto g(50)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g51 5G",
+      "codename": "cypfq",
+      "model": "moto g51 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g6 play",
       "codename": "jeter",
       "model": "Moto G Play"
@@ -2748,6 +3090,24 @@
       "market_name": "moto g6 play",
       "codename": "jeter",
       "model": "moto g(6) play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g60",
+      "codename": "hanoip",
+      "model": "moto g(60)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g71 5G",
+      "codename": "corfur",
+      "model": "moto g(50)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g71 5G",
+      "codename": "corfur",
+      "model": "moto g71 5G"
     },
     {
       "manufacturer": "",
@@ -2787,15 +3147,123 @@
     },
     {
       "manufacturer": "",
+      "market_name": "motorola edge (2021)",
+      "codename": "berlna",
+      "model": "motorola edge (2021)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge (2021)",
+      "codename": "berlna",
+      "model": "motorola edge plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20",
+      "codename": "berlin",
+      "model": "motorola edge 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20",
+      "codename": "berlin",
+      "model": "motorola edge plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20 fusion",
+      "codename": "kyoto",
+      "model": "motorola"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20 fusion",
+      "codename": "kyoto",
+      "model": "motorola edge 20 fusion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20 lite",
+      "codename": "kyoto",
+      "model": "motorola"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20 lite",
+      "codename": "kyoto",
+      "model": "motorola edge 20 lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20 pro",
+      "codename": "pstar",
+      "model": "moto g(100)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 20 pro",
+      "codename": "pstar",
+      "model": "motorola edge 20 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 5G UW (2021)",
+      "codename": "berlna",
+      "model": "motorola edge 5G UW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 5G UW (2021)",
+      "codename": "berlna",
+      "model": "motorola edge 5G UW (2021)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge S30",
+      "codename": "xpeng",
+      "model": "XT2175-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola edge plus",
       "codename": "burton",
       "model": "motorola edge plus"
     },
     {
       "manufacturer": "",
+      "market_name": "motorola edge s",
+      "codename": "nio",
+      "model": "XT2125-4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge s pro",
+      "codename": "pstar",
+      "model": "XT2153-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 轻奢版",
+      "codename": "berlin",
+      "model": "XT2143-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola egde s",
+      "codename": "nio",
+      "model": "XT2125-4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola one",
       "codename": "deen_sprout",
       "model": "motorola one"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one 5G",
+      "codename": "nairo",
+      "model": "moto g 5G plus"
     },
     {
       "manufacturer": "",
@@ -2814,6 +3282,18 @@
       "market_name": "motorola one 5G UW",
       "codename": "nairo",
       "model": "motorola one 5G UW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one 5G UW ace",
+      "codename": "kievv",
+      "model": "motorola one 5G UW ace"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one 5G UW ace",
+      "codename": "kievv",
+      "model": "motorola one 5G ace"
     },
     {
       "manufacturer": "",

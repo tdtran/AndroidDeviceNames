@@ -6,6 +6,12 @@
       "market_name": "Surface Duo",
       "codename": "duo",
       "model": "Surface Duo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Surface Duo 2",
+      "codename": "duo2",
+      "model": "Surface Duo 2"
     }
   ]
 }

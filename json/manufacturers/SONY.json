@@ -105,15 +105,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA TL",
+      "codename": "OD0M_EA_T32",
+      "model": "BRAVIA TL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA VH1",
       "codename": "BRAVIA_VH1",
       "model": "BRAVIA VH1"
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA VH2",
+      "codename": "BRAVIA_VH2",
+      "model": "BRAVIA 4K VH2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA_VU",
       "codename": "BRAVIA_VU1",
       "model": "BRAVIA VU1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA_VU2",
+      "codename": "BRAVIA_VU1_2K",
+      "model": "BRAVIA VU2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA_VU2",
+      "codename": "BRAVIA_VU1_4K",
+      "model": "BRAVIA VU2"
     },
     {
       "manufacturer": "",
@@ -309,6 +333,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xperia 1 III",
+      "codename": "A101SO",
+      "model": "A101SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 III",
+      "codename": "SO-51B",
+      "model": "SO-51B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 III",
+      "codename": "SOG03",
+      "model": "SOG03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 III",
+      "codename": "XQ-BC42",
+      "model": "XQ-BC42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 III",
+      "codename": "XQ-BC52",
+      "model": "XQ-BC52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 III",
+      "codename": "XQ-BC62",
+      "model": "XQ-BC62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 III",
+      "codename": "XQ-BC72",
+      "model": "XQ-BC72"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xperia 1 Professional Edition",
       "codename": "J9150",
       "model": "J9150"
@@ -372,6 +438,36 @@
       "market_name": "Xperia 10 II",
       "codename": "XQ-AU52",
       "model": "XQ-AU52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 III",
+      "codename": "A102SO",
+      "model": "A102SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 III",
+      "codename": "SO-52B",
+      "model": "SO-52B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 III",
+      "codename": "SOG04",
+      "model": "SOG04"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 III",
+      "codename": "XQ-BT44",
+      "model": "XQ-BT44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 III",
+      "codename": "XQ-BT52",
+      "model": "XQ-BT52"
     },
     {
       "manufacturer": "",
@@ -460,6 +556,12 @@
     {
       "manufacturer": "",
       "market_name": "Xperia 5 II",
+      "codename": "XQ-AS42",
+      "model": "XQ-AS42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 II",
       "codename": "XQ-AS52",
       "model": "XQ-AS52"
     },
@@ -474,6 +576,36 @@
       "market_name": "Xperia 5 II",
       "codename": "XQ-AS72",
       "model": "XQ-AS72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 III",
+      "codename": "A103SO",
+      "model": "A103SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 III",
+      "codename": "SO-53B",
+      "model": "SO-53B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 III",
+      "codename": "SOG05",
+      "model": "SOG05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 III",
+      "codename": "XQ-BQ52",
+      "model": "XQ-BQ52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 III",
+      "codename": "XQ-BQ72",
+      "model": "XQ-BQ72"
     },
     {
       "manufacturer": "",
@@ -528,6 +660,12 @@
       "market_name": "Xperia Ace",
       "codename": "SO-02L",
       "model": "SO-02L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia Ace II",
+      "codename": "SO-41B",
+      "model": "SO-41B"
     },
     {
       "manufacturer": "",
@@ -954,6 +1092,42 @@
       "market_name": "Xperia PLAY",
       "codename": "R800i",
       "model": "R800i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia PRO",
+      "codename": "XQ-AQ52",
+      "model": "XQ-AQ52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia PRO",
+      "codename": "XQ-AQ62",
+      "model": "XQ-AQ62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia PRO-I",
+      "codename": "XQ-BE42",
+      "model": "XQ-BE42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia PRO-I",
+      "codename": "XQ-BE52",
+      "model": "XQ-BE52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia PRO-I",
+      "codename": "XQ-BE62",
+      "model": "XQ-BE62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia PRO-I",
+      "codename": "XQ-BE72",
+      "model": "XQ-BE72"
     },
     {
       "manufacturer": "",
@@ -2286,12 +2460,6 @@
       "market_name": "Xperia neo L",
       "codename": "MT25i",
       "model": "MT25i"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Xperia pro",
-      "codename": "MK16i",
-      "model": "MK16i"
     },
     {
       "manufacturer": "",

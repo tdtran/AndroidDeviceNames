@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TAB 10s 2022",
+    "codename": "Odin2",
+    "model": "9081X"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TAB 10s 4G 2022",
+    "codename": "Odin2",
+    "model": "9080G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TAB 10s 4G New",
+    "codename": "Odin2",
+    "model": "9080G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TAB 10s New",
+    "codename": "Odin2",
+    "model": "9081X"
+  }
+]

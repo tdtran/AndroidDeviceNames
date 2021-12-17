@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1100",
+      "codename": "A1100",
+      "model": "A1100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A810",
       "codename": "A810",
       "model": "Superion S1 Plus DTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A840",
+      "codename": "A840",
+      "model": "Flare Tab Ultra"
     },
     {
       "manufacturer": "",
@@ -39,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aqua S10",
+      "codename": "Aqua_S10",
+      "model": "Aqua S10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua S10 Pro",
+      "codename": "Aqua_S10_Pro",
+      "model": "Aqua S10 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aqua S9",
       "codename": "Aqua_S9",
       "model": "Aqua S9"
@@ -54,6 +78,18 @@
       "market_name": "Aqua S9 Max",
       "codename": "Aqua_S9_Max",
       "model": "Aqua S9 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua Tab",
+      "codename": "Cherry_Aqua_Tab_S1",
+      "model": "A870"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua Tab Deluxe",
+      "codename": "A950",
+      "model": "A950"
     },
     {
       "manufacturer": "",
@@ -663,6 +699,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Magnum 8s",
+      "codename": "Cherry_Magnum_8s",
+      "model": "A870"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Omage Icon Lite 2",
       "codename": "Omega_Icon_Lite_2",
       "model": "Omega Icon Lite 2"
@@ -741,6 +783,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Quantum_plus",
+      "codename": "Cherry_Quantum_plus",
+      "model": "A870"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rover 2",
       "codename": "Cherry_Rover_2",
       "model": "Rover_2"
@@ -795,9 +843,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Superion Tab Pro",
+      "codename": "Superion_Tab_Pro",
+      "model": "Superion Tab Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Touch HD",
       "codename": "Touch_HD",
       "model": "Cherry_Mobile_Touch_HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1090",
+      "codename": "X1090",
+      "model": "X1090"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1100",
+      "codename": "X1100",
+      "model": "X1100"
     },
     {
       "manufacturer": "",

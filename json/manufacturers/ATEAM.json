@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ATEAM",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A1010",
+      "codename": "A1010",
+      "model": "A1010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A801",
+      "codename": "A801",
+      "model": "A801"
+    }
+  ]
+}

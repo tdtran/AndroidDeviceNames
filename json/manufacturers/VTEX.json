@@ -1,0 +1,17 @@
+{
+  "manufacturer": "VTEX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "\tVK802W",
+      "codename": "VK802W",
+      "model": "VK802W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VK102W",
+      "codename": "VK102W",
+      "model": "VK102W"
+    }
+  ]
+}

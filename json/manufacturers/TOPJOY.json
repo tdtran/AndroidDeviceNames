@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TOPJOY",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PNC450",
+      "codename": "PNC450",
+      "model": "PNC450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SC0802",
+      "codename": "SC0802",
+      "model": "SC0802"
+    }
+  ]
+}

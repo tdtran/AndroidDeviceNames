@@ -1,8 +1,26 @@
 [
   {
+    "manufacturer": "AOC",
+    "market_name": "AOC Android TV",
+    "codename": "PH0M_EA_T32",
+    "model": "AOC Android TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "Philips Android TV",
+    "codename": "PH0M_EA_T32",
+    "model": "2020/2021 FHD Android TV"
+  },
+  {
     "manufacturer": "Philips",
     "market_name": "Philips Android TV",
     "codename": "PH0M_EA_T32",
     "model": "2020/2021 UHD Android TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "Philips Android TV",
+    "codename": "PH0M_EA_T32",
+    "model": "Philips FHD Android TV"
   }
 ]

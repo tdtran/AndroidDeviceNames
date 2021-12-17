@@ -4,5 +4,17 @@
     "market_name": "Vibe",
     "codename": "Vibe",
     "model": "VIBE"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "VIBE",
+    "codename": "VIBE",
+    "model": "VIBE"
+  },
+  {
+    "manufacturer": "QUEST",
+    "market_name": "Vibe",
+    "codename": "Vibe",
+    "model": "Vibe"
   }
 ]

@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TIMVISION VSB",
+      "codename": "m393vsb_tim",
+      "model": "TIMVISION VSB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIMVISIONBOX",
+      "codename": "m393gena_tim",
+      "model": "TIMVISIONBOX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIMvision",
       "codename": "dwt765ti",
       "model": "skipper"

@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fast17",
+      "codename": "Fast17",
+      "model": "Fast17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fasts7",
       "codename": "Fasts7",
       "model": "Fasts7"

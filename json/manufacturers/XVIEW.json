@@ -15,9 +15,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Proton_Helium_Max",
+      "codename": "Proton_Helium_Max",
+      "model": "Proton_Helium_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Proton_Neon",
       "codename": "Proton_Neon",
       "model": "Proton_Neon"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Proton_Tungsten_Max",
+      "codename": "Proton_Tungsten_Max",
+      "model": "Proton_Tungsten_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet10_X-View",
+      "codename": "Tablet10_X_View",
+      "model": "Tablet10_X-View"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet7_X_View",
+      "codename": "Tablet7_X_View",
+      "model": "Tablet7_X_View"
     },
     {
       "manufacturer": "",

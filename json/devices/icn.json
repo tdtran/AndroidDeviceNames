@@ -1,8 +1,26 @@
 [
   {
+    "manufacturer": "Ayonz EKO",
+    "market_name": "SV11",
+    "codename": "ICN",
+    "model": "KATV10"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BATV10",
+    "codename": "ICN",
+    "model": "BATV10"
+  },
+  {
     "manufacturer": "DishTV-NZ",
     "market_name": "SV11",
     "codename": "ICN",
     "model": "SV11"
+  },
+  {
+    "manufacturer": "Homatics",
+    "market_name": "Dongle Q",
+    "codename": "ICN",
+    "model": "Dongle Q"
   }
 ]

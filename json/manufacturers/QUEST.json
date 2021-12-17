@@ -1,0 +1,29 @@
+{
+  "manufacturer": "QUEST",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Amber",
+      "codename": "Amber",
+      "model": "Amber"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q8_Tablet",
+      "codename": "Q8_Tablet",
+      "model": "Q8_Tablet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RAPTOR",
+      "codename": "RAPTOR",
+      "model": "RAPTOR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vibe",
+      "codename": "Vibe",
+      "model": "Vibe"
+    }
+  ]
+}

@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AW01",
+      "codename": "AW01",
+      "model": "AW01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AceReal One",
       "codename": "AceReal0100",
       "model": "AceReal0100"

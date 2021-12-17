@@ -1,0 +1,23 @@
+{
+  "manufacturer": "weelikeit",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "C72W",
+      "codename": "C72W",
+      "model": "C72W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C72W_EEA",
+      "codename": "C72W_EEA",
+      "model": "C72W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11W",
+      "codename": "F11W",
+      "model": "F11W"
+    }
+  ]
+}

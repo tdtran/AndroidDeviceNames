@@ -6,6 +6,12 @@
       "market_name": "TONE e20",
       "codename": "TONE_e20",
       "model": "TONE e20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TONE_e21",
+      "codename": "TONE_e21",
+      "model": "TONE_e21"
     }
   ]
 }

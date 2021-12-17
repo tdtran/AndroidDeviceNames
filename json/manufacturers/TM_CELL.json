@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ISWAG KRONOS",
+      "codename": "ISWAG_KRONOSX",
+      "model": "ISWAG KRONOS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC X50",
+      "codename": "LOGIC_X50X",
+      "model": "LOGIC X50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIC_X60_PLUS",
       "codename": "LOGIC_X60_PLUS",
       "model": "LOGIC_X60_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNONU W50",
+      "codename": "UNONU_W50X",
+      "model": "UNONU W50"
     },
     {
       "manufacturer": "",

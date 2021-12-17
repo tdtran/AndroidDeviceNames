@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ATID",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AT908",
+      "codename": "AT908",
+      "model": "AT908"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT908_EEA",
+      "codename": "AT908",
+      "model": "AT908_EEA"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "AVATEL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DV8547_Avatel",
+      "codename": "DV8547-KSA",
+      "model": "DV8547_Avatel"
+    }
+  ]
+}

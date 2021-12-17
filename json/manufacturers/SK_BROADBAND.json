@@ -1,35 +1,23 @@
 {
-  "manufacturer": "SK Broadband",
+  "manufacturer": "SK broadband",
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "B tv smart",
-      "codename": "BHX-S100",
-      "model": "BHX-S100"
+      "market_name": "AI2",
+      "codename": "BIP-AI100",
+      "model": "BIP-AI100"
     },
     {
       "manufacturer": "",
-      "market_name": "B tv smart",
-      "codename": "BKO-S200",
-      "model": "BKO-S200"
+      "market_name": "PlayZ",
+      "codename": "BIP-EB100",
+      "model": "BIP-EB100"
     },
     {
       "manufacturer": "",
-      "market_name": "BFX-AT100",
-      "codename": "BFX-AT100",
-      "model": "BFX-AT100"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "BKO-AT800",
-      "codename": "BKO-AT800",
-      "model": "BKO-AT800"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "BTV",
-      "codename": "vip5442",
-      "model": "BAS-AT800"
+      "market_name": "Smart3 Mini",
+      "codename": "BIP-UW200",
+      "model": "BIP-UW200"
     }
   ]
 }

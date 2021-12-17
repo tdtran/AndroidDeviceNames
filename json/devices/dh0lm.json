@@ -4,5 +4,11 @@
     "market_name": "K22",
     "codename": "dh0lm",
     "model": "LM-K200"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "K32",
+    "codename": "dh0lm",
+    "model": "LM-K200"
   }
 ]

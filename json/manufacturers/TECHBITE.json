@@ -6,6 +6,12 @@
       "market_name": "Flix  TV  Box",
       "codename": "DV8219",
       "model": "Flix TV Box"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartBoard 10 LTE",
+      "codename": "SmartBoard_10_LTE",
+      "model": "SmartBoard_10_LTE"
     }
   ]
 }

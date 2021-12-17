@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "AYYA",
+    "market_name": "T1",
+    "codename": "T1",
+    "model": "AYYA T1"
+  },
+  {
     "manufacturer": "IkuMobile",
     "market_name": "T1",
     "codename": "T1",
@@ -7,6 +13,12 @@
   },
   {
     "manufacturer": "OTHO",
+    "market_name": "T1",
+    "codename": "T1",
+    "model": "T1"
+  },
+  {
+    "manufacturer": "Premio",
     "market_name": "T1",
     "codename": "T1",
     "model": "T1"

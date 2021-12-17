@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Jumper",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EZpad_M10_EEA",
+      "codename": "EZpad_M10",
+      "model": "EZpad M10"
+    }
+  ]
+}

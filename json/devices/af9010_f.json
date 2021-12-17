@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "benco",
+    "market_name": "AF9010_F",
+    "codename": "AF9010_F",
+    "model": "AF9010_F"
+  },
+  {
+    "manufacturer": "benco",
     "market_name": "benco Y50",
     "codename": "AF9010_F",
     "model": "AF9010_F"

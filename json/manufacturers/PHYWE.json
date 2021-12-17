@@ -1,0 +1,17 @@
+{
+  "manufacturer": "PHYWE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SMARTlink",
+      "codename": "SMARTlink",
+      "model": "SMARTlink"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMARTlink_EEA",
+      "codename": "SMARTlink_EEA",
+      "model": "SMARTlink_EEA"
+    }
+  ]
+}

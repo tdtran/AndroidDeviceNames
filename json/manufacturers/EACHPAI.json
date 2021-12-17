@@ -6,6 +6,18 @@
       "market_name": "706",
       "codename": "706",
       "model": "706"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "86v",
+      "codename": "86v",
+      "model": "86v"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q8",
+      "codename": "Q8",
+      "model": "Q8"
     }
   ]
 }

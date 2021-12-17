@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Pebble Quad",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PTPC01",
+      "codename": "PTPC01",
+      "model": "Pebble_Quad"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PTPC02",
+      "codename": "PTPC02",
+      "model": "PTPC02"
+    }
+  ]
+}

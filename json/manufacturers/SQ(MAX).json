@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SQ(max)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Hope10_Max",
+      "codename": "Hope10_Max",
+      "model": "Hope10 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope8_Max",
+      "codename": "Hope8_Max",
+      "model": "Hope8_Max"
+    }
+  ]
+}

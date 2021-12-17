@@ -36,6 +36,24 @@
       "market_name": "Y5-EEA",
       "codename": "Y5-EEA",
       "model": "Y5-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y61",
+      "codename": "Y61",
+      "model": "Y61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y61-EEA",
+      "codename": "Y61-EEA",
+      "model": "Y61-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y8-EEA",
+      "codename": "Y8-EEA",
+      "model": "Y8-EEA"
     }
   ]
 }

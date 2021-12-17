@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P2_Power",
+      "codename": "P2_Power",
+      "model": "P2_Power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V9",
       "codename": "V9",
       "model": "V9"

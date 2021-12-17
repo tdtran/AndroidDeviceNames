@@ -387,6 +387,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QTab_Y1",
+      "codename": "QTab_Y1",
+      "model": "QTab Y1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTab_Y1_2M",
+      "codename": "QTab_Y1",
+      "model": "QTab Y1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTab_Y2",
+      "codename": "QTab_Y2",
+      "model": "QTab Y2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTab_Y3",
+      "codename": "QTab_Y3",
+      "model": "QTab Y3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Qmobile S8 Plus",
       "codename": "QMobile_S8_Plus",
       "model": "S8 Plus"

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab1066",
+      "codename": "Tab1066",
+      "model": "Tab1066"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab64",
       "codename": "AprixTab64",
       "model": "Aprix Tab64"
@@ -36,6 +42,18 @@
       "market_name": "Tab8ii",
       "codename": "Tab8ii",
       "model": "Tab8ii"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_X1",
+      "codename": "Tab_X1",
+      "model": "Tab_X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_X2",
+      "codename": "Tab_X2",
+      "model": "Tab_X2"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "ZEEKER",
+    "market_name": "ZEEKER_P10",
+    "codename": "ZEEKER_P10",
+    "model": "ZEEKER P10"
+  },
+  {
+    "manufacturer": "ZEEKER",
+    "market_name": "ZEEKER_P10_EEA",
+    "codename": "ZEEKER_P10",
+    "model": "ZEEKER P10"
+  },
+  {
+    "manufacturer": "ZEEKER",
+    "market_name": "ZEEKER_P10_RU",
+    "codename": "ZEEKER_P10",
+    "model": "ZEEKER P10"
+  }
+]

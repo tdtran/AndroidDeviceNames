@@ -3,6 +3,54 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A11",
+      "codename": "A11",
+      "model": "A11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11 EEA",
+      "codename": "A11",
+      "model": "A11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11 Pro Max",
+      "codename": "A11_Pro_Max",
+      "model": "A11 Pro Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11 Pro Max EEA",
+      "codename": "A11_Pro_Max",
+      "model": "A11 Pro Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11S",
+      "codename": "A11S",
+      "model": "MP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11S EEA",
+      "codename": "A11S",
+      "model": "MP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11_Tab",
+      "codename": "A11_Tab",
+      "model": "MT01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11_Tab-EEA",
+      "codename": "A11_Tab-EEA",
+      "model": "MT01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -75,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A9",
+      "codename": "A9",
+      "model": "A9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A9 EEA",
+      "codename": "A9",
+      "model": "A9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9 Pro",
       "codename": "A9_Pro",
       "model": "A9 Pro"
@@ -93,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A9 Pro R",
+      "codename": "A9_Pro_R",
+      "model": "A9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A9 Pro R EEA",
+      "codename": "A9_Pro_R",
+      "model": "A9 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9 Pro_EEA",
       "codename": "A9_Pro",
       "model": "A9 Pro"
@@ -102,6 +174,102 @@
       "market_name": "BISON",
       "codename": "BISON",
       "model": "BISON"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON GT EEA",
+      "codename": "BISON_GT",
+      "model": "BISON GT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON Pro",
+      "codename": "BISON_Pro",
+      "model": "BISON Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON Pro EEA",
+      "codename": "BISON_Pro",
+      "model": "BISON Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON R",
+      "codename": "BISON_R",
+      "model": "BISON"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON R EEA",
+      "codename": "BISON_R",
+      "model": "BISON"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10",
+      "codename": "BISON_X10",
+      "model": "RP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10 EEA",
+      "codename": "BISON_X10",
+      "model": "RP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10 Pro",
+      "codename": "BISON_X10_Pro",
+      "model": "RP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10 Pro EEA",
+      "codename": "BISON_X10_Pro",
+      "model": "RP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10 Pro TR",
+      "codename": "BISON_X10_Pro",
+      "model": "RP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10 RU",
+      "codename": "BISON_X10",
+      "model": "RP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON_GT",
+      "codename": "BISON_GT",
+      "model": "BISON GT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON_Pro_RU",
+      "codename": "BISON_Pro",
+      "model": "BISON Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON_Pro_TR",
+      "codename": "BISON_Pro",
+      "model": "BISON Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON_X10_Pro_RU",
+      "codename": "BISON_X10_Pro",
+      "model": "RP01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON_X10_TR",
+      "codename": "BISON_X10",
+      "model": "RP01"
     },
     {
       "manufacturer": "",
@@ -156,6 +324,42 @@
       "market_name": "Power",
       "codename": "Power",
       "model": "Power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 5",
+      "codename": "Power_5",
+      "model": "Power 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 5 EEA",
+      "codename": "Power_5",
+      "model": "Power 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 5S",
+      "codename": "Power_5S",
+      "model": "MP02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 5S EEA",
+      "codename": "Power_5S",
+      "model": "MP02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 5S RU",
+      "codename": "Power_5S",
+      "model": "MP02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 5S TR",
+      "codename": "Power_5S",
+      "model": "MP02"
     },
     {
       "manufacturer": "",

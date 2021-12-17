@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Noblex TV",
+      "codename": "SW4H",
+      "model": "Noblex TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NoblexTV",
       "codename": "shinjuku",
       "model": "NoblexTV"

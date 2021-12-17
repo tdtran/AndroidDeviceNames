@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "Zebra",
-    "market_name": "ET56",
+    "market_name": "ET56CA",
+    "codename": "ET56L",
+    "model": "ET56"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "Zebra Technologies ET56",
     "codename": "ET56L",
     "model": "ET56"
   }

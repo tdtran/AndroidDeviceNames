@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Oppo",
+    "market_name": "CPH1938",
+    "codename": "OP4883",
+    "model": "CPH1938"
+  },
+  {
+    "manufacturer": "Oppo",
     "market_name": "F11",
     "codename": "OP4883",
     "model": "CPH1911"

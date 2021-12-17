@@ -159,15 +159,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACTAB1021_A",
+      "codename": "ACTAB1021_A",
+      "model": "ACTAB1021_A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACTAB1022",
+      "codename": "ACTAB1022",
+      "model": "ACTAB1022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACTAB1422",
+      "codename": "ACTAB1422",
+      "model": "ACTAB1422"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ACTAB721",
       "codename": "ACTAB721",
       "model": "ACTAB721"
     },
     {
       "manufacturer": "",
+      "market_name": "ACTAB821_A",
+      "codename": "ACTAB821_A",
+      "model": "ACTAB821_A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AK330s",
       "codename": "C8n",
       "model": "AK330S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS10W",
+      "codename": "AS10W",
+      "model": "AS10W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATAB1021E",
+      "codename": "ATAB1021E",
+      "model": "ATAB1021E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATAB1422E",
+      "codename": "ATAB1422E",
+      "model": "ATAB1422E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATAB721E",
+      "codename": "ATAB721E",
+      "model": "ATAB721E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATAB821E",
+      "codename": "ATAB821E",
+      "model": "ATAB821E"
     },
     {
       "manufacturer": "",
@@ -192,6 +246,12 @@
       "market_name": "Acer One 10 T4-129L",
       "codename": "AcerO10T4129L",
       "model": "Acer One 10 T4-129L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer One 10 T4-129L",
+      "codename": "AcerOne10T4129LIx",
+      "model": "Acer One 10 T4-129LIx"
     },
     {
       "manufacturer": "",
@@ -228,6 +288,18 @@
       "market_name": "Acer_one_8_T2",
       "codename": "Acer_one_8_T2",
       "model": "Acer_one_8_T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
     },
     {
       "manufacturer": "",
@@ -336,6 +408,12 @@
       "market_name": "B3-A40FHD",
       "codename": "acer_asgardfhd",
       "model": "B3-A40FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Baymax",
+      "codename": "Baymax",
+      "model": "EUT110-11A"
     },
     {
       "manufacturer": "",
@@ -1140,6 +1218,12 @@
       "market_name": "Walle",
       "codename": "Walle",
       "model": "ET-108-11A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Walle",
+      "codename": "Walle",
+      "model": "ET-108-11AR"
     },
     {
       "manufacturer": "",

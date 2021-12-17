@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Customer need debug",
+      "codename": "KC516",
+      "model": "KC516"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM7012BK",
       "codename": "KM7012BK",
       "model": "KM7012BK"
@@ -21,9 +27,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "North America",
+      "market_name": "KONKA  N188",
+      "codename": "N188",
+      "model": "KONKA-N188"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KONKA  Y109",
+      "codename": "Y109",
+      "model": "KONKA-Y109"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KONKA Android TV",
       "codename": "hongik",
       "model": "KONKA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Konka Android TV",
+      "codename": "uguisudani",
+      "model": "KONKA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Konka android tv",
+      "codename": "hanyang",
+      "model": "KONKA Android TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N7",
+      "codename": "N7",
+      "model": "N7"
     },
     {
       "manufacturer": "",

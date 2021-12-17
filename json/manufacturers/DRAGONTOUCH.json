@@ -83,6 +83,12 @@
       "manufacturer": "",
       "market_name": "NotePad_101_B_EEA",
       "codename": "NotePad_101_B",
+      "model": "NotePad_101_B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NotePad_101_B_EEA",
+      "codename": "NotePad_101_B",
       "model": "NotePad_101_B_EEA"
     },
     {
@@ -159,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S11M",
+      "codename": "S11M",
+      "model": "S11M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10M",
       "codename": "T10M",
       "model": "T10M"
@@ -168,6 +180,24 @@
       "market_name": "T10M_EEA",
       "codename": "T10M_EEA",
       "model": "T10M_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T11M",
+      "codename": "T11M",
+      "model": "T11M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12M",
+      "codename": "T12M",
+      "model": "T12M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12M_EEA",
+      "codename": "T12M_EEA",
+      "model": "T12M_EEA"
     },
     {
       "manufacturer": "",

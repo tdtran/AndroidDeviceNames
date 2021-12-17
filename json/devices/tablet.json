@@ -1,8 +1,32 @@
 [
   {
+    "manufacturer": "Greatwall",
+    "market_name": "100011886",
+    "codename": "tablet",
+    "model": "100011886"
+  },
+  {
+    "manufacturer": "Greatwall",
+    "market_name": "100011886_GTW",
+    "codename": "tablet",
+    "model": "100011886_GTW"
+  },
+  {
+    "manufacturer": "Haitech",
+    "market_name": "HPAD_IA65",
+    "codename": "Tablet",
+    "model": "KITYPRO"
+  },
+  {
     "manufacturer": "Noblex",
     "market_name": "T7A6N",
     "codename": "Tablet",
     "model": "T7A6N"
+  },
+  {
+    "manufacturer": "Sunny",
+    "market_name": "SN10064",
+    "codename": "TABLET",
+    "model": "SN10064"
   }
 ]

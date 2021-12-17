@@ -1,0 +1,11 @@
+{
+  "manufacturer": "SriLankaTelecom",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DV8040",
+      "codename": "DV8040",
+      "model": "DV8040"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus Nord",
     "codename": "Nord",
+    "model": "AC2001"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus Nord",
+    "codename": "Nord",
     "model": "AC2003"
   }
 ]

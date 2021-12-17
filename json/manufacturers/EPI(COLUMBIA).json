@@ -1,0 +1,11 @@
+{
+  "manufacturer": "EPI(Columbia)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TAB-001",
+      "codename": "TAB-001",
+      "model": "TAB-001"
+    }
+  ]
+}

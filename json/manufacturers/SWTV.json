@@ -39,15 +39,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SWTV-20HK-PRO",
+      "codename": "SW4H_FF",
+      "model": "SWTV-20HK-PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWTV-20N",
       "codename": "SW4H",
       "model": "SWTV-20NA"
     },
     {
       "manufacturer": "",
+      "market_name": "SWTV-20NA-PRO",
+      "codename": "SW4H_FF",
+      "model": "SWTV-20NA-PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWTV-20SA",
       "codename": "SW4H",
       "model": "SWTV-20SA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20SA-PRO",
+      "codename": "SW4H_FF",
+      "model": "SWTV-20SA-PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20TW",
+      "codename": "SW4H",
+      "model": "SWTV-20TW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-20TW-PRO",
+      "codename": "SW4H_FF",
+      "model": "SWTV-20TW-PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-21AE",
+      "codename": "sunnyvale",
+      "model": "SWTV-21AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-21SA",
+      "codename": "sunnyvale",
+      "model": "SWTV-21SA"
     },
     {
       "manufacturer": "",

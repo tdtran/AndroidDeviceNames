@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CWELL",
+    "market_name": "M10",
+    "codename": "M10",
+    "model": "CWELL M10"
+  },
+  {
     "manufacturer": "Dragontouch",
     "market_name": "M10",
     "codename": "M10",

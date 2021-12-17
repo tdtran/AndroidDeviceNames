@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PicassoTab_XL",
+      "codename": "PicassoTab_XL",
+      "model": "PicassoTab_XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RestoTab",
+      "codename": "RestoTab",
+      "model": "RestoTab"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TANGO",
       "codename": "TangoTab_9",
       "model": "TangoTab_9"
@@ -60,6 +72,12 @@
       "market_name": "TangoTab_X",
       "codename": "TangoTab_X",
       "model": "TangoTab_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TangoTab_XL",
+      "codename": "TangoTab_XL",
+      "model": "TangoTab_XL"
     }
   ]
 }

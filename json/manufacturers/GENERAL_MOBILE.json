@@ -69,6 +69,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GM 21",
+      "codename": "G310",
+      "model": "G310"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 21 Plus",
+      "codename": "G510",
+      "model": "G510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 21 Pro",
+      "codename": "G700",
+      "model": "G700"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 6 d",
       "codename": "GM6_d_sprout",
       "model": "GM 6 d"
@@ -186,6 +204,18 @@
       "market_name": "General Mobile 5 d",
       "codename": "gm5_sprout",
       "model": "GM 5 d"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "e-tab 20",
+      "codename": "e-tab20",
+      "model": "e-tab 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "e-tab 20",
+      "codename": "e-tab20_variant",
+      "model": "e-tab 20"
     }
   ]
 }

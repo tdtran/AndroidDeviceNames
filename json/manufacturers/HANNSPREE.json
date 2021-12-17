@@ -48,6 +48,18 @@
       "market_name": "HSG1416",
       "codename": "HANNSPAD",
       "model": "HSG1416"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hannspad",
+      "codename": "Hannspad",
+      "model": "Hannspad"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HannspadPro",
+      "codename": "HannspadPro",
+      "model": "HannspadPro"
     }
   ]
 }

@@ -12,6 +12,24 @@
     "model": "HitachiTV"
   },
   {
+    "manufacturer": "Hyundai",
+    "market_name": "Hyundai 2K TV",
+    "codename": "shinjuku",
+    "model": "Hyundai 2K TV"
+  },
+  {
+    "manufacturer": "Indurama",
+    "market_name": "indurama 2K TV",
+    "codename": "shinjuku",
+    "model": "indurama 2K TV"
+  },
+  {
+    "manufacturer": "Mondial",
+    "market_name": "MONDIAL TV",
+    "codename": "shinjuku",
+    "model": "MONDIAL TV"
+  },
+  {
     "manufacturer": "Noblex",
     "market_name": "NoblexTV",
     "codename": "shinjuku",
@@ -28,5 +46,17 @@
     "market_name": "South America",
     "codename": "shinjuku",
     "model": "SA 2K TV"
+  },
+  {
+    "manufacturer": "VIZZION",
+    "market_name": "VIZZION TV",
+    "codename": "shinjuku",
+    "model": "VIZZION TV"
+  },
+  {
+    "manufacturer": "Xtreme",
+    "market_name": "XTREME TV",
+    "codename": "shinjuku",
+    "model": "XTREME TV"
   }
 ]

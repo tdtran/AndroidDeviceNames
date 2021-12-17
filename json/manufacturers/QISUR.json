@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Qisur",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "R106",
+      "codename": "R106",
+      "model": "R106"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X72",
+      "codename": "X72",
+      "model": "X72"
+    }
+  ]
+}

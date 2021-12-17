@@ -21,8 +21,14 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Smooth_5",
-      "codename": "SSmooth_5",
+      "market_name": "Smooth626",
+      "codename": "Smooth626",
+      "model": "Smooth626"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth_5_HD",
+      "codename": "SSmooth_5_HD",
       "model": "Smooth 5.0"
     }
   ]

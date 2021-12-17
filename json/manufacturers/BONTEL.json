@@ -1,0 +1,17 @@
+{
+  "manufacturer": "bontel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T20",
+      "codename": "T20",
+      "model": "T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X20",
+      "codename": "X20",
+      "model": "X20"
+    }
+  ]
+}

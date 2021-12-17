@@ -1,0 +1,23 @@
+{
+  "manufacturer": "MLOGIX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "10ML_012G",
+      "codename": "10ML_012G",
+      "model": "10ML_012G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "7ML_73G",
+      "codename": "7ML_73G",
+      "model": "7ML_73G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8ML_08G",
+      "codename": "8ML_08G",
+      "model": "8ML_08G"
+    }
+  ]
+}

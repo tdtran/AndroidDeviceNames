@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "iPlus P1",
+      "codename": "iPlus_P1",
+      "model": "iPlus P1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlus1",
       "codename": "iPlus1",
       "model": "iPlus1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlus_P3",
+      "codename": "iPlus_P3",
+      "model": "iPlus P3"
     }
   ]
 }

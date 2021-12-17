@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TN502A1",
+      "codename": "TN502A1",
+      "model": "TN502A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TurboTab E1",
       "codename": "TN800A1",
       "model": "TN800A1"

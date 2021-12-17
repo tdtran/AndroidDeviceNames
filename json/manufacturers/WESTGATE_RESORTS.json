@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Westgate Resorts",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T802",
+      "codename": "T802",
+      "model": "T802"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T803",
+      "codename": "T803",
+      "model": "T803"
+    }
+  ]
+}

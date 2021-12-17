@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INTERLAGOS-T32",
+      "codename": "INTERLAGOS-T32",
+      "model": "INTERLAGOS-T32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10400",
       "codename": "M10400",
       "model": "M10400"
@@ -42,6 +48,18 @@
       "market_name": "M10600",
       "codename": "M10600",
       "model": "M10600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10905-32",
+      "codename": "M10905-32",
+      "model": "M10905-32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10950",
+      "codename": "M10950",
+      "model": "M10950"
     },
     {
       "manufacturer": "",
@@ -78,6 +96,12 @@
       "market_name": "PB101",
       "codename": "PB101",
       "model": "PB101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PB9000-32",
+      "codename": "PB9000-32",
+      "model": "PB9000-32"
     },
     {
       "manufacturer": "",

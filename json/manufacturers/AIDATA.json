@@ -1,0 +1,29 @@
+{
+  "manufacturer": "AIDATA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ADT1012L",
+      "codename": "ADT1012L",
+      "model": "ADT1012L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADT1061",
+      "codename": "ADT1061",
+      "model": "ADT1061"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADT1061_1",
+      "codename": "ADT1061_1",
+      "model": "ADT1061_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADT_1061",
+      "codename": "ADT_1061",
+      "model": "ADT_1061"
+    }
+  ]
+}

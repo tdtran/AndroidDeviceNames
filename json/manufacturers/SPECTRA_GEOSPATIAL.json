@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Spectra Geospatial",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MobileMapper60_2",
+      "codename": "MM60_2",
+      "model": "MobileMapper60_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ranger 5",
+      "codename": "bcat",
+      "model": "RGR5"
+    }
+  ]
+}

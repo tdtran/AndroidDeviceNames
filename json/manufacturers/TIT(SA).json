@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TIT(SA)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TIT SMART TV",
+      "codename": "SW4H",
+      "model": "TIT SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TITTV",
+      "codename": "shibuya",
+      "model": "TITTV"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PM30",
+      "codename": "pm30",
+      "model": "PM30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PM45",
       "codename": "pm45",
       "model": "PM45"
@@ -45,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PM67",
+      "codename": "PM67",
+      "model": "PM67"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PM70",
       "codename": "pm70",
       "model": "PM70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PM75",
+      "codename": "PM75",
+      "model": "PM75"
     },
     {
       "manufacturer": "",

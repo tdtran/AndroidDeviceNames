@@ -4,5 +4,11 @@
     "market_name": "Lenovo S5 Pro",
     "codename": "sprout",
     "model": "Lenovo L58041"
+  },
+  {
+    "manufacturer": "T-Mobile",
+    "market_name": "REVVL V+ 5G",
+    "codename": "Sprout",
+    "model": "REVVL V+ 5G"
   }
 ]

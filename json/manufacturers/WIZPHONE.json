@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Arc8",
+      "codename": "Arc8",
+      "model": "WIZ Arc 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP003",
       "codename": "WP003",
       "model": "WP003"

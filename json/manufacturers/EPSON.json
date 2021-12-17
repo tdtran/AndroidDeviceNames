@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMF2",
+      "codename": "sti6200d101",
+      "model": "Projector"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STI6110",
       "codename": "Bushi",
       "model": "STI6110"

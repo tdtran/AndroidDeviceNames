@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "H7",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H7A",
       "codename": "samseong",
       "model": "AI PONT"
@@ -11,6 +17,12 @@
       "manufacturer": "",
       "market_name": "M7A",
       "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
       "model": "AI PONT"
     }
   ]

@@ -84,6 +84,12 @@
       "market_name": "S6501",
       "codename": "S6501",
       "model": "S6501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6506",
+      "codename": "S6506",
+      "model": "S6506"
     }
   ]
 }

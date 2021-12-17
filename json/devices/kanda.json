@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hyundai",
+    "market_name": "Hyundai",
+    "codename": "kanda",
+    "model": "HYUNDAI 2K Smart TV"
+  },
+  {
     "manufacturer": "IMPECCA",
     "market_name": "IMP",
     "codename": "kanda",

@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "Fossil",
-    "market_name": "Fossil Gen 5",
+    "market_name": "Wear OS by Google Smartwatch",
+    "codename": "triggerfish",
+    "model": "Julianna HR"
+  },
+  {
+    "manufacturer": "Fossil",
+    "market_name": "Wear OS by Google Smartwatch",
     "codename": "triggerfish",
     "model": "Lexington 2"
   }

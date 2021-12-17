@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "T-Mobile",
+    "market_name": "TVision",
+    "codename": "SEI400TM",
+    "model": "TVision"
+  },
+  {
     "manufacturer": "TVision",
     "market_name": "SEI400TM",
     "codename": "SEI400TM",

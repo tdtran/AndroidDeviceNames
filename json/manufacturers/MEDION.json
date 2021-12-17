@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E1090X",
+      "codename": "E1090X",
+      "model": "LIFETAB E1090X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E4502",
       "codename": "E4502",
       "model": "MEDION E4502"
@@ -324,6 +330,12 @@
       "market_name": "P1071X",
       "codename": "P1071X",
       "model": "LIFETAB P1071X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P1091X",
+      "codename": "P1091X",
+      "model": "LIFETAB P1091X"
     },
     {
       "manufacturer": "",

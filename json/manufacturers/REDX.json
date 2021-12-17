@@ -9,9 +9,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RX4505",
+      "codename": "RED-X_RX4505",
+      "model": "RX4505"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX4559",
+      "codename": "RED-X_RX4559",
+      "model": "RX4559"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RX4618",
       "codename": "RX4618",
       "model": "RX4618"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX4702",
+      "codename": "RX4702",
+      "model": "RX4702"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX4802",
+      "codename": "RX4802",
+      "model": "RX4802"
     }
   ]
 }

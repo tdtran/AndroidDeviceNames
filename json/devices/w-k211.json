@@ -3,6 +3,12 @@
     "manufacturer": "Wiko",
     "market_name": "Sunny5 Lite",
     "codename": "W-K211",
+    "model": "W-K211-TH"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "Sunny5 Lite",
+    "codename": "W-K211",
     "model": "W-K211-TVM"
   },
   {
@@ -10,5 +16,11 @@
     "market_name": "Y51",
     "codename": "W-K211",
     "model": "W-K211-EEA"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "Y51",
+    "codename": "W-K211",
+    "model": "W-K211-OPE"
   }
 ]

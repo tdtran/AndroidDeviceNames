@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hardcase H621S",
+      "codename": "H621SEU",
+      "model": "H621SEU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PowerMaxP490",
       "codename": "PowerMaxP490",
       "model": "PowerMaxP490"

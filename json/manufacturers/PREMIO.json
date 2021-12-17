@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S54",
+      "codename": "S54",
+      "model": "S54"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S70",
       "codename": "S70",
       "model": "S70"
@@ -189,6 +195,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S85",
+      "codename": "S85",
+      "model": "S85"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S86",
+      "codename": "S86",
+      "model": "S86"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S87",
+      "codename": "S87",
+      "model": "S87"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1",
+      "codename": "T1",
+      "model": "T1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X1",
       "codename": "186HS2080531",
       "model": "186HS2080531"
@@ -210,6 +240,42 @@
       "market_name": "X83",
       "codename": "X83",
       "model": "X83"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X84",
+      "codename": "X84",
+      "model": "X84"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X85",
+      "codename": "X85",
+      "model": "X85"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X85 PRO",
+      "codename": "X85_PRO",
+      "model": "X85 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X86",
+      "codename": "X86",
+      "model": "X86"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X87",
+      "codename": "X87",
+      "model": "X87"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X88",
+      "codename": "X88",
+      "model": "X88"
     }
   ]
 }

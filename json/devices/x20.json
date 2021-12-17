@@ -28,5 +28,11 @@
     "market_name": "QSmart X20",
     "codename": "X20",
     "model": "QSmart X20"
+  },
+  {
+    "manufacturer": "bontel",
+    "market_name": "X20",
+    "codename": "X20",
+    "model": "X20"
   }
 ]

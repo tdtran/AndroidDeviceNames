@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EU",
+      "codename": "tamachi",
+      "model": "Tesla 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "yeongdeungpo",
+      "model": "Tesla 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8.1 3G",
       "codename": "TTM813G",
       "model": "TTM813G"
@@ -48,6 +60,12 @@
       "market_name": "Tesla 2K TV",
       "codename": "shinagawa",
       "model": "Tesla 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tesla S906",
+      "codename": "SW4H",
+      "model": "Tesla S906"
     },
     {
       "manufacturer": "",

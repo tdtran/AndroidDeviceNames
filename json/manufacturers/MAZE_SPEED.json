@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MS5414G",
+      "codename": "MS5414G",
+      "model": "MS5414G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS5514G",
+      "codename": "MS5514G",
+      "model": "MS5514G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS5524G",
+      "codename": "MS5524G",
+      "model": "MS5524G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SSB1000T",
       "codename": "SSB1000T",
       "model": "SSB1000T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB1001T",
+      "codename": "SSB1001T",
+      "model": "SSB1001T"
     }
   ]
 }

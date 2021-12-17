@@ -1,0 +1,47 @@
+{
+  "manufacturer": "Azeyou",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AT1011E",
+      "codename": "AT1011E",
+      "model": "AT1011E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1011U",
+      "codename": "AT1011U",
+      "model": "AT1011U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1012E",
+      "codename": "AT1012E",
+      "model": "AT1012E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1012U",
+      "codename": "AT1012U",
+      "model": "AT1012U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1031E",
+      "codename": "AT1031E",
+      "model": "AT1031E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1031U",
+      "codename": "AT1031U",
+      "model": "AT1031U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT701U",
+      "codename": "AT701U",
+      "model": "AT701U"
+    }
+  ]
+}

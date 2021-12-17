@@ -6,6 +6,18 @@
       "market_name": "N10-EEA",
       "codename": "N10-EEA",
       "model": "N10-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U221",
+      "codename": "U221",
+      "model": "U221"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U221-EEA",
+      "codename": "U221-EEA",
+      "model": "U221-EEA"
     }
   ]
 }

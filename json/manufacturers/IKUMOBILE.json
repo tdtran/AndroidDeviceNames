@@ -15,9 +15,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A21",
+      "codename": "A21",
+      "model": "A21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A25",
+      "codename": "A25",
+      "model": "A25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A30",
       "codename": "A30",
       "model": "A30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A35",
+      "codename": "A35",
+      "model": "A35"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A4",
+      "codename": "A4",
+      "model": "A4"
     },
     {
       "manufacturer": "",
@@ -33,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A70",
+      "codename": "A70",
+      "model": "iKU A70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I3",
       "codename": "I3",
       "model": "IKU i3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKU",
+      "codename": "IKU",
+      "model": "K10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKU A36",
+      "codename": "A36",
+      "model": "iKU A36"
     },
     {
       "manufacturer": "",
@@ -87,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note_10",
+      "codename": "Note_10",
+      "model": "Note 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "T1",
       "model": "iKU T1"
@@ -96,6 +144,36 @@
       "market_name": "T4",
       "codename": "T4",
       "model": "T4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T6",
+      "codename": "T6",
+      "model": "T6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "X1",
+      "model": "X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2",
+      "codename": "X2",
+      "model": "iKU X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X3",
+      "codename": "X3",
+      "model": "iKU X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4",
+      "codename": "X4",
+      "model": "X4"
     },
     {
       "manufacturer": "",
@@ -120,6 +198,18 @@
       "market_name": "Y7",
       "codename": "Y7",
       "model": "Y7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iKU A45",
+      "codename": "A45",
+      "model": "iKU A45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iKU_A22",
+      "codename": "iKU_A22",
+      "model": "iKU A22"
     }
   ]
 }

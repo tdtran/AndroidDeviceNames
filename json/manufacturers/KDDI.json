@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C02AS5",
+      "codename": "C02AS5",
+      "model": "C02AS5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CablePlus STB",
       "codename": "C02AS",
       "model": "C02AS"

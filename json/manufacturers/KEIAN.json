@@ -18,6 +18,12 @@
       "market_name": "KI-R7",
       "codename": "KI-R7",
       "model": "KI-R7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KI-Z101E",
+      "codename": "KI-Z101E",
+      "model": "KI-Z101E"
     }
   ]
 }

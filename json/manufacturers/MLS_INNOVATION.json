@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iQT610",
+      "codename": "iQT610",
+      "model": "iQT610"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQW511T",
       "codename": "iQW511T",
       "model": "iQW511T"

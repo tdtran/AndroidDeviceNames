@@ -4,5 +4,11 @@
     "market_name": "C71",
     "codename": "C71",
     "model": "C71"
+  },
+  {
+    "manufacturer": "CHAINWAY",
+    "market_name": "C71_EEA",
+    "codename": "C71",
+    "model": "C71"
   }
 ]

@@ -24,6 +24,12 @@
       "market_name": "X1 Prime",
       "codename": "DCN88_72604_LN",
       "model": "DCN88_72604_LN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1-Prime-c",
+      "codename": "DTC9565",
+      "model": "X1-Prime-c"
     }
   ]
 }

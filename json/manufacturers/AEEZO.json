@@ -1,0 +1,35 @@
+{
+  "manufacturer": "AEEZO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TK701",
+      "codename": "TK701",
+      "model": "TK701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TK701_EEA",
+      "codename": "TK701_EEA",
+      "model": "TK701_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TK801",
+      "codename": "TK801",
+      "model": "TK801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP1001",
+      "codename": "TP1001",
+      "model": "TP1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP901",
+      "codename": "TP901",
+      "model": "TP901"
+    }
+  ]
+}

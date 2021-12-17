@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TD SYSTEMS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Spain",
+      "codename": "tamachi",
+      "model": "TD SYSTEMS Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Spain",
+      "codename": "yeongdeungpo",
+      "model": "TD SYSTEMS Android TV"
+    }
+  ]
+}

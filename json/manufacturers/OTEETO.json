@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Oteeto",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "OE1",
+      "codename": "OE1",
+      "model": "OE1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OE1_EEA",
+      "codename": "OE1_EEA",
+      "model": "OE1"
+    }
+  ]
+}

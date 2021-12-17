@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iData i2",
+      "codename": "i2",
+      "model": "iData i2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iData i3",
+      "codename": "i3",
+      "model": "iData i3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iData_50",
       "codename": "iData_50",
       "model": "iData 50"

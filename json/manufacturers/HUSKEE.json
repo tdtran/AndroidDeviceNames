@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HELIOS",
+      "codename": "HELIOS",
+      "model": "HELIOS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HELIOS_Plus",
+      "codename": "HELIOS_Plus",
+      "model": "HELIOS_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ST-810",
       "codename": "ST-810",
       "model": "ST-810"
@@ -12,6 +24,12 @@
       "market_name": "VULKANO",
       "codename": "VULKANO",
       "model": "VULKANO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VULKANO_Plus",
+      "codename": "VULKANO_Plus",
+      "model": "VULKANO_Plus"
     }
   ]
 }

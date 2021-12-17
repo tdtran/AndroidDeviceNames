@@ -1,14 +1,38 @@
 [
   {
+    "manufacturer": "BOTECH",
+    "market_name": "WZONE",
+    "codename": "HND",
+    "model": "WZONE"
+  },
+  {
+    "manufacturer": "GOtv",
+    "market_name": "SEI600GO",
+    "codename": "HND",
+    "model": "SEI600GO"
+  },
+  {
+    "manufacturer": "Homatics",
+    "market_name": "SEI600HM",
+    "codename": "HND",
+    "model": "Box Q"
+  },
+  {
     "manufacturer": "Nokia",
     "market_name": "Nokia Steaming Box 8000",
     "codename": "HND",
     "model": "Nokia Streaming Box 8000"
   },
   {
-    "manufacturer": "Nokia",
-    "market_name": "SEI600HM",
+    "manufacturer": "YAYGO",
+    "market_name": "SEI600YAY",
     "codename": "HND",
-    "model": "Box Q"
+    "model": "ATV-101"
+  },
+  {
+    "manufacturer": "YOUIN",
+    "market_name": "SEI600EN",
+    "codename": "HND",
+    "model": "YOU-BOX"
   }
 ]

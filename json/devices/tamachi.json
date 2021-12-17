@@ -1,9 +1,45 @@
 [
   {
+    "manufacturer": "AGE (in)",
+    "market_name": "India",
+    "codename": "tamachi",
+    "model": "AGE FHD Android TV"
+  },
+  {
+    "manufacturer": "ARRQW",
+    "market_name": "Saudi Arabia",
+    "codename": "tamachi",
+    "model": "ARRQW FHD Android TV"
+  },
+  {
+    "manufacturer": "ASTECH",
+    "market_name": "Senegal",
+    "codename": "tamachi",
+    "model": "ASTECH FHD Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Australia",
+    "codename": "tamachi",
+    "model": "BLAUPUNKT Android TV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "EU",
     "codename": "tamachi",
     "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Turkey",
+    "codename": "tamachi",
+    "model": "Blaupunkt 2K Android TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "APAC",
+    "codename": "tamachi",
+    "model": "AiPlus2K"
   },
   {
     "manufacturer": "Contex",
@@ -18,6 +54,30 @@
     "model": "Continental Android TV"
   },
   {
+    "manufacturer": "DAIICHI",
+    "market_name": "Vietnam",
+    "codename": "tamachi",
+    "model": "Daiichi FHD Android TV"
+  },
+  {
+    "manufacturer": "DIAMANT",
+    "market_name": "EU",
+    "codename": "tamachi",
+    "model": "DIAMANT Android TV"
+  },
+  {
+    "manufacturer": "Digiquest",
+    "market_name": "Italy",
+    "codename": "tamachi",
+    "model": "Digiquest 2K Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "Australia",
+    "codename": "tamachi",
+    "model": "EKO Android TV"
+  },
+  {
     "manufacturer": "Estar",
     "market_name": "Lithuania",
     "codename": "tamachi",
@@ -30,10 +90,28 @@
     "model": "F and U Android TV"
   },
   {
+    "manufacturer": "Fresh",
+    "market_name": "Egypt",
+    "codename": "tamachi",
+    "model": "Fresh FHD Android TV"
+  },
+  {
     "manufacturer": "Grunkel",
     "market_name": "Spain",
     "codename": "tamachi",
     "model": "GRUNKEL FHD Android TV"
+  },
+  {
+    "manufacturer": "HORIZON",
+    "market_name": "EU",
+    "codename": "tamachi",
+    "model": "HORIZON Android TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Italy",
+    "codename": "tamachi",
+    "model": "HYUNDAI 2K Android TV"
   },
   {
     "manufacturer": "Inves",
@@ -43,9 +121,27 @@
   },
   {
     "manufacturer": "JVC",
+    "market_name": "South Africa/Australia /Israel/Paraguay",
+    "codename": "tamachi",
+    "model": "JVC Android TV"
+  },
+  {
+    "manufacturer": "JVC",
     "market_name": "france",
     "codename": "tamachi",
     "model": "JVC 2K Android TV"
+  },
+  {
+    "manufacturer": "KAGIS",
+    "market_name": "Australia",
+    "codename": "tamachi",
+    "model": "KAGIS Android TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Australia",
+    "codename": "tamachi",
+    "model": "Kogan TV"
   },
   {
     "manufacturer": "LISTO",
@@ -60,10 +156,58 @@
     "model": "MULTYNET FHD Android TV"
   },
   {
+    "manufacturer": "Marcel",
+    "market_name": "EU",
+    "codename": "tamachi",
+    "model": "MARCEL Android TV"
+  },
+  {
     "manufacturer": "Nano",
     "market_name": "Thailand",
     "codename": "tamachi",
     "model": "Nano FHD Android TV"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "EU",
+    "codename": "tamachi",
+    "model": "OK 2K Android TV"
+  },
+  {
+    "manufacturer": "ORCA",
+    "market_name": "Kuwait",
+    "codename": "tamachi",
+    "model": "ORCA FHD Android TV"
+  },
+  {
+    "manufacturer": "Profilo",
+    "market_name": "Turkey",
+    "codename": "tamachi",
+    "model": "Profilo 2K Android TV"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "Italy",
+    "codename": "tamachi",
+    "model": "Qbell FHD Android TV"
+  },
+  {
+    "manufacturer": "Qilive",
+    "market_name": "Europe",
+    "codename": "tamachi",
+    "model": "Qilive FHD Android TV"
+  },
+  {
+    "manufacturer": "SANCO",
+    "market_name": "Vietnam",
+    "codename": "tamachi",
+    "model": "SANCO Android TV"
+  },
+  {
+    "manufacturer": "Skyview",
+    "market_name": "KENYA",
+    "codename": "tamachi",
+    "model": "SKYVIEW Android TV"
   },
   {
     "manufacturer": "Smart-Tech TV",
@@ -72,10 +216,28 @@
     "model": "AiPlus2K"
   },
   {
+    "manufacturer": "Star-X",
+    "market_name": "Middle East",
+    "codename": "tamachi",
+    "model": "STAR-X FHD Android TV"
+  },
+  {
     "manufacturer": "Starlight",
     "market_name": "Rumania",
     "codename": "tamachi",
     "model": "STARLIGHT Android TV"
+  },
+  {
+    "manufacturer": "TD SYSTEMS",
+    "market_name": "Spain",
+    "codename": "tamachi",
+    "model": "TD SYSTEMS Android TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "EU",
+    "codename": "tamachi",
+    "model": "Tesla 2K Android TV"
   },
   {
     "manufacturer": "Turbo-X",
@@ -84,9 +246,33 @@
     "model": "TURBO-X FHD Android TV"
   },
   {
+    "manufacturer": "UBCtv",
+    "market_name": "Vietnam",
+    "codename": "tamachi",
+    "model": "UBC Android TV"
+  },
+  {
     "manufacturer": "Vision",
     "market_name": "Bangladesh",
     "codename": "tamachi",
     "model": "Vision FHD Android TV"
+  },
+  {
+    "manufacturer": "WILLETT",
+    "market_name": "India",
+    "codename": "tamachi",
+    "model": "WILLETT FHD Android TV"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "Bangladesh and EU",
+    "codename": "tamachi",
+    "model": "WALTON Android TV"
+  },
+  {
+    "manufacturer": "Zephir",
+    "market_name": "Italy",
+    "codename": "tamachi",
+    "model": "Zephir FHD Android TV"
   }
 ]

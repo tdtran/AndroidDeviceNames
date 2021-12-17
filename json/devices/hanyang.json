@@ -1,92 +1,158 @@
 [
   {
     "manufacturer": "Aqua",
-    "market_name": "APAC",
+    "market_name": "AQUA android TV",
     "codename": "hanyang",
     "model": "AQUA Android TV"
   },
   {
     "manufacturer": "Bauhn",
-    "market_name": "Australia",
+    "market_name": "Bauhn android TV",
     "codename": "hanyang",
     "model": "Tempo Android TV"
   },
   {
     "manufacturer": "Blaupunkt",
-    "market_name": "Australia",
+    "market_name": "Blaupunkt android TV",
     "codename": "hanyang",
-    "model": "BP Android TV"
+    "model": "BLAUPUNKT Android TV"
   },
   {
     "manufacturer": "Blaupunkt",
-    "market_name": "Ecuador",
+    "market_name": "Blaupunkt android TV",
     "codename": "hanyang",
     "model": "BP 4K Android TV"
   },
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt android TV",
+    "codename": "hanyang",
+    "model": "BP Android TV"
+  },
+  {
     "manufacturer": "Durabrand",
-    "market_name": "Central America",
+    "market_name": "Durabrand android TV",
     "codename": "hanyang",
     "model": "Durabrand 4K Android TV"
   },
   {
     "manufacturer": "EKO",
-    "market_name": "Australia",
+    "market_name": "EKO android TV",
     "codename": "hanyang",
     "model": "Ayonz Android TV"
   },
   {
-    "manufacturer": "Haier",
-    "market_name": "APAC",
+    "manufacturer": "EKO",
+    "market_name": "EKO android TV ISDB",
     "codename": "hanyang",
-    "model": "Haitech Android TV"
+    "model": "EKO 4K Android TV"
   },
   {
     "manufacturer": "Haier",
-    "market_name": "APAC",
+    "market_name": "EVVO Android TV",
+    "codename": "hanyang",
+    "model": "EVVO 4K Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "HEC Android TV",
+    "codename": "hanyang",
+    "model": "HEC Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier Android TV",
     "codename": "hanyang",
     "model": "haierATV"
   },
   {
     "manufacturer": "Haier",
-    "market_name": "Latin America",
+    "market_name": "Haier android TV",
     "codename": "hanyang",
     "model": "Haier 4K Android TV"
   },
   {
+    "manufacturer": "Haier",
+    "market_name": "Haitech android TV",
+    "codename": "hanyang",
+    "model": "Haitech Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "INNOVA android TV",
+    "codename": "hanyang",
+    "model": "INNOVA 4K Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Magelite android TV",
+    "codename": "hanyang",
+    "model": "MAGELITE Android TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "candy android TV",
+    "codename": "hanyang",
+    "model": "CANDY Android TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Hyundai android TV",
+    "codename": "hanyang",
+    "model": "HYUNDAI 4K Android TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "Konka android tv",
+    "codename": "hanyang",
+    "model": "KONKA Android TV 4K"
+  },
+  {
     "manufacturer": "Kogan",
-    "market_name": "Australia",
+    "market_name": "Kogan SmarterTV",
     "codename": "hanyang",
     "model": "Kogan SmarterTV"
   },
   {
     "manufacturer": "Linsar",
-    "market_name": "Australia",
+    "market_name": "Linsar android TV",
     "codename": "hanyang",
     "model": "Linsar Android TV"
   },
   {
     "manufacturer": "Polaroid",
-    "market_name": "Australia",
+    "market_name": "Polaroid android TV",
     "codename": "hanyang",
     "model": "Polaroid Android TV"
   },
   {
     "manufacturer": "QBell",
-    "market_name": "EU",
+    "market_name": "Qbell android TV",
     "codename": "hanyang",
     "model": "QBELL Android TV"
   },
   {
     "manufacturer": "S Vision",
-    "market_name": "Australia",
+    "market_name": "S android TV",
     "codename": "hanyang",
     "model": "Svision Android TV"
   },
   {
     "manufacturer": "Soniq",
-    "market_name": "Australia",
+    "market_name": "Soniq android TV",
     "codename": "hanyang",
     "model": "SONIQ Android TV"
+  },
+  {
+    "manufacturer": "Unionaire",
+    "market_name": "UnionaireATV4K",
+    "codename": "hanyang",
+    "model": "Unionaire Android TV"
+  },
+  {
+    "manufacturer": "Zephir",
+    "market_name": "Zephir android TV",
+    "codename": "hanyang",
+    "model": "ZEPHIR Android TV"
   }
 ]

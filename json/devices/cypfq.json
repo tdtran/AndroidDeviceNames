@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g51",
+    "codename": "cypfq",
+    "model": "XT2171-3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g51",
+    "codename": "cypfq",
+    "model": "moto[SPACE]g(50)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g51 5G",
+    "codename": "cypfq",
+    "model": "moto g(50)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g51 5G",
+    "codename": "cypfq",
+    "model": "moto g51 5G"
+  }
+]

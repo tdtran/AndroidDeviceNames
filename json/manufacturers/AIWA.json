@@ -93,9 +93,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TA07-2GB",
+      "codename": "TA07-2GB",
+      "model": "TA07-2GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TA10-SO10",
       "codename": "TA10-SO10",
       "model": "TA10-SO10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_1003G",
+      "codename": "TAB_1003G",
+      "model": "TAB_1003G"
     },
     {
       "manufacturer": "",

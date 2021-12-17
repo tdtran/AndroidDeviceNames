@@ -6,6 +6,12 @@
       "market_name": "VAX114",
       "codename": "VAX114",
       "model": "VAX114"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VaxHub2",
+      "codename": "VaxHub2",
+      "model": "VaxHub2"
     }
   ]
 }

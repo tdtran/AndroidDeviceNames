@@ -9,6 +9,12 @@
     "manufacturer": "Dragontouch",
     "market_name": "NotePad_101_B_EEA",
     "codename": "NotePad_101_B",
+    "model": "NotePad_101_B"
+  },
+  {
+    "manufacturer": "Dragontouch",
+    "market_name": "NotePad_101_B_EEA",
+    "codename": "NotePad_101_B",
     "model": "NotePad_101_B_EEA"
   }
 ]

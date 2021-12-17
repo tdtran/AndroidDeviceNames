@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "TOPELOTEK",
+    "market_name": "V7",
+    "codename": "V7",
+    "model": "V7"
+  },
+  {
     "manufacturer": "Volt Mobile",
     "market_name": "v7",
     "codename": "v7",

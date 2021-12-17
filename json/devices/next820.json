@@ -13,7 +13,49 @@
   },
   {
     "manufacturer": "Panasonic",
+    "market_name": "Elite-4K 20",
+    "codename": "NEXT820",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "Elite4K18A",
+    "codename": "NEXT820",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "Elite4K32A",
+    "codename": "NEXT820",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
     "market_name": "NEXT Crew Terminal - AutoChip",
+    "codename": "NEXT820",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "NEXT Elite-4K 16",
+    "codename": "NEXT820",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "NEXT Elite-4K 24",
+    "codename": "NEXT820",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "NEXT Elite-4K 43",
+    "codename": "NEXT820",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "NEXT_WSCUwscu",
     "codename": "NEXT820",
     "model": "NEXT"
   }

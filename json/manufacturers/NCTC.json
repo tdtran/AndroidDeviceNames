@@ -6,6 +6,12 @@
       "market_name": "KSTB2020",
       "codename": "KSTB2020",
       "model": "KSTB2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KSTB2100",
+      "codename": "KSTB2100",
+      "model": "KSTB2100"
     }
   ]
 }

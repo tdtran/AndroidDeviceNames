@@ -15,6 +15,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S21_EEA",
+      "codename": "S21",
+      "model": "CONQUEST S21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "conquest-S20",
+      "codename": "conquest-S20",
+      "model": "conquest-S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "conquest-S20_RU",
+      "codename": "conquest-S20",
+      "model": "conquest-S20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "conquest_S16",
       "codename": "conquest_S16",
       "model": "conquest_S16"
@@ -24,6 +42,12 @@
       "market_name": "conquest_S16_RU",
       "codename": "conquest_S16",
       "model": "conquest_S16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "conquest_S20_EEA",
+      "codename": "conquest_S20",
+      "model": "conquest_S20"
     }
   ]
 }

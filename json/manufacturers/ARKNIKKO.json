@@ -3,15 +3,45 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MemoPad_T3",
+      "codename": "MemoPad_T3_EEA",
+      "model": "MemoPad_T3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Memopad_T4",
+      "codename": "Memopad_T4",
+      "model": "Memopad_T4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SophPad_X11",
       "codename": "SophPad_X11",
       "model": "SophPad_X11"
     },
     {
       "manufacturer": "",
+      "market_name": "SophPad_X22",
+      "codename": "SophPad_X22_EEA",
+      "model": "SophPad_X22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SophPad_Z11",
       "codename": "SophPad_Z11",
       "model": "SophPad_Z11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sophpad_X21",
+      "codename": "Sophpad_X21",
+      "model": "Sophpad_X21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sophpad_Z21",
+      "codename": "Sophpad_Z21",
+      "model": "Sophpad_Z21"
     }
   ]
 }

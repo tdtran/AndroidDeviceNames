@@ -1,0 +1,29 @@
+{
+  "manufacturer": "SUNWIND",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SKY 9 E201 3G",
+      "codename": "SS9237MG",
+      "model": "SKY 9 E201 3G SS9237MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_9_A102_3G",
+      "codename": "SS9236PG",
+      "model": "SKY 9 A102 3G SS9236PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS7238PG",
+      "codename": "SS7238PG",
+      "model": "SKY Kids 70 SS7238PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUNWIND_SKY_7_E200_3G",
+      "codename": "ST7230MG",
+      "model": "SUNWIND SKY 7 E200 3G ST7230MG"
+    }
+  ]
+}

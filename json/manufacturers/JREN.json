@@ -1,0 +1,35 @@
+{
+  "manufacturer": "JREN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "J10",
+      "codename": "J10",
+      "model": "J10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J7",
+      "codename": "J7",
+      "model": "J7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JR-101",
+      "codename": "JR-101",
+      "model": "JR-101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JR-J71",
+      "codename": "JR-J71",
+      "model": "JR-J71"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JR-J8",
+      "codename": "JR-J8",
+      "model": "JR-J8"
+    }
+  ]
+}

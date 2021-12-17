@@ -16,5 +16,11 @@
     "market_name": "HSG1416",
     "codename": "HANNSPAD",
     "model": "HSG1416"
+  },
+  {
+    "manufacturer": "HannSpree",
+    "market_name": "Hannspad",
+    "codename": "Hannspad",
+    "model": "Hannspad"
   }
 ]

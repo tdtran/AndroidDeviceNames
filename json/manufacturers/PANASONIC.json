@@ -93,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A-DA",
+      "codename": "balticaCA",
+      "model": "MY21ADA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A-DA",
+      "codename": "balticaDA",
+      "model": "MY21ADA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS650C",
       "codename": "AS650C",
       "model": "AS650C"
@@ -477,6 +489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eco4K13",
+      "codename": "NEXT821",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Eco4K13A",
       "codename": "NEXT820",
       "model": "NEXT"
@@ -555,9 +573,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite 4K 16",
+      "codename": "NEXT821",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite-4K 20",
+      "codename": "NEXT820",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite13 v3",
       "codename": "Elitev3_13",
       "model": "Elitev3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite4K18A",
+      "codename": "NEXT820",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite4K32A",
+      "codename": "NEXT820",
+      "model": "NEXT"
     },
     {
       "manufacturer": "",
@@ -861,6 +903,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FZ-S1",
+      "codename": "FZ-S1",
+      "model": "FZ-S1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ-T1",
       "codename": "FZ-T1A",
       "model": "FZ-T1"
@@ -999,12 +1047,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "HomeX HMX03A",
-      "codename": "HMX03A",
-      "model": "HMX03A"
-    },
-    {
-      "manufacturer": "",
       "market_name": "IPSC 1.5",
       "codename": "ipsc1_5",
       "model": "IPSC1_5"
@@ -1032,6 +1074,18 @@
       "market_name": "JT-C60",
       "codename": "JT-C60",
       "model": "JT-C60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JX700C",
+      "codename": "JX700C",
+      "model": "Panasonic_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JX900C",
+      "codename": "JX900C",
+      "model": "Panasonic_TV"
     },
     {
       "manufacturer": "",
@@ -1067,6 +1121,42 @@
       "manufacturer": "",
       "market_name": "NEXT Eco4K 12",
       "codename": "NEXT821",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Elite-4K 16",
+      "codename": "NEXT820",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Elite-4K 24",
+      "codename": "NEXT820",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Elite-4K 43",
+      "codename": "NEXT820",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Premium Hand-Set (PHS)",
+      "codename": "NEXT821",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT Theater-4K 24",
+      "codename": "NEXT821",
+      "model": "NEXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT_WSCUwscu",
+      "codename": "NEXT820",
       "model": "NEXT"
     },
     {
@@ -1248,6 +1338,24 @@
       "market_name": "POE-SMB400-PS1",
       "codename": "kadoma",
       "model": "POE-SMB400-PS1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic",
+      "codename": "Jupiter",
+      "model": "4KTV-JUP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic 2021 UHD Android TV",
+      "codename": "OD0M_EA_T32",
+      "model": "Panasonic 2021 UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic 2021 UHD Android TV",
+      "codename": "OD0M_EA_T32",
+      "model": "Panasonic UHD TV"
     },
     {
       "manufacturer": "",
@@ -1434,6 +1542,30 @@
       "market_name": "TAB-A02",
       "codename": "TAB-A02",
       "model": "TAB-A02-SD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-A05-BA1",
+      "codename": "TAB-A05-BA1",
+      "model": "TAB-A05-BA1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-A05-EA",
+      "codename": "TAB-A05-EA",
+      "model": "TAB-A05-EA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-A05-SA",
+      "codename": "TAB-A05",
+      "model": "TAB-A05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TH-43JX580C",
+      "codename": "Panasonic_848",
+      "model": "4S806_Z31S"
     },
     {
       "manufacturer": "",

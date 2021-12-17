@@ -45,6 +45,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARK KSR-A0",
+      "codename": "kaiser",
+      "model": "SHARK KSR-A0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARK PRS-A0",
+      "codename": "penrose",
+      "model": "SHARK PRS-A0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARK PRS-H0",
+      "codename": "penrose",
+      "model": "SHARK PRS-H0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Shark",
       "codename": "shark",
       "model": "SKR-H0"

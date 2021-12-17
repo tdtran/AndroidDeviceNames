@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "A25",
+    "codename": "A25",
+    "model": "A25"
+  },
+  {
     "manufacturer": "Trident",
     "market_name": "A25",
     "codename": "A25",

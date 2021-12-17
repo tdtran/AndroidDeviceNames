@@ -4,5 +4,11 @@
     "market_name": "RX300",
     "codename": "X300",
     "model": "X300"
+  },
+  {
+    "manufacturer": "OMIX",
+    "market_name": "X300",
+    "codename": "X300",
+    "model": "OMIX X300"
   }
 ]

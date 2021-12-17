@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID_1089IPS_EEA",
+      "codename": "MID_1089IPS",
+      "model": "MID_1089IPS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID_1090IPSV9",
       "codename": "MID_1090IPSV9",
       "model": "MID_1090IPSV9"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "X-TIGI",
+    "market_name": "V12",
+    "codename": "V12",
+    "model": "V12"
+  },
+  {
+    "manufacturer": "X-TIGI",
     "market_name": "X-TIGI_V12",
     "codename": "V12",
     "model": "V12"

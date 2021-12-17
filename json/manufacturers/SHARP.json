@@ -105,6 +105,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C**DL1/DJ1/DQ1/DN2",
+      "codename": "tcve2uj",
+      "model": "AQUOS-TVJ21-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C**DS1/DN1",
+      "codename": "tcvenuj",
+      "model": "AQUOS-TVJ21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C50AG1T",
       "codename": "LCD_50FOCAG1T",
       "model": "LCD_50FOCAG1T"
@@ -135,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C60BJ8T",
+      "codename": "gangnam",
+      "model": "TVX19B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C60BK2UD",
       "codename": "guro",
       "model": "AQUOS-TVU19A"
@@ -162,6 +180,24 @@
       "market_name": "8T-C**CX1",
       "codename": "tcme8tsj",
       "model": "AQUOS-8KTVJ20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8T-C**DW1",
+      "codename": "tcve8sj",
+      "model": "AQUOS-8KTVJ21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8T-C**DW1X",
+      "codename": "tcba8sx",
+      "model": "AQUOS-TVH21A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8T-C**DW1X/DW2X",
+      "codename": "tcba8sx",
+      "model": "AQUOS-TVX21A"
     },
     {
       "manufacturer": "",
@@ -687,6 +723,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R6",
+      "codename": "Judau",
+      "model": "A101SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R6",
+      "codename": "Judau",
+      "model": "SH-M22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R6",
+      "codename": "SH-51B",
+      "model": "SH-51B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -1011,6 +1065,72 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense5G",
+      "codename": "SH-53A",
+      "model": "SH-53A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense5G",
+      "codename": "Sarah",
+      "model": "A004SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense5G",
+      "codename": "Sarah",
+      "model": "A105SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense5G",
+      "codename": "Sarah",
+      "model": "SH-M17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense5G",
+      "codename": "WJG",
+      "model": "SHG03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense5G SH-S50",
+      "codename": "SarahH",
+      "model": "SH-S50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense6",
+      "codename": "Chara",
+      "model": "SH-M19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense6",
+      "codename": "Chara",
+      "model": "SH-RM19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense6",
+      "codename": "SH-54B",
+      "model": "SH-54B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense6",
+      "codename": "ZMJ",
+      "model": "SHG05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish",
+      "codename": "SX1",
+      "model": "SH-WS10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS zero",
       "codename": "SG801SH",
       "model": "801SH"
@@ -1074,6 +1194,30 @@
       "market_name": "AQUOS zero5G basic DX",
       "codename": "OJ6",
       "model": "SHG02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero6",
+      "codename": "Recoa",
+      "model": "A102SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero6",
+      "codename": "Recoa",
+      "model": "SH-RM18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero6",
+      "codename": "Recoa",
+      "model": "SH-Z60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero6",
+      "codename": "XKH",
+      "model": "SHG04"
     },
     {
       "manufacturer": "",
@@ -1206,6 +1350,12 @@
       "market_name": "EU",
       "codename": "sindang",
       "model": "AQUOS-TVE19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "sindang",
+      "model": "AQUOS-TVE21A2"
     },
     {
       "manufacturer": "",
@@ -1665,6 +1815,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Leitz Phone1",
+      "codename": "JudauL",
+      "model": "LP-01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Media Tablet",
       "codename": "EB-L76G-B",
       "model": "EB-L76G-B"
@@ -1728,6 +1884,12 @@
       "market_name": "RZ-E302",
       "codename": "rk3188_10P_A",
       "model": "RZ-E302"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RZ-H271",
+      "codename": "MC2200",
+      "model": "RZ-H270"
     },
     {
       "manufacturer": "",
@@ -1845,6 +2007,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP 2K SMART TV",
+      "codename": "shinagawa",
+      "model": "SHARP 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP A2 Lite",
       "codename": "SJ3",
       "model": "FS8026"
@@ -1905,6 +2073,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP Android TV",
+      "codename": "SW4H_FF",
+      "model": "SHARP Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP FHD TV",
+      "codename": "takao",
+      "model": "SHARP FHD TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP R1S",
       "codename": "SK3",
       "model": "FS8028"
@@ -1920,6 +2100,24 @@
       "market_name": "Sharp",
       "codename": "ewha",
       "model": "AQUOS-TVE19G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "ewha",
+      "model": "AQUOS-TVE21B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "sindang",
+      "model": "AQUOS-TVE19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "sindang",
+      "model": "AQUOS-TVE21C"
     },
     {
       "manufacturer": "",

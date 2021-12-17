@@ -1,11 +1,5 @@
 [
   {
-    "manufacturer": "1\u00261",
-    "market_name": "EDENWOOD",
-    "codename": "komagome",
-    "model": "EDENWOOD 2K Android TV"
-  },
-  {
     "manufacturer": "Aconatic",
     "market_name": "Aconatic",
     "codename": "komagome",
@@ -46,6 +40,12 @@
     "market_name": "Dyon",
     "codename": "komagome",
     "model": "Dyon 2K Android TV"
+  },
+  {
+    "manufacturer": "EDENWOOD",
+    "market_name": "EDENWOOD",
+    "codename": "komagome",
+    "model": "EDENWOOD 2K Android TV"
   },
   {
     "manufacturer": "EKO",

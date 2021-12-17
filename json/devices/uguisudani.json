@@ -1,9 +1,15 @@
 [
   {
     "manufacturer": "Haier",
-    "market_name": "North America",
+    "market_name": "Haier Android TV",
     "codename": "uguisudani",
     "model": "haierATVuguisudani"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "Konka Android TV",
+    "codename": "uguisudani",
+    "model": "KONKA 2K Android TV"
   },
   {
     "manufacturer": "Seiki",

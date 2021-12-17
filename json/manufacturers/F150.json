@@ -1,0 +1,35 @@
+{
+  "manufacturer": "F150",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "B2021",
+      "codename": "B2021",
+      "model": "B2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B2021_EEA",
+      "codename": "B2021",
+      "model": "B2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B2022_EEA",
+      "codename": "R2022",
+      "model": "R2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bison2021_EEA",
+      "codename": "Bison2021",
+      "model": "Bison2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H2022_EEA",
+      "codename": "H2022",
+      "model": "H2022"
+    }
+  ]
+}

@@ -4,5 +4,11 @@
     "market_name": "V2023A",
     "codename": "PD2023",
     "model": "V2023A"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2023EA",
+    "codename": "PD2023",
+    "model": "V2023EA"
   }
 ]

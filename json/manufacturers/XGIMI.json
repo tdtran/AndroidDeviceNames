@@ -23,7 +23,19 @@
       "manufacturer": "",
       "market_name": "P_FHD_2020",
       "codename": "xgimiapollo",
+      "model": "Mogo Pro Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P_FHD_2020",
+      "codename": "xgimiapollo",
       "model": "P_FHD_2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XK03H",
+      "codename": "xgimigalileo",
+      "model": "XK03H"
     }
   ]
 }

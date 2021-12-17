@@ -12,10 +12,28 @@
     "model": "Allview 2K TV"
   },
   {
+    "manufacturer": "Altus",
+    "market_name": "Altus Android TV",
+    "codename": "shinagawa",
+    "model": "Altus Android TV"
+  },
+  {
     "manufacturer": "Artel",
     "market_name": "Artel 2K TV",
     "codename": "shinagawa",
     "model": "Artel 2K TV"
+  },
+  {
+    "manufacturer": "Arçelik",
+    "market_name": "Arcelik Android TV",
+    "codename": "shinagawa",
+    "model": "Arcelik Android TV"
+  },
+  {
+    "manufacturer": "Beko",
+    "market_name": "Beko Android TV",
+    "codename": "shinagawa",
+    "model": "Beko Android TV"
   },
   {
     "manufacturer": "ECHOSONIC",
@@ -24,10 +42,22 @@
     "model": "EchosonicTV"
   },
   {
+    "manufacturer": "Echolink",
+    "market_name": "Echolink TV",
+    "codename": "shinagawa",
+    "model": "Echolink TV"
+  },
+  {
     "manufacturer": "Fresh",
     "market_name": "FreshTV",
     "codename": "shinagawa",
     "model": "FreshTV"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Grundig Android TV",
+    "codename": "shinagawa",
+    "model": "Grundig Android TV"
   },
   {
     "manufacturer": "Iris",
@@ -36,10 +66,34 @@
     "model": "Iris 2K TV"
   },
   {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "OK 2K TV",
+    "codename": "shinagawa",
+    "model": "OK 2K TV"
+  },
+  {
+    "manufacturer": "Prime",
+    "market_name": "PRIME Android TV",
+    "codename": "shinagawa",
+    "model": "PRIME Android TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP 2K SMART TV",
+    "codename": "shinagawa",
+    "model": "SHARP 2K SMART TV"
+  },
+  {
     "manufacturer": "Skyworth",
     "market_name": "METZ 2K TV",
     "codename": "shinagawa",
     "model": "METZ 2K TV"
+  },
+  {
+    "manufacturer": "TORNADO",
+    "market_name": "TORNADO 2K SMART TV",
+    "codename": "shinagawa",
+    "model": "TORNADO 2K SMART TV"
   },
   {
     "manufacturer": "Tesla",
@@ -48,9 +102,21 @@
     "model": "Tesla 2K TV"
   },
   {
+    "manufacturer": "VISIO",
+    "market_name": "VISIO TV",
+    "codename": "shinagawa",
+    "model": "VISIO TV"
+  },
+  {
     "manufacturer": "Yasin",
     "market_name": "YASIN 2K TV",
     "codename": "shinagawa",
     "model": "YASIN 2K TV"
+  },
+  {
+    "manufacturer": "ZIFFLER",
+    "market_name": "ABMS Android TV",
+    "codename": "shinagawa",
+    "model": "ABMS Android TV"
   }
 ]

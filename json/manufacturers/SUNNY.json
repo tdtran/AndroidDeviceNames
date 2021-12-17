@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SN10064",
+      "codename": "TABLET",
+      "model": "SN10064"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SN7016",
       "codename": "SN7016",
       "model": "SN7016"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SN7032",
+      "codename": "SN7032",
+      "model": "SN7032"
     }
   ]
 }

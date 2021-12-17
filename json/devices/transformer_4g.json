@@ -10,5 +10,11 @@
     "market_name": "TCL 10 TABMAX 4G",
     "codename": "Transformer_4G",
     "model": "9295G_EEA"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 10 TABMAX 4G",
+    "codename": "Transformer_4G",
+    "model": "9295G_RU"
   }
 ]

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10_premium",
+      "codename": "A10_premium",
+      "model": "A10_premium"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A8",
+      "codename": "A8",
+      "model": "A8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Greentel-A10",
+      "codename": "Greentel-A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V2",
       "codename": "V2",
       "model": "V2"
@@ -30,6 +48,12 @@
       "market_name": "X1_Light_Lte",
       "codename": "X1_Light_Lte",
       "model": "X1_Light_Lte"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2",
+      "codename": "X2",
+      "model": "X2"
     },
     {
       "manufacturer": "",

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NAUTIZ X6",
+      "codename": "NAUTIZ_X6P",
+      "model": "NAUTIZ_X6P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NAUTIZ_X6",
       "codename": "NAUTIZ_X6",
       "model": "NAUTIZ_X6"
@@ -54,6 +60,12 @@
       "market_name": "Nautiz X41",
       "codename": "albatross_GL",
       "model": "Nautiz X41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nautiz X9P",
+      "codename": "Nautiz_X9P",
+      "model": "Nautiz X9P"
     },
     {
       "manufacturer": "",

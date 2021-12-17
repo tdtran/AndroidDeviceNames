@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Deco 4K con Android TV",
+      "codename": "m392",
+      "model": "Deco 4K con Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Euskaltel",
       "codename": "dciw384eus",
       "model": "Sagemcom_4k ATV"

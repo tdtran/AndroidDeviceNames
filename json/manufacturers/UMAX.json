@@ -15,6 +15,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "10C-PRO-LTE",
+      "codename": "10C-PRO-LTE",
+      "model": "10C-PRO-LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "10C_LTE",
+      "codename": "10C_LTE",
+      "model": "10C_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "10L-PLUS",
+      "codename": "10L-PLUS",
+      "model": "10L-PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "10Qa_3G",
       "codename": "10Qa_3G",
       "model": "VisionBook_10Qa_3G"
@@ -42,6 +60,12 @@
       "market_name": "8A_Plus_eea",
       "codename": "8A_Plus_eea",
       "model": "8A_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8C_LTE",
+      "codename": "8C_LTE",
+      "model": "8C_LTE"
     },
     {
       "manufacturer": "",

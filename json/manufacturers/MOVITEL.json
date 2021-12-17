@@ -111,6 +111,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9107",
+      "codename": "M9107",
+      "model": "M9107"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9108",
+      "codename": "M9108",
+      "model": "M9108"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9109",
+      "codename": "M9109",
+      "model": "M9109"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9110",
+      "codename": "M9110",
+      "model": "M9110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Movitel_M9104",
       "codename": "Movitel_M9104",
       "model": "Movitel_M9104"

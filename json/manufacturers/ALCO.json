@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CT302T",
+      "codename": "CT302T",
+      "model": "CT302T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6613W23PG",
       "codename": "RCT6613W23PG",
       "model": "RCT6613W23PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9B06Q23EU_eea",
+      "codename": "VCT9B06Q23EU",
+      "model": "VCT9B06Q23EU"
     },
     {
       "manufacturer": "",

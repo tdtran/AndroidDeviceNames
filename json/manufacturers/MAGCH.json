@@ -1,0 +1,11 @@
+{
+  "manufacturer": "MAGCH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T7",
+      "codename": "T7_Pro",
+      "model": "T7"
+    }
+  ]
+}

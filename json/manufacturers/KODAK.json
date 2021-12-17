@@ -39,9 +39,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KODAK_SMARTWAY_X2",
+      "codename": "SMARTWAY_X2",
+      "model": "KODAK_SMARTWAY_X2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KodakTV",
       "codename": "shibuya",
       "model": "KodakTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kodak_D50L",
+      "codename": "Kodak_D50L",
+      "model": "D50L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kodak_D55L",
+      "codename": "Kodak_D55L",
+      "model": "D55L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kodak_D60LX",
+      "codename": "Kodak_D60LX",
+      "model": "D60LX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kodak_D65LX",
+      "codename": "Kodak_D65LX",
+      "model": "D65LX"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "BISON X10",
+    "codename": "BISON_X10",
+    "model": "RP01"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "BISON X10 EEA",
+    "codename": "BISON_X10",
+    "model": "RP01"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "BISON X10 RU",
+    "codename": "BISON_X10",
+    "model": "RP01"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "BISON_X10_TR",
+    "codename": "BISON_X10",
+    "model": "RP01"
+  }
+]

@@ -6,6 +6,18 @@
     "model": "X1"
   },
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "X1",
+    "codename": "X1",
+    "model": "X1"
+  },
+  {
+    "manufacturer": "Mira",
+    "market_name": "X1",
+    "codename": "X1",
+    "model": "X1"
+  },
+  {
     "manufacturer": "Mobicell",
     "market_name": "X1",
     "codename": "X1",
@@ -49,6 +61,12 @@
   },
   {
     "manufacturer": "X-PREMIUM",
+    "market_name": "X1",
+    "codename": "X1",
+    "model": "X1"
+  },
+  {
+    "manufacturer": "Xmobile",
     "market_name": "X1",
     "codename": "X1",
     "model": "X1"

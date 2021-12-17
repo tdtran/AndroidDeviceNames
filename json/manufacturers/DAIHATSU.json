@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Daihatsu",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A-DA",
+      "codename": "balticaAA",
+      "model": "MY22ADA"
+    }
+  ]
+}

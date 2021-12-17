@@ -18,6 +18,18 @@
       "market_name": "QC804GM",
       "codename": "QC804GM",
       "model": "QC804GM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10K_Plus",
+      "codename": "T10K_Plus",
+      "model": "T10K_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7K_PLUS_SE3_EEA",
+      "codename": "T7K_PLUS_SE3_EEA",
+      "model": "T7K_PLUS_SE3_EEA"
     }
   ]
 }

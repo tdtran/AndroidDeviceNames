@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BMAX_I9",
+      "codename": "BMAX_I9",
+      "model": "BMAX_I9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I10",
+      "codename": "I10",
+      "model": "I10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I10_EEA",
       "codename": "I10_EEA",
       "model": "I10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I11",
+      "codename": "I11",
+      "model": "I11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I11_EEA",
+      "codename": "I11_EEA",
+      "model": "I11_EEA"
     }
   ]
 }

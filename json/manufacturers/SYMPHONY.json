@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Atom ii",
+      "codename": "Atom_ii",
+      "model": "Symphony Atom ii"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E90",
       "codename": "E90",
       "model": "E90"
@@ -30,6 +36,12 @@
       "market_name": "G100",
       "codename": "G100",
       "model": "Symphony G100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G10plus",
+      "codename": "G10plus",
+      "model": "G10+"
     },
     {
       "manufacturer": "",
@@ -225,6 +237,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V136",
+      "codename": "V136",
+      "model": "V136"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V138",
+      "codename": "V138",
+      "model": "V138"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V140",
       "codename": "V140",
       "model": "V140"
@@ -375,6 +399,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z22",
+      "codename": "Z22",
+      "model": "Symphony Z22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z25",
       "codename": "Z25",
       "model": "Z25"
@@ -396,6 +426,30 @@
       "market_name": "Z30 pro",
       "codename": "Z30_pro",
       "model": "Z30 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z32",
+      "codename": "Z32",
+      "model": "Symphony Z32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z33",
+      "codename": "Z33",
+      "model": "Z33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z35",
+      "codename": "Z35",
+      "model": "Z35"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z40",
+      "codename": "Z40",
+      "model": "Z40"
     },
     {
       "manufacturer": "",
@@ -471,6 +525,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i32",
+      "codename": "i32",
+      "model": "i32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i50",
       "codename": "i50",
       "model": "i50"
@@ -504,6 +564,12 @@
       "market_name": "i68",
       "codename": "i68",
       "model": "i68"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i69",
+      "codename": "i69",
+      "model": "i69"
     },
     {
       "manufacturer": "",

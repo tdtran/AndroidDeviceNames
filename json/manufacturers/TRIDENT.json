@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A23_Max",
+      "codename": "A23_Max",
+      "model": "A23 Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A24",
       "codename": "A24",
       "model": "A24"
@@ -24,6 +30,12 @@
       "market_name": "A53 PRO",
       "codename": "A53_PRO",
       "model": "A53 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A54",
+      "codename": "A54",
+      "model": "A54"
     }
   ]
 }

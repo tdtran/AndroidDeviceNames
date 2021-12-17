@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DFM48",
+      "codename": "DFM48",
+      "model": "DFM48"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DN6015",
       "codename": "DN6015",
       "model": "DN6015"
@@ -27,9 +33,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KT5512",
+      "codename": "KT5512",
+      "model": "KT5512"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L1",
+      "codename": "L1",
+      "model": "L1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S90",
       "codename": "S90",
       "model": "S90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS-M105G-1",
+      "codename": "TS-M105G-1",
+      "model": "TS-M105G-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS-M704F-1",
+      "codename": "TS-M704F-1",
+      "model": "TS-M704F-1"
     },
     {
       "manufacturer": "",

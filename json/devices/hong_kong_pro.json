@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "TCL",
+    "market_name": "TCL 20Y",
+    "codename": "Hong_Kong_Pro",
+    "model": "6156A"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 20Y",
+    "codename": "Hong_Kong_Pro",
+    "model": "6156D"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 20Y",
+    "codename": "Hong_Kong_Pro",
+    "model": "6156H"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 20Y",
+    "codename": "Hong_Kong_Pro",
+    "model": "A1 Alpha 21"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3L",
     "codename": "Hong_Kong_Pro",
@@ -27,6 +51,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3L",
     "codename": "Hong_Kong_Pro",
+    "model": "6056D_TR"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "Hong_Kong_Pro",
     "model": "6056H"
   },
   {
@@ -40,5 +70,11 @@
     "market_name": "Alcatel 3L",
     "codename": "Hong_Kong_Pro",
     "model": "6056H_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3L",
+    "codename": "Hong_Kong_Pro",
+    "model": "6056H_TR"
   }
 ]

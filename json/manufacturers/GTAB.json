@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F2X",
+      "codename": "F2X",
+      "model": "F2X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F4",
       "codename": "F4",
       "model": "F4"
@@ -162,6 +168,18 @@
       "market_name": "S3",
       "codename": "S3",
       "model": "S3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8",
+      "codename": "S8",
+      "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8X",
+      "codename": "S8X",
+      "model": "S8X"
     }
   ]
 }

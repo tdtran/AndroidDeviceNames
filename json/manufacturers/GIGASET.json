@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GS5",
+      "codename": "GS5",
+      "model": "E940-2796-00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GS80",
       "codename": "GS80",
       "model": "GS80"
@@ -78,6 +84,12 @@
       "market_name": "Gigaset GS170",
       "codename": "GS170",
       "model": "Gigaset GS170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gigaset GS185",
+      "codename": "GS185",
+      "model": "GS185"
     },
     {
       "manufacturer": "",

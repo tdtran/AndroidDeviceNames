@@ -45,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V10X",
+      "codename": "V10X",
+      "model": "V10X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V11",
+      "codename": "V11",
+      "model": "V11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V80",
       "codename": "V80",
       "model": "V80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V8X",
+      "codename": "V8X",
+      "model": "V8X"
     },
     {
       "manufacturer": "",
@@ -60,6 +78,12 @@
       "market_name": "V90",
       "codename": "V90",
       "model": "V90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V9X",
+      "codename": "V9X",
+      "model": "V9X"
     }
   ]
 }

@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi K40 Pro",
+    "codename": "haydn",
+    "model": "M2012K11C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi K40 Pro +",
+    "codename": "haydn",
+    "model": "M2012K11C"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 11i",
+    "codename": "haydn",
+    "model": "M2012K11G"
+  }
+]

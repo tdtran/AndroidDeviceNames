@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G50_PRO",
+      "codename": "G50_PRO",
+      "model": "G50_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JAX_M",
       "codename": "JAX_M",
       "model": "JAX_M"
@@ -57,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAGNET_G90",
+      "codename": "MAGNET_G90",
+      "model": "MAGNET_G90"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Magnet M1_A7",
       "codename": "Magnet_M1_A7",
       "model": "Magnet M1"
@@ -69,15 +81,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Magnet_G20",
+      "codename": "Magnet_G50",
+      "model": "Magnet_G20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnet_G25",
+      "codename": "Magnet_G50",
+      "model": "Magnet_G25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Magnet_G30_EEA",
       "codename": "Magnet_G30",
       "model": "Magnet_G30"
     },
     {
       "manufacturer": "",
+      "market_name": "Magnet_G30_lite",
+      "codename": "Magnet_G30",
+      "model": "Magnet_G30_lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnet_G40",
+      "codename": "Magnet_G50",
+      "model": "Magnet_G40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Magnet_G50",
       "codename": "Magnet_G50",
       "model": "Magnet_G50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnet_G50_lite",
+      "codename": "Magnet_G50_lite",
+      "model": "Magnet_G50_lite"
     },
     {
       "manufacturer": "",
@@ -330,6 +372,12 @@
       "market_name": "Zun_N",
       "codename": "Zun_N",
       "model": "Zun_N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iMart_MAX",
+      "codename": "iMart_MAX",
+      "model": "iMart_MAX"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "SOHO STYLE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SS5214G",
+      "codename": "SS5214G",
+      "model": "SS5214G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS5414G",
+      "codename": "SS5414G",
+      "model": "SS5414G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS5514G",
+      "codename": "SS5514G",
+      "model": "SS5514G"
+    }
+  ]
+}

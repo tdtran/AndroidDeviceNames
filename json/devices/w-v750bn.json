@@ -3,6 +3,18 @@
     "manufacturer": "Wiko",
     "market_name": "Power U20",
     "codename": "W-V750BN",
+    "model": "W-V750BN-EEA"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "Power U20",
+    "codename": "W-V750BN",
+    "model": "W-V750BN-OPE"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "Power U20",
+    "codename": "W-V750BN",
     "model": "W-V750BN-TVM"
   }
 ]

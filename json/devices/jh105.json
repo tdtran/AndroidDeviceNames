@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZUOPU",
+    "market_name": "\tJH105",
+    "codename": "JH105",
+    "model": "ZER A10"
+  },
+  {
+    "manufacturer": "ZUOPU",
     "market_name": "JH105",
     "codename": "JH105",
     "model": "JH105"

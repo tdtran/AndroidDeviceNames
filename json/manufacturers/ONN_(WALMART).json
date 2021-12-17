@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "100011886A",
+      "codename": "100011886A",
+      "model": "100011886A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "100011886CA",
       "codename": "100011886CA",
       "model": "100011886CA"
@@ -66,6 +72,36 @@
       "market_name": "100015685-E",
       "codename": "100015685-E",
       "model": "100015685-E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100026191",
+      "codename": "mid7018_mr_32",
+      "model": "100026191"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100026203",
+      "codename": "mid1035_mq",
+      "model": "100026203"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100043279",
+      "codename": "mid1105_mp",
+      "model": "100043279"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100044018G",
+      "codename": "100044018G",
+      "model": "100044018G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100044018P",
+      "codename": "100044018P",
+      "model": "100044018P"
     },
     {
       "manufacturer": "",
@@ -87,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Onn 2k TV stick",
+      "codename": "stephen",
+      "model": "Onn 2k TV stick"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TBBVNC100005207",
       "codename": "TBBVNC100005207",
       "model": "TBBVNC100005207"
@@ -102,6 +144,12 @@
       "market_name": "TBBVNC100005209",
       "codename": "TBBVNC100005209",
       "model": "TBBVNC100005209"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W723",
+      "codename": "W723",
+      "model": "W723"
     }
   ]
 }

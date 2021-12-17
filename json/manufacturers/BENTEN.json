@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Benten_T20",
+      "codename": "Benten_T20",
+      "model": "Benten_T20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10",
       "codename": "Benten_T10",
       "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T30",
+      "codename": "T30",
+      "model": "T30"
     },
     {
       "manufacturer": "",

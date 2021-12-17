@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NEXO TAB 10A",
+      "codename": "NEXO_TAB_10A",
+      "model": "NEXO TAB 10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXO-TAB-70",
+      "codename": "NEXO-TAB-70",
+      "model": "NEXO TAB 70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEXO_TAB_10",
       "codename": "NEXO_TAB_10",
       "model": "NEXO_TAB_10"

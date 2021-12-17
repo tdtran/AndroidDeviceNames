@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A100",
+      "codename": "A100",
+      "model": "A100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A20",
       "codename": "A20",
       "model": "A20"
@@ -21,8 +27,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A55",
+      "codename": "A55",
+      "model": "A55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A60",
       "codename": "A60",
+      "model": "A60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A60",
+      "codename": "A60_2G",
       "model": "A60"
     },
     {
@@ -51,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A70",
+      "codename": "A70",
+      "model": "A70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A70 Pro",
+      "codename": "A70_Pro",
+      "model": "A70 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A7PRO",
       "codename": "A7Pro",
       "model": "A7Pro"
@@ -69,15 +99,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A80Plus",
+      "codename": "A80Plus",
+      "model": "A80Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A80Pro",
       "codename": "A80Pro",
       "model": "A80Pro"
     },
     {
       "manufacturer": "",
+      "market_name": "A80S",
+      "codename": "A80S",
+      "model": "A80S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9 Pro",
       "codename": "A9_Pro",
       "model": "A9_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A90",
+      "codename": "A90",
+      "model": "A90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL5000",
+      "codename": "BL5000",
+      "model": "BL5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL6000Pro",
+      "codename": "BL6000Pro",
+      "model": "BL6000Pro"
     },
     {
       "manufacturer": "",
@@ -105,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV4900s",
+      "codename": "BV4900s",
+      "model": "BV4900s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV5100",
       "codename": "BV5100",
       "model": "BV5100"
@@ -119,6 +185,12 @@
       "manufacturer": "",
       "market_name": "BV5500",
       "codename": "BV5500",
+      "model": "BV5500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV5500",
+      "codename": "BV5500S",
       "model": "BV5500"
     },
     {
@@ -138,6 +210,12 @@
       "market_name": "BV5500Pro",
       "codename": "BV5500Pro",
       "model": "BV5500Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV5500S",
+      "codename": "BV5500S",
+      "model": "BV5500"
     },
     {
       "manufacturer": "",
@@ -216,6 +294,24 @@
       "market_name": "BV6300Pro",
       "codename": "BV6300Pro",
       "model": "BV6300Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV6600",
+      "codename": "BV6600",
+      "model": "BV6600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV6600E",
+      "codename": "BV6600E",
+      "model": "BV6600E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV6600Pro",
+      "codename": "BV6600Pro",
+      "model": "BV6600Pro"
     },
     {
       "manufacturer": "",
@@ -489,6 +585,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pad8_EEA",
+      "codename": "Pad8_EEA",
+      "model": "Pad8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad8_ROW",
+      "codename": "Pad8_ROW",
+      "model": "Pad8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad8_RU",
+      "codename": "Pad8_RU",
+      "model": "Pad8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S6",
       "codename": "S6",
       "model": "S6"
@@ -519,15 +633,111 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 10",
+      "codename": "Tab_10",
+      "model": "Tab 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab10",
+      "codename": "Tab_10",
+      "model": "Tab 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab11_EEA",
+      "codename": "Tab11_EEA",
+      "model": "Tab11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab11_ROW",
+      "codename": "Tab11_ROW",
+      "model": "Tab11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab11_RU",
+      "codename": "Tab11_RU",
+      "model": "Tab11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab6Kids_EEA",
+      "codename": "Tab6Kids_EEA",
+      "model": "Tab 6 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab6Kids_RU",
+      "codename": "Tab6Kids_RU",
+      "model": "Tab 6 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab6_EEA",
+      "codename": "Tab6_EEA",
+      "model": "Tab 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab6_NEU",
+      "codename": "Tab6_NEU",
+      "model": "Tab 6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab8",
       "codename": "Tab8",
       "model": "Tab8"
     },
     {
       "manufacturer": "",
+      "market_name": "Tab8_EEA",
+      "codename": "Tab8_EEA",
+      "model": "Tab 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab8_NEU",
       "codename": "Tab8_NEU",
       "model": "Tab8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab8_ROW",
+      "codename": "Tab8_ROW",
+      "model": "Tab 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab8_RU",
+      "codename": "Tab8_RU",
+      "model": "Tab8_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab8_RUS",
+      "codename": "Tab8_RUS",
+      "model": "Tab 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab9_EEA",
+      "codename": "Tab9_EEA",
+      "model": "Tab9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab9_NEU",
+      "codename": "Tab9_NEU",
+      "model": "Tab 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab9_RU",
+      "codename": "Tab9_RU",
+      "model": "Tab 9"
     }
   ]
 }

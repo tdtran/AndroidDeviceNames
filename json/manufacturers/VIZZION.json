@@ -1,0 +1,23 @@
+{
+  "manufacturer": "VIZZION",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VIZZION 4K TV",
+      "codename": "SW4H",
+      "model": "VIZZION 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIZZION Smart TV",
+      "codename": "sunnyvale",
+      "model": "VIZZION Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIZZION TV",
+      "codename": "shinjuku",
+      "model": "VIZZION TV"
+    }
+  ]
+}

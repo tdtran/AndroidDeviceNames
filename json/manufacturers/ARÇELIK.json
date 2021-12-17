@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Arçelik",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Arcelik Android TV",
+      "codename": "shinagawa",
+      "model": "Arcelik Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Arçelik Android TV",
+      "codename": "sinchon",
+      "model": "Arcelik Android TV"
+    }
+  ]
+}

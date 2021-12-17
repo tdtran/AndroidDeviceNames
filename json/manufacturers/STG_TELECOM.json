@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STG X20",
+      "codename": "STG_X20",
+      "model": "STG X20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STG X3",
       "codename": "STG_X3",
       "model": "STG X3"
@@ -78,6 +84,12 @@
       "market_name": "STG_C10",
       "codename": "STG_C10",
       "model": "STG_C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STG_K10",
+      "codename": "STG_K10",
+      "model": "STG_K10"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CITY4_EEA",
+      "codename": "CITY4",
+      "model": "CITY4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CITY5",
       "codename": "CITY5",
       "model": "CITY5"
@@ -18,6 +24,12 @@
       "market_name": "CITY55",
       "codename": "CITY55",
       "model": "CITY55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EASY S55P 2021",
+      "codename": "EASY_S55P_2021",
+      "model": "EASY S55P 2021"
     },
     {
       "manufacturer": "",
@@ -45,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EASY_K55",
+      "codename": "EASY_K55",
+      "model": "EASY K55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EASY_S55P",
       "codename": "EASY_S55P",
       "model": "EASY_S55P_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K-TAB1005",
+      "codename": "K-TAB1005",
+      "model": "K-TAB1005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K-TAB703",
+      "codename": "K-TAB703",
+      "model": "K-TAB703"
     },
     {
       "manufacturer": "",
@@ -60,6 +90,12 @@
       "market_name": "KTAB_1003",
       "codename": "KTAB_1003",
       "model": "KTAB_1003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KTAB_1004",
+      "codename": "KTAB_1004",
+      "model": "KTAB_1004"
     },
     {
       "manufacturer": "",
@@ -102,6 +138,30 @@
       "market_name": "SKY_55",
       "codename": "SKY_55",
       "model": "SKY_55_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SOFT5",
+      "codename": "SOFT5",
+      "model": "SOFT5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SOFT5P",
+      "codename": "SOFT5P",
+      "model": "SOFT5P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWEET5",
+      "codename": "SWEET5",
+      "model": "SWEET5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWEET_55",
+      "codename": "SWEET_55",
+      "model": "SWEET 55"
     },
     {
       "manufacturer": "",

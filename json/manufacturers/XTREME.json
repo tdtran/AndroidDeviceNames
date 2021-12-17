@@ -6,6 +6,24 @@
       "market_name": "Android TV",
       "codename": "R1",
       "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XTREME 4K TV",
+      "codename": "SW4H",
+      "model": "XTREME 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XTREME AI TV",
+      "codename": "sunnyvale",
+      "model": "XTREME AI TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XTREME TV",
+      "codename": "shinjuku",
+      "model": "XTREME TV"
     }
   ]
 }

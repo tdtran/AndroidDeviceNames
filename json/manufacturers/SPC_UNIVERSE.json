@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GRAVITY_OCTACORE",
+      "codename": "GRAVITY_OCTACORE",
+      "model": "GRAVITY_OCTACORE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gravity_2019",
       "codename": "GRAVITY_2019",
       "model": "GRAVITY_2019"
@@ -72,6 +78,60 @@
       "market_name": "Lightyear",
       "codename": "Lightyear",
       "model": "Lightyear"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART  2",
+      "codename": "SMART_2",
+      "model": "SMART 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN",
+      "codename": "SPC_GEN",
+      "model": "SPC GEN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN LITE",
+      "codename": "SPC_GEN_LITE",
+      "model": "SPC GEN LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN MAX",
+      "codename": "SPC_GEN_MAX",
+      "model": "SPC GEN MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC GEN PLUS",
+      "codename": "SPC_GEN_PLUS",
+      "model": "SPC GEN PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART",
+      "codename": "SPC_SMART",
+      "model": "SPC SMART"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART LITE",
+      "codename": "SPC_SMART_LITE",
+      "model": "SPC SMART LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART MAX",
+      "codename": "SPC_SMART_MAX",
+      "model": "SPC SMART MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPC SMART PLUS",
+      "codename": "SPC_SMART_PLUS",
+      "model": "SPC SMART PLUS"
     },
     {
       "manufacturer": "",

@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "C6",
+      "codename": "C6_R",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6_P",
       "codename": "C6",
       "model": "C6"
     },

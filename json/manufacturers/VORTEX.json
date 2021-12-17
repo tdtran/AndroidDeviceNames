@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB8",
+      "codename": "TAB8",
+      "model": "TAB8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V50LTE",
       "codename": "V50LTE",
       "model": "V50LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VortexV20",
+      "codename": "VortexV20",
+      "model": "V20"
     }
   ]
 }

@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Smile_1",
+      "codename": "Smile_1",
+      "model": "T803"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smile_X",
+      "codename": "T1028",
+      "model": "Smile_X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1001",
       "codename": "T1001",
       "model": "T1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1021P",
+      "codename": "T1021PM",
+      "model": "T1021P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1021T",
+      "codename": "T1021T",
+      "model": "T1021T"
     },
     {
       "manufacturer": "",
@@ -75,6 +99,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X game",
+      "codename": "T1023",
+      "model": "X_Game"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay 20P",
+      "codename": "T1021P",
+      "model": "iPlay_20P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay 20S",
+      "codename": "T1021",
+      "model": "iPlay20S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay 40H",
+      "codename": "T1020H",
+      "model": "iPlay_40H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay 8 Pro",
       "codename": "T806MH",
       "model": "T806MH"
@@ -87,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay 8T",
+      "codename": "T802",
+      "model": "iPlay_8T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay_20",
       "codename": "iPlay_20",
       "model": "iPlay_20"
@@ -96,6 +150,18 @@
       "market_name": "iPlay_30",
       "codename": "T1012",
       "model": "iPlay_30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay_40",
+      "codename": "T1020S",
+      "model": "iPlay_40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "kPad",
+      "codename": "T1026",
+      "model": "kPad"
     }
   ]
 }

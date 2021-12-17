@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ITAB_X38T",
+      "codename": "ITAB_X38T",
+      "model": "ITAB_X38T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iTAB-A1",
       "codename": "iTAB-A1",
       "model": "iTAB-A1"

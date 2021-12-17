@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ranger 5",
+      "codename": "bcat",
+      "model": "RGR5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TD-520",
       "codename": "td520",
       "model": "TD520"
@@ -87,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TDC600_2",
+      "codename": "TDC600_2",
+      "model": "TDC600_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TDC800 Handheld",
       "codename": "pelican",
       "model": "TDC800"
@@ -108,6 +120,12 @@
       "market_name": "TDI 600",
       "codename": "ulmo_pro",
       "model": "TDI 600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TSC5",
+      "codename": "bcat",
+      "model": "TSC5"
     },
     {
       "manufacturer": "",

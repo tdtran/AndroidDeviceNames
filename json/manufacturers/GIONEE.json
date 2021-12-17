@@ -261,6 +261,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GIONEE M15",
+      "codename": "GIONEE_M15",
+      "model": "GIONEE M15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GIONEE M7L",
       "codename": "GIONEE_SW17G07",
       "model": "GIONEE M7L"
@@ -270,6 +276,24 @@
       "market_name": "GIONEE MAX",
       "codename": "GIONEE_MAX",
       "model": "GIONEE MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE MAX Pro",
+      "codename": "GIONEE_MAX_Pro",
+      "model": "GIONEE_MAX Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE P15",
+      "codename": "GIONEE_P15",
+      "model": "GIONEE P15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE P15 Pro",
+      "codename": "P15_Pro",
+      "model": "P15 Pro"
     },
     {
       "manufacturer": "",
@@ -300,6 +324,12 @@
       "market_name": "GIONEE_M11",
       "codename": "GIONEE_M11",
       "model": "M11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE_P12",
+      "codename": "GIONEE_P12",
+      "model": "GIONEE P12"
     },
     {
       "manufacturer": "",
@@ -567,6 +597,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M61",
+      "codename": "M61",
+      "model": "M61"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M6SLPlus",
       "codename": "GIONEE_G1602A",
       "model": "M6SLPlus"
@@ -648,6 +684,12 @@
       "market_name": "P6",
       "codename": "P6",
       "model": "P6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P61",
+      "codename": "P61",
+      "model": "P61"
     },
     {
       "manufacturer": "",

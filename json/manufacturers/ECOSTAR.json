@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ECOSTAR SMART TV",
+      "codename": "SW4H",
+      "model": "ECOSTAR SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EcostarTV",
       "codename": "shibuya",
       "model": "EcostarTV"

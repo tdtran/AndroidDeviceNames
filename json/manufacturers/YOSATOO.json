@@ -1,0 +1,23 @@
+{
+  "manufacturer": "YOSATOO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KIDS07A",
+      "codename": "KIDS07A",
+      "model": "KIDS07A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10",
+      "codename": "Y10",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y101",
+      "codename": "Y101",
+      "model": "Y101"
+    }
+  ]
+}

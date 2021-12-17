@@ -4,5 +4,11 @@
     "market_name": "B50ProSS",
     "codename": "Bmobile_B50ProSS",
     "model": "B50Pro"
+  },
+  {
+    "manufacturer": "BMobile",
+    "market_name": "B50ProSS_MV03",
+    "codename": "Bmobile_B50ProSS",
+    "model": "B50Pro"
   }
 ]

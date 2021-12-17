@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Honor",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 50",
+      "codename": "HNNTH",
+      "model": "NTH-NX9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 50 Lite",
+      "codename": "HNNTN",
+      "model": "NTN-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 50 Lite",
+      "codename": "HNNTN",
+      "model": "NTN-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 50 Lite",
+      "codename": "HNNTN",
+      "model": "NTN-LX3"
+    }
+  ]
+}

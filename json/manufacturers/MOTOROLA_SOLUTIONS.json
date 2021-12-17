@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EVOLVE",
+      "codename": "EVOLVE",
+      "model": "EVOLVE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LEX F10",
       "codename": "LEXF10",
       "model": "LEX F10"
@@ -24,6 +30,12 @@
       "market_name": "LEX L11",
       "codename": "lexl11g_64",
       "model": "LEX L11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOTRBO ION",
+      "codename": "mkz_sdm660_64",
+      "model": "MSLB-MKZ900"
     },
     {
       "manufacturer": "",

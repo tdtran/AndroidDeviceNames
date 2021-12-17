@@ -12,6 +12,12 @@
       "market_name": "BioWolf_C",
       "codename": "BioWolf_C",
       "model": "BioWolf_C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T4000",
+      "codename": "T4000",
+      "model": "T4000"
     }
   ]
 }

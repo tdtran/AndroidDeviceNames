@@ -4,5 +4,11 @@
     "market_name": "9980",
     "codename": "taishan",
     "model": "SmartTV 8K FFM"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "taishan-jpT",
+    "codename": "taishan",
+    "model": "SmartTV FFM"
   }
 ]

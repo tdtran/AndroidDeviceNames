@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Technika",
+      "codename": "ewha",
+      "model": "TECH-TVE19J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W032I_C3",
       "codename": "w032i_c3",
       "model": "W032I_C3"

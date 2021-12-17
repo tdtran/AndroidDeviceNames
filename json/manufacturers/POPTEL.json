@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Kammunica V10",
+      "codename": "Kammunica_V10",
+      "model": "Kammunica_V10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P60",
       "codename": "P60",
       "model": "P60"

@@ -6,6 +6,12 @@
       "market_name": "LUME",
       "codename": "LPD-10W",
       "model": "LPD-10W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUME",
+      "codename": "LPD-11W",
+      "model": "LPD-11W"
     }
   ]
 }

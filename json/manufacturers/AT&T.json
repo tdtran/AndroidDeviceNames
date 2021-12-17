@@ -9,27 +9,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AT\u0026T TV",
-      "codename": "c71kw200",
-      "model": "AT\u0026T TV"
+      "market_name": "AT\u0026T Maestro™ Plus",
+      "codename": "v350u",
+      "model": "V350U"
     },
     {
       "manufacturer": "",
-      "market_name": "AT\u0026T TV",
-      "codename": "c71kw200",
-      "model": "c71kw200"
+      "market_name": "AT\u0026T Motivate™ 2",
+      "codename": "EA211002",
+      "model": "EA211002"
     },
     {
       "manufacturer": "",
-      "market_name": "AT\u0026T TV",
-      "codename": "c71kw400",
-      "model": "AT\u0026T TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "AT\u0026T TV",
-      "codename": "c71kw400-4gb",
-      "model": "AT\u0026T TV"
+      "market_name": "AT\u0026T RADIANT™ Max 5G",
+      "codename": "EA211001",
+      "model": "EA211001"
     },
     {
       "manufacturer": "",
@@ -54,6 +48,12 @@
       "market_name": "U318AA",
       "codename": "U318AA",
       "model": "U318AA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U319AA",
+      "codename": "U319AA",
+      "model": "U319AA"
     },
     {
       "manufacturer": "",

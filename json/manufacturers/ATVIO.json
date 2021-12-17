@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ATVIO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "100011886BK",
+      "codename": "100011886BK",
+      "model": "100011886BK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATVIO",
+      "codename": "mid7015_mk_32",
+      "model": "MID7015"
+    }
+  ]
+}

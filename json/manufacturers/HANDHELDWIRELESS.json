@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C6",
+      "codename": "C6",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6_EEA",
+      "codename": "C6",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6_TU",
+      "codename": "C6",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X6",
       "codename": "X6",
       "model": "X6"

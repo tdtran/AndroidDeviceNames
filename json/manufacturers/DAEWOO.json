@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Daewoo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DW-TN7RK16",
+      "codename": "DW-TN7RK16",
+      "model": "DW-TN7RK16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Daewoo 4K TV",
+      "codename": "SW4H_FF",
+      "model": "Daewoo 4K TV"
+    }
+  ]
+}

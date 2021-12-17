@@ -18,6 +18,12 @@
       "market_name": "M7Pro",
       "codename": "M7Pro",
       "model": "M7Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8_EEA",
+      "codename": "M8_EEA",
+      "model": "M8"
     }
   ]
 }

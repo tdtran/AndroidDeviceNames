@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KIDS705-701A",
+      "codename": "KIDS705_701A",
+      "model": "KIDS705-701A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KIDS705_701",
       "codename": "KIDS705-701",
       "model": "KIDS705-701"

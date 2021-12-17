@@ -1,0 +1,17 @@
+{
+  "manufacturer": "VISIO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VISIO 4K Android TV",
+      "codename": "SW4H",
+      "model": "VISIO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VISIO TV",
+      "codename": "shinagawa",
+      "model": "VISIO TV"
+    }
+  ]
+}

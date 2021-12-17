@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Fonos",
+    "market_name": "M1",
+    "codename": "M1",
+    "model": "M1"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "LG K7",
     "codename": "m1",

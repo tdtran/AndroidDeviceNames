@@ -6,6 +6,12 @@
       "market_name": "EX10",
       "codename": "EX10",
       "model": "EX10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EX760",
+      "codename": "EX760",
+      "model": "EX760"
     }
   ]
 }

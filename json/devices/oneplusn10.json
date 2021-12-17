@@ -3,6 +3,18 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus Nord N10 5G",
     "codename": "OnePlusN10",
+    "model": "BE2026"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus Nord N10 5G",
+    "codename": "OnePlusN10",
+    "model": "BE2028"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus Nord N10 5G",
+    "codename": "OnePlusN10",
     "model": "BE2029"
   }
 ]

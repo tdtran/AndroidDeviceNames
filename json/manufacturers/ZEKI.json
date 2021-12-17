@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tTBQG1031",
+      "codename": "TBQG1031",
+      "model": "TBQG1031"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TBDG1073",
       "codename": "TBDG1073",
       "model": "TBDG1073"

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CIBER",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "B610A115",
+      "codename": "B610A115",
+      "model": "B610A115"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B610A215",
+      "codename": "B610A215",
+      "model": "B610A215"
+    }
+  ]
+}

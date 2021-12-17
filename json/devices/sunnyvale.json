@@ -1,0 +1,56 @@
+[
+  {
+    "manufacturer": "Indurama",
+    "market_name": "indurama Smart TV",
+    "codename": "sunnyvale",
+    "model": "indurama Smart TV"
+  },
+  {
+    "manufacturer": "Mondial",
+    "market_name": "MONDIAL Smart TV",
+    "codename": "sunnyvale",
+    "model": "MONDIAL Smart TV"
+  },
+  {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "PrismPlus Android TV",
+    "codename": "sunnyvale",
+    "model": "PrismPlus Android TV"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-21AE",
+    "codename": "sunnyvale",
+    "model": "SWTV-21AE"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-21SA",
+    "codename": "sunnyvale",
+    "model": "SWTV-21SA"
+  },
+  {
+    "manufacturer": "Sansui",
+    "market_name": "SANSUI SmartTV",
+    "codename": "sunnyvale",
+    "model": "SANSUI SmartTV"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "SINGER ANDROID TV",
+    "codename": "sunnyvale",
+    "model": "SINGER ANDROID TV"
+  },
+  {
+    "manufacturer": "VIZZION",
+    "market_name": "VIZZION Smart TV",
+    "codename": "sunnyvale",
+    "model": "VIZZION Smart TV"
+  },
+  {
+    "manufacturer": "Xtreme",
+    "market_name": "XTREME AI TV",
+    "codename": "sunnyvale",
+    "model": "XTREME AI TV"
+  }
+]

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Like 11 Panda Pro 2022",
+      "codename": "iHunt",
+      "model": "Like 11 Panda Pro 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Like 4U",
       "codename": "Like_4U",
       "model": "Like_4U"
@@ -93,6 +99,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S21_Plus_2021_EEA",
+      "codename": "S21_Plus_2021_EEA",
+      "model": "S21 Plus 2021_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S21_Ultra_4G_2021_EEA",
+      "codename": "S21_Ultra_4G",
+      "model": "S21 Ultra 4G 2021_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S30 ULTRA APEX 2021",
+      "codename": "S30_ULTRA_APEX_2021",
+      "model": "S30 ULTRA APEX 2021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S60 Discovery Plus",
       "codename": "S60_Discovery_Plus",
       "model": "S60 Discovery Plus"
@@ -108,6 +132,24 @@
       "market_name": "TITAN P11000 PRO",
       "codename": "TITAN_P11000_PRO",
       "model": "TITAN_P11000_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TITAN P15000 PRO 5G",
+      "codename": "P15000PRO_5G",
+      "model": "TITAN P15000 PRO 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet PC 10 PRO",
+      "codename": "Tablet_PC_10_PRO_EEA",
+      "model": "Tablet PC 10 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet_X_EEA",
+      "codename": "Tablet_X",
+      "model": "iHunt STRONG Tablet X PRO"
     },
     {
       "manufacturer": "",
@@ -135,9 +177,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Titan_P4000_Pro_2021_EEA",
+      "codename": "Titan_P4000_Pro",
+      "model": "Titan P4000 Pro 2021_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan_P6000_PRO",
+      "codename": "Titan_P6000_PRO",
+      "model": "Titan_P6000_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan_X_EEA",
+      "codename": "Titan_X_EEA",
+      "model": "iHunt Titan X 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt Cyber Wolf 5G",
+      "codename": "Cyber_Wolf_5G",
+      "model": "iHunt Cyber Wolf 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iHunt S90 Apex",
       "codename": "S90_Apex",
       "model": "S90_Apex"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHuntLike12PRO",
+      "codename": "iHuntLike12PRO",
+      "model": "iHunt Like 12 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt_Like_12_EEA",
+      "codename": "iHunt_Like_12",
+      "model": "iHunt Like 12"
     },
     {
       "manufacturer": "",

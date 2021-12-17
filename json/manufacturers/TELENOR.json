@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MediaBox",
+      "codename": "MediaBox_B866V2",
+      "model": "MediaBox"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N940",
       "codename": "Telenor_N940",
       "model": "Telenor N940"
@@ -90,6 +96,12 @@
       "market_name": "Smart4G",
       "codename": "Telenor_Smart_4G",
       "model": "Telenor_Smart_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telenor Mediahubb",
+      "codename": "vip5702w_tn",
+      "model": "Telenor Mediahubb"
     },
     {
       "manufacturer": "",

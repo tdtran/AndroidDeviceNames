@@ -1245,7 +1245,25 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IN_2b",
+      "codename": "E7544",
+      "model": "IN_2b"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IN_Note1",
+      "codename": "E7746",
+      "model": "IN_Note1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "In1",
+      "codename": "E6746",
+      "model": "IN1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "In_Note1",
       "codename": "E7746",
       "model": "IN_Note1"
     },

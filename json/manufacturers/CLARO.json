@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Claro",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Claro Colombia STB",
+      "codename": "SEI800CCOA",
+      "model": "Claro Colombia STB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Claro STB",
+      "codename": "SEI810CPR",
+      "model": "Claro STB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEI810CPR",
+      "codename": "SEI810CPR",
+      "model": "Claro STB"
+    }
+  ]
+}

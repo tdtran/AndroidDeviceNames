@@ -4,14 +4,14 @@
     {
       "manufacturer": "",
       "market_name": "Australia",
-      "codename": "hanyang",
-      "model": "Svision Android TV"
+      "codename": "nippori",
+      "model": "Svision Android TV 2K"
     },
     {
       "manufacturer": "",
-      "market_name": "Australia",
-      "codename": "nippori",
-      "model": "Svision Android TV 2K"
+      "market_name": "S android TV",
+      "codename": "hanyang",
+      "model": "Svision Android TV"
     }
   ]
 }

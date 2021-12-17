@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "T1_LE",
+      "model": "T770K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Beyond TV",
       "codename": "BeyondTV",
       "model": "BeyondTV"
@@ -39,9 +45,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C02_4K_US",
+      "codename": "BeyondTV",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C06_2K_US",
+      "codename": "C06",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C9",
       "codename": "A3A_XL_4G",
       "model": "5199I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G03_4K_US",
+      "codename": "BeyondTV4",
+      "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G03_4K_US_NF",
+      "codename": "BeyondTV4",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G03_4K_US_NF",
+      "codename": "BeyondTV4",
+      "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G05_4K_US",
+      "codename": "G05",
+      "model": "Smart TV Pro"
     },
     {
       "manufacturer": "",
@@ -123,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV Pro",
+      "codename": "C05",
+      "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smartphone",
       "codename": "A5A_INFINI",
       "model": "5086D"
@@ -138,6 +186,30 @@
       "market_name": "South America",
       "codename": "tcl",
       "model": "Percee TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 10s 2022",
+      "codename": "Odin2",
+      "model": "9081X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 10s 4G 2022",
+      "codename": "Odin2",
+      "model": "9080G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 10s 4G New",
+      "codename": "Odin2",
+      "model": "9080G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 10s New",
+      "codename": "Odin2",
+      "model": "9081X"
     },
     {
       "manufacturer": "",
@@ -221,6 +293,12 @@
       "manufacturer": "",
       "market_name": "TCL 10 SE",
       "codename": "Oakland",
+      "model": "T766S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 SE",
+      "codename": "Oakland",
       "model": "T766U"
     },
     {
@@ -228,6 +306,48 @@
       "market_name": "TCL 10 SE",
       "codename": "Oakland",
       "model": "T766U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX",
+      "codename": "Transformer",
+      "model": "9296G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX",
+      "codename": "Transformer",
+      "model": "9296G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX",
+      "codename": "Transformer",
+      "model": "9296G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX",
+      "codename": "Transformer",
+      "model": "9296G_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX",
+      "codename": "Transformer_WIFI",
+      "model": "9296X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX",
+      "codename": "Transformer_WIFI",
+      "model": "9296X_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 10 TABMAX",
+      "codename": "Transformer_WIFI",
+      "model": "9296X_TR"
     },
     {
       "manufacturer": "",
@@ -243,15 +363,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TCL 10 TABMAX WIFI",
-      "codename": "Transformer_WIFI",
-      "model": "9296X"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TCL 10 TABMAX WIFI",
-      "codename": "Transformer_WIFI",
-      "model": "9296X_EEA"
+      "market_name": "TCL 10 TABMAX 4G",
+      "codename": "Transformer_4G",
+      "model": "9295G_RU"
     },
     {
       "manufacturer": "",
@@ -273,9 +387,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TCL 20 Pro 5G",
-      "codename": "Ottawa",
-      "model": "T810H"
+      "market_name": "TCL 20 R 5G",
+      "codename": "Buffalo",
+      "model": "T767H"
     },
     {
       "manufacturer": "",
@@ -297,6 +411,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 20 SE",
+      "codename": "Austin",
+      "model": "T671O"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 20E",
       "codename": "HONG_KONG",
       "model": "6125A"
@@ -315,9 +435,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 20E",
+      "codename": "HONG_KONG",
+      "model": "6125H_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 20S",
       "codename": "Miami_Pro",
       "model": "T773O"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20Y",
+      "codename": "Hong_Kong_Pro",
+      "model": "6156A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20Y",
+      "codename": "Hong_Kong_Pro",
+      "model": "6156D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20Y",
+      "codename": "Hong_Kong_Pro",
+      "model": "6156H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 20Y",
+      "codename": "Hong_Kong_Pro",
+      "model": "A1 Alpha 21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL A3X",
+      "codename": "Delhi_TF",
+      "model": "A600DL"
     },
     {
       "manufacturer": "",
@@ -489,12 +645,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TCL NXTPAPAER 8.88",
-      "codename": "Da_Vinci",
-      "model": "9288A"
-    },
-    {
-      "manufacturer": "",
       "market_name": "TCL PLEX",
       "codename": "T1",
       "model": "T780H"
@@ -561,6 +711,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 10 FHD 4G",
+      "codename": "Aquaman_10_Pro",
+      "model": "9060G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 10 HD 4G",
       "codename": "Aquaman_10_Pro",
       "model": "9060X"
@@ -576,6 +732,30 @@
       "market_name": "TCL TAB 10 SMART",
       "codename": "Aquaman_10_4G",
       "model": "8094T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10L",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10L",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491X_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10L",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491X_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 10L",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491X_TR"
     },
     {
       "manufacturer": "",
@@ -603,6 +783,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 7 Lite",
+      "codename": "U3A_7_WIFI_Refresh",
+      "model": "9309X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 8 4G",
       "codename": "Apollo_8_4G",
       "model": "9032X"
@@ -615,15 +801,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TKEE MAX New",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491XN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TKEE MAX New",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491XN_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TKEE MAX New",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491XN_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TKEE MAX New",
+      "codename": "Aquaman_10_Smart_WIFI",
+      "model": "8491XN_TR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TKEE MINI",
       "codename": "Hulk_7_KIDS_WIFI",
       "model": "8093"
     },
     {
       "manufacturer": "",
+      "market_name": "TKEE mini",
+      "codename": "Phoenix_7_Kids",
+      "model": "9317G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Union TV",
       "codename": "UnionTV",
       "model": "UnionTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1T7 NEW",
+      "codename": "U3A_7_WIFI_Refresh",
+      "model": "9309X_TR"
     }
   ]
 }

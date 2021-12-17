@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Arçelik",
+    "market_name": "Arçelik Android TV",
+    "codename": "sinchon",
+    "model": "Arcelik Android TV"
+  },
+  {
+    "manufacturer": "Beko",
+    "market_name": "Beko Android TV",
+    "codename": "sinchon",
+    "model": "Beko Android TV"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Grundig Android TV",
+    "codename": "sinchon",
+    "model": "Grundig Android TV"
+  }
+]

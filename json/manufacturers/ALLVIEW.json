@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALLVIEW 4K TV",
+      "codename": "SW4H_FF",
+      "model": "ALLVIEW 4K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX4 Nano Plus",
       "codename": "AX4Nano_plus",
       "model": "AX4Nano_plus"
@@ -155,6 +161,12 @@
       "manufacturer": "",
       "market_name": "AX503",
       "codename": "AX503",
+      "model": "AX503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX503",
+      "codename": "AX503_Q",
       "model": "AX503"
     },
     {
@@ -657,6 +669,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V5 Viper",
+      "codename": "V5_Viper",
+      "model": "V5_Viper"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva  H1003 LTE",
       "codename": "Viva_H1003_LTE",
       "model": "Viva_H1003_LTE"
@@ -677,6 +695,12 @@
       "manufacturer": "",
       "market_name": "Viva 1003G Lite",
       "codename": "Viva_1003G_Lite",
+      "model": "Viva_1003G_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva 1003G Lite",
+      "codename": "Viva_1003G_Lite_Q",
       "model": "Viva_1003G_Lite"
     },
     {
@@ -741,9 +765,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Viva H1003 LTE PRO/1-64GB",
+      "codename": "H1003_LTE_PRO1_64",
+      "model": "H1003_LTE_PRO1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva H1003 LTE PRO/B6",
       "codename": "H1003_LTE_PRO",
       "model": "H1003_LTE_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva H1003 LTE PRO3",
+      "codename": "H1003_LTE_PRO3",
+      "model": "H1003_LTE_PRO3"
     },
     {
       "manufacturer": "",
@@ -1074,6 +1110,18 @@
       "market_name": "X7_Soul_Pro_EEA",
       "codename": "X7_Soul_Pro",
       "model": "X7_Soul_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8 PRO",
+      "codename": "X8_Soul_Pro",
+      "model": "X8_Soul_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8 Soul Style",
+      "codename": "X8_Soul_Style",
+      "model": "X8_Soul_Style"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Tablet_PC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T3G_07",
+      "codename": "T3G_07",
+      "model": "T3G_07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3G_10B",
+      "codename": "T3G_10B",
+      "model": "T3G_10B"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "SMART_KASSEL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ARGENTINA",
+      "codename": "SK3402",
+      "model": "SK3402"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SK3403",
+      "codename": "SK3403",
+      "model": "SK3403"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SK5501",
+      "codename": "SK5501",
+      "model": "SK5501"
+    }
+  ]
+}

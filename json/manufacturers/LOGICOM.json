@@ -381,6 +381,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIKIDS_5",
+      "codename": "LOGIKIDS_5_Rev2_AF",
+      "model": "LOGIKIDS_5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIKIDS_5_Rev2",
       "codename": "LOGIKIDS_5_Rev2",
       "model": "LOGIKIDS_5"
@@ -507,6 +513,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "La_Tab_128",
+      "codename": "La_Tab_128",
+      "model": "La_Tab_128"
+    },
+    {
+      "manufacturer": "",
       "market_name": "La_Tab_292",
       "codename": "La_Tab_292",
       "model": "La Tab 292"
@@ -525,6 +537,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "La_Tab_74_Rev2_AF",
+      "codename": "La_Tab_74_Rev2_AF",
+      "model": "La_Tab_74"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_75",
+      "codename": "La_Tab_75",
+      "model": "La_Tab_75"
+    },
+    {
+      "manufacturer": "",
       "market_name": "La_Tab_Link_101",
       "codename": "La_Tab_Link_101",
       "model": "LOGICOM La Tab Link 101"
@@ -534,6 +558,12 @@
       "market_name": "La_Tab_Link_71_P",
       "codename": "La_Tab_Link_71_P",
       "model": "La_Tab_Link_71_P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La_Tab_Link_73",
+      "codename": "La_Tab_Link_73",
+      "model": "La_Tab_Link_73"
     },
     {
       "manufacturer": "",
@@ -558,6 +588,12 @@
       "market_name": "Le Fit FR",
       "codename": "LeFitFR",
       "model": "Le Fit FR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Fizz",
+      "codename": "Le_Fizz",
+      "model": "Le Fizz"
     },
     {
       "manufacturer": "",
@@ -609,6 +645,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Le Omega",
+      "codename": "Le_Omega",
+      "model": "Le Omega"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Le Prime",
       "codename": "Le_Prime",
       "model": "Le Prime"
@@ -639,9 +681,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Le Swipe",
+      "codename": "LS0591121F",
+      "model": "Le Swipe"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Le UP",
       "codename": "LeUp",
       "model": "Le Up"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Wave",
+      "codename": "Le_Wave",
+      "model": "Le Wave"
     },
     {
       "manufacturer": "",
@@ -669,6 +723,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Logicom La Tab 127 HD",
+      "codename": "La_Tab_127_HD_EEA",
+      "model": "Logicom La Tab 127 HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Logikids",
       "codename": "Logikids_2",
       "model": "Logikids_2"
@@ -684,6 +744,12 @@
       "market_name": "Logikids 4",
       "codename": "logikids4",
       "model": "logikids4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Logikids_10",
+      "codename": "Logikids_10",
+      "model": "Logikids_10"
     },
     {
       "manufacturer": "",

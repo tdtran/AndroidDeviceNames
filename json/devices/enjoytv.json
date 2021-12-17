@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Geniatech",
+    "market_name": "ATV495MAX",
+    "codename": "enjoytv",
+    "model": "ATV495MAX"
+  },
+  {
+    "manufacturer": "Geniatech",
     "market_name": "EnjoyTV",
     "codename": "enjoytv",
     "model": "ATV495MAX"

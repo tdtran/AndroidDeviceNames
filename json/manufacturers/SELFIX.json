@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5",
+      "model": "X5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X7",
       "codename": "X7",
       "model": "X7"

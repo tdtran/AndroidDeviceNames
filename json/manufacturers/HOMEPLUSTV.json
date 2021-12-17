@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Homeplustv",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Homeplus_ATV HCA-6010",
+      "codename": "HCA6010",
+      "model": "HCA-6010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STB-6252C",
+      "codename": "STB6252C",
+      "model": "STB-6252C"
+    }
+  ]
+}

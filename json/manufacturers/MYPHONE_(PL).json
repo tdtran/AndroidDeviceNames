@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer_IRON_3_LTE",
+      "codename": "Hammer_IRON_3_LTEv2",
+      "model": "Hammer_IRON_3_LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer_Iron_2",
       "codename": "Hammer_Iron_2",
       "model": "Hammer Iron 2"
@@ -126,6 +132,12 @@
       "market_name": "myPhone Fun 6",
       "codename": "myPhone_Fun_6",
       "model": "myPhone_Fun_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone Fun 9",
+      "codename": "myPhone_Fun_9",
+      "model": "myPhone_Fun_9"
     },
     {
       "manufacturer": "",

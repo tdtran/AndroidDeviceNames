@@ -21,7 +21,73 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HiPad-Air",
+      "codename": "HiPad-Air",
+      "model": "HiPad-Air"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPad-Air-EEA",
+      "codename": "HiPad-Air",
+      "model": "HiPad-Air"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPadPlus_11_EEA",
+      "codename": "HiPadPlus",
+      "model": "HiPadPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPadPlus_EEA",
+      "codename": "HiPadPlus",
+      "model": "HiPad Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPadPlus_ROW",
+      "codename": "HiPadPlus",
+      "model": "HiPadPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPadPlus_RU",
+      "codename": "HiPadPlus",
+      "model": "HiPadPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPadPlus_TR",
+      "codename": "HiPadPlus",
+      "model": "HiPadPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPadX_11",
+      "codename": "HiPadX",
+      "model": "HiPadX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPad_Pro",
+      "codename": "CH108Q",
+      "model": "HiPad Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HipadX",
+      "codename": "HipadX",
+      "model": "HiPad X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HipadX_eea_1",
+      "codename": "HipadX",
+      "model": "HiPad X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HipadX_ru",
       "codename": "HipadX",
       "model": "HiPad X"
     },

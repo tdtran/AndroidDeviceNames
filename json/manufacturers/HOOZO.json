@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KTLA133",
+      "codename": "KTLA133",
+      "model": "KTLA133"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MA768",
       "codename": "MA768",
       "model": "MA768"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MBR05",
+      "codename": "MBR05",
+      "model": "MBR05"
     },
     {
       "manufacturer": "",
@@ -54,6 +66,12 @@
       "market_name": "MZ10863W",
       "codename": "MZ10863W",
       "model": "MZ10863W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MZS10",
+      "codename": "MZS10",
+      "model": "MZS10"
     },
     {
       "manufacturer": "",

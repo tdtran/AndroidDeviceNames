@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "1016TPC",
+      "codename": "1016TPC",
+      "model": "1016TPC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1070TPC",
       "codename": "tulip-d100",
       "model": "1070TPC"
@@ -30,6 +36,12 @@
       "market_name": "788TPCII",
       "codename": "iView_788TPCII",
       "model": "788TPCII"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "816TPC",
+      "codename": "816TPC",
+      "model": "816TPC"
     },
     {
       "manufacturer": "",

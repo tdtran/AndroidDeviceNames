@@ -1,0 +1,23 @@
+{
+  "manufacturer": "OMIX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MixTab Pro",
+      "codename": "MixTab_Pro",
+      "model": "MixTab Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X300",
+      "codename": "X300",
+      "model": "OMIX X300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X500",
+      "codename": "X500",
+      "model": "OMIX X500"
+    }
+  ]
+}

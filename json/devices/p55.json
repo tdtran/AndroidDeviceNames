@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "PCD Argentina",
+    "market_name": "P55",
+    "codename": "P55",
+    "model": "P55"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "P55",
     "codename": "P55",

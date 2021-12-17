@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SC-2110A",
+      "codename": "SC_2110A",
+      "model": "SC-2110A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SC-4317BT",
       "codename": "SC-4317BT",
       "model": "SC-4317BT"
@@ -30,6 +36,12 @@
       "market_name": "SC-813",
       "codename": "SC-813",
       "model": "SC-813"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SC-9810",
+      "codename": "Hatch_102S",
+      "model": "Hatch_102S"
     },
     {
       "manufacturer": "",
@@ -78,6 +90,12 @@
       "market_name": "TAB7091",
       "codename": "TAB7091",
       "model": "TAB7091"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "USA",
+      "codename": "yeongdeungpo",
+      "model": "SUPERSONIC UHD Android TV"
     }
   ]
 }

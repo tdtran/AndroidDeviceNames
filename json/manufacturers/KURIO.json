@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kurio Smart 2 in 1 PRO",
+      "codename": "Aquaman_10_WIFI",
+      "model": "8391X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kurio Smart 2 in 1 PRO",
+      "codename": "Aquaman_10_WIFI",
+      "model": "8391X_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kurio Tab",
       "codename": "Hulk_7_KIDS_WIFI",
       "model": "8076"
@@ -18,6 +30,12 @@
       "market_name": "Kurio Tab",
       "codename": "Hulk_7_KIDS_WIFI",
       "model": "8076_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart Tab 7",
+      "codename": "Phoenix_7_KD",
+      "model": "9317H"
     },
     {
       "manufacturer": "",

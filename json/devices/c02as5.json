@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "KDDI",
+    "market_name": "C02AS5",
+    "codename": "C02AS5",
+    "model": "C02AS5"
+  },
+  {
+    "manufacturer": "KDDI",
     "market_name": "Cableplus STB-2",
     "codename": "C02AS5",
     "model": "C02AS5"

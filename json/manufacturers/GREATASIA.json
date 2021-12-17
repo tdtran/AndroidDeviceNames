@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E101GC",
+      "codename": "E101GC",
+      "model": "E101GC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E101GC4G",
       "codename": "E101GC4G",
       "model": "E101GC4G"
@@ -12,6 +18,12 @@
       "market_name": "E101GCM",
       "codename": "E101GCM",
       "model": "E101GCM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E108GC",
+      "codename": "E108GC",
+      "model": "E108GC"
     },
     {
       "manufacturer": "",

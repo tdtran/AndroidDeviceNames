@@ -1,0 +1,17 @@
+{
+  "manufacturer": "VICTUS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VRS5_Plus",
+      "codename": "VRS5_Plus",
+      "model": "VRS5_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VRS6_Plus",
+      "codename": "VRS6_Plus",
+      "model": "VRS6 Plus"
+    }
+  ]
+}

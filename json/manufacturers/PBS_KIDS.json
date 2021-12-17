@@ -1,0 +1,17 @@
+{
+  "manufacturer": "PBS Kids",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PBDV704DVDB",
+      "codename": "PBDV704DVDB",
+      "model": "PBDV704DVDB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBS700DVD",
+      "codename": "PBS700DVD",
+      "model": "PBS700DVD"
+    }
+  ]
+}

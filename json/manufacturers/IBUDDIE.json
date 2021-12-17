@@ -108,6 +108,18 @@
       "market_name": "TU10MK1_1",
       "codename": "TU10MK1_1",
       "model": "TU10MK1_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TU11MK1_1",
+      "codename": "TU11MK1_1",
+      "model": "TU11MK1_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TU11MK1_2",
+      "codename": "TU11MK1_2",
+      "model": "TU11MK1_2"
     }
   ]
 }

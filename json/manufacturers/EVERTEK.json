@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E8224HG",
+      "codename": "E8224HG",
+      "model": "E8224HG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hero",
       "codename": "Hero",
       "model": "Hero"
@@ -48,6 +54,54 @@
       "market_name": "M20 Mini",
       "codename": "M20_Mini",
       "model": "M20 Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20 NANO",
+      "codename": "M20_NANO",
+      "model": "M20 NANO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20+Pro",
+      "codename": "M20_Pro",
+      "model": "M20+Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20S_Mini",
+      "codename": "EVERTEK_M20S_Mini",
+      "model": "M20S Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20_Pro",
+      "codename": "M20_Pro",
+      "model": "M20_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20_S",
+      "codename": "M20_S",
+      "model": "M20 S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P17",
+      "codename": "P17",
+      "model": "P17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P17_Pro",
+      "codename": "P17_Pro",
+      "model": "P17_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P18_Pro",
+      "codename": "P18_Pro",
+      "model": "P18_Pro"
     },
     {
       "manufacturer": "",

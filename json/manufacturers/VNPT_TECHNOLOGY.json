@@ -6,6 +6,12 @@
       "market_name": "VNPT SmartBox 2x",
       "codename": "vnptt_smb_v2x",
       "model": "VNPT SmartBox 2x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VNT_Tab8",
+      "codename": "VNT_Tab8",
+      "model": "VNT_Tab8"
     }
   ]
 }

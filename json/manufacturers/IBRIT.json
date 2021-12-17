@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAX12",
+      "codename": "MAX12",
+      "model": "MAX12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAX15",
+      "codename": "MAX15",
+      "model": "MAX15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAX4",
       "codename": "MAX4",
       "model": "MAX4"

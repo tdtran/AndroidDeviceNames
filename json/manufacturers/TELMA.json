@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S_Max",
+      "codename": "S_Max",
+      "model": "S_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TELMA FEEL",
       "codename": "TELMA_FEEL",
       "model": "TELMA FEEL"
@@ -54,6 +60,12 @@
       "market_name": "Telma i401",
       "codename": "telma_i401",
       "model": "telma i401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telma_F1Prime4G",
+      "codename": "Telma_F1Prime4G",
+      "model": "F1 Prime 4G"
     },
     {
       "manufacturer": "",

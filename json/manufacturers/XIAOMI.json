@@ -555,6 +555,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MIX 4",
+      "codename": "odin",
+      "model": "2106118C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi 10",
       "codename": "umi",
       "model": "Mi 10"
@@ -609,6 +615,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi 10S",
+      "codename": "thyme",
+      "model": "M2102J2SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 10S",
+      "codename": "thyme",
+      "model": "Thyme"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi 10T",
       "codename": "apollo",
       "model": "M2007J3SP"
@@ -648,6 +666,60 @@
       "market_name": "Mi 11",
       "codename": "venus",
       "model": "M2011K2C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11",
+      "codename": "venus",
+      "model": "M2011K2G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11 Lite",
+      "codename": "courbet",
+      "model": "M2101K9AG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11 Lite 5G",
+      "codename": "renoir",
+      "model": "M2101K9C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11 Lite 5G",
+      "codename": "renoir",
+      "model": "M2101K9G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11 Pro",
+      "codename": "mars",
+      "model": "M2102K1AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11 Ultra",
+      "codename": "star",
+      "model": "M2102K1C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11 Ultra",
+      "codename": "star",
+      "model": "M2102K1G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11X Pro",
+      "codename": "haydnin",
+      "model": "M2012K11I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11i",
+      "codename": "haydn",
+      "model": "M2012K11G"
     },
     {
       "manufacturer": "",
@@ -850,6 +922,12 @@
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "croods",
+      "model": "MiTV-MOOQ0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "dangal",
       "model": "MiTV-AXSO0"
     },
@@ -864,6 +942,12 @@
       "market_name": "MiTV",
       "codename": "dangalUHD",
       "model": "MiTV-AXSO2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "hermano",
+      "model": "MiTV-MOSR0"
     },
     {
       "manufacturer": "",
@@ -1170,6 +1254,66 @@
       "market_name": "TELEBEE",
       "codename": "once",
       "model": "MIBOX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 11 Lite 5G NE",
+      "codename": "lisa",
+      "model": "2109119DG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 11 Lite NE",
+      "codename": "lisa",
+      "model": "2109119DI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 11T",
+      "codename": "amber",
+      "model": "21081111RG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 11T Pro",
+      "codename": "vili",
+      "model": "2107113SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 11T Pro",
+      "codename": "vili",
+      "model": "2107113SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 11T Pro",
+      "codename": "vili",
+      "model": "2107113SR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Civi",
+      "codename": "mona",
+      "model": "2109119BC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 5",
+      "codename": "nabu",
+      "model": "21051182C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 5 Pro",
+      "codename": "elish",
+      "model": "M2105K81AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 5 Pro 5G",
+      "codename": "enuma",
+      "model": "M2105K81C"
     },
     {
       "manufacturer": "",

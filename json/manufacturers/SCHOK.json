@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SV55216",
+      "codename": "SV55216",
+      "model": "Schok Volt SV55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "freedom turbo",
       "codename": "SFT5216",
       "model": "freedom turbo"

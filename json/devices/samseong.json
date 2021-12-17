@@ -12,6 +12,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "ARRQW",
+    "market_name": "RO-55LCS",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Aiwa",
     "market_name": "AW-LED50X6FL",
     "codename": "samseong",
@@ -20,12 +26,6 @@
   {
     "manufacturer": "Alpha",
     "market_name": "Alpha 43G7NUA",
-    "codename": "samseong",
-    "model": "AI PONT"
-  },
-  {
-    "manufacturer": "Arrow",
-    "market_name": "RO-55LCS",
     "codename": "samseong",
     "model": "AI PONT"
   },
@@ -44,6 +44,18 @@
   {
     "manufacturer": "BenQ",
     "market_name": "E55-720",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Smart TV",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Bravis",
+    "market_name": "H7000",
     "codename": "samseong",
     "model": "AI PONT"
   },
@@ -120,6 +132,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Itel",
+    "market_name": "G5524BE",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "LT-50KD507",
     "codename": "samseong",
@@ -144,6 +162,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Kubo",
+    "market_name": "Smart TV",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Nikkei",
     "market_name": "NI43UG7NA9",
     "codename": "samseong",
@@ -158,6 +182,12 @@
   {
     "manufacturer": "OK (Mediamark)",
     "market_name": "ODL50672U-TAB",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "Smart TV",
     "codename": "samseong",
     "model": "AI PONT"
   },
@@ -186,8 +216,26 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Swosh",
+    "market_name": "AndroidTV",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Swosh",
+    "market_name": "Smart TV",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Syinix",
     "market_name": "55A1S",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "TECO",
+    "market_name": "TL55U12TRE",
     "codename": "samseong",
     "model": "AI PONT"
   },
@@ -199,7 +247,7 @@
   },
   {
     "manufacturer": "Vsmart",
-    "market_name": "55KD6800",
+    "market_name": "VINATV 4K",
     "codename": "samseong",
     "model": "VINATV 4K"
   },

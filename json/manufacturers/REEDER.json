@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10SPlus",
+      "codename": "M10SPlus",
+      "model": "M10SPlus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10_Blue_Max",
       "codename": "M10_Blue_Max",
       "model": "M10_Blue_Max"
@@ -48,6 +54,12 @@
       "market_name": "M8 Go",
       "codename": "M8_Go",
       "model": "M8_Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8Go2020",
+      "codename": "M8Go2020",
+      "model": "M8Go2020"
     },
     {
       "manufacturer": "",
@@ -99,6 +111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13 Blue  Max Lite 32GB",
+      "codename": "P13_BML_32",
+      "model": "P13 Blue Max Lite 32GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue 2022",
+      "codename": "P13_Blue_2022",
+      "model": "P13 Blue 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13 Blue Maks",
       "codename": "P13_Blue_Maks",
       "model": "P13_Blue_Maks"
@@ -111,9 +135,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13 Blue Max 128 GB",
+      "codename": "P13_Blue_Max_128_GB",
+      "model": "P13 Blue Max 128 GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13 Blue Max Lite",
       "codename": "P13_BML",
       "model": "P13 Blue Max Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue Max Pro",
+      "codename": "P13_Blue_Max_Pro",
+      "model": "P13 Blue Max Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue Max Pro 2021",
+      "codename": "P13_Blue_Max_Pro_2021",
+      "model": "P13 Blue Max Pro 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue MaxL 2022",
+      "codename": "P13_Blue_MaxL_2022",
+      "model": "P13 Blue MaxL 2022"
     },
     {
       "manufacturer": "",
@@ -123,9 +171,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13 Blue Pro Lite",
+      "codename": "P13_Blue_Max_PL",
+      "model": "P13 Blue Max PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Max Blue",
+      "codename": "P13_Max_Blue",
+      "model": "P13_Max_Blue"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13_Black",
       "codename": "P13_Black",
       "model": "P13_Black"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13_Blue_2021",
+      "codename": "P13_Blue_2021",
+      "model": "P13 Blue 2021"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hot 1",
+      "codename": "Hot_1",
+      "model": "Hot 1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hot 5",
       "codename": "Hot_5",
       "model": "Hot 5"

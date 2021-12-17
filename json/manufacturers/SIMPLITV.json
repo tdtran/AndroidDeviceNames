@@ -1,0 +1,17 @@
+{
+  "manufacturer": "simpliTV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Strong-SRT4150",
+      "codename": "HY43X",
+      "model": "Strong-SRT4150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Strong-SRT4250",
+      "codename": "HY43X",
+      "model": "Strong-SRT4250"
+    }
+  ]
+}

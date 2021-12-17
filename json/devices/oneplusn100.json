@@ -3,6 +3,12 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus Nord N100",
     "codename": "OnePlusN100",
+    "model": "BE2011"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus Nord N100",
+    "codename": "OnePlusN100",
     "model": "BE2013"
   }
 ]

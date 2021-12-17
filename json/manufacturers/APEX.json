@@ -24,6 +24,18 @@
       "market_name": "TM785CH",
       "codename": "tm785ch",
       "model": "TM785CH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U10",
+      "codename": "U10",
+      "model": "U10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z4PRO",
+      "codename": "Z4PRO",
+      "model": "Z4PRO"
     }
   ]
 }

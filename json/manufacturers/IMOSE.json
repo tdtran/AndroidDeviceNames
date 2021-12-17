@@ -6,6 +6,12 @@
       "market_name": "BAM-II",
       "codename": "BAM-II",
       "model": "BAM-II"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omotab2",
+      "codename": "Omotab2",
+      "model": "Omotab2"
     }
   ]
 }

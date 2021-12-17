@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Elite C55",
+      "codename": "Elite_C55USA",
+      "model": "Elite C55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sky TV Stick",
       "codename": "DV6067Y_SKY",
       "model": "Sky TV Stick"

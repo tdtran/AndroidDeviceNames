@@ -10,5 +10,11 @@
     "market_name": "Galaxy M21",
     "codename": "m21",
     "model": "SM-M215F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M21 2021 Edition",
+    "codename": "m21",
+    "model": "SM-M215G"
   }
 ]

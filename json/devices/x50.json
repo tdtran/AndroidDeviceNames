@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cubot",
+    "market_name": "X50",
+    "codename": "X50",
+    "model": "X50"
+  },
+  {
     "manufacturer": "Doogee",
     "market_name": "X50",
     "codename": "X50",

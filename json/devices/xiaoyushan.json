@@ -37,6 +37,12 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "xiaoyushan_panavox",
+    "codename": "xiaoyushan",
+    "model": "Panavox Android TV"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "xiaoyushan_riviera",
     "codename": "xiaoyushan",
     "model": "HiSmartTV A4"
@@ -62,6 +68,12 @@
   {
     "manufacturer": "Vu Televisions",
     "market_name": "xiaoyushan-vu",
+    "codename": "xiaoyushan",
+    "model": "HiSmartTV A4"
+  },
+  {
+    "manufacturer": "Wansa",
+    "market_name": "xiaoyushan_emW",
     "codename": "xiaoyushan",
     "model": "HiSmartTV A4"
   }

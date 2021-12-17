@@ -3,9 +3,9 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "55KD6800",
-      "codename": "samseong",
-      "model": "VINATV 4K"
+      "market_name": "AT\u0026T Fusion Z",
+      "codename": "v340u",
+      "model": "V340U"
     },
     {
       "manufacturer": "",
@@ -66,6 +66,12 @@
       "market_name": "Bee Lite",
       "codename": "rice",
       "model": "Bee Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hobson",
+      "codename": "v341u",
+      "model": "V341U"
     },
     {
       "manufacturer": "",
@@ -135,8 +141,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Star 5",
+      "codename": "fivestar",
+      "model": "Star 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VINATV 4K",
       "codename": "TR2001",
+      "model": "VINATV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VINATV 4K",
+      "codename": "samseong",
       "model": "VINATV 4K"
     },
     {
@@ -144,6 +162,12 @@
       "market_name": "VINTV 2K",
       "codename": "TR2002",
       "model": "VINTV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VINTV 4K",
+      "codename": "TR2003",
+      "model": "VINTV 4K"
     }
   ]
 }

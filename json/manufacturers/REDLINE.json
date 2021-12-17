@@ -1,0 +1,29 @@
+{
+  "manufacturer": "REDLINE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Space_A10",
+      "codename": "Space_A10",
+      "model": "Space_A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Space_A18",
+      "codename": "Space_A8",
+      "model": "Space_A8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Space_M10",
+      "codename": "Space_M10",
+      "model": "Space_M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Space_M10Pro",
+      "codename": "Space_M10Pro",
+      "model": "Space_M10Pro"
+    }
+  ]
+}

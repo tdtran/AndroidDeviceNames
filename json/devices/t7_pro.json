@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "MAGCH",
+    "market_name": "T7",
+    "codename": "T7_Pro",
+    "model": "T7"
+  },
+  {
     "manufacturer": "ONDA TLC",
     "market_name": "T7 Pro",
     "codename": "T7_PRO",

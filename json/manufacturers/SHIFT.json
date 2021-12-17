@@ -6,6 +6,12 @@
       "market_name": "SHIFT6m",
       "codename": "SHIFT6m",
       "model": "SHIFT6m"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHIFT6mq",
+      "codename": "axolotl",
+      "model": "SHIFT6mq"
     }
   ]
 }

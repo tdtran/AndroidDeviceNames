@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Australia",
-      "codename": "hanyang",
-      "model": "Linsar Android TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Linsar",
       "codename": "bangbae",
       "model": "Linsar 4K Android TV"
@@ -24,6 +18,12 @@
       "market_name": "Linsar",
       "codename": "sadang",
       "model": "Linsar UK 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Linsar android TV",
+      "codename": "hanyang",
+      "model": "Linsar Android TV"
     },
     {
       "manufacturer": "",

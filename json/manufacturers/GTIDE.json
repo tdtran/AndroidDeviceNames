@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EX750",
+      "codename": "EX750",
+      "model": "EX750"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EXTREME X9",
       "codename": "EXTREME_X9",
       "model": "EXTREME X9"
@@ -12,6 +18,84 @@
       "market_name": "FANS7",
       "codename": "FANS7",
       "model": "G-TiDE FANS7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_H1_1",
+      "codename": "G-TiDE_H1_1",
+      "model": "G-TiDE_H1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_H1_2",
+      "codename": "G-TiDE_H1_2",
+      "model": "G-TiDE_H1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_H1_3",
+      "codename": "G-TiDE_H1_3",
+      "model": "G-TiDE_H1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_H1_4",
+      "codename": "G-TiDE_H1_4",
+      "model": "G-TiDE_H1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_H1_4G",
+      "codename": "G-TiDE_H1_4G",
+      "model": "G-TiDE_H1_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_H1_EEA",
+      "codename": "G-TiDE_H1_EEA",
+      "model": "G-TiDE_H1_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_P1",
+      "codename": "G-TiDE_P1",
+      "model": "G-TiDE_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_P1_1",
+      "codename": "G-TiDE_P1_1",
+      "model": "G-TiDE_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_P1_2",
+      "codename": "G-TiDE_P1_2",
+      "model": "G-TiDE_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_P1_3",
+      "codename": "G-TiDE_P1_3",
+      "model": "G-TiDE_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_P1_4",
+      "codename": "G-TiDE_P1_4",
+      "model": "G-TiDE_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-TiDE_P1_4G",
+      "codename": "G-TiDE_P1_4G",
+      "model": "G-TiDE_P1_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PL1080",
+      "codename": "G-TiDE_H1_4G_EEA",
+      "model": "G-TiDE_H1_4G"
     }
   ]
 }

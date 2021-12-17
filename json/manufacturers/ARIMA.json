@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Arima",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A100",
+      "codename": "A100",
+      "model": "A100"
+    }
+  ]
+}

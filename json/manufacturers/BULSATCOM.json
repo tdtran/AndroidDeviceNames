@@ -1,0 +1,17 @@
+{
+  "manufacturer": "BULSATCOM",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UPD-BJ00R",
+      "codename": "UPD-BJ00R",
+      "model": "UPD-BJ00R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "b-box",
+      "codename": "HP44H",
+      "model": "b-box"
+    }
+  ]
+}

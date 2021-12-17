@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Minister",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    }
+  ]
+}

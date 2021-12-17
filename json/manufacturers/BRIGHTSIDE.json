@@ -12,6 +12,12 @@
       "market_name": "BS701",
       "codename": "BS701",
       "model": "BS701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KS_T01",
+      "codename": "KS_T01",
+      "model": "KS_T01"
     }
   ]
 }

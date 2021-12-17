@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOTE1",
+      "codename": "NOTE1",
+      "model": "NOTE1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE2",
       "codename": "NOTE2",
       "model": "NOTE2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11",
+      "codename": "S11",
+      "model": "S11"
     },
     {
       "manufacturer": "",

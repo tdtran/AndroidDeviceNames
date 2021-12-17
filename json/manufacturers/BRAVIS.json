@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H7000",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M9",
       "codename": "M9",
       "model": "M9"

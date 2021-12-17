@@ -33,6 +33,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MTC",
+      "codename": "seocho",
+      "model": "DWSUMMUS 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MTC",
+      "codename": "seocho",
+      "model": "Posfic 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MTC",
+      "codename": "seocho",
+      "model": "WasabiMango 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Osmartphona",
+      "codename": "Osmartphona",
+      "model": "Osmartphona"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartEver",
       "codename": "seocho",
       "model": "SmartEver 4K Android TV"

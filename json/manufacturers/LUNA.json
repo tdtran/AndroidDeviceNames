@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LUNA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LUNA G9",
+      "codename": "LUNA_G9",
+      "model": "LUNA G9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUNA_G6E",
+      "codename": "G6E",
+      "model": "LUNA G6E"
+    }
+  ]
+}

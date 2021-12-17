@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kicka 5",
+      "codename": "Kicka_5_U",
+      "model": "Kicka 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kicka 5 Plus",
       "codename": "Kicka_5_Plus",
       "model": "Kicka 5 Plus"
@@ -83,6 +89,12 @@
       "manufacturer": "",
       "market_name": "Kicka 5 Plus 4G",
       "codename": "K5P_4G",
+      "model": "Kicka 5 Plus 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kicka 5 Plus 4G",
+      "codename": "K5P_4G_U",
       "model": "Kicka 5 Plus 4G"
     },
     {
@@ -183,8 +195,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart C11",
+      "codename": "Kicka_5_U",
+      "model": "Smart C11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart E11",
       "codename": "Smart_E11",
+      "model": "SmartE11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart E11",
+      "codename": "Smart_E11_1",
       "model": "SmartE11"
     },
     {
@@ -192,6 +216,12 @@
       "market_name": "Smart N11",
       "codename": "Smart_N11",
       "model": "SmartN11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart N12",
+      "codename": "Smart_N12",
+      "model": "SmartN12"
     },
     {
       "manufacturer": "",

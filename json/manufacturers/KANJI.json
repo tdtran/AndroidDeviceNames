@@ -9,6 +9,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KJ-AC02",
+      "codename": "KJ-AC02",
+      "model": "KJ-AC02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KJ-AC05",
+      "codename": "KJ_AC05",
+      "model": "KJ-AC05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KJ-ARIZONA",
+      "codename": "KJ_ARIZONA",
+      "model": "KJ-ARIZONA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KJ-OB02",
+      "codename": "KJ-OB02",
+      "model": "KJ-OB02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KJ-YUBI",
       "codename": "KJ-YUBI",
       "model": "KJ-YUBI"

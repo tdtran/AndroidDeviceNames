@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IX1013",
+      "codename": "IX1013",
+      "model": "IX1013"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IX701",
       "codename": "IX701",
       "model": "IX701"

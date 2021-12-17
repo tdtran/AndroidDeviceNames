@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Halo4",
+      "codename": "Halo4",
+      "model": "Halo4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Halo4 Pro",
       "codename": "Halo4_Pro",
       "model": "Halo4 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mega3_Pro",
+      "codename": "Mega3_Pro",
+      "model": "Mega3_Pro"
     },
     {
       "manufacturer": "",

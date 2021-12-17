@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K8",
+      "codename": "Koobee_K8",
+      "model": "K8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Koobee K60",
       "codename": "Koobee_K60",
       "model": "K60"

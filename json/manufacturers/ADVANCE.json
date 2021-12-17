@@ -81,9 +81,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PR5860",
+      "codename": "PR5860",
+      "model": "PR5860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PR6149",
+      "codename": "PR6149",
+      "model": "PR6149"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PR6152",
+      "codename": "PR6152",
+      "model": "PR6152"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PR6152-ADV",
+      "codename": "PR6152-ADV",
+      "model": "PR6152-ADV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PR6167",
+      "codename": "PR6171",
+      "model": "PR6171"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PR7145",
       "codename": "PR7145",
       "model": "PR7145"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pr5650",
+      "codename": "Pr5650",
+      "model": "Pr5650"
     },
     {
       "manufacturer": "",
@@ -117,9 +153,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP4702",
+      "codename": "SP4702",
+      "model": "SP4702"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP4872",
       "codename": "SP4872",
       "model": "SP4872"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5702",
+      "codename": "SP5702",
+      "model": "SP5702"
     },
     {
       "manufacturer": "",
@@ -129,9 +177,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP5732",
+      "codename": "SP5732",
+      "model": "SP5732"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP5760",
       "codename": "SP5760",
       "model": "SP5760"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5775",
+      "codename": "SP5775",
+      "model": "SP5775"
     },
     {
       "manufacturer": "",
@@ -165,9 +225,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TR6949",
+      "codename": "TR6949",
+      "model": "TR6949"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TR7988",
       "codename": "TR7988",
       "model": "TR7988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR7989",
+      "codename": "TR7989",
+      "model": "TR7989"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR7998",
+      "codename": "TR7998",
+      "model": "TR7998"
     },
     {
       "manufacturer": "",

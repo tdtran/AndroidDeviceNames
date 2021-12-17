@@ -12,6 +12,12 @@
     "model": "FPT_X10"
   },
   {
+    "manufacturer": "Gplus",
+    "market_name": "X10",
+    "codename": "X10",
+    "model": "Gplus X10"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "G Vista",
     "codename": "x10",
@@ -46,6 +52,12 @@
     "market_name": "QSmart X10",
     "codename": "X10",
     "model": "QSmart X10"
+  },
+  {
+    "manufacturer": "Vankyo",
+    "market_name": "X10",
+    "codename": "X10",
+    "model": "X10"
   },
   {
     "manufacturer": "xTouch",

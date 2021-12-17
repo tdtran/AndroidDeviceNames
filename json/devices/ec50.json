@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Zebra",
+    "market_name": "EC50",
+    "codename": "EC50",
+    "model": "EC50"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "EC50SA AOSP",
+    "codename": "EC50",
+    "model": "EC50"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "EC50SANF AOSP",
+    "codename": "EC50",
+    "model": "EC50"
+  }
+]

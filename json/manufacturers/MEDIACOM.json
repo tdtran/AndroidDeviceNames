@@ -57,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1DY",
+      "codename": "1DY",
+      "model": "1DY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1DY4G_eea",
       "codename": "1DY4G_eea",
       "model": "1DY4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1HY4G",
+      "codename": "1HY4G",
+      "model": "1HY4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1IY4G",
+      "codename": "1IY4G",
+      "model": "1IY4G"
     },
     {
       "manufacturer": "",
@@ -90,6 +108,18 @@
       "market_name": "8BY_EEA",
       "codename": "8BY",
       "model": "8BY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8CY",
+      "codename": "8CY",
+      "model": "8CY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8DY",
+      "codename": "M-SP8DY_EEA",
+      "model": "8DY"
     },
     {
       "manufacturer": "",
@@ -180,6 +210,30 @@
       "market_name": "M-SP1AGO3G",
       "codename": "M-SP1AGO3G",
       "model": "M-SP1AGO3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-SP1AZ2TW_EEA",
+      "codename": "M-SP1AZ2TW",
+      "model": "Azimut2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-SP1AZ3L",
+      "codename": "M-SP1AZ3L",
+      "model": "M-SP1AZ3L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-SP1AZ3_EEA",
+      "codename": "M-SP1AZ3",
+      "model": "M-SP1AZ3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-SP1EY",
+      "codename": "M-SP1EY_EEA",
+      "model": "1EY"
     },
     {
       "manufacturer": "",

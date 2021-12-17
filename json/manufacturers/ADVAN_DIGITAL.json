@@ -123,9 +123,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G5 Plus",
+      "codename": "ADVAN_G5_Plus",
+      "model": "6501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G9",
       "codename": "ADVAN_G9",
       "model": "6501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX",
+      "codename": "ADVAN_GX",
+      "model": "6801"
     },
     {
       "manufacturer": "",
@@ -282,6 +294,12 @@
       "market_name": "TAB Gallilea",
       "codename": "ADVAN_TAB_Gallilea",
       "model": "8003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB VX",
+      "codename": "ADVAN_TAB_VX",
+      "model": "1013"
     },
     {
       "manufacturer": "",

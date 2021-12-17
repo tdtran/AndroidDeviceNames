@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y10_1",
+      "codename": "Y10_1",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10_1_EEA",
+      "codename": "Y10_1_EEA",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y10_EEA",
       "codename": "Y10_EEA",
       "model": "Y10"
@@ -17,6 +29,18 @@
       "manufacturer": "",
       "market_name": "Y7",
       "codename": "Y7",
+      "model": "Y7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y7",
+      "codename": "Y7_0",
+      "model": "Y7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y7",
+      "codename": "Y7_0_EEA",
       "model": "Y7"
     },
     {

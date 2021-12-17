@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V608C",
+      "codename": "V608_C",
+      "model": "V608C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VT1001",
+      "codename": "VT1001",
+      "model": "VT1001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VT701",
       "codename": "VT701",
       "model": "VT701"

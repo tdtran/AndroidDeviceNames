@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "RM-705",
+      "codename": "RM-705",
+      "model": "RM-705"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Star",
       "codename": "STAR",
       "model": "STAR"

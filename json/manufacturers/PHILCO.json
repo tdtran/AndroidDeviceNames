@@ -3,15 +3,45 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HIT P10a",
+      "codename": "HIT_P10a",
+      "model": "HIT P10a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HIT_P8",
+      "codename": "HIT_P8",
+      "model": "HIT P8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hit Max",
+      "codename": "Hit_Max",
+      "model": "Hit Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hit P10",
       "codename": "Hit_P10",
       "model": "Hit P10"
     },
     {
       "manufacturer": "",
+      "market_name": "Hit P12",
+      "codename": "Hit_P12",
+      "model": "Hit P12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hit P6",
       "codename": "Hit_P6",
       "model": "Hit P6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13",
+      "codename": "Hit_P13",
+      "model": "Hit P13"
     },
     {
       "manufacturer": "",
@@ -24,6 +54,12 @@
       "market_name": "PCS02",
       "codename": "PCS02",
       "model": "PCS02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILCO Smart TV",
+      "codename": "SW4H",
+      "model": "PHILCO Smart TV"
     },
     {
       "manufacturer": "",
@@ -51,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PTB8R",
+      "codename": "PTB8R",
+      "model": "PTB8R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTV40G71AGBL-VA",
       "codename": "ikebukuro",
       "model": "AI PONT"
@@ -72,6 +114,12 @@
       "market_name": "TP10A3N",
       "codename": "TP10A3N",
       "model": "TP10A3N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP10F",
+      "codename": "TP10F",
+      "model": "TP10F"
     },
     {
       "manufacturer": "",

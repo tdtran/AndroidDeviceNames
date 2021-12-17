@@ -6,6 +6,18 @@
       "market_name": "NETPAD7",
       "codename": "NM-NETPAD7",
       "model": "NM-NETPAD7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NM-VELOCITY",
+      "codename": "NM_VELOCITY",
+      "model": "NM-VELOCITY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NM_PADPRO",
+      "codename": "NM_PADPRO",
+      "model": "NM_PADPRO"
     }
   ]
 }

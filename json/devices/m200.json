@@ -10,5 +10,11 @@
     "market_name": "M200",
     "codename": "M200",
     "model": "M200"
+  },
+  {
+    "manufacturer": "d.light",
+    "market_name": "M200A",
+    "codename": "M200",
+    "model": "M200"
   }
 ]

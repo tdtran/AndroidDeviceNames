@@ -4,14 +4,20 @@
     {
       "manufacturer": "",
       "market_name": "EU",
-      "codename": "hanyang",
-      "model": "QBELL Android TV"
+      "codename": "nippori",
+      "model": "QBELL Android TV 2K"
     },
     {
       "manufacturer": "",
-      "market_name": "EU",
-      "codename": "nippori",
-      "model": "QBELL Android TV 2K"
+      "market_name": "Italy",
+      "codename": "tamachi",
+      "model": "Qbell FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Italy",
+      "codename": "yeongdeungpo",
+      "model": "Qbell UHD Android TV"
     },
     {
       "manufacturer": "",
@@ -42,6 +48,12 @@
       "market_name": "QTAB10",
       "codename": "QTAB10",
       "model": "QTAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qbell android TV",
+      "codename": "hanyang",
+      "model": "QBELL Android TV"
     }
   ]
 }

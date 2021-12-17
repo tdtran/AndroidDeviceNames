@@ -21,9 +21,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EA520",
+      "codename": "EA520",
+      "model": "EA520"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EA520_US",
+      "codename": "EA520_US",
+      "model": "EA520_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EA630",
       "codename": "EA630",
       "model": "EA630"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EA630Plus",
+      "codename": "EA630Plus",
+      "model": "EA630Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT730",
+      "codename": "HT730",
+      "model": "HT730"
     },
     {
       "manufacturer": "",
@@ -54,6 +78,12 @@
       "market_name": "TB85Plus",
       "codename": "TB85Plus",
       "model": "TB85Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WD200",
+      "codename": "wd200",
+      "model": "WD200"
     }
   ]
 }

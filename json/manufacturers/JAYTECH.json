@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TPC-G1011LTE",
+      "codename": "TPC-G1011LTE",
+      "model": "TPC-G1011LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TPC-G109_EEA",
       "codename": "TPC-G109",
       "model": "TPC-G109"

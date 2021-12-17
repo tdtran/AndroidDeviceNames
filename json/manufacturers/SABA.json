@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SABA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A11",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11",
+      "codename": "redwood",
+      "model": "AI PONT"
+    }
+  ]
+}

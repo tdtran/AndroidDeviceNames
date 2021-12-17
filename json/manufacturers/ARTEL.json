@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Artel Android TV",
+      "codename": "SW4H",
+      "model": "Artel Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Artel Quadro",
       "codename": "Artel_Quadro",
       "model": "Artel Quadro"

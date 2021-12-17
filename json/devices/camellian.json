@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M3 Pro 5G",
+    "codename": "camellian",
+    "model": "M2103K19PG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10 5G",
+    "codename": "camellian",
+    "model": "M2103K19G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10T",
+    "codename": "camellian",
+    "model": "M2103K19Y"
+  }
+]

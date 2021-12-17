@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Smart TV",
+    "codename": "tarzan",
+    "model": "MiTV-MOOQ3"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "MiTV",
     "codename": "tarzan",

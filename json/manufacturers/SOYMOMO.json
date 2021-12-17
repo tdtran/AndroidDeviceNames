@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SoyMomoLite_V2C",
+      "codename": "SoyMomoLite_V2C",
+      "model": "SoyMomoLite_V2C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SoyMomo_Lite_V1",
       "codename": "SoyMomo_Lite_V1",
       "model": "SoyMomo_Lite_V1"
@@ -33,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SoyMomo_Pro_EU_V2",
+      "codename": "SoyMomo_Pro_EU_V2",
+      "model": "SoyMomo_Pro_EU_V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SoyMomo_Pro_V1",
       "codename": "Pro_V1",
       "model": "SoyMomo_Pro_V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SoyMomo_Pro_V2",
+      "codename": "SoyMomo_Pro_V2",
+      "model": "SoyMomo_Pro_V2"
     }
   ]
 }

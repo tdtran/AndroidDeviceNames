@@ -51,9 +51,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10",
+      "codename": "P10",
+      "model": "Gplus P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10+",
+      "codename": "P10_Plus",
+      "model": "Gplus P10+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S9701",
       "codename": "GPLUS_S9701",
       "model": "GPLUS_S9701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10",
+      "codename": "X10",
+      "model": "Gplus X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z10",
+      "codename": "Z10",
+      "model": "Gplus Z10"
     }
   ]
 }

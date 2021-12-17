@@ -15,7 +15,19 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dbook112_EEA",
+      "codename": "Dbook112_EEA",
+      "model": "Dbook112_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dbook_110",
+      "codename": "Dbook_110",
+      "model": "Dbook_110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dbook_110_EEA",
       "codename": "Dbook_110",
       "model": "Dbook_110"
     },
@@ -45,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dslide1013QC_V4",
+      "codename": "Dslide1013QC_v4",
+      "model": "Dslide1013QC_v4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dslide1014",
       "codename": "Dslide1014",
       "model": "Dslide1014"
@@ -60,6 +78,12 @@
       "market_name": "Dslide1016_V2_EEA",
       "codename": "Dslide1016_V2",
       "model": "Dslide1016_V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dslide1019",
+      "codename": "Dslide1019",
+      "model": "Dslide1019"
     },
     {
       "manufacturer": "",
@@ -87,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dslide807",
+      "codename": "Dslide807",
+      "model": "Dslide807"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dslide971DC",
       "codename": "Dslide971DC",
       "model": "Dslide971DC"
@@ -96,6 +126,12 @@
       "market_name": "Dslide_1020",
       "codename": "Dslide_1020",
       "model": "Dslide_1020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dslide_1021_EEA",
+      "codename": "Dslide_1021",
+      "model": "Dslide_1021"
     },
     {
       "manufacturer": "",
@@ -153,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Konnect 556",
+      "codename": "DANEW_Konnect_556",
+      "model": "Konnect_556"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Konnect 560 Cinépix",
       "codename": "Konnect_560",
       "model": "Konnect_560"
@@ -168,6 +210,12 @@
       "market_name": "Konnect_508",
       "codename": "Konnect_508",
       "model": "Konnect_508"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Konnect_509",
+      "codename": "Konnect_509",
+      "model": "Konnect_509"
     },
     {
       "manufacturer": "",

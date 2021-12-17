@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LUSH_MINT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LM5414G",
+      "codename": "LM5414G",
+      "model": "LM5414G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5514G",
+      "codename": "LM5514G",
+      "model": "LM5514G"
+    }
+  ]
+}

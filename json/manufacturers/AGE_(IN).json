@@ -1,0 +1,17 @@
+{
+  "manufacturer": "AGE (in)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "tamachi",
+      "model": "AGE FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "yeongdeungpo",
+      "model": "AGE UHD Android TV"
+    }
+  ]
+}

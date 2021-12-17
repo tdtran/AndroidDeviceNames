@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GSW-H1000",
+      "codename": "tai",
+      "model": "GSW-H1000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IT-G400",
       "codename": "itg400",
       "model": "IT-G400"

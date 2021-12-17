@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "Kuwait",
+      "codename": "tamachi",
+      "model": "ORCA FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kuwait",
       "codename": "yeongdeungpo",
       "model": "ORCA UHD Android TV"
     },

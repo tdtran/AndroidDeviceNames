@@ -1,0 +1,17 @@
+{
+  "manufacturer": "KAGIS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "tamachi",
+      "model": "KAGIS Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "yeongdeungpo",
+      "model": "KAGIS Android TV"
+    }
+  ]
+}

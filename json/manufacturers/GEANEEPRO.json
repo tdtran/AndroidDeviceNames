@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "JT08-X1",
+      "codename": "JT08-X1",
+      "model": "JT08-X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JT10-X",
       "codename": "JT10-X",
       "model": "JT10-X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JT10-X1",
+      "codename": "JT10-X1",
+      "model": "JT10-X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JT10LTE-X1",
+      "codename": "JT10LTE-X1",
+      "model": "JT10LTE-X1"
     },
     {
       "manufacturer": "",

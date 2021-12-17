@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MatrixPad-X36",
+      "codename": "MatrixPad-X36",
+      "model": "MatrixPad-X36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10",
+      "codename": "P10",
+      "model": "P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10_EEA",
+      "codename": "P10_EEA",
+      "model": "P10_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P31",
       "codename": "P31",
       "model": "P31"
@@ -15,9 +33,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P40",
+      "codename": "P40",
+      "model": "P40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QTAB1010X",
       "codename": "QTAB1010X_EEA",
       "model": "QTAB1010X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10_EEA",
+      "codename": "S10_EEA",
+      "model": "S10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10_ROW",
+      "codename": "S10_ROW",
+      "model": "S10_ROW"
     },
     {
       "manufacturer": "",
@@ -57,8 +93,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S21_Plus",
+      "codename": "S21_Plus",
+      "model": "S21_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S30",
       "codename": "S30",
+      "model": "S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S30",
+      "codename": "S30_2020",
       "model": "S30"
     },
     {
@@ -90,6 +138,18 @@
       "market_name": "S8_EEA",
       "codename": "S8_EEA",
       "model": "S8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S9",
+      "codename": "S9",
+      "model": "S9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S9_EEA",
+      "codename": "S9_EEA",
+      "model": "S9_EEA"
     },
     {
       "manufacturer": "",
@@ -126,6 +186,12 @@
       "market_name": "Vankyo_S10_EEA",
       "codename": "Vankyo_S10_EEA",
       "model": "Vankyo_S10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10",
+      "codename": "X10",
+      "model": "X10"
     },
     {
       "manufacturer": "",

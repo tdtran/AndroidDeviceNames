@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Egypt",
+      "codename": "tamachi",
+      "model": "Fresh FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Egypt",
+      "codename": "yeongdeungpo",
+      "model": "Fresh UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRESH SMART TV",
+      "codename": "SW4H",
+      "model": "FRESH SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FreshTV",
       "codename": "shinagawa",
       "model": "FreshTV"

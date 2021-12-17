@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "100011885",
+      "codename": "100011885",
+      "model": "100011885"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PVT-8-A50-R1",
       "codename": "PVT-8-A50-R1",
       "model": "PVT-8-A50-R1"

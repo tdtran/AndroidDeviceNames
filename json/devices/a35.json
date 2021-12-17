@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "A35",
+    "codename": "A35",
+    "model": "A35"
+  },
+  {
     "manufacturer": "Micromax",
     "market_name": "Bolt",
     "codename": "A35",

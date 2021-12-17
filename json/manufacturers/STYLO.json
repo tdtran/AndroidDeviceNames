@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "721",
+      "codename": "721",
+      "model": "721"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BOLD",
       "codename": "BOLD",
       "model": "BOLD"
@@ -18,6 +24,18 @@
       "market_name": "BOLD PLUS",
       "codename": "BOLD_PLUS",
       "model": "BOLD_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BOLD_PLUS",
+      "codename": "BOLD_PLUS",
+      "model": "BOLD_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVE",
+      "codename": "BRAVE",
+      "model": "BRAVE"
     },
     {
       "manufacturer": "",
@@ -33,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INKOSI",
+      "codename": "INKOSI",
+      "model": "INKOSI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ithemba",
       "codename": "Ithemba",
       "model": "Ithemba"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIFE_2",
+      "codename": "LIFE_2",
+      "model": "LIFE_2"
     },
     {
       "manufacturer": "",
@@ -219,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Stylo_521",
+      "codename": "Stylo_521",
+      "model": "Stylo_521"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Stylo_Viva",
       "codename": "Stylo_Viva",
       "model": "Stylo_Viva"
@@ -258,6 +294,18 @@
       "market_name": "VS571",
       "codename": "VS571",
       "model": "VS571"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5",
+      "model": "X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "X7",
+      "model": "X7"
     }
   ]
 }

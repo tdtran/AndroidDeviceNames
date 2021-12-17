@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BMM431S",
+      "codename": "BMM431S",
+      "model": "BMM431S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM441A",
+      "codename": "BMM441A",
+      "model": "BMM441A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM441B",
+      "codename": "BMM441B",
+      "model": "BMM441B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BMM441D",
       "codename": "BMM441D",
       "model": "BMM441D"
@@ -54,6 +72,18 @@
       "market_name": "BMM531D",
       "codename": "BMM531D",
       "model": "BMM531D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM531S",
+      "codename": "BMM531S",
+      "model": "BMM531S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM532D",
+      "codename": "BMM532D",
+      "model": "BMM532D"
     },
     {
       "manufacturer": "",

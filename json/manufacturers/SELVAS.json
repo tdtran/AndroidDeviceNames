@@ -6,6 +6,24 @@
       "market_name": "BrailleSense Polaris",
       "codename": "polaris",
       "model": "BrailleSensePolaris"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BrailleSenseMini",
+      "codename": "BrailleSenseMini",
+      "model": "H620B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BrailleSense_EEA",
+      "codename": "BrailleSense",
+      "model": "H632B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H632B",
+      "codename": "BrailleSense",
+      "model": "H632B"
     }
   ]
 }

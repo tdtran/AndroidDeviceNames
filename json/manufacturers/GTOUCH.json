@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Stella X Plus",
+      "codename": "Stella_X_Plus",
+      "model": "Stella X Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Stella XS",
       "codename": "Stella_XS",
       "model": "Stella XS"

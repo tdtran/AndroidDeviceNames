@@ -3,14 +3,14 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "RO-43LCS",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
+      "market_name": "M916H",
+      "codename": "M916H",
+      "model": "M916H"
     },
     {
       "manufacturer": "",
-      "market_name": "RO-55LCS",
-      "codename": "samseong",
+      "market_name": "RO-43LCS",
+      "codename": "ikebukuro",
       "model": "AI PONT"
     }
   ]

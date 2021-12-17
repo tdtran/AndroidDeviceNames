@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CT202",
+      "codename": "CT202",
+      "model": "CT202"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT212",
+      "codename": "CT212",
+      "model": "CT212"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT9A06P23_eea",
       "codename": "CT9A06P23",
       "model": "CT9A06P23"
@@ -21,15 +33,117 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VCT9716Q24",
+      "codename": "VCT9716Q24",
+      "model": "VCT9716Q24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9B06Q22N",
+      "codename": "VCT9B06Q22N",
+      "model": "VCT9B06Q22N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VCT9B06Q22_eea",
       "codename": "VCT9B06Q22",
       "model": "VCT9B06Q22"
     },
     {
       "manufacturer": "",
+      "market_name": "VCT9B06Q23",
+      "codename": "VCT9B06Q23",
+      "model": "VCT9B06Q23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9C0AT",
+      "codename": "VCT9C0AT",
+      "model": "VCT9C0AT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F08Q22D",
+      "codename": "VCT9F08Q22D",
+      "model": "VCT9F08Q22D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F0A68R",
+      "codename": "VCT9F0A68R",
+      "model": "VCT9F0A68R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F0A68R23EU",
+      "codename": "VCT9F0A68R23EU",
+      "model": "VCT9F0A68R23EU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F0A68R44",
+      "codename": "VCT9F0A68R44",
+      "model": "VCT9F0A68R44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F1A68R44",
+      "codename": "VCT9F1A68R44",
+      "model": "VCT9F1A68R44"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VCT9F78Q22",
       "codename": "VCT9F78Q22",
       "model": "VCT9F78Q22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F78Q22-A0",
+      "codename": "VCT9F78Q22-A0",
+      "model": "VCT9F78Q22-A0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F78Q22-A1",
+      "codename": "VCT9F78Q22-A1",
+      "model": "VCT9F78Q22-A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F78Q22-E",
+      "codename": "VCT9F78Q22-E",
+      "model": "VCT9F78Q22-E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F78Q22EU_eea",
+      "codename": "VCT9F78Q22EU",
+      "model": "VCT9F78Q22EU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F8A68R",
+      "codename": "VCT9F8A68R",
+      "model": "VCT9F8A68R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9F8A68RD",
+      "codename": "VCT9F8A68RD",
+      "model": "VCT9F8A68RD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9R5A78R",
+      "codename": "VCT9R5A78R",
+      "model": "VCT9R5A78R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCT9T48Q34EU_eea",
+      "codename": "VCT9T48Q34EU",
+      "model": "VCT9T48Q34EU"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Digiquest",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Italy",
+      "codename": "tamachi",
+      "model": "Digiquest 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Italy",
+      "codename": "yeongdeungpo",
+      "model": "Digiquest 4K Android TV"
+    }
+  ]
+}

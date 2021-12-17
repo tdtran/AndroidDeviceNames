@@ -1,0 +1,23 @@
+{
+  "manufacturer": "fplus",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H166",
+      "codename": "H166",
+      "model": "H166"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Life Tab Plus",
+      "codename": "lifetabplus",
+      "model": "LifeTabPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P670",
+      "codename": "P670",
+      "model": "P670"
+    }
+  ]
+}

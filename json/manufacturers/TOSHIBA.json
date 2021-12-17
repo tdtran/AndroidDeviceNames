@@ -298,6 +298,12 @@
     {
       "manufacturer": "",
       "market_name": "Toshiba_TV",
+      "codename": "MTK9632",
+      "model": "Toshiba_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Toshiba_TV",
       "codename": "MTK9652",
       "model": "Toshiba_TV"
     },
@@ -324,6 +330,12 @@
       "market_name": "laoshan_Toshiba",
       "codename": "laoshan",
       "model": "U7900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "taishan-jpT",
+      "codename": "taishan",
+      "model": "SmartTV FFM"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DX778Pro",
+      "codename": "DX778Pro",
+      "model": "DX778Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOVACEL S24",
       "codename": "S24",
       "model": "S24"

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "COOP",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MARTE",
+      "codename": "MARTE",
+      "model": "MARTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SATURNO2",
+      "codename": "SATURNO2",
+      "model": "SATURNO2"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Olike",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E1",
+      "codename": "E1",
+      "model": "E1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E3",
+      "codename": "E3",
+      "model": "E3"
+    }
+  ]
+}

@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO M3 Pro 5G",
+    "codename": "camellia",
+    "model": "M2103K19PI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10",
+    "codename": "camellia",
+    "model": "M2103K19C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10T 5G",
+    "codename": "camellia",
+    "model": "M2103K19I"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10T 5G",
+    "codename": "camellia",
+    "model": "TBD"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Z833",
     "codename": "camellia",

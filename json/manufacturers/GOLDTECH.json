@@ -18,6 +18,12 @@
       "market_name": "GT_Tab_3G",
       "codename": "GT_Tab_3G",
       "model": "GT_Tab_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JTTAB035",
+      "codename": "JTTAB035",
+      "model": "JTTAB035"
     }
   ]
 }

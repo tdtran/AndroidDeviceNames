@@ -12,6 +12,12 @@
       "market_name": "Vexia FCS E2 CLM",
       "codename": "Vexia_FCS_E2_CLM",
       "model": "Vexia FCS E2 CLM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vexia_TRES_10",
+      "codename": "Vexia_TRES_10",
+      "model": "Vexia_TRES_10"
     }
   ]
 }

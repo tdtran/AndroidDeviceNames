@@ -1,0 +1,17 @@
+{
+  "manufacturer": "cosmos",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Aries_8in",
+      "codename": "Aries_8in",
+      "model": "Aries_8in"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lynx_10in",
+      "codename": "Lynx_10in",
+      "model": "Lynx_10in"
+    }
+  ]
+}

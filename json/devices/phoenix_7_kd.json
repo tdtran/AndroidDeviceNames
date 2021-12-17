@@ -3,6 +3,18 @@
     "manufacturer": "Kurio",
     "market_name": "Smart Tab 7",
     "codename": "Phoenix_7_KD",
+    "model": "9317H"
+  },
+  {
+    "manufacturer": "Kurio",
+    "market_name": "Smart Tab 7",
+    "codename": "Phoenix_7_KD",
     "model": "9317H1"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Smart Tab 7",
+    "codename": "Phoenix_7_KD",
+    "model": "9317H"
   }
 ]

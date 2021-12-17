@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Satewave",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HPAD-IP8045",
+      "codename": "HPAD-IP8045",
+      "model": "HPAD-IP8045"
+    }
+  ]
+}

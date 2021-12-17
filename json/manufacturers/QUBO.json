@@ -45,6 +45,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP510",
+      "codename": "SP510",
+      "model": "SP510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T104_64GB",
+      "codename": "T104_64GB",
+      "model": "T104_64GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10_32GB",
+      "codename": "T10_32GB",
+      "model": "T10_32GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3G_Q07",
+      "codename": "T3G_Q07",
+      "model": "T3G_Q07"
+    },
+    {
+      "manufacturer": "",
       "market_name": "THOR",
       "codename": "THOR",
       "model": "THOR"
@@ -54,6 +78,24 @@
       "market_name": "X626",
       "codename": "X626",
       "model": "X626"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X626_4G",
+      "codename": "X626_4G",
+      "model": "X626_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X668_32GB",
+      "codename": "X668_32GB",
+      "model": "X668_32GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X668_64GB",
+      "codename": "X668_64GB",
+      "model": "X668_64GB"
     }
   ]
 }

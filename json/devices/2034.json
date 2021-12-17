@@ -13,6 +13,12 @@
   },
   {
     "manufacturer": "Vivo",
+    "market_name": "V2039",
+    "codename": "2034",
+    "model": "V2039"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "V2052",
     "codename": "2034",
     "model": "V2052"
@@ -22,5 +28,35 @@
     "market_name": "V2054",
     "codename": "2034",
     "model": "V2054"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2068",
+    "codename": "2034",
+    "model": "V2068"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2069",
+    "codename": "2034",
+    "model": "V2069"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2070",
+    "codename": "2034",
+    "model": "V2070"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2101",
+    "codename": "2034",
+    "model": "V2101"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2102",
+    "codename": "2034",
+    "model": "V2102"
   }
 ]

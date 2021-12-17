@@ -12,6 +12,12 @@
     "model": "Panasonic T9"
   },
   {
+    "manufacturer": "Performance",
+    "market_name": "T9",
+    "codename": "T9",
+    "model": "T9"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "",
     "codename": "T9",

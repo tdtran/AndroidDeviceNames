@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J210A",
+      "codename": "J210A",
+      "model": "J210A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UHD Android TV",
       "codename": "sindorim",
       "model": "AI PONT"

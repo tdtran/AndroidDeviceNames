@@ -189,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Karbonn X21",
+      "codename": "X21",
+      "model": "Karbonn X21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Karbonn Yuva2",
       "codename": "Karbonn_Yuva_2",
       "model": "Karbonn Yuva 2"
@@ -240,6 +246,12 @@
       "market_name": "Titanium Vista 4G",
       "codename": "TitaniumVista4G",
       "model": "Titanium Vista 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TitaniumS9_Plus",
+      "codename": "TitaniumS9_Plus",
+      "model": "TitaniumS9_Plus"
     },
     {
       "manufacturer": "",

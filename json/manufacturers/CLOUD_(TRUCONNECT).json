@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cyclone_C4",
+      "codename": "Cyclone_C4",
+      "model": "Cyclone_C4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Storm C3",
       "codename": "Storm_C3",
       "model": "Storm_C3"
@@ -18,6 +24,30 @@
       "market_name": "Stratus_C5",
       "codename": "Stratus_C5",
       "model": "Stratus_C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stratus_C5_Elite",
+      "codename": "Stratus_C5_Elite",
+      "model": "Stratus_C5_Elite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunshine_T1",
+      "codename": "Sunshine_T1",
+      "model": "Sunshine_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunshine_T1_Elite",
+      "codename": "Sunshine_T1_Elite",
+      "model": "Sunshine_T1_Elite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Typhoon_C6",
+      "codename": "Typhoon_C6",
+      "model": "Typhoon_C6"
     }
   ]
 }

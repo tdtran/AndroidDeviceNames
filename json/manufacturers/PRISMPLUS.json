@@ -1,0 +1,29 @@
+{
+  "manufacturer": "PRISMPLUS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PrismPlus 4K Android TV",
+      "codename": "SW4H",
+      "model": "PrismPlus 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PrismPlus 4K Pro Android TV",
+      "codename": "SW4H_FF",
+      "model": "PrismPlus 4K Pro Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PrismPlus Android TV",
+      "codename": "sunnyvale",
+      "model": "PrismPlus Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prismplus TV",
+      "codename": "shibuya",
+      "model": "Prismplus TV"
+    }
+  ]
+}

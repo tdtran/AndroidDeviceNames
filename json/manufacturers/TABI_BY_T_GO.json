@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Tabi_by_T_GO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EUTB_758G",
+      "codename": "EUTB_758G",
+      "model": "EUTB_758G_TABI_Argos_KIDS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EUTB_758_Argos",
+      "codename": "EUTB_758_Argos",
+      "model": "EUTB-758 TABI Argos"
+    }
+  ]
+}

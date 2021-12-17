@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "e-PAD",
+      "codename": "e-PAD",
+      "model": "e-PAD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "hero A1",
       "codename": "hero_A1",
       "model": "hero A1"

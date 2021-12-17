@@ -18,6 +18,12 @@
       "market_name": "MarQ",
       "codename": "komagome",
       "model": "MarQ 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MarQ_M3",
+      "codename": "GIONEE_MAX",
+      "model": "MarQ_M3"
     }
   ]
 }

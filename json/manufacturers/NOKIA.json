@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DVN2KA01",
       "codename": "DV6068H_Nokia",
       "model": "DVN2KA01"
@@ -42,6 +48,18 @@
       "market_name": "Nokia 1.3",
       "codename": "DRX",
       "model": "Nokia 1.3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 1.4",
+      "codename": "CBL",
+      "model": "Cable"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 1.4",
+      "codename": "CBL",
+      "model": "Nokia 1.4"
     },
     {
       "manufacturer": "",
@@ -459,6 +477,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C01 Plus",
+      "codename": "IRS",
+      "model": "Nokia C01 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C1",
       "codename": "RKU",
       "model": "Nokia C1"
@@ -468,6 +492,12 @@
       "market_name": "Nokia C1 Plus",
       "codename": "YDU",
       "model": "Nokia C1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C10",
+      "codename": "MNT",
+      "model": "Nokia C10"
     },
     {
       "manufacturer": "",
@@ -489,6 +519,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C20",
+      "codename": "COS",
+      "model": "Nokia C20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C3",
       "codename": "GMR",
       "model": "Nokia C3"
@@ -501,9 +537,81 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia G10",
+      "codename": "ROGA",
+      "model": "Nokia G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G10",
+      "codename": "ROGA_sprout",
+      "model": "Nokia G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G20",
+      "codename": "RNN",
+      "model": "Nokia G20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G20",
+      "codename": "RNNA_sprout",
+      "model": "Nokia G20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G20",
+      "codename": "RNN_sprout",
+      "model": "Nokia G20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G50",
+      "codename": "PHR",
+      "model": "Nokia G50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G50",
+      "codename": "PHR_sprout",
+      "model": "Nokia G50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia Steaming Box 8000",
       "codename": "HND",
       "model": "Nokia Streaming Box 8000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia T20",
+      "codename": "RDD",
+      "model": "Nokia T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X10",
+      "codename": "SCW",
+      "model": "Nokia X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X10",
+      "codename": "SCW_sprout",
+      "model": "Nokia X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X20",
+      "codename": "QKS",
+      "model": "Nokia X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X20",
+      "codename": "QKS_sprout",
+      "model": "Nokia X20"
     },
     {
       "manufacturer": "",
@@ -531,9 +639,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SEI600HM",
-      "codename": "HND",
-      "model": "Box Q"
+      "market_name": "Nokia XR20",
+      "codename": "TTG",
+      "model": "Nokia XR20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia XR20",
+      "codename": "TTG_sprout",
+      "model": "Nokia XR20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
     }
   ]
 }

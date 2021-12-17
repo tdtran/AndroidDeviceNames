@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGNO BX2",
+      "codename": "KY21L-ST100",
+      "model": "A101KC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGNO Dual",
       "codename": "WX04K",
       "model": "WX04K"
@@ -261,6 +267,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DuraForce Ultra 5G",
+      "codename": "E7110",
+      "model": "E7110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DuraForce XD",
       "codename": "E6790",
       "model": "KYOCERA-E6790"
@@ -276,6 +288,12 @@
       "market_name": "DuraScout",
       "codename": "E6782L",
       "model": "E6782L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DuraSport 5G",
+      "codename": "KY21L-RG100",
+      "model": "C6930"
     },
     {
       "manufacturer": "",
@@ -441,6 +459,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K5G-C-100A",
+      "codename": "K5G-C-100A",
+      "model": "K5G-C-100A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KC-01",
       "codename": "KC-01",
       "model": "KC-01"
@@ -456,6 +480,12 @@
       "market_name": "KC-T302DT",
       "codename": "SZJ202",
       "model": "SZJ-JS202"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KC-T304",
+      "codename": "KC-T304",
+      "model": "KC-T304"
     },
     {
       "manufacturer": "",
@@ -606,6 +636,12 @@
       "market_name": "TORQUE(KC-S701)",
       "codename": "KC-S701",
       "model": "KC-S701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TORQUE(R) 5G",
+      "codename": "KYG01",
+      "model": "KYG01"
     },
     {
       "manufacturer": "",

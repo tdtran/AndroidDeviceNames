@@ -6,6 +6,18 @@
       "market_name": "L32AHE19",
       "codename": "ueno",
       "model": "2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIK",
+      "codename": "sadang",
+      "model": "LOGIK 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIK",
+      "codename": "tabata",
+      "model": "LOGIK 2K Android TV"
     }
   ]
 }

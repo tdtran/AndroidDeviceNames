@@ -16,5 +16,11 @@
     "market_name": "Galaxy A42 5G",
     "codename": "a42xq",
     "model": "SM-A426N"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M42 5G",
+    "codename": "a42xq",
+    "model": "SM-M426B"
   }
 ]

@@ -1,6 +1,18 @@
 [
   {
+    "manufacturer": "ASTON",
+    "market_name": "NEO",
+    "codename": "NEO",
+    "model": "NEO"
+  },
+  {
     "manufacturer": "Mobicell",
+    "market_name": "NEO",
+    "codename": "NEO",
+    "model": "NEO"
+  },
+  {
+    "manufacturer": "Olympia",
     "market_name": "NEO",
     "codename": "NEO",
     "model": "NEO"

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grundig Android TV",
+      "codename": "shinagawa",
+      "model": "Grundig Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grundig Android TV",
+      "codename": "sinchon",
+      "model": "Grundig Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC69CA2",
       "codename": "GTB801",
       "model": "GTB 801"

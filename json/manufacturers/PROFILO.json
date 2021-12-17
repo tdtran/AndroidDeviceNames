@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Profilo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "tamachi",
+      "model": "Profilo 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "yeongdeungpo",
+      "model": "Profilo 4K Android TV"
+    }
+  ]
+}

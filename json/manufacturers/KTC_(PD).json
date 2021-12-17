@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BLISS503",
+      "codename": "BLISS503",
+      "model": "BLISS503"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLISS_8",
       "codename": "BLISS_8",
       "model": "BLISS_8"

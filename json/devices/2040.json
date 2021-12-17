@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Coolpad",
+    "market_name": "Cool 10",
+    "codename": "2040",
+    "model": "2040"
+  },
+  {
     "manufacturer": "Vivo",
     "market_name": "\tV2040",
     "codename": "2040",

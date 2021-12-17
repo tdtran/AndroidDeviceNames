@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEON-RAY-2",
+      "codename": "NEON-RAY-2",
+      "model": "NEON RAY 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEON_NOVA",
       "codename": "NEON_NOVA",
       "model": "NEON_NOVA"
@@ -24,6 +30,12 @@
       "market_name": "NEON_RAY",
       "codename": "NEON_RAY",
       "model": "NEON_RAY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEON_RAY_2",
+      "codename": "NEON_RAY_2",
+      "model": "NEON RAY 2"
     },
     {
       "manufacturer": "",

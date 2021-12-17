@@ -6,6 +6,12 @@
       "market_name": "Cedar CT8X2",
       "codename": "CT8X2",
       "model": "CT8X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cedar CT8X2",
+      "codename": "CT8XEU",
+      "model": "CT8XEU"
     }
   ]
 }

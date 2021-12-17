@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sosh",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SoshPhone",
+      "codename": "SoshPhone",
+      "model": "SoshPhone"
+    }
+  ]
+}

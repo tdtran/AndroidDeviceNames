@@ -1,0 +1,17 @@
+{
+  "manufacturer": "EDENWOOD",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EDENWOOD",
+      "codename": "bangbae",
+      "model": "EDENWOOD 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDENWOOD",
+      "codename": "komagome",
+      "model": "EDENWOOD 2K Android TV"
+    }
+  ]
+}

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT  11",
+      "codename": "Infinix-X689F",
+      "model": "Infinix X689F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT 10",
       "codename": "Infinix-X682B",
       "model": "Infinix X682B"
@@ -33,9 +39,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 10 Play",
+      "codename": "Infinix-X688B",
+      "model": "Infinix X688B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 10 Play",
+      "codename": "Infinix-X688C",
+      "model": "Infinix X688C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT 10 lite",
       "codename": "Infinix-X657B",
       "model": "Infinix X657B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 10i",
+      "codename": "Infinix-X658B",
+      "model": "Infinix X658B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 10i",
+      "codename": "Infinix-X658E",
+      "model": "Infinix X658E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 10i",
+      "codename": "Infinix-X659",
+      "model": "Infinix X659"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 10i",
+      "codename": "Infinix-X659B",
+      "model": "Infinix X659B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 11",
+      "codename": "Infinix-X662",
+      "model": "Infinix X662"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 11",
+      "codename": "Infinix-X662B",
+      "model": "Infinix X662B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 11",
+      "codename": "Infinix-X689F",
+      "model": "Infinix X689F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 11S",
+      "codename": "Infinix-X6812",
+      "model": "Infinix X6812"
     },
     {
       "manufacturer": "",
@@ -219,6 +285,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT Play",
+      "codename": "Infinix-X688B",
+      "model": "Infinix X688B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT Play",
+      "codename": "Infinix-X688C",
+      "model": "Infinix X688C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT S3",
       "codename": "Infinix-X573",
       "model": "Infinix X573"
@@ -276,6 +354,42 @@
       "market_name": "Infinix HOT 10 Lite",
       "codename": "Infinix-X657B",
       "model": "Infinix X657B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 10S",
+      "codename": "Infinix-X689",
+      "model": "Infinix X689"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 10S",
+      "codename": "Infinix-X689B",
+      "model": "Infinix X689B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 10S NFC",
+      "codename": "Infinix-X689D",
+      "model": "Infinix X689D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 10T",
+      "codename": "Infinix-X689C",
+      "model": "Infinix X689C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 10i",
+      "codename": "Infinix-PR652B",
+      "model": "Infinix PR652B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 11S NFC",
+      "codename": "Infinix-X6812B",
+      "model": "Infinix X6812B"
     },
     {
       "manufacturer": "",
@@ -354,6 +468,30 @@
       "market_name": "Infinix HOT 9 Pro",
       "codename": "Infinix-X655F",
       "model": "Infinix X655F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 10",
+      "codename": "Infinix-X693",
+      "model": "Infinix X693"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 11",
+      "codename": "Infinix-X663",
+      "model": "Infinix X663"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 11",
+      "codename": "Infinix-X663B",
+      "model": "Infinix X663B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 11i",
+      "codename": "Infinix-X693",
+      "model": "Infinix X693"
     },
     {
       "manufacturer": "",
@@ -447,9 +585,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix ZERO X",
+      "codename": "Infinix-X6811B",
+      "model": "Infinix X6811B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix ZERO X NEO",
+      "codename": "Infinix-X6810",
+      "model": "Infinix X6810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix ZERO X Pro",
+      "codename": "Infinix-X6811",
+      "model": "Infinix X6811"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix ZERO8",
       "codename": "Infinix-X687",
       "model": "Infinix X687"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 10 Pro",
+      "codename": "Infinix-X695",
+      "model": "Infinix X695"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 10 Pro",
+      "codename": "Infinix-X695C",
+      "model": "Infinix X695C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 10 Pro",
+      "codename": "Infinix-X695D",
+      "model": "Infinix X695D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 11 Pro",
+      "codename": "Infinix-X697",
+      "model": "Infinix X697"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 11S",
+      "codename": "Infinix-X698",
+      "model": "Infinix X698"
     },
     {
       "manufacturer": "",
@@ -627,7 +813,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SMART 5",
+      "market_name": "SMART",
       "codename": "Infinix-X657B",
       "model": "Infinix X657B"
     },
@@ -639,9 +825,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SMART 5",
-      "codename": "Infinix-X688C",
-      "model": "Infinix X688C"
+      "market_name": "SMART 5(SMART 6)",
+      "codename": "Infinix-X657B",
+      "model": "Infinix X657B"
     },
     {
       "manufacturer": "",

@@ -39,6 +39,66 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T151",
+      "codename": "T151",
+      "model": "T151"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T151-EEA",
+      "codename": "T151-EEA",
+      "model": "T151-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T18",
+      "codename": "T18",
+      "model": "T18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20-EEA",
+      "codename": "T20-EEA",
+      "model": "T20-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T201",
+      "codename": "T201",
+      "model": "T201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T201-EEA",
+      "codename": "T201-EEA",
+      "model": "T201-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T211-EEA",
+      "codename": "T211-EEA",
+      "model": "T211-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50",
+      "codename": "T50",
+      "model": "T50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50-EEA",
+      "codename": "T50-EEA",
+      "model": "T50-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T501-EEA",
+      "codename": "T501-EEA",
+      "model": "T501-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X102",
       "codename": "X102",
       "model": "X102"

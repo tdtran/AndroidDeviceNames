@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IPF10",
+      "codename": "IPF10",
+      "model": "IPF10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J10PRO",
+      "codename": "J10PRO",
+      "model": "J10PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEBULAE",
       "codename": "NEBULAE",
       "model": "NEBULAE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X701",
+      "codename": "LEGEND_X701",
+      "model": "X701"
     }
   ]
 }

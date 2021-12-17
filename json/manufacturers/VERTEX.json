@@ -429,6 +429,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Luck_L130",
+      "codename": "Luck_L130",
+      "model": "Luck L130"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Luck_L_5045_3G",
       "codename": "Luck_L_5045_3G",
       "model": "Vertex_Luck_L_5045_3G"
@@ -492,6 +498,18 @@
       "market_name": "Smart_S_100_4G",
       "codename": "Smart_S_100_4G",
       "model": "Smart_S_100_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-X10",
+      "codename": "TABX10",
+      "model": "TAB X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-X8",
+      "codename": "TABX8",
+      "model": "TAB X8"
     },
     {
       "manufacturer": "",

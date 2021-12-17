@@ -1,0 +1,17 @@
+{
+  "manufacturer": "WOZIFAN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "3W_EEA",
+      "codename": "W3_EEA",
+      "model": "3W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "3W_US",
+      "codename": "W3_US",
+      "model": "3W_US"
+    }
+  ]
+}

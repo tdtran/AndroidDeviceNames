@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SILVER MAX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ST-710G",
+      "codename": "ST_710G",
+      "model": "ST-710G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ST-810",
+      "codename": "ST_810A",
+      "model": "ST-810"
+    }
+  ]
+}

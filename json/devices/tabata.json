@@ -1,8 +1,20 @@
 [
   {
+    "manufacturer": "Cello",
+    "market_name": "Cello",
+    "codename": "tabata",
+    "model": "cello 2K Android TV"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "UK",
     "codename": "tabata",
     "model": "UK 2K Android TV"
+  },
+  {
+    "manufacturer": "Logik",
+    "market_name": "LOGIK",
+    "codename": "tabata",
+    "model": "LOGIK 2K Android TV"
   }
 ]

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ETL101A_EEA",
+      "codename": "ETL101A_EEA",
+      "model": "ETL101A_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ETL101GB",
+      "codename": "ETL101GB",
+      "model": "ETL101GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ETW101GT_C_EEA",
+      "codename": "ETW101GT_C_EEA",
+      "model": "ETW101GT_C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ETW101GT_EEA",
       "codename": "ETW101GT_EEA",
       "model": "ETW101GT"

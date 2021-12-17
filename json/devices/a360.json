@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "DEXP",
+    "market_name": "A360",
+    "codename": "A360",
+    "model": "A360"
+  },
+  {
     "manufacturer": "Lenovo",
     "market_name": "",
     "codename": "a360",

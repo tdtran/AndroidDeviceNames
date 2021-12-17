@@ -45,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E54",
+      "codename": "E54",
+      "model": "E54"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S13",
       "codename": "S13",
       "model": "S13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S14",
+      "codename": "S14",
+      "model": "S14"
     },
     {
       "manufacturer": "",
@@ -60,6 +72,12 @@
       "market_name": "S23",
       "codename": "S23",
       "model": "S23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S24",
+      "codename": "S24",
+      "model": "S24"
     },
     {
       "manufacturer": "",
@@ -96,6 +114,12 @@
       "market_name": "S33",
       "codename": "S33",
       "model": "S33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S34",
+      "codename": "S34",
+      "model": "S34"
     },
     {
       "manufacturer": "",

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NT-01",
+      "codename": "HP40A",
+      "model": "NT-01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "North America",
       "codename": "globe_na",
       "model": "globe"
@@ -60,12 +66,6 @@
       "market_name": "North America",
       "codename": "shimbashi",
       "model": "2K TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SA100",
-      "codename": "HY40A",
-      "model": "SA100"
     },
     {
       "manufacturer": "",
@@ -90,12 +90,6 @@
       "market_name": "South America",
       "codename": "shinjuku",
       "model": "SA 2K TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TV Box",
-      "codename": "HY44G",
-      "model": "TV Box"
     }
   ]
 }

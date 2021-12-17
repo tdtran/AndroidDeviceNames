@@ -12,6 +12,12 @@
       "market_name": "Smart Class",
       "codename": "Smart_Class",
       "model": "Smart Class"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T6000",
+      "codename": "T6000",
+      "model": "T6000"
     }
   ]
 }

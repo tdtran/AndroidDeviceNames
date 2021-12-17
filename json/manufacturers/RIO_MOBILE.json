@@ -6,6 +6,18 @@
       "market_name": "R7MAX",
       "codename": "R7MAX",
       "model": "R7MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RW10",
+      "codename": "RW10",
+      "model": "RW10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RW8",
+      "codename": "RW8",
+      "model": "RW8"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Valuer_V8",
+      "codename": "Valuer_V8",
+      "model": "Valuer_V8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wizpad_Valuer_V8",
       "codename": "wvv832",
       "model": "Wizpad_Valuer_V8"

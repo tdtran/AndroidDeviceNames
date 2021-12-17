@@ -12,6 +12,42 @@
       "market_name": "S7-classic",
       "codename": "S7-classic",
       "model": "S7-classic"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S7-classic-10",
+      "codename": "S7-classic-10",
+      "model": "S7-classic"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S7Pro",
+      "codename": "S7Pro",
+      "model": "S7Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8-CLASSIC",
+      "codename": "S8-CLASSIC",
+      "model": "S8-CLASSIC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8Pro",
+      "codename": "S8Pro",
+      "model": "S8Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SXPRO_classic",
+      "codename": "SXPRO_classic",
+      "model": "SXPRO_classic"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SXPro-P40",
+      "codename": "SXPro-P40",
+      "model": "SXPro-P40"
     }
   ]
 }

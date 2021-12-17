@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Homatics",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Dongle Q",
+      "codename": "ICN",
+      "model": "Dongle Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEI600HM",
+      "codename": "HND",
+      "model": "Box Q"
+    }
+  ]
+}

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB_814",
+      "codename": "TAB_814",
+      "model": "TAB_814"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB_847_3G",
       "codename": "TAB_847_3G",
       "model": "TAB_847_3G"
@@ -60,6 +66,24 @@
       "market_name": "TAB_911_3G",
       "codename": "TAB_911_3G",
       "model": "TAB_911_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_912_4G",
+      "codename": "TAB_912_4G",
+      "model": "TAB_912_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_914",
+      "codename": "TAB_914",
+      "model": "TAB_914"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_915_4G",
+      "codename": "TAB_915_4G",
+      "model": "TAB_915_4G"
     }
   ]
 }

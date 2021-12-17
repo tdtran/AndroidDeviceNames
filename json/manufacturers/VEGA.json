@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D2120",
+      "codename": "D2140-Cosmos",
+      "model": "D2120"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vega Q7128",
       "codename": "Vega_Q7128",
       "model": "Vega Q7128"

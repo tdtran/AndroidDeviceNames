@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Zinox",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Zpad-X8",
+      "codename": "Zpad-X8",
+      "model": "Zpad-X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zpad-X8-PRO",
+      "codename": "Zpad-X8-PRO",
+      "model": "Zpad-X8-PRO"
+    }
+  ]
+}

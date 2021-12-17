@@ -1,0 +1,11 @@
+{
+  "manufacturer": "elevn",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "elevn_eTab",
+      "codename": "elevn_eTab",
+      "model": "elevn_eTab"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ST-4500",
+      "codename": "ST4500",
+      "model": "ST-4500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ST4173",
       "codename": "ST4173",
       "model": "ST4173"

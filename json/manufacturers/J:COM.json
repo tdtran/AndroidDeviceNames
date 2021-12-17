@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KSTB7043",
+      "codename": "KSTB6165",
+      "model": "KSTB7043"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XA401",
       "codename": "XA401",
       "model": "XA401"
@@ -12,6 +18,12 @@
       "market_name": "XA402",
       "codename": "XA402",
       "model": "XA402"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XA403",
+      "codename": "sti6260d195",
+      "model": "XA403"
     }
   ]
 }

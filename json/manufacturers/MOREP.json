@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Mavic 10",
+      "codename": "Mavic_30",
+      "model": "M850"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mavic_Plus_DS",
+      "codename": "Mavic_Plus",
+      "model": "M610DS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Morep Mavic 10",
       "codename": "Mavic_10",
       "model": "M830"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Morep Mavic Plus",
+      "codename": "Mavic_Plus",
+      "model": "M610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart V1",
+      "codename": "Smart_V1",
+      "model": "M521"
     }
   ]
 }

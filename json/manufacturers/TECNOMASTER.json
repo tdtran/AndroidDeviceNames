@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EDT800",
+      "codename": "EDT800",
+      "model": "EDT800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TESHM1863",
+      "codename": "TESHM1863",
+      "model": "TESHM1863"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TESHM8863",
+      "codename": "TESHM8863",
+      "model": "TESHM8863"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tecnomaster",
       "codename": "seocho",
       "model": "Tecnomaster 4K Android TV"

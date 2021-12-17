@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1000",
+      "codename": "A1000",
+      "model": "A1000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A1020",
+      "codename": "A1020",
+      "model": "A1020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6_pro",
       "codename": "G6_pro",
       "model": "G6_pro"

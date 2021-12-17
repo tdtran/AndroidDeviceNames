@@ -1,0 +1,47 @@
+{
+  "manufacturer": "SKY EVO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Elite L55",
+      "codename": "Elite_L55",
+      "model": "Elite L55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite OctaPlus",
+      "codename": "Elite_OctaPlus",
+      "model": "Elite OctaPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite OctaPlus",
+      "codename": "Elite_OctaPlus3us",
+      "model": "ELITE_Octaplus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite OctaPlus",
+      "codename": "Elite_OctaPlusa2",
+      "model": "Elite OctaPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite OctaX",
+      "codename": "Elite_OctaXK2",
+      "model": "Elite OctaX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_OctaXS",
+      "codename": "Elite_OctaXS",
+      "model": "Elite_OctaXS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SA100",
+      "codename": "HY40A",
+      "model": "SA100"
+    }
+  ]
+}

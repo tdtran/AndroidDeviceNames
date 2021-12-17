@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixus_Hammer",
+      "codename": "Pixus_Hammer",
+      "model": "Pixus_Hammer"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixus_Joker",
       "codename": "Pixus_Joker",
       "model": "Pixus_Joker"

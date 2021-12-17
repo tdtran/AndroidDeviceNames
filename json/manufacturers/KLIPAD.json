@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL1018N_EEA",
+      "codename": "KL1018N_EEA",
+      "model": "KL1018N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL1019_EEA",
       "codename": "KL1019_EEA",
       "model": "KL1019"
@@ -36,6 +42,18 @@
       "market_name": "KL1088",
       "codename": "KL1088",
       "model": "KL1088"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL2018R",
+      "codename": "KL2018R",
+      "model": "KL2018R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL2108NBE",
+      "codename": "KL2108NBE",
+      "model": "KL2108NBE"
     },
     {
       "manufacturer": "",
@@ -87,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL4889C",
+      "codename": "KL4889C",
+      "model": "KL4889C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL4890",
       "codename": "KL4890",
       "model": "KL4890"
@@ -129,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL503",
+      "codename": "KL503",
+      "model": "KL503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL551",
+      "codename": "KL551",
+      "model": "KL551"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL553",
       "codename": "KL553",
       "model": "KL553_EEA"
@@ -150,6 +186,18 @@
       "market_name": "KL601",
       "codename": "KL601",
       "model": "KL601"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL602",
+      "codename": "KL602",
+      "model": "KL602"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL628KO",
+      "codename": "KL628KO",
+      "model": "KL628KO"
     },
     {
       "manufacturer": "",
@@ -189,6 +237,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL830_EEA",
+      "codename": "KL830_EEA",
+      "model": "KL830"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL8889",
       "codename": "KL8889",
       "model": "KL8889"
@@ -198,6 +252,18 @@
       "market_name": "KL9878",
       "codename": "KL9878",
       "model": "KL9878"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL9878AE",
+      "codename": "KL9878AE",
+      "model": "KL9878AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL9878A_EEA",
+      "codename": "KL9878A_EEA",
+      "model": "KL9878A_EEA"
     },
     {
       "manufacturer": "",
@@ -228,6 +294,12 @@
       "market_name": "KLI758",
       "codename": "KLI758",
       "model": "KLIPAD_SMART_KLI758"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KLIPAD",
+      "codename": "KLIPAD",
+      "model": "KL628_HL"
     },
     {
       "manufacturer": "",

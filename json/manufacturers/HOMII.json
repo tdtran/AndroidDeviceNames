@@ -1,0 +1,29 @@
+{
+  "manufacturer": "HOMII",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HOMII M6",
+      "codename": "M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XBOOK",
+      "codename": "XBOOK",
+      "model": "XBOOK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XBOOK_PRO",
+      "codename": "XBOOK_PRO",
+      "model": "XBOOK_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xbookkids",
+      "codename": "Xbookkids",
+      "model": "Xbookkids"
+    }
+  ]
+}

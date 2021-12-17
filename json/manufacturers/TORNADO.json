@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TORNADO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TORNADO 2K SMART TV",
+      "codename": "shinagawa",
+      "model": "TORNADO 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TORNADO Android TV",
+      "codename": "SW4H",
+      "model": "TORNADO Android TV"
+    }
+  ]
+}

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tT7",
+      "codename": "T7",
+      "model": "T7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PR7RKTNF",
       "codename": "PR7RKTNF",
       "model": "PR7RKTNF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T9",
+      "codename": "T9",
+      "model": "T9"
     }
   ]
 }

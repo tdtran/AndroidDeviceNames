@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Action-X5",
+      "codename": "L752",
+      "model": "Action-X5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CORE-M4",
       "codename": "CORE-M4",
       "model": "CORE-M4"
@@ -48,6 +54,18 @@
       "market_name": "Core- X3",
       "codename": "HS8917QC",
       "model": "Core-X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-M5",
+      "codename": "L751",
+      "model": "Core-M5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-M5",
+      "codename": "L751_02",
+      "model": "Core-M5"
     },
     {
       "manufacturer": "",

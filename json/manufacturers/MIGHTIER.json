@@ -12,6 +12,18 @@
       "market_name": "MT003-20",
       "codename": "MT003-20",
       "model": "MT003-20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT003-21",
+      "codename": "MT003-21",
+      "model": "MT003-21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT004_20",
+      "codename": "MT004_20",
+      "model": "MT004_20"
     }
   ]
 }

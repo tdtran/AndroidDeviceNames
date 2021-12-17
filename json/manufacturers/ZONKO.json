@@ -51,9 +51,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K113",
+      "codename": "K113",
+      "model": "K113"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K116_M",
+      "codename": "K116_M",
+      "model": "K116_M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K118",
+      "codename": "K118",
+      "model": "K118"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K70_EEA",
       "codename": "K70_EEA",
       "model": "K70_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K710",
+      "codename": "K710",
+      "model": "K710"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K710_EEA",
+      "codename": "K710_EEA",
+      "model": "K710_EEA"
     },
     {
       "manufacturer": "",

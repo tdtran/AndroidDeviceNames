@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SANCO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Vietnam",
+      "codename": "tamachi",
+      "model": "SANCO Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vietnam",
+      "codename": "yeongdeungpo",
+      "model": "SANCO Android TV"
+    }
+  ]
+}

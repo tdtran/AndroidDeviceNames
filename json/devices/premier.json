@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Sky Devices",
+    "market_name": "Premier",
+    "codename": "Premier",
+    "model": "Premier"
+  },
+  {
     "manufacturer": "UNOCP",
     "market_name": "Premier",
     "codename": "Premier",

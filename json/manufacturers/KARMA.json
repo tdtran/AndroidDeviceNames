@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Karma",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KG555 Pro",
+      "codename": "KG555_Pro",
+      "model": "KG555 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KG777 Pro",
+      "codename": "KG777Pro",
+      "model": "KG777 Pro"
+    }
+  ]
+}

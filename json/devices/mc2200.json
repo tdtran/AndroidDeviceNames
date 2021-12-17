@@ -1,7 +1,19 @@
 [
   {
+    "manufacturer": "Sharp",
+    "market_name": "RZ-H271",
+    "codename": "MC2200",
+    "model": "RZ-H270"
+  },
+  {
     "manufacturer": "Zebra",
-    "market_name": "MC2200",
+    "market_name": "MC20",
+    "codename": "MC2200",
+    "model": "MC20"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "Zebra Technologies MC2200",
     "codename": "MC2200",
     "model": "MC2200"
   }

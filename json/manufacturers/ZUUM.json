@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AKUS PRO",
+      "codename": "AKUS_PRO",
+      "model": "AKUS PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AKUS Z",
       "codename": "Akus_Z",
       "model": "Akus Z"
@@ -12,6 +18,24 @@
       "market_name": "AKUS Z1",
       "codename": "AKUS_Z1",
       "model": "AKUS Z1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AURA PLUS JLO",
+      "codename": "AURA_PLUS_JLO",
+      "model": "AURA PLUS JLO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AURA PRO",
+      "codename": "AURA_PRO",
+      "model": "AURA PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AURA PRO JLO",
+      "codename": "AURA_PRO_JLO",
+      "model": "AURA PRO JLO"
     },
     {
       "manufacturer": "",
@@ -117,6 +141,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAGNO C1",
+      "codename": "MAGNO_C1",
+      "model": "MAGNO C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAGNO MINI",
+      "codename": "MAGNO_MINI",
+      "model": "MAGNO MINI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ONIX",
       "codename": "ONIX",
       "model": "ONIX"
@@ -132,6 +168,12 @@
       "market_name": "ROCKET II",
       "codename": "ROCKET_II",
       "model": "ROCKET II"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROCKET III",
+      "codename": "ROCKET_III",
+      "model": "ROCKET III"
     },
     {
       "manufacturer": "",
@@ -198,6 +240,12 @@
       "market_name": "ULTRA Z",
       "codename": "Ultra_Z",
       "model": "ULTRA Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOLTA_KIDS",
+      "codename": "VOLTA_KIDS",
+      "model": "VOLTA_KIDS"
     },
     {
       "manufacturer": "",

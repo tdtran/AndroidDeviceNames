@@ -6,6 +6,12 @@
       "market_name": "SEI400TM",
       "codename": "SEI400TM",
       "model": "TVision"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TVision HUB v2",
+      "codename": "SEI700TM",
+      "model": "TVision HUB v2"
     }
   ]
 }

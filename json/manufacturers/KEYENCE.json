@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BT-A500GA",
+      "codename": "BTA500",
+      "model": "BTA500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BTA700",
       "codename": "BTA700",
       "model": "BTA700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DX-A400",
+      "codename": "DX-A400",
+      "model": "DX-A400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DX-A600",
+      "codename": "DX-A600",
+      "model": "DX-A600"
     }
   ]
 }

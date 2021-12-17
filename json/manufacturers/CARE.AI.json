@@ -1,0 +1,11 @@
+{
+  "manufacturer": "care.ai",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AIM H1",
+      "codename": "AIM-H1",
+      "model": "AIM H1"
+    }
+  ]
+}

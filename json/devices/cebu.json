@@ -4,5 +4,11 @@
     "market_name": "moto g(9) power",
     "codename": "cebu",
     "model": "moto g(9) power"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "C00",
+    "codename": "Cebu",
+    "model": "C00"
   }
 ]

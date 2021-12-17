@@ -12,6 +12,12 @@
       "market_name": "SEI103V",
       "codename": "SEI103",
       "model": "ANDROID TV MEDIA BOX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "waipu tv stick",
+      "codename": "SEI700WP",
+      "model": "waipu tv stick"
     }
   ]
 }

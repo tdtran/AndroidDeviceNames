@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M8T",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1_Pro",
       "codename": "T1_pro",
       "model": "T1_pro"

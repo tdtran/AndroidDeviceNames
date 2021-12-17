@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Haoqin",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SpaceTab_H20",
+      "codename": "SpaceTab_H20",
+      "model": "SpaceTab_H20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SpaceTab_H20_EEA",
+      "codename": "SpaceTab_H20_EEA",
+      "model": "SpaceTab_H20_EEA"
+    }
+  ]
+}

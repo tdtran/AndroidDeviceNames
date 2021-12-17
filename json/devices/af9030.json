@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "benco",
+    "market_name": "AF9030",
+    "codename": "AF9030",
+    "model": "AF9030"
+  },
+  {
+    "manufacturer": "benco",
     "market_name": "benco Y30",
     "codename": "AF9030",
     "model": "AF9030"

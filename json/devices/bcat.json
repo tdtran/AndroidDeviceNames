@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Spectra Geospatial",
+    "market_name": "Ranger 5",
+    "codename": "bcat",
+    "model": "RGR5"
+  },
+  {
+    "manufacturer": "Trimble Navigation",
+    "market_name": "Ranger 5",
+    "codename": "bcat",
+    "model": "RGR5"
+  },
+  {
+    "manufacturer": "Trimble Navigation",
+    "market_name": "TSC5",
+    "codename": "bcat",
+    "model": "TSC5"
+  }
+]

@@ -15,6 +15,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SINGER ANDROID TV",
+      "codename": "sunnyvale",
+      "model": "SINGER ANDROID TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SINGER BD SMART TV",
+      "codename": "SW4H_FF",
+      "model": "SINGER BD SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SINGER SL SMART TV",
+      "codename": "SW4H",
+      "model": "SINGER SL SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SingerTV",
       "codename": "shibuya",
       "model": "SingerTV"

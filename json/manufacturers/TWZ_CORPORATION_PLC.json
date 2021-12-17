@@ -42,6 +42,12 @@
       "market_name": "U18",
       "codename": "U18",
       "model": "U18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V6",
+      "codename": "V6",
+      "model": "V6"
     }
   ]
 }

@@ -4,5 +4,11 @@
     "market_name": "Casper VIA X20",
     "codename": "VIA_X20",
     "model": "VIA X20"
+  },
+  {
+    "manufacturer": "Casper",
+    "market_name": "VIA X20",
+    "codename": "VIA_X20",
+    "model": "VIA X20"
   }
 ]

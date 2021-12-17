@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tSilver Max Pro",
+      "codename": "Silver_Max_Pro",
+      "model": "Silver Max Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R1",
       "model": "ATV R1"
@@ -24,6 +30,12 @@
       "market_name": "Black",
       "codename": "Black",
       "model": "Black"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Black G",
+      "codename": "Black_G",
+      "model": "Black G"
     },
     {
       "manufacturer": "",
@@ -63,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Element Play",
+      "codename": "ELEMENT_PLAY",
+      "model": "ELEMENT PLAY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gold Pro",
       "codename": "GOLD_PRO",
       "model": "GOLD_PRO"
@@ -84,6 +102,12 @@
       "market_name": "SILVER_MAX",
       "codename": "SILVER_MAX",
       "model": "SILVER_MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Silver Max Lite",
+      "codename": "Silver_Max_Lite",
+      "model": "Silver Max Lite"
     },
     {
       "manufacturer": "",

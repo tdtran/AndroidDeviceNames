@@ -18,6 +18,12 @@
       "market_name": "Bubblegum",
       "codename": "Bubblegum",
       "model": "Bubblegum"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Junior_7",
+      "codename": "Junior_7",
+      "model": "Junior_7"
     }
   ]
 }

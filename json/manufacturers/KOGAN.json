@@ -10,12 +10,6 @@
     {
       "manufacturer": "",
       "market_name": "Australia",
-      "codename": "hanyang",
-      "model": "Kogan SmarterTV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Australia",
       "codename": "nippori",
       "model": "Kogan SmarterTV 2K"
     },
@@ -24,6 +18,18 @@
       "market_name": "Australia",
       "codename": "shibuya",
       "model": "KoganTVAP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "tamachi",
+      "model": "Kogan TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "yeongdeungpo",
+      "model": "Kogan TV"
     },
     {
       "manufacturer": "",
@@ -36,6 +42,18 @@
       "market_name": "KALED50XU9210STA",
       "codename": "samseong",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kogan 4K Android TV",
+      "codename": "SW4H",
+      "model": "Kogan 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kogan 4K PRO Android TV",
+      "codename": "SW4H_FF",
+      "model": "Kogan 4K PRO Android TV"
     },
     {
       "manufacturer": "",
@@ -66,6 +84,24 @@
       "market_name": "Kogan Agora XS",
       "codename": "Kogan_Agora_XS",
       "model": "Agora XS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kogan SmarterTV",
+      "codename": "hanyang",
+      "model": "Kogan SmarterTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RF9220",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
     }
   ]
 }

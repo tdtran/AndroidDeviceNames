@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ASTECH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Senegal",
+      "codename": "tamachi",
+      "model": "ASTECH FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Senegal",
+      "codename": "yeongdeungpo",
+      "model": "ASTECH UHD Android TV"
+    }
+  ]
+}

@@ -4,5 +4,11 @@
     "market_name": "I3",
     "codename": "I3",
     "model": "IKU i3"
+  },
+  {
+    "manufacturer": "iData",
+    "market_name": "iData i3",
+    "codename": "i3",
+    "model": "iData i3"
   }
 ]

@@ -18,8 +18,20 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Alpha",
+    "market_name": "M8T",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Arrow",
     "market_name": "RO-43LCS",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BLUE",
+    "market_name": "G6SG",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
@@ -30,8 +42,20 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "BRUHM",
+    "market_name": "BTF-43SG",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "BenQ",
     "market_name": "E40-520",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "B5000",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
@@ -169,6 +193,12 @@
   },
   {
     "manufacturer": "OK (Mediamark)",
+    "market_name": "32770H-TAB",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
     "market_name": "ODL 32770H-TAB",
     "codename": "ikebukuro",
     "model": "AI PONT"
@@ -216,6 +246,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "TECO",
+    "market_name": "K5T",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Thomson",
     "market_name": "32TG6A9",
     "codename": "ikebukuro",
@@ -230,6 +266,12 @@
   {
     "manufacturer": "VTCNOWRINDO",
     "market_name": "VR-42AF6800",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Vise",
+    "market_name": "32VRCHG5SP",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },

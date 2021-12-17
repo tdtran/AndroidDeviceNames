@@ -4,5 +4,11 @@
     "market_name": "BL54Pro",
     "codename": "Bmobile_BL54Pro",
     "model": "BL54Pro"
+  },
+  {
+    "manufacturer": "BMobile",
+    "market_name": "BL54Pro_MV12",
+    "codename": "Bmobile_BL54Pro",
+    "model": "BL54Pro"
   }
 ]

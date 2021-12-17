@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NEW 11",
+      "codename": "Smartphone",
+      "model": "NEW 11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEW 7",
       "codename": "NEW_7",
       "model": "NEW 7"
@@ -66,6 +72,12 @@
       "market_name": "VENTURE V12",
       "codename": "Venture_V12",
       "model": "Venture V12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VTAB2_3G",
+      "codename": "VTAB2_3G",
+      "model": "V TAB 2"
     },
     {
       "manufacturer": "",

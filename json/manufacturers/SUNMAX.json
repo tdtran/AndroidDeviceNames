@@ -1,0 +1,29 @@
+{
+  "manufacturer": "SUNMAX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Model_3",
+      "codename": "Model_3",
+      "model": "Model 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_S",
+      "codename": "Model_S",
+      "model": "Model S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_S_4G",
+      "codename": "Model_S_4G",
+      "model": "Model S 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_Y",
+      "codename": "Model_Y",
+      "model": "Model Y"
+    }
+  ]
+}

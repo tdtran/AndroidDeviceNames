@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "Lenovo",
+    "market_name": "Lenovo K13 Note",
+    "codename": "capri",
+    "model": "Lenovo K12 Note"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "market_name": "Lenovo K13 Note",
+    "codename": "capri",
+    "model": "Lenovo K13 Note"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g(10)",
+    "codename": "capri",
+    "model": "moto e(7) plus"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g(10)",
+    "codename": "capri",
+    "model": "moto g(10)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g10 power",
+    "codename": "capri",
+    "model": "moto g(10) power"
+  }
+]

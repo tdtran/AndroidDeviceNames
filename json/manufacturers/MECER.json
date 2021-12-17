@@ -27,6 +27,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DX10-66",
+      "codename": "DX10-66",
+      "model": "DX10-66"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DX10-66-LTE",
+      "codename": "DX10-66-LTE",
+      "model": "DX10-66-LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M17QF6-3Gplus",
+      "codename": "M17QF6-3Gplus",
+      "model": "M17QF6-3Gplus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M17QF6_3G",
       "codename": "M17QF6_3G",
       "model": "M17QF6_3G"
@@ -42,6 +60,12 @@
       "market_name": "M76QF6",
       "codename": "M76QF6",
       "model": "M76QF6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M77QF6",
+      "codename": "M77QF6",
+      "model": "M77QF6"
     },
     {
       "manufacturer": "",

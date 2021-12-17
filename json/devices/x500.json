@@ -6,6 +6,12 @@
     "model": "X500"
   },
   {
+    "manufacturer": "OMIX",
+    "market_name": "X500",
+    "codename": "X500",
+    "model": "OMIX X500"
+  },
+  {
     "manufacturer": "Positivo",
     "market_name": "Next",
     "codename": "X500",

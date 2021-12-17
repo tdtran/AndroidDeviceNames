@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A130",
+      "codename": "A130",
+      "model": "A130"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A140",
       "codename": "A140",
       "model": "A140"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A145",
+      "codename": "A145",
+      "model": "A145"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1",
+      "codename": "AX1",
+      "model": "AX1"
     }
   ]
 }

@@ -6,6 +6,12 @@
       "market_name": "Sandata",
       "codename": "Sandata_T5",
       "model": "T5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sandata_T5",
+      "codename": "Sandata_T5",
+      "model": "T5"
     }
   ]
 }

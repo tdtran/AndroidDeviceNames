@@ -6,6 +6,24 @@
       "market_name": "Thailand",
       "codename": "tamachi",
       "model": "Nano FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thailand",
+      "codename": "yeongdeungpo",
+      "model": "Nano UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nano",
+      "codename": "gangbyeon",
+      "model": "nano 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nano",
+      "codename": "osaki",
+      "model": "nano 2K AI Smart TV"
     }
   ]
 }

@@ -84,6 +84,12 @@
       "market_name": "VIVAX_PRO3",
       "codename": "VIVAX_PRO3",
       "model": "VIVAX_PRO3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVAX_TPC-105_4G",
+      "codename": "VIVAX_TPC-105_4G",
+      "model": "VIVAX_TPC-105_4G"
     }
   ]
 }

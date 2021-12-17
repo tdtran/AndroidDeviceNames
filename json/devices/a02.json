@@ -4,5 +4,41 @@
     "market_name": "InFocus M7 Lite",
     "codename": "A02",
     "model": "IF9031"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A02",
+    "codename": "a02",
+    "model": "SM-A022F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A02",
+    "codename": "a02",
+    "model": "SM-A022G"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A02",
+    "codename": "a02",
+    "model": "SM-A022M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M02",
+    "codename": "a02",
+    "model": "SM-M022F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M02",
+    "codename": "a02",
+    "model": "SM-M022G"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M02",
+    "codename": "a02",
+    "model": "SM-M022M"
   }
 ]

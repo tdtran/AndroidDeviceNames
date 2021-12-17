@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\tMara X1 MT",
+      "codename": "Mara_X1_MT",
+      "model": "Mara Phones X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\tMara Z1 MT",
+      "codename": "Mara_Z1_MT",
+      "model": "Mara Phones Z1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MARA Z",
       "codename": "Mara_Z_sprout",
       "model": "Mara Z"

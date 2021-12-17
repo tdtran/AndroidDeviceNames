@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V TAB Z2 LTE",
+      "codename": "EKVATOR",
+      "model": "V TAB Z2 LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V TAB c1",
       "codename": "MELTEM",
       "model": "V TAB c1"

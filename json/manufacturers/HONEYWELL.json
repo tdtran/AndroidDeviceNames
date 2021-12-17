@@ -237,18 +237,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "CT40",
-      "codename": "CT40P-L0-F",
-      "model": "CT40"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "CT40",
-      "codename": "CT40P-L1-F",
-      "model": "CT40"
-    },
-    {
-      "manufacturer": "",
       "market_name": "CT40P",
       "codename": "CT40P-L1-D",
       "model": "CT40"
@@ -258,6 +246,36 @@
       "market_name": "CT40P-L0-D",
       "codename": "CT40P-L0-D",
       "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40XP",
+      "codename": "CT40P-L0-F",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40XP",
+      "codename": "CT40P-L1-F",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT45",
+      "codename": "CT45",
+      "model": "CT45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT45 XP",
+      "codename": "CT45P",
+      "model": "CT45P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT45XP",
+      "codename": "CT45P",
+      "model": "CT45P"
     },
     {
       "manufacturer": "",
@@ -304,18 +322,18 @@
     {
       "manufacturer": "",
       "market_name": "CT60",
-      "codename": "CT60-L0N-ASC",
-      "model": "CT60"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "CT60-L0-C",
       "codename": "CT60-L0-C",
       "model": "CT60"
     },
     {
       "manufacturer": "",
-      "market_name": "CT60-L1N-C",
+      "market_name": "CT60",
+      "codename": "CT60-L0N-ASC",
+      "model": "CT60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT60",
       "codename": "CT60-L1-C",
       "model": "CT60"
     },
@@ -366,6 +384,18 @@
       "market_name": "Dolphin CT50",
       "codename": "CT50LUN-CS13S",
       "model": "CT50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA40",
+      "codename": "EDA40-0",
+      "model": "EDA40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA40",
+      "codename": "EDA40-1",
+      "model": "EDA40"
     },
     {
       "manufacturer": "",
@@ -447,6 +477,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EDA52",
+      "codename": "EDA52",
+      "model": "EDA52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA5S",
+      "codename": "EDA5S",
+      "model": "EDA5S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EDA61K",
       "codename": "EDA61K-0C",
       "model": "EDA61K"
@@ -501,43 +543,55 @@
     },
     {
       "manufacturer": "",
-      "market_name": "T60A",
-      "codename": "TA60A-L1-C",
-      "model": "TA60A"
+      "market_name": "HMS-PD-X1C-3",
+      "codename": "HMS-PD-X1C-3",
+      "model": "HMS-PD-X1C-3"
     },
     {
       "manufacturer": "",
-      "market_name": "TA60A",
+      "market_name": "RT10A",
+      "codename": "TA60A-L0-C",
+      "model": "RT10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT10A",
       "codename": "TA60A-L0-C",
       "model": "TA60A"
     },
     {
       "manufacturer": "",
-      "market_name": "TA60A",
+      "market_name": "RT10A",
+      "codename": "TA60A-L1-C",
+      "model": "RT10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT10A",
       "codename": "TA60A-L1-C",
       "model": "TA60A"
     },
     {
       "manufacturer": "",
-      "market_name": "VM1A",
+      "market_name": "Thor VM1A",
       "codename": "VM1A-L0-N",
       "model": "VM1A"
     },
     {
       "manufacturer": "",
-      "market_name": "VM1A",
+      "market_name": "Thor VM1A",
       "codename": "VM1A-L0-P",
       "model": "VM1A"
     },
     {
       "manufacturer": "",
-      "market_name": "VM3A",
+      "market_name": "Thor VM3A",
       "codename": "VM3A-L0-N",
       "model": "VM3A"
     },
     {
       "manufacturer": "",
-      "market_name": "VM3A",
+      "market_name": "Thor VM3A",
       "codename": "VM3A-L0-P",
       "model": "VM3A"
     }

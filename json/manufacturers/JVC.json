@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AV-08NT310",
+      "codename": "AV-08NT310",
+      "model": "AV-08NT310"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AV-10NT310",
       "codename": "AV-10NT310",
       "model": "AV-10NT310"
@@ -60,6 +66,12 @@
       "market_name": "Dixons",
       "codename": "sadang",
       "model": "UK 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "France",
+      "codename": "yeongdeungpo",
+      "model": "JVC 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -192,6 +204,18 @@
       "market_name": "LT-55KB597",
       "codename": "sindorim",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South Africa/Australia /Israel/Paraguay",
+      "codename": "tamachi",
+      "model": "JVC Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South Africa/Australia /Israel/Paraguay",
+      "codename": "yeongdeungpo",
+      "model": "JVC Android TV"
     },
     {
       "manufacturer": "",

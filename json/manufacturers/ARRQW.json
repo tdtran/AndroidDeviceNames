@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ARRQW",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RO-55LCS",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Saudi Arabia",
+      "codename": "tamachi",
+      "model": "ARRQW FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Saudi Arabia",
+      "codename": "yeongdeungpo",
+      "model": "ARRQW UHD Android TV"
+    }
+  ]
+}

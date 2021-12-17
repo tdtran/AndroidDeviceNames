@@ -13,7 +13,25 @@
   },
   {
     "manufacturer": "CILICO",
+    "market_name": "C6_P",
+    "codename": "C6",
+    "model": "C6"
+  },
+  {
+    "manufacturer": "Handheld-Wireless",
     "market_name": "C6",
+    "codename": "C6",
+    "model": "C6"
+  },
+  {
+    "manufacturer": "Handheld-Wireless",
+    "market_name": "C6_EEA",
+    "codename": "C6",
+    "model": "C6"
+  },
+  {
+    "manufacturer": "Handheld-Wireless",
+    "market_name": "C6_TU",
     "codename": "C6",
     "model": "C6"
   }

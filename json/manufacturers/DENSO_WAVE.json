@@ -78,6 +78,54 @@
       "market_name": "BHT-1800QWBG-3-A7",
       "codename": "BHT-1800QWBG-3-A7",
       "model": "BHT-1800QWBG-3-A7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M60-QW-A10",
+      "codename": "BHT-M60-QW-A10",
+      "model": "BHT-M60-QW-A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M60-QW-A10N",
+      "codename": "BHT-M60-QW-A10N",
+      "model": "BHT-M60-QW-A10N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M60-QWG-A10",
+      "codename": "BHT-M60-QWG-A10",
+      "model": "BHT-M60-QWG-A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M60-QWG-A10N",
+      "codename": "BHT-M60-QWG-A10N",
+      "model": "BHT-M60-QWG-A10N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M70-QW-A10",
+      "codename": "BHT-M70-QW-A10",
+      "model": "BHT-M70-QW-A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M70-QWG-A10",
+      "codename": "BHT-M70-QWG-A10",
+      "model": "BHT-M70-QWG-A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M80-QW-A10",
+      "codename": "BHT-M80-QW-A10",
+      "model": "BHT-M80-QW-A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BHT-M80-QWG-A10",
+      "codename": "BHT-M80-QWG-A10",
+      "model": "BHT-M80-QWG-A10"
     }
   ]
 }

@@ -1,9 +1,15 @@
 [
   {
     "manufacturer": "Oppo",
-    "market_name": "Reno 5",
+    "market_name": "CPH2159",
     "codename": "OP4F25L1",
     "model": "CPH2159"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "CPH2235",
+    "codename": "OP4F25L1",
+    "model": "CPH2235"
   },
   {
     "manufacturer": "Oppo",

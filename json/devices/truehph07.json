@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "True",
+    "market_name": "True ID TV",
+    "codename": "TrueHPH07",
+    "model": "HPH07"
+  },
+  {
+    "manufacturer": "True",
     "market_name": "TrueID TV",
     "codename": "TrueHPH07",
     "model": "HPH07"

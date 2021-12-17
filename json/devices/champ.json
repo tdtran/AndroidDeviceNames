@@ -4,5 +4,11 @@
     "market_name": "Champ",
     "codename": "Champ",
     "model": "FS529"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "CHAMP",
+    "codename": "CHAMP",
+    "model": "CHAMP"
   }
 ]

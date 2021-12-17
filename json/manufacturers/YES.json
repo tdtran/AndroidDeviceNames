@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Altitude 4",
+      "codename": "Altitude_4",
+      "model": "YES Altitude 4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M631Y",
       "codename": "M631Y",
       "model": "M631Y"
@@ -29,6 +35,12 @@
       "manufacturer": "",
       "market_name": "yes",
       "codename": "SEI500Y",
+      "model": "yes"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "yes",
+      "codename": "SEI800Y",
       "model": "yes"
     }
   ]

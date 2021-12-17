@@ -1,0 +1,17 @@
+{
+  "manufacturer": "NOWO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DV 8535 4K",
+      "codename": "DV8535-KPN",
+      "model": "DV 8535 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DV 8935 X4",
+      "codename": "DV8935-KPN",
+      "model": "DV 8935 X4"
+    }
+  ]
+}

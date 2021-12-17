@@ -10,5 +10,11 @@
     "market_name": "",
     "codename": "A80S",
     "model": "Archos 80 Internet Tablet"
+  },
+  {
+    "manufacturer": "Blackview",
+    "market_name": "A80S",
+    "codename": "A80S",
+    "model": "A80S"
   }
 ]

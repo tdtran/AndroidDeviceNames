@@ -617,6 +617,12 @@
       "manufacturer": "",
       "market_name": "ROG Phone 3",
       "codename": "ASUS_I003_1",
+      "model": "ASUS_I003D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 3",
+      "codename": "ASUS_I003_1",
       "model": "ASUS_I003DD"
     },
     {
@@ -627,9 +633,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROG Phone 5",
+      "codename": "ASUS_I005_1",
+      "model": "ASUS_I005D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 5",
+      "codename": "ASUS_I005_1",
+      "model": "ASUS_I005DA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 5",
+      "codename": "ASUS_I005_1",
+      "model": "ASUS_I005DB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 5",
+      "codename": "ASUS_I005_1",
+      "model": "ZS673KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 5",
+      "codename": "ASUS_I005_1",
+      "model": "ZS676KS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ROG Phone ll",
       "codename": "ASUS_I001_1",
       "model": "ASUS_I001D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone ll",
+      "codename": "ASUS_I001_1",
+      "model": "ASUS_I001DC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone ll",
+      "codename": "ASUS_I001_1",
+      "model": "ASUS_I001DE"
     },
     {
       "manufacturer": "",
@@ -642,6 +690,12 @@
       "market_name": "RTC-700A",
       "codename": "RTC-tablet",
       "model": "RTC-tablet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smartphone for Snapdragon Insiders",
+      "codename": "ASUS_I007_1",
+      "model": "ASUS_I007D"
     },
     {
       "manufacturer": "",
@@ -1386,6 +1440,12 @@
       "market_name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
       "codename": "ASUS_I002D",
       "model": "ZS670KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+      "codename": "ASUS_I002D",
+      "model": "ZS671KS"
     },
     {
       "manufacturer": "",
@@ -2148,6 +2208,30 @@
       "market_name": "Zenbo Qrobot",
       "codename": "ASUS_ZENBO",
       "model": "Zenbo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zenfone 8 / ASUS 8Z",
+      "codename": "ASUS_I006D",
+      "model": "ASUS_I006D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zenfone 8 / ASUS 8Z",
+      "codename": "ASUS_I006D",
+      "model": "ZS590KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zenfone 8 Flip",
+      "codename": "ASUS_I004D",
+      "model": "ASUS_I004D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zenfone 8 Flip",
+      "codename": "ASUS_I004D",
+      "model": "ZS672KS"
     },
     {
       "manufacturer": "",

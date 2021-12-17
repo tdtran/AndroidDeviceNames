@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BT8X1",
+      "codename": "BT8X1",
+      "model": "BT8X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BTSL1",
+      "codename": "BTSL1",
+      "model": "BTSL1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BTXS1",
       "codename": "BTXS1",
       "model": "BTXS1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EX10SL4",
+      "codename": "EXCEED",
+      "model": "EX10SL4"
     }
   ]
 }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "100011886",
+      "codename": "tablet",
+      "model": "100011886"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100011886_GTW",
+      "codename": "tablet",
+      "model": "100011886_GTW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K701",
       "codename": "K701",
       "model": "K701"

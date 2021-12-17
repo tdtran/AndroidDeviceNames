@@ -52,26 +52,8 @@
     {
       "manufacturer": "",
       "market_name": "APAC",
-      "codename": "hanyang",
-      "model": "Haitech Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "APAC",
-      "codename": "hanyang",
-      "model": "haierATV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "APAC",
       "codename": "nippori",
       "model": "CANDY Android TV 2K"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "APAC",
-      "codename": "nippori",
-      "model": "haierATVnippori"
     },
     {
       "manufacturer": "",
@@ -219,6 +201,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EVVO Android TV",
+      "codename": "hanyang",
+      "model": "EVVO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ecuador",
+      "codename": "nippori",
+      "model": "EVVO 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ecuador",
+      "codename": "nippori",
+      "model": "INNOVA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elegance E13",
       "codename": "E13",
       "model": "E13"
@@ -315,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HEC Android TV",
+      "codename": "hanyang",
+      "model": "HEC Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HG-9041",
       "codename": "HG-9041",
       "model": "HG-9041"
@@ -399,6 +405,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier 2K android TV",
+      "codename": "nippori",
+      "model": "haierATVnippori"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV",
+      "codename": "hanyang",
+      "model": "haierATV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV",
+      "codename": "hongik",
+      "model": "haierATVhongik"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV",
+      "codename": "uguisudani",
+      "model": "haierATVuguisudani"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV DVB2K",
+      "codename": "broadway",
+      "model": "Haier Android TV DVB2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV FF Pro",
+      "codename": "daan",
+      "model": "Haier Android TV FF Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV PRO",
+      "codename": "daan",
+      "model": "Haier Android TV PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Haier Leisure L7",
       "codename": "Haier_Leisure_L7",
       "model": "HM-N700-FL"
@@ -411,9 +459,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier android TV",
+      "codename": "hanyang",
+      "model": "Haier 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HaierG61",
       "codename": "HM-G701-FL",
       "model": "HM-G701-FL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haitech android TV",
+      "codename": "hanyang",
+      "model": "Haitech Android TV"
     },
     {
       "manufacturer": "",
@@ -456,6 +516,18 @@
       "market_name": "INGO-TAB",
       "codename": "INGO-TAB",
       "model": "INGO-TAB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA android TV",
+      "codename": "hanyang",
+      "model": "INNOVA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "nippori",
+      "model": "MAGELITE Android TV 2K"
     },
     {
       "manufacturer": "",
@@ -543,12 +615,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Latin America",
-      "codename": "hanyang",
-      "model": "Haier 4K Android TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Logicom S9782",
       "codename": "Logicom-S9782",
       "model": "Logicom-S9782"
@@ -557,6 +623,12 @@
       "manufacturer": "",
       "market_name": "M53-52401",
       "codename": "M53-52401",
+      "model": "M53-52401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M53-52401",
+      "codename": "M5352401",
       "model": "M53-52401"
     },
     {
@@ -603,6 +675,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Magelite android TV",
+      "codename": "hanyang",
+      "model": "MAGELITE Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEO10-1",
       "codename": "NEO10-1",
       "model": "NEO10-1"
@@ -627,15 +705,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "North America",
-      "codename": "uguisudani",
-      "model": "haierATVuguisudani"
+      "market_name": "OLED TV S9",
+      "codename": "SW4H_FF",
+      "model": "OLED TV S9"
     },
     {
       "manufacturer": "",
       "market_name": "P2",
       "codename": "P2",
       "model": "P2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20",
+      "codename": "P20",
+      "model": "P20"
     },
     {
       "manufacturer": "",
@@ -846,6 +930,12 @@
       "market_name": "W860",
       "codename": "W860",
       "model": "W860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "candy android TV",
+      "codename": "hanyang",
+      "model": "CANDY Android TV"
     },
     {
       "manufacturer": "",

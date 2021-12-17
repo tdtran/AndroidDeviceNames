@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ATOL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Smart.Slim Plus",
+      "codename": "t50p",
+      "model": "Smart_Slim_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart_Prime",
+      "codename": "t150",
+      "model": "Smart_Prime"
+    }
+  ]
+}

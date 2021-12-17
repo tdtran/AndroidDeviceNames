@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ViewPad_M7_2_32",
+      "codename": "mid7015_mk_32",
+      "model": "ViewPad M7-2/32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ViewPadi7Q",
       "codename": "vsi7q_1_coho",
       "model": "vsi7q_1"

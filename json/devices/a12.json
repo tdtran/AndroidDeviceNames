@@ -6,6 +6,12 @@
     "model": "S520"
   },
   {
+    "manufacturer": "FACETEL",
+    "market_name": "A12",
+    "codename": "A12",
+    "model": "A12"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy A12",
     "codename": "a12",
@@ -16,5 +22,11 @@
     "market_name": "Galaxy A12",
     "codename": "a12",
     "model": "SM-A125M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A12",
+    "codename": "a12",
+    "model": "SM-A125N"
   }
 ]

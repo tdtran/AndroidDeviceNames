@@ -30,6 +30,30 @@
       "market_name": "TAB-7383-16G3GS",
       "codename": "TAB-7383-16G3GS",
       "model": "TAB-7383-16G3GS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-7522-16G3G",
+      "codename": "TAB-7522-16G3G",
+      "model": "TAB-7522-16G3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-7769-32G4GS",
+      "codename": "TAB-7769-32G4GS",
+      "model": "TAB-7769-32G4GS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-7887-32G3GB",
+      "codename": "TAB-7887-32G3GB",
+      "model": "TAB-7887-32G3GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-7888-32G3GB",
+      "codename": "TAB-7888-32G3GB",
+      "model": "TAB-7888-32G3GB"
     }
   ]
 }

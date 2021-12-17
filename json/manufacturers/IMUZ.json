@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G10E",
+      "codename": "G10",
+      "model": "G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L101",
+      "codename": "G10",
+      "model": "L101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M101",
+      "codename": "G10",
+      "model": "M101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RA10",
       "codename": "RA10",
       "model": "RA10"

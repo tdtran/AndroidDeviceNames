@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ASANZO 2K TV",
+      "codename": "shibuya",
+      "model": "ASANZO 2K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ASANZO A2",
       "codename": "ASANZO_A2",
       "model": "ASANZO A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Asanzo",
+      "codename": "SW4H",
+      "model": "ASG 4K TV"
     },
     {
       "manufacturer": "",

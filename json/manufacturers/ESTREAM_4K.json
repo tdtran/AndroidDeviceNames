@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pyxis-ABB",
+      "codename": "SEI500ABB",
+      "model": "Pyxis-ABB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pyxis-ARMSTRONG",
       "codename": "SEI500AS",
       "model": "Pyxis-ARMSTRONG"

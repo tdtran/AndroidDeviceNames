@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Gplus",
+    "market_name": "P10",
+    "codename": "P10",
+    "model": "Gplus P10"
+  },
+  {
     "manufacturer": "Haier",
     "market_name": "Power P10",
     "codename": "P10",
@@ -19,6 +25,12 @@
   },
   {
     "manufacturer": "Reeder",
+    "market_name": "P10",
+    "codename": "P10",
+    "model": "P10"
+  },
+  {
+    "manufacturer": "Vankyo",
     "market_name": "P10",
     "codename": "P10",
     "model": "P10"

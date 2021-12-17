@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K901",
+      "codename": "K901_2",
+      "model": "K901"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KAICOM W660",
       "codename": "W660",
       "model": "W660"

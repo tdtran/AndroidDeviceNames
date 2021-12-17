@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "KONDE",
+    "market_name": "KIDS_FIVE",
+    "codename": "KIDS_FIVE",
+    "model": "KIDS_FIVE"
+  },
+  {
     "manufacturer": "Krono",
     "market_name": "kIDS_FIVE",
     "codename": "KIDS_FIVE",

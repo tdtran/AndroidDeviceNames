@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TZ199",
+      "codename": "TZ199",
+      "model": "TZ199"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ200",
       "codename": "TZ200",
       "model": "TZ200"
@@ -261,6 +267,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TZ718",
+      "codename": "TZ718",
+      "model": "TZ718"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ719",
+      "codename": "TZ719",
+      "model": "TZ719"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ720",
       "codename": "TZ720",
       "model": "TZ720"
@@ -294,6 +312,12 @@
       "market_name": "TZ727",
       "codename": "TZ727",
       "model": "TZ727"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ728",
+      "codename": "TZ728",
+      "model": "TZ728"
     },
     {
       "manufacturer": "",
@@ -366,6 +390,12 @@
       "market_name": "TZ831",
       "codename": "TZ831",
       "model": "TZ831"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ832",
+      "codename": "TZ832",
+      "model": "TZ832"
     },
     {
       "manufacturer": "",

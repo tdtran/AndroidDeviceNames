@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "1021W_URBAN",
+      "codename": "1021W_URBAN",
+      "model": "MID1021W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BEAUTY 2 HD Quad core",
       "codename": "MID7378",
       "model": "eSTAR BEAUTY 2 HD Quad core"
@@ -36,6 +42,12 @@
       "market_name": "Lithuania",
       "codename": "tamachi",
       "model": "eSTAR FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lithuania",
+      "codename": "yeongdeungpo",
+      "model": "eSTAR UHD Android TV"
     },
     {
       "manufacturer": "",

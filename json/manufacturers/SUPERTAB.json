@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "16G4H101",
+      "codename": "16G4H101",
+      "model": "16G4H101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A7A",
       "codename": "A7A",
       "model": "A7A"

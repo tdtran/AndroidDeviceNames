@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Oppo",
+    "market_name": "CPH2043",
+    "codename": "OP4B9EL1",
+    "model": "CPH2043"
+  },
+  {
+    "manufacturer": "Oppo",
     "market_name": "Reno3",
     "codename": "OP4B9EL1",
     "model": "CPH2043"

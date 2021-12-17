@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Ipro",
+    "market_name": "S100",
+    "codename": "S100",
+    "model": "S100"
+  },
+  {
     "manufacturer": "KT Tech",
     "market_name": "EV-S100",
     "codename": "s100",

@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Telenor",
+    "market_name": "MediaBox",
+    "codename": "MediaBox_B866V2",
+    "model": "MediaBox"
+  },
+  {
+    "manufacturer": "Viettel",
+    "market_name": "B866V2",
+    "codename": "MediaBox_B866V2",
+    "model": "B866V2"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "B866V2",
+    "codename": "MediaBox_B866V2",
+    "model": "B866V2"
+  }
+]

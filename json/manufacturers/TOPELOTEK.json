@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KIDS708_709A",
+      "codename": "KIDS708_709A",
+      "model": "KIDS708-709A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KIDS709",
       "codename": "KIDS709",
       "model": "KIDS709"
@@ -48,6 +54,18 @@
       "market_name": "TOPELOTEK",
       "codename": "KIDS09",
       "model": "KIDS09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V7",
+      "codename": "V7",
+      "model": "V7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y8",
+      "codename": "Y8",
+      "model": "Y8"
     }
   ]
 }

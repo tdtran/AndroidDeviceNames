@@ -15,6 +15,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KindPad_SA8_EEA",
+      "codename": "KindPad_SA8_EEA",
+      "model": "KingPad_SA8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_K10",
+      "codename": "KingPad_K10",
+      "model": "KingPad_K10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_K10Pro",
+      "codename": "KingPad_K10Pro",
+      "model": "KingPad_K10Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_K10Pro_EEA",
+      "codename": "KingPad_K10Pro_EEA",
+      "model": "KingPad_K10Pro_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_K10_EEA",
+      "codename": "KingPad_K10_EEA",
+      "model": "KingPad_K10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_M10",
+      "codename": "KingPad_M10",
+      "model": "KingPad_M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_M10_EEA",
+      "codename": "KingPad_M10_EEA",
+      "model": "KingPad_M10_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KingPad_SA10",
       "codename": "KingPad_SA10",
       "model": "KingPad_SA10"
@@ -30,6 +72,42 @@
       "market_name": "KingPad_SA8",
       "codename": "KingPad_SA8",
       "model": "KingPad_SA8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_Z10",
+      "codename": "KingPad_Z10",
+      "model": "KingPad_Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_Z10Mini",
+      "codename": "KingPad_Z10Mini",
+      "model": "KingPad_Z10Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_Z10Mini_EEA",
+      "codename": "KingPad_Z10Mini_EEA",
+      "model": "KingPad_Z10Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_Z10S",
+      "codename": "KingPad_Z10S",
+      "model": "KingPad_Z10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_Z10S_EEA",
+      "codename": "KingPad_Z10S_EEA",
+      "model": "KingPad_Z10S_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KingPad_Z10_EEA",
+      "codename": "KingPad_Z10_EEA",
+      "model": "KingPad_Z10_EEA"
     },
     {
       "manufacturer": "",

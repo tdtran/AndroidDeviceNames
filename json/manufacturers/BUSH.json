@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BUSH",
+      "codename": "ewha",
+      "model": "BUSH-TVE19L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BUSH SPIRA B3 10 TABLET",
       "codename": "ac101boxv2",
       "model": "BUSH SPIRA B3 10 TABLET"
@@ -30,6 +36,12 @@
       "market_name": "BUSH SPIRA B5.5 POWER",
       "codename": "ac55crp",
       "model": "BUSH SPIRA B5.5 POWER"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bush",
+      "codename": "sindang",
+      "model": "BUSH-TVE19N"
     },
     {
       "manufacturer": "",

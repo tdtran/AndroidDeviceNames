@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GA7133",
+      "codename": "GA7133",
+      "model": "GA7133"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA_A1",
       "codename": "GHIA_A1",
       "model": "GHIA_A1"
@@ -87,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GPND133",
+      "codename": "GPND133",
+      "model": "GPND133"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GS3G",
+      "codename": "GS3G",
+      "model": "GS3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GTA7PLUS",
       "codename": "GTA7PLUS",
       "model": "GTA7PLUS"
@@ -114,6 +132,12 @@
       "market_name": "GTABPND",
       "codename": "GTABPND",
       "model": "GTABPND"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GTKIDS7-100",
+      "codename": "GTKIDS7-100",
+      "model": "GTKIDS7-100"
     },
     {
       "manufacturer": "",
@@ -156,6 +180,12 @@
       "market_name": "GTPND7",
       "codename": "GTPND7",
       "model": "GTPND7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GTTODD7",
+      "codename": "GTTODD7",
+      "model": "GTTODD7"
     },
     {
       "manufacturer": "",

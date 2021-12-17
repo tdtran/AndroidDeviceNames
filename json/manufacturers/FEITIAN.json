@@ -1,0 +1,17 @@
+{
+  "manufacturer": "FEITIAN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F100",
+      "codename": "F100",
+      "model": "F100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F100_EEA",
+      "codename": "F100",
+      "model": "F100"
+    }
+  ]
+}

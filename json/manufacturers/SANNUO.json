@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SANNUO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K101",
+      "codename": "K101",
+      "model": "K101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K108",
+      "codename": "K108",
+      "model": "K108"
+    }
+  ]
+}

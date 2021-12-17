@@ -1,0 +1,11 @@
+{
+  "manufacturer": "NewBridge",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NBTB101",
+      "codename": "NBTB101",
+      "model": "NBTB101"
+    }
+  ]
+}

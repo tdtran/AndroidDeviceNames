@@ -4,5 +4,11 @@
     "market_name": "",
     "codename": "penguin",
     "model": "AX 8.6"
+  },
+  {
+    "manufacturer": "EGOTEK",
+    "market_name": "Penguin",
+    "codename": "Penguin",
+    "model": "Penguin"
   }
 ]

@@ -47,6 +47,12 @@
       "manufacturer": "",
       "market_name": "EF501R",
       "codename": "EF501",
+      "model": "EF501R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EF501R",
+      "codename": "EF501",
       "model": "EF501R_RU"
     },
     {
@@ -60,6 +66,12 @@
       "market_name": "EF550R",
       "codename": "EF550R",
       "model": "EF550R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EK430",
+      "codename": "EK430",
+      "model": "EK430"
     },
     {
       "manufacturer": "",
@@ -93,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RT103",
+      "codename": "RT103",
+      "model": "RT103"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SF550",
       "codename": "SF550",
       "model": "SF550"
@@ -105,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ST103",
+      "codename": "ST103",
+      "model": "ST103"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VF550",
       "codename": "VF550",
       "model": "VF550"
@@ -114,6 +138,12 @@
       "market_name": "VF550",
       "codename": "VF550",
       "model": "VF550_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX500",
+      "codename": "VX500",
+      "model": "VX500"
     }
   ]
 }

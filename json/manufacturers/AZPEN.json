@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C-603",
+      "codename": "C-603",
+      "model": "C-603"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K749",
       "codename": "K749",
       "model": "K749"

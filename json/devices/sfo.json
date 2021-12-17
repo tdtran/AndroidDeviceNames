@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Arris",
+    "market_name": "VIP7100 A",
+    "codename": "SFO",
+    "model": "VIP7100 A"
+  },
+  {
+    "manufacturer": "BVS (AR)",
+    "market_name": "BVS  4K 0TT 01",
+    "codename": "SFO",
+    "model": "BVS 4K OTT 01"
+  },
+  {
+    "manufacturer": "Movienet",
+    "market_name": "M7",
+    "codename": "SFO",
+    "model": "M7"
+  }
+]

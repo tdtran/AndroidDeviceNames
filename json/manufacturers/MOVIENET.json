@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Movienet",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M7",
+      "codename": "SFO",
+      "model": "M7"
+    }
+  ]
+}

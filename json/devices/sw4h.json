@@ -1,9 +1,99 @@
 [
   {
+    "manufacturer": "Admiral Overseas Corporation",
+    "market_name": "ADMIRAL 4K TV",
+    "codename": "SW4H",
+    "model": "ADMIRAL 4K TV"
+  },
+  {
+    "manufacturer": "Artel",
+    "market_name": "Artel Android TV",
+    "codename": "SW4H",
+    "model": "Artel Android TV"
+  },
+  {
+    "manufacturer": "Asanzo",
+    "market_name": "Asanzo",
+    "codename": "SW4H",
+    "model": "ASG 4K TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "MP3-A 4K TV",
+    "codename": "SW4H",
+    "model": "MP3-A 4K TV"
+  },
+  {
+    "manufacturer": "EcoStar",
+    "market_name": "ECOSTAR SMART TV",
+    "codename": "SW4H",
+    "model": "ECOSTAR SMART TV"
+  },
+  {
+    "manufacturer": "Fresh",
+    "market_name": "FRESH SMART TV",
+    "codename": "SW4H",
+    "model": "FRESH SMART TV"
+  },
+  {
+    "manufacturer": "G-Guard",
+    "market_name": "G Guard SMART TV",
+    "codename": "SW4H",
+    "model": "G Guard SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Hyundai TV",
+    "codename": "SW4H",
+    "model": "Hyundai TV"
+  },
+  {
+    "manufacturer": "Indurama",
+    "market_name": "indurama 4K TV",
+    "codename": "SW4H",
+    "model": "indurama 4K TV"
+  },
+  {
+    "manufacturer": "Iris",
+    "market_name": "IRIS Smart TV",
+    "codename": "SW4H",
+    "model": "IRIS Smart TV"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "itel 4K TV",
+    "codename": "SW4H",
+    "model": "itel 4K TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Kogan 4K Android TV",
+    "codename": "SW4H",
+    "model": "Kogan 4K Android TV"
+  },
+  {
+    "manufacturer": "Mondial",
+    "market_name": "MONDIAL 4K TV",
+    "codename": "SW4H",
+    "model": "MONDIAL 4K TV"
+  },
+  {
     "manufacturer": "Motorola",
     "market_name": "FlipkartTV",
     "codename": "SW4H",
     "model": "FlipkartTV"
+  },
+  {
+    "manufacturer": "Noblex",
+    "market_name": "Noblex TV",
+    "codename": "SW4H",
+    "model": "Noblex TV"
+  },
+  {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "PrismPlus 4K Android TV",
+    "codename": "SW4H",
+    "model": "PrismPlus 4K Android TV"
   },
   {
     "manufacturer": "Panasonic",
@@ -16,6 +106,18 @@
     "market_name": "4KTV-0SUW",
     "codename": "SW4H",
     "model": "4KTV-0SUW"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "PHILCO Smart TV",
+    "codename": "SW4H",
+    "model": "PHILCO Smart TV"
+  },
+  {
+    "manufacturer": "SANLUX",
+    "market_name": "SANLUX 4K MONITOR",
+    "codename": "SW4H",
+    "model": "SANLUX 4K MONITOR"
   },
   {
     "manufacturer": "SWTV",
@@ -40,5 +142,77 @@
     "market_name": "SWTV-20SA",
     "codename": "SW4H",
     "model": "SWTV-20SA"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20TW",
+    "codename": "SW4H",
+    "model": "SWTV-20TW"
+  },
+  {
+    "manufacturer": "Sansui",
+    "market_name": "SANSUITV UHD",
+    "codename": "SW4H",
+    "model": "SANSUITV UHD"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "SINGER SL SMART TV",
+    "codename": "SW4H",
+    "model": "SINGER SL SMART TV"
+  },
+  {
+    "manufacturer": "TIT(SA)",
+    "market_name": "TIT SMART TV",
+    "codename": "SW4H",
+    "model": "TIT SMART TV"
+  },
+  {
+    "manufacturer": "TORNADO",
+    "market_name": "TORNADO Android TV",
+    "codename": "SW4H",
+    "model": "TORNADO Android TV"
+  },
+  {
+    "manufacturer": "Telefunken",
+    "market_name": "TELEFUNKEN SMART TV",
+    "codename": "SW4H",
+    "model": "TELEFUNKEN SMART TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "Tesla S906",
+    "codename": "SW4H",
+    "model": "Tesla S906"
+  },
+  {
+    "manufacturer": "VISIO",
+    "market_name": "VISIO 4K Android TV",
+    "codename": "SW4H",
+    "model": "VISIO 4K Android TV"
+  },
+  {
+    "manufacturer": "VIZZION",
+    "market_name": "VIZZION 4K TV",
+    "codename": "SW4H",
+    "model": "VIZZION 4K TV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION SMART TV",
+    "codename": "SW4H",
+    "model": "VISION SMART TV"
+  },
+  {
+    "manufacturer": "Xtreme",
+    "market_name": "XTREME 4K TV",
+    "codename": "SW4H",
+    "model": "XTREME 4K TV"
+  },
+  {
+    "manufacturer": "Yasin",
+    "market_name": "Yasin Android TV",
+    "codename": "SW4H",
+    "model": "Yasin Android TV"
   }
 ]

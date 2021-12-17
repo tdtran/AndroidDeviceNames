@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "benco",
+    "market_name": "AH9910",
+    "codename": "AH9910",
+    "model": "AH9910"
+  },
+  {
+    "manufacturer": "benco",
     "market_name": "benco Y41",
     "codename": "AH9910",
     "model": "AH9910"

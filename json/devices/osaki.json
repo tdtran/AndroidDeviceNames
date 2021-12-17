@@ -36,6 +36,12 @@
     "model": "2K AI Smart TV"
   },
   {
+    "manufacturer": "Nano",
+    "market_name": "nano",
+    "codename": "osaki",
+    "model": "nano 2K AI Smart TV"
+  },
+  {
     "manufacturer": "OK (Mediamark)",
     "market_name": "ODL 32760HN-TAB",
     "codename": "osaki",
@@ -54,8 +60,26 @@
     "model": "2K AI Smart TV"
   },
   {
+    "manufacturer": "RCA",
+    "market_name": "Tree",
+    "codename": "osaki",
+    "model": "Treeview 2K AI Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "UNICO",
+    "codename": "osaki",
+    "model": "UNICO 2K AI Smart TV"
+  },
+  {
     "manufacturer": "Soniq",
     "market_name": "G32HW60A",
+    "codename": "osaki",
+    "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "UNITED TV",
+    "market_name": "UNITED",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },

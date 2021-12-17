@@ -1,0 +1,23 @@
+{
+  "manufacturer": "KGTEL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Better10",
+      "codename": "Better10",
+      "model": "Better10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R10",
+      "codename": "R10A",
+      "model": "R10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5A",
+      "model": "X5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Surfans",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K7",
+      "codename": "K7",
+      "model": "K7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K7S",
+      "codename": "K7S",
+      "model": "K7S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10P",
+      "codename": "P10P",
+      "model": "Surfans P10P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y57A",
+      "codename": "Y57A",
+      "model": "Y57A"
+    }
+  ]
+}

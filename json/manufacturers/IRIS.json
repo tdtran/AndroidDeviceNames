@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IRIS 4K Android TV",
+      "codename": "SW4H_FF",
+      "model": "IRIS 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRIS Smart TV",
+      "codename": "SW4H",
+      "model": "IRIS Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS2PLUS",
       "codename": "IS2PLUS",
       "model": "IS2PLUS"

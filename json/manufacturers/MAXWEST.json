@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Astro_5X",
+      "codename": "Astro_5X",
+      "model": "Astro 5X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 8Q",
+      "codename": "Astro_8Q",
+      "model": "Astro 8Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gravity _55_ GO",
       "codename": "Gravity_55_GO",
       "model": "Gravity_55_GO"
@@ -78,6 +90,12 @@
       "market_name": "MAXWEST",
       "codename": "Black765857703671",
       "model": "AstroPhablet7s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAX_TAB_7",
+      "codename": "MAX_TAB_7",
+      "model": "MAX_TAB_7"
     },
     {
       "manufacturer": "",
@@ -129,9 +147,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nitro_55C",
+      "codename": "Nitro_55C",
+      "model": "Nitro 55C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nitro_55R",
       "codename": "Nitro_55R",
       "model": "Nitro_55R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro_5C",
+      "codename": "Nitro_5C",
+      "model": "Nitro 5C"
     },
     {
       "manufacturer": "",
@@ -159,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PANDA_KIDS_7",
+      "codename": "PANDA_KIDS_7",
+      "model": "PANDA_KIDS_7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Panda_7",
       "codename": "Panda_7",
       "model": "Panda_7"
@@ -174,6 +210,12 @@
       "market_name": "TAB-9G",
       "codename": "TAB-9G",
       "model": "TAB-9G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_MAX_7",
+      "codename": "TAB_MAX_7",
+      "model": "TAB_MAX_7"
     }
   ]
 }

@@ -1,8 +1,26 @@
 [
   {
+    "manufacturer": "Aconatic",
+    "market_name": "ACONATIC FHD TV",
+    "codename": "takao",
+    "model": "ACONATIC FHD TV"
+  },
+  {
+    "manufacturer": "IMPEX",
+    "market_name": "Grande FHD TV",
+    "codename": "takao",
+    "model": "GRANDE FHD TV"
+  },
+  {
     "manufacturer": "Philips",
     "market_name": "2K Android TV",
     "codename": "takao",
     "model": "2020 FHD Android TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP FHD TV",
+    "codename": "takao",
+    "model": "SHARP FHD TV"
   }
 ]

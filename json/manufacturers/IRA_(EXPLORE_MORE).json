@@ -1,0 +1,23 @@
+{
+  "manufacturer": "IRA (explore more)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IRA801",
+      "codename": "IRA801",
+      "model": "IRA801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRA_DUO_PLUS",
+      "codename": "IRA_DUO_PLUS",
+      "model": "IRA_DUO_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRA_W801",
+      "codename": "IRA_W801",
+      "model": "IRA_W801"
+    }
+  ]
+}

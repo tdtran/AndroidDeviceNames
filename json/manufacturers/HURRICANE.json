@@ -303,6 +303,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10",
+      "codename": "T10",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Touch",
       "codename": "Touch",
       "model": "Touch"

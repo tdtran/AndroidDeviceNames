@@ -153,9 +153,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Intel Jasper Lake Chromebook",
+      "codename": "keeby_cheets",
+      "model": "keeby"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Intel Kaby Lake U Chromebook",
       "codename": "nami_cheets",
       "model": "nami"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Tiger Lake Chromebook",
+      "codename": "volteer_cheets",
+      "model": "volteer"
     },
     {
       "manufacturer": "",
@@ -168,6 +180,12 @@
       "market_name": "Mediatek MT8183 Tablet",
       "codename": "kukui_cheets",
       "model": "kukui"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediatek MT8192 Chromebook",
+      "codename": "asurada_cheets",
+      "model": "asurada"
     },
     {
       "manufacturer": "",
@@ -261,6 +279,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixel 5a 5G",
+      "codename": "barbet",
+      "model": "Pixel 5a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 6",
+      "codename": "oriole",
+      "model": "Pixel 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 6 Pro",
+      "codename": "raven",
+      "model": "Pixel 6 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixel C",
       "codename": "dragon",
       "model": "Pixel C"
@@ -321,6 +357,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Qualcomm SC7180 Chromebook",
+      "codename": "trogdor_cheets",
+      "model": "trogdor"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qualcomm SC7180 Detachable",
+      "codename": "strongbad_cheets",
+      "model": "strongbad"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rockchip RK3288 Chromebook",
       "codename": "jerry_cheets",
       "model": "RK3288 Chrome OS Device"
@@ -342,6 +390,12 @@
       "market_name": "Rockchip RK3288 Chromebook",
       "codename": "mighty_cheets",
       "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "gcar emulator",
+      "codename": "generic_64bitonly_x86_64",
+      "model": "Automotive SDK built for x86_64"
     },
     {
       "manufacturer": "",

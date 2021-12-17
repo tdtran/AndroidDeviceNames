@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Rakuten BIG s",
+      "codename": "gaea",
+      "model": "3917JR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rakuten Hand",
       "codename": "P710",
       "model": "P710"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rakuten Hand5G",
+      "codename": "P780",
+      "model": "P780"
     }
   ]
 }

@@ -28,5 +28,17 @@
     "market_name": "Star",
     "codename": "STAR",
     "model": "STAR"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 11 Ultra",
+    "codename": "star",
+    "model": "M2102K1C"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 11 Ultra",
+    "codename": "star",
+    "model": "M2102K1G"
   }
 ]

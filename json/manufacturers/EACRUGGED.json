@@ -1,0 +1,29 @@
+{
+  "manufacturer": "EACRUGGED",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EP500",
+      "codename": "EP500",
+      "model": "EP500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG80",
+      "codename": "RG80",
+      "model": "RG80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Serenity-B8",
+      "codename": "Serenity-B8",
+      "model": "Serenity-B8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wolf10R",
+      "codename": "Wolf10R",
+      "model": "Wolf10R"
+    }
+  ]
+}

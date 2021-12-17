@@ -18,6 +18,30 @@
       "market_name": "CT101",
       "codename": "fireball",
       "model": "CT101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT201",
+      "codename": "CT201",
+      "model": "CT201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT211",
+      "codename": "CT211",
+      "model": "CT211"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT301T",
+      "codename": "CT301T",
+      "model": "CT301T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT311T",
+      "codename": "CT311T",
+      "model": "CT311T"
     }
   ]
 }

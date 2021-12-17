@@ -1,0 +1,17 @@
+{
+  "manufacturer": "generaltouch",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ERGO22",
+      "codename": "ERGO22",
+      "model": "ERGO22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ERGO22",
+      "codename": "ERGO22",
+      "model": "ERGO22_eea"
+    }
+  ]
+}

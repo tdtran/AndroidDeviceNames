@@ -6,6 +6,36 @@
       "market_name": "706Z",
       "codename": "706Z",
       "model": "706Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "708Z",
+      "codename": "708Z",
+      "model": "708Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS502",
+      "codename": "DS502",
+      "model": "DS502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS571",
+      "codename": "DS571",
+      "model": "DS571"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS6018",
+      "codename": "DS6018",
+      "model": "DS6018"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS6261",
+      "codename": "DS6261",
+      "model": "DS6261"
     }
   ]
 }

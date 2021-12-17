@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "YQ10",
+      "codename": "YQ10",
+      "model": "YQ10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YQ11",
       "codename": "YQ11",
       "model": "YQ11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ81-ROW",
+      "codename": "YQ81-ROW",
+      "model": "YQ81-ROW"
     }
   ]
 }

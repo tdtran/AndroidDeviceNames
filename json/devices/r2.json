@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Acer",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "Aconatic",
     "market_name": "Android TV",
     "codename": "R2",
@@ -54,7 +60,19 @@
     "model": "ATV R2"
   },
   {
+    "manufacturer": "DORA",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "Denka",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "EssentielB",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"
@@ -114,6 +132,12 @@
     "model": "M4_R2"
   },
   {
+    "manufacturer": "MIRAY",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "Master-G",
     "market_name": "Android TV",
     "codename": "R2",
@@ -144,13 +168,31 @@
     "model": "ATV R2"
   },
   {
+    "manufacturer": "PALSONIC",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "PANASONIC TV"
   },
   {
+    "manufacturer": "Polaroid",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "RECCO",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "SAMPO",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"
@@ -169,6 +211,12 @@
   },
   {
     "manufacturer": "Singer",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Stream System",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"

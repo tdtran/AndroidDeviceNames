@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Advantech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AIM75-LTE",
+      "codename": "AIM75-LTE",
+      "model": "AIM75-LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIM75-WIFI",
+      "codename": "AIM75-WIFI",
+      "model": "AIM75-WIFI"
+    }
+  ]
+}

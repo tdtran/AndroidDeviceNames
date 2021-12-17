@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "tamachi",
+      "model": "Qilive FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "yeongdeungpo",
+      "model": "Qilive UHD Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q.3778",
       "codename": "Q3778",
       "model": "Q.3778"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q1-21",
+      "codename": "QT21101_464_EEA",
+      "model": "QT21101"
     },
     {
       "manufacturer": "",
@@ -90,6 +108,24 @@
       "market_name": "QT19101K",
       "codename": "QT19101K_116_EEA",
       "model": "QT19101K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QT201101L",
+      "codename": "QT21101L_232_EEA",
+      "model": "QT21101L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QT2108BP",
+      "codename": "QT2108BP",
+      "model": "QT2108BP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QT2110BP",
+      "codename": "QT2110BP",
+      "model": "QT2110BP"
     },
     {
       "manufacturer": "",

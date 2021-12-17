@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F9Prime",
+      "codename": "F9prime",
+      "model": "F9prime"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F9_PLUS",
       "codename": "F9_PLUS",
       "model": "F9_PLUS"

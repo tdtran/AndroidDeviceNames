@@ -10,8 +10,32 @@
     {
       "manufacturer": "",
       "market_name": "Stream TV",
+      "codename": "f354",
+      "model": "Stream TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stream TV",
       "codename": "sti6220d315",
       "model": "Stream TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stream TV Soundbar",
+      "codename": "sti6251d315",
+      "model": "Stream TV Soundbar"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stream TV Soundbar Pro",
+      "codename": "sti6250d315",
+      "model": "Stream TV Soundbar Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Visible Midnight",
+      "codename": "WTVIS01",
+      "model": "WTVIS01"
     }
   ]
 }

@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt",
+    "codename": "sindang",
+    "model": "BLAU-TVE19H"
+  },
+  {
+    "manufacturer": "Bush",
+    "market_name": "Bush",
+    "codename": "sindang",
+    "model": "BUSH-TVE19N"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "polaroid",
+    "codename": "sindang",
+    "model": "POLA-TVE19M"
+  },
+  {
     "manufacturer": "Sharp",
     "market_name": "EU",
     "codename": "sindang",
@@ -9,6 +27,24 @@
     "manufacturer": "Sharp",
     "market_name": "EU",
     "codename": "sindang",
+    "model": "AQUOS-TVE21A2"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "EU",
+    "codename": "sindang",
     "model": "AQUOS_TVE19A"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "Sharp",
+    "codename": "sindang",
+    "model": "AQUOS-TVE19C"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "Sharp",
+    "codename": "sindang",
+    "model": "AQUOS-TVE21C"
   }
 ]

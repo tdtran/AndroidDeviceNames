@@ -1,0 +1,17 @@
+{
+  "manufacturer": "WILLETT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "tamachi",
+      "model": "WILLETT FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "India",
+      "codename": "yeongdeungpo",
+      "model": "WILLETT UHD Android TV"
+    }
+  ]
+}

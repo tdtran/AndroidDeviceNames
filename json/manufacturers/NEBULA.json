@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D0480",
+      "codename": "CJU",
+      "model": "D0480"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D2130",
+      "codename": "D2140-Cosmos",
+      "model": "D2130"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D2140",
       "codename": "D2140-Cosmos",
       "model": "D2140"

@@ -4,5 +4,11 @@
     "market_name": "Ares",
     "codename": "Ares",
     "model": "Ares"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi K40 Gaming",
+    "codename": "ares",
+    "model": "M2012K10C"
   }
 ]

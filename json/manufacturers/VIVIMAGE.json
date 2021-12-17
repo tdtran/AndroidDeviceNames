@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E8",
+      "codename": "E8",
+      "model": "E8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVIMAGE_A10",
+      "codename": "VIVIMAGE_A10",
+      "model": "VIVIMAGE_A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVIMAGE_A10_EEA",
+      "codename": "VIVIMAGE_A10_EEA",
+      "model": "VIVIMAGE_A10_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIVIMAGE_E10",
       "codename": "E10",
       "model": "E10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVIMAGE_E10_EEA",
+      "codename": "E10",
+      "model": "E10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVIMAGE_E11",
+      "codename": "E11",
+      "model": "VIVIMAGE_E11"
     }
   ]
 }

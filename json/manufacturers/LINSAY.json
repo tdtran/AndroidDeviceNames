@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F10XIPSQ",
+      "codename": "F10XIPSQ",
+      "model": "F10XIPSQ"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F7HD4CORE",
       "codename": "F7HD4CORE",
       "model": "F7HD4CORE"
@@ -42,6 +48,12 @@
       "market_name": "F_7HD4CORE",
       "codename": "F_7HD4CORE",
       "model": "F_7HD4CORE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F_7UHD",
+      "codename": "F_7UHD",
+      "model": "F_7UHD"
     },
     {
       "manufacturer": "",

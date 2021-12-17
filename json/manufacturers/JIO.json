@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Jio",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "JioPhone Next",
+      "codename": "LS1542QW",
+      "model": "LS1542QW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JioPhone Next",
+      "codename": "LS1542QWN",
+      "model": "LS1542QWN"
+    }
+  ]
+}

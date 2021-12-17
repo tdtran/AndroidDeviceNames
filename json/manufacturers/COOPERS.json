@@ -1,0 +1,29 @@
+{
+  "manufacturer": "COOPERS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CP10",
+      "codename": "CP10",
+      "model": "CP10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP20",
+      "codename": "CP20",
+      "model": "CP20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP20_EEA",
+      "codename": "CP20_EEA",
+      "model": "CP20_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP80",
+      "codename": "CP80",
+      "model": "CP80"
+    }
+  ]
+}

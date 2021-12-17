@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RT40",
+      "codename": "SQ47",
+      "model": "RT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U2",
+      "codename": "SQ46M",
+      "model": "U2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i6200Series",
       "codename": "i6200Series",
       "model": "i6200Series"

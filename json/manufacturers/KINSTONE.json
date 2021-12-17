@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KST070CH_D",
+      "codename": "KST070CH_D",
+      "model": "KST070CH_D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KST103RC",
+      "codename": "KST103RC",
+      "model": "KST103RC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KST103SD",
+      "codename": "KST103SD",
+      "model": "KST103SD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SA070",
       "codename": "Kinstone_SA070",
       "model": "KJ-YUBI"

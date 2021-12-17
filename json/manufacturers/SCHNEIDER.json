@@ -24,6 +24,12 @@
       "market_name": "SCHNEIDER",
       "codename": "komagome",
       "model": "SCHNEIDER 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wave 3",
+      "codename": "Wave_3",
+      "model": "Wave 3"
     }
   ]
 }

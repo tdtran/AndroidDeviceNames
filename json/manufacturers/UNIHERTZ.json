@@ -33,9 +33,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ticktock",
+      "codename": "Ticktock",
+      "model": "Ticktock"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Titan",
       "codename": "Titan",
       "model": "Titan"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan Slim",
+      "codename": "Titan_Slim",
+      "model": "Titan Slim"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan pocket",
+      "codename": "Titan_pocket",
+      "model": "Titan pocket"
     }
   ]
 }

@@ -22,5 +22,23 @@
     "market_name": "G10",
     "codename": "G10",
     "model": "G10"
+  },
+  {
+    "manufacturer": "iMuz",
+    "market_name": "G10E",
+    "codename": "G10",
+    "model": "G10"
+  },
+  {
+    "manufacturer": "iMuz",
+    "market_name": "L101",
+    "codename": "G10",
+    "model": "L101"
+  },
+  {
+    "manufacturer": "iMuz",
+    "market_name": "M101",
+    "codename": "G10",
+    "model": "M101"
   }
 ]

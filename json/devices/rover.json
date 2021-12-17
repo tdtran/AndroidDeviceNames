@@ -1,8 +1,26 @@
 [
   {
     "manufacturer": "Mobvoi",
+    "market_name": "TicWatch Pro 3",
+    "codename": "rover",
+    "model": "TicWatch Pro 3"
+  },
+  {
+    "manufacturer": "Mobvoi",
+    "market_name": "TicWatch Pro 3",
+    "codename": "rover",
+    "model": "TicWatch Pro X"
+  },
+  {
+    "manufacturer": "Mobvoi",
     "market_name": "TicWatch Pro 3 Cellular/LTE",
     "codename": "rover",
     "model": "TicWatch Pro 3"
+  },
+  {
+    "manufacturer": "Mobvoi",
+    "market_name": "TicWatch Pro 3 Cellular/LTE",
+    "codename": "rover",
+    "model": "TicWatch Pro 3 Ultra"
   }
 ]

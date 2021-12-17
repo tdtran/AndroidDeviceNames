@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Sceptre",
+      "codename": "gangbyeon",
+      "model": "4K Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TATUNG",
       "codename": "gangbyeon",
       "model": "TATUNG 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "imiia",
+      "codename": "gangbyeon",
+      "model": "imiia 4K AI Smart TV"
     }
   ]
 }

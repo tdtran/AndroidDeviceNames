@@ -24,6 +24,18 @@
       "market_name": "G6_EEA",
       "codename": "G6_EEA",
       "model": "G6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7",
+      "codename": "G7",
+      "model": "G7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7_EEA",
+      "codename": "G7_EEA",
+      "model": "G7"
     }
   ]
 }

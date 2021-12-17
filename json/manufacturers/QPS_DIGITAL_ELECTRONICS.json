@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ASIUR_101",
+      "codename": "ASIUR_101",
+      "model": "ASIUR_101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KID15",
       "codename": "KID15",
       "model": "KID15"
@@ -30,6 +36,12 @@
       "market_name": "M002KID-15",
       "codename": "M002KID-15",
       "model": "M002KID-15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50",
+      "codename": "P50",
+      "model": "P50"
     },
     {
       "manufacturer": "",

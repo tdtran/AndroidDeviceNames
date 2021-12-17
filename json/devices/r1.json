@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Acer",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
     "manufacturer": "Aconatic",
     "market_name": "Android TV",
     "codename": "R1",
@@ -43,6 +49,12 @@
   },
   {
     "manufacturer": "Compaq",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "DORA",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"
@@ -114,6 +126,18 @@
     "model": "ATV R1"
   },
   {
+    "manufacturer": "LUCOMS",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "MIRAY",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
     "manufacturer": "Master-G",
     "market_name": "Android TV",
     "codename": "R1",
@@ -122,6 +146,12 @@
   {
     "manufacturer": "Micromax",
     "market_name": "R1",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Minister",
+    "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"
   },
@@ -139,6 +169,12 @@
   },
   {
     "manufacturer": "Orient",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "PALSONIC",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"
@@ -175,6 +211,12 @@
   },
   {
     "manufacturer": "Singer",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Stream System",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"

@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 10 TABMAX",
+    "codename": "Transformer",
+    "model": "9296G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 10 TABMAX",
+    "codename": "Transformer",
+    "model": "9296G_EEA"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 10 TABMAX",
+    "codename": "Transformer",
+    "model": "9296G_RU"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 10 TABMAX",
+    "codename": "Transformer",
+    "model": "9296G_TR"
+  }
+]

@@ -15,6 +15,12 @@
     "manufacturer": "Bluebird",
     "market_name": "EF501R",
     "codename": "EF501",
+    "model": "EF501R"
+  },
+  {
+    "manufacturer": "Bluebird",
+    "market_name": "EF501R",
+    "codename": "EF501",
     "model": "EF501R_RU"
   }
 ]

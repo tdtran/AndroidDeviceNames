@@ -1,0 +1,23 @@
+{
+  "manufacturer": "AUPO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AUPO_Cute_75_EEA",
+      "codename": "AUPO_Cute_75",
+      "model": "AUPO Cute 75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AUPO_Zeus_10_Pro",
+      "codename": "AUPO_Zeus_10_Pro",
+      "model": "AUPO_Zeus_10_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AUPO_Zeus_10_Pro_ROW",
+      "codename": "AUPO_Zeus_10_Pro_ROW",
+      "model": "AUPO_Zeus_10_Pro"
+    }
+  ]
+}

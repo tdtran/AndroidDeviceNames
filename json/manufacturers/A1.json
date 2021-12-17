@@ -18,6 +18,12 @@
       "market_name": "ADT-3",
       "codename": "adt3",
       "model": "ADT-3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ai-ES1059",
+      "codename": "Ai-ES1059",
+      "model": "Ai-ES1059"
     }
   ]
 }

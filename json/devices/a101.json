@@ -4,5 +4,11 @@
     "market_name": "101 G9",
     "codename": "A101",
     "model": "ARCHOS 101G9"
+  },
+  {
+    "manufacturer": "Crelander",
+    "market_name": "A101",
+    "codename": "A101",
+    "model": "A101"
   }
 ]

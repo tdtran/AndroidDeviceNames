@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Teclast",
+    "market_name": "M40SE_EEA",
+    "codename": "M40SE",
+    "model": "M40SE_EEA"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "M40SE_ROW",
+    "codename": "M40SE",
+    "model": "M40SE"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "M40SE_ROW",
+    "codename": "M40SE",
+    "model": "M40SE_ROW"
+  }
+]

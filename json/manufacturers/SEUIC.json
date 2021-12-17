@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AUTOIDQ9G",
+      "codename": "d550",
+      "model": "AUTOID Q9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CRUISE1",
       "codename": "d700s",
       "model": "CRUISE1"

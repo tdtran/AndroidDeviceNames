@@ -1,7 +1,13 @@
 [
   {
+    "manufacturer": "Haier",
+    "market_name": "Haier Android TV",
+    "codename": "hongik",
+    "model": "haierATVhongik"
+  },
+  {
     "manufacturer": "KONKA",
-    "market_name": "North America",
+    "market_name": "KONKA Android TV",
     "codename": "hongik",
     "model": "KONKA 4K Android TV"
   },

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E3",
+      "codename": "E3",
+      "model": "E3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ILA C1",
       "codename": "ILA_C1",
       "model": "ILA C1"
@@ -48,6 +54,12 @@
       "market_name": "ILA_X1",
       "codename": "ILA_X1",
       "model": "ILA X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ILA_X3",
+      "codename": "ILA_X3",
+      "model": "ILA X3"
     },
     {
       "manufacturer": "",

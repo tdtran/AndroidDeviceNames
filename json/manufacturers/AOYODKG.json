@@ -1,0 +1,29 @@
+{
+  "manufacturer": "AOYODKG",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A21S",
+      "codename": "A21S",
+      "model": "A21S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A21S_US",
+      "codename": "A21S",
+      "model": "A21S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50",
+      "codename": "M50",
+      "model": "M50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50_EEA",
+      "codename": "M50_EEA",
+      "model": "M50_EEA"
+    }
+  ]
+}

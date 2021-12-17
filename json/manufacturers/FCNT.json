@@ -1,0 +1,41 @@
+{
+  "manufacturer": "FCNT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SD01",
+      "codename": "SD01",
+      "model": "SD01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows BZ02",
+      "codename": "BZ02",
+      "model": "BZ02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows Be4 Plus F-41B",
+      "codename": "F41B",
+      "model": "F-41B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We A101FC",
+      "codename": "A101FC",
+      "model": "A101FC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We F-51B",
+      "codename": "F51B",
+      "model": "F-51B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We FCG01",
+      "codename": "FCG01",
+      "model": "FCG01"
+    }
+  ]
+}

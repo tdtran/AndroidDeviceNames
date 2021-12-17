@@ -16,5 +16,17 @@
     "market_name": "A11t",
     "codename": "A11",
     "model": "A11t"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "A11",
+    "codename": "A11",
+    "model": "A11"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "A11 EEA",
+    "codename": "A11",
+    "model": "A11"
   }
 ]

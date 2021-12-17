@@ -1,8 +1,44 @@
 [
   {
+    "manufacturer": "BenQ",
+    "market_name": "730",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "CHiQ",
+    "market_name": "H7",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Changhong",
+    "market_name": "H7",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Classpro",
+    "market_name": "G7N",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "HP",
     "market_name": "7 G2",
     "codename": "redwood",
     "model": "HP 7 G2"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "RF9220",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "SABA",
+    "market_name": "A11",
+    "codename": "redwood",
+    "model": "AI PONT"
   }
 ]

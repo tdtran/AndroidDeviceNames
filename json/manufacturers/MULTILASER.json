@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Brazil",
+      "codename": "martin",
+      "model": "Multilaser Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Discovery",
       "codename": "Discovery",
       "model": "Discovery"
@@ -27,9 +33,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10 3G",
+      "codename": "ML-JI16-M10-3G",
+      "model": "M10-3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10 4G",
       "codename": "ML-JI0A-M10-4G",
       "model": "M10-4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G",
+      "codename": "ML-WI0C-M10-4G",
+      "model": "M10-4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G",
+      "codename": "ML_JI0B_M10_4G",
+      "model": "M10_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G",
+      "codename": "ML_SO0G_M10_4G",
+      "model": "M10_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G PRO",
+      "codename": "ML_JI0B_M10_4G_PRO",
+      "model": "M10_4G_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G PRO",
+      "codename": "ML_JI0F_M10_4G_PRO",
+      "model": "M10_4G_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G PRO",
+      "codename": "ML_SO1G_M10_4G_PRO",
+      "model": "M10_4G_PRO"
     },
     {
       "manufacturer": "",
@@ -69,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10_3G",
+      "codename": "ML_JI0H_M10_3G",
+      "model": "M10_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10_4G_PRO",
       "codename": "ML-SO0C_M10_4G_PRO_PLUS",
       "model": "M10_4G_PRO"
@@ -78,6 +132,36 @@
       "market_name": "M10_4G_PRO",
       "codename": "ML_SO0G_M10_4G_PRO_PLUS",
       "model": "M10_4G_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G",
+      "codename": "ML-WI1B-M7-3G",
+      "model": "M7-3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G",
+      "codename": "ML_JI1G_M7_3G",
+      "model": "M7_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G",
+      "codename": "ML_WI0B_M7_3G",
+      "model": "M7_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G A10",
+      "codename": "ML_WI4A_M7_3G_A10",
+      "model": "M7_3G_A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 3G PLUS",
+      "codename": "ML-JI0G-M7-3G-PLUS",
+      "model": "M7-3G-PLUS"
     },
     {
       "manufacturer": "",
@@ -102,6 +186,30 @@
       "market_name": "M7 3G Plus",
       "codename": "ML_WI12_M7_3G_PLUS",
       "model": "M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIF",
+      "codename": "ML_JI1D_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIFI",
+      "codename": "ML_JI2D_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIFI",
+      "codename": "ML_SO0E_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIFI",
+      "codename": "ML_SO1E_M7_Wifi",
+      "model": "M7_WIFI"
     },
     {
       "manufacturer": "",
@@ -138,6 +246,30 @@
       "market_name": "M7I-3G",
       "codename": "astar-ococci",
       "model": "ML01-M7S-Quad-Core"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S Go",
+      "codename": "ML_SO0E_M7S_Go",
+      "model": "M7S_Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S Go",
+      "codename": "ML_SO26_M7S_Go",
+      "model": "M7S_Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S Plus",
+      "codename": "ML_SO0F_M7S_Plus",
+      "model": "M7S_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S Plus",
+      "codename": "ML_SO17_M7S_Plus",
+      "model": "M7S_Plus"
     },
     {
       "manufacturer": "",
@@ -207,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7_WIFI",
+      "codename": "ML_JI0D_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7s Dual Core",
       "codename": "NB116_NB117_NB118",
       "model": "M7s Dual ML03"
@@ -225,6 +363,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M8 4G",
+      "codename": "ML_SO0J_M8_4G",
+      "model": "M8_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8 Wifi",
+      "codename": "ML_SO0F_M8_WIFI",
+      "model": "M8_WIFI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8_4G",
       "codename": "ML_SO19_M8_4G",
       "model": "M8_4G"
@@ -234,6 +384,12 @@
       "market_name": "M9 3G",
       "codename": "ML-WI16-M9_3G",
       "model": "M9_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9 Wifi",
+      "codename": "ML_SO08_M9_Wifi",
+      "model": "M9_Wifi"
     },
     {
       "manufacturer": "",
@@ -525,9 +681,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Multilaser E",
+      "codename": "Multilaser_E_A10",
+      "model": "Multilaser_E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser E 2",
+      "codename": "Multilaser_E_2",
+      "model": "Multilaser_E_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Multilaser E Lite",
       "codename": "Multilaser_E_Lite",
       "model": "Multilaser_E_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser E Pro",
+      "codename": "Multilaser_E_Pro",
+      "model": "Multilaser_E_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser Elite 2",
+      "codename": "Multilaser_Elite_2",
+      "model": "Multilaser_Elite_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser F",
+      "codename": "Multilaser_F_A10",
+      "model": "Multilaser_F"
     },
     {
       "manufacturer": "",
@@ -537,15 +723,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Multilaser F Pro 2",
+      "codename": "Multilaser_F_Pro_2",
+      "model": "Multilaser_F_Pro_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Multilaser G",
       "codename": "Multilaser_G",
       "model": "Multilaser_G"
     },
     {
       "manufacturer": "",
+      "market_name": "Multilaser G 2",
+      "codename": "Multilaser_G_2",
+      "model": "Multilaser_G_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Multilaser G Max",
       "codename": "Multilaser_G_Max",
       "model": "Multilaser_G_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G Max 2",
+      "codename": "Multilaser_GMAX_2_64",
+      "model": "Multilaser_GMAX_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G Max 2",
+      "codename": "Multilaser_GMax_2_128",
+      "model": "Multilaser_GMax_2"
     },
     {
       "manufacturer": "",
@@ -579,9 +789,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OBASMART",
+      "codename": "Obasmart_Conectamax",
+      "model": "OBA_Conecta_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OBASMART 3",
       "codename": "OBASMART_3",
       "model": "OBASMART_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Oba Conecta 4G",
+      "codename": "Oba_Conecta_4G",
+      "model": "Oba_Conecta_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sikur",
+      "codename": "Multilaser_GMax_2_Sikur",
+      "model": "Multilaser_GMax_2_Sikur"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRA 10",
+      "codename": "ML_SO0C_ULTRA_10",
+      "model": "ULTRA_10"
     }
   ]
 }

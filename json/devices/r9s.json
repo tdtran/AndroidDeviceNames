@@ -10,5 +10,11 @@
     "market_name": "R9st",
     "codename": "R9s",
     "model": "OPPO R9st"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 FE 5G",
+    "codename": "r9s",
+    "model": "SM-G990E"
   }
 ]

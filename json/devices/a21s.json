@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "AOYODKG",
+    "market_name": "A21S",
+    "codename": "A21S",
+    "model": "A21S"
+  },
+  {
+    "manufacturer": "AOYODKG",
+    "market_name": "A21S_US",
+    "codename": "A21S",
+    "model": "A21S"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy A21s",
     "codename": "a21s",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "GTPL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Inspire 4.0",
+      "codename": "Inspire_4",
+      "model": "Inspire_4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Shockwave",
+      "codename": "Shockwave",
+      "model": "Shockwave"
+    }
+  ]
+}

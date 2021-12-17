@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T702",
+      "codename": "T702",
+      "model": "T702"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T702A",
       "codename": "T702A",
       "model": "T702A"
@@ -12,6 +18,48 @@
       "market_name": "T702E_EEA",
       "codename": "T702E_EEA",
       "model": "T702E_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T702Pro",
+      "codename": "T702Pro",
+      "model": "T702Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T702Pro-A",
+      "codename": "T702Pro-A",
+      "model": "T702Pro-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T702Pro-EEA",
+      "codename": "T702Pro-EEA",
+      "model": "T702Pro-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T702_EEA",
+      "codename": "T702_EEA",
+      "model": "T702_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T901Pro-A",
+      "codename": "T901Pro-A",
+      "model": "T901Pro-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T901Pro-EEA",
+      "codename": "T901Pro-EEA",
+      "model": "T901Pro-E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB10",
+      "codename": "TAB10",
+      "model": "TAB10"
     },
     {
       "manufacturer": "",

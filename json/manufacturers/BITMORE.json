@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Bitmore_Mobitab_8_4G",
+      "codename": "Mobitab_8_4G",
+      "model": "Bitmore_Mobitab_8_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GTAB700",
       "codename": "GTAB700",
       "model": "NID_7010"
@@ -18,6 +24,18 @@
       "market_name": "LUXYA MID704DC Tablet / Bitmore Tab770",
       "codename": "MY7317P",
       "model": "Tab770"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mobitab10_S3_32GB",
+      "codename": "Mobitab10_S3_32GB",
+      "model": "Mobitab10_S3_32GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab10_Plus_32GB",
+      "codename": "Tab10_Plus_32GB",
+      "model": "Tab10_Plus_32GB"
     },
     {
       "manufacturer": "",

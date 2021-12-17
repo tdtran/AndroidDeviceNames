@@ -1,0 +1,53 @@
+{
+  "manufacturer": "HAOVM",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HP10",
+      "codename": "HP10",
+      "model": "P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP10_EEA",
+      "codename": "HP10_EEA",
+      "model": "P10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP20",
+      "codename": "HP20",
+      "model": "P20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MediaPadP8",
+      "codename": "P8",
+      "model": "P8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P9",
+      "codename": "P9",
+      "model": "P9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P9_EEA",
+      "codename": "P9_EEA",
+      "model": "P9_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PS30",
+      "codename": "PS30",
+      "model": "S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2000",
+      "codename": "T2000",
+      "model": "T2000"
+    }
+  ]
+}

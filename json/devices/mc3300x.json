@@ -1,7 +1,19 @@
 [
   {
     "manufacturer": "Zebra",
-    "market_name": "MC3300x",
+    "market_name": "MC3300ax AOSP",
+    "codename": "MC3300x",
+    "model": "MC3300ax"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "Zebra Technologies MC3300ax",
+    "codename": "MC3300x",
+    "model": "MC3300ax"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "Zebra Technologies MC3300x",
     "codename": "MC3300x",
     "model": "MC3300x"
   },

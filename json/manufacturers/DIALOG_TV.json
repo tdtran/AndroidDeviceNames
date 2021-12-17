@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Dialog_TV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Viu Mini",
+      "codename": "DV6067H-Dialog",
+      "model": "Viu Mini"
+    }
+  ]
+}

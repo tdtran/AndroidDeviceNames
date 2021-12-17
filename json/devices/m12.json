@@ -4,5 +4,23 @@
     "market_name": "M12",
     "codename": "M12",
     "model": "M12"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M12",
+    "codename": "m12",
+    "model": "SM-M127F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M12",
+    "codename": "m12",
+    "model": "SM-M127G"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M12",
+    "codename": "m12",
+    "model": "SM-M127N"
   }
 ]

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DCG-P10",
+      "codename": "DCG-P10",
+      "model": "DCG-P10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G10",
       "codename": "G10",
       "model": "G10"

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "EGOTEK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Mars8",
+      "codename": "Mars8",
+      "model": "Mars8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Penguin",
+      "codename": "Penguin",
+      "model": "Penguin"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venus10",
+      "codename": "Venus10",
+      "model": "Venus10"
+    }
+  ]
+}

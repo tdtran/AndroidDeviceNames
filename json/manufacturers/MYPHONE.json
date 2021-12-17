@@ -69,12 +69,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Hammer Blade 3",
-      "codename": "Hammer_Blade_3",
-      "model": "Hammer_Blade_3"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Hammer Energy",
       "codename": "Hammer_Energy",
       "model": "Hammer Energy"
@@ -90,12 +84,6 @@
       "market_name": "Hammer Energy 2",
       "codename": "Hammer_Energy_2",
       "model": "Hammer_Energy_2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Hammer Explorer Pro",
-      "codename": "Hammer_Expl_Pro",
-      "model": "Hammer_Explorer_Pro"
     },
     {
       "manufacturer": "",
@@ -546,6 +534,12 @@
       "market_name": "myT8",
       "codename": "myT8",
       "model": "myT8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myT8S",
+      "codename": "myT8S",
+      "model": "myT8S"
     },
     {
       "manufacturer": "",

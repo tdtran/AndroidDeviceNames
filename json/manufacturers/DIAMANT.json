@@ -1,0 +1,17 @@
+{
+  "manufacturer": "DIAMANT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "tamachi",
+      "model": "DIAMANT Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "yeongdeungpo",
+      "model": "DIAMANT Android TV"
+    }
+  ]
+}

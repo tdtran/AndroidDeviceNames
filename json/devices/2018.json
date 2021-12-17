@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Vivo",
+    "market_name": "I2018",
+    "codename": "2018",
+    "model": "I2018"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "vivo 2018",
     "codename": "2018",
     "model": "vivo 2018"

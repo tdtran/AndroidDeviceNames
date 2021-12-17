@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CHAMP",
+      "codename": "CHAMP",
+      "model": "CHAMP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CHERRY",
       "codename": "CHERRY",
       "model": "CHERRY"
@@ -96,6 +102,18 @@
       "market_name": "Chrome LTE",
       "codename": "CHROME_LTE",
       "model": "CHROME LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chrome_LTE",
+      "codename": "Chrome_LTE",
+      "model": "Chrome LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Clik plus",
+      "codename": "Clik_plus",
+      "model": "Clik plus"
     },
     {
       "manufacturer": "",
@@ -165,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fendy plus",
+      "codename": "Fendy_plus",
+      "model": "Fendy plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fever_Plus",
       "codename": "Fever_Plus",
       "model": "Fever_Plus"
@@ -222,6 +246,12 @@
       "market_name": "Icon",
       "codename": "Mobicel_Icon",
       "model": "Icon"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LEGEND_MAX_LTE",
+      "codename": "LEGEND_MAX",
+      "model": "LEGEND MAX"
     },
     {
       "manufacturer": "",
@@ -291,9 +321,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEO_1",
+      "codename": "NEO_1",
+      "model": "NEO_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ONYX",
       "codename": "ONYX",
       "model": "ONYX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OREO",
+      "codename": "OREO",
+      "model": "OREO"
     },
     {
       "manufacturer": "",
@@ -312,6 +354,12 @@
       "market_name": "PULSE_1",
       "codename": "PULSE_1",
       "model": "PULSE_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PULSE_1_VDC",
+      "codename": "PULSE_1_VDC",
+      "model": "PULSE_1_VDC"
     },
     {
       "manufacturer": "",
@@ -582,6 +630,12 @@
       "market_name": "VENUS_G",
       "codename": "VENUS_G",
       "model": "VENUS_G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIBE",
+      "codename": "VIBE",
+      "model": "VIBE"
     },
     {
       "manufacturer": "",

@@ -1,8 +1,20 @@
 [
   {
+    "manufacturer": "ATVIO",
+    "market_name": "ATVIO",
+    "codename": "mid7015_mk_32",
+    "model": "MID7015"
+  },
+  {
     "manufacturer": "DigiLand",
     "market_name": "ONN",
     "codename": "mid7015_mk_32",
     "model": "100005206"
+  },
+  {
+    "manufacturer": "ViewSonic",
+    "market_name": "ViewPad_M7_2_32",
+    "codename": "mid7015_mk_32",
+    "model": "ViewPad M7-2/32"
   }
 ]

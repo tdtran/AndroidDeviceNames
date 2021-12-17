@@ -138,6 +138,12 @@
       "market_name": "Winnovo",
       "codename": "M8",
       "model": "M8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WinnovoT5",
+      "codename": "WinnovoT5",
+      "model": "WinnovoT5"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "JHZL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "J101",
+      "codename": "J101",
+      "model": "J101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J101-EEA",
+      "codename": "J101-EEA",
+      "model": "J101-EEA"
+    }
+  ]
+}

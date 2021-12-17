@@ -15,15 +15,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q718B_EEA",
+      "codename": "Q718B_EEA",
+      "model": "Q718B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q718B_EEA",
+      "codename": "Q718B_EEA",
+      "model": "Q718B_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q738",
       "codename": "Q738",
       "model": "Q738"
     },
     {
       "manufacturer": "",
+      "market_name": "Q801",
+      "codename": "Q801",
+      "model": "Q801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q86V",
+      "codename": "Q86V_EEA",
+      "model": "Q86V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q88A_EEA",
       "codename": "Q88A_EEA",
       "model": "Q88A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q88C",
+      "codename": "Q88C",
+      "model": "Q88C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q88D_FUFEN_EEA",
+      "codename": "Q88D_FUFEN_EEA",
+      "model": "Q88D_FUFEN_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TUFEN_10",
+      "codename": "TUFEN_10",
+      "model": "TUFEN_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TUFEN_701_EEA",
+      "codename": "TUFEN_701_EEA",
+      "model": "TUFEN_701_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TUFEN_804",
+      "codename": "TUFEN_804",
+      "model": "TUFEN_804"
     }
   ]
 }

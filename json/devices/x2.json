@@ -6,6 +6,18 @@
     "model": "X2"
   },
   {
+    "manufacturer": "Greentel",
+    "market_name": "X2",
+    "codename": "X2",
+    "model": "X2"
+  },
+  {
+    "manufacturer": "IkuMobile",
+    "market_name": "X2",
+    "codename": "X2",
+    "model": "iKU X2"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "Optimus  EX",
     "codename": "x2",

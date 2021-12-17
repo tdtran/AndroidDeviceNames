@@ -6,6 +6,12 @@
       "market_name": "Africa",
       "codename": "nippori",
       "model": "Unionaire Android TV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UnionaireATV4K",
+      "codename": "hanyang",
+      "model": "Unionaire Android TV"
     }
   ]
 }

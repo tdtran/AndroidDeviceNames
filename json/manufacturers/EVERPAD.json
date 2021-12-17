@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EW2010",
+      "codename": "EW2010",
+      "model": "EW2010"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EW2020",
+      "codename": "EW2020",
+      "model": "EW2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EW2021",
       "codename": "EVERPAD-EW2021",
       "model": "EW2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EW2022",
+      "codename": "EW2022",
+      "model": "EW2022"
     },
     {
       "manufacturer": "",

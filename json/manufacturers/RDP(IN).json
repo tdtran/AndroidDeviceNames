@@ -1,0 +1,11 @@
+{
+  "manufacturer": "RDP(in)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TP802",
+      "codename": "TP802",
+      "model": "TP802"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "FACETEL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A12",
+      "codename": "A12",
+      "model": "A12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q3_EEA",
+      "codename": "Q3_EEA",
+      "model": "Q3_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q3pro",
+      "codename": "Q3pro",
+      "model": "Q3pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q3pro_eea",
+      "codename": "Q3pro_eea",
+      "model": "Q3pro_eea"
+    }
+  ]
+}

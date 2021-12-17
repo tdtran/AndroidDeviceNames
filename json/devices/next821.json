@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Panasonic",
+    "market_name": "Eco4K13",
+    "codename": "NEXT821",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "Elite 4K 16",
+    "codename": "NEXT821",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
     "market_name": "NEXT Crew Terminal - IoT Chip",
     "codename": "NEXT821",
     "model": "NEXT"
@@ -8,6 +20,18 @@
   {
     "manufacturer": "Panasonic",
     "market_name": "NEXT Eco4K 12",
+    "codename": "NEXT821",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "NEXT Premium Hand-Set (PHS)",
+    "codename": "NEXT821",
+    "model": "NEXT"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "NEXT Theater-4K 24",
     "codename": "NEXT821",
     "model": "NEXT"
   }

@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K503HD",
+      "codename": "K503HD",
+      "model": "K503HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K503S",
       "codename": "K503S",
       "model": "K503S"
@@ -60,6 +66,18 @@
       "market_name": "K504",
       "codename": "K504",
       "model": "K504"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K506",
+      "codename": "K506",
+      "model": "K506"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K507",
+      "codename": "K507",
+      "model": "K507"
     },
     {
       "manufacturer": "",
@@ -129,6 +147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K604",
+      "codename": "K604",
+      "model": "K604"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K605",
+      "codename": "K605",
+      "model": "K605"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RS550",
       "codename": "RS550",
       "model": "RS550"
@@ -159,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X430",
+      "codename": "X430",
+      "model": "X430"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X500",
       "codename": "X500",
       "model": "X500"
@@ -180,6 +216,18 @@
       "market_name": "X507T",
       "codename": "X507T",
       "model": "X507T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X515",
+      "codename": "X515",
+      "model": "X515"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X516",
+      "codename": "X516",
+      "model": "X516"
     },
     {
       "manufacturer": "",

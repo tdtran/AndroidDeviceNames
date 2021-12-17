@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Blade A51",
+    "codename": "P963F60",
+    "model": "Blade A51"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Nubia 4010",
+    "codename": "P963F60",
+    "model": "Nubia 4010"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "P650 2021",
+    "codename": "P963F60",
+    "model": "P650 2021"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE A51",
+    "codename": "P963F60",
+    "model": "ZTE A51"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade A51",
+    "codename": "P963F60",
+    "model": "ZTE Blade A51"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade A51RU",
+    "codename": "P963F60",
+    "model": "ZTE Blade A51RU"
+  }
+]

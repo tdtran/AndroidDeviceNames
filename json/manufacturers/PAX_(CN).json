@@ -9,9 +9,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A77",
+      "codename": "A77",
+      "model": "A77"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M30",
       "codename": "PAXM30",
       "model": "M30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50",
+      "codename": "PAXM50",
+      "model": "M50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PAYTABLETM8",
+      "codename": "PAYTABLETM8",
+      "model": "M8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pay Phone M50",
+      "codename": "PAYPHONEM50",
+      "model": "M50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pay Phone M50 EEA",
+      "codename": "PAYPHONEM50",
+      "model": "M50"
     }
   ]
 }

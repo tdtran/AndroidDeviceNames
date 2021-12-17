@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M5GO",
+      "codename": "M5GO",
+      "model": "M5GO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M5Go",
       "codename": "M5Go",
       "model": "M5Go"
@@ -78,6 +84,12 @@
       "market_name": "NOTE_4CAM",
       "codename": "NOTE_4CAM",
       "model": "NOTE 4CAM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_4CAM",
+      "codename": "Note_4CAM_R",
+      "model": "Note_4CAM"
     },
     {
       "manufacturer": "",
@@ -129,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TechPad_1032",
+      "codename": "TechPad_1032",
+      "model": "TechPad_1032"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TechPad_1032s",
       "codename": "TechPad_1032s",
       "model": "TechPad_1032s"
@@ -171,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tech_Pad_X10",
+      "codename": "Tech_Pad_X10",
+      "model": "Tech Pad X10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Techpad_Kids_7",
       "codename": "Techpad_Kids_7",
       "model": "Techpad_Kids_7"
@@ -180,6 +204,12 @@
       "market_name": "X6",
       "codename": "X6",
       "model": "X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "X7",
+      "model": "X7"
     },
     {
       "manufacturer": "",

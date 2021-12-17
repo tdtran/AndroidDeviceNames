@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P40",
+      "codename": "P40",
+      "model": "P40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P55",
+      "codename": "P55",
+      "model": "P55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PCD508",
       "codename": "PCD508",
       "model": "PCD508"
@@ -18,6 +30,12 @@
       "market_name": "PCD509",
       "codename": "PCD509",
       "model": "PCD509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PD60",
+      "codename": "P60",
+      "model": "P60"
     },
     {
       "manufacturer": "",

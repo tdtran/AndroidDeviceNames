@@ -15,6 +15,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 11 5G",
+      "codename": "Armor_11_5G",
+      "model": "Armor 11 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 11T 5G",
+      "codename": "Armor_11T_5G",
+      "model": "Armor 11T 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 12 5G",
+      "codename": "Armor_12_5G",
+      "model": "Armor 12 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2",
       "codename": "Armor_2",
       "model": "Armor_2"
@@ -45,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 8",
+      "codename": "Armor_8_R",
+      "model": "Armor 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 8 Pro",
+      "codename": "Armor_8_Pro",
+      "model": "Armor 8 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 9",
       "codename": "Armor_9",
       "model": "Armor 9"
@@ -63,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor X10",
+      "codename": "Armor_X10",
+      "model": "Armor X10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor X2",
       "codename": "Armor_X2",
       "model": "Armor_X2"
@@ -77,6 +113,12 @@
       "manufacturer": "",
       "market_name": "Armor X5 Pro",
       "codename": "Armor_X5_Pro",
+      "model": "Armor X5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X5 Pro",
+      "codename": "Armor_X5_Pro_R",
       "model": "Armor X5 Pro"
     },
     {
@@ -99,9 +141,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor X8",
+      "codename": "Armor_X8_R",
+      "model": "Armor X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X8i",
+      "codename": "Armor_X8i",
+      "model": "Armor X8i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X9",
+      "codename": "Armor_X9",
+      "model": "Armor X9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X9 Pro",
+      "codename": "Armor_X9_Pro",
+      "model": "Armor X9 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor6",
       "codename": "Armor_6",
       "model": "Armor_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_11T_5G",
+      "codename": "Armor_11T_5G",
+      "model": "Armor 11T 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_11_5G",
+      "codename": "Armor_11_5G",
+      "model": "Armor 11 5G"
     },
     {
       "manufacturer": "",
@@ -189,9 +267,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_X5",
+      "codename": "Armor_X5_R",
+      "model": "Armor X5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_X6",
       "codename": "Armor_X6",
       "model": "Armor_X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X8_R_EEA",
+      "codename": "Armor_X8_R",
+      "model": "Armor X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X9",
+      "codename": "Armor_X9",
+      "model": "Armor X9"
     },
     {
       "manufacturer": "",
@@ -213,6 +309,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 10",
+      "codename": "Note_10",
+      "model": "Note 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 11P",
+      "codename": "Note_11P",
+      "model": "Note 11P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 12P",
+      "codename": "Note_12P",
+      "model": "Note 12P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 13P",
+      "codename": "Note_13P",
+      "model": "Note 13P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 6",
+      "codename": "Note_6",
+      "model": "Note 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 6P",
+      "codename": "Note_6P",
+      "model": "Note 6P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 8",
       "codename": "Note_8",
       "model": "Note 8"
@@ -228,6 +360,12 @@
       "market_name": "Note 9P",
       "codename": "Note_9P",
       "model": "Note 9P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_10",
+      "codename": "Note_10",
+      "model": "Note 10"
     },
     {
       "manufacturer": "",
@@ -288,6 +426,18 @@
       "market_name": "Power 5S",
       "codename": "Power_5S",
       "model": "Power_5S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor 13",
+      "codename": "Power_Armor_13",
+      "model": "Power Armor 13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor 14",
+      "codename": "Power_Armor_14",
+      "model": "Power Armor 14"
     },
     {
       "manufacturer": "",
@@ -378,6 +528,18 @@
       "market_name": "T2",
       "codename": "T2",
       "model": "T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab A7",
+      "codename": "Ulefone_Tab_A7",
+      "model": "Ulefone Tab A7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulefone Tab A7",
+      "codename": "Ulefone_Tab_A7",
+      "model": "Ulefone Tab A7"
     },
     {
       "manufacturer": "",

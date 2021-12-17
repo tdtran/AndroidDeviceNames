@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tALFA10TX",
+      "codename": "ALFA10TX",
+      "model": "ALFA10TX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA 10RC",
       "codename": "ALFA_10RC",
       "model": "ALFA_10RC"
@@ -27,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALFA_10BS",
+      "codename": "ALFA_10BS",
+      "model": "ALFA_10BS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA_10RX",
       "codename": "ALFA_10RX",
       "model": "ALFA_10RX"
@@ -45,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALFA_7MD",
+      "codename": "ALFA_7MD",
+      "model": "ALFA_7MD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA_7RC",
       "codename": "ALFA_7RC",
       "model": "ALFA_7RC"
@@ -54,6 +72,12 @@
       "market_name": "ALFA_8SL",
       "codename": "ALFA_8SL",
       "model": "ALFA_8SL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA_8ST",
+      "codename": "ALFA_8ST",
+      "model": "ALFA_8ST"
     },
     {
       "manufacturer": "",

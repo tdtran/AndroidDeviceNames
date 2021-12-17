@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Iskon",
+    "market_name": "Iskon.TV",
+    "codename": "wh220_iskon",
+    "model": "Iskon.TV"
+  },
+  {
+    "manufacturer": "Iskon",
     "market_name": "wh220_iskon",
     "codename": "wh220_iskon",
     "model": "Iskon.TV"

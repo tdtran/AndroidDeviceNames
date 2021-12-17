@@ -1,9 +1,63 @@
 [
   {
+    "manufacturer": "AllView",
+    "market_name": "ALLVIEW 4K TV",
+    "codename": "SW4H_FF",
+    "model": "ALLVIEW 4K TV"
+  },
+  {
+    "manufacturer": "Daewoo",
+    "market_name": "Daewoo 4K TV",
+    "codename": "SW4H_FF",
+    "model": "Daewoo 4K TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "OLED TV S9",
+    "codename": "SW4H_FF",
+    "model": "OLED TV S9"
+  },
+  {
+    "manufacturer": "Indurama",
+    "market_name": "indurama smart TV",
+    "codename": "SW4H_FF",
+    "model": "indurama smart TV"
+  },
+  {
+    "manufacturer": "Iris",
+    "market_name": "IRIS 4K Android TV",
+    "codename": "SW4H_FF",
+    "model": "IRIS 4K Android TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Kogan 4K PRO Android TV",
+    "codename": "SW4H_FF",
+    "model": "Kogan 4K PRO Android TV"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "FlipkartTVPro",
+    "codename": "SW4H_FF",
+    "model": "FlipkartTVPro"
+  },
+  {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "PrismPlus 4K Pro Android TV",
+    "codename": "SW4H_FF",
+    "model": "PrismPlus 4K Pro Android TV"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "4KTV-0SUF",
     "codename": "SW4H_FF",
     "model": "4KTV-0SUF"
+  },
+  {
+    "manufacturer": "Realme",
+    "market_name": "realme SA Smart TV",
+    "codename": "SW4H_FF",
+    "model": "realme SA Smart TV"
   },
   {
     "manufacturer": "Realme",
@@ -12,9 +66,51 @@
     "model": "realme Smart TV"
   },
   {
+    "manufacturer": "Realme",
+    "market_name": "realme TW Smart TV",
+    "codename": "SW4H_FF",
+    "model": "realme TW Smart TV"
+  },
+  {
     "manufacturer": "SWTV",
     "market_name": "SWTV-20AE-PRO",
     "codename": "SW4H_FF",
     "model": "SWTV-20AE-PRO"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20HK-PRO",
+    "codename": "SW4H_FF",
+    "model": "SWTV-20HK-PRO"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20NA-PRO",
+    "codename": "SW4H_FF",
+    "model": "SWTV-20NA-PRO"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20SA-PRO",
+    "codename": "SW4H_FF",
+    "model": "SWTV-20SA-PRO"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-20TW-PRO",
+    "codename": "SW4H_FF",
+    "model": "SWTV-20TW-PRO"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP Android TV",
+    "codename": "SW4H_FF",
+    "model": "SHARP Android TV"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "SINGER BD SMART TV",
+    "codename": "SW4H_FF",
+    "model": "SINGER BD SMART TV"
   }
 ]

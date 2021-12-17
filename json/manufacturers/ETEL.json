@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q7",
+      "codename": "E-tel_Q7",
+      "model": "E-tel_Q7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i240",
       "codename": "i240",
       "model": "E-tel i240"

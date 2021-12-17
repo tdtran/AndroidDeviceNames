@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ENT11QF12",
+      "codename": "ENT11QF12",
+      "model": "ENT11QF12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ENT1529I20",
       "codename": "ENT1529I20",
       "model": "ENT1529I20"
@@ -15,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ENT71QF12",
+      "codename": "ENT71QF12",
+      "model": "ENT71QF12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ENT75QF620_EEA",
       "codename": "ENT75QF620",
       "model": "ENT75QF620"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HW304_HW291",
+      "codename": "HW304_HW291",
+      "model": "HW304_HW291"
     }
   ]
 }

@@ -16,5 +16,11 @@
     "market_name": "BeyondTV5",
     "codename": "BeyondTV",
     "model": "BeyondTV5"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "C02_4K_US",
+    "codename": "BeyondTV",
+    "model": "Smart TV"
   }
 ]

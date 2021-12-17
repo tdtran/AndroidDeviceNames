@@ -1,5 +1,35 @@
 [
   {
+    "manufacturer": "AGE (in)",
+    "market_name": "India",
+    "codename": "yeongdeungpo",
+    "model": "AGE UHD Android TV"
+  },
+  {
+    "manufacturer": "ARRQW",
+    "market_name": "Saudi Arabia",
+    "codename": "yeongdeungpo",
+    "model": "ARRQW UHD Android TV"
+  },
+  {
+    "manufacturer": "ASTECH",
+    "market_name": "Senegal",
+    "codename": "yeongdeungpo",
+    "model": "ASTECH UHD Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Australia",
+    "codename": "yeongdeungpo",
+    "model": "BLAUPUNKT Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Turkey",
+    "codename": "yeongdeungpo",
+    "model": "Blaupunkt 4K Android TV"
+  },
+  {
     "manufacturer": "CAIXUN",
     "market_name": "Australian/EU",
     "codename": "yeongdeungpo",
@@ -16,6 +46,12 @@
     "market_name": "Malaysia",
     "codename": "yeongdeungpo",
     "model": "AiPlus4KMY"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Mexico",
+    "codename": "yeongdeungpo",
+    "model": "AiPlus4K"
   },
   {
     "manufacturer": "CAIXUN",
@@ -36,10 +72,40 @@
     "model": "B UHD Android TV"
   },
   {
+    "manufacturer": "DAIICHI",
+    "market_name": "Vietnam",
+    "codename": "yeongdeungpo",
+    "model": "Daiichi UHD Android TV"
+  },
+  {
+    "manufacturer": "DIAMANT",
+    "market_name": "EU",
+    "codename": "yeongdeungpo",
+    "model": "DIAMANT Android TV"
+  },
+  {
+    "manufacturer": "Digiquest",
+    "market_name": "Italy",
+    "codename": "yeongdeungpo",
+    "model": "Digiquest 4K Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "Australia",
+    "codename": "yeongdeungpo",
+    "model": "EKO Android TV"
+  },
+  {
     "manufacturer": "Elitelux",
     "market_name": "Australia",
     "codename": "yeongdeungpo",
     "model": "AiPlus4K"
+  },
+  {
+    "manufacturer": "Estar",
+    "market_name": "Lithuania",
+    "codename": "yeongdeungpo",
+    "model": "eSTAR UHD Android TV"
   },
   {
     "manufacturer": "F\u0026U (Fandu)",
@@ -48,10 +114,28 @@
     "model": "F and U Android TV"
   },
   {
+    "manufacturer": "Fresh",
+    "market_name": "Egypt",
+    "codename": "yeongdeungpo",
+    "model": "Fresh UHD Android TV"
+  },
+  {
     "manufacturer": "Grunkel",
     "market_name": "Spain",
     "codename": "yeongdeungpo",
     "model": "GRUNKEL UHD Android TV"
+  },
+  {
+    "manufacturer": "HORIZON",
+    "market_name": "EU",
+    "codename": "yeongdeungpo",
+    "model": "HORIZON Android TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Italy",
+    "codename": "yeongdeungpo",
+    "model": "HYUNDAI 4K Android TV"
   },
   {
     "manufacturer": "Inves",
@@ -60,16 +144,106 @@
     "model": "INVES UHD Android TV"
   },
   {
+    "manufacturer": "JVC",
+    "market_name": "France",
+    "codename": "yeongdeungpo",
+    "model": "JVC 4K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "South Africa/Australia /Israel/Paraguay",
+    "codename": "yeongdeungpo",
+    "model": "JVC Android TV"
+  },
+  {
+    "manufacturer": "KAGIS",
+    "market_name": "Australia",
+    "codename": "yeongdeungpo",
+    "model": "KAGIS Android TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Australia",
+    "codename": "yeongdeungpo",
+    "model": "Kogan TV"
+  },
+  {
     "manufacturer": "MULTYNET",
     "market_name": "Pakistan",
     "codename": "yeongdeungpo",
     "model": "MULTYNET UHD Android TV"
   },
   {
+    "manufacturer": "Marcel",
+    "market_name": "EU",
+    "codename": "yeongdeungpo",
+    "model": "MARCEL Android TV"
+  },
+  {
+    "manufacturer": "Nano",
+    "market_name": "Thailand",
+    "codename": "yeongdeungpo",
+    "model": "Nano UHD Android TV"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "eu",
+    "codename": "yeongdeungpo",
+    "model": "OK 4K Android TV"
+  },
+  {
     "manufacturer": "ORCA",
     "market_name": "Kuwait",
     "codename": "yeongdeungpo",
     "model": "ORCA UHD Android TV"
+  },
+  {
+    "manufacturer": "OXYGEN (in)",
+    "market_name": "India",
+    "codename": "yeongdeungpo",
+    "model": "OXYGEN UHD Android TV"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "Russia",
+    "codename": "yeongdeungpo",
+    "model": "Prestigio UHD Android TV"
+  },
+  {
+    "manufacturer": "Profilo",
+    "market_name": "Turkey",
+    "codename": "yeongdeungpo",
+    "model": "Profilo 4K Android TV"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "Italy",
+    "codename": "yeongdeungpo",
+    "model": "Qbell UHD Android TV"
+  },
+  {
+    "manufacturer": "Qilive",
+    "market_name": "Europe",
+    "codename": "yeongdeungpo",
+    "model": "Qilive UHD Android TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "Mexico",
+    "codename": "yeongdeungpo",
+    "model": "AiPlus4K"
+  },
+  {
+    "manufacturer": "SANCO",
+    "market_name": "Vietnam",
+    "codename": "yeongdeungpo",
+    "model": "SANCO Android TV"
+  },
+  {
+    "manufacturer": "SUPERSONIC",
+    "market_name": "USA",
+    "codename": "yeongdeungpo",
+    "model": "SUPERSONIC UHD Android TV"
   },
   {
     "manufacturer": "Sansui",
@@ -90,10 +264,28 @@
     "model": "AiPlus4K"
   },
   {
+    "manufacturer": "Skyview",
+    "market_name": "KENYA",
+    "codename": "yeongdeungpo",
+    "model": "SKYVIEW Android TV"
+  },
+  {
+    "manufacturer": "Smart-Tech TV",
+    "market_name": "Germany",
+    "codename": "yeongdeungpo",
+    "model": "AiPlus4K"
+  },
+  {
     "manufacturer": "Smart-Tech TV",
     "market_name": "SmartTech",
     "codename": "yeongdeungpo",
     "model": "AiPlus4K"
+  },
+  {
+    "manufacturer": "Star-X",
+    "market_name": "Middle East",
+    "codename": "yeongdeungpo",
+    "model": "STAR-X UHD Android TV"
   },
   {
     "manufacturer": "Starlight",
@@ -102,15 +294,57 @@
     "model": "STARLIGHT Android TV"
   },
   {
+    "manufacturer": "Syinix",
+    "market_name": "Africa",
+    "codename": "yeongdeungpo",
+    "model": "Syinix UHD Android TV"
+  },
+  {
+    "manufacturer": "TD SYSTEMS",
+    "market_name": "Spain",
+    "codename": "yeongdeungpo",
+    "model": "TD SYSTEMS Android TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "EU",
+    "codename": "yeongdeungpo",
+    "model": "Tesla 4K Android TV"
+  },
+  {
     "manufacturer": "Turbo-X",
     "market_name": "Greek and Bulgarian",
     "codename": "yeongdeungpo",
     "model": "TURBO-X UHD Android TV"
   },
   {
+    "manufacturer": "UBCtv",
+    "market_name": "Vietnam",
+    "codename": "yeongdeungpo",
+    "model": "UBC Android TV"
+  },
+  {
+    "manufacturer": "WILLETT",
+    "market_name": "India",
+    "codename": "yeongdeungpo",
+    "model": "WILLETT UHD Android TV"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "Bangladesh and EU",
+    "codename": "yeongdeungpo",
+    "model": "WALTON Android TV"
+  },
+  {
     "manufacturer": "Widevu",
     "market_name": "Korea",
     "codename": "yeongdeungpo",
     "model": "Widevu UHD Android TV"
+  },
+  {
+    "manufacturer": "Zephir",
+    "market_name": "Italy",
+    "codename": "yeongdeungpo",
+    "model": "Zephir UHD Android TV"
   }
 ]

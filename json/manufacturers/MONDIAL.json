@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MONDIAL 4K TV",
+      "codename": "SW4H",
+      "model": "MONDIAL 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MONDIAL Smart TV",
+      "codename": "sunnyvale",
+      "model": "MONDIAL Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MONDIAL TV",
+      "codename": "shinjuku",
+      "model": "MONDIAL TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TB-MONDIAL",
       "codename": "TB_MONDIAL",
       "model": "TB_MONDIAL"

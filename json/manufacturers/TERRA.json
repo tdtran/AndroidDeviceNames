@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TERRA_MOBILE_PAD_1200",
+      "codename": "TERRA_MOBILE_PAD_1200",
+      "model": "TERRA_MOBILE_PAD_1200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TERRA_PAD_1005",
       "codename": "TERRA_PAD_1005",
       "model": "TERRA_PAD_1005"

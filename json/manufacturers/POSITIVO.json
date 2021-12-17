@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10 4G PRO X",
+      "codename": "T2040",
+      "model": "M10 4G PRO X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mini",
       "codename": "mini",
       "model": "Positivo Mini"
@@ -96,6 +102,12 @@
       "market_name": "Positivo Q20",
       "codename": "Q20",
       "model": "Positivo Q20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Positivo Q20",
+      "codename": "Q20",
+      "model": "Quantum Q20"
     },
     {
       "manufacturer": "",
@@ -267,6 +279,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T800",
+      "codename": "T800",
+      "model": "T800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T800",
+      "codename": "T800",
+      "model": "TabQ8-T800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T810",
+      "codename": "T810",
+      "model": "T810"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Twist",
       "codename": "S520",
       "model": "Positivo Twist M"
@@ -312,6 +342,54 @@
       "market_name": "Twist 2018",
       "codename": "S511",
       "model": "Twist (2018)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4",
+      "codename": "S514",
+      "model": "Twist 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4 Fit",
+      "codename": "S509N",
+      "model": "Twist 4 Fit"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4 Fit",
+      "codename": "S509N",
+      "model": "YOLO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4 Mini",
+      "codename": "S432",
+      "model": "Twist 4 Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4 Pro",
+      "codename": "S518",
+      "model": "Twist 4 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4 Pro",
+      "codename": "S518",
+      "model": "Twist 4 Pro Correios"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4 Pro",
+      "codename": "S518",
+      "model": "UP 32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 4G",
+      "codename": "S5094G",
+      "model": "Twist 4G"
     },
     {
       "manufacturer": "",
@@ -372,6 +450,18 @@
       "market_name": "Twist Tab",
       "codename": "T770",
       "model": "Twist Tab Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab",
+      "codename": "T770E",
+      "model": "Twist Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab",
+      "codename": "T770G",
+      "model": "Twist Tab"
     },
     {
       "manufacturer": "",

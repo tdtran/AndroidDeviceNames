@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FPT Play Box +",
+      "codename": "DV8536-KVF",
+      "model": "FPT Play Box +"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SEI500FPT",
       "codename": "SEI500FPT",
       "model": "FPT Play Box +"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEI610FPT",
+      "codename": "SEI610FPT",
+      "model": "FPT Play Box S"
     }
   ]
 }

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Dicle Tab Active S",
+      "codename": "Dicle_Dtab_Active_S",
+      "model": "Dicle_Dtab_Active_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dicle Tab MyPen P1",
+      "codename": "Tab_MyPen_P1",
+      "model": "Tab_MyPen_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dicle Tab Ultra",
+      "codename": "Tab_Ultra",
+      "model": "Tab_Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dicle_Tab_Active",
       "codename": "Active",
       "model": "Active"

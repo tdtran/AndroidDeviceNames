@@ -1023,6 +1023,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AC101XPro4G",
+      "codename": "AC101XPro4G",
+      "model": "AC101XPro4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACT101WF",
+      "codename": "ACT101WF",
+      "model": "ACT101WF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALBA 5",
       "codename": "ac50cr4gv2",
       "model": "ALBA 5"
@@ -1035,9 +1047,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ARCHOS",
+      "codename": "ARCHOS",
+      "model": "ARCHOS T96 WIFI_EEA_V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ARCHOS T101 4G",
       "codename": "act1014g",
       "model": "Archos T 101 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ARCHOS T96 3G_EEA",
+      "codename": "ARCHOST963G",
+      "model": "ARCHOS T96 3G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ARCHOS T96 WIFI_EEA",
+      "codename": "ARCHOST96",
+      "model": "ARCHOS T96 WIFI_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ARCHOST963G",
+      "codename": "ARCHOST963G",
+      "model": "ARCHOS T96 3G"
     },
     {
       "manufacturer": "",
@@ -1956,6 +1992,18 @@
       "market_name": "TV Connect",
       "codename": "LUDO",
       "model": "ARCHOS LUDOG10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X18_Ultra",
+      "codename": "X18_Ultra",
+      "model": "X18_Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X67 5G",
+      "codename": "ac67x5g",
+      "model": "X67 5G"
     },
     {
       "manufacturer": "",

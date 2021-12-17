@@ -1,5 +1,59 @@
 [
   {
+    "manufacturer": "IRIS_OHYAMA",
+    "market_name": "TE101N1",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "TE101"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 10L",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491X"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 10L",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491X_EEA"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 10L",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491X_RU"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 10L",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491X_TR"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TKEE MAX New",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491XN"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TKEE MAX New",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491XN_EEA"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TKEE MAX New",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491XN_RU"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TKEE MAX New",
+    "codename": "Aquaman_10_Smart_WIFI",
+    "model": "8491XN_TR"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "1T10 SMART",
     "codename": "Aquaman_10_Smart_WIFI",

@@ -51,9 +51,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Australia",
-      "codename": "hanyang",
-      "model": "Polaroid Android TV"
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BDL0232PR",
+      "codename": "BDL0232PR",
+      "model": "BDL0232PR"
     },
     {
       "manufacturer": "",
@@ -153,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID1064FHDP",
+      "codename": "MID1064FHDP",
+      "model": "MID1064FHDP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID1095PR001",
       "codename": "MID1095PR001",
       "model": "MID1095PR001"
@@ -162,6 +174,12 @@
       "market_name": "MID1264",
       "codename": "MID1264",
       "model": "MID1264"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID1464PR001",
+      "codename": "MID1464PR001",
+      "model": "MID1464PR001"
     },
     {
       "manufacturer": "",
@@ -183,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID4G64PR002",
+      "codename": "MID4G64PR002",
+      "model": "MID4G64PR002"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID4X07",
       "codename": "RCT6773W22",
       "model": "MID4X07"
@@ -192,6 +216,12 @@
       "market_name": "MID4X10",
       "codename": "RCT6203W46",
       "model": "MID4X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID8254PR",
+      "codename": "MID8254PR",
+      "model": "MID8254PR"
     },
     {
       "manufacturer": "",
@@ -327,6 +357,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POMDTB006",
+      "codename": "POMDTB006",
+      "model": "POMDTB006"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRO5023PW",
       "codename": "up06_h25_polaroid",
       "model": "PRO5023PW"
@@ -442,8 +478,20 @@
     {
       "manufacturer": "",
       "market_name": "Polaroid",
+      "codename": "ewha",
+      "model": "POLA-TVE19K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polaroid",
       "codename": "komagome",
       "model": "Polaroid 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polaroid android TV",
+      "codename": "hanyang",
+      "model": "Polaroid Android TV"
     },
     {
       "manufacturer": "",
@@ -480,6 +528,18 @@
       "market_name": "midcb232pr_EEA",
       "codename": "midcb232pr",
       "model": "midcb232pr"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "polaroid",
+      "codename": "ewha",
+      "model": "POLA-TVE19K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "polaroid",
+      "codename": "sindang",
+      "model": "POLA-TVE19M"
     }
   ]
 }

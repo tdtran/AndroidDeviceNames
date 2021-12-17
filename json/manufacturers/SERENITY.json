@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Serenity",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BE109",
+      "codename": "BE109",
+      "model": "BE109"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1000",
+      "codename": "T1000",
+      "model": "T1000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2000",
+      "codename": "T2000",
+      "model": "T2000"
+    }
+  ]
+}

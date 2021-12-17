@@ -3,15 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KA2",
+      "codename": "KA2",
+      "model": "KA2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KD1",
+      "codename": "KD1",
+      "model": "KD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KD2",
+      "codename": "KD2",
+      "model": "KD2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM1",
       "codename": "KM1",
       "model": "KM1"
     },
     {
       "manufacturer": "",
+      "market_name": "KM2",
+      "codename": "LAS",
+      "model": "LEAP-S1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM3",
       "codename": "KM3",
       "model": "KM3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM6",
+      "codename": "KM6",
+      "model": "KM6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM7",
+      "codename": "KM7",
+      "model": "KM7"
     },
     {
       "manufacturer": "",
@@ -24,6 +60,12 @@
       "market_name": "KM9PRO",
       "codename": "KM9PRO",
       "model": "KM9PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KT1",
+      "codename": "KT1",
+      "model": "KT1"
     }
   ]
 }

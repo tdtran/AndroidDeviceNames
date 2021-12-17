@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PLAY NOW TV BOX 2",
+      "codename": "DV8545-PLAY",
+      "model": "PLAY NOW TV BOX 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLAY NOW TV BOX 3",
+      "codename": "DV8945-KPP",
+      "model": "PLAY NOW TV BOX 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Play Now",
       "codename": "dctiw362p",
       "model": "DCTIW362_PLAY"

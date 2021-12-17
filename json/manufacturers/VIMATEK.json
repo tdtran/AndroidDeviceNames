@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ViMa-Tek",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VM20",
+      "codename": "VM20",
+      "model": "VM20"
+    }
+  ]
+}

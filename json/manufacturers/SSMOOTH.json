@@ -1,0 +1,35 @@
+{
+  "manufacturer": "SSmooth",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Smooth 5.5 Lite",
+      "codename": "Smooth5_5_Lite",
+      "model": "Smooth 5.5 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth 6.26 Lite",
+      "codename": "Smooth6_26_Lite",
+      "model": "Smooth 6.26 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth6_1",
+      "codename": "Smooth6_1",
+      "model": "Smooth 6.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth6_5",
+      "codename": "Smooth6_5",
+      "model": "Smooth 6.5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth_5",
+      "codename": "SSmooth_5",
+      "model": "Smooth 5.0"
+    }
+  ]
+}

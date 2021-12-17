@@ -24,6 +24,12 @@
     "model": "LG-K580"
   },
   {
+    "manufacturer": "Lesia",
+    "market_name": "K7",
+    "codename": "K7",
+    "model": "K7"
+  },
+  {
     "manufacturer": "Pritom",
     "market_name": "K7",
     "codename": "K7",
@@ -32,6 +38,12 @@
   {
     "manufacturer": "Pritom",
     "market_name": "K7_EEA",
+    "codename": "K7",
+    "model": "K7"
+  },
+  {
+    "manufacturer": "Surfans",
+    "market_name": "K7",
     "codename": "K7",
     "model": "K7"
   }

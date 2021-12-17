@@ -6,6 +6,12 @@
       "market_name": "MEO TV Box 4K",
       "codename": "DV8555-MEO",
       "model": "MEO TV Box 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MEOBox 4K",
+      "codename": "DIW3930-MEO",
+      "model": "MEO TV Box 4K (DIW3930)"
     }
   ]
 }

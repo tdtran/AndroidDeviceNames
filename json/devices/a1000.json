@@ -10,5 +10,11 @@
     "market_name": "A1000/P1003/P1010",
     "codename": "A1000",
     "model": "A1000/P1003/P1010"
+  },
+  {
+    "manufacturer": "TomStar",
+    "market_name": "A1000",
+    "codename": "A1000",
+    "model": "A1000"
   }
 ]

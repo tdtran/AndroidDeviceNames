@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cellution",
+    "market_name": "IRIS",
+    "codename": "IRIS",
+    "model": "IRIS"
+  },
+  {
     "manufacturer": "Cherry Mobile",
     "market_name": "Iris",
     "codename": "Iris",

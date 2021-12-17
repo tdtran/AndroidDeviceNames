@@ -10,5 +10,11 @@
     "market_name": "V2s",
     "codename": "V2s",
     "model": "V2s M"
+  },
+  {
+    "manufacturer": "Sunmi",
+    "market_name": "Sunmi V2s",
+    "codename": "V2s",
+    "model": "V2s_GL"
   }
 ]

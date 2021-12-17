@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Metro",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E2",
+      "codename": "E2",
+      "model": "E2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pro5",
+      "codename": "Pro5",
+      "model": "Pro5"
+    }
+  ]
+}

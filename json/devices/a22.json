@@ -4,5 +4,17 @@
     "market_name": "A22",
     "codename": "A22",
     "model": "A22"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A22",
+    "codename": "a22",
+    "model": "SM-A225F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A22",
+    "codename": "a22",
+    "model": "SM-A225M"
   }
 ]

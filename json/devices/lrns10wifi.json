@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "BYJUS",
+    "market_name": "LRNS10GEW0",
+    "codename": "LRNS10WIFI",
+    "model": "LRNS10GEW0"
+  },
+  {
+    "manufacturer": "BYJUS",
+    "market_name": "LRNS10GNW0",
+    "codename": "LRNS10WIFI",
+    "model": "LRNS10GNW0"
+  },
+  {
+    "manufacturer": "BYJUS",
+    "market_name": "LRNS10REW0",
+    "codename": "LRNS10WIFI",
+    "model": "LRNS10REW0"
+  },
+  {
+    "manufacturer": "BYJUS",
+    "market_name": "LRNS10RNW0",
+    "codename": "LRNS10WIFI",
+    "model": "LRNS10RNW0"
+  },
+  {
+    "manufacturer": "BYJUS",
+    "market_name": "LRNS10WEW0",
+    "codename": "LRNS10WIFI",
+    "model": "LRNS10WEW0"
+  },
+  {
+    "manufacturer": "BYJUS",
+    "market_name": "LRNS10WNW0",
+    "codename": "LRNS10WIFI",
+    "model": "LRNS10WNW0"
+  }
+]

@@ -6,6 +6,12 @@
       "market_name": "IDEA",
       "codename": "IDEA",
       "model": "IDEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEO",
+      "codename": "NEO",
+      "model": "NEO"
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "manufacturer": "GDM (es)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MB10",
+      "codename": "MB10",
+      "model": "MB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MB9",
+      "codename": "MB9",
+      "model": "MB9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MB9_PRO",
+      "codename": "MB9_PRO",
+      "model": "MB9_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P4R",
+      "codename": "P4R",
+      "model": "P4R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P4R_PRO",
+      "codename": "P4R_PRO",
+      "model": "P4R_PRO"
+    }
+  ]
+}

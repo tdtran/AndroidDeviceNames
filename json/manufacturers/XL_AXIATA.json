@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SDN200",
+      "codename": "lte_siden",
+      "model": "SDN200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Siden - XL Axiata",
+      "codename": "lte_siden",
+      "model": "SDN200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XL Home Pow",
       "codename": "STI6xxx",
       "model": "STI6030"

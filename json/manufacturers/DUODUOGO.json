@@ -9,6 +9,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S30",
+      "codename": "S30",
+      "model": "S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_A7_US",
+      "codename": "TAB_A7_US",
+      "model": "TAB_A7_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_S2",
+      "codename": "TAB_S2",
+      "model": "TAB_S2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_S2_EEA",
+      "codename": "TAB_S2_EEA",
+      "model": "TAB_S2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_A7",
+      "codename": "Tab_A7",
+      "model": "Tab_A7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tablet-P8_A",
       "codename": "Tablet-P8_A",
       "model": "Tablet-P8_A"

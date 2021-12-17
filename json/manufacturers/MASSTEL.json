@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Hapi 15",
+      "codename": "Masstel_Hapi_15",
+      "model": "Masstel Hapi 15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hapi_30",
+      "codename": "Masstel_Hapi_30",
+      "model": "Masstel Hapi 30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Juno_Q6",
       "codename": "Masstel_Juno_Q6",
       "model": "Juno Q6"
@@ -45,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Masstel Tab 10S",
+      "codename": "Masstel_Tab_10S",
+      "model": "Masstel_Tab_10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel Tab 82",
+      "codename": "Masstel_Tab_82",
+      "model": "Masstel_Tab_82"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Masstel Tab7",
       "codename": "3G_Tablet_PC",
       "model": "Masstel Tab7"
@@ -78,6 +102,30 @@
       "market_name": "Masstel_Tab10_4G",
       "codename": "Masstel_Tab10_4G",
       "model": "Masstel_Tab10_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab10_WiFi",
+      "codename": "Masstel_Tab10_WiFi",
+      "model": "Masstel_Tab10_WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab8_4G",
+      "codename": "Masstel_Tab8_4G",
+      "model": "Masstel_Tab8_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab_101",
+      "codename": "Masstel_Tab_101",
+      "model": "Masstel_Tab_101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab_104",
+      "codename": "Masstel_Tab_104",
+      "model": "Masstel_Tab_104"
     },
     {
       "manufacturer": "",
@@ -132,6 +180,12 @@
       "market_name": "Tab8plus",
       "codename": "Tab8Plus",
       "model": "Tab8Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_81",
+      "codename": "Tab_81",
+      "model": "Masstel Tab 81"
     },
     {
       "manufacturer": "",

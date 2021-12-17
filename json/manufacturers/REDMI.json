@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "rango",
+      "model": "MiTV-AXFR0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi  7A",
       "codename": "pine",
       "model": "Redmi 7A"
@@ -42,6 +48,36 @@
       "market_name": "Redmi  Note  7",
       "codename": "lavender",
       "model": "Redmi Note 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10",
+      "codename": "eos",
+      "model": "21061119DG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 2022",
+      "codename": "eos",
+      "model": "21061119DG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 2022",
+      "codename": "selene",
+      "model": "21061119AG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 2022",
+      "codename": "selene",
+      "model": "21061119AL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 2022",
+      "codename": "selene",
+      "model": "21121119SG"
     },
     {
       "manufacturer": "",
@@ -231,6 +267,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 9T",
+      "codename": "lemon",
+      "model": "M2010J19SY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9T",
+      "codename": "lime",
+      "model": "M2010J19SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9T",
+      "codename": "pomelo",
+      "model": "M2010J19SL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi K20",
       "codename": "davinci",
       "model": "Mi 9T"
@@ -297,9 +351,153 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi K40",
+      "codename": "alioth",
+      "model": "M2012K11AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K40 Gaming",
+      "codename": "ares",
+      "model": "M2012K10C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K40 Pro",
+      "codename": "haydn",
+      "model": "M2012K11C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K40 Pro +",
+      "codename": "haydn",
+      "model": "M2012K11C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10",
+      "codename": "camellia",
+      "model": "M2103K19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10",
+      "codename": "sunny",
+      "model": "M2101K7AG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10",
+      "codename": "sunny",
+      "model": "M2101K7AI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10 5G",
+      "codename": "camellian",
+      "model": "M2103K19G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10 JE",
+      "codename": "XIG02",
+      "model": "XIG02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10 Pro",
+      "codename": "sweet",
+      "model": "M2101K6G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10 Pro",
+      "codename": "sweetin",
+      "model": "M2101K6P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10 Pro Max",
+      "codename": "sweetin",
+      "model": "M2101K6I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10 pro",
+      "codename": "chopin",
+      "model": "M2104K10AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10S",
+      "codename": "maltose",
+      "model": "M2101K7BL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10S",
+      "codename": "rosemary",
+      "model": "M2101K7BNY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10S",
+      "codename": "secret",
+      "model": "M2101K7BG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10S",
+      "codename": "secret",
+      "model": "M2101K7BI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10T",
+      "codename": "camellian",
+      "model": "M2103K19Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10T 5G",
+      "codename": "camellia",
+      "model": "M2103K19I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10T 5G",
+      "codename": "camellia",
+      "model": "TBD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 5G",
+      "codename": "evergo",
+      "model": "21091116AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro",
+      "codename": "pissarro",
+      "model": "21091116C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro+",
+      "codename": "pissarropro",
+      "model": "21091116UC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 7",
       "codename": "lavender",
       "model": "Redmi Note 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8",
+      "codename": "biloba",
+      "model": "M1908C3JGG"
     },
     {
       "manufacturer": "",
@@ -318,6 +516,12 @@
       "market_name": "Redmi Note 8 Pro",
       "codename": "begonia",
       "model": "Redmi Note 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 8 Pro",
+      "codename": "begonia",
+      "model": "begonia"
     },
     {
       "manufacturer": "",
@@ -402,6 +606,24 @@
       "market_name": "Redmi Note 9S",
       "codename": "curtana",
       "model": "Redmi Note 9S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9T",
+      "codename": "cannong",
+      "model": "A001XM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9T",
+      "codename": "cannong",
+      "model": "M2007J22G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "tarzan",
+      "model": "MiTV-MOOQ3"
     }
   ]
 }

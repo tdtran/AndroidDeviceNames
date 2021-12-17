@@ -93,9 +93,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note_11_Pro",
+      "codename": "Note_11_Pro",
+      "model": "Note_11_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_1C",
+      "codename": "Note_1C",
+      "model": "Note_1C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_1_Lite",
+      "codename": "Note_1_Lite",
+      "model": "Note_1_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note_3_Pro",
       "codename": "Note_3_Pro",
       "model": "Note_3_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_5",
+      "codename": "Note_5",
+      "model": "Note_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_7_Pro",
+      "codename": "Note_7_Pro",
+      "model": "Note_7_Pro"
     }
   ]
 }

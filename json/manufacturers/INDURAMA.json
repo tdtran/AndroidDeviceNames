@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Indurama",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "indurama 2K TV",
+      "codename": "shinjuku",
+      "model": "indurama 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "indurama 4K TV",
+      "codename": "SW4H",
+      "model": "indurama 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "indurama Smart TV",
+      "codename": "sunnyvale",
+      "model": "indurama Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "indurama smart TV",
+      "codename": "SW4H_FF",
+      "model": "indurama smart TV"
+    }
+  ]
+}

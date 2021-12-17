@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M3 SL20",
+      "codename": "M3SL20",
+      "model": "M3SL20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M3 SM15N",
       "codename": "M3SM15N",
       "model": "M3SM15N"
@@ -12,6 +18,12 @@
       "market_name": "M3 SM15X",
       "codename": "M3SM15X",
       "model": "M3SM15X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3 SM20",
+      "codename": "M3SM20",
+      "model": "M3SM20"
     },
     {
       "manufacturer": "",
@@ -30,6 +42,18 @@
       "market_name": "M3 UL20X",
       "codename": "M3UL20X",
       "model": "M3UL20X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3 US20W",
+      "codename": "M3US20W",
+      "model": "M3US20W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3 US20X",
+      "codename": "M3US20X",
+      "model": "M3US20X"
     },
     {
       "manufacturer": "",

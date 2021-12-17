@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Allure_A8_Pro",
+      "codename": "Allure_A8_Pro",
+      "model": "Allure A8 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R2",
       "model": "ATV R2"
@@ -93,9 +99,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CLEVER 3",
+      "codename": "CLEVER_3",
+      "model": "CLEVER 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C_5",
       "codename": "u970_5",
       "model": "C-6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Customer need debug",
+      "codename": "TB108W",
+      "model": "TB108W"
     },
     {
       "manufacturer": "",
@@ -126,6 +144,12 @@
       "market_name": "Griffe T1",
       "codename": "Griffe_T1",
       "model": "SP413"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Griffe T10",
+      "codename": "Griffe_T10",
+      "model": "Griffe T10"
     },
     {
       "manufacturer": "",
@@ -435,6 +459,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Plume L5",
+      "codename": "Plume_L5",
+      "model": "Plume L5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plume L6 Pro",
       "codename": "Plume_L6_Pro",
       "model": "Plume L6 Pro"
@@ -528,6 +558,12 @@
       "market_name": "TB105L",
       "codename": "TB105L",
       "model": "TB105L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB109L",
+      "codename": "TB109L",
+      "model": "TB109L"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "OSCAL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "C20",
+      "codename": "C20",
+      "model": "C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20 Pro",
+      "codename": "C20_Pro",
+      "model": "C20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60",
+      "codename": "S60",
+      "model": "S60"
+    }
+  ]
+}

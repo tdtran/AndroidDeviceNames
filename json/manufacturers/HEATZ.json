@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HEATZ",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HZ9950",
+      "codename": "HZ9950",
+      "model": "HZ9950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z9950",
+      "codename": "Z9950",
+      "model": "Z9950"
+    }
+  ]
+}

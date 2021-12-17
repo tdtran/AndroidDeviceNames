@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "9C",
+      "codename": "9C",
+      "model": "9C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A10S",
       "codename": "A10S",
       "model": "A10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10c",
+      "codename": "A10c",
+      "model": "A10c"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20C",
+      "codename": "A20C",
+      "model": "A20C"
     },
     {
       "manufacturer": "",
@@ -33,6 +51,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hope10Pro",
+      "codename": "Hope10Pro",
+      "model": "Hope10Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope10_Mate",
+      "codename": "Hope10_Mate",
+      "model": "Hope10 Mate"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope10_Plus",
+      "codename": "Hope10_Plus",
+      "model": "Hope10 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hope10_Pro",
       "codename": "Hope10_Pro",
       "model": "Hope10 Pro"
@@ -54,6 +90,24 @@
       "market_name": "Hope7_Max",
       "codename": "Hope7_Max",
       "model": "Hope7 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope7_Pro",
+      "codename": "Hope7_Pro",
+      "model": "Hope7_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope8_LTE",
+      "codename": "Hope8_LTE",
+      "model": "Hope8_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope8_Mate",
+      "codename": "Hope8_Mate",
+      "model": "Hope8_Mate"
     },
     {
       "manufacturer": "",
@@ -105,6 +159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kids8 Pro",
+      "codename": "Kids8_Pro",
+      "model": "X-TIGI_Kids8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kids9 Pro",
+      "codename": "Kids9_Pro",
+      "model": "Kids9 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M20S",
       "codename": "M20S",
       "model": "M20S"
@@ -123,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP2_Pro",
+      "codename": "SHARP2_Pro",
+      "model": "SHARP2_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP_2",
       "codename": "SHARP_2",
       "model": "SHARP_2"
@@ -132,6 +204,12 @@
       "market_name": "Sharp1_Lite",
       "codename": "Sharp1_Lite",
       "model": "Sharp1_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V12",
+      "codename": "V12",
+      "model": "V12"
     },
     {
       "manufacturer": "",

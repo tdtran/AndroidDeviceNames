@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amber8",
+      "codename": "Amber8",
+      "model": "Amber8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Amber8S",
       "codename": "Amber8S",
       "model": "Amber8S"
@@ -48,6 +54,18 @@
       "market_name": "Amber8s Pro",
       "codename": "Amber8s_Pro",
       "model": "Amber8s Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amber8s_Mate",
+      "codename": "Amber8s_Mate",
+      "model": "Amber8s Mate"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BEQUE7S",
+      "codename": "BEQUE7S",
+      "model": "BEQUE7S"
     },
     {
       "manufacturer": "",
@@ -165,15 +183,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S100",
+      "codename": "S100",
+      "model": "S100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S100E",
+      "codename": "S100E",
+      "model": "S100E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S401",
       "codename": "S401",
       "model": "S401"
     },
     {
       "manufacturer": "",
+      "market_name": "S401A",
+      "codename": "S401A",
+      "model": "S401A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S501",
       "codename": "S501",
       "model": "S501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S501A",
+      "codename": "S501A",
+      "model": "S501A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S501APlus",
+      "codename": "S501APlus",
+      "model": "S501APlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S501Pro",
+      "codename": "S501Pro",
+      "model": "S501 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SAMBA65S",
+      "codename": "SAMBA65S",
+      "model": "SAMBA65S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Soda6S",
+      "codename": "Soda6S",
+      "model": "Soda6S"
     },
     {
       "manufacturer": "",

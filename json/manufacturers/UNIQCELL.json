@@ -9,9 +9,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D7",
+      "codename": "D7",
+      "model": "D7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D7PRO",
       "codename": "D7PRO",
       "model": "D7PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K7_PRO",
+      "codename": "K7_PRO",
+      "model": "K7pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNIQCELL_A4",
+      "codename": "UNIQCELL_A4",
+      "model": "UNIQCELL_A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNIQCELL_A5",
+      "codename": "UNIQCELL_A5",
+      "model": "UNIQCELL_A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNIQCELL_A55",
+      "codename": "UNIQCELL_A55",
+      "model": "UNIQCELL_A55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W7",
+      "codename": "W7",
+      "model": "W7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZX_001",
+      "codename": "ZX_001",
+      "model": "ZX_001"
     }
   ]
 }

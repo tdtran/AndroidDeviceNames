@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G7P",
+      "codename": "hapjeong",
+      "model": "AI PONT PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GIU6060",
       "codename": "GIU6060",
       "model": "GIU6060"
@@ -12,6 +18,12 @@
       "market_name": "GIU6860",
       "codename": "GIU6860",
       "model": "GIU6860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H7",
+      "codename": "redwood",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -35,6 +47,12 @@
       "manufacturer": "",
       "market_name": "L42G6F",
       "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
       "model": "AI PONT"
     },
     {

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F-863",
+      "codename": "F-863",
+      "model": "F-863"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-C10",
+      "codename": "F-C10",
+      "model": "F-C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-X10",
+      "codename": "F-X10",
+      "model": "F-X10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UJ_1098",
       "codename": "UJ_1098",
       "model": "UJ_1098"

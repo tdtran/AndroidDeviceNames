@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M1",
+      "codename": "M1",
+      "model": "M1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "O3_EEA",
       "codename": "O3",
       "model": "O3"

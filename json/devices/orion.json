@@ -4,5 +4,11 @@
     "market_name": "orion",
     "codename": "orion",
     "model": "NGM Orion"
+  },
+  {
+    "manufacturer": "Vida",
+    "market_name": "ORION",
+    "codename": "ORION",
+    "model": "ORION"
   }
 ]

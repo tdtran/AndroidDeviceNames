@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Australia",
-      "codename": "hanyang",
-      "model": "SONIQ Android TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "G32HW60A",
       "codename": "osaki",
       "model": "2K AI Smart TV"
@@ -24,6 +18,12 @@
       "market_name": "PT1019A",
       "codename": "PT1019A",
       "model": "PT1019A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Soniq android TV",
+      "codename": "hanyang",
+      "model": "SONIQ Android TV"
     }
   ]
 }

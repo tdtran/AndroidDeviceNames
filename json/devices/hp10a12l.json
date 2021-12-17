@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Prestigio",
+    "market_name": "PMT3231_4G_D",
+    "codename": "HP10A12L",
+    "model": "PMT3231_4G_D"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "PMT3231_4G_D_EEA",
     "codename": "HP10A12L",
     "model": "PMT3231_4G_D_EEA"

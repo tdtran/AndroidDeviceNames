@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SUGAR C60",
+      "codename": "SUGAR_C60",
+      "model": "SUGAR C60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SUGAR F20",
       "codename": "p700as",
       "model": "SUGAR F20"
@@ -54,6 +60,12 @@
       "market_name": "SUGAR S50",
       "codename": "SUGAR_S50",
       "model": "SUGAR S50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUGAR S55",
+      "codename": "SUGAR_S55",
+      "model": "SUGAR S55"
     },
     {
       "manufacturer": "",

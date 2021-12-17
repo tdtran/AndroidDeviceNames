@@ -1,0 +1,17 @@
+{
+  "manufacturer": "g-mee",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "connect_2",
+      "codename": "connect_2",
+      "model": "connect 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "connect_2",
+      "codename": "connect_2V",
+      "model": "connect 2"
+    }
+  ]
+}

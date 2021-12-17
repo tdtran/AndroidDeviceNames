@@ -54,6 +54,12 @@
       "market_name": "Ti",
       "codename": "hermione",
       "model": "VERTU Ti"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VTL-202101",
+      "codename": "VTL-202101",
+      "model": "VTL-202101"
     }
   ]
 }

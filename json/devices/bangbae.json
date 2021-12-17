@@ -54,10 +54,22 @@
     "model": "Dyon 4K Android TV"
   },
   {
+    "manufacturer": "EDENWOOD",
+    "market_name": "EDENWOOD",
+    "codename": "bangbae",
+    "model": "EDENWOOD 4K Android TV"
+  },
+  {
     "manufacturer": "EKO",
     "market_name": "EKO",
     "codename": "bangbae",
     "model": "EKO 4K Android TV"
+  },
+  {
+    "manufacturer": "ELEXIA",
+    "market_name": "ELEXIA",
+    "codename": "bangbae",
+    "model": "ELEXIA 4K Android TV"
   },
   {
     "manufacturer": "Engel",
@@ -118,6 +130,12 @@
     "market_name": "Linsar",
     "codename": "bangbae",
     "model": "Linsar 4K Android TV"
+  },
+  {
+    "manufacturer": "MGS",
+    "market_name": "MGS",
+    "codename": "bangbae",
+    "model": "MGS 4K Android TV"
   },
   {
     "manufacturer": "MTC",

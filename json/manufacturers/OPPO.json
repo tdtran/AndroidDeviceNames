@@ -483,6 +483,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A53 5G",
+      "codename": "OP4E49",
+      "model": "PECM20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A53f",
       "codename": "A53",
       "model": "A53f"
@@ -510,6 +516,42 @@
       "market_name": "A53w",
       "codename": "A53",
       "model": "A53w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A54 5G",
+      "codename": "OP4F39L1",
+      "model": "CPH2303"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55 5G",
+      "codename": "OP4E2F",
+      "model": "PEMM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55 5G",
+      "codename": "OP4E2F",
+      "model": "PEMT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55 5G",
+      "codename": "OP4E8C",
+      "model": "PEMT20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55s 5G",
+      "codename": "OP52EBL1",
+      "model": "A102OP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55s 5G",
+      "codename": "OP52EBL1",
+      "model": "CPH2309"
     },
     {
       "manufacturer": "",
@@ -627,6 +669,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A74",
+      "codename": "OP4F11L1",
+      "model": "CPH2219"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A77",
       "codename": "A77",
       "model": "OPPO A77"
@@ -672,6 +720,12 @@
       "market_name": "A7n",
       "codename": "PCDT00",
       "model": "PCDT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A7x 中国版",
+      "codename": "OP4E7F",
+      "model": "PERM00"
     },
     {
       "manufacturer": "",
@@ -744,6 +798,18 @@
       "market_name": "A93",
       "codename": "OP4C51L1",
       "model": "CPH2123"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A93 5G",
+      "codename": "OP4E99",
+      "model": "PEHM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A94",
+      "codename": "OP4F43L1",
+      "model": "CPH2203"
     },
     {
       "manufacturer": "",
@@ -963,9 +1029,207 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH1907",
+      "codename": "OP4B83L1",
+      "model": "CPH1907"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CPH1909",
       "codename": "CPH1909",
       "model": "CPH1909"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1938",
+      "codename": "OP4883",
+      "model": "CPH1938"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2001",
+      "codename": "OP4B9B",
+      "model": "CPH2001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2015",
+      "codename": "OP4C7D",
+      "model": "CPH2015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2021",
+      "codename": "OP4B9B",
+      "model": "CPH2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2043",
+      "codename": "OP4B9EL1",
+      "model": "CPH2043"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2071",
+      "codename": "OP4BFB",
+      "model": "CPH2071"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2077",
+      "codename": "OP4BFB",
+      "model": "CPH2077"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2083",
+      "codename": "OP4BFB",
+      "model": "CPH2083"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2145",
+      "codename": "OP4F1BL1",
+      "model": "CPH2145"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2159",
+      "codename": "OP4F25L1",
+      "model": "CPH2159"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2161",
+      "codename": "OP4EE8L1",
+      "model": "CPH2161"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2173",
+      "codename": "OP4F57L1",
+      "model": "CPH2173"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2179",
+      "codename": "OP4F2F",
+      "model": "CPH2179"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2185",
+      "codename": "OP4F2F",
+      "model": "CPH2185"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2185",
+      "codename": "OP4F2F",
+      "model": "CPH21859"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2195",
+      "codename": "OP4F39L1",
+      "model": "CPH2195"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2197",
+      "codename": "OP4F39L1",
+      "model": "CPH2197"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2201",
+      "codename": "OP4F1FL1",
+      "model": "CPH2201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2207",
+      "codename": "OP4F0BL1",
+      "model": "CPH2207"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2211",
+      "codename": "OP4F4DL1",
+      "model": "CPH2211"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2213",
+      "codename": "OP4F4DL1",
+      "model": "CPH2213"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2219",
+      "codename": "OP4F11L1",
+      "model": "CPH2219"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2223",
+      "codename": "OP4F11L1",
+      "model": "CPH2223"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2235",
+      "codename": "OP4F25L1",
+      "model": "CPH2235"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2237",
+      "codename": "OP4FA7L1",
+      "model": "CPH2237"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2239",
+      "codename": "OP4F2F",
+      "model": "CPH2239"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2241",
+      "codename": "OP4F2F",
+      "model": "CPH2241"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2247",
+      "codename": "OP4F7FL1",
+      "model": "CPH2247"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2249",
+      "codename": "OP4F81L1",
+      "model": "CPH2249"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2251",
+      "codename": "OP4F83L1",
+      "model": "CPH2251"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2263",
+      "codename": "OP4F39L1",
+      "model": "CPH2263"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2293",
+      "codename": "OP52E1L1",
+      "model": "CPH2293"
     },
     {
       "manufacturer": "",
@@ -1002,6 +1266,12 @@
       "market_name": "F17 Pro",
       "codename": "OP4C51L1",
       "model": "CPH2119"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F19 Pro",
+      "codename": "OP4F43L1",
+      "model": "CPH2285"
     },
     {
       "manufacturer": "",
@@ -1161,6 +1431,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Find X3 Pro",
+      "codename": "OP4F57L1",
+      "model": "CPH2173"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X3 Pro",
+      "codename": "OP4F57L1",
+      "model": "OPG03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X3 Pro 中国版",
+      "codename": "OP4E3F",
+      "model": "PEEM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X3 中国版",
+      "codename": "OP4E5D",
+      "model": "PEDM00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Find5",
       "codename": "FIND5",
       "model": "X909"
@@ -1263,6 +1557,84 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPG02_jp_kdi",
+      "codename": "OP4F39L1",
+      "model": "OPG02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A33",
+      "codename": "OP4EEA",
+      "model": "CPH2137"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A35",
+      "codename": "OP4E7B",
+      "model": "PEFM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A53 5G",
+      "codename": "OP4E49",
+      "model": "PECM30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A53 5G",
+      "codename": "OP4E49",
+      "model": "PECT30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A53s 5G",
+      "codename": "OP4F53L1",
+      "model": "CPH2321"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A54",
+      "codename": "OP4E7B",
+      "model": "PEZM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A74 5G",
+      "codename": "OP4F39L1",
+      "model": "CPH2197"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A95 5G",
+      "codename": "OP4EB7",
+      "model": "PELM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno5 A",
+      "codename": "OP4F2BL1",
+      "model": "A101OP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno5 A",
+      "codename": "OP4F2BL1",
+      "model": "CPH2199"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno5 Pro+ 5G",
+      "codename": "OP4EA7",
+      "model": "PDRM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno5 pro",
+      "codename": "OP4F1FL1",
+      "model": "CPH2201"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO Watch",
       "codename": "beluga",
       "model": "OPPO Watch"
@@ -1272,6 +1644,78 @@
       "market_name": "OPPO Watch",
       "codename": "orca",
       "model": "OPPO Watch"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PDST00",
+      "codename": "OP4EA3",
+      "model": "PDST00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEGM00",
+      "codename": "OP4E8F",
+      "model": "PEGM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEGM10",
+      "codename": "OP4E59",
+      "model": "PEGM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEGT10",
+      "codename": "OP4E59",
+      "model": "PEGT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEHM00",
+      "codename": "OP4E99",
+      "model": "PEHT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEMM20",
+      "codename": "OP4E8C",
+      "model": "PEMM20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEPM00",
+      "codename": "OP4ECB",
+      "model": "PEPM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEQM00",
+      "codename": "OP4ED5",
+      "model": "PEQM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEXM00",
+      "codename": "OP4E9F",
+      "model": "PEXM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PFCM00",
+      "codename": "OP5259",
+      "model": "PFCM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PFGM00",
+      "codename": "OP5231",
+      "model": "PFGM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PGCM10",
+      "codename": "OPD2A0",
+      "model": "PGCM10"
     },
     {
       "manufacturer": "",
@@ -2109,12 +2553,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Reno 5",
-      "codename": "OP4F25L1",
-      "model": "CPH2159"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Reno A",
       "codename": "OP47CFL1",
       "model": "CPH1983"
@@ -2313,15 +2751,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Reno5 F",
+      "codename": "OP4F43L1",
+      "model": "CPH2217"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno5 Lite",
+      "codename": "OP4F43L1",
+      "model": "CPH2205"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Reno5 Pro 5G",
       "codename": "OP4EA3",
       "model": "PDSM00"
     },
     {
       "manufacturer": "",
-      "market_name": "Reno5 Pro 5G",
-      "codename": "OP4EA3",
-      "model": "PDST00"
+      "market_name": "Reno6 Pro+ 5G",
+      "codename": "OP4EC1",
+      "model": "PENM00"
     },
     {
       "manufacturer": "",
@@ -2559,15 +3009,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "realme X50 5G",
-      "codename": "RMX2051CN",
-      "model": "RMX2051"
+      "market_name": "realme X Lite",
+      "codename": "RMX1851CN",
+      "model": "RMX1851"
     },
     {
       "manufacturer": "",
-      "market_name": "realme X青春版",
-      "codename": "RMX1851CN",
-      "model": "RMX1851"
+      "market_name": "realme X50 5G",
+      "codename": "RMX2051CN",
+      "model": "RMX2051"
     }
   ]
 }

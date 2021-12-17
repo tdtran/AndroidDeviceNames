@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cellecor",
+    "market_name": "S4",
+    "codename": "S4",
+    "model": "S4"
+  },
+  {
     "manufacturer": "Emporia",
     "market_name": "emporiaSMART.4",
     "codename": "S4",

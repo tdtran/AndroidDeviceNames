@@ -6,6 +6,12 @@
     "model": "X3"
   },
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "X3",
+    "codename": "X3",
+    "model": "iKU X3"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "",
     "codename": "x3",
@@ -25,6 +31,24 @@
   },
   {
     "manufacturer": "Lava",
+    "market_name": "X3",
+    "codename": "X3",
+    "model": "X3"
+  },
+  {
+    "manufacturer": "MeanIT",
+    "market_name": "X3",
+    "codename": "X3",
+    "model": "X3"
+  },
+  {
+    "manufacturer": "Mira",
+    "market_name": "X3",
+    "codename": "X3",
+    "model": "X3"
+  },
+  {
+    "manufacturer": "STK(Santok)",
     "market_name": "X3",
     "codename": "X3",
     "model": "X3"

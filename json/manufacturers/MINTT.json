@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CoolMintt Rival",
+      "codename": "CoolMintt_Rival",
+      "model": "CoolMintt Rival"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CoolMinttA3",
       "codename": "CoolMinttA3",
       "model": "CoolMinttA3"
@@ -45,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CoolMintt_Blaze_2",
+      "codename": "CoolMintt_Blaze_2",
+      "model": "CoolMintt Blaze 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Coolmintt P2",
       "codename": "Coolmintt_P2",
       "model": "Coolmintt_P2"
@@ -66,6 +78,24 @@
       "market_name": "M1",
       "codename": "M1",
       "model": "M1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MINTT-DIGI",
+      "codename": "MINTT-DIGI",
+      "model": "MINTT-DIGI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MINTT_DIGI_2",
+      "codename": "MINTT_DIGI_2",
+      "model": "Mintt__Digi__2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MinttPoro",
+      "codename": "MinttPoro",
+      "model": "MinttPoro"
     },
     {
       "manufacturer": "",
@@ -93,15 +123,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ULTRAMINTT_A6",
+      "codename": "ULTRAMINTT_A6",
+      "model": "ULTRAMINTT A6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ULTRAMINTT_P3",
       "codename": "ULTRAMINTT_P3",
       "model": "COOLMINTT P3"
     },
     {
       "manufacturer": "",
+      "market_name": "ULTRAMINTT_X6",
+      "codename": "ULTRAMINTT_X6",
+      "model": "ULTRAMINTT X6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UltraMinttS2",
       "codename": "UltraMinttS2",
       "model": "UltraMinttS2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UltraMinttT10",
+      "codename": "UltraMinttT10",
+      "model": "UltraMintt_T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UltraMinttT2",
+      "codename": "UltraMinttT2",
+      "model": "UltraMinttT2"
     },
     {
       "manufacturer": "",

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B866V2",
+      "codename": "MediaBox_B866V2",
+      "model": "B866V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V8802",
       "codename": "V8802",
       "model": "V8802"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ViettelTV 4K BOX",
+      "codename": "VTTV-SD4K-20",
+      "model": "ViettelTV 4K BOX"
     },
     {
       "manufacturer": "",

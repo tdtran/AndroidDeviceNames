@@ -1,0 +1,17 @@
+{
+  "manufacturer": "General Motors",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Infotainment 3.7",
+      "codename": "gminfo37",
+      "model": "gminfo37"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infotainment 3.8",
+      "codename": "gminfo37",
+      "model": "gminfo38"
+    }
+  ]
+}

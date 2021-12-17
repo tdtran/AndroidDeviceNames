@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N-57",
+      "codename": "N-57",
+      "model": "N-57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N-57+",
       "codename": "N-57-Plus",
       "model": "N-57"
@@ -51,9 +57,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N-60",
+      "codename": "N60",
+      "model": "N-60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T100",
+      "codename": "T100",
+      "model": "LP_T100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T100",
+      "codename": "T100",
+      "model": "T100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VYPER PRO",
       "codename": "Vyper_PRO",
       "model": "Vyper PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W55",
+      "codename": "W55",
+      "model": "W55"
     }
   ]
 }

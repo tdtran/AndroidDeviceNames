@@ -10,14 +10,20 @@
     {
       "manufacturer": "",
       "market_name": "Australia",
-      "codename": "hanyang",
-      "model": "Ayonz Android TV"
+      "codename": "nippori",
+      "model": "EKO Android TV 2K"
     },
     {
       "manufacturer": "",
       "market_name": "Australia",
-      "codename": "nippori",
-      "model": "EKO Android TV 2K"
+      "codename": "tamachi",
+      "model": "EKO Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "yeongdeungpo",
+      "model": "EKO Android TV"
     },
     {
       "manufacturer": "",
@@ -48,6 +54,18 @@
       "market_name": "EKO Star LTE G60",
       "codename": "EKO_Star_LTE_G60",
       "model": "EKO Star LTE G60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO android TV",
+      "codename": "hanyang",
+      "model": "Ayonz Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO android TV ISDB",
+      "codename": "hanyang",
+      "model": "EKO 4K Android TV"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L50",
+      "codename": "LOGIC_L50",
+      "model": "LOGIC L50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L55A",
       "codename": "L55A",
       "model": "L55A"
@@ -45,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIC L63",
+      "codename": "LOGIC_L63",
+      "model": "LOGIC L63"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIC_L4T_1",
       "codename": "LOGIC_L4T",
       "model": "LOGIC L4T"
@@ -66,6 +78,12 @@
       "market_name": "LOGIC_L60",
       "codename": "LOGIC_L60",
       "model": "LOGIC L60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_L65",
+      "codename": "LOGIC_L65",
+      "model": "LOGIC L65"
     },
     {
       "manufacturer": "",
@@ -101,6 +119,12 @@
       "manufacturer": "",
       "market_name": "T3G",
       "codename": "T3G",
+      "model": "T3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3GPlus",
+      "codename": "T3GPlus",
       "model": "T3G"
     },
     {

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ACT",
+    "market_name": "ACT4K2020",
+    "codename": "HP40A",
+    "model": "ACT4K2020"
+  },
+  {
     "manufacturer": "DIRECTV",
     "market_name": "OTT-01",
     "codename": "HP40A",
@@ -10,6 +16,12 @@
     "market_name": "JAWWY-TV-2.0",
     "codename": "HP40A",
     "model": "JAWWY-TV-2.0"
+  },
+  {
+    "manufacturer": "Skyworth",
+    "market_name": "NT-01",
+    "codename": "HP40A",
+    "model": "NT-01"
   },
   {
     "manufacturer": "Viettel",

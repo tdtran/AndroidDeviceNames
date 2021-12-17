@@ -1,0 +1,17 @@
+{
+  "manufacturer": "PIXPRO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PIXPRO L1 PRO",
+      "codename": "PIXPRO_L1_PRO",
+      "model": "PIXPRO L1 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PIXPRO T3",
+      "codename": "T3",
+      "model": "PIXPRO T3"
+    }
+  ]
+}

@@ -4,5 +4,11 @@
     "market_name": "HP8A6L",
     "codename": "HP8A6L",
     "model": "PMT4238_4G_EEA"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "PMT4238_4G_RU",
+    "codename": "HP8A6L",
+    "model": "PMT4238_4G_RU"
   }
 ]

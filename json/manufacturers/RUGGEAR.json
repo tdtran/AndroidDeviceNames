@@ -69,6 +69,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RG725_Q_EEA",
+      "codename": "RG725",
+      "model": "RG725"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG725_Q_ROW",
+      "codename": "RG725",
+      "model": "RG725"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG725_Q_US",
+      "codename": "RG725",
+      "model": "RG725"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RG730",
       "codename": "rg730",
       "model": "RugGear RG730"
@@ -96,6 +114,12 @@
       "market_name": "RG910",
       "codename": "RG910",
       "model": "RG910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG930i",
+      "codename": "RG930i",
+      "model": "RG930i"
     },
     {
       "manufacturer": "",

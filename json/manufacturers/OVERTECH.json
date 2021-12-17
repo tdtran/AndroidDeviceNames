@@ -6,6 +6,12 @@
       "market_name": "OX7A",
       "codename": "OX7A",
       "model": "OX7A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OX7S",
+      "codename": "OX7S",
+      "model": "OX7S"
     }
   ]
 }

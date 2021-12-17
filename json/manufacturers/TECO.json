@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TECO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K5T",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TL55U12TRE",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

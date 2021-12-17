@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M20 TERMINAL",
+      "codename": "Concord_M20",
+      "model": "Concord_M20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plus-7_C777",
       "codename": "Plus-7_C777",
       "model": "Plus-7_C777"

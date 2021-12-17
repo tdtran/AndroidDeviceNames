@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SANSUITV",
+      "codename": "shibuya",
+      "model": "SANSUITV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "USA",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"

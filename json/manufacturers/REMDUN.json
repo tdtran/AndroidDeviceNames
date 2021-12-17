@@ -9,9 +9,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RD11PT",
+      "codename": "RD11PT",
+      "model": "RD11PT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD11PTE",
+      "codename": "RD11PTE",
+      "model": "RD11PTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD15PQE",
+      "codename": "RD15PQE",
+      "model": "RD15PQE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD15QE",
       "codename": "RD15QE",
       "model": "RD15QE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD16Q",
+      "codename": "RD16Q",
+      "model": "RD16Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD16QE",
+      "codename": "RD16QE",
+      "model": "RD16QE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD195T",
+      "codename": "RD195T",
+      "model": "RD195T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD40T",
+      "codename": "RD40T",
+      "model": "RD40T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD40TE",
+      "codename": "RD40TE",
+      "model": "RD40TE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD50T",
+      "codename": "RD50T",
+      "model": "RD50T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD50TE",
+      "codename": "RD50TE",
+      "model": "RD50TE"
     },
     {
       "manufacturer": "",
@@ -27,9 +87,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RD60TE",
+      "codename": "RD60TE",
+      "model": "RD60TE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD62E",
       "codename": "RD62E",
       "model": "RD62E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD81PT",
+      "codename": "RD81PT",
+      "model": "RD81PT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD81PTE",
+      "codename": "RD81PTE",
+      "model": "RD81PTE"
     },
     {
       "manufacturer": "",

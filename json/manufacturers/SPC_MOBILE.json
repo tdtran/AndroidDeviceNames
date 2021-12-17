@@ -9,15 +9,45 @@
     },
     {
       "manufacturer": "",
-      "market_name": "GRAVITY_3G_2019_eea",
-      "codename": "GRAVITY_3G",
-      "model": "GRAVITY 3G_2019"
+      "market_name": "GRAVITY-2",
+      "codename": "GRAVITY-2",
+      "model": "GRAVITY 2"
     },
     {
       "manufacturer": "",
-      "market_name": "GRAVITY_OCTACORE",
-      "codename": "GRAVITY_OCTACORE",
-      "model": "GRAVITY_OCTACORE"
+      "market_name": "GRAVITY-2-MAX",
+      "codename": "GRAVITY-2-MAX",
+      "model": "GRAVITY-2-MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY-PRO-2",
+      "codename": "GRAVITY-PRO-2",
+      "model": "GRAVITY PRO 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY-SE",
+      "codename": "GRAVITY-SE",
+      "model": "GRAVITY SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY-ULTIMATE-2",
+      "codename": "GRAVITY-ULTIMATE-2",
+      "model": "GRAVITY ULTIMATE 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY2-4G",
+      "codename": "GRAVITY2-4G",
+      "model": "GRAVITY2-4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_3G_2019_eea",
+      "codename": "GRAVITY_3G",
+      "model": "GRAVITY 3G_2019"
     },
     {
       "manufacturer": "",
@@ -153,6 +183,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LIGHTYEAR-2",
+      "codename": "LIGHTYEAR-2",
+      "model": "LIGHTYEAR 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIGHTYEAR-PRO-2",
+      "codename": "LIGHTYEAR-PRO-2",
+      "model": "LIGHTYEAR PRO 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIGHTYEAR2-4G",
+      "codename": "LIGHTYEAR2-4G",
+      "model": "LIGHTYEAR2-4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lightyear",
       "codename": "Lightyear",
       "model": "Lightyear"
@@ -162,60 +210,6 @@
       "market_name": "S19",
       "codename": "S19",
       "model": "S19"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SMART  2",
-      "codename": "SMART_2",
-      "model": "SMART 2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC GEN",
-      "codename": "SPC_GEN",
-      "model": "SPC GEN"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC GEN LITE",
-      "codename": "SPC_GEN_LITE",
-      "model": "SPC GEN LITE"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC GEN MAX",
-      "codename": "SPC_GEN_MAX",
-      "model": "SPC GEN MAX"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC GEN PLUS",
-      "codename": "SPC_GEN_PLUS",
-      "model": "SPC GEN PLUS"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC SMART",
-      "codename": "SPC_SMART",
-      "model": "SPC SMART"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC SMART LITE",
-      "codename": "SPC_SMART_LITE",
-      "model": "SPC SMART LITE"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC SMART MAX",
-      "codename": "SPC_SMART_MAX",
-      "model": "SPC SMART MAX"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SPC SMART PLUS",
-      "codename": "SPC_SMART_PLUS",
-      "model": "SPC SMART PLUS"
     },
     {
       "manufacturer": "",

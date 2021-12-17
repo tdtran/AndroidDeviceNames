@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M790",
+      "codename": "M790",
+      "model": "M790"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V200_EEA",
+      "codename": "V200",
+      "model": "V200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V700",
       "codename": "V700",
       "model": "V700"

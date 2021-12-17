@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bangladesh and EU",
+      "codename": "tamachi",
+      "model": "WALTON Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bangladesh and EU",
+      "codename": "yeongdeungpo",
+      "model": "WALTON Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT750",
       "codename": "LT750",
       "model": "LT750"
@@ -21,15 +33,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PRIMO F10",
+      "codename": "PRIMO_F10",
+      "model": "PRIMO F10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMO GH10",
+      "codename": "Primo_GH10",
+      "model": "Primo GH10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRIMO NH4",
       "codename": "PRIMO_NH4",
       "model": "PRIMO NH4"
     },
     {
       "manufacturer": "",
+      "market_name": "PRIMO_RX8",
+      "codename": "PRIMO_RX8",
+      "model": "PRIMO RX8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMO_RX9",
+      "codename": "PRIMO_RX9",
+      "model": "PRIMO RX9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRIMO_S7",
       "codename": "Primo_S7",
       "model": "Primo S7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMO_S8",
+      "codename": "PRIMO_S8",
+      "model": "PRIMO S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMO_ZX4",
+      "codename": "PRIMO_ZX4",
+      "model": "PRIMO ZX4"
     },
     {
       "manufacturer": "",
@@ -54,6 +102,12 @@
       "market_name": "Primo E11",
       "codename": "Primo_E11",
       "model": "Primo E11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo E12",
+      "codename": "Primo_E12",
+      "model": "Primo E12"
     },
     {
       "manufacturer": "",
@@ -207,6 +261,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo GM4",
+      "codename": "Primo_GM4",
+      "model": "Primo GM4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo H6+",
       "codename": "Primo_H6_Plus",
       "model": "Primo H6 Plus"
@@ -273,6 +333,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo HM6 Lite",
+      "codename": "Primo_HM6_Lite",
+      "model": "Primo HM6 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo N3",
       "codename": "Primo_N3",
       "model": "Primo N3"
@@ -282,6 +348,12 @@
       "market_name": "Primo N4",
       "codename": "PRIMO_N4",
       "model": "PRIMO N4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo N5",
+      "codename": "Primo_N5",
+      "model": "Primo N5"
     },
     {
       "manufacturer": "",
@@ -300,6 +372,12 @@
       "market_name": "Primo NF4",
       "codename": "Primo_NF4_2GB",
       "model": "Primo_NF4_2GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo NF5",
+      "codename": "Primo_NF5",
+      "model": "Primo NF5"
     },
     {
       "manufacturer": "",
@@ -324,6 +402,12 @@
       "market_name": "Primo NH5",
       "codename": "PRIMO_NH5",
       "model": "PRIMO NH5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo NH6",
+      "codename": "PRIMO_NH6",
+      "model": "PRIMO NH6"
     },
     {
       "manufacturer": "",
@@ -381,6 +465,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo R8",
+      "codename": "Primo_R8",
+      "model": "Primo R8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo RH3",
       "codename": "Primo_RH3",
       "model": "Primo RH3"
@@ -414,6 +504,12 @@
       "market_name": "Primo RX7",
       "codename": "Primo_RX7",
       "model": "Primo RX7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo RX8 Mini",
+      "codename": "Primo_RX8_Mini",
+      "model": "Primo RX8 Mini"
     },
     {
       "manufacturer": "",
@@ -483,6 +579,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo_R7",
+      "codename": "Primo_R7",
+      "model": "Primo_R7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo_RM3",
       "codename": "Primo_RM3",
       "model": "Primo RM3"
@@ -498,6 +600,18 @@
       "market_name": "RX7 Mini",
       "codename": "RX7_Mini",
       "model": "RX7 Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALPAD 10P",
+      "codename": "10P",
+      "model": "WALPAD 10P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALPAD_8G",
+      "codename": "WALPAD_8G",
+      "model": "WALPAD_8G"
     },
     {
       "manufacturer": "",

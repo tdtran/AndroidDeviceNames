@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MC432",
+      "codename": "MC432A_GWL",
+      "model": "MC432A_GWL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC432A_W",
+      "codename": "MC432A_GWL",
+      "model": "MC432A_GWL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC601",
       "codename": "TC601_GWL",
       "model": "TC601_GWL"
@@ -18,6 +30,24 @@
       "market_name": "TC601A",
       "codename": "TC601A_GWL",
       "model": "TC601A_GWL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC601B",
+      "codename": "TC601B_GWL",
+      "model": "TC601B_GWL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC603B",
+      "codename": "TC603B_GWL",
+      "model": "TC603B_GWL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC603B_P",
+      "codename": "TC603B_GWL",
+      "model": "TC603B_GWL"
     }
   ]
 }

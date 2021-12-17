@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Neo_Pro",
+      "codename": "Neo_Pro",
+      "model": "Neo Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "neo",
       "codename": "neo",
       "model": "neo"

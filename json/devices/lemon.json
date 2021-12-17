@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9T",
+    "codename": "lemon",
+    "model": "M2010J19SY"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Jasper LTE",
     "codename": "lemon",

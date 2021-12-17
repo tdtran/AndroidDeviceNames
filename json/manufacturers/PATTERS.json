@@ -6,6 +6,12 @@
       "market_name": "P7",
       "codename": "P7",
       "model": "P7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P9",
+      "codename": "P9",
+      "model": "P9"
     }
   ]
 }

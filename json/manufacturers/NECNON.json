@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "3L-2",
+      "codename": "3L-2",
+      "model": "3L-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M002K-2",
       "codename": "M002K-2",
       "model": "M002K-2"
@@ -21,9 +27,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M002Q-2",
+      "codename": "M002Q-2",
+      "model": "M002Q-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M002U-2T",
+      "codename": "M002U-2T",
+      "model": "M002U-2T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M002U_2T",
       "codename": "M002U_2T",
       "model": "M002U-2T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M002W-2T",
+      "codename": "M002W-2T",
+      "model": "M002W-2T"
     },
     {
       "manufacturer": "",

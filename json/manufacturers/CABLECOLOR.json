@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CAB_TAB",
+      "codename": "CAB_TAB",
+      "model": "CAB_TAB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GIU3A00",
       "codename": "GIU3A00",
       "model": "GIU3A00"

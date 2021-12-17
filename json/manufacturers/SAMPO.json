@@ -1,0 +1,11 @@
+{
+  "manufacturer": "SAMPO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    }
+  ]
+}

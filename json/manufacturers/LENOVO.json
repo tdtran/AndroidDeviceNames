@@ -2067,6 +2067,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LAVIE T8 8HD1",
+      "codename": "LAVIET88HD1",
+      "model": "LAVIE T8 8HD1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAVIE Tab E",
       "codename": "X704F",
       "model": "PC-TE510HAW"
@@ -2184,6 +2190,30 @@
       "market_name": "Lenovo K12 Note",
       "codename": "guamp",
       "model": "Lenovo K12 Note"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K13 Note",
+      "codename": "capri",
+      "model": "Lenovo K12 Note"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K13 Note",
+      "codename": "capri",
+      "model": "Lenovo K13 Note"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K13 Pro",
+      "codename": "caprip",
+      "model": "Lenovo K12 Note"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K13 Pro",
+      "codename": "caprip",
+      "model": "Lenovo K13 Pro"
     },
     {
       "manufacturer": "",
@@ -2346,6 +2376,12 @@
       "market_name": "Lenovo Smart Tab M8",
       "codename": "8705F",
       "model": "Lenovo TB-8705F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Smart Tab M8 (3rd Gen)",
+      "codename": "TB-8506XS",
+      "model": "Lenovo TB-8506XS"
     },
     {
       "manufacturer": "",
@@ -2799,6 +2835,66 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab K10",
+      "codename": "X6C6F",
+      "model": "Lenovo TB-X6C6F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10",
+      "codename": "X6C6L",
+      "model": "Lenovo TB-X6C6L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10",
+      "codename": "X6C6NBF",
+      "model": "Lenovo TB-X6C6NBF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10",
+      "codename": "X6C6NBL",
+      "model": "Lenovo TB-X6C6NBL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10",
+      "codename": "X6C6NBX",
+      "model": "Lenovo TB-X6C6NBX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10",
+      "codename": "X6C6X",
+      "model": "Lenovo TB-X6C6X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10 PRC",
+      "codename": "TB-X6E6F",
+      "model": "Lenovo TB-X6E6F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10 PRC",
+      "codename": "X6C6F",
+      "model": "Lenovo TB-X6C6F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10 PRC",
+      "codename": "X6C6X",
+      "model": "Lenovo TB-X6C6X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10c",
+      "codename": "TB-X6E6N",
+      "model": "Lenovo TB-X6E6N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab K11",
       "codename": "J606F",
       "model": "Lenovo TB-J606F"
@@ -2808,6 +2904,12 @@
       "market_name": "Lenovo Tab K11",
       "codename": "J606N",
       "model": "Lenovo TB-J606N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K8",
+      "codename": "TB-8506F",
+      "model": "Lenovo TB-8506F"
     },
     {
       "manufacturer": "",
@@ -2850,6 +2952,12 @@
       "market_name": "Lenovo Tab M10 (HD)",
       "codename": "TB-X505X",
       "model": "Lenovo TB-X505X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 5G",
+      "codename": "TB-X607Z",
+      "model": "Lenovo TB-X607Z"
     },
     {
       "manufacturer": "",
@@ -2955,6 +3063,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M7 (3rd Gen)",
+      "codename": "7306F",
+      "model": "Lenovo TB-7306F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M7 (3rd Gen)",
+      "codename": "7306X",
+      "model": "Lenovo TB-7306X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M7 3rd Gen",
+      "codename": "LAVIET77SD1",
+      "model": "LAVIE T7 7SD1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab M7 HD",
       "codename": "7306V",
       "model": "Lenovo TB-7306V"
@@ -3009,6 +3135,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M8 (3rd Gen)",
+      "codename": "TB-8506F",
+      "model": "Lenovo TB-8506F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8 (3rd Gen)",
+      "codename": "TB-8506FS",
+      "model": "Lenovo TB-8506FS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8 (3rd Gen)",
+      "codename": "TB-8506X",
+      "model": "Lenovo TB-8506X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab P10",
       "codename": "X705F",
       "model": "Lenovo TB-X705F"
@@ -3039,6 +3183,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab P11 5G",
+      "codename": "J607Z",
+      "model": "Lenovo TB-J607Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P11 Plus",
+      "codename": "TB-J616F",
+      "model": "Lenovo TB-J616F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P11 Plus",
+      "codename": "TB-J616X",
+      "model": "Lenovo TB-J616X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab P11 Pro",
       "codename": "J706F",
       "model": "Lenovo TB-J706F"
@@ -3048,6 +3210,42 @@
       "market_name": "Lenovo Tab P11 Pro",
       "codename": "J706L",
       "model": "Lenovo TB-J706L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P12 Pro",
+      "codename": "Q706F",
+      "model": "Lenovo TB-Q706F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P12 Pro",
+      "codename": "Q706Z",
+      "model": "Lenovo TB-Q706Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab QT K11",
+      "codename": "TB-J6C6F",
+      "model": "Lenovo TB-J6C6F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab QT K11",
+      "codename": "TB-J6C6N",
+      "model": "Lenovo TB-J6C6N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab QT K11 Pro 5G",
+      "codename": "J607Z",
+      "model": "Lenovo TB-J607Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab QT K11 Pro WIFI",
+      "codename": "J607F",
+      "model": "Lenovo TB-J607F"
     },
     {
       "manufacturer": "",
@@ -3075,6 +3273,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab6",
+      "codename": "A101LV",
+      "model": "A101LV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo X2-CU/VIBE X2",
       "codename": "X2-CU",
       "model": "Lenovo X2-CU"
@@ -3096,6 +3300,18 @@
       "market_name": "Lenovo YOGA Tab 3 Plus",
       "codename": "YT-X703X",
       "model": "Lenovo YT-X703X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Yoga Tab 11",
+      "codename": "YT-J706F",
+      "model": "Lenovo YT-J706F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Yoga Tab 11",
+      "codename": "YT-J706X",
+      "model": "Lenovo YT-J706X"
     },
     {
       "manufacturer": "",
@@ -3982,8 +4198,26 @@
     {
       "manufacturer": "",
       "market_name": "XiaoXin Pad",
+      "codename": "J606F",
+      "model": "Lenovo TB-J606N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XiaoXin Pad",
       "codename": "J606N",
       "model": "Lenovo TB-J606N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XiaoXin Pad Plus",
+      "codename": "J607F",
+      "model": "Lenovo TB-J607F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XiaoXin Pad Plus",
+      "codename": "J607Z",
+      "model": "Lenovo TB-J607Z"
     },
     {
       "manufacturer": "",
@@ -4032,6 +4266,12 @@
       "market_name": "YOGA Laptop with Android",
       "codename": "YOGABOOK12",
       "model": "Lenovo YB-Q501L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YOGA Pad Pro",
+      "codename": "K606F",
+      "model": "Lenovo YT-K606F"
     },
     {
       "manufacturer": "",
@@ -4161,6 +4401,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Yoga Tab 13(ROW)",
+      "codename": "K606F",
+      "model": "Lenovo YT-K606F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YogaTablet2 -1050F",
       "codename": "YT2",
       "model": "YOGA Tablet 2-1050F"
@@ -4215,13 +4461,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Z6",
+      "market_name": "Z6 Pro",
       "codename": "zippo",
       "model": "Lenovo L78051"
     },
     {
       "manufacturer": "",
-      "market_name": "Z6 Pro",
+      "market_name": "Z6Pro",
       "codename": "zippo",
       "model": "Lenovo L78051"
     },
@@ -4269,6 +4515,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto tab g20",
+      "codename": "mototabg20",
+      "model": "moto tab g20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "小新 Pad GT",
+      "codename": "TB-J616F",
+      "model": "Lenovo TB-J616F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "小新 Pad GT",
+      "codename": "TB-J616N",
+      "model": "Lenovo TB-J616N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "小新Pad Pro 12.6",
+      "codename": "Q706F",
+      "model": "Lenovo TB-Q706F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "小新Pad Pro 2021",
+      "codename": "J716F",
+      "model": "Lenovo TB-J716F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "小新平板",
       "codename": "TB-8804F",
       "model": "Lenovo TB-8804F"
@@ -4284,6 +4560,42 @@
       "market_name": "拯救者电竞手机",
       "codename": "moba",
       "model": "Lenovo L79031"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "拯救者电竞手机2 Pro",
+      "codename": "doom",
+      "model": "Lenovo L70081"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "拯救者电竞手机2Pro",
+      "codename": "doom",
+      "model": "Lenovo L70081"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "拯救者电竞手机二代",
+      "codename": "doom",
+      "model": "Lenovo L70081"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑 启天K10",
+      "codename": "X6C6NBF",
+      "model": "Lenovo TB-X6C6NBF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑 启天K10",
+      "codename": "X6C6NBX",
+      "model": "Lenovo TB-X6C6NBX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑K10 5G",
+      "codename": "TB-X607Z",
+      "model": "Lenovo TB-X607Z"
     }
   ]
 }

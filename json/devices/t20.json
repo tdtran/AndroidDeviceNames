@@ -24,7 +24,19 @@
     "model": "T20"
   },
   {
+    "manufacturer": "WONGKUO",
+    "market_name": "T20",
+    "codename": "T20",
+    "model": "T20"
+  },
+  {
     "manufacturer": "Xstar",
+    "market_name": "T20",
+    "codename": "T20",
+    "model": "T20"
+  },
+  {
+    "manufacturer": "bontel",
     "market_name": "T20",
     "codename": "T20",
     "model": "T20"

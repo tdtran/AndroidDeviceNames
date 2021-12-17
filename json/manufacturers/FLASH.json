@@ -12,6 +12,12 @@
       "market_name": "Live",
       "codename": "Live",
       "model": "Live"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIME_1",
+      "codename": "PRIME_1",
+      "model": "PRIME 1"
     }
   ]
 }

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "9_Pro",
+      "codename": "9_Pro",
+      "model": "9 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1",
       "codename": "A1",
       "model": "A1"
@@ -30,6 +36,12 @@
       "market_name": "A9",
       "codename": "A9",
       "model": "A9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D26",
+      "codename": "D26",
+      "model": "D26"
     },
     {
       "manufacturer": "",
@@ -126,6 +138,30 @@
       "market_name": "W55Y",
       "codename": "W55Y",
       "model": "W55Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "X7",
+      "model": "X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7g",
+      "codename": "X7g",
+      "model": "X7g"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7s",
+      "codename": "X7s",
+      "model": "X7s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8",
+      "codename": "X8",
+      "model": "X8"
     },
     {
       "manufacturer": "",

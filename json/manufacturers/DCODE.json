@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Dcode",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Cypher",
+      "codename": "Dcode_Cypher",
+      "model": "DS-CR1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS-X1",
+      "codename": "DS-X1",
+      "model": "DS-X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS_BD1",
+      "codename": "DS_BD1",
+      "model": "DS-BD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS_CL1",
+      "codename": "DS_CL1",
+      "model": "DS-CL1"
+    }
+  ]
+}

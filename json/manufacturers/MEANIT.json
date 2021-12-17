@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MeanIt_X30",
+      "codename": "MeanIt_X30_EEA",
+      "model": "MeanIt_X30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X3",
+      "codename": "X3",
+      "model": "X3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "meanIT C80C81",
       "codename": "meanIT_C80C81",
       "model": "meanIT_C80C81"
@@ -42,6 +54,12 @@
       "market_name": "meanIT_X1",
       "codename": "meanIT_X1",
       "model": "meanIT_X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meanIT_X20",
+      "codename": "meanIT_X20",
+      "model": "meanIT_X20"
     },
     {
       "manufacturer": "",

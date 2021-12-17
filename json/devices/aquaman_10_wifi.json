@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Kurio",
+    "market_name": "Kurio Smart 2 in 1 PRO",
+    "codename": "Aquaman_10_WIFI",
+    "model": "8391X"
+  },
+  {
+    "manufacturer": "Kurio",
+    "market_name": "Kurio Smart 2 in 1 PRO",
+    "codename": "Aquaman_10_WIFI",
+    "model": "8391X_EEA"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "1T10  WIFI",
     "codename": "Aquaman_10_WIFI",
@@ -22,5 +34,11 @@
     "market_name": "1T10 WIFI",
     "codename": "Aquaman_10_WIFI",
     "model": "8091_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "1T10 WIFI",
+    "codename": "Aquaman_10_WIFI",
+    "model": "8391"
   }
 ]

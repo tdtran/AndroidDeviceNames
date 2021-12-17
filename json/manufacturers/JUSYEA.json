@@ -6,6 +6,18 @@
       "market_name": "J3",
       "codename": "JUSYEA_J3",
       "model": "J3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J3_EEA",
+      "codename": "J3_EEA",
+      "model": "J3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J5-EEA",
+      "codename": "J5-EEA",
+      "model": "J5-EEA"
     }
   ]
 }

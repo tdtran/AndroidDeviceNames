@@ -6,6 +6,12 @@
       "market_name": "K1100UA",
       "codename": "K1100UA",
       "model": "K1100UA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1100UA",
+      "codename": "uce4027cjh",
+      "model": "T1100UA"
     }
   ]
 }

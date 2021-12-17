@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A126",
+      "codename": "A126",
+      "model": "A126"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A160",
+      "codename": "A160",
+      "model": "A160"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI 1 Lite",
       "codename": "INOI_1_Lite",
       "model": "INOI_1_Lite"
@@ -201,9 +213,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "inoiPad",
+      "codename": "inoiPad",
+      "model": "inoiPad 2+32 Wi-Fi+3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "inoiPad_mini_3G",
       "codename": "inoiPad_mini_3G",
       "model": "inoiPad mini 2+32 Wi-Fi+3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "inoiPad_mini_WiFi",
+      "codename": "inoiPad_mini_Wi-Fi",
+      "model": "inoiPad mini 1+16 Wi-Fi"
     }
   ]
 }

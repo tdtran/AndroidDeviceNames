@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nola fun",
+      "codename": "Nola_fun",
+      "model": "Orange Nola fun"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nura",
       "codename": "M812",
       "model": "Orange Nura"
@@ -114,6 +120,12 @@
       "market_name": "Orange",
       "codename": "Rise_55",
       "model": "Orange Rise 55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orange Neva leaf",
+      "codename": "Neva_leaf",
+      "model": "Orange Neva leaf"
     },
     {
       "manufacturer": "",
@@ -258,6 +270,12 @@
       "market_name": "Sego",
       "codename": "Orange_Sego",
       "model": "Orange Sego"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV Box",
+      "codename": "zi4450v_ors",
+      "model": "Orange TV Box"
     },
     {
       "manufacturer": "",

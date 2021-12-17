@@ -1,0 +1,17 @@
+{
+  "manufacturer": "BALMUDA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BALMUDA Phone",
+      "codename": "A101BM",
+      "model": "A101BM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BALMUDA Phone",
+      "codename": "X01A",
+      "model": "X01A"
+    }
+  ]
+}

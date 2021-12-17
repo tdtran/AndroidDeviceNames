@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ZONMAI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MX2",
+      "codename": "MX2",
+      "model": "MX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MX2_EEA",
+      "codename": "MX2_EEA",
+      "model": "MX2_EEA"
+    }
+  ]
+}

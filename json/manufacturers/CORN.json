@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C60",
+      "codename": "C60",
+      "model": "C60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C60 Ultra",
+      "codename": "C60_Ultra",
+      "model": "C60 Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CORN C10",
       "codename": "CORN_C10",
       "model": "C10"
@@ -30,6 +42,30 @@
       "market_name": "CORN_R10",
       "codename": "CORN_R10",
       "model": "CORN R10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CORN_X5",
+      "codename": "CORN_X5",
+      "model": "CORN X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CORN_X55",
+      "codename": "CORN_X55",
+      "model": "CORN X55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R10",
+      "codename": "R10S",
+      "model": "R10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R10E",
+      "codename": "R10E",
+      "model": "R10"
     },
     {
       "manufacturer": "",
@@ -66,6 +102,24 @@
       "market_name": "Star8_3G",
       "codename": "Star8_3G",
       "model": "Star8_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5S",
+      "model": "X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X60",
+      "codename": "X60",
+      "model": "X60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "Y60",
+      "model": "Y60"
     }
   ]
 }

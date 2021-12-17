@@ -1,0 +1,89 @@
+{
+  "manufacturer": "TJD(SZ)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MT 750QU",
+      "codename": "MT-750QU",
+      "model": "MT-750QU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-1010OF",
+      "codename": "MT-1010OF",
+      "model": "MT-1010OF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-1011OF",
+      "codename": "MT-1011OF",
+      "model": "MT-1011OF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-701QU",
+      "codename": "MT-701QU",
+      "model": "MT-701QU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-702QU",
+      "codename": "MT-702QU",
+      "model": "MT-702QU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-707OF",
+      "codename": "MT-707OF",
+      "model": "MT-707OF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-710QU",
+      "codename": "MT-710QU",
+      "model": "TJD MT-710QU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-715QR",
+      "codename": "MT-715QR",
+      "model": "MT-715QR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-717QW",
+      "codename": "MT-717QW",
+      "model": "MT-717QW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-750QU_Pro",
+      "codename": "MT-750QU_Pro",
+      "model": "MT-750QU_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-761QU",
+      "codename": "MT-761QU",
+      "model": "MT-761QU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-761QU_Pro",
+      "codename": "MT-761QU_Pro",
+      "model": "MT-761QU_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-762QR",
+      "codename": "MT-762QR",
+      "model": "MT-762QR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-792OF_EEA",
+      "codename": "MT-792OF_EEA",
+      "model": "MT-792OF"
+    }
+  ]
+}

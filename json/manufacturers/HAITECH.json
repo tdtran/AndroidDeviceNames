@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Haitech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HPAD_IA65",
+      "codename": "HPAD_IA65",
+      "model": "HPAD_IA65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HPAD_IA65",
+      "codename": "Tablet",
+      "model": "KITYPRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HPAD_IP8045",
+      "codename": "HPAD_IP8045",
+      "model": "HPAD_IP8045"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HPAD_IP8045_1",
+      "codename": "HPAD_IP8045_1",
+      "model": "HPAD_IP8045_1"
+    }
+  ]
+}

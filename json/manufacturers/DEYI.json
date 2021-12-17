@@ -6,6 +6,12 @@
       "market_name": "DEYI-10M18",
       "codename": "DEYI-10M18",
       "model": "DEYI-10M18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEYI10M18",
+      "codename": "DEYI10M18A53",
+      "model": "DEYI10M18A53"
     }
   ]
 }

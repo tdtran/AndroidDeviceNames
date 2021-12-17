@@ -12,6 +12,12 @@
     "model": "E10"
   },
   {
+    "manufacturer": "VIVIMAGE",
+    "market_name": "VIVIMAGE_E10_EEA",
+    "codename": "E10",
+    "model": "E10_EEA"
+  },
+  {
     "manufacturer": "VUCATIMES",
     "market_name": "HAOQIN",
     "codename": "E10",

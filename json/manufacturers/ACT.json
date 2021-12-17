@@ -6,6 +6,12 @@
       "market_name": "ACT4K1007",
       "codename": "IPBox",
       "model": "ACT4K1007"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACT4K2020",
+      "codename": "HP40A",
+      "model": "ACT4K2020"
     }
   ]
 }

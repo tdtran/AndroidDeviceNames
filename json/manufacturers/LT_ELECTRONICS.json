@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT_M7",
+      "codename": "LT_M7",
+      "model": "LT M7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT_S10_Lite",
       "codename": "LT_S10_Lite",
       "model": "LT_S10_Lite"

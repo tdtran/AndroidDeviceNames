@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IKALL",
+      "codename": "IKALL",
+      "model": "IKALL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N4",
       "codename": "N4",
       "model": "N4"

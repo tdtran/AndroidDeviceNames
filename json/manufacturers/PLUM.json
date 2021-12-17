@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z555",
+      "codename": "Z555",
+      "model": "Z555"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z570",
+      "codename": "Z570",
+      "model": "Z570"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z621",
       "codename": "Z621",
       "model": "Z621"

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Pritom",
+    "market_name": "M10_Lite",
+    "codename": "M10_Lite",
+    "model": "M10_Lite"
+  },
+  {
     "manufacturer": "Wiko",
     "market_name": "M10 Lite",
     "codename": "M10_Lite",

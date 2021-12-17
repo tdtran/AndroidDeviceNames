@@ -81,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XP10_4G",
+      "codename": "XP10_4G",
+      "model": "XP10_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XP10_Wifi",
+      "codename": "XP10_Wifi",
+      "model": "XP10_Wifi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XTOUCH X",
       "codename": "XTouch_X",
       "model": "XTouch X"

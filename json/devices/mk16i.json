@@ -1,11 +1,5 @@
 [
   {
-    "manufacturer": "Sony",
-    "market_name": "Xperia pro",
-    "codename": "MK16i",
-    "model": "MK16i"
-  },
-  {
     "manufacturer": "Sony Ericsson",
     "market_name": "",
     "codename": "MK16i",
@@ -13,7 +7,7 @@
   },
   {
     "manufacturer": "Sony Ericsson",
-    "market_name": "Xperia pro",
+    "market_name": "Xperia_pro",
     "codename": "MK16i",
     "model": "MK16i"
   }

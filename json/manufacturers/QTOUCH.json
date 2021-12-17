@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CMC_AL10",
+      "codename": "CMC_AL10",
+      "model": "CMC_AL10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q01A",
       "codename": "Q01A",
       "model": "Q01A"
@@ -18,6 +24,12 @@
       "market_name": "QS31",
       "codename": "QS31",
       "model": "QS31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QS355",
+      "codename": "QS355",
+      "model": "QS355"
     },
     {
       "manufacturer": "",

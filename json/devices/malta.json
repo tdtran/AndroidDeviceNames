@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Motorola",
+    "market_name": "Lenovo K12",
+    "codename": "malta",
+    "model": "Lenovo K11"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Lenovo K12",
+    "codename": "malta",
+    "model": "Lenovo K12"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "moto e(7)",
     "codename": "malta",
     "model": "malta"
@@ -10,5 +22,17 @@
     "market_name": "moto e(7)",
     "codename": "malta",
     "model": "moto e(7)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto e(7) power",
+    "codename": "malta",
+    "model": "malta"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto e(7) power",
+    "codename": "malta",
+    "model": "moto e(7) power"
   }
 ]

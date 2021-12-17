@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HCH03",
+      "codename": "TrueHCH03",
+      "model": "HCH03"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N9106H-B",
       "codename": "HB_N9106H_B_truevisions",
       "model": "N9106H-B"
@@ -12,6 +18,12 @@
       "market_name": "N9106H-C",
       "codename": "HB_N9106H_C_truevisions",
       "model": "N9106H-C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKWAMX3",
+      "codename": "HP42F",
+      "model": "SKWAMX3"
     },
     {
       "manufacturer": "",

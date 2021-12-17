@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F104Bv2",
+      "codename": "F104Bv2",
+      "model": "F104Bv2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F104Bv2_EEA",
       "codename": "F104Bv2_EEA",
       "model": "F104Bv2_EEA"
@@ -18,6 +24,30 @@
       "market_name": "F104BvII_PRO",
       "codename": "F104BvII_PRO",
       "model": "F104BvII_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F104Ev2",
+      "codename": "F104Ev2",
+      "model": "F104Ev2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F104Ev2_EEA",
+      "codename": "F104Ev2_EEA",
+      "model": "F104Ev2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F104Ev2_PRO",
+      "codename": "F104Ev2_PRO",
+      "model": "F104Ev2_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F104Ev2_PRO_EEA",
+      "codename": "F104Ev2_PRO_EEA",
+      "model": "F104Ev2_PRO_EEA"
     },
     {
       "manufacturer": "",
@@ -42,6 +72,18 @@
       "market_name": "F104EvII_PRO_EEA",
       "codename": "F104EvII_PRO_EEA",
       "model": "F104EvII_PRO_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F105D_128",
+      "codename": "F105D_128",
+      "model": "F105D_128"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F105D_128GB",
+      "codename": "F105D_128GB",
+      "model": "F105D_128GB"
     },
     {
       "manufacturer": "",

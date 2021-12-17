@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PCSGOB10LTE-V2",
+      "codename": "PCSGOB10LTE-V2",
+      "model": "PCSGOB10LTE-V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PCSGOB10MVA-A",
       "codename": "PCSGOB10MVA-A",
       "model": "PCSGOB10MVA-A"

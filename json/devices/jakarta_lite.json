@@ -31,8 +31,14 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
-    "market_name": "Alcatel 1SE elite edition",
+    "market_name": "Alcatel 1SE light",
     "codename": "Jakarta_Lite",
     "model": "4087U_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1SE lite edition",
+    "codename": "Jakarta_Lite",
+    "model": "4087U_EEA"
   }
 ]

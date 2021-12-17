@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Tibuta",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Tibuta_MasterPad-E100",
+      "codename": "Tibuta_MasterPad-E100",
+      "model": "Tibuta_MasterPad-E100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tibuta_MasterPad-T100",
+      "codename": "Tibuta_MasterPad-T100",
+      "model": "Tibuta_MasterPad-T100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tibuta_MasterPad_K100",
+      "codename": "Tibuta_MasterPad_K100",
+      "model": "Tibuta_MasterPad_K100"
+    }
+  ]
+}

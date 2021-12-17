@@ -357,6 +357,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT1107_4G_D_RU",
+      "codename": "HP70A6L",
+      "model": "PMT1107_4G_D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT1157_4G_C_RU",
+      "codename": "HP70A13L",
+      "model": "PMT1157_4G_C_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT1157_4G_RU",
       "codename": "HP70A6L",
       "model": "PMT1157_4G_RU"
@@ -459,6 +471,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3104_Wi_D",
+      "codename": "HP10A11W",
+      "model": "PMT3104_Wi_D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3104_Wi_D_EEA",
       "codename": "HP10A11W",
       "model": "PMT3104_Wi_D_EEA"
@@ -519,6 +537,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3197_W_D",
+      "codename": "HP70A14W",
+      "model": "PMT3197_W_D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3197_W_D_EU",
+      "codename": "HP70A14W",
+      "model": "PMT3197_W_D_EU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3197_W_EU",
       "codename": "HP70A1W",
       "model": "PMT3197_W_EU"
@@ -534,6 +564,12 @@
       "market_name": "PMT3208_3G",
       "codename": "PN80A03G",
       "model": "PMT3208_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3231_4G_D",
+      "codename": "HP10A12L",
+      "model": "PMT3231_4G_D"
     },
     {
       "manufacturer": "",
@@ -711,9 +747,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3997_W_D_RU",
+      "codename": "HP70A14W",
+      "model": "PMT3997_W_D_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT4111_3G",
       "codename": "CD10A7G",
       "model": "PMT4111_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4111_3G_D_EEA",
+      "codename": "CD10A10G",
+      "model": "PMT4111_3G_D_EEA"
     },
     {
       "manufacturer": "",
@@ -753,6 +801,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT4208_3G_EEA",
+      "codename": "TL80A15G",
+      "model": "PMT4208_3G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4208_3G_E_RU",
+      "codename": "TL80A15G",
+      "model": "PMT4208_3G_E_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT4227_3G_RU",
       "codename": "HP70A2G",
       "model": "PMT4227_3G_RU"
@@ -771,9 +831,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT4238_4G_RU",
+      "codename": "HP8A6L",
+      "model": "PMT4238_4G_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT4317_3G_RU",
       "codename": "HP70A2G",
       "model": "PMT4317_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4337_3G",
+      "codename": "HP70A15G",
+      "model": "PMT4337_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4337_3G_EEA",
+      "codename": "HP70A15G",
+      "model": "PMT4337_3G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4337_3G_RU",
+      "codename": "HP70A15G",
+      "model": "PMT4337_3G_RU"
     },
     {
       "manufacturer": "",
@@ -1410,6 +1494,24 @@
       "market_name": "Prestigio X pro",
       "codename": "KN54B1L",
       "model": "PSP7546DUO_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Russia",
+      "codename": "yeongdeungpo",
+      "model": "Prestigio UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC10A3L",
+      "codename": "TC10A3L",
+      "model": "PMT4771_4G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC10A3L",
+      "codename": "TC10A3L",
+      "model": "PMT4771_4G_RU"
     },
     {
       "manufacturer": "",

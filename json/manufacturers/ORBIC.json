@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Magic",
+      "codename": "R678EL",
+      "model": "R678EL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R370H",
       "codename": "R370H",
       "model": "R370L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R678L5",
+      "codename": "R678L5",
+      "model": "R678L5"
     },
     {
       "manufacturer": "",

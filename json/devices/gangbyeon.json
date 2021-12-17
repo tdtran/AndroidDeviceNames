@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Bauhn",
+    "market_name": "BAUHN",
+    "codename": "gangbyeon",
+    "model": "4K AI Smart TV"
+  },
+  {
     "manufacturer": "Challenger",
     "market_name": "Challenger",
     "codename": "gangbyeon",
@@ -36,6 +42,12 @@
     "model": "4K Smart TV"
   },
   {
+    "manufacturer": "Nano",
+    "market_name": "nano",
+    "codename": "gangbyeon",
+    "model": "nano 4K AI Smart TV"
+  },
+  {
     "manufacturer": "RCA",
     "market_name": "HKC",
     "codename": "gangbyeon",
@@ -46,6 +58,12 @@
     "market_name": "RCA",
     "codename": "gangbyeon",
     "model": "4K AI Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "Tree",
+    "codename": "gangbyeon",
+    "model": "Treeview 4K AI Smart TV"
   },
   {
     "manufacturer": "RCA",
@@ -67,8 +85,26 @@
   },
   {
     "manufacturer": "Sceptre",
+    "market_name": "Sceptre",
+    "codename": "gangbyeon",
+    "model": "4K Smart TV"
+  },
+  {
+    "manufacturer": "Sceptre",
     "market_name": "TATUNG",
     "codename": "gangbyeon",
     "model": "TATUNG 4K AI Smart TV"
+  },
+  {
+    "manufacturer": "Sceptre",
+    "market_name": "imiia",
+    "codename": "gangbyeon",
+    "model": "imiia 4K AI Smart TV"
+  },
+  {
+    "manufacturer": "UNITED TV",
+    "market_name": "UNITED",
+    "codename": "gangbyeon",
+    "model": "4K AI Smart TV"
   }
 ]

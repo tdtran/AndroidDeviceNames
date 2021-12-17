@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T5-plus",
+      "codename": "T5-plus",
+      "model": "T5-plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5_0",
+      "codename": "T5_0",
+      "model": "T5_0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T5_EEA",
       "codename": "T5-plus-EEA",
       "model": "T5-plus-EEA"
@@ -24,6 +36,18 @@
       "market_name": "T5_EEA",
       "codename": "T5_EEA",
       "model": "T5_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5_EEA_0",
+      "codename": "T5_EEA_0",
+      "model": "T5_EEA_0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2_EEA",
+      "codename": "X2_EEA",
+      "model": "X2_EEA"
     },
     {
       "manufacturer": "",

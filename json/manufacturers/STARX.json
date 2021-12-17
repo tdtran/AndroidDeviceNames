@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Star-X",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Middle East",
+      "codename": "tamachi",
+      "model": "STAR-X FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Middle East",
+      "codename": "yeongdeungpo",
+      "model": "STAR-X UHD Android TV"
+    }
+  ]
+}

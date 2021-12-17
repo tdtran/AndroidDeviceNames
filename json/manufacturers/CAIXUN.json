@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "tamachi",
+      "model": "AiPlus2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Australian/EU",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
@@ -18,6 +24,18 @@
       "market_name": "Malaysia",
       "codename": "yeongdeungpo",
       "model": "AiPlus4KMY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mexico",
+      "codename": "yeongdeungpo",
+      "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South of America",
+      "codename": "martin",
+      "model": "AiPlus2K"
     },
     {
       "manufacturer": "",

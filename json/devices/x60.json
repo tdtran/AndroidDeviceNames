@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CORN",
+    "market_name": "X60",
+    "codename": "X60",
+    "model": "X60"
+  },
+  {
     "manufacturer": "Doogee",
     "market_name": "X60",
     "codename": "X60",

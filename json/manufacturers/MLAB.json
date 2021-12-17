@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "8990",
+      "codename": "8990",
+      "model": "8990"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "9095",
+      "codename": "9095",
+      "model": "9095"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "9096",
+      "codename": "9096",
+      "model": "9096"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "9098",
+      "codename": "9098",
+      "model": "9098"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MB4",
       "codename": "MB4",
       "model": "MB4"
@@ -48,6 +72,12 @@
       "market_name": "MB8866",
       "codename": "MB8866",
       "model": "MB8866"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MB8992",
+      "codename": "MB8992",
+      "model": "MB8992"
     },
     {
       "manufacturer": "",

@@ -6,10 +6,28 @@
     "model": "AkinoTV"
   },
   {
+    "manufacturer": "Asanzo",
+    "market_name": "ASANZO 2K TV",
+    "codename": "shibuya",
+    "model": "ASANZO 2K TV"
+  },
+  {
     "manufacturer": "EcoStar",
     "market_name": "EcostarTV",
     "codename": "shibuya",
     "model": "EcostarTV"
+  },
+  {
+    "manufacturer": "G-Guard",
+    "market_name": "G GuardTV",
+    "codename": "shibuya",
+    "model": "G GuardTV"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "itel TV",
+    "codename": "shibuya",
+    "model": "itel TV"
   },
   {
     "manufacturer": "Kodak",
@@ -22,6 +40,12 @@
     "market_name": "Australia",
     "codename": "shibuya",
     "model": "KoganTVAP"
+  },
+  {
+    "manufacturer": "Kooda",
+    "market_name": "KOODA 2K TV",
+    "codename": "shibuya",
+    "model": "KOODA 2K TV"
   },
   {
     "manufacturer": "Motorola",
@@ -42,10 +66,22 @@
     "model": "OrientTV"
   },
   {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "Prismplus TV",
+    "codename": "shibuya",
+    "model": "Prismplus TV"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "GS655",
     "codename": "shibuya",
     "model": "GS655"
+  },
+  {
+    "manufacturer": "Sansui TV",
+    "market_name": "SANSUITV",
+    "codename": "shibuya",
+    "model": "SANSUITV"
   },
   {
     "manufacturer": "Sanyo",
@@ -66,6 +102,12 @@
     "model": "SWTV"
   },
   {
+    "manufacturer": "TIT(SA)",
+    "market_name": "TITTV",
+    "codename": "shibuya",
+    "model": "TITTV"
+  },
+  {
     "manufacturer": "Telefunken",
     "market_name": "TelefunkenTV",
     "codename": "shibuya",
@@ -76,5 +118,11 @@
     "market_name": "ThomsonTV",
     "codename": "shibuya",
     "model": "ThomsonTV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION",
+    "codename": "shibuya",
+    "model": "VISION"
   }
 ]

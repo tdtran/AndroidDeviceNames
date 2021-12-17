@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Brazil",
+      "codename": "nippori",
+      "model": "Cobia 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cobia",
       "codename": "seocho",
       "model": "Cobia 4K Android TV"

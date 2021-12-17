@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ATV495MAX",
+      "codename": "enjoytv",
+      "model": "ATV495MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Enjoy TV Quad-Core Box",
       "codename": "ATV581",
       "model": "Enjoy TV Quad-Core Box"

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SE",
+      "codename": "SE",
+      "model": "SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB1",
+      "codename": "TAB1",
+      "model": "TAB1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "emporiaSMART.4",
       "codename": "S4",
       "model": "S4"

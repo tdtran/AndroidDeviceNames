@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Zebra",
+    "market_name": "EC55",
+    "codename": "EC55",
+    "model": "EC55"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "EC55SA AOSP",
+    "codename": "EC55",
+    "model": "EC55"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "EC55SANF AOSP",
+    "codename": "EC55",
+    "model": "EC55"
+  }
+]

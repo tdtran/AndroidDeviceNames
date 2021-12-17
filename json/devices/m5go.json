@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Techpad",
+    "market_name": "M5GO",
+    "codename": "M5GO",
+    "model": "M5GO"
+  },
+  {
+    "manufacturer": "Techpad",
     "market_name": "M5Go",
     "codename": "M5Go",
     "model": "M5Go"

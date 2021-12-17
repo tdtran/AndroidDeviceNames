@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Togocel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "\tTogocel EGO plus",
+      "codename": "Togocel_EGO_plus",
+      "model": "Togocel EGO plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Togocel_F1_Max_4G",
+      "codename": "Togocel_F1_Max_4G",
+      "model": "Togocel_F1_Max_4G"
+    }
+  ]
+}

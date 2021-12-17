@@ -609,12 +609,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Xperia pro",
-      "codename": "MK16i",
-      "model": "MK16i"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Xperia ray",
       "codename": "SO-03C",
       "model": "SO-03C"
@@ -648,6 +642,12 @@
       "market_name": "Xperia tipo dual",
       "codename": "ST21i2",
       "model": "ST21i2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia_pro",
+      "codename": "MK16i",
+      "model": "MK16i"
     }
   ]
 }

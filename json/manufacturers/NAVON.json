@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Navon_IQ8_2021",
+      "codename": "Navon_IQ8_2021",
+      "model": "IQ8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Navon_IQ8_2021",
+      "codename": "Navon_SPT1100",
+      "model": "Navon_SPT1100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Navon_Orpheus_3G",
       "codename": "Navon_Orpheus_3G",
       "model": "Navon Orpheus 3G"

@@ -21,9 +21,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TEL-1014GIQA",
+      "codename": "TEL-1014GIQA",
+      "model": "TEL-1014GIQA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEL-73GIQA",
       "codename": "TEL-73GIQA",
       "model": "TEL-73GIQA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEL-73GIQA11",
+      "codename": "TEL-73GIQA11",
+      "model": "TEL-73GIQA11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEL-74GIQA",
+      "codename": "TEL-74GIQA",
+      "model": "TEL-74GIQA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TELEFUNKEN SMART TV",
+      "codename": "SW4H",
+      "model": "TELEFUNKEN SMART TV"
     },
     {
       "manufacturer": "",

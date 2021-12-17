@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TicWatch E3",
+      "codename": "ricefish",
+      "model": "TicWatch E3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TicWatch Pro",
       "codename": "catfish",
       "model": "TicWatch Pro"
@@ -45,15 +51,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TicWatch Pro 3",
+      "codename": "rover",
+      "model": "TicWatch Pro 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TicWatch Pro 3",
+      "codename": "rover",
+      "model": "TicWatch Pro X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TicWatch Pro 3 Cellular/LTE",
       "codename": "rover",
       "model": "TicWatch Pro 3"
     },
     {
       "manufacturer": "",
+      "market_name": "TicWatch Pro 3 Cellular/LTE",
+      "codename": "rover",
+      "model": "TicWatch Pro 3 Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TicWatch Pro 3 GPS",
       "codename": "rubyfish",
       "model": "TicWatch Pro 3 GPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TicWatch Pro 3 GPS",
+      "codename": "rubyfish",
+      "model": "TicWatch Pro 3U"
     },
     {
       "manufacturer": "",

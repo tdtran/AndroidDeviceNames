@@ -24,6 +24,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "HIMADE",
+    "market_name": "Smart TV",
+    "codename": "sindorim",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Hyundai",
     "market_name": "HYLED5520A4KM",
     "codename": "sindorim",
@@ -50,6 +56,12 @@
   {
     "manufacturer": "Jooyon",
     "market_name": "UHD Android TV",
+    "codename": "sindorim",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "LUCOMS",
+    "market_name": "T05CUA",
     "codename": "sindorim",
     "model": "AI PONT"
   },

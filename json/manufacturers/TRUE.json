@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HCH03",
+      "codename": "TrueHCH03",
+      "model": "HCH03"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART 4G Adventure",
       "codename": "SMART_4G_ADVENTURE",
       "model": "SMART 4G Adventure"
@@ -96,6 +102,12 @@
       "market_name": "SMART_MAX_4.0_PLUS",
       "codename": "P909",
       "model": "SMART_MAX_4.0_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "True ID TV",
+      "codename": "TrueHPH07",
+      "model": "HPH07"
     },
     {
       "manufacturer": "",

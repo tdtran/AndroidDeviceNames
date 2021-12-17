@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Nebula",
+    "market_name": "D2130",
+    "codename": "D2140-Cosmos",
+    "model": "D2130"
+  },
+  {
+    "manufacturer": "Nebula",
     "market_name": "D2140",
     "codename": "D2140-Cosmos",
     "model": "D2140"
@@ -10,5 +16,11 @@
     "market_name": "D2150",
     "codename": "D2140-Cosmos",
     "model": "D2150"
+  },
+  {
+    "manufacturer": "Vega",
+    "market_name": "D2120",
+    "codename": "D2140-Cosmos",
+    "model": "D2120"
   }
 ]

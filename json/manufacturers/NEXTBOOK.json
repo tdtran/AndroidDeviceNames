@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BRT81",
+      "codename": "BRT81",
+      "model": "BRT81"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M-MP7NB3G",
       "codename": "7_Plus_HD3G",
       "model": "M-MP7NB3G"

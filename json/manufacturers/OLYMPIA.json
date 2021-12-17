@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NEO",
+      "codename": "NEO",
+      "model": "NEO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TREK",
       "codename": "TREK",
       "model": "TREK"

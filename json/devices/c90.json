@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CHAINWAY",
+    "market_name": "C90",
+    "codename": "C90",
+    "model": "C90"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "LG G4c",
     "codename": "c90",

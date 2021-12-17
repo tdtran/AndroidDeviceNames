@@ -60,6 +60,12 @@
       "market_name": "Y10G007S4M_EEA",
       "codename": "Y10G007S4M_EEA",
       "model": "Y10G007S4M_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10_Premium",
+      "codename": "Y10_Premium",
+      "model": "Y10 Premium"
     }
   ]
 }

@@ -108,6 +108,24 @@
       "market_name": "TIQ-104",
       "codename": "TIQ104",
       "model": "TIQ-104"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIQ-1044",
+      "codename": "TIQ-1044",
+      "model": "TIQ-1044"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIQ-1049",
+      "codename": "TIQ-1049",
+      "model": "TIQ-1049"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIQ-70",
+      "codename": "TIQ-70",
+      "model": "TIQ-70"
     }
   ]
 }

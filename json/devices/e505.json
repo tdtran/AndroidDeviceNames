@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hyundai",
+    "market_name": "K131",
+    "codename": "E505",
+    "model": "E505"
+  },
+  {
     "manufacturer": "NGM Italia SRL",
     "market_name": "NGM Youcolor E505",
     "codename": "E505",

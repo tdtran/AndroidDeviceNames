@@ -24,6 +24,12 @@
       "market_name": "ENIE_E2",
       "codename": "ENIE_E2",
       "model": "ENIE_E2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VT8216",
+      "codename": "VT8216",
+      "model": "VT8216"
     }
   ]
 }

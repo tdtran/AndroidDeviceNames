@@ -3,9 +3,117 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AWOW_CreaPad_1001",
+      "codename": "AWOW_CreaPad_1001",
+      "model": "AWOW_CreaPad_1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AWOW_CreaPad_1003",
+      "codename": "AWOW_CreaPad_1003_EEA",
+      "model": "AWOW_CreaPad_1003_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1002A",
+      "codename": "CreaPad_1002A",
+      "model": "CreaPad_1002A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1002A_EEA",
+      "codename": "CreaPad_1002A_EEA",
+      "model": "CreaPad_1002A_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1005",
+      "codename": "CreaPad_1005",
+      "model": "CreaPad_1005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1005_EEA",
+      "codename": "CreaPad_1005_EEA",
+      "model": "CreaPad_1005_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1009",
+      "codename": "CreaPad_1009",
+      "model": "CreaPad_1009"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1009A",
+      "codename": "CreaPad_1009A",
+      "model": "CreaPad_1009A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1009A_EEA",
+      "codename": "CreaPad_1009A_EEA",
+      "model": "CreaPad_1009A_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1009_EEA",
+      "codename": "CreaPad_1009_EEA",
+      "model": "CreaPad_1009_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Funtab_801_I",
+      "codename": "Funtab_801_I",
+      "model": "Funtab_801_I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Funtab_801_K",
+      "codename": "Funtab_801_K",
+      "model": "Funtab_801_K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Funtab_801_K",
+      "codename": "Funtab_801_K_EEA",
+      "model": "Funtab_801_K_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Futab_801_I",
+      "codename": "Funtab_801_I_EEA",
+      "model": "Funtab_801_I_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID-789A100-EEA",
+      "codename": "MID_789A100_EEA",
+      "model": "MID-789A100-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_1085_EEA",
+      "codename": "MID_1085_EEA",
+      "model": "MID_1085_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID_1089IPS_EEA",
       "codename": "MID_1089IPS_EEA",
       "model": "MID_1089IPS_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UTBook",
+      "codename": "UTBook",
+      "model": "UTBook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UTBook_EEA",
+      "codename": "UTBook_EEA",
+      "model": "UTBook_EEA"
     }
   ]
 }

@@ -48,6 +48,18 @@
       "market_name": "STREAM7",
       "codename": "STREAM7",
       "model": "STREAM7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STREAM7Plus",
+      "codename": "STREAM7Plus",
+      "model": "STREAM7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iSWAG ACTIV",
+      "codename": "iSWAG_ACTIV",
+      "model": "iSWAG ACTIV"
     }
   ]
 }

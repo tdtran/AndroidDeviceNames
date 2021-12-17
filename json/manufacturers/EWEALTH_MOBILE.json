@@ -1,0 +1,17 @@
+{
+  "manufacturer": "E-Wealth Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E508",
+      "codename": "E508",
+      "model": "E508"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E5701",
+      "codename": "E5701",
+      "model": "E5701"
+    }
+  ]
+}

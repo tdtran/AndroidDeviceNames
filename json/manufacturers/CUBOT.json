@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J10",
+      "codename": "J10",
+      "model": "J10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J5",
       "codename": "J5",
       "model": "J5"
@@ -126,6 +132,24 @@
       "market_name": "KING KONG CS",
       "codename": "KING_KONG_CS",
       "model": "KING KONG CS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG 5",
+      "codename": "KINGKONG_5",
+      "model": "KINGKONG 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG 5 Pro",
+      "codename": "KINGKONG_5_Pro",
+      "model": "KINGKONG 5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG 7",
+      "codename": "KINGKONG_7",
+      "model": "KINGKONG 7"
     },
     {
       "manufacturer": "",
@@ -165,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAX 3",
+      "codename": "MAX_3",
+      "model": "MAX 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE 20",
       "codename": "NOTE_20",
       "model": "NOTE 20"
@@ -183,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOTE 9",
+      "codename": "NOTE_9",
+      "model": "NOTE 9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE S",
       "codename": "CUBOT_CHEETAH_2",
       "model": "CUBOT CHEETAH 2"
@@ -192,6 +228,12 @@
       "market_name": "NOTE S",
       "codename": "CUBOT_NOTE_S",
       "model": "CUBOT_NOTE_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE_7P",
+      "codename": "NOTE_7P",
+      "model": "NOTE 7P"
     },
     {
       "manufacturer": "",
@@ -249,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB 10",
+      "codename": "TAB_10",
+      "model": "TAB 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X19",
       "codename": "X19",
       "model": "X19"
@@ -276,6 +324,18 @@
       "market_name": "X30",
       "codename": "X30",
       "model": "X30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X50",
+      "codename": "X50",
+      "model": "X50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "note_9",
+      "codename": "NOTE_9",
+      "model": "NOTE 9"
     }
   ]
 }

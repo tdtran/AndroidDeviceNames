@@ -1,0 +1,17 @@
+{
+  "manufacturer": "DAIICHI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Vietnam",
+      "codename": "tamachi",
+      "model": "Daiichi FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vietnam",
+      "codename": "yeongdeungpo",
+      "model": "Daiichi UHD Android TV"
+    }
+  ]
+}

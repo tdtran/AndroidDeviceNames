@@ -45,6 +45,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A355",
+      "codename": "A355",
+      "model": "A355"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A360",
+      "codename": "A360",
+      "model": "A360"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A440",
+      "codename": "A440",
+      "model": "A440"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A455",
+      "codename": "A455",
+      "model": "A455"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AL140",
       "codename": "AL140",
       "model": "AL140"
@@ -87,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AS360",
+      "codename": "AS360",
+      "model": "AS360"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B11",
       "codename": "B11",
       "model": "B11"
@@ -111,6 +141,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B18",
+      "codename": "B18",
+      "model": "B18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B21",
+      "codename": "B21",
+      "model": "B21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B245",
       "codename": "B245",
       "model": "B245"
@@ -120,6 +162,18 @@
       "market_name": "B260",
       "codename": "B260",
       "model": "B260"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B27",
+      "codename": "B27",
+      "model": "B27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B28",
+      "codename": "B28",
+      "model": "B28"
     },
     {
       "manufacturer": "",
@@ -222,6 +276,12 @@
       "market_name": "BS650",
       "codename": "BS650",
       "model": "BS650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D11",
+      "codename": "D11",
+      "model": "D11"
     },
     {
       "manufacturer": "",
@@ -447,9 +507,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G450 2021",
+      "codename": "G450_2021",
+      "model": "G450 2021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G550",
       "codename": "G550",
       "model": "G550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G660",
+      "codename": "G660",
+      "model": "G660"
     },
     {
       "manufacturer": "",
@@ -519,6 +591,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H410",
+      "codename": "H410",
+      "model": "H410"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ixion M355",
       "codename": "M355",
       "model": "Ixion M355"
@@ -549,6 +627,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K17",
+      "codename": "K17",
+      "model": "K17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K18",
       "codename": "K18",
       "model": "K18"
@@ -558,6 +642,36 @@
       "market_name": "K21",
       "codename": "K21",
       "model": "K21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K28",
+      "codename": "K28",
+      "model": "K28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K31",
+      "codename": "K31",
+      "model": "K31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K38",
+      "codename": "K38",
+      "model": "K38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K41",
+      "codename": "K41",
+      "model": "K41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K51",
+      "codename": "K51",
+      "model": "K51"
     },
     {
       "manufacturer": "",
@@ -828,6 +942,12 @@
       "market_name": "S770",
       "codename": "S770",
       "model": "S770"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S770i",
+      "codename": "S770i",
+      "model": "S770i"
     },
     {
       "manufacturer": "",

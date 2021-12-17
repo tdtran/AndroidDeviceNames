@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO F3",
+      "codename": "alioth",
+      "model": "M2012K11AG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO M2",
       "codename": "shiva",
       "model": "M2004J19PI"
@@ -39,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO M3 Pro 5G",
+      "codename": "camellia",
+      "model": "M2103K19PI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M3 Pro 5G",
+      "codename": "camellian",
+      "model": "M2103K19PG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO X2",
       "codename": "phoenixin",
       "model": "POCO X2"
@@ -54,6 +72,18 @@
       "market_name": "POCO X3 NFC",
       "codename": "surya",
       "model": "M2007J20CG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X3 Pro",
+      "codename": "bhima",
+      "model": "M2102J20SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X3 Pro",
+      "codename": "vayu",
+      "model": "M2102J20SG"
     }
   ]
 }

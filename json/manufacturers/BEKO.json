@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Beko",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Beko Android TV",
+      "codename": "shinagawa",
+      "model": "Beko Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Beko Android TV",
+      "codename": "sinchon",
+      "model": "Beko Android TV"
+    }
+  ]
+}

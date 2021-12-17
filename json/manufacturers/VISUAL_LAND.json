@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Elite10QH",
+      "codename": "Elite10QH",
+      "model": "Elite10QH"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Prestige Elite10QI",
       "codename": "Elite10QI",
       "model": "Elite10QI"

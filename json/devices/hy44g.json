@@ -1,7 +1,25 @@
 [
   {
-    "manufacturer": "Skyworth",
+    "manufacturer": "COSMOTE TV",
     "market_name": "TV Box",
+    "codename": "HY44G",
+    "model": "TV Box"
+  },
+  {
+    "manufacturer": "Magenta TV",
+    "market_name": "MagentaTV ONE",
+    "codename": "HY44G",
+    "model": "MagentaTV ONE"
+  },
+  {
+    "manufacturer": "MagentaTV",
+    "market_name": "MagentaTV ONE",
+    "codename": "HY44G",
+    "model": "MagentaTV ONE"
+  },
+  {
+    "manufacturer": "T-Mobile-CZ-Telekom-SK",
+    "market_name": "TV Box HY4403",
     "codename": "HY44G",
     "model": "TV Box"
   }

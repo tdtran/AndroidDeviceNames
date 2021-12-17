@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Carbon 1 Mark II",
+      "codename": "C1M2BD_R2",
+      "model": "Carbon 1 Mark II"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Carbon Mobile",
       "codename": "C1M2BD_R1",
       "model": "C1M2BD_R1"

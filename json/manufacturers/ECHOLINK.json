@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Echolink",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Echolink TV",
+      "codename": "shinagawa",
+      "model": "Echolink TV"
+    }
+  ]
+}

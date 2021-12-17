@@ -6,6 +6,54 @@
       "market_name": "C10G",
       "codename": "C10G",
       "model": "C10G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C80W",
+      "codename": "C80W",
+      "model": "C80W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C80W_EEA",
+      "codename": "C80W_EEA",
+      "model": "C80W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C82W",
+      "codename": "C82W",
+      "model": "C82W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C82W_EEA",
+      "codename": "C82W_EEA",
+      "model": "C82W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F80L",
+      "codename": "F80L",
+      "model": "F80L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F80W",
+      "codename": "F80W",
+      "model": "F80W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F80W_EEA",
+      "codename": "F80W_EEA",
+      "model": "F80W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F81L_EEA",
+      "codename": "F81L",
+      "model": "F81L"
     }
   ]
 }

@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB-7232-3G",
+      "codename": "TAB_7232_3G_EEA",
+      "model": "TAB-7232-3G-V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-P10232-3G",
+      "codename": "TAB-P10232-3G",
+      "model": "TAB-P10232-3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB-PTDF-116",
       "codename": "TAB-PTDF-116",
       "model": "TAB-PTDF-116"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_7232_3G_A",
+      "codename": "TAB_7232_3G_A",
+      "model": "TAB_7232_3G_A"
     },
     {
       "manufacturer": "",

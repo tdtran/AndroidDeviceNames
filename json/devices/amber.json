@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "QUEST",
+    "market_name": "Amber",
+    "codename": "Amber",
+    "model": "Amber"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 11T",
+    "codename": "amber",
+    "model": "21081111RG"
+  },
+  {
     "manufacturer": "Yandex",
     "market_name": "Amber",
     "codename": "Amber",

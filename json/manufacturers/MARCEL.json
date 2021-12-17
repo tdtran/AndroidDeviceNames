@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Marcel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "tamachi",
+      "model": "MARCEL Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "yeongdeungpo",
+      "model": "MARCEL Android TV"
+    }
+  ]
+}

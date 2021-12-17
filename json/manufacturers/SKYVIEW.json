@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KENYA",
+      "codename": "tamachi",
+      "model": "SKYVIEW Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KENYA",
+      "codename": "yeongdeungpo",
+      "model": "SKYVIEW Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M5",
       "codename": "M5",
       "model": "M5"

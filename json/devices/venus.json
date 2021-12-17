@@ -18,9 +18,21 @@
     "model": "VENUS"
   },
   {
+    "manufacturer": "Starlight",
+    "market_name": "venus",
+    "codename": "venus",
+    "model": "venus"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "Mi 11",
     "codename": "venus",
     "model": "M2011K2C"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Mi 11",
+    "codename": "venus",
+    "model": "M2011K2G"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "KONDE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KD2",
+      "codename": "KD2",
+      "model": "KD2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIDS_FIVE",
+      "codename": "KIDS_FIVE",
+      "model": "KIDS_FIVE"
+    }
+  ]
+}

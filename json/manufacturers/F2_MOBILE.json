@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I8_PRO",
+      "codename": "I8_PRO",
+      "model": "I8_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT16",
       "codename": "LT16",
       "model": "LT16"
@@ -42,6 +48,12 @@
       "market_name": "Z8POCKET",
       "codename": "Z8POCKET",
       "model": "Z8POCKET"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i8_ROKR",
+      "codename": "i8_ROKR",
+      "model": "i8_ROKR"
     }
   ]
 }

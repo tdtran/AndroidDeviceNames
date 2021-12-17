@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SLTDVD1024_B",
+      "codename": "SLTDVD1024_B",
+      "model": "SLTDVD1024_B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SLTDVD9220_C",
       "codename": "SLTDVD9220-C",
       "model": "SLTDVD9220-C"

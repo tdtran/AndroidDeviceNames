@@ -3,6 +3,42 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cricket® Dream 5G",
+      "codename": "EC211001",
+      "model": "EC211001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cricket® Icon 3",
+      "codename": "EC211002",
+      "model": "EC211002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cricket® Influence",
+      "codename": "v350c",
+      "model": "V350C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cricket® Innovate 5G",
+      "codename": "EC211004",
+      "model": "EC211004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cricket® Ovation 2",
+      "codename": "ZON",
+      "model": "EC1002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cricket® Splendor",
+      "codename": "EC211003",
+      "model": "EC211003"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U304AC",
       "codename": "U304AC",
       "model": "U304AC"

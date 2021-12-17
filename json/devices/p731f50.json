@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "Nubia N11",
+    "codename": "P731F50",
+    "model": "Nubia N11"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE Blade L210",
     "codename": "P731F50",
     "model": "ZTE Blade L210"

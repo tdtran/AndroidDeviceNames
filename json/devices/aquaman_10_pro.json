@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "TCL",
+    "market_name": "TCL TAB 10 FHD 4G",
+    "codename": "Aquaman_10_Pro",
+    "model": "9060G"
+  },
+  {
+    "manufacturer": "TCL",
     "market_name": "TCL TAB 10 HD 4G",
     "codename": "Aquaman_10_Pro",
     "model": "9060X"

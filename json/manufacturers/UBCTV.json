@@ -1,0 +1,17 @@
+{
+  "manufacturer": "UBCtv",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Vietnam",
+      "codename": "tamachi",
+      "model": "UBC Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vietnam",
+      "codename": "yeongdeungpo",
+      "model": "UBC Android TV"
+    }
+  ]
+}

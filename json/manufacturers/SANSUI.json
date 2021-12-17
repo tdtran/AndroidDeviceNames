@@ -51,6 +51,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SANSUI",
+      "codename": "martin",
+      "model": "AiPlus2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SANSUI SmartTV",
+      "codename": "sunnyvale",
+      "model": "SANSUI SmartTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SANSUITV UHD",
+      "codename": "SW4H",
+      "model": "SANSUITV UHD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sansui Play",
       "codename": "Play",
       "model": "Sansui Play"

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PRIME Android TV",
+      "codename": "shinagawa",
+      "model": "PRIME Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRIME P1",
       "codename": "PRIME_P1",
       "model": "P1"

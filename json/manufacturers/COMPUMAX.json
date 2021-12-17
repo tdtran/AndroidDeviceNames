@@ -1,0 +1,17 @@
+{
+  "manufacturer": "COMPUMAX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BLUEPAD10",
+      "codename": "BLUEPAD10",
+      "model": "BLUEPAD10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BlueS10",
+      "codename": "COMPUMAX",
+      "model": "BlueS10"
+    }
+  ]
+}

@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T12",
+      "codename": "T12",
+      "model": "T12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T20",
       "codename": "T20",
       "model": "T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20-Plus",
+      "codename": "T20-Plus",
+      "model": "T20-Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20_Play_EEA",
+      "codename": "T20_Play_EEA",
+      "model": "T20_Play"
     },
     {
       "manufacturer": "",
@@ -21,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V88",
+      "codename": "V88",
+      "model": "V88"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VEIDOO_T8",
       "codename": "VEIDOO_T8",
       "model": "T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VEIDOO_T80",
+      "codename": "VEIDOO_T80",
+      "model": "VEIDOO_T80"
     }
   ]
 }

@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T9503",
+      "codename": "T9503",
+      "model": "T9503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T9503",
+      "codename": "Telemor_T9503",
+      "model": "Telemor T9503"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Telemor T9502",
       "codename": "T9502",
       "model": "Telemor T9502"

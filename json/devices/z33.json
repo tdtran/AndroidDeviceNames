@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Symphony",
+    "market_name": "Z33",
+    "codename": "Z33",
+    "model": "Z33"
+  },
+  {
     "manufacturer": "Zoji",
     "market_name": "Z33",
     "codename": "Z33",

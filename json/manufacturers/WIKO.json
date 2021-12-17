@@ -357,9 +357,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power U10",
+      "codename": "W-V745",
+      "model": "W-V745-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power U10",
+      "codename": "W-V745",
+      "model": "W-V745-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power U10",
+      "codename": "W-V745",
+      "model": "W-V745-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power U20",
+      "codename": "W-V750BN",
+      "model": "W-V750BN-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power U20",
+      "codename": "W-V750BN",
+      "model": "W-V750BN-OPE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Power U20",
       "codename": "W-V750BN",
       "model": "W-V750BN-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power U30",
+      "codename": "W-V755",
+      "model": "W-V755-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power U30",
+      "codename": "W-V755",
+      "model": "W-V755-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power U30",
+      "codename": "W-V755",
+      "model": "W-V755-TVM"
     },
     {
       "manufacturer": "",
@@ -605,6 +653,12 @@
       "manufacturer": "",
       "market_name": "Sunny5",
       "codename": "W-K380",
+      "model": "W-K380-TH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunny5",
+      "codename": "W-K380",
       "model": "W-K380-TVM"
     },
     {
@@ -617,7 +671,19 @@
       "manufacturer": "",
       "market_name": "Sunny5 Lite",
       "codename": "W-K211",
+      "model": "W-K211-TH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunny5 Lite",
+      "codename": "W-K211",
       "model": "W-K211-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3",
+      "codename": "W-V770",
+      "model": "W-V770"
     },
     {
       "manufacturer": "",
@@ -1089,6 +1155,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wiko Life 3",
+      "codename": "U316AT",
+      "model": "Wiko U316AT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wiko Ride 3",
       "codename": "U614AS",
       "model": "Wiko U614AS"
@@ -1122,6 +1194,24 @@
       "market_name": "Y51",
       "codename": "W-K211",
       "model": "W-K211-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y51",
+      "codename": "W-K211",
+      "model": "W-K211-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y52",
+      "codename": "W-K521",
+      "model": "W-K521-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y52",
+      "codename": "W-K521",
+      "model": "W-K521-OPE"
     },
     {
       "manufacturer": "",
@@ -1209,6 +1299,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y62",
+      "codename": "W-K610",
+      "model": "W-K610-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y62",
+      "codename": "W-K610",
+      "model": "W-K610-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y62",
+      "codename": "W-K610",
+      "model": "W-K610-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y62 Plus",
+      "codename": "W-K610",
+      "model": "W-K610-FRA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y62 Plus",
+      "codename": "W-K610",
+      "model": "W-K610-SUI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y80",
       "codename": "W-V720",
       "model": "W-V720-CA"
@@ -1260,6 +1380,24 @@
       "market_name": "Y81",
       "codename": "W-V680",
       "model": "W-V680-SUN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y82",
+      "codename": "W-K630",
+      "model": "W-K630-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y82",
+      "codename": "W-K630",
+      "model": "W-K630-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y82",
+      "codename": "W-K630",
+      "model": "W-K630-TRU"
     },
     {
       "manufacturer": "",

@@ -12,6 +12,12 @@
       "market_name": "SDOTT0202",
       "codename": "DV8519",
       "model": "SDOTT0202"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SDSTB01",
+      "codename": "DV8945C-KSU",
+      "model": "SDSTB01"
     }
   ]
 }

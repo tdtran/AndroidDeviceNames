@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "730",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -222,6 +228,12 @@
       "market_name": "QS01",
       "codename": "S905Y2",
       "model": "QS01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

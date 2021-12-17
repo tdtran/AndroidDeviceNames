@@ -45,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OB_421_Plus",
+      "codename": "OB_421_Plus",
+      "model": "OB_421"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OB_588",
+      "codename": "OB_588",
+      "model": "OB_588"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OB_627",
       "codename": "OB_627",
       "model": "OB_627"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OB_628",
+      "codename": "OB_628",
+      "model": "OB_628"
     }
   ]
 }

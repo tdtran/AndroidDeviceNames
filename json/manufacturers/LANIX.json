@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Alpha 1V",
+      "codename": "Alpha_1V",
+      "model": "Alpha 1V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alpha 5V",
+      "codename": "Alpha_5V",
+      "model": "Alpha 5V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alpha 9V",
+      "codename": "Alpha_9V",
+      "model": "Alpha 9V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alpha_3V",
+      "codename": "Alpha_3V",
+      "model": "Alpha 3V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alpha_950",
       "codename": "Alpha_950",
       "model": "Alpha 950"
@@ -84,6 +108,12 @@
       "market_name": "ILIUM X110",
       "codename": "ILIUM_X110",
       "model": "ILIUM X110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ILIUMPAD_RX10v5",
+      "codename": "ILIUMPAD_RX10v5",
+      "model": "ILIUM_PAD_RX10v5"
     },
     {
       "manufacturer": "",
@@ -243,9 +273,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium M7V",
+      "codename": "Ilium_M7V",
+      "model": "Ilium M7V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium M9",
       "codename": "Ilium_M9",
       "model": "Ilium M9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium M9V",
+      "codename": "Ilium_M9V",
+      "model": "Ilium M9V"
     },
     {
       "manufacturer": "",
@@ -360,6 +402,12 @@
       "market_name": "IliumPad_RX10",
       "codename": "IliumPad_RX10",
       "model": "ILIUM_PAD_RX10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IliumPad_RX10v3",
+      "codename": "IliumPad_RX10v3",
+      "model": "Ilium Pad RX10v3"
     },
     {
       "manufacturer": "",
@@ -513,9 +561,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X560",
+      "codename": "X560",
+      "model": "X560"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X750",
       "codename": "X750",
       "model": "X750"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X770",
+      "codename": "X770",
+      "model": "X770"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X860",
+      "codename": "X860",
+      "model": "X860"
     },
     {
       "manufacturer": "",

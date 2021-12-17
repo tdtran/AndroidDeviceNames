@@ -4,5 +4,23 @@
     "market_name": "",
     "codename": "aruba",
     "model": "Lenovo A765e"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Lenovo K14",
+    "codename": "aruba",
+    "model": "Lenovo K14"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto e20",
+    "codename": "aruba",
+    "model": "aruba"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto e20",
+    "codename": "aruba",
+    "model": "moto e20"
   }
 ]

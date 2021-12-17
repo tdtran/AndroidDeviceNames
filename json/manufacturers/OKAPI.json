@@ -27,9 +27,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Okapi10_Sec",
+      "codename": "Okapi10_Sec",
+      "model": "Okapi10 Sec"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Okapi10_Simple",
       "codename": "Okapi10_Simple",
       "model": "Okapi10_Simple"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi_Tab6",
+      "codename": "Okapi_Tab6",
+      "model": "Okapi_Tab6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi_Tab8",
+      "codename": "Okapi_Tab8",
+      "model": "Okapi_Tab8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi_Tab8_Pro",
+      "codename": "Okapi_Tab8_Pro",
+      "model": "Okapi_Tab8_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab10",
+      "codename": "Tab10",
+      "model": "Tab10"
     }
   ]
 }

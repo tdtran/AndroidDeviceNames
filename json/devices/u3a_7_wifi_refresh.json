@@ -1,13 +1,49 @@
 [
   {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 7 Lite",
+    "codename": "U3A_7_WIFI_Refresh",
+    "model": "9309X"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "alcatel 1T7 NEW",
+    "codename": "U3A_7_WIFI_Refresh",
+    "model": "9309X_TR"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
-    "market_name": "Alcatel 1T 7 WIFI NEW",
+    "market_name": "TKEE MINI NEW",
     "codename": "U3A_7_WIFI_Refresh",
     "model": "9309X"
   },
   {
     "manufacturer": "TCT (Alcatel)",
-    "market_name": "Alcatel 1T7 Wifi",
+    "market_name": "TKEE MINI NEW",
+    "codename": "U3A_7_WIFI_Refresh",
+    "model": "9309X_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "TKEE MINI NEW",
+    "codename": "U3A_7_WIFI_Refresh",
+    "model": "9309X_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "TKEE MINI NEW",
+    "codename": "U3A_7_WIFI_Refresh",
+    "model": "9309X_TR"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel 1T7 NEW",
+    "codename": "U3A_7_WIFI_Refresh",
+    "model": "9309X"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel 1T7 NEW",
     "codename": "U3A_7_WIFI_Refresh",
     "model": "9309X_RU"
   }

@@ -219,9 +219,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LAVA AGNI 5G",
+      "codename": "LXX501",
+      "model": "LAVA LXX501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAVA Z66",
       "codename": "Z66",
       "model": "Lava Z66"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LE000Z93P",
+      "codename": "LE000Z93P",
+      "model": "LE000Z93P"
     },
     {
       "manufacturer": "",
@@ -255,6 +267,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LMG02",
+      "codename": "LMG02",
+      "model": "LAVA LMG02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LMX02",
+      "codename": "LMX02",
+      "model": "LAVA LMX02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LN9810",
       "codename": "LN9810",
       "model": "LAVA LN9810"
@@ -270,6 +294,18 @@
       "market_name": "LN9820",
       "codename": "LN9820",
       "model": "LN9821"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LZG01",
+      "codename": "LZG01",
+      "model": "LAVA LZG01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnum Pro",
+      "codename": "Magnum_Pro",
+      "model": "Magnum_Pro"
     },
     {
       "manufacturer": "",
@@ -372,6 +408,12 @@
       "market_name": "T71_w",
       "codename": "T71_w",
       "model": "T71_w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T81",
+      "codename": "T81",
+      "model": "T81"
     },
     {
       "manufacturer": "",
@@ -579,6 +621,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y50",
+      "codename": "AF9020",
+      "model": "AF9020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z1",
+      "codename": "Z1",
+      "model": "Z1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z1 Pro",
+      "codename": "LZG401",
+      "model": "LAVA LZG401"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z10",
       "codename": "LAVA_Z10",
       "model": "Z10"
@@ -600,6 +660,12 @@
       "market_name": "Z3",
       "codename": "LMX04",
       "model": "LAVA LMX04"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3",
+      "codename": "LZG403",
+      "model": "LAVA LZG403"
     },
     {
       "manufacturer": "",
@@ -753,6 +819,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z93P",
+      "codename": "Z93P",
+      "model": "Lava Z93P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZX",
       "codename": "ZX",
       "model": "ZX"
@@ -840,6 +912,12 @@
       "market_name": "iris42",
       "codename": "iris42",
       "model": "iris42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris46",
+      "codename": "LH9950",
+      "model": "LAVA LH9950"
     },
     {
       "manufacturer": "",

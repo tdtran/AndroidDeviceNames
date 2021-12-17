@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Swosh",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AndroidTV",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "samseong",
+      "model": "AI PONT"
+    }
+  ]
+}

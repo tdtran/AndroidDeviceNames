@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UT3GPlus",
+      "codename": "UT3GPlus",
+      "model": "UT3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W40L",
       "codename": "W40L",
       "model": "W40L"

@@ -4,5 +4,29 @@
     "market_name": "Power 5S",
     "codename": "Power_5S",
     "model": "Power_5S"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "Power 5S",
+    "codename": "Power_5S",
+    "model": "MP02"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "Power 5S EEA",
+    "codename": "Power_5S",
+    "model": "MP02"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "Power 5S RU",
+    "codename": "Power_5S",
+    "model": "MP02"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "Power 5S TR",
+    "codename": "Power_5S",
+    "model": "MP02"
   }
 ]

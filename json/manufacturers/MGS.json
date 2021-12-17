@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "MGS",
+      "codename": "bangbae",
+      "model": "MGS 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MGS",
       "codename": "komagome",
       "model": "MGS 2K Android TV"
     }

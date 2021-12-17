@@ -1,0 +1,17 @@
+{
+  "manufacturer": "EWIS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "OCTA-T700M",
+      "codename": "OCTA-T700M",
+      "model": "EWIS OCTA-T700M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T800MC",
+      "codename": "T800MC",
+      "model": "T800MC"
+    }
+  ]
+}

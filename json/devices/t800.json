@@ -4,5 +4,17 @@
     "market_name": "",
     "codename": "t800",
     "model": "MUSN-T800"
+  },
+  {
+    "manufacturer": "Positivo",
+    "market_name": "T800",
+    "codename": "T800",
+    "model": "T800"
+  },
+  {
+    "manufacturer": "Positivo",
+    "market_name": "T800",
+    "codename": "T800",
+    "model": "TabQ8-T800"
   }
 ]

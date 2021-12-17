@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M-701Plus",
+      "codename": "M-701Plus",
+      "model": "M-701Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mione_PUBG_1",
       "codename": "Mione_PUBG_1",
       "model": "Mione_PUBG_1"
@@ -18,6 +24,12 @@
       "market_name": "Mione_Pro",
       "codename": "MIONEI",
       "model": "Mione_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mione_Pro_Plus",
+      "codename": "Mione_Pro_Plus",
+      "model": "Mione Pro Plus"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A22 5G",
+    "codename": "a22x",
+    "model": "SM-A226B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A22 5G",
+    "codename": "a22x",
+    "model": "SM-A226BR"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A22s 5G",
+    "codename": "a22x",
+    "model": "SM-A226B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Buddy",
+    "codename": "a22x",
+    "model": "SM-A226L"
+  }
+]

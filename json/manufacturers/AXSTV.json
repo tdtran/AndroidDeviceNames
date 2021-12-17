@@ -1,0 +1,17 @@
+{
+  "manufacturer": "AXSTV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AXSTV130",
+      "codename": "SEI130PTS",
+      "model": "AXSTV130"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AXSTV530",
+      "codename": "SEI530PTS",
+      "model": "AXSTV530"
+    }
+  ]
+}

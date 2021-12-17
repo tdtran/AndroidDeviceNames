@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ACE (Global)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 3",
+      "codename": "BUZZ_3",
+      "model": "BUZZ 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 3 Plus",
+      "codename": "BUZZ_3_Plus",
+      "model": "BUZZ 3 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "URBAN 3",
+      "codename": "URBAN_3",
+      "model": "URBAN 3"
+    }
+  ]
+}

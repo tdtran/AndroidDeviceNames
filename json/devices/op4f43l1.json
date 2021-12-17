@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A94",
+    "codename": "OP4F43L1",
+    "model": "CPH2203"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "F19 Pro",
+    "codename": "OP4F43L1",
+    "model": "CPH2285"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "Reno5 F",
+    "codename": "OP4F43L1",
+    "model": "CPH2217"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "Reno5 Lite",
+    "codename": "OP4F43L1",
+    "model": "CPH2205"
+  }
+]

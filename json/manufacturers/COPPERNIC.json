@@ -36,6 +36,12 @@
       "market_name": "C-one",
       "codename": "C-One_v2_e-ID",
       "model": "C-One"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TN502A1",
+      "codename": "access",
+      "model": "access"
     }
   ]
 }

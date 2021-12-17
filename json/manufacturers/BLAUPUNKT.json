@@ -16,20 +16,44 @@
     {
       "manufacturer": "",
       "market_name": "Australia",
-      "codename": "hanyang",
-      "model": "BP Android TV"
+      "codename": "nippori",
+      "model": "BP Android TV 2K"
     },
     {
       "manufacturer": "",
       "market_name": "Australia",
-      "codename": "nippori",
-      "model": "BP Android TV 2K"
+      "codename": "tamachi",
+      "model": "BLAUPUNKT Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Australia",
+      "codename": "yeongdeungpo",
+      "model": "BLAUPUNKT Android TV"
     },
     {
       "manufacturer": "",
       "market_name": "B-STREAM",
       "codename": "JFK",
       "model": "B-STREAM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B5000",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BATV10",
+      "codename": "ICN",
+      "model": "BATV10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAUPUNKT2K",
+      "codename": "nippori",
+      "model": "BP 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -45,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BP_6108",
+      "codename": "BP_6108",
+      "model": "BP_6108"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blaupunkt",
       "codename": "bangbae",
       "model": "BLAUPUNKT 4K Android TV"
@@ -52,8 +82,20 @@
     {
       "manufacturer": "",
       "market_name": "Blaupunkt",
+      "codename": "ewha",
+      "model": "BLAU-TVE19I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
       "codename": "komagome",
       "model": "BLAUPUNKT 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "sindang",
+      "model": "BLAU-TVE19H"
     },
     {
       "manufacturer": "",
@@ -81,6 +123,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blaupunkt android TV",
+      "codename": "hanyang",
+      "model": "BLAUPUNKT Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt android TV",
+      "codename": "hanyang",
+      "model": "BP 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt android TV",
+      "codename": "hanyang",
+      "model": "BP Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blaupunkt_SM_02",
       "codename": "Blaupunkt_SM_02",
       "model": "Blaupunkt_SM_02"
@@ -105,18 +165,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Ecuador",
-      "codename": "hanyang",
-      "model": "BP 4K Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Ecuador",
-      "codename": "nippori",
-      "model": "BP 2K Android TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Endeavour101",
       "codename": "Blaupunkt",
       "model": "Endeavour101"
@@ -126,6 +174,12 @@
       "market_name": "Guardian",
       "codename": "Guardian",
       "model": "Guardian"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MP3-A 4K TV",
+      "codename": "SW4H",
+      "model": "MP3-A 4K TV"
     },
     {
       "manufacturer": "",
@@ -153,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SF04 4G",
+      "codename": "SF04_4G_EEA",
+      "model": "SF04 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SL05",
       "codename": "SL05",
       "model": "SL05"
@@ -177,6 +237,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Soundphone_S1",
       "codename": "Soundphone_S1",
       "model": "Soundphone_S1"
@@ -186,6 +252,18 @@
       "market_name": "TX01",
       "codename": "TX01",
       "model": "TX01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "tamachi",
+      "model": "Blaupunkt 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "yeongdeungpo",
+      "model": "Blaupunkt 4K Android TV"
     }
   ]
 }

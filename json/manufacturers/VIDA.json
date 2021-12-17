@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ORION",
+      "codename": "ORION",
+      "model": "ORION"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V401",
       "codename": "VIDA_V401",
       "model": "VIDA-V401"

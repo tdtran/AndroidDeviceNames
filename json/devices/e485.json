@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hyundai",
+    "market_name": "E485",
+    "codename": "E485",
+    "model": "E485"
+  },
+  {
     "manufacturer": "Micromax",
     "market_name": "Canvas 6",
     "codename": "E485",

@@ -147,6 +147,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEIZU 18",
+      "codename": "meizu18",
+      "model": "MEIZU 18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MEIZU 18X",
+      "codename": "meizu18X",
+      "model": "MEIZU 18X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MEIZU 18s",
+      "codename": "meizu18s",
+      "model": "MEIZU 18s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MEIZU 18s Pro",
+      "codename": "meizu18sPro",
+      "model": "MEIZU 18s Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Meizu 6T",
       "codename": "Meizu6T",
       "model": "Meizu 6T"
@@ -216,6 +240,12 @@
       "market_name": "meizu 17 Pro",
       "codename": "meizu17Pro",
       "model": "meizu 17 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu 18 Pro",
+      "codename": "meizu18Pro",
+      "model": "MEIZU 18 Pro"
     },
     {
       "manufacturer": "",

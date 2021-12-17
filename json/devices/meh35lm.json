@@ -13,8 +13,20 @@
   },
   {
     "manufacturer": "LGE",
+    "market_name": "K62+",
+    "codename": "meh35lm",
+    "model": "LM-K526"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "Q52",
     "codename": "meh35lm",
     "model": "LM-Q520N"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "Q62",
+    "codename": "meh35lm",
+    "model": "LM-Q626N"
   }
 ]

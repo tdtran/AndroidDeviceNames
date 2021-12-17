@@ -1,0 +1,23 @@
+{
+  "manufacturer": "VIKUSHA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "V-E5",
+      "codename": "V-E5",
+      "model": "V-E5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V-N5",
+      "codename": "V-N5",
+      "model": "V-N5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VZ-30",
+      "codename": "VZ-30",
+      "model": "VZ-30"
+    }
+  ]
+}

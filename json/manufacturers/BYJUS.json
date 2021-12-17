@@ -12,6 +12,60 @@
       "market_name": "LRN10",
       "codename": "LRN10",
       "model": "LRN10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10GEW0",
+      "codename": "LRNS10WIFI",
+      "model": "LRNS10GEW0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10GIL0",
+      "codename": "LRNS10GIL0",
+      "model": "LRNS10GIL0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10GNW0",
+      "codename": "LRNS10WIFI",
+      "model": "LRNS10GNW0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10REW0",
+      "codename": "LRNS10WIFI",
+      "model": "LRNS10REW0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10RIL0",
+      "codename": "LRNS10RIL0",
+      "model": "LRNS10RIL0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10RNW0",
+      "codename": "LRNS10WIFI",
+      "model": "LRNS10RNW0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10WEW0",
+      "codename": "LRNS10WIFI",
+      "model": "LRNS10WEW0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10WIL0",
+      "codename": "LRNS10WIL0",
+      "model": "LRNS10WIL0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LRNS10WNW0",
+      "codename": "LRNS10WIFI",
+      "model": "LRNS10WNW0"
     }
   ]
 }

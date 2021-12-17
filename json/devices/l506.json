@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hyundai",
+    "market_name": "L506",
+    "codename": "L506",
+    "model": "L506"
+  },
+  {
     "manufacturer": "Moviltelco Trade",
     "market_name": "L506",
     "codename": "L506",

@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10",
+    "codename": "sunny",
+    "model": "M2101K7AG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10",
+    "codename": "sunny",
+    "model": "M2101K7AI"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Z818L",
     "codename": "sunny",

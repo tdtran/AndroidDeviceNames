@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "COSMAS_T",
+      "codename": "COSMAS_T",
+      "model": "COSMAS T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COSMAS_X",
+      "codename": "COSMAS_X",
+      "model": "COSMAS X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT_Cosmas_V",
       "codename": "CT_Cosmas_V",
       "model": "CT_Cosmas_V"
@@ -12,6 +24,18 @@
       "market_name": "Cosmas",
       "codename": "Cosmas",
       "model": "Cosmas"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRIS",
+      "codename": "IRIS",
+      "model": "IRIS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRIS_EV",
+      "codename": "IRIS_EV",
+      "model": "IRIS_EV"
     },
     {
       "manufacturer": "",

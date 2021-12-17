@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Figgers DragonX",
+      "codename": "Figgers_DragonX",
+      "model": "Figgers DragonX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Figgers F3",
       "codename": "Figgers_F3",
       "model": "Figgers F3"

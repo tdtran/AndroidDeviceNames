@@ -1,0 +1,17 @@
+{
+  "manufacturer": "OKSI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GEN-10",
+      "codename": "GEN-10",
+      "model": "GEN-10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT1001",
+      "codename": "GT1001",
+      "model": "GT1001"
+    }
+  ]
+}
