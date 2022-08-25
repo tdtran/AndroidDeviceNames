@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "Vision Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VISION",
       "codename": "shibuya",
       "model": "VISION"
@@ -24,6 +30,12 @@
       "market_name": "VISION SMART TV",
       "codename": "SW4H",
       "model": "VISION SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision V1",
+      "codename": "VISION_V1",
+      "model": "V1"
     }
   ]
 }

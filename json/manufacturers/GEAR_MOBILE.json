@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gear_PRO2",
+      "codename": "Gear_PRO2",
+      "model": "Gear_PRO2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Space",
       "codename": "Space",
       "model": "Space"

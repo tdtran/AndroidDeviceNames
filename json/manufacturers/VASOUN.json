@@ -6,6 +6,18 @@
       "market_name": "L10-T01",
       "codename": "L10-T01",
       "model": "L10-T01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7",
+      "codename": "M7",
+      "model": "M7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7_EEA",
+      "codename": "M7_EEA",
+      "model": "M7_EEA"
     }
   ]
 }

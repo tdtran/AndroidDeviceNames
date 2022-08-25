@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Yes",
+      "codename": "SEI800Y",
+      "model": "yes"
+    },
+    {
+      "manufacturer": "",
       "market_name": "yes",
       "codename": "SEI500Y",
       "model": "yes"

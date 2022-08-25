@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KST103SD-L",
+      "codename": "KST103SD-L",
+      "model": "KST103SD-L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KST103SD_J",
+      "codename": "KST103SD_J",
+      "model": "KST103SD_J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SA070",
       "codename": "Kinstone_SA070",
       "model": "KJ-YUBI"

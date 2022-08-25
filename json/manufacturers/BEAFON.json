@@ -30,6 +30,18 @@
       "market_name": "MX1",
       "codename": "MX1",
       "model": "MX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TL20",
+      "codename": "TL20",
+      "model": "TL20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TW10",
+      "codename": "TW10_EEA",
+      "model": "TW10"
     }
   ]
 }

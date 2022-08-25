@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab A1020",
+      "codename": "TabA1020",
+      "model": "Tab A1020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-Style S5502",
+      "codename": "X-Style_S5502",
+      "model": "X-Style_S5502"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-Style_S5501",
       "codename": "X-Style_S5501",
       "model": "X-Style_S5501"
@@ -84,6 +96,12 @@
       "market_name": "X-treme PQ54",
       "codename": "X-treme_PQ54",
       "model": "X-treme_PQ54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-treme_PQ18",
+      "codename": "X-treme_PQ18",
+      "model": "X-treme_PQ18"
     },
     {
       "manufacturer": "",

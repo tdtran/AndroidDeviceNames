@@ -28,8 +28,32 @@
     {
       "manufacturer": "",
       "market_name": "X1-Prime-c",
+      "codename": "DTC2140",
+      "model": "X1-Prime-c"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1-Prime-c",
       "codename": "DTC9565",
       "model": "X1-Prime-c"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1-Prime-i",
+      "codename": "DTP2162",
+      "model": "X1-Prime-i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1-Prime-i",
+      "codename": "DTP9718",
+      "model": "X1-Prime-i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1Lite",
+      "codename": "DMTS21LC",
+      "model": "X1Lite"
     }
   ]
 }

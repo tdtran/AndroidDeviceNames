@@ -12,6 +12,18 @@
       "market_name": "Lynx_10in",
       "codename": "Lynx_10in",
       "model": "Lynx_10in"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nova_10in",
+      "codename": "Nova_10in",
+      "model": "Nova_10in"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VELA_1201P-EEA",
+      "codename": "VELA_1201P-EEA",
+      "model": "VELA_1201P"
     }
   ]
 }

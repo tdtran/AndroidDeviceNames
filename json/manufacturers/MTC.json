@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KIVI",
+      "codename": "shilin",
+      "model": "KIVI 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MTC",
       "codename": "seocho",
       "model": "DWSUMMUS 4K Android TV"
@@ -51,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Olive",
+      "codename": "bruno",
+      "model": "Olive 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Olive",
+      "codename": "shilin",
+      "model": "Olive 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Osmartphona",
       "codename": "Osmartphona",
       "model": "Osmartphona"
@@ -63,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SmartEver",
+      "codename": "shilin",
+      "model": "SmartEver4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart_Light",
       "codename": "Smart_Light",
       "model": "Smart_Light"
@@ -72,6 +96,18 @@
       "market_name": "Vodafone Smart mini",
       "codename": "Vodafone_875",
       "model": "MTC 970H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "canada",
+      "codename": "S4000",
+      "model": "S4000-C0C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "chile",
+      "codename": "S2000",
+      "model": "S2000-Z0C11"
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "manufacturer": "Hyatta",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Model 4",
+      "codename": "Model_4",
+      "model": "Model 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model 4",
+      "codename": "Model_4EEA",
+      "model": "Model 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model 4",
+      "codename": "Model_4TR",
+      "model": "Model 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model 6s",
+      "codename": "Model_6s",
+      "model": "Model 6s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_5",
+      "codename": "Model_5",
+      "model": "Model 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_6s_RU",
+      "codename": "Model_6s",
+      "model": "Model 6s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_6s_TR",
+      "codename": "Model_6s",
+      "model": "Model 6s"
+    }
+  ]
+}

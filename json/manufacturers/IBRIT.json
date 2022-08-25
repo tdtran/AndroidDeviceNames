@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Max12pro",
+      "codename": "Max12pro",
+      "model": "Kidz Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POWER_X",
       "codename": "POWER_X",
       "model": "POWER_X"

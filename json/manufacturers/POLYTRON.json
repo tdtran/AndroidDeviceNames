@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P500",
       "codename": "P500",
       "model": "P500"
@@ -66,6 +72,12 @@
       "market_name": "Polytron 2K AI Smart TV",
       "codename": "osaki",
       "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
     },
     {
       "manufacturer": "",

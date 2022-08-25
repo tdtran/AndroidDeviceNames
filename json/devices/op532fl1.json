@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Oppo",
+    "market_name": "OPPO F21 Pro 5G",
+    "codename": "OP532FL1",
+    "model": "CPH2341"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "OPPO Reno7 Z 5G",
+    "codename": "OP532FL1",
+    "model": "CPH2343"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G",
+    "codename": "OP532FL1",
+    "model": "CPH2343"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G",
+    "codename": "OP532FL1",
+    "model": "CPH2343"
+  }
+]

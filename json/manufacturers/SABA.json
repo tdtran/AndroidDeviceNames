@@ -12,6 +12,18 @@
       "market_name": "A11",
       "codename": "redwood",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT IT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT IT"
     }
   ]
 }

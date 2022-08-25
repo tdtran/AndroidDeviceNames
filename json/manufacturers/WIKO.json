@@ -681,9 +681,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10",
+      "codename": "W-V673",
+      "model": "WIKO T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T3",
       "codename": "W-V770",
       "model": "W-V770"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50",
+      "codename": "W-P861",
+      "model": "WIKO T50"
     },
     {
       "manufacturer": "",
@@ -1065,6 +1077,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WIKO 10",
+      "codename": "VHEM",
+      "model": "VHEM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WIKO VOIX",
+      "codename": "U616AT",
+      "model": "U616AT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WIM",
       "codename": "T9051AC",
       "model": "WIM"
@@ -1398,6 +1422,12 @@
       "market_name": "Y82",
       "codename": "W-K630",
       "model": "W-K630-TRU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y82",
+      "codename": "W-K630",
+      "model": "W-K630-TVM"
     },
     {
       "manufacturer": "",

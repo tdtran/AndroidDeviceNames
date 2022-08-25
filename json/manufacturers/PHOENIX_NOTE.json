@@ -6,6 +6,12 @@
       "market_name": "M701A",
       "codename": "M701A",
       "model": "M701A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PPS2022-P156",
+      "codename": "PPS2022-P156",
+      "model": "PPS2022-P156"
     }
   ]
 }

@@ -78,6 +78,12 @@
       "market_name": "Tele2fon V5",
       "codename": "Tele2fon_v5",
       "model": "Tele2fon v5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tv Hub Mini",
+      "codename": "SEI700TE",
+      "model": "Tv Hub Mini"
     }
   ]
 }

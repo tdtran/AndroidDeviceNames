@@ -28,5 +28,11 @@
     "market_name": "VISION W1",
     "codename": "vision",
     "model": "VISION W1"
+  },
+  {
+    "manufacturer": "QUEST",
+    "market_name": "VISION",
+    "codename": "VISION",
+    "model": "VISION"
   }
 ]

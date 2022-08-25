@@ -3,6 +3,24 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus 8 Pro",
     "codename": "OnePlus8Pro",
+    "model": "IN2020"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 8 Pro",
+    "codename": "OnePlus8Pro",
+    "model": "IN2021"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 8 Pro",
+    "codename": "OnePlus8Pro",
     "model": "IN2023"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 8 Pro",
+    "codename": "OnePlus8Pro",
+    "model": "IN2025"
   }
 ]

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Slate10",
+      "codename": "Slate10",
+      "model": "Slate 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP003",
       "codename": "WP003",
       "model": "WP003"

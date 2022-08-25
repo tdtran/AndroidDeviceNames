@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG104",
+      "codename": "EG104",
+      "model": "EG104"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G10",
       "codename": "G10",
       "model": "G10"
@@ -27,15 +39,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M101N",
+      "codename": "G10",
+      "model": "L101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RA10",
       "codename": "RA10",
       "model": "RA10"
     },
     {
       "manufacturer": "",
+      "market_name": "RG11",
+      "codename": "RG11",
+      "model": "RG11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "muPAD L10",
       "codename": "muPAD_L10",
       "model": "muPAD L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "muPAD102",
+      "codename": "muPAD102",
+      "model": "muPAD102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "muPAD104",
+      "codename": "muPAD104",
+      "model": "muPAD104"
     },
     {
       "manufacturer": "",

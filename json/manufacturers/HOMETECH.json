@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID1032_MR",
+      "codename": "mid1032_mr_32",
+      "model": "Alfa10LA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Turkey",
       "codename": "ALFA_7MRC",
       "model": "ALFA_7MRC"

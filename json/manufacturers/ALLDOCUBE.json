@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay9T",
+      "codename": "U1008",
+      "model": "iPlay9T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay_20",
       "codename": "iPlay_20",
       "model": "iPlay_20"
@@ -156,6 +162,12 @@
       "market_name": "iPlay_40",
       "codename": "T1020S",
       "model": "iPlay_40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay_40_5G",
+      "codename": "T1016",
+      "model": "iPlay40_5G"
     },
     {
       "manufacturer": "",

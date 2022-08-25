@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ARBOR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "G47",
+      "codename": "G47",
+      "model": "G47"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT78-VN",
+      "codename": "GT78-VN",
+      "model": "GT78-VN"
+    }
+  ]
+}

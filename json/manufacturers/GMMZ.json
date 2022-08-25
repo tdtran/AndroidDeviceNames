@@ -1,0 +1,11 @@
+{
+  "manufacturer": "GMMZ",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DongleTV1",
+      "codename": "DongleTV1",
+      "model": "DongleTV1"
+    }
+  ]
+}

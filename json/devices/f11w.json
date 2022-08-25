@@ -4,5 +4,11 @@
     "market_name": "F11W",
     "codename": "F11W",
     "model": "F11W"
+  },
+  {
+    "manufacturer": "weelikeit",
+    "market_name": "F11W_EEA",
+    "codename": "F11W",
+    "model": "F11W_EEA"
   }
 ]

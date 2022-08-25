@@ -3,6 +3,12 @@
     "manufacturer": "UNIWA",
     "market_name": "M101",
     "codename": "M101",
+    "model": "M101"
+  },
+  {
+    "manufacturer": "UNIWA",
+    "market_name": "M101",
+    "codename": "M101",
     "model": "UNIWA M101"
   }
 ]

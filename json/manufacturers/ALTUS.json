@@ -4,8 +4,26 @@
     {
       "manufacturer": "",
       "market_name": "Altus Android TV",
+      "codename": "kunyang",
+      "model": "4K Pro TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Altus Android TV",
       "codename": "shinagawa",
       "model": "Altus Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Altus Android TV",
+      "codename": "sinchon",
+      "model": "4K Pro TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Altus UHD Android TV",
+      "codename": "kunyang",
+      "model": "UHD Pro TV"
     }
   ]
 }

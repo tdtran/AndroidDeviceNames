@@ -12,6 +12,12 @@
       "market_name": "ATVIO",
       "codename": "mid7015_mk_32",
       "model": "MID7015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID1032",
+      "codename": "mid1032_mr_32",
+      "model": "MID1032"
     }
   ]
 }

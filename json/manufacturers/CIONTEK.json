@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CS30",
+      "codename": "CS30",
+      "model": "CS30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS50",
       "codename": "CS50",
       "model": "CS50"

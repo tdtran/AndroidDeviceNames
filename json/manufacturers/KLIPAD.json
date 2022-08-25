@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL3669A",
+      "codename": "KL3669A",
+      "model": "KL3669A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL3669E_EEA",
       "codename": "KL3669E_EEA",
       "model": "KL3669E_EEA"
@@ -192,6 +198,12 @@
       "market_name": "KL602",
       "codename": "KL602",
       "model": "KL602"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL608",
+      "codename": "KL608",
+      "model": "KL608"
     },
     {
       "manufacturer": "",

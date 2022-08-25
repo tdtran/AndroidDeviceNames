@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dicle Tab U1008",
+      "codename": "Dicle_Dtab_U1008",
+      "model": "Dicle_Dtab_U1008"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dicle Tab Ultra",
       "codename": "Tab_Ultra",
       "model": "Tab_Ultra"

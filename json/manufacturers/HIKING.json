@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A28",
+      "codename": "A28",
+      "model": "A28"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fun5",
       "codename": "Fun5",
       "model": "Fun5"

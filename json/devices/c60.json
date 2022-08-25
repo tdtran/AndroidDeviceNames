@@ -1,6 +1,18 @@
 [
   {
+    "manufacturer": "CHAINWAY",
+    "market_name": "C60",
+    "codename": "C60",
+    "model": "C60"
+  },
+  {
     "manufacturer": "CORN",
+    "market_name": "C60",
+    "codename": "C60",
+    "model": "C60"
+  },
+  {
+    "manufacturer": "OSCAL",
     "market_name": "C60",
     "codename": "C60",
     "model": "C60"

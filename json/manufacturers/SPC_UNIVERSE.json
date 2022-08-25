@@ -87,6 +87,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART_MAX_2",
+      "codename": "SMART_MAX_2",
+      "model": "SMART_MAX_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_PLUS_2",
+      "codename": "SMART_PLUS_2",
+      "model": "SMART_PLUS_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_PRO",
+      "codename": "SMART_PRO",
+      "model": "SMART_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_PRO",
+      "codename": "SMART_PRO_EEA",
+      "model": "SMART_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_ULTIMATE",
+      "codename": "SMART_ULTIMATE",
+      "model": "SMART_ULTIMATE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SPC GEN",
       "codename": "SPC_GEN",
       "model": "SPC GEN"
@@ -132,6 +162,18 @@
       "market_name": "SPC SMART PLUS",
       "codename": "SPC_SMART_PLUS",
       "model": "SPC SMART PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZEUS_4G",
+      "codename": "ZEUS_4G",
+      "model": "ZEUS_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZEUS_4G_PRO",
+      "codename": "ZEUS_4G_PRO",
+      "model": "ZEUS_4G_PRO"
     },
     {
       "manufacturer": "",

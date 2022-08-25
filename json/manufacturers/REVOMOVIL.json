@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S6525 EEA",
+      "codename": "S6525_EEA",
+      "model": "S6525 EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X12",
       "codename": "S6523",
       "model": "S6523"

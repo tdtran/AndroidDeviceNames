@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TL70",
+      "codename": "TL70",
+      "model": "TL70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tablet Phone",
       "codename": "MFS100",
       "model": "MFS100"

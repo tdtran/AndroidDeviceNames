@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "TELESYSTEM 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UPT24K",
       "codename": "UPT24K",
       "model": "UPT24K"

@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GS5 LITE",
+      "codename": "GS5_LITE",
+      "model": "E940-2878-03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GS5 PRO",
+      "codename": "GS5_PRO",
+      "model": "E940-2796-05"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GS80",
       "codename": "GS80",
       "model": "GS80"

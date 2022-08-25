@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TelekomTV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TelekomTV-STB",
+      "codename": "DV8519B-Telekom",
+      "model": "TelekomTV-STB"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LVILLE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TP1005",
+      "codename": "TP1005",
+      "model": "TP1005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP1005_EEA",
+      "codename": "TP1005_EEA",
+      "model": "TP1005"
+    }
+  ]
+}

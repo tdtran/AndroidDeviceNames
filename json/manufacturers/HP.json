@@ -117,6 +117,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HP Engage Go 10 Mobile System",
+      "codename": "piper_gw",
+      "model": "HP Engage Go 10 Mobile System"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP Engage One Essential All-in-One System",
+      "codename": "napa_gw",
+      "model": "HP Engage One Essential All-in-One System"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP Engage One Pro AIO System",
+      "codename": "anderson_gw",
+      "model": "HP Engage One Pro AIO System"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pro 8 Tablet with Voice",
       "codename": "neetu",
       "model": "HP Pro 8 Tablet with Voice"

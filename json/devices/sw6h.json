@@ -1,0 +1,68 @@
+[
+  {
+    "manufacturer": "COEX",
+    "market_name": "COEX 4K Smart TV",
+    "codename": "SW6H",
+    "model": "COEX 4K Smart TV"
+  },
+  {
+    "manufacturer": "COEX",
+    "market_name": "COEX 4K Smart TV FF",
+    "codename": "SW6H",
+    "model": "COEX 4K Smart TV FF"
+  },
+  {
+    "manufacturer": "Casper",
+    "market_name": "Casper 4K TV",
+    "codename": "SW6H",
+    "model": "Casper 4K TV"
+  },
+  {
+    "manufacturer": "Casper",
+    "market_name": "Casper Smart TV",
+    "codename": "SW6H",
+    "model": "Casper Smart TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC 4K Smart TV NZ",
+    "codename": "SW6H",
+    "model": "JVC 4K Smart TV NZ"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SW-22AE NF",
+    "codename": "SW6H",
+    "model": "SW-22AE NF"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SW-22NA NF",
+    "codename": "SW6H",
+    "model": "SW-22NA NF"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SW-22SA",
+    "codename": "SW6H",
+    "model": "SW-22SA"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SW-22SA NF",
+    "codename": "SW6H",
+    "model": "SW-22SA NF"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22AE",
+    "codename": "SW6H",
+    "model": "SWTV-22AE"
+  },
+  {
+    "manufacturer": "Veon",
+    "market_name": "VEON 4K Smart TV",
+    "codename": "SW6H",
+    "model": "VEON 4K Smart TV"
+  }
+]

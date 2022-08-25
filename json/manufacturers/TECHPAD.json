@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M55_4G",
+      "codename": "M55_4G",
+      "model": "M55_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M5GO",
       "codename": "M5GO",
       "model": "M5GO"
@@ -195,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tech_Pad_X10B",
+      "codename": "Tech_Pad_X10",
+      "model": "Tech Pad X10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Techpad_Kids_7",
       "codename": "Techpad_Kids_7",
       "model": "Techpad_Kids_7"
@@ -216,6 +228,12 @@
       "market_name": "i700",
       "codename": "i700",
       "model": "Tech Pad i700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "k13pro",
+      "codename": "K13pro",
+      "model": "K13pro"
     }
   ]
 }

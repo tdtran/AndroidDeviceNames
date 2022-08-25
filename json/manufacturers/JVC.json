@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4K_Edition",
       "codename": "Android_TV_BOX",
       "model": "4K_Edition"
@@ -33,18 +45,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Amtran",
-      "codename": "gangbyeon",
-      "model": "4K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Amtran",
-      "codename": "osaki",
-      "model": "2K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R1",
       "model": "ATV R1"
@@ -57,6 +57,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COL",
+      "codename": "stanford",
+      "model": "COL 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Canada",
+      "codename": "martin",
+      "model": "Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DM65UXR\\DM65USR\\DM85UXR",
       "codename": "mstarnapoli_atsc",
       "model": "DM65UXR"
@@ -66,6 +84,12 @@
       "market_name": "Dixons",
       "codename": "sadang",
       "model": "UK 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "JVC Android TV"
     },
     {
       "manufacturer": "",
@@ -90,6 +114,18 @@
       "market_name": "JVC",
       "codename": "bangbae",
       "model": "JVC EU 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "bruno",
+      "model": "JVC PA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "bruno",
+      "model": "JVC2KAndroid TV"
     },
     {
       "manufacturer": "",
@@ -130,6 +166,24 @@
     {
       "manufacturer": "",
       "market_name": "JVC",
+      "codename": "shilin",
+      "model": "JVC PA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "shilin",
+      "model": "JVC4KAndroid TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
       "codename": "sugamo",
       "model": "JVC 2K Android TV"
     },
@@ -153,15 +207,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "JVC J20",
-      "codename": "Cunda",
-      "model": "J20"
+      "market_name": "JVC",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "LT-32K397",
-      "codename": "osaki",
-      "model": "2K AI Smart TV"
+      "market_name": "JVC",
+      "codename": "zhongshan",
+      "model": "COL 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC 4K Smart TV NZ",
+      "codename": "SW6H",
+      "model": "JVC 4K Smart TV NZ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC J20",
+      "codename": "Cunda",
+      "model": "J20"
     },
     {
       "manufacturer": "",
@@ -179,12 +245,6 @@
       "manufacturer": "",
       "market_name": "LT-40N5115A",
       "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LT-50KC507",
-      "codename": "sindorim",
       "model": "AI PONT"
     },
     {
@@ -207,6 +267,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SA",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "South Africa/Australia /Israel/Paraguay",
       "codename": "tamachi",
       "model": "JVC Android TV"
@@ -216,6 +294,12 @@
       "market_name": "South Africa/Australia /Israel/Paraguay",
       "codename": "yeongdeungpo",
       "model": "JVC Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UHD Android TV",
+      "codename": "sindorim",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

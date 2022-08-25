@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Black Diamond",
       "codename": "bird77_a_cu_ics2",
       "model": "Essentielb-Black Diamond"

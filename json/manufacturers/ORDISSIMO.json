@@ -12,6 +12,12 @@
       "market_name": "Ordissimo LeNumero2",
       "codename": "LeNumero2",
       "model": "LeNumero2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PixStarTouch",
+      "codename": "PixStarTouch",
+      "model": "PixStarTouch"
     }
   ]
 }

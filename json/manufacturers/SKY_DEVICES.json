@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELITE_P55Max",
+      "codename": "ELITE_P55Max",
+      "model": "Elite P55Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELITE_P55US",
       "codename": "ELITE_P55US",
       "model": "Elite P55"
@@ -129,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite A6",
+      "codename": "Elite_A6",
+      "model": "Elite A6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite B5",
       "codename": "Elite_B5",
       "model": "Elite_B5"
@@ -138,6 +150,12 @@
       "market_name": "Elite B55",
       "codename": "Elite_B55",
       "model": "Elite_B55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite B65",
+      "codename": "Elite_B65",
+      "model": "Elite B65"
     },
     {
       "manufacturer": "",
@@ -171,8 +189,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite D55T",
+      "codename": "Elite_D55T",
+      "model": "Elite D55T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite D5Max",
       "codename": "Elite_D5Max",
+      "model": "Elite D5Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite D5Max",
+      "codename": "Elite_D5MaxUS2",
       "model": "Elite D5Max"
     },
     {
@@ -243,9 +273,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite I55",
+      "codename": "Elite_I55",
+      "model": "Elite I55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite M45",
       "codename": "Elite_M45",
       "model": "Elite M45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite M55",
+      "codename": "Elite_M55",
+      "model": "Elite M55"
     },
     {
       "manufacturer": "",
@@ -264,6 +306,18 @@
       "market_name": "Elite M5Plus",
       "codename": "Elite_M5Plus_SAL",
       "model": "Elite M5Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite N55",
+      "codename": "Elite_N55",
+      "model": "Elite N55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite N55",
+      "codename": "Elite_N55PUA",
+      "model": "Elite N55"
     },
     {
       "manufacturer": "",
@@ -351,6 +405,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite R55",
+      "codename": "Elite_R55",
+      "model": "Elite R55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T10",
+      "codename": "Elite_T10",
+      "model": "Elite T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite T4",
       "codename": "Elite_T4",
       "model": "Elite T4"
@@ -381,15 +447,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite T8",
+      "codename": "ELITE_T8",
+      "model": "ELITE T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T8 Plus",
+      "codename": "Elite_T8PUB",
+      "model": "Elite T8Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T8Plus",
+      "codename": "Elite_T8Plus",
+      "model": "Elite T8Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T8Plus",
+      "codename": "Elite_T8PlusK",
+      "model": "Elite T8Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite_A65",
       "codename": "Elite_A65",
       "model": "Elite A65"
     },
     {
       "manufacturer": "",
+      "market_name": "Elite_B5MS",
+      "codename": "Elite_B5MS",
+      "model": "Elite B5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite_D5",
       "codename": "Elite_D5",
       "model": "Elite D5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_D55",
+      "codename": "Elite_D55",
+      "model": "Elite_D55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_D5T",
+      "codename": "Elite_D5T",
+      "model": "Elite D5T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_E5",
+      "codename": "Elite_E5",
+      "model": "Elite_E5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_F5",
+      "codename": "Elite_F5",
+      "model": "Elite_F5"
     },
     {
       "manufacturer": "",
@@ -417,6 +537,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite_J55US",
+      "codename": "Elite_J55US",
+      "model": "Elite J55US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite_OctaX",
       "codename": "Elite_OctaXkk3",
       "model": "Elite OctaX"
@@ -429,9 +555,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite_Q55",
+      "codename": "Elite_Q55",
+      "model": "Elite_Q55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_T8PUSA",
+      "codename": "Elite_T8PUSA",
+      "model": "Elite T8Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite_T8Plus",
       "codename": "Elite_T8Plus",
       "model": "Elite T8Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_T8Pluss",
+      "codename": "Elite_T8Pluss",
+      "model": "Elite T8Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_T8Pluss",
+      "codename": "Elite_T8Pluss2",
+      "model": "Elite T8Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_V55",
+      "codename": "Elite_V55",
+      "model": "Elite V55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F55Max",
+      "codename": "F55Max",
+      "model": "F55Max"
     },
     {
       "manufacturer": "",
@@ -663,6 +825,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Premier5",
+      "codename": "Premier5_US",
+      "model": "Premier5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Prestige2",
       "codename": "SKY_Prestige2_FP",
       "model": "SKY Prestige2"
@@ -723,9 +891,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SKY Black2",
+      "codename": "Sky_Black2gt",
+      "model": "Sky Black2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY BlackMax",
       "codename": "Sky_BlackMax",
       "model": "Sky BlackMax"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY KID1",
+      "codename": "SKY_KID1",
+      "model": "SKY_KID1"
     },
     {
       "manufacturer": "",
@@ -753,6 +933,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SKY PrestigeX1",
+      "codename": "SKY_PrestigeX1",
+      "model": "SKY PrestigeX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PrestigeX2",
+      "codename": "SKY_PrestigeX2",
+      "model": "SKY PrestigeX2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY VISION1",
       "codename": "SKYVISION",
       "model": "SKYVISION"
@@ -768,6 +960,12 @@
       "market_name": "SKY_Pro_III",
       "codename": "SKY_Pro_III",
       "model": "SKY_Pro_III"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_prestigeMax",
+      "codename": "SKY_prestigeMax",
+      "model": "SKY_prestigeMax"
     },
     {
       "manufacturer": "",
@@ -810,6 +1008,24 @@
       "market_name": "X2",
       "codename": "Xmobile_X2",
       "model": "X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2",
+      "codename": "Xmobile_X2_US",
+      "model": "X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8A",
+      "codename": "X8A",
+      "model": "X8A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xmobile X55",
+      "codename": "X55",
+      "model": "X55"
     },
     {
       "manufacturer": "",

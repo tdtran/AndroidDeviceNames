@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BERRY_PRO",
+      "codename": "BERRY_PRO",
+      "model": "BERRY PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLINK",
       "codename": "BLINK",
       "model": "BLINK"
@@ -117,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cosmo LTE_1",
+      "codename": "Cosmo_LTE_1",
+      "model": "Cosmo LTE_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DANDY",
       "codename": "DANDY",
       "model": "DANDY"
@@ -147,6 +159,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EPIC PRO 1",
+      "codename": "EPIC_PRO_1",
+      "model": "EPIC PRO_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EPIC_1",
+      "codename": "EPIC_1",
+      "model": "EPIC_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EPIC_2",
+      "codename": "EPIC_2",
+      "model": "EPIC_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FAME",
       "codename": "FAME",
       "model": "FAME"
@@ -174,6 +204,12 @@
       "market_name": "FEVER_PLUS_H",
       "codename": "FEVER_PLUS_H",
       "model": "FEVER_PLUS_H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FORCE",
+      "codename": "FORCE",
+      "model": "FORCE"
     },
     {
       "manufacturer": "",
@@ -249,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LEGEND PRO_1",
+      "codename": "LEGEND_PRO_1",
+      "model": "LEGEND PRO_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LEGEND_MAX_LTE",
       "codename": "LEGEND_MAX",
       "model": "LEGEND MAX"
@@ -258,6 +300,18 @@
       "market_name": "Legend",
       "codename": "Legend",
       "model": "Legend"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Legend Pro LTE",
+      "codename": "Legend_Pro_LTE",
+      "model": "Legend Pro LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Legend_Max_2",
+      "codename": "Legend_Max_2",
+      "model": "Legend Max_2"
     },
     {
       "manufacturer": "",
@@ -324,6 +378,12 @@
       "market_name": "NEO_1",
       "codename": "NEO_1",
       "model": "NEO_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neo_Plus",
+      "codename": "Neo_Plus",
+      "model": "Neo_Plus"
     },
     {
       "manufacturer": "",
@@ -420,6 +480,12 @@
       "market_name": "R7",
       "codename": "R7_1",
       "model": "R7_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R7_2",
+      "codename": "R7_2",
+      "model": "R7_2"
     },
     {
       "manufacturer": "",

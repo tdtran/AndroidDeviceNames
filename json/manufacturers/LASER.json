@@ -120,6 +120,12 @@
       "market_name": "MID_789IPSA100",
       "codename": "MID_789IPSA100",
       "model": "MID_789IPSA100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_799IPS",
+      "codename": "MID_799IPS",
+      "model": "MID_799IPS"
     }
   ]
 }

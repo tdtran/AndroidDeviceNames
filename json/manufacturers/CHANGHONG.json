@@ -27,12 +27,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Korea",
-      "codename": "sindorim",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
       "market_name": "L32H7",
       "codename": "ikebukuro",
       "model": "AI PONT"
@@ -70,6 +64,12 @@
     {
       "manufacturer": "",
       "market_name": "U58H7",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UHD Android TV",
       "codename": "sindorim",
       "model": "AI PONT"
     }

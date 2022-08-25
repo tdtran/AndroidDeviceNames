@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "SSmooth",
+    "market_name": "Smooth 6.5",
+    "codename": "Smooth6_5",
+    "model": "Smooth 6.5"
+  },
+  {
+    "manufacturer": "SSmooth",
     "market_name": "Smooth6_5",
     "codename": "Smooth6_5",
     "model": "Smooth 6.5"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "P501",
+    "codename": "Z3052O",
+    "model": "P501"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE A31 Lite",
     "codename": "Z3052O",
     "model": "ZTE A31 Lite"

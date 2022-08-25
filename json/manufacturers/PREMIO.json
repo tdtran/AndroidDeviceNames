@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EA07B00001H",
+      "codename": "EA07B00001H",
+      "model": "EA07B00001H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EA07C00001H",
+      "codename": "EA07C00001H",
+      "model": "EA07C00001H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEON_RAY_2",
       "codename": "X82",
       "model": "X82"
@@ -171,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S75",
+      "codename": "S75",
+      "model": "S75"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S80",
       "codename": "S80",
       "model": "S80"
@@ -213,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S88",
+      "codename": "S88",
+      "model": "S88"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "T1",
       "model": "T1"
@@ -222,6 +246,18 @@
       "market_name": "X1",
       "codename": "186HS2080531",
       "model": "186HS2080531"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X70-2021",
+      "codename": "X70-2021",
+      "model": "X70-2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X75",
+      "codename": "X75",
+      "model": "X75"
     },
     {
       "manufacturer": "",
@@ -276,6 +312,12 @@
       "market_name": "X88",
       "codename": "X88",
       "model": "X88"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X90",
+      "codename": "X90",
+      "model": "X90"
     }
   ]
 }

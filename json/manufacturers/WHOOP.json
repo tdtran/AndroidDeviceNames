@@ -1,0 +1,17 @@
+{
+  "manufacturer": "WHOOP",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TAB-8US2",
+      "codename": "TAB-8US2",
+      "model": "TAB-8US2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_8US1",
+      "codename": "TAB_8US1",
+      "model": "TAB_8US1"
+    }
+  ]
+}

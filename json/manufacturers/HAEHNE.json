@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A863K_EEA",
+      "codename": "A863K_EEA",
+      "model": "HAEHNE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HAEHNE_M7",
       "codename": "HAEHNE_M7",
       "model": "M7"

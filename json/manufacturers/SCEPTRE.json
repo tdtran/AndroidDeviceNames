@@ -3,27 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "A322BV-SRC",
-      "codename": "kanda",
-      "model": "2K Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Sceptre",
+      "market_name": "4K Smart TV",
       "codename": "gangbyeon",
       "model": "4K Smart TV"
     },
     {
       "manufacturer": "",
-      "market_name": "TATUNG",
+      "market_name": "4K Smart TV",
       "codename": "gangbyeon",
       "model": "TATUNG 4K AI Smart TV"
     },
     {
       "manufacturer": "",
-      "market_name": "imiia",
+      "market_name": "4K Smart TV",
       "codename": "gangbyeon",
       "model": "imiia 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "kanda",
+      "model": "2K Smart TV"
     }
   ]
 }

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "TCL",
+    "market_name": "C06_2K_GB",
+    "codename": "C06",
+    "model": "Smart TV"
+  },
+  {
+    "manufacturer": "TCL",
     "market_name": "C06_2K_US",
     "codename": "C06",
     "model": "Smart TV"

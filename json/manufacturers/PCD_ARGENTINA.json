@@ -15,9 +15,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P41",
+      "codename": "P41",
+      "model": "P41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50",
+      "codename": "P50",
+      "model": "P50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P55",
       "codename": "P55",
       "model": "P55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P60 CENAM",
+      "codename": "P60_CENAM",
+      "model": "P60 CENAM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P60_CA",
+      "codename": "P60_CA",
+      "model": "P60_CA"
     },
     {
       "manufacturer": "",

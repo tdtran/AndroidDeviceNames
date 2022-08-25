@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ADVAN_SKETSA_2",
+      "codename": "ADVAN_SKETSA_2",
+      "model": "ADVAN 1011"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E1C",
       "codename": "ADVAN_E1C_3G",
       "model": "E1C_3G"

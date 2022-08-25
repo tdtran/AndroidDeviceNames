@@ -21,8 +21,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MediaPad C8",
+      "codename": "HC8",
+      "model": "C8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MediaPadP8",
       "codename": "P8",
+      "model": "P8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8",
+      "codename": "HP8",
       "model": "P8"
     },
     {

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G860",
+      "codename": "G860",
+      "model": "G860"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GO Onyx",
       "codename": "GO_Onyx_LTE",
       "model": "GO Onyx LTE"

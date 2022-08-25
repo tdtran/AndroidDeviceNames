@@ -4,5 +4,11 @@
     "market_name": "K15 Plus",
     "codename": "K15_Plus",
     "model": "K15_Plus"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "K15_Plus_RU",
+    "codename": "K15_Plus",
+    "model": "K15_Plus"
   }
 ]

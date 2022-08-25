@@ -6,6 +6,18 @@
       "market_name": "K-ELEC",
       "codename": "bangbae",
       "model": "K-Elec 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KELEC",
+      "codename": "stanford",
+      "model": "40D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KELEC",
+      "codename": "zhongshan",
+      "model": "43F"
     }
   ]
 }

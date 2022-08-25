@@ -12,6 +12,24 @@
       "market_name": "J9S",
       "codename": "J9S",
       "model": "J9S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JESY J20",
+      "codename": "JESY_J20",
+      "model": "JESY J20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JESY K1",
+      "codename": "JESY_K1",
+      "model": "JESY K1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JESY_K1",
+      "codename": "JESY_K1",
+      "model": "JESY_K1"
     }
   ]
 }

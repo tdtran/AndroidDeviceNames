@@ -489,6 +489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C1 2nd Edition",
+      "codename": "IRU",
+      "model": "Nokia C1 2nd Edition"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C1 Plus",
       "codename": "YDU",
       "model": "Nokia C1 Plus"
@@ -513,6 +519,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C2 2nd Edition",
+      "codename": "DMN",
+      "model": "Nokia C2 2nd Edition"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C2 Tennen",
       "codename": "ARV_CUS",
       "model": "Nokia C2 Tennen"
@@ -525,9 +537,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C20 Plus",
+      "codename": "SUS",
+      "model": "Nokia C20 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C21",
+      "codename": "COR",
+      "model": "Nokia C21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C21 Plus",
+      "codename": "HPE",
+      "model": "Hope"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C21 Plus",
+      "codename": "HPE",
+      "model": "Nokia C21 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C3",
       "codename": "GMR",
       "model": "Nokia C3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C30",
+      "codename": "MNI",
+      "model": "Nokia C30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C30",
+      "codename": "MNR",
+      "model": "Nokia C30"
     },
     {
       "manufacturer": "",
@@ -549,6 +597,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia G11",
+      "codename": "SCT_sprout",
+      "model": "Nokia G11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G11 Plus",
+      "codename": "MGKA",
+      "model": "Nokia G11 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G11 Plus",
+      "codename": "MGKA_sprout",
+      "model": "Nokia G11 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia G20",
       "codename": "RNN",
       "model": "Nokia G20"
@@ -564,6 +630,30 @@
       "market_name": "Nokia G20",
       "codename": "RNN_sprout",
       "model": "Nokia G20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G21",
+      "codename": "SCP",
+      "model": "Nokia G21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G21",
+      "codename": "SCPA_sprout",
+      "model": "Nokia G21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G21",
+      "codename": "SCP_sprout",
+      "model": "Nokia G21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G300",
+      "codename": "AKT",
+      "model": "N1374DL"
     },
     {
       "manufacturer": "",
@@ -591,6 +681,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia T20",
+      "codename": "RDDCN",
+      "model": "Nokia T20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia X10",
       "codename": "SCW",
       "model": "Nokia X10"
@@ -600,6 +696,12 @@
       "market_name": "Nokia X10",
       "codename": "SCW_sprout",
       "model": "Nokia X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X100",
+      "codename": "DM5",
+      "model": "Nokia X100"
     },
     {
       "manufacturer": "",
@@ -654,6 +756,24 @@
       "market_name": "R4",
       "codename": "R4",
       "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     }
   ]
 }

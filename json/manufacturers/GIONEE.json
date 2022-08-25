@@ -633,6 +633,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P16",
+      "codename": "P16",
+      "model": "P16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P2M",
       "codename": "GiONEE_WBW5612",
       "model": "P2M"

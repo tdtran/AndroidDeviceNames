@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TAG-Pluto-TAB",
+      "codename": "TAG-Pluto-TAB",
+      "model": "TAG-Pluto-TAB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAGPhone",
       "codename": "TAGPhone",
       "model": "TAGPhone"

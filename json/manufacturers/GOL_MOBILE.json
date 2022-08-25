@@ -66,6 +66,12 @@
       "market_name": "Team_7",
       "codename": "Team_7",
       "model": "Team 7.0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Team_7_Plus",
+      "codename": "Team_7_Plus",
+      "model": "Team_7_Plus"
     }
   ]
 }

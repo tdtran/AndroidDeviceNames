@@ -1,0 +1,11 @@
+{
+  "manufacturer": "stc myhome",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "myHome",
+      "codename": "SEI560STC",
+      "model": "myHome"
+    }
+  ]
+}

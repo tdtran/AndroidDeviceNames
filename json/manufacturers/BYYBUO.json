@@ -1,0 +1,23 @@
+{
+  "manufacturer": "BYYBUO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BYYBUO_SmartPad_A10",
+      "codename": "BYYBUO_SmartPad_A10",
+      "model": "BYYBUO_SmartPad_A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BYYBUO_SmartPad_T10",
+      "codename": "BYYBUO_SmartPad_T10",
+      "model": "BYYBUO_SmartPad_T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartPad_K7",
+      "codename": "SmartPad_K7",
+      "model": "SmartPad_K7"
+    }
+  ]
+}

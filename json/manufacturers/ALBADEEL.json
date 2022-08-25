@@ -12,6 +12,18 @@
       "market_name": "B725U",
       "codename": "ikebukuro",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     }
   ]
 }

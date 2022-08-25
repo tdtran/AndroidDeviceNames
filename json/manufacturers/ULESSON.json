@@ -1,0 +1,11 @@
+{
+  "manufacturer": "uLesson",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "uLesson_Education_Tab",
+      "codename": "uLesson_Education_Tab",
+      "model": "uLesson_Education_Tab"
+    }
+  ]
+}

@@ -5499,6 +5499,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Ultra Tab",
+      "codename": "jettalt",
+      "model": "10A30Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG V35 ThinQ",
       "codename": "judyp",
       "model": "LM-V350"

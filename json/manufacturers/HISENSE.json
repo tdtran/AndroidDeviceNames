@@ -327,6 +327,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A36",
+      "codename": "songshan",
+      "model": "2K Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A5",
       "codename": "HLTE202N",
       "model": "HLTE202N"
@@ -336,6 +342,24 @@
       "market_name": "A5 Pro",
       "codename": "HLTE203T",
       "model": "HLTE203T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55",
+      "codename": "songshan",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A65",
+      "codename": "songshan",
+      "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
+      "codename": "songshan",
+      "model": "SmartTV 4K FFM"
     },
     {
       "manufacturer": "",
@@ -510,18 +534,6 @@
       "market_name": "CMB510",
       "codename": "L696",
       "model": "CMB510"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Core-T5",
-      "codename": "L820",
-      "model": "Core-T4 Neo"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Core-T5",
-      "codename": "L820",
-      "model": "Core-T5"
     },
     {
       "manufacturer": "",
@@ -1755,6 +1767,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense E20S",
+      "codename": "HLTE103E_40",
+      "model": "Hisense E20s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E20s",
+      "codename": "HLTE103E_41",
+      "model": "Hisense E20s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense E30",
       "codename": "HS6763MT",
       "model": "HLTE220E"
@@ -1881,6 +1905,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense E50 128G",
+      "codename": "HLTE232E_21",
+      "model": "Hisense E50 128G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense E50 Lite",
       "codename": "HLTE228E",
       "model": "Hisense E50 Lite"
@@ -1926,6 +1956,36 @@
       "market_name": "Hisense E50 Lite 64G",
       "codename": "HLTE228E_20",
       "model": "Hisense E50 Lite 64GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E50 Lite 64G",
+      "codename": "HLTE228E_21",
+      "model": "Hisense E50 Lite 64GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E50 Lite 64GB",
+      "codename": "HLTE228E_22",
+      "model": "Hisense E50 Lite 64GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E60 Lite",
+      "codename": "HLTE235E",
+      "model": "Hisense E60 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E60 Lite",
+      "codename": "HLTE235E_12",
+      "model": "Hisense E60 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E60 Lite",
+      "codename": "HLTE235E_20",
+      "model": "Hisense E60 Lite"
     },
     {
       "manufacturer": "",
@@ -2097,6 +2157,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense H60 Smart",
+      "codename": "HLTE240E",
+      "model": "Hisense H60 Smart"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense Infinity E30 Lite",
       "codename": "SC9832E",
       "model": "Hisense Infinity E30 Lite"
@@ -2157,6 +2223,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense Infinity H50S 5G",
+      "codename": "HNR500E",
+      "model": "Hisense Infinity H50S 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense Infinity H50S 5G",
+      "codename": "HNR500E_02",
+      "model": "Hisense Infinity H50S 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense Infinity H50S 5G",
+      "codename": "HNR500E_03",
+      "model": "Hisense Infinity H50S 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense Infinity H60 5G",
+      "codename": "HNR510E",
+      "model": "Hisense Infinity H60 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense M36",
       "codename": "HS8909QC",
       "model": "Hisense M36"
@@ -2211,6 +2301,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense U30",
+      "codename": "HLTE106E_30",
+      "model": "Hisense U30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U30",
+      "codename": "HLTE106E_31",
+      "model": "Hisense U30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U30 32GB",
+      "codename": "HLTE106E_40",
+      "model": "Hisense U30 32GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U30 32GB",
+      "codename": "HLTE106E_41",
+      "model": "Hisense U30 32GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense U40",
       "codename": "HLTE103E_30",
       "model": "Hisense U40"
@@ -2249,6 +2363,12 @@
       "manufacturer": "",
       "market_name": "Hisense U50",
       "codename": "HLTE222E_01",
+      "model": "Hisense U50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U50",
+      "codename": "HLTE222E_02",
       "model": "Hisense U50"
     },
     {
@@ -2332,6 +2452,30 @@
     {
       "manufacturer": "",
       "market_name": "Hisense U964",
+      "codename": "HLTE106E_01",
+      "model": "Hisense E32 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HLTE106E_01",
+      "model": "Hisense U964"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HLTE106E_02",
+      "model": "Hisense E32 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HLTE106E_02",
+      "model": "Hisense U964"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
       "codename": "HS7731ESP",
       "model": "HWCD100E"
     },
@@ -2382,6 +2526,18 @@
       "market_name": "Hisense V40",
       "codename": "HLTE229E_14",
       "model": "Hisense V40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense V40S",
+      "codename": "HLTE229E_30",
+      "model": "Hisense V40S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense V40S",
+      "codename": "HLTE229E_30",
+      "model": "Hisense V40s"
     },
     {
       "manufacturer": "",
@@ -3639,6 +3795,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U60H",
+      "codename": "songshan",
+      "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U610",
       "codename": "U610",
       "model": "HS-U610"
@@ -3660,6 +3822,24 @@
       "market_name": "U688BE",
       "codename": "MSM8212",
       "model": "HS-U688"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6H",
+      "codename": "songshan",
+      "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6H/A6H/U6G1",
+      "codename": "songshan",
+      "model": "SmartTV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U70H/U8H/U80H/U85H",
+      "codename": "wuyishan",
+      "model": "SmartTV 4K FFM"
     },
     {
       "manufacturer": "",
@@ -3803,6 +3983,12 @@
       "manufacturer": "",
       "market_name": "VIDAA_TV",
       "codename": "MSD6A938",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "MT9669",
       "model": "VIDAA_TV"
     },
     {
@@ -4062,6 +4248,12 @@
       "market_name": "lt971",
       "codename": "LT971",
       "model": "LT971"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "songshan",
+      "codename": "songshan",
+      "model": "SmartTV 4K"
     },
     {
       "manufacturer": "",

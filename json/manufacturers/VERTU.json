@@ -60,6 +60,12 @@
       "market_name": "VTL-202101",
       "codename": "VTL-202101",
       "model": "VTL-202101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VTL-202201",
+      "codename": "VTL-202201",
+      "model": "VTL-202201"
     }
   ]
 }

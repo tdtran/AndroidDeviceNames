@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S1582C",
+      "codename": "S1582C",
+      "model": "S1582C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S1587K",
+      "codename": "S1587K",
+      "model": "S1587K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SS5214G",
       "codename": "SS5214G",
       "model": "SS5214G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS5314G",
+      "codename": "SS5314G",
+      "model": "SS5314G"
     },
     {
       "manufacturer": "",
@@ -15,9 +33,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SS5424G",
+      "codename": "SS5424G",
+      "model": "SS5424G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SS5514G",
       "codename": "SS5514G",
       "model": "SS5514G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS5524G",
+      "codename": "SS5524G",
+      "model": "SS5524G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS5539G",
+      "codename": "SS5539G",
+      "model": "SS5539G"
     }
   ]
 }

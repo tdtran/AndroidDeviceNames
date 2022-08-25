@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLACK_PRO",
       "codename": "BLACK_PRO",
       "model": "BLACK_PRO"
@@ -36,6 +48,24 @@
       "market_name": "Black G",
       "codename": "Black_G",
       "model": "Black G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Black_G_2",
+      "codename": "Black_G_2",
+      "model": "Black_G_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Black_X",
+      "codename": "Black_X",
+      "model": "Black X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Black_Z",
+      "codename": "Black_Z",
+      "model": "Black_Z"
     },
     {
       "manufacturer": "",
@@ -114,6 +144,12 @@
       "market_name": "Silver P5",
       "codename": "P5",
       "model": "P5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Silver_Max_Pro_2",
+      "codename": "Silver_Max_Pro_2",
+      "model": "Silver_Max_Pro_2"
     },
     {
       "manufacturer": "",

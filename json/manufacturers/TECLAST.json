@@ -21,6 +21,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M40 Pro_EEA",
+      "codename": "M40Pro_A_EEA",
+      "model": "M40 Pro_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40 Pro_ROW",
+      "codename": "M40Pro_A_ROW",
+      "model": "M40 Pro_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40 Pro_RUS",
+      "codename": "M40Pro_A_RU",
+      "model": "M40 Pro_RUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40Air_EEA",
+      "codename": "M40Air",
+      "model": "M40Air_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40Air_ROW",
+      "codename": "M40Air",
+      "model": "M40Air_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M40Pro_EEA",
       "codename": "M40Pro_EEA",
       "model": "M40Pro_EEA"
@@ -54,6 +84,18 @@
       "market_name": "M40SE_ROW",
       "codename": "M40SE",
       "model": "M40SE_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40SE_Y_EEA",
+      "codename": "M40SE_Y_EEA",
+      "model": "M40SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40SE_Y_ROW",
+      "codename": "M40SE_Y_ROW",
+      "model": "M40SE"
     },
     {
       "manufacturer": "",
@@ -147,6 +189,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P20S_EEA",
+      "codename": "P20S_EEA",
+      "model": "P20S_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20S_ROW",
+      "codename": "P20S_ROW",
+      "model": "P20S_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P20_EEA",
       "codename": "P20_EEA",
       "model": "P20_EEA"
@@ -177,6 +231,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P25_RUS",
+      "codename": "P25_RUS",
+      "model": "P25_RUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30Air_ROW",
+      "codename": "P30Air_ROW",
+      "model": "P30Air_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30HD",
+      "codename": "P30HD",
+      "model": "P30HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30HD",
+      "codename": "P30HD",
+      "model": "P30HD_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30HD_ROW",
+      "codename": "P30HD",
+      "model": "P30HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30HD_ROW",
+      "codename": "P30HD",
+      "model": "P30HD_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30HD_RU",
+      "codename": "P30HD",
+      "model": "P30HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P80X",
       "codename": "P80X",
       "model": "P80X"
@@ -196,6 +292,12 @@
     {
       "manufacturer": "",
       "market_name": "P80_EEA",
+      "codename": "P80",
+      "model": "P80_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80_EEA",
       "codename": "P80_EEA",
       "model": "P80_EEA"
     },
@@ -210,6 +312,12 @@
       "market_name": "P80_KOR",
       "codename": "P80_KOR",
       "model": "P80_KOR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80_ROW",
+      "codename": "P80",
+      "model": "P80_ROW"
     },
     {
       "manufacturer": "",
@@ -255,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P85_RUS",
+      "codename": "P85_RUS",
+      "model": "P85_RUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T30_EEA",
       "codename": "T30",
       "model": "T30_EEA"
@@ -276,6 +390,36 @@
       "market_name": "T40",
       "codename": "T40",
       "model": "TLA001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40 Pro_EEA",
+      "codename": "T40Pro_A",
+      "model": "T40 Pro_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40 Pro_ROW",
+      "codename": "T40Pro_A",
+      "model": "T40 Pro_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40 Pro_RUS",
+      "codename": "T40Pro_A",
+      "model": "T40 Pro_RUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Air_EEA",
+      "codename": "T40Air",
+      "model": "T40Air_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Pro",
+      "codename": "Teclast_T40Pro",
+      "model": "T40 PRO_ROW"
     },
     {
       "manufacturer": "",
@@ -306,6 +450,30 @@
       "market_name": "T40Pro_RU",
       "codename": "Teclast_T40Pro_RU",
       "model": "T40Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Pro_RUS",
+      "codename": "T40Pro_RUS",
+      "model": "T40Pro_RUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Pro_YKM_EEA",
+      "codename": "T40Pro_YKM_EEA",
+      "model": "T40Pro_YKM_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Pro_YKM_ROW",
+      "codename": "T40Pro_YKM_ROW",
+      "model": "T40Pro_YKM_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Pro_YKM_RUS",
+      "codename": "T40Pro_YKM_RUS",
+      "model": "T40Pro_YKM_RUS"
     },
     {
       "manufacturer": "",
@@ -348,6 +516,12 @@
       "market_name": "T50",
       "codename": "Teclast_T50_RUS",
       "model": "T50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50Air_EEA",
+      "codename": "T50Air",
+      "model": "T50Air_EEA"
     },
     {
       "manufacturer": "",

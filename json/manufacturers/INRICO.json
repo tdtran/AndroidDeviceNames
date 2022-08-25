@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Inrico",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IRC200",
+      "codename": "IRC200",
+      "model": "Intelligent_Multi-mode_Radio"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRC200EU",
+      "codename": "IRC200EU",
+      "model": "Intelligent_Multi-mode_Radio"
+    }
+  ]
+}

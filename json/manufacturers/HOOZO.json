@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MBR05_EEA",
+      "codename": "MBR05_EEA",
+      "model": "MBR05_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MR768",
       "codename": "MR768",
       "model": "MR768"
@@ -54,6 +60,18 @@
       "market_name": "MR7863",
       "codename": "MR7863",
       "model": "MR7863"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MTP30",
+      "codename": "MTP30",
+      "model": "MTP30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MTP30_EEA",
+      "codename": "MTP30_EEA",
+      "model": "MTP30_EEA"
     },
     {
       "manufacturer": "",

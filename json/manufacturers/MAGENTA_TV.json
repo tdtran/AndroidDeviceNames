@@ -6,6 +6,18 @@
       "market_name": "MagentaTV ONE",
       "codename": "HY44G",
       "model": "MagentaTV ONE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV Box",
+      "codename": "HY44G",
+      "model": "TV Box"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV box",
+      "codename": "HY44G",
+      "model": "TV Box"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "OneTabPro2",
+      "codename": "OneTabPro2",
+      "model": "OneTabPro2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OneTabProMate",
       "codename": "OneTabProMate",
       "model": "OneTabProMate"

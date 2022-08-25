@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D00",
+      "codename": "Dubai",
+      "model": "D00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One",
       "codename": "A0001",
       "model": "A0001"
@@ -39,6 +45,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus 10 Pro",
+      "codename": "OP516EL1",
+      "model": "NE2210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 10 Pro 5G",
+      "codename": "OP516FL1",
+      "model": "NE2211"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 10 Pro 5G",
+      "codename": "OP516FL1",
+      "model": "NE2213"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 10 Pro 5G",
+      "codename": "OP516FL1",
+      "model": "NE2215"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 10 Pro 5G",
+      "codename": "OP516FL1",
+      "model": "NE2217"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 10R 5G",
+      "codename": "OP5566L1",
+      "model": "CPH2411"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 10R 5G",
+      "codename": "OP5567L1",
+      "model": "CPH2423"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus 6",
       "codename": "OnePlus6",
       "model": "ONEPLUS A6000"
@@ -48,6 +96,24 @@
       "market_name": "OnePlus 6",
       "codename": "OnePlus6",
       "model": "ONEPLUS A6003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7",
+      "codename": "OnePlus7",
+      "model": "GM1900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7",
+      "codename": "OnePlus7",
+      "model": "GM1901"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7",
+      "codename": "OnePlus7",
+      "model": "GM1903"
     },
     {
       "manufacturer": "",
@@ -71,6 +137,18 @@
       "manufacturer": "",
       "market_name": "OnePlus 7 Pro",
       "codename": "OnePlus7Pro",
+      "model": "GM1911"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7 Pro",
+      "codename": "OnePlus7Pro",
+      "model": "GM1913"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7 Pro",
+      "codename": "OnePlus7Pro",
       "model": "GM1917"
     },
     {
@@ -89,6 +167,24 @@
       "manufacturer": "",
       "market_name": "OnePlus 7T",
       "codename": "OnePlus7T",
+      "model": "HD1900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T",
+      "codename": "OnePlus7T",
+      "model": "HD1901"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T",
+      "codename": "OnePlus7T",
+      "model": "HD1903"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T",
+      "codename": "OnePlus7T",
       "model": "HD1905"
     },
     {
@@ -96,6 +192,18 @@
       "market_name": "OnePlus 7T",
       "codename": "OnePlus7TTMO",
       "model": "HD1907"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T Pro",
+      "codename": "OnePlus7TPro",
+      "model": "HD1910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T Pro",
+      "codename": "OnePlus7TPro",
+      "model": "HD1911"
     },
     {
       "manufacturer": "",
@@ -119,7 +227,19 @@
       "manufacturer": "",
       "market_name": "OnePlus 8",
       "codename": "OnePlus8",
+      "model": "IN2011"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8",
+      "codename": "OnePlus8",
       "model": "IN2013"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8",
+      "codename": "OnePlus8",
+      "model": "IN2015"
     },
     {
       "manufacturer": "",
@@ -143,7 +263,43 @@
       "manufacturer": "",
       "market_name": "OnePlus 8 Pro",
       "codename": "OnePlus8Pro",
+      "model": "IN2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8 Pro",
+      "codename": "OnePlus8Pro",
+      "model": "IN2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8 Pro",
+      "codename": "OnePlus8Pro",
       "model": "IN2023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8 Pro",
+      "codename": "OnePlus8Pro",
+      "model": "IN2025"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8T",
+      "codename": "OnePlus8T",
+      "model": "KB2000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8T",
+      "codename": "OnePlus8T",
+      "model": "KB2001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8T",
+      "codename": "OnePlus8T",
+      "model": "KB2003"
     },
     {
       "manufacturer": "",
@@ -243,6 +399,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus 9RT 5G",
+      "codename": "OP5155L1",
+      "model": "MT2111"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Ace",
+      "codename": "OP5565",
+      "model": "PGKM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Ace 竞速版",
+      "codename": "OP5911",
+      "model": "PGZ110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus Nord",
       "codename": "Nord",
       "model": "AC2001"
@@ -252,6 +426,36 @@
       "market_name": "OnePlus Nord",
       "codename": "Nord",
       "model": "AC2003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord 2T 5G",
+      "codename": "OP557AL1",
+      "model": "CPH2399"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord 2T 5G",
+      "codename": "OP557AL1",
+      "model": "CPH2401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord CE 2",
+      "codename": "OP555BL1",
+      "model": "IV2201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord CE 2 Lite 5G",
+      "codename": "OP535DL1",
+      "model": "CPH2381"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord CE 2 Lite 5G",
+      "codename": "OP535DL1",
+      "model": "CPH2409"
     },
     {
       "manufacturer": "",
@@ -336,6 +540,18 @@
       "market_name": "OnePlus Nord N100",
       "codename": "OnePlusN100TMO",
       "model": "BE2013"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord N20 5G",
+      "codename": "OP5159L1",
+      "model": "CPH2459"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord N20 5G",
+      "codename": "OP515AL1",
+      "model": "GN2200"
     },
     {
       "manufacturer": "",

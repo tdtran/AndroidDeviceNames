@@ -117,9 +117,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAX2",
+      "codename": "MAX2",
+      "model": "MAX2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAX2 PLUS",
       "codename": "MAX2_PLUS",
       "model": "MAX2 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAX_2_Ultra",
+      "codename": "MAX_2_Ultra",
+      "model": "MAX_2_Ultra"
     }
   ]
 }

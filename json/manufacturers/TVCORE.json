@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TVCore",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TV Stick",
+      "codename": "ts401",
+      "model": "TV Stick"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ts401l",
+      "codename": "ts401",
+      "model": "TV StickL"
+    }
+  ]
+}

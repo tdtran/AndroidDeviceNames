@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EKO",
+      "codename": "shilin",
+      "model": "EKO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO",
+      "codename": "zhongshan",
+      "model": "EKO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EKO OMEGA LTE Q60",
       "codename": "EKO_OMEGA_LTE_Q60",
       "model": "EKO OMEGA LTE Q60"
@@ -66,6 +78,30 @@
       "market_name": "EKO android TV ISDB",
       "codename": "hanyang",
       "model": "EKO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "EKO 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eko",
+      "codename": "stanford",
+      "model": "EKO 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "bruno",
+      "model": "EKO 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KATV10",
+      "codename": "ICN",
+      "model": "KATV10"
     },
     {
       "manufacturer": "",

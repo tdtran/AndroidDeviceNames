@@ -6,6 +6,12 @@
       "market_name": "ID Screen",
       "codename": "ID_Screen",
       "model": "MPH-MB003A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ID Screen 60",
+      "codename": "ID_Screen_60",
+      "model": "MPH-MB004A"
     }
   ]
 }

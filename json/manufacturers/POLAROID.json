@@ -478,6 +478,12 @@
     {
       "manufacturer": "",
       "market_name": "Polaroid",
+      "codename": "bruno",
+      "model": "Polaroid 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polaroid",
       "codename": "ewha",
       "model": "POLA-TVE19K"
     },
@@ -486,6 +492,18 @@
       "market_name": "Polaroid",
       "codename": "komagome",
       "model": "Polaroid 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polaroid 2K Android TV",
+      "codename": "lasalle",
+      "model": "Polaroid 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polaroid 4K Android TV",
+      "codename": "kenton",
+      "model": "Polaroid 4K Android TV"
     },
     {
       "manufacturer": "",

@@ -129,9 +129,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S35",
+      "codename": "S35H",
+      "model": "S35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S35Pro",
       "codename": "S35Pro",
       "model": "S35Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S35T",
+      "codename": "S35T",
+      "model": "S35T"
     },
     {
       "manufacturer": "",
@@ -162,6 +174,12 @@
       "market_name": "S50",
       "codename": "t758_dg_m3t_n",
       "model": "S50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S51",
+      "codename": "S51",
+      "model": "S51"
     },
     {
       "manufacturer": "",
@@ -210,6 +228,18 @@
       "market_name": "S60Lite",
       "codename": "S60Lite",
       "model": "S60Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S61",
+      "codename": "S61",
+      "model": "S61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S61Pro",
+      "codename": "M19H",
+      "model": "S61Pro"
     },
     {
       "manufacturer": "",
@@ -267,6 +297,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S89",
+      "codename": "S89",
+      "model": "S89"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S89Pro",
+      "codename": "S89Pro",
+      "model": "S89Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S90C",
       "codename": "S90C",
       "model": "S90C"
@@ -297,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S96GT",
+      "codename": "S96Pro",
+      "model": "S96GT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S96Pro",
       "codename": "S96Pro",
       "model": "S96Pro"
@@ -312,6 +360,18 @@
       "market_name": "S97Pro_RU",
       "codename": "S97Pro",
       "model": "S97Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S98",
+      "codename": "S98",
+      "model": "S98"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S98Pro",
+      "codename": "S98Pro",
+      "model": "S98Pro"
     },
     {
       "manufacturer": "",
@@ -336,6 +396,18 @@
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V10",
+      "codename": "V10",
+      "model": "V11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V20",
+      "codename": "V20",
+      "model": "V20"
     },
     {
       "manufacturer": "",
@@ -543,9 +615,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X96",
+      "codename": "X96T",
+      "model": "X96"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X96Pro",
       "codename": "X96Pro",
       "model": "X96Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X96Pro",
+      "codename": "X96ProT",
+      "model": "X96Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X97",
+      "codename": "1917",
+      "model": "X97"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X97Pro",
+      "codename": "X97Pro",
+      "model": "X97Pro"
     },
     {
       "manufacturer": "",

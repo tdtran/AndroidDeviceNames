@@ -24,6 +24,18 @@
     "model": "ATV R1"
   },
   {
+    "manufacturer": "BOREAL",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "BOTECH",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
     "manufacturer": "Brookstone",
     "market_name": "Android TV",
     "codename": "R1",
@@ -61,6 +73,12 @@
   },
   {
     "manufacturer": "Denka",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "EVVO",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"
@@ -145,6 +163,12 @@
   },
   {
     "manufacturer": "Micromax",
+    "market_name": "ATV R1",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "Micromax",
     "market_name": "R1",
     "codename": "R1",
     "model": "ATV R1"
@@ -157,6 +181,12 @@
   },
   {
     "manufacturer": "Mystic",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "manufacturer": "NGM Italia SRL",
     "market_name": "Android TV",
     "codename": "R1",
     "model": "ATV R1"

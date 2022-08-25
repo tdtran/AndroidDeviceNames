@@ -46,8 +46,20 @@
     {
       "manufacturer": "",
       "market_name": "A-DA",
+      "codename": "yebisuCA",
+      "model": "MY21ADA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A-DA",
       "codename": "yebisuDA",
       "model": "MY21ADA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A-DA",
+      "codename": "yebisuFA",
+      "model": "MY22ADA"
     },
     {
       "manufacturer": "",
@@ -57,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A-DA",
+      "codename": "yebisuHA",
+      "model": "MY22ADA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Accord",
       "codename": "koelsch",
       "model": "MY16ADA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gathers",
+      "codename": "pl0a",
+      "model": "22M Gathers"
     },
     {
       "manufacturer": "",

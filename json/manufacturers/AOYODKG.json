@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A7",
+      "codename": "A7",
+      "model": "A7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50",
       "codename": "M50",
       "model": "M50"
@@ -24,6 +30,12 @@
       "market_name": "M50_EEA",
       "codename": "M50_EEA",
       "model": "M50_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-A8",
+      "codename": "TAB-A8",
+      "model": "TAB-A8"
     }
   ]
 }

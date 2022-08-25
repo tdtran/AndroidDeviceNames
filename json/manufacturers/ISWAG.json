@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MATRIX",
+      "codename": "ISWAG_MATRIX",
+      "model": "ISWAG MATRIX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEO",
       "codename": "ISWAG_NEO",
       "model": "ISWAG NEO"

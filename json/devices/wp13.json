@@ -4,5 +4,11 @@
     "market_name": "WP13_EEA",
     "codename": "WP13",
     "model": "WP13"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "WP13_RU",
+    "codename": "WP13",
+    "model": "WP13"
   }
 ]

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Astro 4R",
+      "codename": "Astro_4R",
+      "model": "Astro 4R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astro 5 Go LTE",
       "codename": "Astro_5_GO_LTE",
       "model": "Astro_5_GO_LTE"
@@ -18,6 +24,12 @@
       "market_name": "Astro 5 PRO",
       "codename": "Astro_5_PRO",
       "model": "Astro 5 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 55T",
+      "codename": "Astro_55T",
+      "model": "Astro 55T"
     },
     {
       "manufacturer": "",
@@ -33,6 +45,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Astro 63R",
+      "codename": "Astro_63R",
+      "model": "Astro 63R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 63T",
+      "codename": "Astro_63T",
+      "model": "Astro 63T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 6M",
+      "codename": "Astro_6M",
+      "model": "Astro 6M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 6S",
+      "codename": "Astro_6S",
+      "model": "Astro_6S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 8R",
+      "codename": "Astro_8R",
+      "model": "Astro 8R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 8T",
+      "codename": "Astro_8T",
+      "model": "Astro 8T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astro_4P",
       "codename": "Astro_4P",
       "model": "Astro_4P"
@@ -45,9 +93,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Astro_55R",
+      "codename": "Astro_55R",
+      "model": "Astro 55R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astro_5X",
       "codename": "Astro_5X",
       "model": "Astro 5X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 5T",
+      "codename": "Astro_5T",
+      "model": "Astro 5T"
     },
     {
       "manufacturer": "",
@@ -117,6 +177,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nitro 55A",
+      "codename": "Nitro_55A",
+      "model": "Nitro 55A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro 55E",
+      "codename": "Nitro_55E",
+      "model": "Nitro 55E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nitro 55N",
       "codename": "Nitro_55N",
       "model": "Nitro 55N"
@@ -183,9 +255,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nitro_8",
+      "codename": "Nitro_8",
+      "model": "Nitro 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nitro_Phablet_9s",
       "codename": "Nitro_Phablet_9s",
       "model": "Nitro_Phablet_9s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ORBIT_TAB_7",
+      "codename": "ORBIT_TAB_7",
+      "model": "ORBIT TAB 7"
     },
     {
       "manufacturer": "",
@@ -210,6 +294,12 @@
       "market_name": "TAB-9G",
       "codename": "TAB-9G",
       "model": "TAB-9G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_MAX_7",
+      "codename": "TAB_MAX_7",
+      "model": "Byybuo"
     },
     {
       "manufacturer": "",

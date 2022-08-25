@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Orb_S",
+      "codename": "Gecko",
+      "model": "Orb S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "dingo",
       "codename": "Dingo",
       "model": "IO 3D"

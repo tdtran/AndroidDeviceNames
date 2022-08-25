@@ -15,26 +15,26 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AIWA",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIWA",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AIWA 2K TV",
       "codename": "shinagawa",
       "model": "AIWA 2K TV"
     },
     {
       "manufacturer": "",
-      "market_name": "AW-LED32G7K",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
       "market_name": "AW-LED43GKF",
       "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "AW-LED50X6FL",
-      "codename": "samseong",
       "model": "AI PONT"
     },
     {
@@ -87,9 +87,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AWT10H",
+      "codename": "AWT10H",
+      "model": "AWT10H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aiwa",
       "codename": "KSTB6043",
       "model": "KSTB6043"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JA2-TBA1001",
+      "codename": "JA2-TBA1001",
+      "model": "JA2-TBA1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA-07-232",
+      "codename": "TA-07-232",
+      "model": "TA-07-232"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA-10-232",
+      "codename": "TA-10-232",
+      "model": "TA-10-232"
     },
     {
       "manufacturer": "",

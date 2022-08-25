@@ -18,6 +18,12 @@
       "market_name": "IRA_W801",
       "codename": "IRA_W801",
       "model": "IRA_W801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T803",
+      "codename": "T803",
+      "model": "T803"
     }
   ]
 }

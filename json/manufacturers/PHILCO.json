@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HIT P10a",
       "codename": "HIT_P10a",
       "model": "HIT P10a"
@@ -93,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PTB8R4G",
+      "codename": "PTB8R4G",
+      "model": "PTB8R4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTV40G71AGBL-VA",
       "codename": "ikebukuro",
       "model": "AI PONT"
@@ -102,6 +114,12 @@
       "market_name": "PTV55G71AGBLS-4K-VA",
       "codename": "sindorim",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philco Smart TV",
+      "codename": "sunnyvale",
+      "model": "Philco Smart TV"
     },
     {
       "manufacturer": "",
@@ -132,6 +150,12 @@
       "market_name": "TP7A4N",
       "codename": "TP7A4N",
       "model": "TP7A4N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP7A6PI",
+      "codename": "TP7A6PI",
+      "model": "TP7A6"
     }
   ]
 }

@@ -1,9 +1,21 @@
 [
   {
+    "manufacturer": "Aqua",
+    "market_name": "AQUA Android TV FF Pro",
+    "codename": "daan",
+    "model": "AQUA Android TV FF Pro"
+  },
+  {
     "manufacturer": "Haier",
     "market_name": "Haier Android TV FF Pro",
     "codename": "daan",
     "model": "Haier Android TV FF Pro"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier Android TV FF Pro ISDB",
+    "codename": "daan",
+    "model": "Haier Android TV FFProISDB"
   },
   {
     "manufacturer": "Haier",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Telas",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RKG107",
+      "codename": "RKG107",
+      "model": "RKG107"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RKG107_EEA",
+      "codename": "RKG107_EEA",
+      "model": "RKG107_EEA"
+    }
+  ]
+}

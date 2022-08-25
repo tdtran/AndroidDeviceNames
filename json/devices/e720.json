@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Caltta",
+    "market_name": "e720",
+    "codename": "e720",
+    "model": "e720"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "ONE TOUCH EVO8HD",
     "codename": "E720",

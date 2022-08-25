@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S10",
+      "codename": "S10",
+      "model": "S10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S10_EEA",
       "codename": "S10_EEA",
       "model": "S10_EEA"

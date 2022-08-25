@@ -12,6 +12,24 @@
       "market_name": "3W_US",
       "codename": "W3_US",
       "model": "3W_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W500 _EEA",
+      "codename": "W500_EEA",
+      "model": "W500_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W500_M_US",
+      "codename": "W500_M_US",
+      "model": "W500_M_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W500_US",
+      "codename": "W500_US",
+      "model": "W500_US"
     }
   ]
 }

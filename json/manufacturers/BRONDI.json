@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AMICO_SMARTPHONE_XS_EEA",
+      "codename": "AMICO_SMARTPHONE_XS",
+      "model": "AMICO SMARTPHONE XS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MIDNIGHT_SKY_EEA",
       "codename": "MIDNIGHT_SKY_EEA",
       "model": "MIDNIGHT_SKY"

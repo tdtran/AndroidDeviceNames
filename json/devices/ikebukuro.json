@@ -7,13 +7,13 @@
   },
   {
     "manufacturer": "Aiwa",
-    "market_name": "AW-LED32G7K",
+    "market_name": "AW-LED43GKF",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Aiwa",
-    "market_name": "AW-LED43GKF",
+    "market_name": "Android TV",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
@@ -200,6 +200,12 @@
   {
     "manufacturer": "OK (Mediamark)",
     "market_name": "ODL 32770H-TAB",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "Android TV",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },

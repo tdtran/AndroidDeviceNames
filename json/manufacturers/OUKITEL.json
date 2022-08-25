@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C21_Plus_EEA",
+      "codename": "C21_Plus",
+      "model": "C21 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C22",
       "codename": "C22",
       "model": "C22"
@@ -141,9 +147,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C25_RU",
+      "codename": "C25",
+      "model": "C25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C27_Pro_EEA",
       "codename": "C27_Pro",
       "model": "C27 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30",
+      "codename": "C30_EEA",
+      "model": "C30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C31_EEA",
+      "codename": "C31",
+      "model": "C31"
     },
     {
       "manufacturer": "",
@@ -214,6 +238,12 @@
     {
       "manufacturer": "",
       "market_name": "K15 Plus",
+      "codename": "K15_Plus",
+      "model": "K15_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K15_Plus_RU",
       "codename": "K15_Plus",
       "model": "K15_Plus"
     },
@@ -333,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RT1",
+      "codename": "RT1",
+      "model": "RT1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RT1_EEA",
       "codename": "RT1",
       "model": "RT1"
@@ -441,9 +477,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP13_RU",
+      "codename": "WP13",
+      "model": "WP13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP15",
       "codename": "WP15",
       "model": "WP15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP15 S",
+      "codename": "WP15_S",
+      "model": "WP15 S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP16_EEA",
+      "codename": "WP16",
+      "model": "WP16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP16_RU",
+      "codename": "WP16",
+      "model": "WP16"
     },
     {
       "manufacturer": "",
@@ -453,9 +513,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP18",
+      "codename": "WP18_EEA",
+      "model": "WP18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP18_Pro_EEA",
+      "codename": "WP18_Pro_EEA",
+      "model": "WP18 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP19_EEA",
+      "codename": "WP19",
+      "model": "WP19"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP2",
       "codename": "WP2",
       "model": "WP2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP20_EEA",
+      "codename": "WP20",
+      "model": "WP20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP20_Pro",
+      "codename": "WP20_Pro",
+      "model": "WP20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP20_Pro_EEA",
+      "codename": "WP20_Pro",
+      "model": "WP20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP20_RU",
+      "codename": "WP20",
+      "model": "WP20"
     },
     {
       "manufacturer": "",
@@ -474,6 +576,12 @@
       "market_name": "WP5000",
       "codename": "WP5000",
       "model": "WP5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP5_Pro_row",
+      "codename": "WP5_Pro",
+      "model": "WP5 Pro"
     },
     {
       "manufacturer": "",

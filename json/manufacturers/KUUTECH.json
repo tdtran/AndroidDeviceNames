@@ -1,0 +1,11 @@
+{
+  "manufacturer": "KUU-Tech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UPAD2021_EEA",
+      "codename": "UPAD2021",
+      "model": "UPad"
+    }
+  ]
+}

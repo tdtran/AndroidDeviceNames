@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I10_Pro_EEA",
+      "codename": "I10_Pro_EEA",
+      "model": "I10_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I10_Pro_ROW",
+      "codename": "I10_Pro_ROW",
+      "model": "I10_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I11",
       "codename": "I11",
       "model": "I11"
@@ -30,6 +42,18 @@
       "market_name": "I11_EEA",
       "codename": "I11_EEA",
       "model": "I11_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I9_Plus_EEA",
+      "codename": "I9_Plus_EEA",
+      "model": "I9_Plus_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I9_Plus_ROW",
+      "codename": "I9_Plus_ROW",
+      "model": "I9_Plus_ROW"
     }
   ]
 }

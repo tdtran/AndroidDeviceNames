@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "Dual",
+    "market_name": "Dual 4K Android TV",
+    "codename": "kenton",
+    "model": "Dual 4K Android TV"
+  },
+  {
+    "manufacturer": "EDENWOOD",
+    "market_name": "EDENWOOD 4K Android TV",
+    "codename": "kenton",
+    "model": "EDENWOOD 4K Android TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI 4K Android TV",
+    "codename": "kenton",
+    "model": "HYUNDAI 4K Android TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "KONKA 4K Android TV",
+    "codename": "kenton",
+    "model": "KONKA 4K Android TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "KONKA 4K Android TV-A",
+    "codename": "kenton",
+    "model": "KONKA 4K Android TV-A"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Polaroid 4K Android TV",
+    "codename": "kenton",
+    "model": "Polaroid 4K Android TV"
+  }
+]

@@ -12,6 +12,18 @@
       "market_name": "Pik TV Media Box",
       "codename": "HMB2213PW22TS",
       "model": "HMB2213PW22TS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TELUSTV-21T",
+      "codename": "uiw4054tlu",
+      "model": "TELUSTV-21T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UIW4020TLU",
+      "codename": "uiw4020tlu",
+      "model": "UIW4020TLU"
     }
   ]
 }

@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E25",
+      "codename": "E25",
+      "model": "E25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E54",
       "codename": "E54",
       "model": "E54"
@@ -78,6 +84,12 @@
       "market_name": "S24",
       "codename": "S24",
       "model": "S24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S25",
+      "codename": "S25",
+      "model": "S25"
     },
     {
       "manufacturer": "",

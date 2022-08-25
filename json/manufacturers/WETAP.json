@@ -1,0 +1,17 @@
+{
+  "manufacturer": "WeTap",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "WeTap_Y10",
+      "codename": "WeTap_Y10",
+      "model": "WeTap_Y10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WeTap_Y10_EEA",
+      "codename": "WeTap_Y10_EEA",
+      "model": "WeTap_Y10"
+    }
+  ]
+}

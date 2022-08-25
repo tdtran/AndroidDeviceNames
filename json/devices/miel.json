@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M4 Pro",
+    "codename": "miel",
+    "model": "2201117PI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 11S",
+    "codename": "miel",
+    "model": "2201117SG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 11S",
+    "codename": "miel",
+    "model": "2201117SI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 11S",
+    "codename": "miel",
+    "model": "2201117SL"
+  }
+]

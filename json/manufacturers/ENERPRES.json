@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Enerpres",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SMIG_V",
+      "codename": "SMIG_V",
+      "model": "SMIG_V"
+    }
+  ]
+}

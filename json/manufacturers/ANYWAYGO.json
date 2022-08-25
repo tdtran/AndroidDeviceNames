@@ -1,0 +1,11 @@
+{
+  "manufacturer": "anyway-go",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TP1040",
+      "codename": "TP1040",
+      "model": "TP1040"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "manufacturer": "PEAQ",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PET-101-F464S",
+      "codename": "PET-101-F464S",
+      "model": "PET-101-F464S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-101-H232E",
+      "codename": "PET-101-H232E",
+      "model": "PET 101-H232E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-101-H332S-W",
+      "codename": "PET-101-H332S-W",
+      "model": "PET 101-H332S-W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-102-H232S",
+      "codename": "PET-102-H232S",
+      "model": "PET-102-H232S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-1081-H232S",
+      "codename": "PET-1081-H232S",
+      "model": "PET 1081-H232S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-1081-LH332S",
+      "codename": "PET-1081-LH332S",
+      "model": "PET 1081-LH332S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-882-H232S",
+      "codename": "PET-882-H232S",
+      "model": "PET-882-H232S"
+    }
+  ]
+}

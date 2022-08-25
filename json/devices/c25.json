@@ -4,5 +4,11 @@
     "market_name": "C25_EEA",
     "codename": "C25",
     "model": "C25"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "C25_RU",
+    "codename": "C25",
+    "model": "C25"
   }
 ]

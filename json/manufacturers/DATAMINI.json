@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T104G_T610",
+      "codename": "T104G_T610",
+      "model": "T104G_T610"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T74G",
       "codename": "T74G",
       "model": "T74G"
@@ -36,6 +42,18 @@
       "market_name": "T84G",
       "codename": "T84G",
       "model": "T84G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T84G",
+      "codename": "T84G_T310",
+      "model": "T84G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T84G_T310_332",
+      "codename": "T84G_T310_332",
+      "model": "T84G_T310_332"
     },
     {
       "manufacturer": "",

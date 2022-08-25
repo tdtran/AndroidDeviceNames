@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "1402D_4G",
+      "codename": "WS1250PL",
+      "model": "1402D 4G WS1250PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CITI 609",
       "codename": "CS6063ML",
       "model": "CITI 609 4G CS6063ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITI_1312C_4G",
+      "codename": "CS1272PL",
+      "model": "CITI 1312C 4G CS1272PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITI_13_X703_4G",
+      "codename": "CS3242ML",
+      "model": "CITI 13 X703 4G CS3242ML"
     },
     {
       "manufacturer": "",
@@ -36,6 +54,12 @@
       "market_name": "CITI_7591_3G_CS7208MG",
       "codename": "CS7208MG",
       "model": "CITI 7591 3G CS7208MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITI_8443E_4G",
+      "codename": "CS8271PL",
+      "model": "CITI 8443E 4G CS8271PL"
     },
     {
       "manufacturer": "",
@@ -126,6 +150,12 @@
       "market_name": "CS8231PL",
       "codename": "CS8231PL",
       "model": "CITI 8 E400 4G CS8231PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS8268PL",
+      "codename": "CS8268PL",
+      "model": "CITI 8313C 4G CS8268PL"
     },
     {
       "manufacturer": "",
@@ -615,9 +645,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optima 10 E600 3G TS1246PG",
+      "codename": "TS1246PG",
+      "model": "Optima 10 E600 3G TS1246PG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optima 1028 3G TS1215PG",
       "codename": "TS1215PG",
       "model": "Optima 1028 3G TS1215PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima 1411D 4G TS1273PL",
+      "codename": "TS1273PL",
+      "model": "Optima 1411D 4G TS1273PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima 1440E 4G TS1269PL",
+      "codename": "TS1269PL",
+      "model": "Optima 1440E 4G TS1269PL"
     },
     {
       "manufacturer": "",
@@ -633,6 +681,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optima 8258C 4G TS8275ML",
+      "codename": "TS8275ML",
+      "model": "Optima 8258C 4G TS8275ML"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optima Kids 7",
       "codename": "TS7203RW",
       "model": "Optima Kids 7 TS7203RW"
@@ -645,9 +699,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optima_10_A502_3G_TS1245PG",
+      "codename": "TS1245PG",
+      "model": "Optima 10 A502 3G TS1245PG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optima_10_X702_4G",
       "codename": "TS1228PL",
       "model": "Optima 10 X702 4G TS1228PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima_1200B",
+      "codename": "TS1266RW",
+      "model": "Optima 1200B TS1266RW"
     },
     {
       "manufacturer": "",
@@ -681,6 +747,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optima_8250C",
+      "codename": "TS8274AW",
+      "model": "TS8274AW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optima_8_X701_4G",
       "codename": "TS8226PL",
       "model": "Optima 8 X701 4G TS8226PL"
@@ -690,6 +762,18 @@
       "market_name": "Optima_8_Z801_4G",
       "codename": "TS8227PL",
       "model": "Optima 8 Z801 4G TS8227PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRO 1600E 4G",
+      "codename": "RS1248PL",
+      "model": "PRO 1600E 4G RS1248PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRO 1800F 4G",
+      "codename": "RS1249PL",
+      "model": "PRO 1800F 4G RS1249PL"
     },
     {
       "manufacturer": "",
@@ -783,6 +867,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pro 1480E 4G",
+      "codename": "RS1267PL",
+      "model": "Pro 1480E 4G RS1267PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RS1253PL",
+      "codename": "RS1253PL",
+      "model": "PRO 1400E 4G RS1253PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TS1221PL",
       "codename": "TS1221PL",
       "model": "Optima 10 A501S 4G TS1221PL"
@@ -792,6 +888,12 @@
       "market_name": "TS1229PL",
       "codename": "TS1229PL",
       "model": "Optima 10 Z802 4G TS1229PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS1277ML",
+      "codename": "TS1277ML",
+      "model": "Optima 1245C 4G"
     },
     {
       "manufacturer": "",

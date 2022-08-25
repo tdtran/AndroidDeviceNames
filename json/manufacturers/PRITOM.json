@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K7_A101_EEA",
+      "codename": "K7_A101_EEA",
+      "model": "K7_A101_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K7_A102",
       "codename": "K7_A102",
       "model": "K7_A102"
@@ -81,9 +87,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L8-T01",
+      "codename": "L8-T01",
+      "model": "L8-T01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8-T01_EEA",
+      "codename": "L8-T01_EEA",
+      "model": "L8-T01_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L8_A01",
       "codename": "L8_A01",
       "model": "L8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8_A01_EEA",
+      "codename": "L8_A01_EEA",
+      "model": "L8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8_A02",
+      "codename": "L8_A02",
+      "model": "L8_A02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8_A02_EEA",
+      "codename": "L8_A02_EEA",
+      "model": "L8_A02_EEA"
     },
     {
       "manufacturer": "",
@@ -94,8 +130,20 @@
     {
       "manufacturer": "",
       "market_name": "M10",
+      "codename": "M10",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10",
       "codename": "M10_A01",
       "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10-EEA",
+      "codename": "M10-EEA",
+      "model": "M10-EEA"
     },
     {
       "manufacturer": "",
@@ -120,6 +168,18 @@
       "market_name": "M10_Lite",
       "codename": "M10_Lite",
       "model": "M10_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_Max",
+      "codename": "M10_Max",
+      "model": "M10_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_Max_EEA",
+      "codename": "M10_Max_EEA",
+      "model": "M10_Max_EEA"
     },
     {
       "manufacturer": "",
@@ -165,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P7",
+      "codename": "P7_A1",
+      "model": "P7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P7PLUS",
       "codename": "P7PLUS",
       "model": "P7PLUS"
@@ -196,6 +262,12 @@
     {
       "manufacturer": "",
       "market_name": "P7_EEA",
+      "codename": "P7_A1_EEA",
+      "model": "P7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P7_EEA",
       "codename": "P7_EEA",
       "model": "P7_EEA"
     },
@@ -204,6 +276,24 @@
       "market_name": "PRITOM",
       "codename": "M10_EEA",
       "model": "M10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pritom_M10_EEA",
+      "codename": "Pritom_M10_EEA",
+      "model": "Pritom_M10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pritom_M50",
+      "codename": "Pritom_M50",
+      "model": "Pritom_M50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pritom_M50_EEA",
+      "codename": "Pritom_M50_EEA",
+      "model": "Pritom_M50_EEA"
     },
     {
       "manufacturer": "",

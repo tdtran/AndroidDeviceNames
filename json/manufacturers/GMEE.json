@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "connect 2 US",
+      "codename": "connect_2_US",
+      "model": "connect 2 US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "connect_2",
       "codename": "connect_2",
       "model": "connect 2"
@@ -12,6 +18,12 @@
       "market_name": "connect_2",
       "codename": "connect_2V",
       "model": "connect 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "play2",
+      "codename": "play2",
+      "model": "play2"
     }
   ]
 }

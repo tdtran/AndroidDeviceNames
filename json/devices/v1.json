@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "G-TiDE",
+    "market_name": "V1",
+    "codename": "V1",
+    "model": "V1"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "LG Optimus L1II",
     "codename": "v1",

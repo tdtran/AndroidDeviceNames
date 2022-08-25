@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Artel 2K TV",
       "codename": "shinagawa",
       "model": "Artel 2K TV"

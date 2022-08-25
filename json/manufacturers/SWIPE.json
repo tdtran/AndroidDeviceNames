@@ -42,6 +42,30 @@
       "market_name": "Strike",
       "codename": "Swipe_Strike",
       "model": "Strike"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swipe_Slate_3",
+      "codename": "Swipe_Slate_3",
+      "model": "Swipe_Slate_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swipe_Slate_3_WiFi",
+      "codename": "Swipe_Slate_3_WiFi",
+      "model": "Swipe_Slate_3_WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swipe_Strike8",
+      "codename": "Swipe_Strike8",
+      "model": "Swipe_Strike8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swipe_X1",
+      "codename": "Swipe_X1",
+      "model": "Swipe_X1"
     }
   ]
 }

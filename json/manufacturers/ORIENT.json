@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OrientTV",
       "codename": "shibuya",
       "model": "OrientTV"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FX438NA",
+      "codename": "FX438NA",
+      "model": "FX438NA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FX_438N",
       "codename": "FX_438N",
       "model": "FX-438N"

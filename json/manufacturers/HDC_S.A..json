@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10_232",
+      "codename": "T10_232",
+      "model": "T10_232"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T700B",
       "codename": "T700B",
       "model": "T700B"

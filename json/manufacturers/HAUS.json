@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HAUS_JS410",
+      "codename": "HAUS_JS410",
+      "model": "JS410"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JS409",
       "codename": "JS409",
       "model": "JS409"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Hotwav",
+    "market_name": "Pearl K3",
+    "codename": "Pearl_K3",
+    "model": "Pearl K3"
+  },
+  {
+    "manufacturer": "Hotwav",
     "market_name": "Pearl_K3_Lite",
     "codename": "Pearl_K3",
     "model": "Pearl K3"

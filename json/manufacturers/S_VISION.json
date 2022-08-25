@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "SVISION 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S android TV",
       "codename": "hanyang",
       "model": "Svision Android TV"

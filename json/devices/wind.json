@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10C",
+    "codename": "wind",
+    "model": "220333QL"
+  },
+  {
     "manufacturer": "Zatec",
     "market_name": "WIND",
     "codename": "WIND",

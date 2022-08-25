@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AKUS P1",
+      "codename": "AKUS_P1",
+      "model": "AKUS P1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AKUS PRO",
       "codename": "AKUS_PRO",
       "model": "AKUS PRO"
@@ -66,6 +72,12 @@
       "market_name": "COVET PRO LITE",
       "codename": "COVET_PRO_LITE",
       "model": "COVET_PRO_LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COVET X",
+      "codename": "COVET_X",
+      "model": "COVET X"
     },
     {
       "manufacturer": "",
@@ -213,6 +225,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STELLAR P4",
+      "codename": "STELLAR_P4",
+      "model": "STELLAR P4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR P5",
+      "codename": "STELLAR_P5",
+      "model": "STELLAR P5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STELLAR PLUS",
       "codename": "STELLAR_PLUS",
       "model": "STELLAR PLUS"
@@ -270,6 +294,18 @@
       "market_name": "ZUUM MAGNO PLUS",
       "codename": "MAGNO_PLUS",
       "model": "MAGNO PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZUUM PAD Kids",
+      "codename": "ZUUM_PAD_Kids",
+      "model": "ZUUM PAD Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZUUM PAD Lightyear",
+      "codename": "ZUUM_PAD_Lightyear",
+      "model": "ZUUM PAD Lightyear"
     }
   ]
 }

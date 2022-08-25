@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C60",
+      "codename": "C60",
+      "model": "C60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6000",
       "codename": "C6000",
       "model": "C6000"
@@ -45,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C71_GL",
+      "codename": "C71",
+      "model": "C71"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C72_EEA",
       "codename": "C72",
       "model": "C72"
@@ -54,6 +66,12 @@
       "market_name": "C72_GL",
       "codename": "C72",
       "model": "C72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C75_GL",
+      "codename": "C75",
+      "model": "C75"
     },
     {
       "manufacturer": "",

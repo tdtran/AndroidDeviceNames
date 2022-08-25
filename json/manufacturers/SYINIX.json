@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "43A51",
+      "codename": "beaudry",
+      "model": "Syinix AndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "55A1S",
       "codename": "samseong",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "55U51",
+      "codename": "barking",
+      "model": "Syinix AndroidTV"
     },
     {
       "manufacturer": "",

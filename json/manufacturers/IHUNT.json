@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cyber_Shark_EEA",
+      "codename": "Cyber_Shark",
+      "model": "iHunt Cyber Shark 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Like 11 Panda Pro 2022",
       "codename": "iHunt",
       "model": "Like 11 Panda Pro 2022"
@@ -201,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iHunt S22  ULTRA",
+      "codename": "iHuntS22ULTRA",
+      "model": "iHunt S22 ULTRA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iHunt S90 Apex",
       "codename": "S90_Apex",
       "model": "S90_Apex"
@@ -213,9 +225,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iHuntS22PLUS",
+      "codename": "iHuntS22PLUS",
+      "model": "iHunt S22 PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iHunt_Like_12_EEA",
       "codename": "iHunt_Like_12",
       "model": "iHunt Like 12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt_Note_Ultra",
+      "codename": "iHunt_Note_Ultra",
+      "model": "iHunt Note Ultra"
     },
     {
       "manufacturer": "",

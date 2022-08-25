@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Sky (CH)",
+    "market_name": "Elite T8",
+    "codename": "ELITE_US_T8",
+    "model": "ELITE T8"
+  },
+  {
     "manufacturer": "Sky Devices",
     "market_name": "ELITE T8",
     "codename": "ELITE_US_T8",

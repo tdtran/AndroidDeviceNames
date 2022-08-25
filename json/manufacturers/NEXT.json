@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Next",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "4K TV Stick",
+      "codename": "YYT",
+      "model": "4K Google TV Stick"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

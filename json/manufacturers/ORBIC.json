@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R8L5T",
+      "codename": "R8L5T",
+      "model": "R8L5T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RC506LT",
       "codename": "Orbic-RC506LT",
       "model": "RC506LT"
@@ -30,6 +36,18 @@
       "market_name": "RC545L",
       "codename": "RC545L",
       "model": "RC545L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RC609L",
+      "codename": "RC609L",
+      "model": "RC609L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RC609LSM",
+      "codename": "RC609LSM",
+      "model": "RC609LSM"
     },
     {
       "manufacturer": "",

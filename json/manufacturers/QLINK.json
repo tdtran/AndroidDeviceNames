@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Scepter 8 Tablet",
+      "codename": "Scepter8_tablet",
+      "model": "Scepter 8 Tablet"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Scepter_8",
       "codename": "Scepter_8",
       "model": "Scepter 8 Tablet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "scepter8",
+      "codename": "Scepter8",
+      "model": "Scepter8"
     }
   ]
 }

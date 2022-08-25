@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CIMI",
+    "market_name": "A8",
+    "codename": "A8",
+    "model": "A8"
+  },
+  {
     "manufacturer": "Coolpad",
     "market_name": "A8",
     "codename": "A8",

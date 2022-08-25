@@ -39,6 +39,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M20",
+      "codename": "M20",
+      "model": "M20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M30",
+      "codename": "M30",
+      "model": "M30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50",
+      "codename": "M50",
+      "model": "M50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Max",
       "codename": "Max",
       "model": "Max"
@@ -66,6 +84,12 @@
       "market_name": "Smart PRIME II",
       "codename": "Smart_PRIME_II",
       "model": "Smart PRIME II"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart_Hero_II",
+      "codename": "Smart_Hero_II",
+      "model": "Smart_Hero_II"
     },
     {
       "manufacturer": "",

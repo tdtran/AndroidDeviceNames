@@ -369,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Atrix",
       "codename": "olympus",
       "model": "MB860"
@@ -867,6 +873,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo K12 Pro",
+      "codename": "cebu",
+      "model": "Lenovo K12 Note"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K12 Pro",
+      "codename": "cebu",
+      "model": "Lenovo K12 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo K13",
       "codename": "maltalsc",
       "model": "Lenovo K13"
@@ -906,6 +924,12 @@
       "market_name": "Lenovo XT2081-4",
       "codename": "guam",
       "model": "Lenovo XT2081-4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo XT2091-7",
+      "codename": "cebu",
+      "model": "Lenovo XT2091-7"
     },
     {
       "manufacturer": "",
@@ -1995,6 +2019,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Motorola",
+      "codename": "stanford",
+      "model": "CSV2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Motorola",
+      "codename": "zhongshan",
+      "model": "CSV4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Motorola Android 9.0 TV",
       "codename": "shibuya",
       "model": "FlipkartTV"
@@ -2181,6 +2217,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Spice",
       "codename": "sesame",
       "model": "XT300"
@@ -2274,6 +2316,12 @@
       "market_name": "moto P30 NOTE",
       "codename": "chef",
       "model": "XT1942-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto X30 屏下摄像版",
+      "codename": "hiphid",
+      "model": "XT2201-6"
     },
     {
       "manufacturer": "",
@@ -2541,6 +2589,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto edge X30",
+      "codename": "hiphic",
+      "model": "XT2201-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto e⁶ plus",
       "codename": "pokerp",
       "model": "moto e(6) plus"
@@ -2562,6 +2616,18 @@
       "market_name": "moto g 5G",
       "codename": "kiev",
       "model": "motorola edge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g 5G (2022)",
+      "codename": "austin",
+      "model": "moto g 5G (2022)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g 5G (2022)",
+      "codename": "austin",
+      "model": "moto g pure"
     },
     {
       "manufacturer": "",
@@ -2604,6 +2670,12 @@
       "market_name": "moto g power (2021)",
       "codename": "borneo",
       "model": "moto g power (2021)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g power (2022)",
+      "codename": "tonga",
+      "model": "moto g power (2022)"
     },
     {
       "manufacturer": "",
@@ -2655,6 +2727,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g stylus (2022)",
+      "codename": "milan",
+      "model": "moto g stylus (2022)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus (2022)",
+      "codename": "milan",
+      "model": "motorola"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g stylus 5G",
       "codename": "denver",
       "model": "moto g stylus (2021)"
@@ -2664,6 +2748,18 @@
       "market_name": "moto g stylus 5G",
       "codename": "denver",
       "model": "moto g stylus 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus 5G (2022)",
+      "codename": "milanf",
+      "model": "moto g stylus 5G (2022)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus 5G (2022)",
+      "codename": "milanf",
+      "model": "moto g(50)"
     },
     {
       "manufacturer": "",
@@ -3015,6 +3111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g22",
+      "codename": "hawaiip",
+      "model": "Lenovo K15 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g22",
+      "codename": "hawaiip",
+      "model": "moto g22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g31",
       "codename": "cofud",
       "model": "moto g31(w)"
@@ -3057,6 +3165,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g42",
+      "codename": "hawao",
+      "model": "moto g(100)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g42",
+      "codename": "hawao",
+      "model": "moto g42"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g51",
       "codename": "cypfq",
       "model": "XT2171-3"
@@ -3081,6 +3201,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g52",
+      "codename": "rhode",
+      "model": "moto g(50)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g52",
+      "codename": "rhode",
+      "model": "moto g52"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g6 play",
       "codename": "jeter",
       "model": "Moto G Play"
@@ -3093,9 +3225,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "moto g60",
-      "codename": "hanoip",
-      "model": "moto g(60)"
+      "market_name": "moto g62 5G",
+      "codename": "rhodec",
+      "model": "moto g51 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g62 5G",
+      "codename": "rhodec",
+      "model": "moto g62 5G"
     },
     {
       "manufacturer": "",
@@ -3111,6 +3249,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g82 5G",
+      "codename": "rhodep",
+      "model": "moto g71 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g82 5G",
+      "codename": "rhodep",
+      "model": "moto g82 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto p30",
       "codename": "robusta",
       "model": "XT1943-1"
@@ -3120,6 +3270,12 @@
       "market_name": "moto p30 play",
       "codename": "deen",
       "model": "XT1941-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto tab g20",
+      "codename": "mototabg20",
+      "model": "moto tab g20"
     },
     {
       "manufacturer": "",
@@ -3207,6 +3363,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "motorola edge 30",
+      "codename": "dubai",
+      "model": "moto g200 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30",
+      "codename": "dubai",
+      "model": "motorola edge 30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 fusion",
+      "codename": "tundra",
+      "model": "moto g200 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 fusion",
+      "codename": "tundra",
+      "model": "motorola edge 30 fusion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 pro",
+      "codename": "hiphi",
+      "model": "motorola edge 30 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 pro",
+      "codename": "hiphi",
+      "model": "motorola edge plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 ultra",
+      "codename": "eqs",
+      "model": "motorola edge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 ultra",
+      "codename": "eqs",
+      "model": "motorola edge 30 ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola edge 5G UW (2021)",
       "codename": "berlna",
       "model": "motorola edge 5G UW"
@@ -3228,6 +3432,18 @@
       "market_name": "motorola edge plus",
       "codename": "burton",
       "model": "motorola edge plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge plus (2022)",
+      "codename": "hiphi",
+      "model": "motorola edge plus (2022)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge plus 5G UW (2022)",
+      "codename": "hiphi",
+      "model": "motorola edge plus 5G UW (2022)"
     },
     {
       "manufacturer": "",

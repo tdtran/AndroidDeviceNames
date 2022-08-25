@@ -6,6 +6,12 @@
       "market_name": "101S",
       "codename": "101S",
       "model": "Hatch_101S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hatch_103S",
+      "codename": "Hatch_103S",
+      "model": "Hatch_103S"
     }
   ]
 }

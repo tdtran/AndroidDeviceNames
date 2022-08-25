@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ADOC",
+    "market_name": "M3",
+    "codename": "M3",
+    "model": "M3"
+  },
+  {
     "manufacturer": "Gionee",
     "market_name": "M3",
     "codename": "M3",

@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB8B",
+      "codename": "TAB8B",
+      "model": "TAB8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB8F",
+      "codename": "TAB8F",
+      "model": "Tab3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TARISTAB2",
       "codename": "TARISTAB2",
       "model": "TARISTAB2"

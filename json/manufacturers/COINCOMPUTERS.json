@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1200AS",
+      "codename": "1200AS",
+      "model": "1200AS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TF10EA2",
       "codename": "TF10EA2_5",
       "model": "TF10EA2"

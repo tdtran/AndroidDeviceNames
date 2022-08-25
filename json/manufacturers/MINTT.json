@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "COOLMINTT_X7",
+      "codename": "COOLMINTT_X7",
+      "model": "COOLMINTT X7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CoolMintt Rival",
       "codename": "CoolMintt_Rival",
       "model": "CoolMintt Rival"
@@ -90,6 +96,18 @@
       "market_name": "MINTT_DIGI_2",
       "codename": "MINTT_DIGI_2",
       "model": "Mintt__Digi__2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MinttM3",
+      "codename": "Mintt_M3",
+      "model": "Mintt M3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MinttM3",
+      "codename": "Mintt_M3",
+      "model": "Mintt__M3"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S8e",
+      "codename": "S8e",
+      "model": "S8e"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SQ733",
       "codename": "SQ733",
       "model": "SQ733"
@@ -21,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SQ776",
+      "codename": "SQ776",
+      "model": "SQ776"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SQ788",
       "codename": "SQ788",
       "model": "SQ788"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SQ788Extreme",
+      "codename": "SQ788Extreme",
+      "model": "SQ788Extreme"
     },
     {
       "manufacturer": "",

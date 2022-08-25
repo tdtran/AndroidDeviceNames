@@ -4,5 +4,29 @@
     "market_name": "M13",
     "codename": "M13",
     "model": "M13"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy F13",
+    "codename": "m13",
+    "model": "SM-E135F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M13",
+    "codename": "m13",
+    "model": "SM-M135F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M13",
+    "codename": "m13",
+    "model": "SM-M135FU"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M13",
+    "codename": "m13",
+    "model": "SM-M135M"
   }
 ]

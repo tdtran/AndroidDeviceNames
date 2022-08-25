@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M1038_EEA",
+      "codename": "M1038_EEA",
+      "model": "M1037"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7133",
       "codename": "M7133",
       "model": "M7133"
@@ -30,6 +36,18 @@
       "market_name": "M7152",
       "codename": "M7152",
       "model": "M7152"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7152D1",
+      "codename": "M7152D1",
+      "model": "M7152D1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7152D1_EEA",
+      "codename": "M7152D1_EEA",
+      "model": "M7152D1_EEA"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "9A",
+      "codename": "9A",
+      "model": "9A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "9C",
       "codename": "9C",
       "model": "9C"
@@ -90,6 +96,12 @@
       "market_name": "Hope7_Max",
       "codename": "Hope7_Max",
       "model": "Hope7 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hope7_Plus",
+      "codename": "Hope7_Plus",
+      "model": "Hope7_Plus"
     },
     {
       "manufacturer": "",

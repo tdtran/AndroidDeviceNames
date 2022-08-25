@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M20_Ultra",
+      "codename": "M20_Ultra",
+      "model": "M20_Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P17",
       "codename": "P17",
       "model": "P17"

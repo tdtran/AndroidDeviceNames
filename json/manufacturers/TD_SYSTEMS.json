@@ -3,13 +3,25 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Spain",
+      "market_name": "Android TV",
+      "codename": "martin",
+      "model": "TD SYSTEMS Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "redwood",
+      "model": "TD SYSTEMS Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
       "codename": "tamachi",
       "model": "TD SYSTEMS Android TV"
     },
     {
       "manufacturer": "",
-      "market_name": "Spain",
+      "market_name": "Android TV",
       "codename": "yeongdeungpo",
       "model": "TD SYSTEMS Android TV"
     }

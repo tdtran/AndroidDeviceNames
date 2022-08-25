@@ -3,6 +3,24 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus 7T",
     "codename": "OnePlus7T",
+    "model": "HD1900"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7T",
+    "codename": "OnePlus7T",
+    "model": "HD1901"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7T",
+    "codename": "OnePlus7T",
+    "model": "HD1903"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7T",
+    "codename": "OnePlus7T",
     "model": "HD1905"
   }
 ]

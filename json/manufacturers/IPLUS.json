@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Nu60",
+      "codename": "Nu60",
+      "model": "Nu60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega7",
+      "codename": "Omega7",
+      "model": "Omega7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega8",
+      "codename": "Omega8",
+      "model": "Omega8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlus P1",
       "codename": "iPlus_P1",
       "model": "iPlus P1"

@@ -225,6 +225,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M-SP1AZ3L2",
+      "codename": "M-SP1AZ3L2",
+      "model": "Azimut 3 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-SP1AZ3P",
+      "codename": "M-SP1AZ3P",
+      "model": "Azimut 3 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M-SP1AZ3_EEA",
       "codename": "M-SP1AZ3",
       "model": "M-SP1AZ3"
@@ -237,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M-SP1X10",
+      "codename": "M-SP1X10",
+      "model": "X10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M-SP7HXAH",
       "codename": "M-SP7HXAH",
       "model": "M-SP7HXAH"
@@ -246,6 +264,12 @@
       "market_name": "M-SP7xGO3G",
       "codename": "M-SP7xGO3G",
       "model": "M-SP7xGO3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-SP8EY",
+      "codename": "M-SP8EY",
+      "model": "8EY"
     },
     {
       "manufacturer": "",

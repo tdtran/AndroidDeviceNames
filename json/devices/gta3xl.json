@@ -15,6 +15,12 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy Tab A",
     "codename": "gta3xl",
+    "model": "SM-T517"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab A",
+    "codename": "gta3xl",
     "model": "SM-T517P"
   }
 ]

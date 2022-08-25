@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Redmi",
+    "market_name": "Redmi Note 10 Pro",
+    "codename": "chopin",
+    "model": "21061110AG"
+  },
+  {
+    "manufacturer": "Redmi",
     "market_name": "Redmi Note 10 pro",
     "codename": "chopin",
     "model": "M2104K10AC"

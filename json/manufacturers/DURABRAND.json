@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DB Android TV 2K",
+      "codename": "broadway",
+      "model": "DB Android TV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DB Android TV 4K",
+      "codename": "dupont",
+      "model": "DB Android TV 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Durabrand android TV",
       "codename": "hanyang",
       "model": "Durabrand 4K Android TV"

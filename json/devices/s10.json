@@ -18,6 +18,12 @@
     "model": "S10"
   },
   {
+    "manufacturer": "Gplus",
+    "market_name": "S10",
+    "codename": "S10",
+    "model": "Gplus S10"
+  },
+  {
     "manufacturer": "Helio",
     "market_name": "S10",
     "codename": "S10",
@@ -31,6 +37,12 @@
   },
   {
     "manufacturer": "Nomu",
+    "market_name": "S10",
+    "codename": "S10",
+    "model": "S10"
+  },
+  {
+    "manufacturer": "Vankyo",
     "market_name": "S10",
     "codename": "S10",
     "model": "S10"

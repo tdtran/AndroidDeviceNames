@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Alpha_5G",
+      "codename": "Alpha_5G",
+      "model": "Alpha 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HCH03",
       "codename": "TrueHCH03",
       "model": "HCH03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S1",
+      "codename": "S1",
+      "model": "S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S1A",
+      "codename": "S1A",
+      "model": "S1A"
     },
     {
       "manufacturer": "",

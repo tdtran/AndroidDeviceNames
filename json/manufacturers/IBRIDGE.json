@@ -1,0 +1,11 @@
+{
+  "manufacturer": "I-Bridge",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "South Korea",
+      "codename": "IBT01H",
+      "model": "IBT01H"
+    }
+  ]
+}

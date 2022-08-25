@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CORN",
+    "market_name": "G60",
+    "codename": "G60",
+    "model": "G60"
+  },
+  {
     "manufacturer": "Elevate",
     "market_name": "LUNA G60",
     "codename": "G60",

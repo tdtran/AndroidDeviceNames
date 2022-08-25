@@ -1,0 +1,80 @@
+[
+  {
+    "manufacturer": "Aconatic",
+    "market_name": "ACONATIC",
+    "codename": "shilin",
+    "model": "ACONATIC 4K Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt",
+    "codename": "shilin",
+    "model": "BLAUPUNKT 4K Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "shilin",
+    "model": "EKO 4K Android TV"
+  },
+  {
+    "manufacturer": "HIMADE",
+    "market_name": "HIMADE",
+    "codename": "shilin",
+    "model": "HIMADE4KAndroidTV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "shilin",
+    "model": "JVC PA 4K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "shilin",
+    "model": "JVC4KAndroid TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "KIVI",
+    "codename": "shilin",
+    "model": "KIVI 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "Olive",
+    "codename": "shilin",
+    "model": "Olive 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "SmartEver",
+    "codename": "shilin",
+    "model": "SmartEver4KAndroidTV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "Sharp",
+    "codename": "shilin",
+    "model": "Sharp 4K Android TV"
+  },
+  {
+    "manufacturer": "Umax",
+    "market_name": "Umax",
+    "codename": "shilin",
+    "model": "UMAX4KAndroidTV"
+  },
+  {
+    "manufacturer": "innos",
+    "market_name": "Innos",
+    "codename": "shilin",
+    "model": "Innos4KAndroidTV"
+  },
+  {
+    "manufacturer": "truvii",
+    "market_name": "Truvii",
+    "codename": "shilin",
+    "model": "Truvii4KAndroidTV"
+  }
+]

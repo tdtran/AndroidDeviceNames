@@ -12,6 +12,12 @@
       "market_name": "EU",
       "codename": "yeongdeungpo",
       "model": "MARCEL Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "MARCEL Android TV"
     }
   ]
 }

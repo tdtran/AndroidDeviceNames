@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L1582C",
+      "codename": "L1582C",
+      "model": "L1582C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L1589K",
+      "codename": "L1589K",
+      "model": "L1589K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5314G",
+      "codename": "LM5314G",
+      "model": "LM5314G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LM5414G",
       "codename": "LM5414G",
       "model": "LM5414G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5424G",
+      "codename": "LM5424G",
+      "model": "LM5424G"
     },
     {
       "manufacturer": "",

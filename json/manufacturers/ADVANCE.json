@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PR6850",
+      "codename": "PR6850",
+      "model": "PR6850"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PR7145",
       "codename": "PR7145",
       "model": "PR7145"
@@ -159,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP4703",
+      "codename": "SP4703",
+      "model": "SP4703"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP4872",
       "codename": "SP4872",
       "model": "SP4872"
@@ -177,9 +189,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP5713",
+      "codename": "SP5713",
+      "model": "SP5713"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP5732",
       "codename": "SP5732",
       "model": "SP5732"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5733",
+      "codename": "SP5733",
+      "model": "SP5733"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5733",
+      "codename": "SP5733A",
+      "model": "SP5733"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5735",
+      "codename": "SP5735",
+      "model": "SP5735"
     },
     {
       "manufacturer": "",
@@ -192,6 +228,24 @@
       "market_name": "SP5775",
       "codename": "SP5775",
       "model": "SP5775"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5776",
+      "codename": "SP5776",
+      "model": "SP5776"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5782",
+      "codename": "SP5782",
+      "model": "SP5782"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP7248",
+      "codename": "SP7248",
+      "model": "SP7248"
     },
     {
       "manufacturer": "",
@@ -219,6 +273,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TR5996",
+      "codename": "TR5996",
+      "model": "TR5996"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TR6948",
       "codename": "TR6948",
       "model": "TR6948"
@@ -240,6 +300,12 @@
       "market_name": "TR7989",
       "codename": "TR7989",
       "model": "TR7989"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR7990",
+      "codename": "TR7990",
+      "model": "TR7990"
     },
     {
       "manufacturer": "",

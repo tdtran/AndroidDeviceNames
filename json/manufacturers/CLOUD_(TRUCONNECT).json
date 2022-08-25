@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OTTTAB3",
+      "codename": "OTTTAB3",
+      "model": "OTTTAB3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Storm C3",
       "codename": "Storm_C3",
       "model": "Storm_C3"

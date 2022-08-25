@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer IRON 4",
+      "codename": "Hammer_IRON_4",
+      "model": "Hammer_IRON_4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Iron 3 LTE",
       "codename": "Hammer_Iron_3_LTE",
       "model": "Hammer_Iron_3_LTE"
@@ -504,6 +510,12 @@
       "market_name": "myPhone_Prime_5",
       "codename": "myPhone_Prime_5",
       "model": "myPhone_Prime_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myT10",
+      "codename": "myT10",
+      "model": "myT10"
     },
     {
       "manufacturer": "",

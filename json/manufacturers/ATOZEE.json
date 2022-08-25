@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Atozee",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AT70K",
+      "codename": "AT70K",
+      "model": "AT70K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT70KS",
+      "codename": "AT70KS",
+      "model": "AT70KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT70K_EEA",
+      "codename": "AT70K_EEA",
+      "model": "AT70K_EEA"
+    }
+  ]
+}

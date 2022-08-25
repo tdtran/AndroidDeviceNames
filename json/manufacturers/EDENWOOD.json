@@ -12,6 +12,12 @@
       "market_name": "EDENWOOD",
       "codename": "komagome",
       "model": "EDENWOOD 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDENWOOD 4K Android TV",
+      "codename": "kenton",
+      "model": "EDENWOOD 4K Android TV"
     }
   ]
 }

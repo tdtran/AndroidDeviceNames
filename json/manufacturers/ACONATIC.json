@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACONATIC",
+      "codename": "bruno",
+      "model": "ACONATIC 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACONATIC",
+      "codename": "shilin",
+      "model": "ACONATIC 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACONATIC",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ACONATIC FHD TV",
       "codename": "takao",
       "model": "ACONATIC FHD TV"

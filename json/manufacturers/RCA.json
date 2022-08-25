@@ -75,6 +75,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "4K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "HKC 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "Treeview 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "DAEWOO 4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "HKC 4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "7 Mercury",
       "codename": "RCT6673W23M",
       "model": "RCT6673W23M"
@@ -177,18 +225,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "HKC",
-      "codename": "gangbyeon",
-      "model": "HKC 4K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "HKC",
-      "codename": "mateo",
-      "model": "HKC 2K SA Smart TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Juno 10",
       "codename": "RCT6A03W12EU",
       "model": "RCT6A03W12EU"
@@ -225,6 +261,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RAKR30824",
+      "codename": "RAKR30824",
+      "model": "RAKR30824"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RATR30824",
+      "codename": "RATR30824",
+      "model": "RATR30824"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RATR31024",
+      "codename": "RATR31024",
+      "model": "RATR31024"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RC10T3G21",
       "codename": "RC10T3G21",
       "model": "RC10T3G21"
@@ -250,20 +304,8 @@
     {
       "manufacturer": "",
       "market_name": "RCA",
-      "codename": "gangbyeon",
-      "model": "4K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "RCA",
       "codename": "seocho",
       "model": "RCA 4K Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "RCA",
-      "codename": "ueno",
-      "model": "2K Android TV"
     },
     {
       "manufacturer": "",
@@ -621,21 +663,15 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RENO_NAPA",
+      "codename": "RENO_NAPA",
+      "model": "RENO_NAPA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RLTP5573",
       "codename": "RLTP5573",
       "model": "RLTP5573"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "RS43F2-EU",
-      "codename": "osaki",
-      "model": "2K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "RTA3201",
-      "codename": "kanda",
-      "model": "2K Smart TV"
     },
     {
       "manufacturer": "",
@@ -645,27 +681,63 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Tree",
-      "codename": "gangbyeon",
-      "model": "Treeview 4K AI Smart TV"
+      "market_name": "Smart TV",
+      "codename": "kanda",
+      "model": "2K Smart TV"
     },
     {
       "manufacturer": "",
-      "market_name": "Tree",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K US Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "DAEWOO 2K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "HKC 2K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "osaki",
       "model": "Treeview 2K AI Smart TV"
     },
     {
       "manufacturer": "",
-      "market_name": "UNICO",
+      "market_name": "Smart TV",
       "codename": "osaki",
       "model": "UNICO 2K AI Smart TV"
     },
     {
       "manufacturer": "",
-      "market_name": "US",
-      "codename": "gangbyeon",
-      "model": "4K Smart TV"
+      "market_name": "Smart TV",
+      "codename": "ueno",
+      "model": "2K Android TV"
     },
     {
       "manufacturer": "",

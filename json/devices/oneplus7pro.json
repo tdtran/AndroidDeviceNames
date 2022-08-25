@@ -9,6 +9,18 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus 7 Pro",
     "codename": "OnePlus7Pro",
+    "model": "GM1911"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7 Pro",
+    "codename": "OnePlus7Pro",
+    "model": "GM1913"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7 Pro",
+    "codename": "OnePlus7Pro",
     "model": "GM1917"
   }
 ]

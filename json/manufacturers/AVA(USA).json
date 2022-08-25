@@ -1,0 +1,11 @@
+{
+  "manufacturer": "AVA(USA)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AVA-RM-RX1-EU",
+      "codename": "AVA-RM-RX1",
+      "model": "RX1"
+    }
+  ]
+}

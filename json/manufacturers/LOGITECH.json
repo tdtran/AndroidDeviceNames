@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GR0006",
+      "codename": "GR0006",
+      "model": "GR0006"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Revue",
       "codename": "ka",
       "model": "Revue"

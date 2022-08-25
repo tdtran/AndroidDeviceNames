@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QS362",
+      "codename": "QS362",
+      "model": "QS362"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QS701",
       "codename": "QS701",
       "model": "QS701"

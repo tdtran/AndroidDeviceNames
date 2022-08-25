@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "longshan",
+      "model": "AI PONT NA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UHD Android TV",
       "codename": "sindorim",
       "model": "AI PONT"

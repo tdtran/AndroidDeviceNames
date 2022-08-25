@@ -9,6 +9,18 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus 8",
     "codename": "OnePlus8",
+    "model": "IN2011"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 8",
+    "codename": "OnePlus8",
     "model": "IN2013"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 8",
+    "codename": "OnePlus8",
+    "model": "IN2015"
   }
 ]

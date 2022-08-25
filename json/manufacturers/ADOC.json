@@ -6,6 +6,12 @@
       "market_name": "D30",
       "codename": "D30",
       "model": "D30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3",
+      "codename": "M3",
+      "model": "M3"
     }
   ]
 }

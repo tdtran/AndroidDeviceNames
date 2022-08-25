@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IC-58",
+      "codename": "IC_58",
+      "model": "IC_58"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IC_51R",
+      "codename": "IC_51R",
+      "model": "IC_51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IC_55",
       "codename": "IC_55",
       "model": "IC_55"

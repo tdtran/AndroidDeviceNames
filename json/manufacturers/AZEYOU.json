@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT1014",
+      "codename": "AT1014",
+      "model": "AT1014"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1014U",
+      "codename": "AT1014U",
+      "model": "AT1014U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT1031E",
       "codename": "AT1031E",
       "model": "AT1031E"
@@ -39,9 +51,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT701E",
+      "codename": "AT701E",
+      "model": "AT701E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT701U",
       "codename": "AT701U",
       "model": "AT701U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT801",
+      "codename": "AT801",
+      "model": "AT801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT801U",
+      "codename": "AT801U",
+      "model": "AT801U"
     }
   ]
 }

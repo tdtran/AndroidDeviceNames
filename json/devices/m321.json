@@ -4,5 +4,11 @@
     "market_name": "Honor Box",
     "codename": "m321",
     "model": "M321"
+  },
+  {
+    "manufacturer": "MAGCH",
+    "market_name": "M321",
+    "codename": "M321",
+    "model": "M321"
   }
 ]

@@ -63,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10 4G PRO X",
+      "codename": "T2040",
+      "model": "T2040"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G PRO X",
+      "codename": "T2040",
+      "model": "Tab Q10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mini",
       "codename": "mini",
       "model": "Positivo Mini"
@@ -231,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T2040",
+      "codename": "T2040B",
+      "model": "T2040"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T701 TV",
       "codename": "T701",
       "model": "T701"
@@ -291,8 +309,26 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T800",
+      "codename": "T800M",
+      "model": "T800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T810",
       "codename": "T810",
+      "model": "T810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T810",
+      "codename": "T810",
+      "model": "Tab Q8 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T810C",
+      "codename": "T810C",
       "model": "T810"
     },
     {

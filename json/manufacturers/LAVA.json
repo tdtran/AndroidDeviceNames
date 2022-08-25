@@ -135,9 +135,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aura Plus",
+      "codename": "Lava_Aura_Plus",
+      "model": "Aura_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BE_U",
       "codename": "Be_U",
       "model": "Lava Be_U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAZE",
+      "codename": "LZX403",
+      "model": "LAVA Blaze"
     },
     {
       "manufacturer": "",
@@ -370,6 +382,12 @@
     {
       "manufacturer": "",
       "market_name": "T101",
+      "codename": "LTN10RT",
+      "model": "LTN10RT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T101",
       "codename": "T101",
       "model": "T101"
     },
@@ -412,8 +430,20 @@
     {
       "manufacturer": "",
       "market_name": "T81",
+      "codename": "LTN8RT",
+      "model": "LTN8RT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T81",
       "codename": "T81",
       "model": "T81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T81",
+      "codename": "T81_PB",
+      "model": "T81_PB"
     },
     {
       "manufacturer": "",
@@ -510,6 +540,12 @@
       "market_name": "X19",
       "codename": "X19",
       "model": "X19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2",
+      "codename": "LZG403_225",
+      "model": "LAVA LZG403 225"
     },
     {
       "manufacturer": "",
@@ -645,9 +681,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z100",
+      "codename": "Z100",
+      "model": "Z100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z1S",
+      "codename": "LZG402_1",
+      "model": "LAVA LZG402_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z2",
       "codename": "LMG01",
       "model": "LAVA LMG01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z21",
+      "codename": "LZG402_OM",
+      "model": "LAVA LZG402 OM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z21",
+      "codename": "LZG402_OMI",
+      "model": "LAVA LZG402 OMI"
     },
     {
       "manufacturer": "",
@@ -666,6 +726,24 @@
       "market_name": "Z3",
       "codename": "LZG403",
       "model": "LAVA LZG403"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3",
+      "codename": "Z3_UP",
+      "model": "LAVA Z3 UP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3",
+      "codename": "Z3_UP_2",
+      "model": "LAVA Z3 UP 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3 PRO",
+      "codename": "LZG403_25",
+      "model": "LAVA LZG403 25"
     },
     {
       "manufacturer": "",

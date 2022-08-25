@@ -9,6 +9,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C6",
+      "codename": "C6",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6 Pro",
+      "codename": "C6_Pro",
+      "model": "C6 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6 Pro ROW",
+      "codename": "C6_Pro",
+      "model": "C6 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C73W",
+      "codename": "C73W",
+      "model": "C73W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C73W_EEA",
+      "codename": "C73W",
+      "model": "C73W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C80W",
       "codename": "C80W",
       "model": "C80W"
@@ -33,6 +63,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C84W",
+      "codename": "C84W",
+      "model": "C84W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10L ROW",
+      "codename": "F10L",
+      "model": "F10L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F12W",
+      "codename": "F12W",
+      "model": "F12W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F12W_EEA",
+      "codename": "F12W",
+      "model": "F12W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F35W",
+      "codename": "F35W",
+      "model": "F35W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F80L",
       "codename": "F80L",
       "model": "F80L"
@@ -54,6 +114,36 @@
       "market_name": "F81L_EEA",
       "codename": "F81L",
       "model": "F81L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20L",
+      "codename": "P20L",
+      "model": "P20L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20L ROW",
+      "codename": "P20L",
+      "model": "P20L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80L",
+      "codename": "P80L",
+      "model": "P80L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P81L",
+      "codename": "P81L",
+      "model": "P81L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P83L",
+      "codename": "P83L",
+      "model": "P83L"
     }
   ]
 }

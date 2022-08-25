@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TabX4",
+      "codename": "TabX4",
+      "model": "TabX4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab_X1",
       "codename": "Tab_X1",
       "model": "Tab_X1"

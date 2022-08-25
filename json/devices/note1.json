@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CORN",
+    "market_name": "CORN Note1",
+    "codename": "Note1",
+    "model": "CORN Note1"
+  },
+  {
     "manufacturer": "MOBULAA",
     "market_name": "NOTE1",
     "codename": "NOTE1",

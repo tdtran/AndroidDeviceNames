@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Chile",
+      "codename": "martin",
+      "model": "KIOTO 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID1021",
       "codename": "MID1021",
       "model": "MID1021"

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "AIS (Thailand)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AISPLAYBOX",
+      "codename": "AISPLAYBOX",
+      "model": "AISPLAYBOX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AISPLAYBOX",
+      "codename": "B866V2-HA",
+      "model": "AISPLAYBOX"
+    }
+  ]
+}

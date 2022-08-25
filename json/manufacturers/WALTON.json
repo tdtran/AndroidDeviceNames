@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "32FD1",
-      "codename": "osaki",
-      "model": "2K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Bangladesh and EU",
       "codename": "tamachi",
       "model": "WALTON Android TV"
@@ -24,6 +18,18 @@
       "market_name": "LT750",
       "codename": "LT750",
       "model": "LT750"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orbit M20",
+      "codename": "OrbitM20",
+      "model": "Orbit M20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orbit Y20",
+      "codename": "OrbitY20",
+      "model": "Orbit Y20"
     },
     {
       "manufacturer": "",
@@ -48,6 +54,12 @@
       "market_name": "PRIMO NH4",
       "codename": "PRIMO_NH4",
       "model": "PRIMO NH4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMO_EF10",
+      "codename": "PRIMO_EF10",
+      "model": "PRIMO EF10"
     },
     {
       "manufacturer": "",
@@ -267,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo H10",
+      "codename": "Primo_H10",
+      "model": "Primo H10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo H6+",
       "codename": "Primo_H6_Plus",
       "model": "Primo H6 Plus"
@@ -336,6 +354,12 @@
       "market_name": "Primo HM6 Lite",
       "codename": "Primo_HM6_Lite",
       "model": "Primo HM6 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo HM7",
+      "codename": "Primo_HM7",
+      "model": "Primo HM7"
     },
     {
       "manufacturer": "",
@@ -429,6 +453,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo NX6",
+      "codename": "Primo_NX6",
+      "model": "Primo NX6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo R4",
       "codename": "Primo_R4",
       "model": "Primo R4"
@@ -468,6 +498,12 @@
       "market_name": "Primo R8",
       "codename": "Primo_R8",
       "model": "Primo R8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo R9",
+      "codename": "Primo_R9",
+      "model": "Primo R9"
     },
     {
       "manufacturer": "",
@@ -603,13 +639,43 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALPAD 10H",
+      "codename": "Walpad_10H",
+      "model": "Walpad_10H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WALPAD 10P",
       "codename": "10P",
       "model": "WALPAD 10P"
     },
     {
       "manufacturer": "",
-      "market_name": "WALPAD_8G",
+      "market_name": "WALPAD 8G",
+      "codename": "WALPAD8G_V2",
+      "model": "WALPAD8G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALPAD 8G",
+      "codename": "WALPAD8G_V2",
+      "model": "WALPAD_8G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALPAD 8G",
       "codename": "WALPAD_8G",
       "model": "WALPAD_8G"
     },

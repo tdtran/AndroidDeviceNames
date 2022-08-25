@@ -10,5 +10,29 @@
     "market_name": "M1 Plus",
     "codename": "Fog",
     "model": "M1_Plus"
+  },
+  {
+    "manufacturer": "Radger",
+    "market_name": "Redmi 10C",
+    "codename": "fog",
+    "model": "220333QAG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10",
+    "codename": "fog",
+    "model": "220333QBI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10 Power",
+    "codename": "fog",
+    "model": "220333QBI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10C",
+    "codename": "fog",
+    "model": "220333QAG"
   }
 ]

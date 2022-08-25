@@ -24,6 +24,12 @@
       "market_name": "V710",
       "codename": "V710",
       "model": "V710"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W888",
+      "codename": "W888",
+      "model": "W888"
     }
   ]
 }

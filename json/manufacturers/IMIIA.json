@@ -1,0 +1,23 @@
+{
+  "manufacturer": "imiia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i-217D1",
+      "codename": "YUL",
+      "model": "i-217D1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "UAUU",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T60",
+      "codename": "T60",
+      "model": "T60"
+    }
+  ]
+}

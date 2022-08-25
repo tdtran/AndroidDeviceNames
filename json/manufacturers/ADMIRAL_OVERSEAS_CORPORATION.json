@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ADMIRAL TV",
+      "codename": "sunnyvale",
+      "model": "ADMIRAL TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C7",
       "codename": "C7",
       "model": "C7"

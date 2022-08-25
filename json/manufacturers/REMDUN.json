@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RD115MQ",
+      "codename": "RD115MQ",
+      "model": "RD115MQ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD115MQE",
+      "codename": "RD115MQE",
+      "model": "RD115MQE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD11PT",
       "codename": "RD11PT",
       "model": "RD11PT"
@@ -117,6 +129,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RD865MQ",
+      "codename": "RD865MQ",
+      "model": "RD865MQ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD865MQE",
+      "codename": "RD865MQE",
+      "model": "RD865MQE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD86E",
       "codename": "RD86E",
       "model": "RD86E"
@@ -126,6 +150,18 @@
       "market_name": "RD86QE",
       "codename": "RD86QE",
       "model": "RD86QE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD895T",
+      "codename": "RD895T",
+      "model": "RD895T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD895TE",
+      "codename": "RD895TE",
+      "model": "RD895TE"
     }
   ]
 }

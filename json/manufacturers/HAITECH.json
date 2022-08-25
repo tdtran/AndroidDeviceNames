@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HPAD-M2",
+      "codename": "HPAD-M2",
+      "model": "HPAD-M2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HPAD_IA65",
       "codename": "HPAD_IA65",
       "model": "HPAD_IA65"

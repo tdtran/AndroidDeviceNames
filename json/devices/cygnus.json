@@ -4,5 +4,11 @@
     "market_name": "CYGNUS",
     "codename": "CYGNUS",
     "model": "CYGNUS"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "Cygnus",
+    "codename": "Cygnus",
+    "model": "Cygnus"
   }
 ]

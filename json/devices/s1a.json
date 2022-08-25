@@ -4,5 +4,11 @@
     "market_name": "S1a",
     "codename": "S1a",
     "model": "S1a"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "S1A",
+    "codename": "S1A",
+    "model": "S1A"
   }
 ]

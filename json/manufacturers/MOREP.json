@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Morep Pocket",
+      "codename": "Morep_Pocket",
+      "model": "M320"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart V1",
       "codename": "Smart_V1",
       "model": "M521"

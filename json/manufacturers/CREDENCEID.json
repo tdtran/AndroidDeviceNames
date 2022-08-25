@@ -1,0 +1,11 @@
+{
+  "manufacturer": "CredenceID",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CredenceECO",
+      "codename": "CredenceECO",
+      "model": "CE1-CID-16-4G-011"
+    }
+  ]
+}

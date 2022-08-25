@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI 2K Android TV",
+    "codename": "lasalle",
+    "model": "HYUNDAI 2K Android TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "KONKA 2K Android TV",
+    "codename": "lasalle",
+    "model": "KONKA 2K Android TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "KONKA 2K Android TV-A",
+    "codename": "lasalle",
+    "model": "KONKA 2K Android TV-A"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Polaroid 2K Android TV",
+    "codename": "lasalle",
+    "model": "Polaroid 2K Android TV"
+  }
+]

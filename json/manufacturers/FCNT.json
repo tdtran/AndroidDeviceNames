@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AW02",
+      "codename": "AW02",
+      "model": "AW02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-52B",
+      "codename": "F52B",
+      "model": "F-52B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SD01",
       "codename": "SD01",
       "model": "SD01"

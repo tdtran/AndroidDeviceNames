@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cubot",
+    "market_name": "Pocket",
+    "codename": "Pocket",
+    "model": "Pocket"
+  },
+  {
     "manufacturer": "Hamic",
     "market_name": "POCKET",
     "codename": "POCKET",

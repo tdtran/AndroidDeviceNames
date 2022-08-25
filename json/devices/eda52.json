@@ -4,5 +4,11 @@
     "market_name": "EDA52",
     "codename": "EDA52",
     "model": "EDA52"
+  },
+  {
+    "manufacturer": "Honeywell",
+    "market_name": "EDA56",
+    "codename": "EDA52",
+    "model": "EDA56"
   }
 ]

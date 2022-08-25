@@ -6,6 +6,18 @@
     "model": "ACONATIC FHD TV"
   },
   {
+    "manufacturer": "BPL",
+    "market_name": "BPL FHD TV",
+    "codename": "takao",
+    "model": "BPL FHD TV"
+  },
+  {
+    "manufacturer": "Brandt",
+    "market_name": "BRANDT FHD TV",
+    "codename": "takao",
+    "model": "BRANDT FHD TV"
+  },
+  {
     "manufacturer": "IMPEX",
     "market_name": "Grande FHD TV",
     "codename": "takao",

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Doogee",
+    "market_name": "S96GT",
+    "codename": "S96Pro",
+    "model": "S96GT"
+  },
+  {
+    "manufacturer": "Doogee",
     "market_name": "S96Pro",
     "codename": "S96Pro",
     "model": "S96Pro"

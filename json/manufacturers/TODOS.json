@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TABAI1",
+      "codename": "TABAI1",
+      "model": "TABAI1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab64",
       "codename": "Tab64",
       "model": "Tab64"

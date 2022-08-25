@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tibuta_MasterPad-W200",
+      "codename": "MasterPad-W200",
+      "model": "Tibuta_MasterPad-W200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tibuta_MasterPad_K100",
       "codename": "Tibuta_MasterPad_K100",
       "model": "Tibuta_MasterPad_K100"

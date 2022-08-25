@@ -18,6 +18,12 @@
       "market_name": "VIZZION TV",
       "codename": "shinjuku",
       "model": "VIZZION TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vizzion",
+      "codename": "zhongshan",
+      "model": "F VIZZION TV"
     }
   ]
 }

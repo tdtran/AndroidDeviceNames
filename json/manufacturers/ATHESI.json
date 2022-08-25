@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Athesi AP5706",
+      "codename": "AP5706",
+      "model": "Athesi_AP5706"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Athesi professional AP5705S",
       "codename": "AP5705S",
       "model": "AP5705S"

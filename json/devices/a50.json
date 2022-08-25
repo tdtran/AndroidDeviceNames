@@ -12,6 +12,12 @@
     "model": "Garmin-Asus A50"
   },
   {
+    "manufacturer": "Blackview",
+    "market_name": "A50",
+    "codename": "A50",
+    "model": "A50"
+  },
+  {
     "manufacturer": "Garmin",
     "market_name": "Nuvifone",
     "codename": "a50",

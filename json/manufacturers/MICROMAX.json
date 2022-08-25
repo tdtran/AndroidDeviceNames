@@ -159,6 +159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ATV R1",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATV R2",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R2",
       "model": "ATV R2"
@@ -546,6 +558,12 @@
       "market_name": "CANVAS 4",
       "codename": "s9111b",
       "model": "A210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CANVAS B20",
+      "codename": "B6546",
+      "model": "B6546"
     },
     {
       "manufacturer": "",
@@ -1251,9 +1269,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IN_2c",
+      "codename": "E6533",
+      "model": "IN_2c"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IN_Note1",
       "codename": "E7746",
       "model": "IN_Note1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IN_Note2",
+      "codename": "E7446",
+      "model": "E7446"
     },
     {
       "manufacturer": "",

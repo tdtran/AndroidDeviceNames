@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AUTOID10",
+      "codename": "d560",
+      "model": "AUTOID10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AUTOID11",
+      "codename": "d310x",
+      "model": "AUTOID11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AUTOID9N",
       "codename": "d500b",
       "model": "AUTIOD9N"
@@ -42,6 +54,30 @@
       "market_name": "CRUISE1",
       "codename": "d700s",
       "model": "CRUISE1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CRUISE2",
+      "codename": "d730",
+      "model": "CRUISE2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CRUISE2 5G",
+      "codename": "d740",
+      "model": "CRUISE2 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CRUISE2 5G EEA",
+      "codename": "d740",
+      "model": "CRUISE2 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HHT8B",
+      "codename": "hht8b",
+      "model": "HHT8B"
     }
   ]
 }

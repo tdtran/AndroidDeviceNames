@@ -3,18 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "\tonn_100003561",
-      "codename": "mid8011",
-      "model": "100003561"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "100003562",
-      "codename": "mid1035_mq",
-      "model": "100003562"
-    },
-    {
-      "manufacturer": "",
       "market_name": "100005207",
       "codename": "100005207",
       "model": "100005207"
@@ -39,18 +27,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "100011885",
-      "codename": "100011885",
-      "model": "100011885"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "100011886",
-      "codename": "100011886",
-      "model": "100011886"
-    },
-    {
-      "manufacturer": "",
       "market_name": "100011886A",
       "codename": "100011886A",
       "model": "100011886A"
@@ -60,12 +36,6 @@
       "market_name": "100011886CA",
       "codename": "100011886CA",
       "model": "100011886CA"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "100015685-A",
-      "codename": "100015685-A",
-      "model": "100015685-A"
     },
     {
       "manufacturer": "",
@@ -90,18 +60,6 @@
       "market_name": "100043279",
       "codename": "mid1105_mp",
       "model": "100043279"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "100044018G",
-      "codename": "100044018G",
-      "model": "100044018G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "100044018P",
-      "codename": "100044018P",
-      "model": "100044018P"
     },
     {
       "manufacturer": "",

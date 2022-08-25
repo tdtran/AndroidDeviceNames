@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MT8768",
+      "codename": "MT8768",
+      "model": "MT8768"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VK102W",
       "codename": "VK102W",
       "model": "VK102W"

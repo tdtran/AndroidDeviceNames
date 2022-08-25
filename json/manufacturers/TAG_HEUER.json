@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Connected Calibre E4 42mm",
+      "codename": "oxygen42",
+      "model": "TAG Heuer"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Connected Calibre E4 45mm",
+      "codename": "oxygen45",
+      "model": "TAG Heuer"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Connected Modular 41",
       "codename": "spectralite",
       "model": "TAG Heuer"

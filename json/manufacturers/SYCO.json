@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Syco",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RS-403_EEA",
+      "codename": "RS-403",
+      "model": "RS-403"
+    }
+  ]
+}

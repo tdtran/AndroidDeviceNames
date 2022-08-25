@@ -15,9 +15,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C81W",
+      "codename": "C81W",
+      "model": "C81W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C81W_EEA",
+      "codename": "C81W_EEA",
+      "model": "C81W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C83W",
+      "codename": "C83W",
+      "model": "C83W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C83W_EEA",
+      "codename": "C83W_EEA",
+      "model": "C83W_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F11W",
       "codename": "F11W",
       "model": "F11W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11W_EEA",
+      "codename": "F11W",
+      "model": "F11W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P82L",
+      "codename": "P82L",
+      "model": "P82L"
     }
   ]
 }

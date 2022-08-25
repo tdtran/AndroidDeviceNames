@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EZpad_M10S",
+      "codename": "EZpad_M10S",
+      "model": "EZpad M10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EZpad_M10S_ROW",
+      "codename": "EZpad_M10S_ROW",
+      "model": "EZpad M10S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EZpad_M10_EEA",
       "codename": "EZpad_M10",
       "model": "EZpad M10"

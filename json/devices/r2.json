@@ -30,6 +30,12 @@
     "model": "ATV R2"
   },
   {
+    "manufacturer": "BOREAL",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "CG Inspiring Life",
     "market_name": "Android TV",
     "codename": "R2",
@@ -72,6 +78,18 @@
     "model": "ATV R2"
   },
   {
+    "manufacturer": "EAS ELECTRIC",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "EVVO",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
     "manufacturer": "EssentielB",
     "market_name": "Android TV",
     "codename": "R2",
@@ -85,6 +103,12 @@
   },
   {
     "manufacturer": "Hitachi",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Home Elite",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"
@@ -145,12 +169,30 @@
   },
   {
     "manufacturer": "Micromax",
+    "market_name": "ATV R2",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Micromax",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "Minister",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"
   },
   {
     "manufacturer": "Mystic",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "NGM Italia SRL",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"
@@ -168,16 +210,16 @@
     "model": "ATV R2"
   },
   {
-    "manufacturer": "PALSONIC",
-    "market_name": "Android TV",
-    "codename": "R2",
-    "model": "ATV R2"
-  },
-  {
     "manufacturer": "Panasonic",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "PANASONIC TV"
+  },
+  {
+    "manufacturer": "Pioneer",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
   },
   {
     "manufacturer": "Polaroid",
@@ -199,6 +241,12 @@
   },
   {
     "manufacturer": "SCHNEIDER",
+    "market_name": "Android TV",
+    "codename": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "manufacturer": "SPJtv",
     "market_name": "Android TV",
     "codename": "R2",
     "model": "ATV R2"

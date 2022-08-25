@@ -1,49 +1,43 @@
 [
   {
     "manufacturer": "Challenger",
-    "market_name": "Challenger",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
   {
     "manufacturer": "Engel",
-    "market_name": "LE3290ATV",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
   {
     "manufacturer": "Hyundai",
-    "market_name": "Hyundai",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "HYUNDAI 2K AI Smart TV"
   },
   {
     "manufacturer": "JVC",
-    "market_name": "Amtran",
-    "codename": "osaki",
-    "model": "2K AI Smart TV"
-  },
-  {
-    "manufacturer": "JVC",
-    "market_name": "LT-32K397",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
   {
     "manufacturer": "LEVEL TV",
-    "market_name": "32F1D",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
   {
     "manufacturer": "Nano",
-    "market_name": "nano",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "nano 2K AI Smart TV"
   },
   {
     "manufacturer": "OK (Mediamark)",
-    "market_name": "ODL 32760HN-TAB",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
@@ -55,37 +49,37 @@
   },
   {
     "manufacturer": "RCA",
-    "market_name": "RS43F2-EU",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
   {
     "manufacturer": "RCA",
-    "market_name": "Tree",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "Treeview 2K AI Smart TV"
   },
   {
     "manufacturer": "RCA",
-    "market_name": "UNICO",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "UNICO 2K AI Smart TV"
   },
   {
     "manufacturer": "Soniq",
-    "market_name": "G32HW60A",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
   {
     "manufacturer": "UNITED TV",
-    "market_name": "UNITED",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   },
   {
     "manufacturer": "Walton",
-    "market_name": "32FD1",
+    "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
   }

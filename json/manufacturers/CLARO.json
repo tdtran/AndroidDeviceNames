@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CLARO BOX TV",
+      "codename": "SEI810CCOA",
+      "model": "CLARO BOX TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Claro Colombia STB",
       "codename": "SEI800CCOA",
       "model": "Claro Colombia STB"
@@ -12,6 +18,12 @@
       "market_name": "Claro STB",
       "codename": "SEI810CPR",
       "model": "Claro STB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4KW3",
+      "codename": "m393_4l",
+      "model": "S4KW3"
     },
     {
       "manufacturer": "",

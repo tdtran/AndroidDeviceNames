@@ -75,6 +75,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ET40",
+      "codename": "ET40L",
+      "model": "ET40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ET40",
+      "codename": "ET40S",
+      "model": "ET40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ET40A",
+      "codename": "ET40L",
+      "model": "ET40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ET40A",
+      "codename": "ET40S",
+      "model": "ET40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ET56CA",
       "codename": "ET56L",
       "model": "ET56"
@@ -177,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC15",
+      "codename": "TC15",
+      "model": "TC15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC20",
       "codename": "TC20RD",
       "model": "TC20"
@@ -231,6 +261,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC53",
+      "codename": "TC53",
+      "model": "TC53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC53A",
+      "codename": "TC53",
+      "model": "TC53"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC55",
       "codename": "TC55",
       "model": "TC55"
@@ -243,9 +285,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC58",
+      "codename": "TC58",
+      "model": "TC58"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC70x",
       "codename": "TC70x",
       "model": "TC70x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC73",
+      "codename": "TC73",
+      "model": "TC73"
     },
     {
       "manufacturer": "",
@@ -264,6 +318,12 @@
       "market_name": "TC8000",
       "codename": "TC8000",
       "model": "TC8000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TN28",
+      "codename": "TN28",
+      "model": "TN28"
     },
     {
       "manufacturer": "",

@@ -147,6 +147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C350LK",
+      "codename": "songshan",
+      "model": "Toshiba TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
+      "codename": "songshan",
+      "model": "Toshiba TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JP:REGZA Tablet AT570  Others:TOSHIBA AT270",
       "codename": "tostab11BS",
       "model": "AT270"
@@ -270,6 +282,18 @@
       "market_name": "L9450",
       "codename": "l9450",
       "model": "l9450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M550LK",
+      "codename": "songshan",
+      "model": "Toshiba TV with MIC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M550LP/M550LI",
+      "codename": "songshan",
+      "model": "Toshiba TV with MIC"
     },
     {
       "manufacturer": "",

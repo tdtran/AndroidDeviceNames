@@ -1,0 +1,11 @@
+{
+  "manufacturer": "SENSETALK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ACM-T01K",
+      "codename": "ACM-T01K",
+      "model": "ACM-T01K"
+    }
+  ]
+}

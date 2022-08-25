@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Allegro",
+      "codename": "RFIP_ST4K_2",
+      "model": "Allegro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Atom ii",
       "codename": "Atom_ii",
       "model": "Symphony Atom ii"
@@ -42,6 +48,12 @@
       "market_name": "G10plus",
       "codename": "G10plus",
       "model": "G10+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G50",
+      "codename": "G50",
+      "model": "G50"
     },
     {
       "manufacturer": "",
@@ -171,6 +183,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Symphony V138Lite",
+      "codename": "V138Lite",
+      "model": "V138Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Symphony i73",
+      "codename": "i73",
+      "model": "i73"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Symphony_Z12",
       "codename": "Symphony_Z12",
       "model": "Symphony_Z12"
@@ -246,6 +270,12 @@
       "market_name": "V138",
       "codename": "V138",
       "model": "V138"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V139",
+      "codename": "V139",
+      "model": "V139"
     },
     {
       "manufacturer": "",
@@ -453,6 +483,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z42",
+      "codename": "Z42",
+      "model": "Z42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z45",
+      "codename": "Z45",
+      "model": "Symphony Z45"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZVII",
       "codename": "ZVII",
       "model": "ZVII"
@@ -573,6 +615,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i71",
+      "codename": "i71",
+      "model": "i71"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i72",
       "codename": "i72",
       "model": "i72"
@@ -582,6 +630,12 @@
       "market_name": "i74",
       "codename": "i74",
       "model": "i74"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i80",
+      "codename": "i80",
+      "model": "i80"
     },
     {
       "manufacturer": "",

@@ -45,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X11_EEA",
+      "codename": "X11_EEA",
+      "model": "X11_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X2_EEA",
       "codename": "X2_EEA",
       "model": "X2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X3",
+      "codename": "X3",
+      "model": "X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X3_EEA",
+      "codename": "X3_EEA",
+      "model": "X3_EEA"
     },
     {
       "manufacturer": "",

@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EA630_Plus",
+      "codename": "EA630_Plus",
+      "model": "EA630_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT330",
+      "codename": "HT330",
+      "model": "HT330"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT730",
       "codename": "HT730",
       "model": "HT730"

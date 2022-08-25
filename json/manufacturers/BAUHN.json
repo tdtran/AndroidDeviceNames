@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Australia",
       "codename": "nippori",
       "model": "Bauhn Android TV 2K"
@@ -15,12 +21,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "BAUHN",
-      "codename": "gangbyeon",
-      "model": "4K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Bauhn",
       "codename": "komagome",
       "model": "BAUHN 2K Android TV"
@@ -30,6 +30,18 @@
       "market_name": "Bauhn android TV",
       "codename": "hanyang",
       "model": "Tempo Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     }
   ]
 }

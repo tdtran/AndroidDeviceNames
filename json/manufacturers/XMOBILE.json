@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X3",
+      "codename": "Xmobile_X3",
+      "model": "X3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X7",
       "codename": "X7",
       "model": "XMOBILE X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xmovi_X8",
+      "codename": "Xmovi_X8",
+      "model": "X8"
     }
   ]
 }

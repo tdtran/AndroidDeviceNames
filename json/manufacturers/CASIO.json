@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "dtx450",
+      "codename": "dtx450",
+      "model": "DT-X400/X450"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itg600",
       "codename": "itg600",
       "model": "IT-G600"

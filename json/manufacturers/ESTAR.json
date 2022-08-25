@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "eSTAR 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GO! HD Quad core 3G",
       "codename": "MID7438G",
       "model": "eSTAR GO HD Quad core 3G"
@@ -96,6 +102,12 @@
       "market_name": "eSTAR GRAND HD Quad Core",
       "codename": "MID1298",
       "model": "eSTAR GRAND HD Quad core"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "eSTAR_PAD_B8",
+      "codename": "eSTAR_PAD_B8",
+      "model": "eSTAR_PAD_B8"
     }
   ]
 }

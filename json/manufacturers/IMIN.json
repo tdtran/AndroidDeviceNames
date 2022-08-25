@@ -1,0 +1,17 @@
+{
+  "manufacturer": "iMin",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "I22M01",
+      "codename": "I22M01",
+      "model": "I22M01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swift 1",
+      "codename": "I22M01",
+      "model": "Swift_1"
+    }
+  ]
+}

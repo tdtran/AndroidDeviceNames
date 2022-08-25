@@ -1,0 +1,11 @@
+{
+  "manufacturer": "NOVATAB",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "NOVAT-10",
+      "model": "NOVAT-10"
+    }
+  ]
+}

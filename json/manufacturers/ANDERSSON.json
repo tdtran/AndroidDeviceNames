@@ -24,6 +24,12 @@
       "market_name": "TBQ_10321",
       "codename": "TBQ_10321",
       "model": "TBQ_10321"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBX10",
+      "codename": "TBX10",
+      "model": "TBX10"
     }
   ]
 }

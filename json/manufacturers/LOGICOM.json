@@ -63,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FIVE",
+      "codename": "FIVE_EEA",
+      "model": "FIVE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FLOW",
+      "codename": "FLOW_EEA",
+      "model": "FLOW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ID bot 53",
       "codename": "IDbot53",
       "model": "ID bot 53"
@@ -573,6 +585,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "La_tab_link_74",
+      "codename": "La_tab_link_74",
+      "model": "La_tab_link_74"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Le Connect",
       "codename": "Le_Connect",
       "model": "Le_Connect"
@@ -882,6 +900,12 @@
       "market_name": "S952",
       "codename": "S952",
       "model": "S952"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SOLAR",
+      "codename": "SOLAR",
+      "model": "SOLAR"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,11 @@
     "market_name": "SEN_1055_ARM",
     "codename": "SEN_1055_ARM",
     "model": "SEN_1055_ARM"
+  },
+  {
+    "manufacturer": "Connex",
+    "market_name": "SEN_1055_ARM1064",
+    "codename": "SEN_1055_ARM",
+    "model": "SEN_1055_ARM1064"
   }
 ]

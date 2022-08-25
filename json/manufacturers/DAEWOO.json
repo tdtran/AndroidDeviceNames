@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAEWOO SMART TV",
+      "codename": "sunnyvale",
+      "model": "DAEWOO SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DW-TN7RK16",
       "codename": "DW-TN7RK16",
       "model": "DW-TN7RK16"
@@ -12,6 +24,12 @@
       "market_name": "Daewoo 4K TV",
       "codename": "SW4H_FF",
       "model": "Daewoo 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K SA Smart TV"
     }
   ]
 }

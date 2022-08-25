@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Oukitel",
+    "market_name": "RT1",
+    "codename": "RT1",
+    "model": "RT1"
+  },
+  {
+    "manufacturer": "Oukitel",
     "market_name": "RT1_EEA",
     "codename": "RT1",
     "model": "RT1"

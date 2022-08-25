@@ -1,0 +1,23 @@
+{
+  "manufacturer": "COEX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "COEX 2K Smart TV",
+      "codename": "sunnyvale",
+      "model": "COEX 2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COEX 4K Smart TV",
+      "codename": "SW6H",
+      "model": "COEX 4K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COEX 4K Smart TV FF",
+      "codename": "SW6H",
+      "model": "COEX 4K Smart TV FF"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "TCL",
+    "market_name": "G05_4K_GB",
+    "codename": "G05",
+    "model": "Smart TV Pro"
+  },
+  {
+    "manufacturer": "TCL",
     "market_name": "G05_4K_US",
     "codename": "G05",
     "model": "Smart TV Pro"

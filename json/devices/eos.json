@@ -13,9 +13,21 @@
   },
   {
     "manufacturer": "Redmi",
+    "market_name": "Redmi 10",
+    "codename": "eos",
+    "model": "22011119UY"
+  },
+  {
+    "manufacturer": "Redmi",
     "market_name": "Redmi 10 2022",
     "codename": "eos",
     "model": "21061119DG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10 2022",
+    "codename": "eos",
+    "model": "22011119UY"
   },
   {
     "manufacturer": "ZTE",

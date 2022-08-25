@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "Aqua",
+    "market_name": "AQUA Android TV DVB",
+    "codename": "dupont",
+    "model": "AQUA Android TV DVB"
+  },
+  {
+    "manufacturer": "Durabrand",
+    "market_name": "DB Android TV 4K",
+    "codename": "dupont",
+    "model": "DB Android TV 4K"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "CANDY Android TV DVB",
+    "codename": "dupont",
+    "model": "CANDY Android TV DVB"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "HEC Android TV DVB",
+    "codename": "dupont",
+    "model": "HEC Android TV DVB"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier Android TV DVB",
+    "codename": "dupont",
+    "model": "Haier Android TV DVB"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier Android TV ISDB",
+    "codename": "dupont",
+    "model": "Haier Android TV ISDB"
+  }
+]

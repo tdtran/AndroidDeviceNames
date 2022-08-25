@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TK806",
+      "codename": "TK806",
+      "model": "TK806"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TK806_EEA",
+      "codename": "TK806_EEA",
+      "model": "TK806_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TP1001",
       "codename": "TP1001",
       "model": "TP1001"

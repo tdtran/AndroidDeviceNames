@@ -3,6 +3,24 @@
     "manufacturer": "OnePlus",
     "market_name": "OnePlus 7",
     "codename": "OnePlus7",
+    "model": "GM1900"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7",
+    "codename": "OnePlus7",
+    "model": "GM1901"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7",
+    "codename": "OnePlus7",
+    "model": "GM1903"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7",
+    "codename": "OnePlus7",
     "model": "GM1905"
   }
 ]

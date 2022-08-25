@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JT10LTE-X1S",
+      "codename": "JT10LTE-X1S",
+      "model": "JT10LTE-X1S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JT70-X",
       "codename": "JT07-X",
       "model": "JT07-X"

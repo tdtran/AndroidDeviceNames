@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SN01DNGL300",
+      "codename": "YQB",
+      "model": "SN01DNGL300"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SN10016",
       "codename": "SN10016",
       "model": "SN10016"

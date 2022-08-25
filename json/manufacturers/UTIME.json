@@ -1,0 +1,17 @@
+{
+  "manufacturer": "UTIME",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TH602",
+      "codename": "TH602",
+      "model": "TH602"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TH651",
+      "codename": "TH651",
+      "model": "TH651"
+    }
+  ]
+}

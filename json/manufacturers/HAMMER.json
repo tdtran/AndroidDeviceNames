@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer Energy 2 2022",
+      "codename": "Energy_2_2022",
+      "model": "Hammer_Energy_2_2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Explorer Plus",
       "codename": "Explorer_Plus",
       "model": "Hammer_Explorer_Plus"
@@ -24,12 +30,6 @@
       "market_name": "Hammer Explorer Pro",
       "codename": "Hammer_Expl_Pro",
       "model": "Hammer_Explorer_Pro"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Hammer_Energy_2_2022",
-      "codename": "Energy_2_2022",
-      "model": "Hammer_Energy_2_2022"
     }
   ]
 }

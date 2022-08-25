@@ -19,7 +19,7 @@
   },
   {
     "manufacturer": "Aiwa",
-    "market_name": "AW-LED50X6FL",
+    "market_name": "Android TV",
     "codename": "samseong",
     "model": "AI PONT"
   },
@@ -200,6 +200,12 @@
   {
     "manufacturer": "PILOT",
     "market_name": "PQ55CH",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Rindo",
+    "market_name": "Smart TV",
     "codename": "samseong",
     "model": "AI PONT"
   },

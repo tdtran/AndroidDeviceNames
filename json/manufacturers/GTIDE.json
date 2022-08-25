@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G-TiDE_H1_3G",
+      "codename": "G-TiDE_H1_3G",
+      "model": "G-TiDE_H1_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G-TiDE_H1_4",
       "codename": "G-TiDE_H1_4",
       "model": "G-TiDE_H1"
@@ -81,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G-TiDE_P1_3G",
+      "codename": "G-TiDE_P1_3G",
+      "model": "G-TiDE_P1_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G-TiDE_P1_4",
       "codename": "G-TiDE_P1_4",
       "model": "G-TiDE_P1"
@@ -93,9 +105,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Klap_S1",
+      "codename": "Klap_S1",
+      "model": "Klap_S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Klap_S1_EEA",
+      "codename": "Klap_S1_EEA",
+      "model": "Klap_S1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PL1080",
       "codename": "G-TiDE_H1_4G_EEA",
       "model": "G-TiDE_H1_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1",
+      "codename": "V1",
+      "model": "V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1_3G",
+      "codename": "V1_3G",
+      "model": "V1_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1_4G",
+      "codename": "V1_4G",
+      "model": "V1_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zeal1",
+      "codename": "Zeal1",
+      "model": "Zeal1"
     }
   ]
 }

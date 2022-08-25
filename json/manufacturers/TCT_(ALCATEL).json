@@ -4203,6 +4203,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 1T 7 3G NEW",
+      "codename": "U3A_7_3G_Refresh",
+      "model": "9009F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 1T 7 WIFI",
       "codename": "U3A_7_WIFI",
       "model": "8068"
@@ -4890,6 +4896,12 @@
       "market_name": "Alcatel JOY TAB KIDS",
       "codename": "EasyTAB8TMO",
       "model": "9029G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel LUMOS™",
+      "codename": "Dubai_Plus_ATT",
+      "model": "Alcatel_5004C"
     },
     {
       "manufacturer": "",
@@ -6738,12 +6750,6 @@
       "market_name": "TAB 7 DUAL CORE",
       "codename": "T017",
       "model": "TAB 7 DUAL CORE"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TBC",
-      "codename": "Dubai_Plus_ATT",
-      "model": "Alcatel_5004C"
     },
     {
       "manufacturer": "",

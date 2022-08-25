@@ -3,6 +3,18 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy A13 5G",
     "codename": "a13x",
+    "model": "SM-A136B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13 5G",
+    "codename": "a13x",
+    "model": "SM-A136M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13 5G",
+    "codename": "a13x",
     "model": "SM-A136U"
   },
   {
@@ -16,5 +28,23 @@
     "market_name": "Galaxy A13 5G",
     "codename": "a13x",
     "model": "SM-A136W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13 5G",
+    "codename": "a13x",
+    "model": "SM-S136DL"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M13 5G",
+    "codename": "a13x",
+    "model": "SM-M136B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Wide6",
+    "codename": "a13x",
+    "model": "SM-A136S"
   }
 ]

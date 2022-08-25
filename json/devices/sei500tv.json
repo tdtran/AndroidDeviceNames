@@ -4,5 +4,11 @@
     "market_name": "Pyxis",
     "codename": "SEI500TV",
     "model": "Pyxis"
+  },
+  {
+    "manufacturer": "eSTREAM 4K",
+    "market_name": "SEI500TV",
+    "codename": "SEI500TV",
+    "model": "Pyxis"
   }
 ]

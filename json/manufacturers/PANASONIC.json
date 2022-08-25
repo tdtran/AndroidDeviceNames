@@ -165,6 +165,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "2KTV-2TH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "PANASONIC TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Asia",
       "codename": "globe_ap",
       "model": "PanasonicTV"
@@ -869,12 +881,6 @@
       "manufacturer": "",
       "market_name": "FZ-N1",
       "codename": "FZ-N1VUF",
-      "model": "FZ-N1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "FZ-N1E",
-      "codename": "FZ-N1E",
       "model": "FZ-N1"
     },
     {

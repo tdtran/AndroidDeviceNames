@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ADVAN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ADVANNASAPro",
+      "codename": "ADVANNASAPro",
+      "model": "ADVANNASAPro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB A8",
+      "codename": "ADVAN_TAB_A8",
+      "model": "8004"
+    }
+  ]
+}

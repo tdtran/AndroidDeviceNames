@@ -1,0 +1,11 @@
+{
+  "manufacturer": "KTS (JP)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IPN99_RTD1319_TOA",
+      "codename": "TMS-KR01P",
+      "model": "TMS-KR01P"
+    }
+  ]
+}

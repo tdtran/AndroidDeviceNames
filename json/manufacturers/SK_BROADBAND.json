@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AI2 ATV",
+      "codename": "INTEKS21SI",
+      "model": "BID-AI100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BFX-AT100",
+      "codename": "BFX-AT100",
+      "model": "BFX-AT100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PlayZ",
       "codename": "BIP-EB100",
       "model": "BIP-EB100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART3",
+      "codename": "INTEKS20SI",
+      "model": "BID-AT200"
     },
     {
       "manufacturer": "",

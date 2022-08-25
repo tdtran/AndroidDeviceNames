@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SK3404",
+      "codename": "SK3404",
+      "model": "SK3404"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SK5501",
       "codename": "SK5501",
       "model": "SK5501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SK5502",
+      "codename": "SK5502",
+      "model": "SK5502"
     }
   ]
 }

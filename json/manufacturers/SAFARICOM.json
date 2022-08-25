@@ -54,6 +54,12 @@
       "market_name": "SFCSTB2LITE",
       "codename": "SFCSTB2LITE",
       "model": "SFCSTB2LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Safaricom ET Kimem",
+      "codename": "Safaricom_ET_Kimem",
+      "model": "Safaricom ET Kimem"
     }
   ]
 }

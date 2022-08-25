@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Indurama",
+      "codename": "stanford",
+      "model": "CSV2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Indurama",
+      "codename": "zhongshan",
+      "model": "CSV4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "indurama 2K TV",
       "codename": "shinjuku",
       "model": "indurama 2K TV"

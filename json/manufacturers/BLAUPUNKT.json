@@ -51,6 +51,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLAUPUNKT",
+      "codename": "bruno",
+      "model": "BLAUPUNKT 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAUPUNKT",
+      "codename": "stanford",
+      "model": "CSV2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAUPUNKT",
+      "codename": "zhongshan",
+      "model": "CSV4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLAUPUNKT2K",
       "codename": "nippori",
       "model": "BP 2K Android TV"
@@ -75,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BP_6110",
+      "codename": "BP_6110",
+      "model": "BP_6110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunk",
+      "codename": "stanford",
+      "model": "Blaupunkt 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blaupunkt",
       "codename": "bangbae",
       "model": "BLAUPUNKT 4K Android TV"
@@ -94,8 +124,20 @@
     {
       "manufacturer": "",
       "market_name": "Blaupunkt",
+      "codename": "shilin",
+      "model": "BLAUPUNKT 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
       "codename": "sindang",
       "model": "BLAU-TVE19H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "zhongshan",
+      "model": "Blaupunkt 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -162,6 +204,12 @@
       "market_name": "EU",
       "codename": "tamachi",
       "model": "BLAUPUNKT FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "BLAUPUNKT 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -252,6 +300,12 @@
       "market_name": "TX01",
       "codename": "TX01",
       "model": "TX01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "martin",
+      "model": "Blaupunkt 2K Android TV"
     },
     {
       "manufacturer": "",

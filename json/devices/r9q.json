@@ -15,12 +15,42 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy S21 FE 5G",
     "codename": "r9q",
+    "model": "SM-G990B2"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 FE 5G",
+    "codename": "r9q",
     "model": "SM-G990U"
   },
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S21 FE 5G",
     "codename": "r9q",
+    "model": "SM-G990U1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 FE 5G",
+    "codename": "r9q",
+    "model": "SM-G990U2"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 FE 5G",
+    "codename": "r9q",
+    "model": "SM-G990U3"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 FE 5G",
+    "codename": "r9q",
     "model": "SM-G990W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S21 FE 5G",
+    "codename": "r9q",
+    "model": "SM-G990W2"
   }
 ]

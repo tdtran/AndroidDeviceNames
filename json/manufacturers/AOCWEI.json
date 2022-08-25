@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Aocwei",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "X300",
+      "codename": "X300",
+      "model": "X300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X300_EEA",
+      "codename": "X300_EEA",
+      "model": "X300_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X500_EEA",
+      "codename": "X500_EEA",
+      "model": "X500_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X500_US",
+      "codename": "X500_US",
+      "model": "X500_US"
+    }
+  ]
+}

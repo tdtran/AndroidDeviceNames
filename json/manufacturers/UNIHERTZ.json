@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jelly 2E",
+      "codename": "Jelly_2E",
+      "model": "Jelly 2E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jelly2",
       "codename": "Jelly2",
       "model": "Jelly2"
@@ -30,6 +36,12 @@
       "market_name": "Jelly2_JP",
       "codename": "Jelly2_JP",
       "model": "Jelly2_JP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TickTock-E",
+      "codename": "UNIA62",
+      "model": "UNIA62_S01"
     },
     {
       "manufacturer": "",

@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "B866",
+      "codename": "B866_MTS_IPTV",
+      "model": "B866"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B866",
       "codename": "B866_MTS_OTT",
       "model": "B866"
     },
@@ -12,12 +18,6 @@
       "market_name": "DV8304-C",
       "codename": "DV8304C",
       "model": "DV8304-C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Russia",
-      "codename": "B866_MTS_IPTV",
-      "model": "B866"
     },
     {
       "manufacturer": "",

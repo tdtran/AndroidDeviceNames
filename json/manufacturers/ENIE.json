@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SKT119",
+      "codename": "SKT119",
+      "model": "SKT119"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKT706",
+      "codename": "SKT706",
+      "model": "SKT706"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VT8216",
       "codename": "VT8216",
       "model": "VT8216"

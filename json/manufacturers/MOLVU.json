@@ -12,6 +12,12 @@
       "market_name": "V7S",
       "codename": "V7S",
       "model": "V7S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V8S",
+      "codename": "V8S",
+      "model": "V8S"
     }
   ]
 }

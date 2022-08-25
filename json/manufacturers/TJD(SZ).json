@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MT-1011QR",
+      "codename": "MT-1011QR",
+      "model": "MT-1011QR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT-701QU",
       "codename": "MT-701QU",
       "model": "MT-701QU"
@@ -39,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MT-710QF",
+      "codename": "MT-710QF",
+      "model": "MT-710QF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT-710QU",
       "codename": "MT-710QU",
       "model": "TJD MT-710QU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-710QU_Pro",
+      "codename": "MT-710QU_Pro",
+      "model": "MT-710QU_Pro"
     },
     {
       "manufacturer": "",
@@ -57,9 +75,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MT-750QR",
+      "codename": "MT-750QR",
+      "model": "MT-750QR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT-750QU_Pro",
       "codename": "MT-750QU_Pro",
       "model": "MT-750QU_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-750QU_V1",
+      "codename": "MT-750QU_V1",
+      "model": "MT-750QU"
     },
     {
       "manufacturer": "",
@@ -81,9 +111,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MT-790QR_V1",
+      "codename": "MT-790QR_V1",
+      "model": "MT-790QR_V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-790QR_V1_EEA",
+      "codename": "MT-790QR_V1_EEA",
+      "model": "MT-790QR_V1_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT-792OF_EEA",
       "codename": "MT-792OF_EEA",
       "model": "MT-792OF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT_1025QU",
+      "codename": "MT_1025QU",
+      "model": "MT_1025QU"
     }
   ]
 }

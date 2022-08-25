@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cherry Mobile",
+    "market_name": "Pulse",
+    "codename": "Pulse",
+    "model": "Pulse"
+  },
+  {
     "manufacturer": "Huawei",
     "market_name": "",
     "codename": "Pulse",

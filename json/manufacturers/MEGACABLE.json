@@ -12,6 +12,18 @@
       "market_name": "Mexico",
       "codename": "B866V2_ZTE",
       "model": "Xview+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OTT Xview+ AV1",
+      "codename": "B866V2F",
+      "model": "OTT Xview+ AV1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XView+",
+      "codename": "ucw4046meg",
+      "model": "Xview+"
     }
   ]
 }

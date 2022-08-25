@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Chuwi",
+    "market_name": "HiPadPlus-2_EEA",
+    "codename": "HiPadPlus",
+    "model": "HiPadPlus"
+  },
+  {
+    "manufacturer": "Chuwi",
+    "market_name": "HiPadPlus-3_ROW",
+    "codename": "HiPadPlus",
+    "model": "HiPadPlus"
+  },
+  {
+    "manufacturer": "Chuwi",
     "market_name": "HiPadPlus_11_EEA",
     "codename": "HiPadPlus",
     "model": "HiPadPlus"

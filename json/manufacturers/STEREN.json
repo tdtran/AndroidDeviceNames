@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "INTV 1000",
+      "codename": "INTV",
+      "model": "INTV 1000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Steren INTV_1000",
       "codename": "INTV_1000",
       "model": "Steren INTV_1000"

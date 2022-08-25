@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ANDRINO",
+    "market_name": "Andrino",
+    "codename": "komagome",
+    "model": "andrino 2K Android TV"
+  },
+  {
     "manufacturer": "Aconatic",
     "market_name": "Aconatic",
     "codename": "komagome",

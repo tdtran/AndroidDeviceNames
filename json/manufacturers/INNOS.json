@@ -6,6 +6,18 @@
       "market_name": "Android TV",
       "codename": "R2",
       "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Innos",
+      "codename": "shilin",
+      "model": "Innos4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "innos",
+      "codename": "bruno",
+      "model": "Innos2KAndroidTV"
     }
   ]
 }

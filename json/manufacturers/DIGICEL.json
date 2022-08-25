@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DL3PlusPro",
+      "codename": "DL3PlusPro",
+      "model": "DL3PlusPro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DL3_3G",
       "codename": "DL3_3G",
       "model": "DL3_3G"
@@ -36,6 +42,12 @@
       "market_name": "Digi K1",
       "codename": "Digi_K1",
       "model": "Digi_K1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digicel DL4",
+      "codename": "DL4_2022",
+      "model": "DL4"
     },
     {
       "manufacturer": "",

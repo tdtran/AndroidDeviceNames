@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V31D",
+      "codename": "V31D",
+      "model": "V31D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V31E",
       "codename": "V31E",
       "model": "V31E"

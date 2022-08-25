@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "Android TV",
+      "codename": "shandao",
+      "model": "Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
       "codename": "tokyo",
       "model": "Android TV"
     },

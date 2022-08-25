@@ -51,6 +51,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A13",
+      "codename": "A13",
+      "model": "MP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13 EEA",
+      "codename": "A13",
+      "model": "MP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13 Pro",
+      "codename": "A13_Pro",
+      "model": "MP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13 Pro 5G",
+      "codename": "A13_Pro_5G",
+      "model": "MP03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13 Pro 5G EEA",
+      "codename": "A13_Pro_5G",
+      "model": "MP03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13 Pro EEA",
+      "codename": "A13_Pro",
+      "model": "MP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13S",
+      "codename": "A13S",
+      "model": "MP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13S EEA",
+      "codename": "A13S",
+      "model": "MP05"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -171,9 +219,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AblePad S EEA",
+      "codename": "AblePad_S",
+      "model": "MT03"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BISON",
       "codename": "BISON",
       "model": "BISON"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON 2",
+      "codename": "BISON_2",
+      "model": "RP04"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON 2 EEA",
+      "codename": "BISON_2",
+      "model": "RP04"
     },
     {
       "manufacturer": "",
@@ -243,9 +309,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BISON X10G",
+      "codename": "BISON_X10G",
+      "model": "RP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10G EEA",
+      "codename": "BISON_X10G",
+      "model": "RP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10G NFC",
+      "codename": "BISON_X10G_NFC",
+      "model": "RP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10G NFC EEA",
+      "codename": "BISON_X10G_NFC",
+      "model": "RP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10S",
+      "codename": "BISON_X10S",
+      "model": "RP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10S EEA",
+      "codename": "BISON_X10S",
+      "model": "RP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X10S NFC",
+      "codename": "BISON_X10S_NFC",
+      "model": "RP05"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BISON_GT",
       "codename": "BISON_GT",
       "model": "BISON GT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON_GT2",
+      "codename": "BISON_GT2",
+      "model": "RP03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON_GT2_5G",
+      "codename": "BISON_GT2_5G",
+      "model": "RP02"
     },
     {
       "manufacturer": "",
@@ -288,6 +408,54 @@
       "market_name": "F2",
       "codename": "F2",
       "model": "F2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3",
+      "codename": "UMIDIGI_F3",
+      "model": "MP09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3 EEA",
+      "codename": "UMIDIGI_F3",
+      "model": "MP09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3 SE",
+      "codename": "F3_SE",
+      "model": "MP09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3 SE EEA",
+      "codename": "F3_SE",
+      "model": "MP09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3S",
+      "codename": "F3S",
+      "model": "MP09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3S EEA",
+      "codename": "F3S",
+      "model": "MP09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT02_EEA",
+      "codename": "MT02_EEA",
+      "model": "AblePad"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT02_ROW",
+      "codename": "MT02_ROW",
+      "model": "AblePad"
     },
     {
       "manufacturer": "",
@@ -363,6 +531,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power 7",
+      "codename": "Power_7",
+      "model": "MP06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 7 EEA",
+      "codename": "Power_7",
+      "model": "MP06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 7 Max",
+      "codename": "Power_7_Max",
+      "model": "MP06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 7 Max EEA",
+      "codename": "Power_7_Max",
+      "model": "MP06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 7S",
+      "codename": "Power_7S",
+      "model": "MP06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 7S EEA",
+      "codename": "Power_7S",
+      "model": "MP06"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Power_3",
       "codename": "Power_3",
       "model": "Power_3"
@@ -396,6 +600,12 @@
       "market_name": "S5_Pro_EEA",
       "codename": "S5_Pro",
       "model": "S5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G1",
+      "codename": "UMIDIGI_G1",
+      "model": "MP08"
     },
     {
       "manufacturer": "",

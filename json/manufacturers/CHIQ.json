@@ -22,6 +22,12 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
+      "codename": "dundas",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "longshan",
       "model": "AI PONT"
     }

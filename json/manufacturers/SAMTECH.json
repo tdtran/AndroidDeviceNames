@@ -24,6 +24,12 @@
       "market_name": "TWIFI_07",
       "codename": "TWIFI-07",
       "model": "TWIFI-07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TWIFI_Q07",
+      "codename": "TWIFI_Q07",
+      "model": "TWIFI_Q07"
     }
   ]
 }

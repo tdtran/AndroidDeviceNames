@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "martin",
+      "model": "Profilo 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Turkey",
       "codename": "tamachi",
       "model": "Profilo 2K Android TV"

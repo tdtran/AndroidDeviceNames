@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "F150",
-    "market_name": "B2022_EEA",
+    "market_name": "R2022",
+    "codename": "R2022",
+    "model": "R2022"
+  },
+  {
+    "manufacturer": "F150",
+    "market_name": "R2022_EEA",
     "codename": "R2022",
     "model": "R2022"
   }

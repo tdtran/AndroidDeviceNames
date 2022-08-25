@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TX1000",
+      "codename": "TX1000",
+      "model": "TX1000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TX800",
       "codename": "TX800",
       "model": "TX800"
@@ -246,6 +252,30 @@
       "market_name": "X610",
       "codename": "X610",
       "model": "X610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X618",
+      "codename": "X618",
+      "model": "X618"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X620",
+      "codename": "X620",
+      "model": "X620"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X650",
+      "codename": "X650",
+      "model": "X650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X655",
+      "codename": "X655",
+      "model": "X655"
     },
     {
       "manufacturer": "",

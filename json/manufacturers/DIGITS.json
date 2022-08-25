@@ -1,0 +1,11 @@
+{
+  "manufacturer": "digITS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T1",
+      "codename": "T1",
+      "model": "T1"
+    }
+  ]
+}

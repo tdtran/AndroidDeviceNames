@@ -1,0 +1,29 @@
+{
+  "manufacturer": "ABCTECH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PG11",
+      "codename": "PG11",
+      "model": "PG11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X20",
+      "codename": "X20",
+      "model": "X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X20_Pro",
+      "codename": "X20_Pro",
+      "model": "X20_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5",
+      "model": "X5"
+    }
+  ]
+}

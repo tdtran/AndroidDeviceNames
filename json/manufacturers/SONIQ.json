@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "G32HW60A",
-      "codename": "osaki",
-      "model": "2K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "PT0719A",
       "codename": "PT0719A",
       "model": "PT0719A"
@@ -18,6 +12,18 @@
       "market_name": "PT1019A",
       "codename": "PT1019A",
       "model": "PT1019A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
     },
     {
       "manufacturer": "",

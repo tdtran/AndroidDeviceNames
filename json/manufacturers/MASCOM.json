@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MASCOM SS289",
+      "codename": "MASCOM_SS289",
+      "model": "MASCOM SS289"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MASCOM WS517",
+      "codename": "MASCOM_WS517",
+      "model": "MASCOM WS517"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mascom_L850",
       "codename": "Mascom_L850",
       "model": "Mascom_L850"

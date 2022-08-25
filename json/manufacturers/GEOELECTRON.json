@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Geoelectron",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P9IV",
+      "codename": "P9IV_Handheld",
+      "model": "P9IV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P9IV_Handheld_EEA",
+      "codename": "P9IV_Handheld",
+      "model": "P9IV"
+    }
+  ]
+}

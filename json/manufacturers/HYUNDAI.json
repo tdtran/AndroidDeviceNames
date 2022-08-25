@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "HYUNDAI 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "HYUNDAI 4K Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "7LB1",
       "codename": "7LB1",
       "model": "7LB1"
@@ -48,6 +60,30 @@
       "market_name": "Android TV",
       "codename": "R2",
       "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "redwood",
+      "model": "AI PONT NA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "redwood",
+      "model": "AI PONT SA"
     },
     {
       "manufacturer": "",
@@ -117,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E554",
+      "codename": "E554",
+      "model": "E554"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E601F",
       "codename": "E601F",
       "model": "E601F"
@@ -132,6 +174,12 @@
       "market_name": "E603",
       "codename": "E603",
       "model": "E603"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "HYUNDAI ANDROID TV"
     },
     {
       "manufacturer": "",
@@ -279,6 +327,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HT10LA1MSGNA02",
+      "codename": "HT10LA1MSGNA02",
+      "model": "10LA1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT10LB2MBKLTM",
+      "codename": "HT10LB2MBKLTM",
+      "model": "10LB2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT10LB3MBKLTM",
       "codename": "HT10LB3MBKLTM",
       "model": "HT10LB3MBKLTM"
@@ -291,6 +351,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HT10LC1MBKLTM",
+      "codename": "HT10LC1MBKLTM",
+      "model": "HT10LC1MBKLTM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT10LC1MBKWW01",
+      "codename": "HT10LC1MBKWW01",
+      "model": "HT10LC1MBKWW01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT10LC2MBKLTM",
+      "codename": "HT10LC2MBKLTM",
+      "model": "HT10LC2MBKLTM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT10LC2MBKWW01",
+      "codename": "HT10LC2MBKWW01",
+      "model": "HT10LC2MBKWW01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT10WB2MSG01",
+      "codename": "HT10WB2MSG01",
+      "model": "10WB2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT7GB1MBK_",
+      "codename": "HT7GB1MBK_",
+      "model": "7GB1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT7WB1RBK",
       "codename": "HT7WB1RBK",
       "model": "HT7WB1RBK"
@@ -300,6 +396,30 @@
       "market_name": "HT7WC1PBK",
       "codename": "HT7WC1PBK",
       "model": "HT7WC1PBK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT8LA1RBKNA01",
+      "codename": "HT8LA1RBKNA01",
+      "model": "8LA1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT8LAB1PBKLTM",
+      "codename": "HT8LAB1PBKLTM",
+      "model": "HT8LAB1PBKLTM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT8LAB1PBKWW01",
+      "codename": "HT8LAB1PBKWW01",
+      "model": "HT8LAB1PBKWW01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT8LAB1PBKWW01",
+      "codename": "HT8LAB1PBKWW01",
+      "model": "HT8LAB1RBKWW01"
     },
     {
       "manufacturer": "",
@@ -345,6 +465,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HYUNDAI 2K Android TV",
+      "codename": "lasalle",
+      "model": "HYUNDAI 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI 4K Android TV",
+      "codename": "kenton",
+      "model": "HYUNDAI 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI SMART TV",
+      "codename": "sunnyvale",
+      "model": "HYUNDAI SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HY_BDL163G_001",
       "codename": "HY_BDL163G_001_EEA",
       "model": "HY-BDL163G-001"
@@ -370,32 +508,20 @@
     {
       "manufacturer": "",
       "market_name": "Hyundai",
-      "codename": "gangbyeon",
-      "model": "HYUNDAI 4K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Hyundai",
-      "codename": "gangbyeon",
-      "model": "HYUNDAI 4K Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Hyundai",
-      "codename": "kanda",
-      "model": "HYUNDAI 2K Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Hyundai",
       "codename": "komagome",
       "model": "Hyundai 2K Android TV"
     },
     {
       "manufacturer": "",
       "market_name": "Hyundai",
-      "codename": "osaki",
-      "model": "HYUNDAI 2K AI Smart TV"
+      "codename": "stanford",
+      "model": "COL 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai",
+      "codename": "stanford",
+      "model": "SA 2K SMART TV"
     },
     {
       "manufacturer": "",
@@ -681,6 +807,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L651",
+      "codename": "L651",
+      "model": "L651"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L681",
+      "codename": "L681",
+      "model": "L681"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Seoul 9",
       "codename": "Seoul_9",
       "model": "Seoul 9"
@@ -696,6 +834,36 @@
       "market_name": "Seoul_S8",
       "codename": "Seoul_S8",
       "model": "Seoul S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "kanda",
+      "model": "HYUNDAI 2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "osaki",
+      "model": "HYUNDAI 2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT CO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UHD Android TV",
+      "codename": "sindorim",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -810,6 +978,12 @@
       "market_name": "e551 Lite",
       "codename": "e551_Lite",
       "model": "e551 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hyundai",
+      "codename": "stanford",
+      "model": "SMART TV"
     }
   ]
 }

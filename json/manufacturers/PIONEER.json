@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B.PROカーナビ",
       "codename": "AVIC_BX500",
       "model": "jupiter"

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUCA Tablet TM152",
+      "codename": "TM152M4",
+      "model": "TM152"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUCA Tablet TM152",
+      "codename": "TM152M8",
+      "model": "TM152"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TE101N1",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "TE101"

@@ -1,8 +1,104 @@
 [
   {
+    "manufacturer": "Daewoo",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K SA Smart TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K SA Smart TV"
+  },
+  {
+    "manufacturer": "Master-G",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K SA Smart TV"
+  },
+  {
+    "manufacturer": "Nano",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
+    "manufacturer": "Polytron",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
+    "manufacturer": "Profilo",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
     "manufacturer": "RCA",
-    "market_name": "HKC",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K SA Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K US Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "DAEWOO 2K SA Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "Smart TV",
     "codename": "mateo",
     "model": "HKC 2K SA Smart TV"
+  },
+  {
+    "manufacturer": "Soniq",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
+    "manufacturer": "iMuz",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K SA Smart TV"
+  },
+  {
+    "manufacturer": "imiia",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "Smart TV",
+    "codename": "mateo",
+    "model": "2K PA Smart TV"
   }
 ]

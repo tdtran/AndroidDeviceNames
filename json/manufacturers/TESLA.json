@@ -21,6 +21,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "Tesla Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Explr 9",
+      "codename": "Explr_9",
+      "model": "Explr 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LEAP-S1",
+      "codename": "LAS",
+      "model": "LEAP-S1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8.1 3G",
       "codename": "TTM813G",
       "model": "TTM813G"
@@ -48,6 +66,12 @@
       "market_name": "Smartphone 6.4 Lite",
       "codename": "Tesla_SP6_4_Lite",
       "model": "Tesla_SP6_4_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South American",
+      "codename": "patrick",
+      "model": "Tesla 4K Android TV"
     },
     {
       "manufacturer": "",

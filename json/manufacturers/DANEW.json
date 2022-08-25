@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dslide1023_EEA",
+      "codename": "Dslide1023",
+      "model": "Dslide1023"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dslide113_V2_EEA",
       "codename": "Dslide113_V2",
       "model": "Dslide113_V2"
@@ -117,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dslide808",
+      "codename": "Dslide808",
+      "model": "Dslide808"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dslide971DC",
       "codename": "Dslide971DC",
       "model": "Dslide971DC"
@@ -126,6 +138,12 @@
       "market_name": "Dslide_1020",
       "codename": "Dslide_1020",
       "model": "Dslide_1020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dslide_1021C",
+      "codename": "Dslide_1021C",
+      "model": "Dslide_1021C"
     },
     {
       "manufacturer": "",

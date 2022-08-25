@@ -7,13 +7,13 @@
   },
   {
     "manufacturer": "Changhong",
-    "market_name": "Korea",
+    "market_name": "U58H7",
     "codename": "sindorim",
     "model": "AI PONT"
   },
   {
     "manufacturer": "Changhong",
-    "market_name": "U58H7",
+    "market_name": "UHD Android TV",
     "codename": "sindorim",
     "model": "AI PONT"
   },
@@ -25,7 +25,7 @@
   },
   {
     "manufacturer": "HIMADE",
-    "market_name": "Smart TV",
+    "market_name": "UHD Android TV",
     "codename": "sindorim",
     "model": "AI PONT"
   },
@@ -36,20 +36,26 @@
     "model": "AI PONT"
   },
   {
-    "manufacturer": "Infocus",
-    "market_name": "TAIWAN",
+    "manufacturer": "Hyundai",
+    "market_name": "UHD Android TV",
     "codename": "sindorim",
     "model": "AI PONT"
   },
   {
-    "manufacturer": "JVC",
-    "market_name": "LT-50KC507",
+    "manufacturer": "Infocus",
+    "market_name": "UHD Android TV",
     "codename": "sindorim",
     "model": "AI PONT"
   },
   {
     "manufacturer": "JVC",
     "market_name": "LT-55KB597",
+    "codename": "sindorim",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "UHD Android TV",
     "codename": "sindorim",
     "model": "AI PONT"
   },
@@ -61,7 +67,7 @@
   },
   {
     "manufacturer": "LUCOMS",
-    "market_name": "T05CUA",
+    "market_name": "UHD Android TV",
     "codename": "sindorim",
     "model": "AI PONT"
   },

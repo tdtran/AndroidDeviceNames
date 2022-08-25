@@ -12,6 +12,12 @@
       "market_name": "TS7A1",
       "codename": "TS7A1",
       "model": "TS7A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TS7K",
+      "codename": "TS7K",
+      "model": "TS7K"
     }
   ]
 }

@@ -1,6 +1,30 @@
 [
   {
     "manufacturer": "Redmi",
+    "market_name": "Redmi 10A",
+    "codename": "dandelion",
+    "model": "220233L2C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10A",
+    "codename": "dandelion",
+    "model": "220233L2G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10A Sport",
+    "codename": "dandelion",
+    "model": "220233L2I"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9A",
+    "codename": "dandelion",
+    "model": "220233L2G"
+  },
+  {
+    "manufacturer": "Redmi",
     "market_name": "Redmi 9A",
     "codename": "dandelion",
     "model": "M2006C3LC"

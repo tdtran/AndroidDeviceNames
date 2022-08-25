@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "IkuMobile",
+    "market_name": "A11",
+    "codename": "A11",
+    "model": "A11"
+  },
+  {
     "manufacturer": "Oppo",
     "market_name": "A11",
     "codename": "A11",

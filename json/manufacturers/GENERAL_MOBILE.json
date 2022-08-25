@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G310",
+      "codename": "G310",
+      "model": "G310"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 20",
       "codename": "G301",
       "model": "G301"
@@ -84,6 +90,24 @@
       "market_name": "GM 21 Pro",
       "codename": "G700",
       "model": "G700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 22",
+      "codename": "G312",
+      "model": "G312"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 22 Plus",
+      "codename": "G512",
+      "model": "G512"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 22 Pro",
+      "codename": "G702",
+      "model": "G702"
     },
     {
       "manufacturer": "",

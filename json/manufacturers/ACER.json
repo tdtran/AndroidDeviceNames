@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AS8W",
+      "codename": "AS8W",
+      "model": "AS8W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ATAB1021E",
       "codename": "ATAB1021E",
       "model": "ATAB1021E"
@@ -222,6 +228,24 @@
       "market_name": "ATAB821E",
       "codename": "ATAB821E",
       "model": "ATAB821E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATL1021EA",
+      "codename": "ATL1021EA",
+      "model": "ATL1021EA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATLTE1022",
+      "codename": "ATLTE1022",
+      "model": "ATLTE1022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATLTE1022E",
+      "codename": "ATLTE1022E",
+      "model": "ATLTE1022E"
     },
     {
       "manufacturer": "",
@@ -280,8 +304,26 @@
     {
       "manufacturer": "",
       "market_name": "Acer One 8 T4-82L",
+      "codename": "AcerOne8T4-82Lxi",
+      "model": "Acer One 8 T4-82L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer One 8 T4-82L",
       "codename": "AcerOne8T482L",
       "model": "Acer One 8 T4-82L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer_A60",
+      "codename": "Acer_A60",
+      "model": "A60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer_A61L",
+      "codename": "Acer_A61L",
+      "model": "A61L"
     },
     {
       "manufacturer": "",
@@ -300,6 +342,18 @@
       "market_name": "Android TV",
       "codename": "R2",
       "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
     },
     {
       "manufacturer": "",
@@ -1212,6 +1266,12 @@
       "market_name": "Tab 7",
       "codename": "td070va1",
       "model": "TD070VA1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultimo",
+      "codename": "Ultimo",
+      "model": "EUT310A-11A"
     },
     {
       "manufacturer": "",

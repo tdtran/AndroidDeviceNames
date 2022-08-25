@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "ZEEKER",
+    "market_name": "ZEEKER_T100",
+    "codename": "ZEEKER_T100",
+    "model": "ZEEKER T100"
+  },
+  {
+    "manufacturer": "ZEEKER",
+    "market_name": "ZEEKER_T100_EEA",
+    "codename": "ZEEKER_T100",
+    "model": "ZEEKER T100"
+  },
+  {
+    "manufacturer": "ZEEKER",
+    "market_name": "ZEEKER_T100_RU",
+    "codename": "ZEEKER_T100",
+    "model": "ZEEKER T100"
+  }
+]

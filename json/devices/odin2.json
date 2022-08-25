@@ -22,5 +22,11 @@
     "market_name": "TAB 10s New",
     "codename": "Odin2",
     "model": "9081X"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL NXTPAPER 10s",
+    "codename": "Odin2",
+    "model": "9081X"
   }
 ]

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RuggboLite",
+      "codename": "RuggboLite",
+      "model": "RuggboLite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T4000",
       "codename": "T4000",
       "model": "T4000"

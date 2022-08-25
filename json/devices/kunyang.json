@@ -1,0 +1,56 @@
+[
+  {
+    "manufacturer": "Altus",
+    "market_name": "Altus Android TV",
+    "codename": "kunyang",
+    "model": "4K Pro TV"
+  },
+  {
+    "manufacturer": "Altus",
+    "market_name": "Altus UHD Android TV",
+    "codename": "kunyang",
+    "model": "UHD Pro TV"
+  },
+  {
+    "manufacturer": "Arçelik",
+    "market_name": "Arçelik Android TV",
+    "codename": "kunyang",
+    "model": "Arcelik Android TV"
+  },
+  {
+    "manufacturer": "Arçelik",
+    "market_name": "Arçelik UHD Android TV",
+    "codename": "kunyang",
+    "model": "Arcelik Android UHD TV"
+  },
+  {
+    "manufacturer": "Beko",
+    "market_name": "Beko Android TV",
+    "codename": "kunyang",
+    "model": "Beko Android TV"
+  },
+  {
+    "manufacturer": "Beko",
+    "market_name": "Beko UHD Android TV",
+    "codename": "kunyang",
+    "model": "Beko Android UHD TV"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Grundig Android TV",
+    "codename": "kunyang",
+    "model": "Grundig Android TV"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Grundig UHD Android TV",
+    "codename": "kunyang",
+    "model": "Grundig Android UHD TV"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "Singer Android TV",
+    "codename": "kunyang",
+    "model": "Singer Android UHD TV"
+  }
+]

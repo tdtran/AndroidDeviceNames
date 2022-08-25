@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Vantron",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IBOX66",
+      "codename": "IBOX66",
+      "model": "IBOX66"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 Pro",
+      "codename": "M10Pro",
+      "model": "M10Pro"
+    }
+  ]
+}

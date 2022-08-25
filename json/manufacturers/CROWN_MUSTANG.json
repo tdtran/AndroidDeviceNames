@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CROWN MUSTANG",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Argentina",
+      "codename": "martin",
+      "model": "Crown Mustang 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Argentina",
+      "codename": "patrick",
+      "model": "Crown Mustang 4K Android TV"
+    }
+  ]
+}

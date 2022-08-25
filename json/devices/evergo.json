@@ -4,5 +4,11 @@
     "market_name": "Redmi Note 11 5G",
     "codename": "evergo",
     "model": "21091116AC"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 11T 5G",
+    "codename": "evergo",
+    "model": "21091116AI"
   }
 ]

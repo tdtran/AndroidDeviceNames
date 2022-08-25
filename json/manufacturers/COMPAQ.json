@@ -42,6 +42,30 @@
       "market_name": "CT311T",
       "codename": "CT311T",
       "model": "CT311T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q5",
+      "codename": "Q5",
+      "model": "Q5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTab10.1_LTE",
+      "codename": "QTab10_LTE",
+      "model": "QTab10_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTab8",
+      "codename": "QTab8",
+      "model": "QTab8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTab8_LTE",
+      "codename": "QTab8_LTE",
+      "model": "QTab8_LTE"
     }
   ]
 }

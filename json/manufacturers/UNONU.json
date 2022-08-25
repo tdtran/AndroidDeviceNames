@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "N63A",
+      "codename": "N63A",
+      "model": "UNONU N63"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UN55L",
       "codename": "UN55L",
       "model": "UN55L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNONU N65 LITE",
+      "codename": "UNONU_N65_LITE",
+      "model": "UNONU N65 LITE"
     },
     {
       "manufacturer": "",

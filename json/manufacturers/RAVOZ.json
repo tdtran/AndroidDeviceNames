@@ -45,6 +45,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RAVOZ_V2",
+      "codename": "RAVOZ_V2",
+      "model": "RAVOZ V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RAVOZ_V3",
+      "codename": "RAVOZ_V3",
+      "model": "RAVOZ V3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RAVOZ_V5",
+      "codename": "RAVOZ_V5",
+      "model": "RAVOZ V5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RAVOZ_Z3_Lite",
       "codename": "RAVOZ_Z3_Lite",
       "model": "RAVOZ Z3 Lite"
@@ -66,6 +84,12 @@
       "market_name": "RAVOZ_Z8",
       "codename": "RAVOZ_Z8",
       "model": "RAVOZ Z8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3_Lite",
+      "codename": "RAVOZ_Z3_Lite",
+      "model": "RAVOZ Z3 Lite"
     }
   ]
 }

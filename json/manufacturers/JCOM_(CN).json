@@ -1,0 +1,11 @@
+{
+  "manufacturer": "J-COM (cn)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SC40",
+      "codename": "SC40",
+      "model": "SC40"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "UWIN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Aquarius",
+      "codename": "Aquarius",
+      "model": "Aquarius"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Draco",
+      "codename": "Draco",
+      "model": "Draco"
+    }
+  ]
+}

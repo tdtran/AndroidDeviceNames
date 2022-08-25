@@ -48,6 +48,18 @@
       "market_name": "E0117",
       "codename": "E0117",
       "model": "E0117"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E0118",
+      "codename": "E0118",
+      "model": "E0118"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E0120",
+      "codename": "E0120",
+      "model": "E0120"
     }
   ]
 }

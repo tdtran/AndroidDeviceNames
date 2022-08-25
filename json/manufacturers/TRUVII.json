@@ -4,8 +4,20 @@
     {
       "manufacturer": "",
       "market_name": "Truvii",
+      "codename": "bruno",
+      "model": "Truvii2KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Truvii",
       "codename": "seocho",
       "model": "Truvii 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Truvii",
+      "codename": "shilin",
+      "model": "Truvii4KAndroidTV"
     }
   ]
 }

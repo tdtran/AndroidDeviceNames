@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GACRUX",
+      "codename": "GACRUX",
+      "model": "GACRUX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ibirapita",
       "codename": "A81F",
       "model": "A81F"

@@ -12,6 +12,12 @@
     "model": "V10"
   },
   {
+    "manufacturer": "Doogee",
+    "market_name": "V10",
+    "codename": "V10",
+    "model": "V11"
+  },
+  {
     "manufacturer": "Dragontouch",
     "market_name": "V10",
     "codename": "V10",
@@ -79,6 +85,12 @@
   },
   {
     "manufacturer": "POPTEL",
+    "market_name": "V10",
+    "codename": "V10",
+    "model": "V10"
+  },
+  {
+    "manufacturer": "TWZ Corporation PLC",
     "market_name": "V10",
     "codename": "V10",
     "model": "V10"

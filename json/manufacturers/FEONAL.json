@@ -6,6 +6,12 @@
       "market_name": "K118_EEA",
       "codename": "K118_EEA",
       "model": "K118_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K711_EEA",
+      "codename": "K711_EEA",
+      "model": "K711_EEA"
     }
   ]
 }

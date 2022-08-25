@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T18-EEA",
+      "codename": "T18-EEA",
+      "model": "T18-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T20-EEA",
       "codename": "T20-EEA",
       "model": "T20-EEA"
@@ -78,6 +84,36 @@
       "market_name": "T211-EEA",
       "codename": "T211-EEA",
       "model": "T211-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T22",
+      "codename": "T22",
+      "model": "T22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T22-EEA",
+      "codename": "T22-EEA",
+      "model": "T22-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T26",
+      "codename": "T26",
+      "model": "T26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T26-EEA",
+      "codename": "T26-EEA",
+      "model": "T26-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T32-EEA",
+      "codename": "T32-EEA",
+      "model": "T32-EEA"
     },
     {
       "manufacturer": "",

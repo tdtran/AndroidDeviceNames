@@ -10,5 +10,17 @@
     "market_name": "P80_EEA",
     "codename": "P80",
     "model": "P80"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P80_EEA",
+    "codename": "P80",
+    "model": "P80_EEA"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P80_ROW",
+    "codename": "P80",
+    "model": "P80_ROW"
   }
 ]

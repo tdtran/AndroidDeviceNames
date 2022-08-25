@@ -4,5 +4,11 @@
     "market_name": "CMP 759",
     "codename": "Omega7",
     "model": "CMP 759"
+  },
+  {
+    "manufacturer": "iPlus",
+    "market_name": "Omega7",
+    "codename": "Omega7",
+    "model": "Omega7"
   }
 ]

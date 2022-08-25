@@ -225,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q Stick",
+      "codename": "S905Y2",
+      "model": "QS01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QS01",
       "codename": "S905Y2",
       "model": "QS01"

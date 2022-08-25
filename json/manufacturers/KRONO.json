@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MATRIX PRO",
+      "codename": "MATRIX_PRO",
+      "model": "MATRIX_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NETWORK",
       "codename": "NETWORK",
       "model": "NETWORK"

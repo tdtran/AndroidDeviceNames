@@ -117,6 +117,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C**EN1/EQ1/ES1/EU1",
+      "codename": "tcvenruj",
+      "model": "AQUOS-4KTVJ22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C**EN2/EL1/EQ2",
+      "codename": "tcvenruj",
+      "model": "AQUOS-4KTVJ22-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C50AG1T",
       "codename": "LCD_50FOCAG1T",
       "model": "LCD_50FOCAG1T"
@@ -144,12 +156,6 @@
       "market_name": "4T-C50BK1X",
       "codename": "jamsil",
       "model": "AQUOS-TVX19D"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4T-C60BJ8T",
-      "codename": "gangnam",
-      "model": "TVX19B"
     },
     {
       "manufacturer": "",
@@ -741,6 +747,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R7",
+      "codename": "Mineva",
+      "model": "A202SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R7",
+      "codename": "SH-52C",
+      "model": "SH-52C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -1125,9 +1143,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense6s",
+      "codename": "BOL",
+      "model": "SHG07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense6s",
+      "codename": "Nee",
+      "model": "SH-RM19s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish",
+      "codename": "SX1",
+      "model": "A103SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish",
+      "codename": "SX1",
+      "model": "A104SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish",
+      "codename": "SX1",
+      "model": "SH-M20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS wish",
       "codename": "SX1",
       "model": "SH-WS10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish",
+      "codename": "YLI",
+      "model": "SHG06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish2",
+      "codename": "SH-51C",
+      "model": "SH-51C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish2",
+      "codename": "SXI",
+      "model": "A204SH"
     },
     {
       "manufacturer": "",
@@ -1216,6 +1282,12 @@
     {
       "manufacturer": "",
       "market_name": "AQUOS zero6",
+      "codename": "Recoa",
+      "model": "ST0B0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero6",
       "codename": "XKH",
       "model": "SHG04"
     },
@@ -1251,6 +1323,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BG/BE",
+      "codename": "ebisu",
+      "model": "AQUOS-TVX19A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BG/BE/CG",
+      "codename": "meguro",
+      "model": "AQUOS-TVX19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BJ",
+      "codename": "gangnam",
+      "model": "TVX19B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BK/BJ/CK/CL/CJ",
+      "codename": "gangnam",
+      "model": "AQUOS-TVX19B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BK/BJ/CK/CL/CJ",
+      "codename": "jamsil",
+      "model": "AQUOS-TVX19D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C1",
       "codename": "MS1",
       "model": "FS8001"
@@ -1260,6 +1362,30 @@
       "market_name": "C20",
       "codename": "VGO",
       "model": "SH-C02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DJ1",
+      "codename": "banqiao",
+      "model": "AQUOS-TVW21A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL1X",
+      "codename": "banqiao",
+      "model": "AQUOS-TVH21B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL1X",
+      "codename": "banqiao",
+      "model": "AQUOS-TVP21A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL1X",
+      "codename": "banqiao",
+      "model": "AQUOS-TVX21B"
     },
     {
       "manufacturer": "",
@@ -1344,6 +1470,12 @@
       "market_name": "EB-WX1GJ/EB-W51GJ",
       "codename": "Galapagos",
       "model": "EB-WX1GJ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EQ3/DN5",
+      "codename": "banqiao",
+      "model": "AQUOS-TVE21A"
     },
     {
       "manufacturer": "",
@@ -1851,6 +1983,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PN-L752B",
+      "codename": "PN_L2B_series",
+      "model": "PN_L2B_series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PN-M501/PN-M401",
       "codename": "PN_M_series",
       "model": "PN_M_series"
@@ -2007,6 +2145,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP 2K SMART TV",
       "codename": "shinagawa",
       "model": "SHARP 2K SMART TV"
@@ -2097,6 +2241,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP UHD TV",
+      "codename": "OD0M_EA_T32",
+      "model": "SHARP UHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "bruno",
+      "model": "Sharp 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sharp",
       "codename": "ewha",
       "model": "AQUOS-TVE19G"
@@ -2106,6 +2262,12 @@
       "market_name": "Sharp",
       "codename": "ewha",
       "model": "AQUOS-TVE21B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "shilin",
+      "model": "Sharp 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -2292,6 +2454,12 @@
       "market_name": "シンプルスマホ５",
       "codename": "OI6",
       "model": "A001SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "シンプルスマホ６",
+      "codename": "Levil",
+      "model": "A201SH"
     },
     {
       "manufacturer": "",

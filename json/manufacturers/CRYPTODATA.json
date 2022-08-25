@@ -1,0 +1,23 @@
+{
+  "manufacturer": "CryptoDATA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Hidr S1 PRO",
+      "codename": "Hidr_S1_PRO",
+      "model": "Hidr_S1_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hidr S1 PRO ROW",
+      "codename": "Hidr_S1_PRO",
+      "model": "Hidr_S1_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hidr S1 PRO RU",
+      "codename": "Hidr_S1_PRO",
+      "model": "Hidr_S1_PRO"
+    }
+  ]
+}

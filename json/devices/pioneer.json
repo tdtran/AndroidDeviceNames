@@ -1,8 +1,68 @@
 [
   {
+    "manufacturer": "Daewoo",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K SA Smart TV"
+  },
+  {
     "manufacturer": "HP",
     "market_name": "HP BRIDGE",
     "codename": "Pioneer",
     "model": "HP BRIDGE"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K SA Smart TV"
+  },
+  {
+    "manufacturer": "Master-G",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K SA Smart TV"
+  },
+  {
+    "manufacturer": "Polytron",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K SA Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "HKC 4K SA Smart TV"
+  },
+  {
+    "manufacturer": "iMuz",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K SA Smart TV"
+  },
+  {
+    "manufacturer": "imiia",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
   }
 ]

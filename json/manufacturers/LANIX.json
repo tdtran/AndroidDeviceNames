@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Alpha 1R",
+      "codename": "Alpha_1R",
+      "model": "Alpha 1R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alpha 1V",
       "codename": "Alpha_1V",
       "model": "Alpha 1V"
@@ -18,6 +24,12 @@
       "market_name": "Alpha 9V",
       "codename": "Alpha_9V",
       "model": "Alpha 9V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alpha_1VPlus",
+      "codename": "Alpha_1VPlus",
+      "model": "Alpha 1V"
     },
     {
       "manufacturer": "",
@@ -495,6 +507,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LANIX",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LANIX_PAD_E7",
       "codename": "ILIUM_PADE7V11",
       "model": "LANIX_PAD_E7"
@@ -564,6 +582,18 @@
       "market_name": "X560",
       "codename": "X560",
       "model": "X560"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X570",
+      "codename": "X570",
+      "model": "X570"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X570Lite",
+      "codename": "X570Lite",
+      "model": "X570Lite"
     },
     {
       "manufacturer": "",

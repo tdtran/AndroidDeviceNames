@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GPSTAB7_4G",
+      "codename": "GPSTAB7_4G",
+      "model": "GPSTAB7 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KidsTAB7",
+      "codename": "KidsTAB7",
+      "model": "KidsTAB7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KidsTAB7_EEA",
       "codename": "KidsTAB7",
       "model": "KidsTAB7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KidsTAB7_EEA",
+      "codename": "KidsTAB7_EEA",
+      "model": "KidsTAB7_EEA"
     },
     {
       "manufacturer": "",
@@ -30,6 +48,18 @@
       "market_name": "PlatinumTAB10",
       "codename": "PlatinumTAB10",
       "model": "PlatinumTAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PlatinumTAB10V11",
+      "codename": "PlatinumTAB10V11",
+      "model": "PlatinumTAB10V11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PlatinumTAB10V22",
+      "codename": "PlatinumTAB10V22",
+      "model": "PlatinumTAB10V22"
     },
     {
       "manufacturer": "",
@@ -48,6 +78,12 @@
       "market_name": "PlatinumTAB10_4G_V3",
       "codename": "PlatinumTAB10_4G_V3",
       "model": "PlatinumTAB10_4G_V3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PlatinumTAB8_4G",
+      "codename": "PlatinumTAB8_4G",
+      "model": "PlatinumTAB8_4G"
     }
   ]
 }

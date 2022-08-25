@@ -7,7 +7,19 @@
   },
   {
     "manufacturer": "Conquest",
+    "market_name": "S21",
+    "codename": "S21",
+    "model": "CONQUEST S21"
+  },
+  {
+    "manufacturer": "Conquest",
     "market_name": "S21_EEA",
+    "codename": "S21",
+    "model": "CONQUEST S21"
+  },
+  {
+    "manufacturer": "Conquest",
+    "market_name": "S21_RU",
     "codename": "S21",
     "model": "CONQUEST S21"
   },

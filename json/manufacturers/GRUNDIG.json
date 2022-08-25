@@ -22,6 +22,12 @@
     {
       "manufacturer": "",
       "market_name": "Grundig Android TV",
+      "codename": "kunyang",
+      "model": "Grundig Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grundig Android TV",
       "codename": "shinagawa",
       "model": "Grundig Android TV"
     },
@@ -30,6 +36,12 @@
       "market_name": "Grundig Android TV",
       "codename": "sinchon",
       "model": "Grundig Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grundig UHD Android TV",
+      "codename": "kunyang",
+      "model": "Grundig Android UHD TV"
     },
     {
       "manufacturer": "",

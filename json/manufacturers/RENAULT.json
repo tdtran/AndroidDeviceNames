@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Renault",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "OpenR Link",
+      "codename": "aivi2_full",
+      "model": "AIVI2 FULL"
+    }
+  ]
+}

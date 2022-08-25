@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DT20",
+      "codename": "SQ57",
+      "model": "DT20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT20 Pro",
+      "codename": "SQ57S",
+      "model": "DT20_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT20_EEA",
+      "codename": "SQ57",
+      "model": "DT20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT20_RU",
+      "codename": "SQ57",
+      "model": "DT20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DT40",
       "codename": "DT40",
       "model": "DT40"
@@ -11,6 +35,12 @@
       "manufacturer": "",
       "market_name": "DT50",
       "codename": "DT50",
+      "model": "DT50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT50",
+      "codename": "DT50S",
       "model": "DT50"
     },
     {

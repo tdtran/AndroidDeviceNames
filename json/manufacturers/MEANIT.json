@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K17",
+      "codename": "K17",
+      "model": "K17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MTAB32_EEA",
       "codename": "MTAB32_EEA",
       "model": "meanIT K10"
@@ -18,6 +24,12 @@
       "market_name": "MeanIt_X30",
       "codename": "MeanIt_X30_EEA",
       "model": "MeanIt_X30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "START_S5",
+      "codename": "START_S5",
+      "model": "START_S5"
     },
     {
       "manufacturer": "",

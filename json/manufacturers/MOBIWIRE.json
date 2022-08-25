@@ -258,6 +258,12 @@
       "market_name": "VSN V.45",
       "codename": "up06_h26_v45",
       "model": "V.45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Verda",
+      "codename": "MobiWire_Verda",
+      "model": "Verda"
     }
   ]
 }

@@ -4,5 +4,23 @@
     "market_name": "Light",
     "codename": "Light",
     "model": "Light"
+  },
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M4 5G",
+    "codename": "light",
+    "model": "22041219PI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10 5G",
+    "codename": "light",
+    "model": "22041219G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 11E",
+    "codename": "light",
+    "model": "22041219C"
   }
 ]

@@ -24,6 +24,12 @@
     "model": "T10"
   },
   {
+    "manufacturer": "Moolah Mobile",
+    "market_name": "T10",
+    "codename": "T10",
+    "model": "T10"
+  },
+  {
     "manufacturer": "SAWINK",
     "market_name": "T10",
     "codename": "T10",
@@ -37,6 +43,12 @@
   },
   {
     "manufacturer": "TWZ Corporation PLC",
+    "market_name": "T10",
+    "codename": "T10",
+    "model": "T10"
+  },
+  {
+    "manufacturer": "VOLENTEX",
     "market_name": "T10",
     "codename": "T10",
     "model": "T10"

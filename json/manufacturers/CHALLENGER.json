@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "Challenger 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R1",
       "model": "ATV R1"
@@ -15,15 +21,33 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Challenger",
-      "codename": "gangbyeon",
-      "model": "Challenger 4K AI Smart TV"
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
     },
     {
       "manufacturer": "",
-      "market_name": "Challenger",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "osaki",
       "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "challenger",
+      "codename": "stanford",
+      "model": "40DCOL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "challenger",
+      "codename": "zhongshan",
+      "model": "43FCOL"
     }
   ]
 }

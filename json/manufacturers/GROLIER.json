@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GSR",
+      "codename": "GSR",
+      "model": "GSR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GSR2",
       "codename": "GSR2",
       "model": "GSR2"

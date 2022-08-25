@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aspera_Nitro",
+      "codename": "Aspera_Nitro",
+      "model": "Nitro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GEM",
       "codename": "GEM",
       "model": "GEM"

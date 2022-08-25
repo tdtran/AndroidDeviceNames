@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUA Android TV DVB",
+      "codename": "dupont",
+      "model": "AQUA Android TV DVB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUA Android TV DVB2K",
+      "codename": "broadway",
+      "model": "AQUA Android TV DVB2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUA Android TV FF Pro",
+      "codename": "daan",
+      "model": "AQUA Android TV FF Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUA android TV",
       "codename": "hanyang",
       "model": "AQUA Android TV"

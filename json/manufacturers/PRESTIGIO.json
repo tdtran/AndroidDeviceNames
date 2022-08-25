@@ -165,6 +165,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HP80A16G",
+      "codename": "HP80A16G",
+      "model": "PMT4228_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP80A21G",
+      "codename": "HP80A21G",
+      "model": "PMT4348_3G_E_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HP8A6L",
       "codename": "HP8A6L",
       "model": "PMT4238_4G_EEA"
@@ -861,9 +873,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT4338_4G_E_EEA",
+      "codename": "HP80A18L",
+      "model": "PMT4338_4G_E_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4511_4G_EEA",
+      "codename": "HP10A17L",
+      "model": "PMT4511_4G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4511_4G_RU",
+      "codename": "HP10A17L",
+      "model": "PMT4511_4G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4518_4G_E_RU",
+      "codename": "HP80A20L",
+      "model": "PMT4518_4G_E_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT4667_3G_RU",
       "codename": "HP70A7G",
       "model": "PMT4667_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4881_4G_F_EEA",
+      "codename": "HP10A19L",
+      "model": "PMT4881_4G_F_EEA"
     },
     {
       "manufacturer": "",

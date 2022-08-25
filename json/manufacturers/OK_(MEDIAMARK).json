@@ -9,15 +9,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "EU",
-      "codename": "tamachi",
-      "model": "OK 2K Android TV"
+      "market_name": "Android TV",
+      "codename": "longshan",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
-      "market_name": "ODL 32760HN-TAB",
-      "codename": "osaki",
-      "model": "2K AI Smart TV"
+      "market_name": "Android TV",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "tamachi",
+      "model": "OK 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -42,6 +48,12 @@
       "market_name": "OK 2K TV",
       "codename": "shinagawa",
       "model": "OK 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "osaki",
+      "model": "2K AI Smart TV"
     },
     {
       "manufacturer": "",

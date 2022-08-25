@@ -1,31 +1,31 @@
 [
   {
     "manufacturer": "Cello",
-    "market_name": "C2420G",
+    "market_name": "Smart TV",
     "codename": "ueno",
     "model": "2K Android TV"
   },
   {
     "manufacturer": "Linsar",
-    "market_name": "Llinsar",
+    "market_name": "Smart TV",
     "codename": "ueno",
     "model": "Linsar 2K Android TV"
   },
   {
     "manufacturer": "Logik",
-    "market_name": "L32AHE19",
+    "market_name": "Smart TV",
     "codename": "ueno",
     "model": "2K Android TV"
   },
   {
     "manufacturer": "RCA",
-    "market_name": "RCA",
+    "market_name": "Smart TV",
     "codename": "ueno",
     "model": "2K Android TV"
   },
   {
     "manufacturer": "Westinghouse",
-    "market_name": "West",
+    "market_name": "Smart TV",
     "codename": "ueno",
     "model": "2K Android TV"
   }

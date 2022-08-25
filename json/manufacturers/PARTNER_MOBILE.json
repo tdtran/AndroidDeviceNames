@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E22",
+      "codename": "E22",
+      "model": "E22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EV1_PRO",
       "codename": "EV1_PRO",
       "model": "EV1 PRO"

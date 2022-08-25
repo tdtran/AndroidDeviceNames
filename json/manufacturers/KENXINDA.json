@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D70",
+      "codename": "D70",
+      "model": "D70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K10",
       "codename": "K10",
       "model": "K10"
@@ -141,6 +147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X10",
+      "codename": "X10",
+      "model": "X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10g",
+      "codename": "X10g",
+      "model": "X10g"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X7",
       "codename": "X7",
       "model": "X7"
@@ -162,6 +180,18 @@
       "market_name": "X8",
       "codename": "X8",
       "model": "X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8a",
+      "codename": "X8a",
+      "model": "X8a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8g",
+      "codename": "X8g",
+      "model": "X8g"
     },
     {
       "manufacturer": "",

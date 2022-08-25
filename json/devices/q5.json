@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Compaq",
+    "market_name": "Q5",
+    "codename": "Q5",
+    "model": "Q5"
+  },
+  {
     "manufacturer": "G-Tab",
     "market_name": "Q5",
     "codename": "Q5",

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Ditecma",
+    "market_name": "Blade",
+    "codename": "Blade",
+    "model": "Blade"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "",
     "codename": "blade",

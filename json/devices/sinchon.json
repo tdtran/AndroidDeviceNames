@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Altus",
+    "market_name": "Altus Android TV",
+    "codename": "sinchon",
+    "model": "4K Pro TV"
+  },
+  {
     "manufacturer": "Arçelik",
     "market_name": "Arçelik Android TV",
     "codename": "sinchon",

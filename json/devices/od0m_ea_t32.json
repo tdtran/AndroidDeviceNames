@@ -12,6 +12,24 @@
     "model": "BPL UHD TV"
   },
   {
+    "manufacturer": "Brandt",
+    "market_name": "BRANDT UHD TV",
+    "codename": "OD0M_EA_T32",
+    "model": "BRANDT UHD TV"
+  },
+  {
+    "manufacturer": "DAIKO",
+    "market_name": "DAIKO UHD TV",
+    "codename": "OD0M_EA_T32",
+    "model": "DAIKO UHD TV"
+  },
+  {
+    "manufacturer": "IMPEX",
+    "market_name": "GRANDE UHD TV",
+    "codename": "OD0M_EA_T32",
+    "model": "GRANDE UHD TV"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "Panasonic 2021 UHD Android TV",
     "codename": "OD0M_EA_T32",
@@ -24,9 +42,21 @@
     "model": "Panasonic UHD TV"
   },
   {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP UHD TV",
+    "codename": "OD0M_EA_T32",
+    "model": "SHARP UHD TV"
+  },
+  {
     "manufacturer": "Sony",
     "market_name": "BRAVIA TL",
     "codename": "OD0M_EA_T32",
     "model": "BRAVIA TL"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "BRAVIA TL2",
+    "codename": "OD0M_EA_T32",
+    "model": "BRAVIA TL2"
   }
 ]

@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "Kogan TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KALED32RH9210STA",
       "codename": "ikebukuro",
       "model": "AI PONT"

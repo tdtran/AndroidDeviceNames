@@ -12,10 +12,28 @@
     "model": "MagentaTV ONE"
   },
   {
+    "manufacturer": "Magenta TV",
+    "market_name": "TV Box",
+    "codename": "HY44G",
+    "model": "TV Box"
+  },
+  {
+    "manufacturer": "Magenta TV",
+    "market_name": "TV box",
+    "codename": "HY44G",
+    "model": "TV Box"
+  },
+  {
     "manufacturer": "MagentaTV",
     "market_name": "MagentaTV ONE",
     "codename": "HY44G",
     "model": "MagentaTV ONE"
+  },
+  {
+    "manufacturer": "MauritiusTelcom",
+    "market_name": "HP4411",
+    "codename": "HY44G",
+    "model": "HP4411"
   },
   {
     "manufacturer": "T-Mobile-CZ-Telekom-SK",

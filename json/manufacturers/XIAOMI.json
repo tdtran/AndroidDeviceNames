@@ -675,9 +675,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi 11 LE",
+      "codename": "lisa",
+      "model": "2107119DC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi 11 Lite",
       "codename": "courbet",
       "model": "M2101K9AG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 11 Lite",
+      "codename": "courbetin",
+      "model": "M2101K9AI"
     },
     {
       "manufacturer": "",
@@ -1293,15 +1305,123 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi 11i",
+      "codename": "pissarroin",
+      "model": "21091116I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 11i HyperCharge",
+      "codename": "pissarroinpro",
+      "model": "21091116UI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12",
+      "codename": "cupid",
+      "model": "2201123C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12",
+      "codename": "cupid",
+      "model": "2201123G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12 Lite",
+      "codename": "taoyao",
+      "model": "2203129G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12 Pro",
+      "codename": "zeus",
+      "model": "2201122C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12 Pro",
+      "codename": "zeus",
+      "model": "2201122G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12 Pro Dimensity",
+      "codename": "daumier",
+      "model": "2207122MC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12S",
+      "codename": "mayfly",
+      "model": "2206123SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12S Pro",
+      "codename": "unicorn",
+      "model": "2206122SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12S Ultra",
+      "codename": "thor",
+      "model": "2203121C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12T Pro",
+      "codename": "diting",
+      "model": "22081212C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12X",
+      "codename": "psyche",
+      "model": "2112123AC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi Civi",
       "codename": "mona",
       "model": "2109119BC"
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi Civi 1S",
+      "codename": "zijin",
+      "model": "2109119BC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi MIX Fold",
+      "codename": "cetus",
+      "model": "M2011J18C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi MIX Fold 2",
+      "codename": "zizhan",
+      "model": "22061218C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi Pad 5",
       "codename": "nabu",
       "model": "21051182C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 5",
+      "codename": "nabu",
+      "model": "21051182G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 5 Pro",
+      "codename": "dagu",
+      "model": "22081281AC"
     },
     {
       "manufacturer": "",
@@ -1314,6 +1434,12 @@
       "market_name": "Xiaomi Pad 5 Pro 5G",
       "codename": "enuma",
       "model": "M2105K81C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi TV stick 4K",
+      "codename": "soul",
+      "model": "MiTV-AYFR0"
     },
     {
       "manufacturer": "",

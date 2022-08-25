@@ -2055,42 +2055,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LAVIE T11 112K1",
-      "codename": "LAVIET11112K1",
-      "model": "LAVIE T11 112K1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LAVIE T11 11QHD1",
-      "codename": "LAVIET1111QHD1",
-      "model": "LAVIE T11 11QHD1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LAVIE T8 8HD1",
-      "codename": "LAVIET88HD1",
-      "model": "LAVIE T8 8HD1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LAVIE Tab E",
-      "codename": "X704F",
-      "model": "PC-TE510HAW"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LAVIE Tab E 10FHD2",
-      "codename": "LAVIETabE10FHD2",
-      "model": "LAVIE Tab E 10FHD2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LAVIE Tab E 7SD1",
-      "codename": "LAVIETabE7SD1",
-      "model": "LAVIE Tab E 7SD1"
-    },
-    {
-      "manufacturer": "",
       "market_name": "LIFETAB E10310",
       "codename": "LIFETAB_E10310",
       "model": "LIFETAB_E10310"
@@ -2106,6 +2070,12 @@
       "market_name": "LIFETAB E7310",
       "codename": "LIFETAB_E7310",
       "model": "LIFETAB_E7312"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Legion Y70",
+      "codename": "halo",
+      "model": "Lenovo L71091"
     },
     {
       "manufacturer": "",
@@ -2913,6 +2883,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M10 (3rd Gen)",
+      "codename": "TB328FU",
+      "model": "TB328FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 (3rd Gen)",
+      "codename": "TB328XU",
+      "model": "TB328XU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab M10 (FHD)",
       "codename": "X605F",
       "model": "Lenovo TB-X605F"
@@ -3045,6 +3027,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M10 Plus 3rd Gen",
+      "codename": "TB125FU",
+      "model": "Lenovo TB125FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 Plus 3rd Gen",
+      "codename": "TB128FU",
+      "model": "Lenovo TB128FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 Plus 3rd Gen",
+      "codename": "TB128XU",
+      "model": "Lenovo TB128XU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab M7",
       "codename": "7305F",
       "model": "Lenovo TB-7305F"
@@ -3072,12 +3072,6 @@
       "market_name": "Lenovo Tab M7 (3rd Gen)",
       "codename": "7306X",
       "model": "Lenovo TB-7306X"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Lenovo Tab M7 3rd Gen",
-      "codename": "LAVIET77SD1",
-      "model": "LAVIE T7 7SD1"
     },
     {
       "manufacturer": "",
@@ -3153,6 +3147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M8 (4th gen)",
+      "codename": "TB300FU",
+      "model": "TB300FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8 (4th gen)",
+      "codename": "TB300XU",
+      "model": "TB300XU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab P10",
       "codename": "X705F",
       "model": "Lenovo TB-X705F"
@@ -3183,6 +3189,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab P11 (2nd Gen)",
+      "codename": "TB350FU",
+      "model": "TB350FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P11 (2nd Gen)",
+      "codename": "TB350XU",
+      "model": "TB350XU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab P11 5G",
       "codename": "J607Z",
       "model": "Lenovo TB-J607Z"
@@ -3210,6 +3228,12 @@
       "market_name": "Lenovo Tab P11 Pro",
       "codename": "J706L",
       "model": "Lenovo TB-J706L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P11 Pro (2nd Gen)",
+      "codename": "TB132FU",
+      "model": "TB132FU"
     },
     {
       "manufacturer": "",
@@ -4515,9 +4539,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "moto tab g20",
-      "codename": "mototabg20",
-      "model": "moto tab g20"
+      "market_name": "moto tab g62",
+      "codename": "XT2261-1",
+      "model": "XT2261-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto tab g62 LTE",
+      "codename": "XT2261-2",
+      "model": "XT2261-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "启天K10 Pro",
+      "codename": "TB128FU",
+      "model": "TB128FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "启天K10 Pro",
+      "codename": "TB128XC",
+      "model": "TB128XC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "启天K10 Pro",
+      "codename": "TB223FC",
+      "model": "Lenovo TB223FC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "启天K10 Pro",
+      "codename": "TB226XC",
+      "model": "Lenovo TB226XC"
     },
     {
       "manufacturer": "",
@@ -4542,6 +4596,18 @@
       "market_name": "小新Pad Pro 2021",
       "codename": "J716F",
       "model": "Lenovo TB-J716F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "小新Pad Pro 2022",
+      "codename": "TB132FU",
+      "model": "TB132FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "小新Pad Pro 2022",
+      "codename": "olivine",
+      "model": "TB138FC"
     },
     {
       "manufacturer": "",

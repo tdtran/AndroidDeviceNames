@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Ehlel C7 PRO",
+      "codename": "Ehlel-C7PRO",
+      "model": "Ehlel C7 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HULAN21 PLUS",
       "codename": "Ehlel-Hulan21",
       "model": "HULAN21 PLUS"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "BLOW",
+    "market_name": "KidsTAB7",
+    "codename": "KidsTAB7",
+    "model": "KidsTAB7"
+  },
+  {
+    "manufacturer": "BLOW",
     "market_name": "KidsTAB7_EEA",
     "codename": "KidsTAB7",
     "model": "KidsTAB7"

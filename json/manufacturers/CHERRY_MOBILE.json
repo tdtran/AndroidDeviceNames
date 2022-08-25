@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1090",
+      "codename": "A1090",
+      "model": "A1090"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1100",
       "codename": "A1100",
       "model": "A1100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A1130",
+      "codename": "A1130",
+      "model": "A1130"
     },
     {
       "manufacturer": "",
@@ -63,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aqua S10 Pro 5G",
+      "codename": "Aqua_S10_Pro_5G",
+      "model": "Aqua S10 Pro 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aqua S9",
       "codename": "Aqua_S9",
       "model": "Aqua S9"
@@ -81,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aqua SV",
+      "codename": "Aqua_SV",
+      "model": "Aqua SV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aqua Tab",
       "codename": "Cherry_Aqua_Tab_S1",
       "model": "A870"
@@ -96,6 +120,12 @@
       "market_name": "Aqua_Infinity",
       "codename": "Aqua_Infinity",
       "model": "Aqua_Infinity"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cherry Comet",
+      "codename": "Cherry_Comet",
+      "model": "A870"
     },
     {
       "manufacturer": "",
@@ -780,6 +810,12 @@
       "market_name": "One",
       "codename": "H940_sprout",
       "model": "H940"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pulse",
+      "codename": "Pulse",
+      "model": "Pulse"
     },
     {
       "manufacturer": "",

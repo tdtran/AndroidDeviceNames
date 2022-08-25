@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Punos X10",
+      "codename": "PTX1022G",
+      "model": "X10 Tablet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Punos X8 PTX822G",
+      "codename": "PTX822G",
+      "model": "X8 Tablet"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Punos_10",
       "codename": "Punos_10",
       "model": "Punos 10"

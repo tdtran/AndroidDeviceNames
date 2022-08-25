@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Astro_Slide_5G_Transformer",
+      "codename": "Astro",
+      "model": "Astro_Slide_5G_Transformer"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cosmo_Communicator",
       "codename": "Cosmo_Communicator",
       "model": "Cosmo_Communicator"

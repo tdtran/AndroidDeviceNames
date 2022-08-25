@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Motorola",
+    "market_name": "moto g stylus (2022)",
+    "codename": "milan",
+    "model": "moto g stylus (2022)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g stylus (2022)",
+    "codename": "milan",
+    "model": "motorola"
+  },
+  {
     "manufacturer": "Starlight",
     "market_name": "Milan",
     "codename": "Milan",

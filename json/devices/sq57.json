@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Urovo",
+    "market_name": "DT20",
+    "codename": "SQ57",
+    "model": "DT20"
+  },
+  {
+    "manufacturer": "Urovo",
+    "market_name": "DT20_EEA",
+    "codename": "SQ57",
+    "model": "DT20"
+  },
+  {
+    "manufacturer": "Urovo",
+    "market_name": "DT20_RU",
+    "codename": "SQ57",
+    "model": "DT20"
+  }
+]

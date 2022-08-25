@@ -1,0 +1,17 @@
+{
+  "manufacturer": "FIVAHIVA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "YY_766",
+      "codename": "YY_766",
+      "model": "YY_766"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YY_766_EEA",
+      "codename": "YY_766_EEA",
+      "model": "YY_766_EEA"
+    }
+  ]
+}

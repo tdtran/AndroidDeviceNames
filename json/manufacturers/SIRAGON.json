@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SA",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SA",
+      "codename": "zhongshan",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP 6200",
+      "codename": "SP-6200",
+      "model": "SP-6200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP-5000",
       "codename": "SP-5000",
       "model": "Siragon SP-5000"

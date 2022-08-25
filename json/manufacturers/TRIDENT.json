@@ -36,6 +36,12 @@
       "market_name": "A54",
       "codename": "A54",
       "model": "A54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A75 Pro Max",
+      "codename": "A75",
+      "model": "Trident A75 Pro Max"
     }
   ]
 }

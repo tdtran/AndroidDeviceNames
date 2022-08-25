@@ -1,5 +1,47 @@
 [
   {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13",
+    "codename": "a13",
+    "model": "SM-A135F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13",
+    "codename": "a13",
+    "model": "SM-A135M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13",
+    "codename": "a13",
+    "model": "SM-A135N"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13",
+    "codename": "a13",
+    "model": "SM-A135U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A13",
+    "codename": "a13",
+    "model": "SM-A135U1"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "A13",
+    "codename": "A13",
+    "model": "MP05"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "A13 EEA",
+    "codename": "A13",
+    "model": "MP05"
+  },
+  {
     "manufacturer": "Vmobile",
     "market_name": "A13",
     "codename": "A13",

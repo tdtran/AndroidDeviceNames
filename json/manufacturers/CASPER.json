@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "43FGA610",
+      "codename": "beaudry",
+      "model": "Casper AndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "55UGA610",
+      "codename": "barking",
+      "model": "Casper AndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R1",
       "model": "ATV R1"
@@ -15,9 +27,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CASPER_L10_4_5G",
       "codename": "CASPER_L10_4_5G",
       "model": "CASPER_L10_4.5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Casper 2K Smart TV",
+      "codename": "sunnyvale",
+      "model": "Casper 2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Casper 4K TV",
+      "codename": "SW6H",
+      "model": "Casper 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Casper Smart TV",
+      "codename": "SW6H",
+      "model": "Casper Smart TV"
     },
     {
       "manufacturer": "",
@@ -36,6 +78,12 @@
       "market_name": "L20",
       "codename": "L20",
       "model": "L20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
     },
     {
       "manufacturer": "",

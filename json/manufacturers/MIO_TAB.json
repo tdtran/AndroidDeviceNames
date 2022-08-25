@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MP0101632",
+      "codename": "MP0101632",
+      "model": "MP0101632"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MioTab",
       "codename": "MioTab2016",
       "model": "MioTab 2016"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MioTab MP0101635",
+      "codename": "MP0101635",
+      "model": "MP0101635"
     },
     {
       "manufacturer": "",

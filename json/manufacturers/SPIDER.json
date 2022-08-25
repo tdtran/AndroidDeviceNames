@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Spider",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Spider_A10",
+      "codename": "Spider_A10",
+      "model": "Spider_A10"
+    }
+  ]
+}

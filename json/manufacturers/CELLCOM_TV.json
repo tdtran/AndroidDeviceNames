@@ -6,6 +6,12 @@
       "market_name": "SEI-S905X2",
       "codename": "tai",
       "model": "SEI-S905X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEI-S905X4",
+      "codename": "SEI800CC",
+      "model": "SEI-S905X4"
     }
   ]
 }

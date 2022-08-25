@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Box Q",
+      "codename": "HND",
+      "model": "Box Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dongle Q",
       "codename": "ICN",
       "model": "Dongle Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dongle R 4K",
+      "codename": "YQB",
+      "model": "Dongle R 4K"
     },
     {
       "manufacturer": "",

@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Radger",
+    "market_name": "Redmi 10 Prime",
+    "codename": "selene",
+    "model": "21061119BI"
+  },
+  {
+    "manufacturer": "Radger",
+    "market_name": "Redmi 10 Prime",
+    "codename": "selene",
+    "model": "22011119TI"
+  },
+  {
     "manufacturer": "Redmi",
     "market_name": "Redmi 10 2022",
     "codename": "selene",
@@ -16,5 +28,17 @@
     "market_name": "Redmi 10 2022",
     "codename": "selene",
     "model": "21121119SG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10 2022",
+    "codename": "selene",
+    "model": "21121119VL"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 11 4G",
+    "codename": "selene",
+    "model": "21121119SC"
   }
 ]

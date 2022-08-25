@@ -13,8 +13,14 @@
   },
   {
     "manufacturer": "Sharp",
-    "market_name": "4T-C60BJ8T",
+    "market_name": "BJ",
     "codename": "gangnam",
     "model": "TVX19B"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "BK/BJ/CK/CL/CJ",
+    "codename": "gangnam",
+    "model": "AQUOS-TVX19B"
   }
 ]

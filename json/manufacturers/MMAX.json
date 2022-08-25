@@ -1,0 +1,11 @@
+{
+  "manufacturer": "mMax",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "mMax M55",
+      "codename": "M55",
+      "model": "M55"
+    }
+  ]
+}

@@ -18,6 +18,12 @@
     "model": "SV11"
   },
   {
+    "manufacturer": "EKO",
+    "market_name": "KATV10",
+    "codename": "ICN",
+    "model": "KATV10"
+  },
+  {
     "manufacturer": "Homatics",
     "market_name": "Dongle Q",
     "codename": "ICN",

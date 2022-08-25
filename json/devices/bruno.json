@@ -1,0 +1,68 @@
+[
+  {
+    "manufacturer": "Aconatic",
+    "market_name": "ACONATIC",
+    "codename": "bruno",
+    "model": "ACONATIC 2K Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BLAUPUNKT",
+    "codename": "bruno",
+    "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "JVC",
+    "codename": "bruno",
+    "model": "EKO 2K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "bruno",
+    "model": "JVC PA 2K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "bruno",
+    "model": "JVC2KAndroid TV"
+  },
+  {
+    "manufacturer": "Kivi",
+    "market_name": "KIVI",
+    "codename": "bruno",
+    "model": "KIVI 2K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "Olive",
+    "codename": "bruno",
+    "model": "Olive 2K Android TV"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Polaroid",
+    "codename": "bruno",
+    "model": "Polaroid 2K Android TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "Sharp",
+    "codename": "bruno",
+    "model": "Sharp 2K Android TV"
+  },
+  {
+    "manufacturer": "innos",
+    "market_name": "innos",
+    "codename": "bruno",
+    "model": "Innos2KAndroidTV"
+  },
+  {
+    "manufacturer": "truvii",
+    "market_name": "Truvii",
+    "codename": "bruno",
+    "model": "Truvii2KAndroidTV"
+  }
+]

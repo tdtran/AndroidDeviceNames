@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D2160",
+      "codename": "D2140-Cosmos",
+      "model": "D2160"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D2241",
       "codename": "DM8260",
       "model": "D2241"

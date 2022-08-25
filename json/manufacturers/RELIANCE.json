@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RC608L",
+      "codename": "RC608L",
+      "model": "RC608L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smartphone JS LS-5010",
       "codename": "LS-5010",
       "model": "LS-5010"

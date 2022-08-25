@@ -18,6 +18,30 @@
       "market_name": "J5-EEA",
       "codename": "J5-EEA",
       "model": "J5-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J5_M",
+      "codename": "J5_M",
+      "model": "J5_M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J6_EEA",
+      "codename": "J6_EEA",
+      "model": "J6_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J8",
+      "codename": "J8",
+      "model": "J8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J8_EEA",
+      "codename": "J8_EEA",
+      "model": "J8_EEA"
     }
   ]
 }

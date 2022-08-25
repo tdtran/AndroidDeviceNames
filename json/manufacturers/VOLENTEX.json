@@ -1,0 +1,23 @@
+{
+  "manufacturer": "VOLENTEX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M10",
+      "codename": "M10_A04",
+      "model": "Volentex_101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "T10",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8",
+      "codename": "T8",
+      "model": "T8"
+    }
+  ]
+}

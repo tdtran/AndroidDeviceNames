@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB1A",
+      "codename": "TAB1A",
+      "model": "TAB1A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "emporiaSMART.4",
       "codename": "S4",
       "model": "S4"

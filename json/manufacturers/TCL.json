@@ -23,6 +23,12 @@
       "manufacturer": "",
       "market_name": "BeyondTV2",
       "codename": "BeyondTV",
+      "model": "BeyondTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BeyondTV2",
+      "codename": "BeyondTV",
       "model": "BeyondTV2"
     },
     {
@@ -41,12 +47,24 @@
       "manufacturer": "",
       "market_name": "BeyondTV6",
       "codename": "BeyondTV4",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BeyondTV6",
+      "codename": "BeyondTV4",
       "model": "Smart TV Pro"
     },
     {
       "manufacturer": "",
       "market_name": "C02_4K_US",
       "codename": "BeyondTV",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C06_2K_GB",
+      "codename": "C06",
       "model": "Smart TV"
     },
     {
@@ -60,6 +78,18 @@
       "market_name": "C9",
       "codename": "A3A_XL_4G",
       "model": "5199I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G03_4K_GB",
+      "codename": "BeyondTV4",
+      "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G03_4K_GB_NF",
+      "codename": "BeyondTV4",
+      "model": "Smart TV"
     },
     {
       "manufacturer": "",
@@ -81,9 +111,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G05_4K_GB",
+      "codename": "G05",
+      "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G05_4K_US",
       "codename": "G05",
       "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G07_4K_GB_NF",
+      "codename": "G07",
+      "model": "Smart TV"
     },
     {
       "manufacturer": "",
@@ -156,6 +198,12 @@
       "market_name": "Percee TV",
       "codename": "tcl_sa",
       "model": "Percee TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "BeyondTV",
+      "model": "BeyondTV5"
     },
     {
       "manufacturer": "",
@@ -471,6 +519,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 30",
+      "codename": "Passat",
+      "model": "T676H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30+",
+      "codename": "Passat",
+      "model": "T676J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30+",
+      "codename": "Passat",
+      "model": "T676K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL A3X",
       "codename": "Delhi_TF",
       "model": "A600DL"
@@ -645,6 +711,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL NXTPAPER 10s",
+      "codename": "Odin2",
+      "model": "9081X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL PLEX",
       "codename": "T1",
       "model": "T780H"
@@ -801,25 +873,25 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TKEE MAX New",
+      "market_name": "TKEE MAX",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "8491XN"
     },
     {
       "manufacturer": "",
-      "market_name": "TKEE MAX New",
+      "market_name": "TKEE MAX",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "8491XN_EEA"
     },
     {
       "manufacturer": "",
-      "market_name": "TKEE MAX New",
+      "market_name": "TKEE MAX",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "8491XN_RU"
     },
     {
       "manufacturer": "",
-      "market_name": "TKEE MAX New",
+      "market_name": "TKEE MAX",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "8491XN_TR"
     },

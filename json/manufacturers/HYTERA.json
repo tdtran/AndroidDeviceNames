@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PNC560",
+      "codename": "PNC560",
+      "model": "PNC560"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTC680",
       "codename": "PTC680",
       "model": "PTC680"

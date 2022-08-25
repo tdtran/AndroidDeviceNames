@@ -15,9 +15,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X400",
+      "codename": "X400",
+      "model": "X400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X500",
       "codename": "X500",
       "model": "OMIX X500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X600",
+      "codename": "X600",
+      "model": "X600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X600 NFC",
+      "codename": "X600_NFC",
+      "model": "X600 NFC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X700",
+      "codename": "X700",
+      "model": "OMIX X700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X700",
+      "codename": "X700",
+      "model": "X700"
     }
   ]
 }

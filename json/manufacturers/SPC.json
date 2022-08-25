@@ -1,0 +1,65 @@
+{
+  "manufacturer": "SPC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "SPC Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY-2",
+      "codename": "GRAVITY-2",
+      "model": "GRAVITY 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY-PRO-2",
+      "codename": "GRAVITY-PRO-2",
+      "model": "GRAVITY PRO 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY-SE",
+      "codename": "GRAVITY-SE",
+      "model": "GRAVITY SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY-ULTIMATE-2",
+      "codename": "GRAVITY-ULTIMATE-2",
+      "model": "GRAVITY ULTIMATE 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_3",
+      "codename": "GRAVITY_3",
+      "model": "GRAVITY_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_3_SE",
+      "codename": "GRAVITY_3_SE",
+      "model": "GRAVITY_3_SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gravity_Max_EEA",
+      "codename": "Gravity_Max",
+      "model": "Gravity Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIGHTYEAR-2",
+      "codename": "LIGHTYEAR-2",
+      "model": "LIGHTYEAR 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIGHTYEAR-PRO-2",
+      "codename": "LIGHTYEAR-PRO-2",
+      "model": "LIGHTYEAR PRO 2"
+    }
+  ]
+}

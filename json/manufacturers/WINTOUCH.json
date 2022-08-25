@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q705",
+      "codename": "Q705",
+      "model": "Q705"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WINTOUCH_K702",
       "codename": "WINTOUCH_K702",
       "model": "K702"

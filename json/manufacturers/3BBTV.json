@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "3BBTV",
+      "codename": "S3000",
+      "model": "S3000-T0C08"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TBBTV01",
       "codename": "TBBTV01",
       "model": "TBBTV01"

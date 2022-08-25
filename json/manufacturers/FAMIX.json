@@ -6,6 +6,12 @@
       "market_name": "F10L",
       "codename": "F10L",
       "model": "F10L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11",
+      "codename": "F11",
+      "model": "F11"
     }
   ]
 }

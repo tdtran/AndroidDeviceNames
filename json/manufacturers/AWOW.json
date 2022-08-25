@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CQA1019_EEA",
+      "codename": "CQA1019_EEA",
+      "model": "CQA1019_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CreaPad_1002A",
       "codename": "CreaPad_1002A",
       "model": "CreaPad_1002A"
@@ -54,6 +60,12 @@
       "market_name": "CreaPad_1009A_EEA",
       "codename": "CreaPad_1009A_EEA",
       "model": "CreaPad_1009A_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CreaPad_1009S_EEA",
+      "codename": "CreaPad_1009S_EEA",
+      "model": "CreaPad_1009S_EEA"
     },
     {
       "manufacturer": "",

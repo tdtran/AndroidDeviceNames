@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Masstel_Hapi_20",
+      "codename": "Masstel_Hapi_20",
+      "model": "Masstel Hapi 20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Masstel_Juno_Q3",
       "codename": "Masstel_Juno_Q3",
       "model": "Masstel_Juno_Q3"
@@ -117,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Masstel_Tab8_Edu",
+      "codename": "Masstel_Tab8_Edu",
+      "model": "Masstel Tab8 Edu"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab_10.1Pro",
+      "codename": "Masstel_Tab_101Pro",
+      "model": "Tab 10.1Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Masstel_Tab_101",
       "codename": "Masstel_Tab_101",
       "model": "Masstel_Tab_101"
@@ -126,6 +144,24 @@
       "market_name": "Masstel_Tab_104",
       "codename": "Masstel_Tab_104",
       "model": "Masstel_Tab_104"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab_10E",
+      "codename": "Masstel_Tab_10E",
+      "model": "Masstel Tab 10E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab_10M",
+      "codename": "Masstel_Tab_10M",
+      "model": "Masstel Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_Tab_83",
+      "codename": "Masstel_Tab_83",
+      "model": "Masstel Tab 83"
     },
     {
       "manufacturer": "",
@@ -159,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab10_Edu",
+      "codename": "Tab10_Edu",
+      "model": "Masstel Tab10 Edu"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab7LTE",
       "codename": "Masstel_Tab7LTE",
       "model": "Masstel_Tab7LTE"
@@ -168,6 +210,12 @@
       "market_name": "Tab7Plus",
       "codename": "Tab7Plus",
       "model": "Tab7Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab8N",
+      "codename": "Tab8N",
+      "model": "Masstel Tab8N"
     },
     {
       "manufacturer": "",
@@ -183,9 +231,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab_10A",
+      "codename": "Tab_10A",
+      "model": "Masstel Tab 10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab_81",
       "codename": "Tab_81",
       "model": "Masstel Tab 81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_8A",
+      "codename": "Tab_8A",
+      "model": "Masstel Tab 8A"
     },
     {
       "manufacturer": "",

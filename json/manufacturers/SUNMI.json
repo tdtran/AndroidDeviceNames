@@ -3,9 +3,111 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Sunmi L2H",
+      "codename": "SUNMI-L2HNFC",
+      "model": "L2H_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi L2H",
+      "codename": "SUNMI-L2HNFC",
+      "model": "L2H_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi L2H",
+      "codename": "SUNMI-L2HNFC",
+      "model": "L2H_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi L2Ks",
+      "codename": "SUNMI-L2KsNFC",
+      "model": "L2Ks_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi L2Ks",
+      "codename": "SUNMI-L2KsNFC",
+      "model": "L2Ks_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi L2Ks",
+      "codename": "SUNMI-L2KsNFC",
+      "model": "L2Ks_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi L2Ks",
+      "codename": "SUNMI-L2KsNFC",
+      "model": "L2Ks_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi V2s",
+      "codename": "V2s",
+      "model": "V2s_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sunmi V2s",
       "codename": "V2s",
       "model": "V2s_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmi V2s",
+      "codename": "V2s",
+      "model": "V2s_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sNC",
+      "codename": "V2sNC",
+      "model": "V2sNC_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sNC",
+      "codename": "V2sNC",
+      "model": "V2sNC_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sNC",
+      "codename": "V2sNC",
+      "model": "V2sNC_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sNC",
+      "codename": "V2sNC",
+      "model": "V2sNC_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sPLUSNC",
+      "codename": "V2sPLUSNC",
+      "model": "V2sPLUSNC_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sPLUSNC",
+      "codename": "V2sPLUSNC",
+      "model": "V2sPLUSNC_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sPLUSNC",
+      "codename": "V2sPLUSNC",
+      "model": "V2sPLUSNC_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2sPLUSNC",
+      "codename": "V2sPLUSNC",
+      "model": "V2sPLUSNC_TR"
     }
   ]
 }

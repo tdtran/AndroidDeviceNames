@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MTR100",
+      "codename": "MTR100",
+      "model": "MTR100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "mDESK",
       "codename": "mDESK",
       "model": "mDESK"

@@ -51,12 +51,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SANSUI",
-      "codename": "martin",
-      "model": "AiPlus2K"
-    },
-    {
-      "manufacturer": "",
       "market_name": "SANSUI SmartTV",
       "codename": "sunnyvale",
       "model": "SANSUI SmartTV"
@@ -72,6 +66,12 @@
       "market_name": "Sansui Play",
       "codename": "Play",
       "model": "Sansui Play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sansui Smart TV",
+      "codename": "stanford",
+      "model": "40D"
     },
     {
       "manufacturer": "",

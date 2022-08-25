@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEW_20",
+      "codename": "NEW_20",
+      "model": "NEW 20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "New 5",
       "codename": "NEW_5",
       "model": "NEW 5"

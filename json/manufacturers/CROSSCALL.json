@@ -75,9 +75,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Core-T5",
+      "codename": "L820",
+      "model": "Core-T4 Neo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-T5",
+      "codename": "L820",
+      "model": "Core-T5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Core-X4",
       "codename": "L762",
       "model": "Core-X4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-X4 Neo",
+      "codename": "L770",
+      "model": "Core-X4 Neo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-X5",
+      "codename": "L771",
+      "model": "Core-X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-Z5",
+      "codename": "L790",
+      "model": "Core-Z5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Core-Z5",
+      "codename": "L790_02",
+      "model": "Core-Z5"
     },
     {
       "manufacturer": "",

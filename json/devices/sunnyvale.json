@@ -1,5 +1,35 @@
 [
   {
+    "manufacturer": "Admiral Overseas Corporation",
+    "market_name": "ADMIRAL TV",
+    "codename": "sunnyvale",
+    "model": "ADMIRAL TV"
+  },
+  {
+    "manufacturer": "COEX",
+    "market_name": "COEX 2K Smart TV",
+    "codename": "sunnyvale",
+    "model": "COEX 2K Smart TV"
+  },
+  {
+    "manufacturer": "Casper",
+    "market_name": "Casper 2K Smart TV",
+    "codename": "sunnyvale",
+    "model": "Casper 2K Smart TV"
+  },
+  {
+    "manufacturer": "Daewoo",
+    "market_name": "DAEWOO SMART TV",
+    "codename": "sunnyvale",
+    "model": "DAEWOO SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI SMART TV",
+    "codename": "sunnyvale",
+    "model": "HYUNDAI SMART TV"
+  },
+  {
     "manufacturer": "Indurama",
     "market_name": "indurama Smart TV",
     "codename": "sunnyvale",
@@ -12,10 +42,22 @@
     "model": "MONDIAL Smart TV"
   },
   {
+    "manufacturer": "Noblex",
+    "market_name": "NOBLEX Smart TV",
+    "codename": "sunnyvale",
+    "model": "NOBLEX Smart TV"
+  },
+  {
     "manufacturer": "PRISMPLUS",
     "market_name": "PrismPlus Android TV",
     "codename": "sunnyvale",
     "model": "PrismPlus Android TV"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "Philco Smart TV",
+    "codename": "sunnyvale",
+    "model": "Philco Smart TV"
   },
   {
     "manufacturer": "SWTV",

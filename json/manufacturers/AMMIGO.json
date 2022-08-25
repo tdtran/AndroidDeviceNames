@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Ammp8",
+      "codename": "Ammp8",
+      "model": "Ammp8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ni4",
       "codename": "Ni4",
       "model": "Ni4"

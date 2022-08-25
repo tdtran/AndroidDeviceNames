@@ -22,5 +22,17 @@
     "market_name": "Redmi Note 9",
     "codename": "merlin",
     "model": "M2003J15SC"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 9",
+    "codename": "merlin",
+    "model": "M2003J15SI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 9",
+    "codename": "merlin",
+    "model": "M2003J15SS"
   }
 ]

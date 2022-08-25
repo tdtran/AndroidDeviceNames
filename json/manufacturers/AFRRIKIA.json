@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Afrrikia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AFK-0001-1001",
+      "codename": "AFK-0001-1001",
+      "model": "AFK-0001-1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AFK-0001-1002",
+      "codename": "AFK-0001-1002",
+      "model": "AFK-0001-1002"
+    }
+  ]
+}

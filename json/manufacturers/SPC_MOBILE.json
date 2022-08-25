@@ -9,33 +9,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "GRAVITY-2",
-      "codename": "GRAVITY-2",
-      "model": "GRAVITY 2"
-    },
-    {
-      "manufacturer": "",
       "market_name": "GRAVITY-2-MAX",
       "codename": "GRAVITY-2-MAX",
       "model": "GRAVITY-2-MAX"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "GRAVITY-PRO-2",
-      "codename": "GRAVITY-PRO-2",
-      "model": "GRAVITY PRO 2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "GRAVITY-SE",
-      "codename": "GRAVITY-SE",
-      "model": "GRAVITY SE"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "GRAVITY-ULTIMATE-2",
-      "codename": "GRAVITY-ULTIMATE-2",
-      "model": "GRAVITY ULTIMATE 2"
     },
     {
       "manufacturer": "",
@@ -51,9 +27,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Gravity_Max_EEA",
-      "codename": "Gravity_Max",
-      "model": "Gravity Max"
+      "market_name": "GRAVITY_3_4G",
+      "codename": "GRAVITY_3_4G",
+      "model": "GRAVITY 3 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_3_PRO",
+      "codename": "GRAVITY_3_PRO",
+      "model": "GRAVITY 3 PRO"
     },
     {
       "manufacturer": "",
@@ -180,18 +162,6 @@
       "market_name": "L80_S",
       "codename": "L80_S",
       "model": "L80_S"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LIGHTYEAR-2",
-      "codename": "LIGHTYEAR-2",
-      "model": "LIGHTYEAR 2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LIGHTYEAR-PRO-2",
-      "codename": "LIGHTYEAR-PRO-2",
-      "model": "LIGHTYEAR PRO 2"
     },
     {
       "manufacturer": "",

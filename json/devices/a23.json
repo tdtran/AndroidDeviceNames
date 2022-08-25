@@ -4,5 +4,29 @@
     "market_name": "A23",
     "codename": "A23",
     "model": "A23"
+  },
+  {
+    "manufacturer": "IkuMobile",
+    "market_name": "A23",
+    "codename": "A23",
+    "model": "A23"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A23",
+    "codename": "a23",
+    "model": "SM-A235F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A23",
+    "codename": "a23",
+    "model": "SM-A235M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A23",
+    "codename": "a23",
+    "model": "SM-A235N"
   }
 ]

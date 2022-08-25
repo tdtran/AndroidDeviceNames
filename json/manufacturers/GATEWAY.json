@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GAKM10822",
+      "codename": "GAKM10822",
+      "model": "GAKM10822"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GATA30812",
       "codename": "GATA30812",
       "model": "GATA30812"
@@ -18,6 +24,12 @@
       "market_name": "GATA31012",
       "codename": "GATA31012",
       "model": "GATA31012"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GATM11022",
+      "codename": "GATM11022",
+      "model": "GATM11022"
     },
     {
       "manufacturer": "",

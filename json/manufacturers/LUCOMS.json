@@ -15,7 +15,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "T05CUA",
+      "market_name": "LUCOMS",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUCOMS",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UHD Android TV",
       "codename": "sindorim",
       "model": "AI PONT"
     }

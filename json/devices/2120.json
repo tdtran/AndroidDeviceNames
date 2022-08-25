@@ -28,5 +28,29 @@
     "market_name": "V2139",
     "codename": "2120",
     "model": "V2139"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2147",
+    "codename": "2120",
+    "model": "V2147"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2162",
+    "codename": "2120",
+    "model": "V2162"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y01A",
+    "codename": "2120",
+    "model": "V2166"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y15C",
+    "codename": "2120",
+    "model": "V2212"
   }
 ]

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Aiplus4K",
+      "codename": "guandu",
+      "model": "Aiplus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "AiPlus2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "WALTON Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "France",
       "codename": "tamachi",
       "model": "AiPlus2K"
@@ -12,6 +30,18 @@
       "market_name": "Germany",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART TECHNOLOGY",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART TEcHNOLGY",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",

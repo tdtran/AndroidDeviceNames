@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M6501B",
+      "codename": "M6501B",
+      "model": "M6501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M761",
       "codename": "M761",
       "model": "M761"

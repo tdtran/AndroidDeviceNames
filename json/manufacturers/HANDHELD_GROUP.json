@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALGIZ RT10",
+      "codename": "ALGIZ_RT10",
+      "model": "ALGIZ_RT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALGIZ RT8",
       "codename": "ALGIZ_RT8",
       "model": "ALGIZ_RT8"
@@ -40,20 +46,14 @@
     {
       "manufacturer": "",
       "market_name": "Nautiz X2",
-      "codename": "alta_EEA",
-      "model": "Nautiz X2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Nautiz X2",
       "codename": "alta_GL",
       "model": "Nautiz X2"
     },
     {
       "manufacturer": "",
-      "market_name": "Nautiz X41",
-      "codename": "albatross_EEA",
-      "model": "Nautiz X41"
+      "market_name": "Nautiz X2 EEA",
+      "codename": "alta_EEA",
+      "model": "Nautiz X2"
     },
     {
       "manufacturer": "",
@@ -63,7 +63,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Nautiz X9P",
+      "market_name": "Nautiz X41 EEA",
+      "codename": "albatross_EEA",
+      "model": "Nautiz X41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nautiz X9",
       "codename": "Nautiz_X9P",
       "model": "Nautiz X9P"
     },

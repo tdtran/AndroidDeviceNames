@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K102",
+      "codename": "K102",
+      "model": "K102"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K108",
       "codename": "K108",
       "model": "K108"

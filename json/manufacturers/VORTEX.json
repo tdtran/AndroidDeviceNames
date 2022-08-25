@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G8",
+      "codename": "G8",
+      "model": "G8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MUV",
       "codename": "MUV",
       "model": "MUV"
@@ -30,6 +36,12 @@
       "market_name": "TAB8",
       "codename": "TAB8",
       "model": "TAB8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V22",
+      "codename": "V22",
+      "model": "V22"
     },
     {
       "manufacturer": "",

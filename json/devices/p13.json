@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Pluzz",
+    "market_name": "P13",
+    "codename": "P13",
+    "model": "P13"
+  },
+  {
     "manufacturer": "Reeder",
     "market_name": "P13",
     "codename": "P13",

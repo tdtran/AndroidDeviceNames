@@ -31,6 +31,12 @@
   },
   {
     "manufacturer": "Pritom",
+    "market_name": "M10",
+    "codename": "M10",
+    "model": "M10"
+  },
+  {
+    "manufacturer": "Pritom",
     "market_name": "USA",
     "codename": "M10",
     "model": "M10 Pro"

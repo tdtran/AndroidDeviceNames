@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A650",
+      "codename": "A650",
+      "model": "A650"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A77",
       "codename": "A77",
       "model": "A77"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A950",
+      "codename": "A950",
+      "model": "A950"
     },
     {
       "manufacturer": "",

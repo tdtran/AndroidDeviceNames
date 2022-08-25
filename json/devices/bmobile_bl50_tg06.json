@@ -4,5 +4,11 @@
     "market_name": "BL50",
     "codename": "Bmobile_BL50_TG06",
     "model": "BL50"
+  },
+  {
+    "manufacturer": "BMobile",
+    "market_name": "BL50",
+    "codename": "Bmobile_BL50_TG06",
+    "model": "BL52"
   }
 ]

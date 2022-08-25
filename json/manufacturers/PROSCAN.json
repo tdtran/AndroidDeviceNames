@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PELTDVD1029",
+      "codename": "mdt1008_mr_32",
+      "model": "PELTDVD1029"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLT1065G",
       "codename": "PLT1065G",
       "model": "PLT1065G"

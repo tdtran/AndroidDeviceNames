@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A30 MAX",
+      "codename": "A30_Max",
+      "model": "A30_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A30_Plus",
+      "codename": "A30_Plus",
+      "model": "A30_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A5 Easy",
       "codename": "A5_Easy",
       "model": "A5_Easy"
@@ -711,6 +723,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Viva C1004",
+      "codename": "C1004",
+      "model": "C1004"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Viva C701",
       "codename": "Viva_C701",
       "model": "Viva_C701"
@@ -761,6 +779,12 @@
       "manufacturer": "",
       "market_name": "Viva H1003 LTE PRO/1",
       "codename": "H1003_LTE_PRO1",
+      "model": "H1003_LTE_PRO1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viva H1003 LTE PRO/1",
+      "codename": "H1003_LTE_PRO1_32",
       "model": "H1003_LTE_PRO1"
     },
     {

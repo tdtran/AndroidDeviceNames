@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P13",
+      "codename": "P13",
+      "model": "P13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PL4010",
       "codename": "PL4010",
       "model": "PLUZZ_PL4010"

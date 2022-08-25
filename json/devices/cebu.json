@@ -1,6 +1,24 @@
 [
   {
     "manufacturer": "Motorola",
+    "market_name": "Lenovo K12 Pro",
+    "codename": "cebu",
+    "model": "Lenovo K12 Note"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Lenovo K12 Pro",
+    "codename": "cebu",
+    "model": "Lenovo K12 Pro"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Lenovo XT2091-7",
+    "codename": "cebu",
+    "model": "Lenovo XT2091-7"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "moto g(9) power",
     "codename": "cebu",
     "model": "moto g(9) power"

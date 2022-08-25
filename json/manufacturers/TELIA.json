@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Telia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DV8919X-KET",
+      "codename": "DV8919X-KET",
+      "model": "DV8919X-EE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telia Nordic STB",
+      "codename": "DV8919-KST",
+      "model": "Telia Nordic STB"
+    }
+  ]
+}

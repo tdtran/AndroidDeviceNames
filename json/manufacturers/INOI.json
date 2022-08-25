@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A150",
+      "codename": "A150",
+      "model": "A150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A160",
       "codename": "A160",
       "model": "A160"
@@ -48,6 +54,30 @@
       "market_name": "INOI 5 Pro",
       "codename": "INOI_5_Pro",
       "model": "INOI_5_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI A52 Lite 32GB",
+      "codename": "A150",
+      "model": "A150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI A72",
+      "codename": "A170",
+      "model": "A170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI A72",
+      "codename": "A171",
+      "model": "A171"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI Note 12",
+      "codename": "A180",
+      "model": "A180"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,90 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tonn_100003561",
+      "codename": "mid8011",
+      "model": "100003561"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100003562",
+      "codename": "mid1035_mq",
+      "model": "100003562"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100011885",
+      "codename": "100011885",
+      "model": "100011885"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100011886",
+      "codename": "100011886",
+      "model": "100011886"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100015685-A",
+      "codename": "100015685-A",
+      "model": "100015685-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100044018G",
+      "codename": "100044018G",
+      "model": "100044018G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100044018P",
+      "codename": "100044018P",
+      "model": "100044018P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100071481",
+      "codename": "mid7019_mr_32",
+      "model": "100071481"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100071483",
+      "codename": "100071483",
+      "model": "100071483"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100071485",
+      "codename": "100071485",
+      "model": "100071485"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100071486",
+      "codename": "100071486",
+      "model": "100071486"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100092980",
+      "codename": "100092980",
+      "model": "100092980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "100092988",
+      "codename": "mid7019_mr_32",
+      "model": "100092988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID8016",
+      "codename": "mid8016_mk_32",
+      "model": "MID8016"
+    },
+    {
+      "manufacturer": "",
       "market_name": "onn. 4k TV",
       "codename": "sti6140d360",
       "model": "sti6140d360"

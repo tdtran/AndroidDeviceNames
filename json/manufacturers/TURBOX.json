@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "TURBO-X Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Greece",
       "codename": "tamachi",
       "model": "TURBO-X FHD Android TV"

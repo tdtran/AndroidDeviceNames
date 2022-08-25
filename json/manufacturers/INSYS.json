@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GW2-L1049",
+      "codename": "GW2-L1049",
+      "model": "GW2-L1049"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HK9-4010_EEA",
       "codename": "HK9-4010",
       "model": "HK9-4010"
@@ -18,6 +24,12 @@
       "market_name": "HK9-K5023",
       "codename": "HK9-K5023",
       "model": "HK9-K5023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HN2-M16Q",
+      "codename": "HN2-M16Q",
+      "model": "HN2-M16Q"
     },
     {
       "manufacturer": "",

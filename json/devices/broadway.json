@@ -1,8 +1,38 @@
 [
   {
+    "manufacturer": "Aqua",
+    "market_name": "AQUA Android TV DVB2K",
+    "codename": "broadway",
+    "model": "AQUA Android TV DVB2K"
+  },
+  {
+    "manufacturer": "Durabrand",
+    "market_name": "DB Android TV 2K",
+    "codename": "broadway",
+    "model": "DB Android TV 2K"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "CANDY Android TV DVB2K",
+    "codename": "broadway",
+    "model": "CANDY Android TV DVB2K"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "HEC Android TV DVB2K",
+    "codename": "broadway",
+    "model": "HEC Android TV DVB2K"
+  },
+  {
     "manufacturer": "Haier",
     "market_name": "Haier Android TV DVB2K",
     "codename": "broadway",
     "model": "Haier Android TV DVB2K"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier Android TV ISDB2K",
+    "codename": "broadway",
+    "model": "Haier Android TV ISDB2K"
   }
 ]

@@ -30,6 +30,18 @@
       "market_name": "PCB-T732",
       "codename": "MID7015A-MK",
       "model": "Kova 2 Plus PCB-T732"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PCB_S1063",
+      "codename": "PCB_S1063",
+      "model": "PCB_S1063"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PCB_T801",
+      "codename": "PCB_T801",
+      "model": "PCB_T801"
     }
   ]
 }

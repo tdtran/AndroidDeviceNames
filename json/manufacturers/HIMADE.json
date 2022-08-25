@@ -3,7 +3,13 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Smart TV",
+      "market_name": "HIMADE",
+      "codename": "shilin",
+      "model": "HIMADE4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UHD Android TV",
       "codename": "sindorim",
       "model": "AI PONT"
     }

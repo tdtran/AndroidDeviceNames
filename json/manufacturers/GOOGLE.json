@@ -87,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Google Play Games on PC",
+      "codename": "vsoc_kiwi_x86_64",
+      "model": "HPE device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Alder Lake Chromebook",
+      "codename": "brya_cheets",
+      "model": "brya"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Intel Amber Lake Y Chromebook",
       "codename": "rammus_cheets",
       "model": "rammus"
@@ -294,6 +306,12 @@
       "market_name": "Pixel 6 Pro",
       "codename": "raven",
       "model": "Pixel 6 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 6a",
+      "codename": "bluejay",
+      "model": "Pixel 6a"
     },
     {
       "manufacturer": "",

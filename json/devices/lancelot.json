@@ -7,8 +7,20 @@
   },
   {
     "manufacturer": "Redmi",
+    "market_name": "Redmi 9",
+    "codename": "lancelot",
+    "model": "M2004J19G"
+  },
+  {
+    "manufacturer": "Redmi",
     "market_name": "Redmi 9 Prime",
     "codename": "lancelot",
     "model": "M2004J19C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 9 Prime",
+    "codename": "lancelot",
+    "model": "M2004J19I"
   }
 ]

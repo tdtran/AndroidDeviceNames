@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P80_EEA",
+      "codename": "P80_EEA",
+      "model": "P80_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80_ROW",
+      "codename": "P80_ROW",
+      "model": "P80_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YQ-SVAIOR-EEA",
       "codename": "YQ-SVAIOR-EEA",
       "model": "YQ-SVAIOR-EEA"

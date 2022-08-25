@@ -57,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 10",
+      "codename": "eos",
+      "model": "22011119UY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10",
+      "codename": "fog",
+      "model": "220333QBI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 10 2022",
       "codename": "eos",
       "model": "21061119DG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 2022",
+      "codename": "eos",
+      "model": "22011119UY"
     },
     {
       "manufacturer": "",
@@ -78,6 +96,66 @@
       "market_name": "Redmi 10 2022",
       "codename": "selene",
       "model": "21121119SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 2022",
+      "codename": "selene",
+      "model": "21121119VL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 5G",
+      "codename": "light",
+      "model": "22041219G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 5G",
+      "codename": "thunder",
+      "model": "22041219NY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 Power",
+      "codename": "fog",
+      "model": "220333QBI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10A",
+      "codename": "dandelion",
+      "model": "220233L2C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10A",
+      "codename": "dandelion",
+      "model": "220233L2G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10A Sport",
+      "codename": "dandelion",
+      "model": "220233L2I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10C",
+      "codename": "fog",
+      "model": "220333QAG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10C",
+      "codename": "rain",
+      "model": "220333QNY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10C",
+      "codename": "wind",
+      "model": "220333QL"
     },
     {
       "manufacturer": "",
@@ -201,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 9",
+      "codename": "lancelot",
+      "model": "M2004J19G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 9 Power",
       "codename": "lime",
       "model": "M2010J19SI"
@@ -210,6 +294,18 @@
       "market_name": "Redmi 9 Prime",
       "codename": "lancelot",
       "model": "M2004J19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9 Prime",
+      "codename": "lancelot",
+      "model": "M2004J19I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 9A",
+      "codename": "dandelion",
+      "model": "220233L2G"
     },
     {
       "manufacturer": "",
@@ -375,6 +471,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi K40S",
+      "codename": "munch",
+      "model": "22021211RC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K50",
+      "codename": "rubens",
+      "model": "22041211AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K50 Pro",
+      "codename": "matisse",
+      "model": "22011211C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K50G",
+      "codename": "ingres",
+      "model": "21121210C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K50i",
+      "codename": "xagain",
+      "model": "22041216I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 10",
       "codename": "camellia",
       "model": "M2103K19C"
@@ -402,6 +528,12 @@
       "market_name": "Redmi Note 10 JE",
       "codename": "XIG02",
       "model": "XIG02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10 Pro",
+      "codename": "chopin",
+      "model": "21061110AG"
     },
     {
       "manufacturer": "",
@@ -471,6 +603,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 11",
+      "codename": "spes",
+      "model": "2201117TG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11",
+      "codename": "spes",
+      "model": "2201117TI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11",
+      "codename": "spes",
+      "model": "2201117TL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11",
+      "codename": "spesn",
+      "model": "2201117TY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 4G",
+      "codename": "selene",
+      "model": "21121119SC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 11 5G",
       "codename": "evergo",
       "model": "21091116AC"
@@ -483,9 +645,99 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro",
+      "codename": "viva",
+      "model": "2201116TG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro 5G",
+      "codename": "veux",
+      "model": "2201116SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro 5G",
+      "codename": "veux",
+      "model": "2201116SR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 11 Pro+",
       "codename": "pissarropro",
       "model": "21091116UC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro+ 5G",
+      "codename": "peux",
+      "model": "2201116SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro+ 5G",
+      "codename": "pissarropro",
+      "model": "21091116UG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11E",
+      "codename": "light",
+      "model": "22041219C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11E Pro",
+      "codename": "veux",
+      "model": "2201116SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11S",
+      "codename": "fleur",
+      "model": "2201117SY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11S",
+      "codename": "miel",
+      "model": "2201117SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11S",
+      "codename": "miel",
+      "model": "2201117SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11S",
+      "codename": "miel",
+      "model": "2201117SL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11S 5G",
+      "codename": "opal",
+      "model": "22031116BG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11T 5G",
+      "codename": "evergo",
+      "model": "21091116AI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11T Pro",
+      "codename": "xaga",
+      "model": "22041216C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11T Pro +",
+      "codename": "xagapro",
+      "model": "22041216UC"
     },
     {
       "manufacturer": "",
@@ -556,8 +808,26 @@
     {
       "manufacturer": "",
       "market_name": "Redmi Note 9",
+      "codename": "merlin",
+      "model": "M2003J15SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9",
+      "codename": "merlin",
+      "model": "M2003J15SS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9",
       "codename": "merlinnfc",
       "model": "M2003J15SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 9",
+      "codename": "merlinnfc",
+      "model": "M2003J15SG"
     },
     {
       "manufacturer": "",

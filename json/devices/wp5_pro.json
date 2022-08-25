@@ -4,5 +4,11 @@
     "market_name": "WP5 Pro",
     "codename": "WP5_Pro",
     "model": "WP5 Pro"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "WP5_Pro_row",
+    "codename": "WP5_Pro",
+    "model": "WP5 Pro"
   }
 ]

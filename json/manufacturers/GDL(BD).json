@@ -1,0 +1,11 @@
+{
+  "manufacturer": "GDL(BD)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "G200",
+      "codename": "G200",
+      "model": "G200"
+    }
+  ]
+}

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "Continental Edison Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "France",
+      "codename": "guandu",
+      "model": "Continental Edison Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "France",
       "codename": "tamachi",
       "model": "Continental Android TV"

@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CAMON 18",
+      "codename": "TECNO-Mobile-CH6n",
+      "model": "TECNO Mobile CH6n"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CAMON 18P",
       "codename": "TECNO-CH7",
       "model": "TECNO CH7"
@@ -210,6 +216,42 @@
       "market_name": "CAMON 18P",
       "codename": "TECNO-CH7n",
       "model": "TECNO CH7n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAMON 19",
+      "codename": "TECNO-CI6",
+      "model": "TECNO CI6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAMON 19",
+      "codename": "TECNO-CI6n",
+      "model": "TECNO CI6n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAMON 19",
+      "codename": "TECNO-Mobile-CI6n",
+      "model": "TECNO Mobile CI6n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAMON 19 Pro",
+      "codename": "TECNO-CI8",
+      "model": "TECNO CI8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAMON 19 Pro",
+      "codename": "TECNO-CI8n",
+      "model": "TECNO CI8n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAMON 19 Pro 5G",
+      "codename": "TECNO-CI7n",
+      "model": "TECNO CI7n"
     },
     {
       "manufacturer": "",
@@ -735,9 +777,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POP 5 LTE",
+      "codename": "TECNO-BD4i",
+      "model": "TECNO BD4i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POP 5P",
       "codename": "TECNO-BD3",
       "model": "TECNO BD3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POP 6 Pro",
+      "codename": "TECNO-BE8",
+      "model": "TECNO BE8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POP 6 Pro",
+      "codename": "TECNO-BE8i",
+      "model": "TECNO BE8i"
     },
     {
       "manufacturer": "",
@@ -759,9 +819,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POVA 4",
+      "codename": "TECNO-LG7n",
+      "model": "TECNO LG7n"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POVA Neo",
       "codename": "TECNO-LE6",
       "model": "TECNO LE6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POVA Neo 2",
+      "codename": "TECNO-LG6n",
+      "model": "TECNO LG6n"
     },
     {
       "manufacturer": "",
@@ -1095,6 +1167,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SPARK 8 Pro",
+      "codename": "TECNO-Mobile-KG8",
+      "model": "TECNO Mobile KG8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPARK 8C",
+      "codename": "TECNO-KG5q",
+      "model": "TECNO KG5q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SPARK CM",
       "codename": "TECNO-KA9",
       "model": "TECNO KA9"
@@ -1215,6 +1299,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO Mobile SPARK 8",
+      "codename": "TECNO-Mobile-KG6k",
+      "model": "TECNO Mobile KG6k"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO Mobile SPARK 8T",
+      "codename": "TECNO-Mobile-KG6p",
+      "model": "TECNO Mobile KG6p"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO P904",
       "codename": "TECNO-P904",
       "model": "TECNO P904"
@@ -1299,6 +1395,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO POP 6",
+      "codename": "TECNO-BE7",
+      "model": "TECNO BE7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POP 6 Go",
+      "codename": "TECNO-BE6-R2",
+      "model": "TECNO BE6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POP 6 Go",
+      "codename": "TECNO-BE7",
+      "model": "TECNO BE7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO POP X5",
       "codename": "TECNO-L6502S",
       "model": "TECNO L6502S"
@@ -1314,6 +1428,24 @@
       "market_name": "TECNO POVA 2",
       "codename": "TECNO-LE7n",
       "model": "TECNO LE7n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POVA 3",
+      "codename": "TECNO-LF7",
+      "model": "TECNO LF7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POVA 3",
+      "codename": "TECNO-LF7n",
+      "model": "TECNO LF7n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POVA 5G",
+      "codename": "TECNO-LE8",
+      "model": "TECNO LE8"
     },
     {
       "manufacturer": "",
@@ -1509,6 +1641,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO SPARK 8C",
+      "codename": "TECNO-KG5j",
+      "model": "TECNO KG5j"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO SPARK 8P",
       "codename": "TECNO-KG7n",
       "model": "TECNO KG7n"
@@ -1527,6 +1665,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO SPARK 9",
+      "codename": "TECNO-KG5p",
+      "model": "TECNO KG5p"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 9 Pro",
+      "codename": "TECNO-KH7n",
+      "model": "TECNO KH7n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 9T",
+      "codename": "TECNO-KH6",
+      "model": "TECNO KH6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO SPARK Go",
       "codename": "TECNO-KC1",
       "model": "TECNO KC1"
@@ -1536,6 +1692,18 @@
       "market_name": "TECNO SPARK Go 2022",
       "codename": "TECNO-KG5",
       "model": "TECNO KG5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK Go 2022",
+      "codename": "TECNO-KG5h",
+      "model": "TECNO KG5h"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK Go 2022",
+      "codename": "TECNO-KG5m",
+      "model": "TECNO KG5m"
     },
     {
       "manufacturer": "",

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android One S9",
+      "codename": "S9-KC_sprout",
+      "model": "S9-KC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BASIO",
       "codename": "KYV32",
       "model": "KYV32"
@@ -135,6 +141,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGNO SANGA edition",
+      "codename": "KC-S304",
+      "model": "KC-S304"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO SX2",
+      "codename": "KY21L-ST100",
+      "model": "KC-S302"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGNO T",
       "codename": "302KC",
       "model": "302KC"
@@ -156,6 +174,12 @@
       "market_name": "DIGNO W",
       "codename": "KYV40",
       "model": "KYV40U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO WX",
+      "codename": "KC-S303",
+      "model": "KC-S303"
     },
     {
       "manufacturer": "",
@@ -483,6 +507,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KC-T303DT",
+      "codename": "SZJ203",
+      "model": "SZJ-JS203"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KC-T304",
       "codename": "KC-T304",
       "model": "KC-T304"
@@ -765,9 +795,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "あんしんスマホ",
+      "codename": "KY-51B",
+      "model": "KY-51B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "おてがるスマホ01",
       "codename": "KYV44_u2",
       "model": "KYV44_u2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "かんたんスマホ2+",
+      "codename": "A201KC",
+      "model": "A201KC"
     },
     {
       "manufacturer": "",

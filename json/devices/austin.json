@@ -6,6 +6,18 @@
     "model": "Lenovo A300"
   },
   {
+    "manufacturer": "Motorola",
+    "market_name": "moto g 5G (2022)",
+    "codename": "austin",
+    "model": "moto g 5G (2022)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g 5G (2022)",
+    "codename": "austin",
+    "model": "moto g pure"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "TCL 20 SE",
     "codename": "Austin",

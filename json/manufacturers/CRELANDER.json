@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T118",
+      "codename": "T118",
+      "model": "T118"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z103",
       "codename": "Z103",
       "model": "Z103"

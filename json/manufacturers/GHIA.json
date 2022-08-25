@@ -195,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GVP133",
+      "codename": "GVP133",
+      "model": "GVP133"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I1",
       "codename": "I1",
       "model": "I1"

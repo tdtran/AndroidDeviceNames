@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dicle Tab Kpad",
+      "codename": "Dicle_Dtab_Kpad",
+      "model": "Dicle_Dtab_Kpad"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DicleTab iPlay40 Pro",
       "codename": "DICLE_IPLAY40_PRO",
       "model": "DICLE_IPLAY40_PRO"

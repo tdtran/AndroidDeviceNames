@@ -1,9 +1,111 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Turkey",
+    "codename": "martin",
+    "model": "Blaupunkt 2K Android TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "Caixun Android TV"
+  },
+  {
     "manufacturer": "CAIXUN",
     "market_name": "South of America",
     "codename": "martin",
     "model": "AiPlus2K"
+  },
+  {
+    "manufacturer": "CROWN MUSTANG",
+    "market_name": "Argentina",
+    "codename": "martin",
+    "model": "Crown Mustang 2K Android TV"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Continental Edison Android TV"
+  },
+  {
+    "manufacturer": "Digiquest",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Digiquest 2K Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "EKO 2K Android TV"
+  },
+  {
+    "manufacturer": "Estar",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "eSTAR 2K Android TV"
+  },
+  {
+    "manufacturer": "F\u0026U (Fandu)",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "FandU Android TV"
+  },
+  {
+    "manufacturer": "Grunkel",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Grunkel 2K Android TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "HYUNDAI ANDROID TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "Canada",
+    "codename": "martin",
+    "model": "Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "JVC Android TV"
+  },
+  {
+    "manufacturer": "Kanji",
+    "market_name": "ARGENTINA",
+    "codename": "martin",
+    "model": "KANJI 2K Android TV"
+  },
+  {
+    "manufacturer": "Kioto",
+    "market_name": "Chile",
+    "codename": "martin",
+    "model": "KIOTO 2K Android TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Kogan TV"
+  },
+  {
+    "manufacturer": "Marcel",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "MARCEL Android TV"
   },
   {
     "manufacturer": "Multilaser",
@@ -12,9 +114,93 @@
     "model": "Multilaser Android TV"
   },
   {
-    "manufacturer": "Sansui",
-    "market_name": "SANSUI",
+    "manufacturer": "Nano",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Nano Android TV"
+  },
+  {
+    "manufacturer": "Profilo",
+    "market_name": "Turkey",
+    "codename": "martin",
+    "model": "Profilo 2K Android TV"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Qbell 2K Android TV"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "SVISION 2K Android TV"
+  },
+  {
+    "manufacturer": "SCHNEIDER",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Schneider 2K Android TV"
+  },
+  {
+    "manufacturer": "SPC",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "SPC Android TV"
+  },
+  {
+    "manufacturer": "Smart-Tech TV",
+    "market_name": "EU、UK、AP",
     "codename": "martin",
     "model": "AiPlus2K"
+  },
+  {
+    "manufacturer": "Smart-Tech TV",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "WALTON Android TV"
+  },
+  {
+    "manufacturer": "Sunstech",
+    "market_name": "Spain / Portugal",
+    "codename": "martin",
+    "model": "SUNSTECH SD ANDROID TV"
+  },
+  {
+    "manufacturer": "TD SYSTEMS",
+    "market_name": "Android TV",
+    "codename": "martin",
+    "model": "TD SYSTEMS Android TV"
+  },
+  {
+    "manufacturer": "TELE System",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "TELESYSTEM 2K Android TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Tesla Android TV"
+  },
+  {
+    "manufacturer": "Turbo-X",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "TURBO-X Android TV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Vision Android TV"
+  },
+  {
+    "manufacturer": "Zephir",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Zephir 2K Android TV"
   }
 ]

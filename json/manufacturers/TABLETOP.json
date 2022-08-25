@@ -6,6 +6,12 @@
       "market_name": "Tabletop_T2",
       "codename": "Tabletop_T2",
       "model": "Tabletop_T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tabletop_T2_2",
+      "codename": "Tabletop_T2_2",
+      "model": "Tabletop_T2_2"
     }
   ]
 }

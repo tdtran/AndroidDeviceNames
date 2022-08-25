@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HOLO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "USA",
+      "codename": "VE1983",
+      "model": "VE1983"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VE0319",
+      "codename": "VE0319",
+      "model": "VE0319"
+    }
+  ]
+}

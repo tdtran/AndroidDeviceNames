@@ -87,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U505S",
+      "codename": "U505S",
+      "model": "U505S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U608S",
+      "codename": "U608S",
+      "model": "U608S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ultimate U710S",
       "codename": "Ultimate_U710S",
       "model": "Ultimate U710S"

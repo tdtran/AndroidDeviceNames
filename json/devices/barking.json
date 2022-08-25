@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Casper",
+    "market_name": "55UGA610",
+    "codename": "barking",
+    "model": "Casper AndroidTV"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "G5550",
+    "codename": "barking",
+    "model": "itel Android TV"
+  },
+  {
+    "manufacturer": "Syinix",
+    "market_name": "55U51",
+    "codename": "barking",
+    "model": "Syinix AndroidTV"
+  }
+]

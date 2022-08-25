@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KA1",
+      "codename": "KA1",
+      "model": "KA1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KA2",
       "codename": "KA2",
       "model": "KA2"
@@ -18,6 +24,12 @@
       "market_name": "KD2",
       "codename": "KD2",
       "model": "KD2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KD3",
+      "codename": "YYT",
+      "model": "4K Google TV Stick"
     },
     {
       "manufacturer": "",

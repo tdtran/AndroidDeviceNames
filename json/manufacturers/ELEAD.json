@@ -1,0 +1,11 @@
+{
+  "manufacturer": "E-LEAD",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RSE",
+      "codename": "RSE",
+      "model": "EL-712"
+    }
+  ]
+}

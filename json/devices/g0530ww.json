@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Blu",
+    "market_name": "G61S",
+    "codename": "G0530WW",
+    "model": "G61S"
+  },
+  {
+    "manufacturer": "Blu",
     "market_name": "G91 Pro",
     "codename": "G0530WW",
     "model": "G91 Pro"

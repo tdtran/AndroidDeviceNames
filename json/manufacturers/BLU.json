@@ -141,9 +141,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B131DL",
+      "codename": "B130DL",
+      "model": "B131DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B140DL",
       "codename": "B140DL",
       "model": "B140DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B3",
+      "codename": "B301",
+      "model": "B3"
     },
     {
       "manufacturer": "",
@@ -249,6 +261,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BOLD N2",
+      "codename": "N0050UU",
+      "model": "BOLD N2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C1",
       "codename": "C190",
       "model": "C1"
@@ -309,6 +327,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5 MAX",
+      "codename": "C270EQ",
+      "model": "C5 MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5 PLUS",
       "codename": "C130EQ",
       "model": "C5 Plus"
@@ -345,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5L",
+      "codename": "C017U",
+      "model": "C5L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5L 2020",
       "codename": "C0070WW",
       "model": "C5L 2020"
@@ -358,13 +388,61 @@
     {
       "manufacturer": "",
       "market_name": "C5L 2021",
+      "codename": "C0101TT",
+      "model": "C5L 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L 2021",
+      "codename": "C0101WW",
+      "model": "C5L 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L 2021",
       "codename": "C0110WW",
       "model": "C5L 2021"
     },
     {
       "manufacturer": "",
+      "market_name": "C5L IW",
+      "codename": "C017U",
+      "model": "C5L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L MAX",
+      "codename": "C0160WW",
+      "model": "C5L Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L Max",
+      "codename": "C0161WW",
+      "model": "C5L MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L Max",
+      "codename": "C0162WW",
+      "model": "C5L MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5L Max",
       "codename": "C0170WW",
+      "model": "C5L MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L Max",
+      "codename": "C0170WW",
+      "model": "C5L Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L Max",
+      "codename": "C0173WW",
       "model": "C5L Max"
     },
     {
@@ -436,7 +514,37 @@
     {
       "manufacturer": "",
       "market_name": "C6L 2021",
+      "codename": "C0141TT",
+      "model": "C6L 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L 2021",
+      "codename": "C0142TT",
+      "model": "C6L 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L 2021",
       "codename": "C0150WW",
+      "model": "C6L 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L 2021",
+      "codename": "C0151WW",
+      "model": "C6L 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L 2021",
+      "codename": "C0152TT",
+      "model": "C6L 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L 2021",
+      "codename": "C0152WW",
       "model": "C6L 2021"
     },
     {
@@ -450,6 +558,12 @@
       "market_name": "C7",
       "codename": "C250EQ",
       "model": "C7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C7x",
+      "codename": "C290EQ",
+      "model": "C7x"
     },
     {
       "manufacturer": "",
@@ -657,9 +771,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F91 5G",
+      "codename": "F0030UU",
+      "model": "F91 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G0290WW",
       "codename": "G0290WW",
       "model": "G80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G40",
+      "codename": "G0730WW",
+      "model": "G40"
     },
     {
       "manufacturer": "",
@@ -693,9 +819,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G50 MEGA 2022",
+      "codename": "G0660WW",
+      "model": "G50 Mega 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G50 MEGA 2022",
+      "codename": "G0670WW",
+      "model": "G50 Mega 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G50 Plus",
       "codename": "G0350WW",
       "model": "G50 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G51",
+      "codename": "G0480WW",
+      "model": "G51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G51",
+      "codename": "G0490WW",
+      "model": "G51"
     },
     {
       "manufacturer": "",
@@ -705,8 +855,32 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G51 Plus",
+      "codename": "G0512WW",
+      "model": "G51 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G51S",
+      "codename": "G0580WW",
+      "model": "G51S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G51S",
+      "codename": "G0581WW",
+      "model": "G51S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G51S",
       "codename": "G0590WW",
+      "model": "G51S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G51S",
+      "codename": "G0591WW",
       "model": "G51S"
     },
     {
@@ -729,6 +903,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G61S",
+      "codename": "G0520WW",
+      "model": "G61S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G61S",
+      "codename": "G0530WW",
+      "model": "G61S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G61S",
+      "codename": "G0630WW",
+      "model": "G61S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G70",
       "codename": "G0151WW",
       "model": "G70"
@@ -744,6 +936,30 @@
       "market_name": "G70",
       "codename": "G0251WW",
       "model": "G70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G71",
+      "codename": "G0570WW",
+      "model": "G71 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G71L",
+      "codename": "G0710WW",
+      "model": "G71L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G71_PLUS_TIGO",
+      "codename": "G0560WW",
+      "model": "G71 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G8",
+      "codename": "G0160LL",
+      "model": "G8"
     },
     {
       "manufacturer": "",
@@ -804,6 +1020,12 @@
       "market_name": "G91S",
       "codename": "G0550WW",
       "model": "G91S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G91_Max",
+      "codename": "G0690WW",
+      "model": "G91 Max"
     },
     {
       "manufacturer": "",
@@ -909,6 +1131,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J6S",
+      "codename": "J210EQ",
+      "model": "J6S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J7",
       "codename": "J0000LL_ATT_MX",
       "model": "J7"
@@ -922,7 +1150,19 @@
     {
       "manufacturer": "",
       "market_name": "J9L",
+      "codename": "J0082WW",
+      "model": "J9L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J9L",
       "codename": "J0090WW",
+      "model": "J9L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J9L",
+      "codename": "J0092WW",
       "model": "J9L"
     },
     {
@@ -972,6 +1212,12 @@
       "market_name": "Life One X3",
       "codename": "L0150WW",
       "model": "Life One X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L",
+      "codename": "M0190WW",
+      "model": "M10L"
     },
     {
       "manufacturer": "",
@@ -1030,6 +1276,12 @@
     {
       "manufacturer": "",
       "market_name": "M8L",
+      "codename": "M0171WW_ND",
+      "model": "M8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L",
       "codename": "M0172WW",
       "model": "M8L"
     },
@@ -1038,6 +1290,36 @@
       "market_name": "M8L",
       "codename": "M0173WW",
       "model": "M8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L",
+      "codename": "M0174WW",
+      "model": "M8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L",
+      "codename": "M0174WW_ND",
+      "model": "M8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L",
+      "codename": "M0175WW_ND",
+      "model": "M8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L 2022",
+      "codename": "M0220WW",
+      "model": "M8L 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L 2022",
+      "codename": "M0220WW_ND",
+      "model": "M8L 2022"
     },
     {
       "manufacturer": "",
@@ -1050,6 +1332,30 @@
       "market_name": "M8L PLUS",
       "codename": "M0210WW",
       "model": "M8L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L PLUS",
+      "codename": "M0213WW",
+      "model": "M8L Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L Plus",
+      "codename": "M0209WW_ND",
+      "model": "M8L Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L Plus",
+      "codename": "M0210WW_ND",
+      "model": "M8L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L Plus",
+      "codename": "M0212WW_ND",
+      "model": "M8L Plus"
     },
     {
       "manufacturer": "",
@@ -1176,6 +1482,18 @@
       "market_name": "S5",
       "codename": "S0480LL_ALTAN",
       "model": "S5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S91",
+      "codename": "S0690WW",
+      "model": "S91"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S91 Pro",
+      "codename": "S0730WW",
+      "model": "S91 Pro"
     },
     {
       "manufacturer": "",
@@ -1497,9 +1815,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Studio X10L 2022",
+      "codename": "S0590LL",
+      "model": "Studio X10L 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Studio X12",
       "codename": "S050EQ",
       "model": "Studio X12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio X5",
+      "codename": "S0610WW",
+      "model": "Studio X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio X5 Max",
+      "codename": "S0630WW",
+      "model": "Studio X5 Max"
     },
     {
       "manufacturer": "",
@@ -1566,6 +1902,18 @@
       "market_name": "T6",
       "codename": "T0090TT",
       "model": "T6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T6L",
+      "codename": "T0120TT",
+      "model": "T6L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T6L",
+      "codename": "T0130TT",
+      "model": "T6L"
     },
     {
       "manufacturer": "",
@@ -1650,6 +1998,12 @@
       "market_name": "VIVO XL",
       "codename": "BLU_VIVO_XL",
       "model": "VIVO XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo 12 Pro",
+      "codename": "V0670LL",
+      "model": "Vivo 12 Pro"
     },
     {
       "manufacturer": "",

@@ -69,6 +69,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LAVIE T11 112K1",
+      "codename": "LAVIET11112K1",
+      "model": "LAVIE T11 112K1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE T11 11QHD1",
+      "codename": "LAVIET1111QHD1",
+      "model": "LAVIE T11 11QHD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE T8 8HD1",
+      "codename": "LAVIET88HD1",
+      "model": "LAVIE T8 8HD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab 102K1",
+      "codename": "LAVIETab102K1",
+      "model": "LAVIE Tab 102K1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAVIE Tab E",
       "codename": "PC-TE410JAW",
       "model": "PC-TE410JAW"
@@ -81,9 +105,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LAVIE Tab E",
+      "codename": "X704F",
+      "model": "PC-TE510HAW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAVIE Tab E 10FHD1",
       "codename": "LAVIETabE10FHD1",
       "model": "LAVIE Tab E 10FHD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab E 10FHD2",
+      "codename": "LAVIETabE10FHD2",
+      "model": "LAVIE Tab E 10FHD2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab E 7SD1",
+      "codename": "LAVIETabE7SD1",
+      "model": "LAVIE Tab E 7SD1"
     },
     {
       "manufacturer": "",
@@ -96,6 +138,18 @@
       "market_name": "LAVIE Tab E 8HD1",
       "codename": "LAVIETabE8HD1",
       "model": "LAVIE Tab E 8HD1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab T10",
+      "codename": "LAVIETab10FHD3",
+      "model": "LAVIE Tab 10FHD3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIETab T12 12QHD1",
+      "codename": "LAVIETabT1212QHD1",
+      "model": "LAVIE Tab T12 12QHD1"
     },
     {
       "manufacturer": "",
@@ -114,6 +168,12 @@
       "market_name": "LaVieTab PC-TE510S1L",
       "codename": "PC-TE510S1_nec",
       "model": "LaVieTab PC-TE510S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M7 3rd Gen",
+      "codename": "LAVIET77SD1",
+      "model": "LAVIE T7 7SD1"
     },
     {
       "manufacturer": "",

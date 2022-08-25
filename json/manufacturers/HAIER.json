@@ -105,6 +105,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CANDY Android TV DVB",
+      "codename": "dupont",
+      "model": "CANDY Android TV DVB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CANDY Android TV DVB2K",
+      "codename": "broadway",
+      "model": "CANDY Android TV DVB2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CDP7TAB4C8",
       "codename": "CDP7TAB4C8",
       "model": "CDP7TAB4C8"
@@ -192,6 +204,12 @@
       "market_name": "D2-961G",
       "codename": "D2-961G",
       "model": "D2-961G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dongle Matrix",
+      "codename": "YQB",
+      "model": "Dongle Matrix"
     },
     {
       "manufacturer": "",
@@ -321,6 +339,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HEC Android TV DVB",
+      "codename": "dupont",
+      "model": "HEC Android TV DVB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HEC Android TV DVB2K",
+      "codename": "broadway",
+      "model": "HEC Android TV DVB2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HG-9041",
       "codename": "HG-9041",
       "model": "HG-9041"
@@ -429,6 +459,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier Android TV DVB",
+      "codename": "dupont",
+      "model": "Haier Android TV DVB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Haier Android TV DVB2K",
       "codename": "broadway",
       "model": "Haier Android TV DVB2K"
@@ -438,6 +474,24 @@
       "market_name": "Haier Android TV FF Pro",
       "codename": "daan",
       "model": "Haier Android TV FF Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV FF Pro ISDB",
+      "codename": "daan",
+      "model": "Haier Android TV FFProISDB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV ISDB",
+      "codename": "dupont",
+      "model": "Haier Android TV ISDB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Android TV ISDB2K",
+      "codename": "broadway",
+      "model": "Haier Android TV ISDB2K"
     },
     {
       "manufacturer": "",
@@ -623,6 +677,12 @@
       "manufacturer": "",
       "market_name": "M53-52401",
       "codename": "M53-52401",
+      "model": "M53-52401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M53-52401",
+      "codename": "M53-524O1",
       "model": "M53-52401"
     },
     {

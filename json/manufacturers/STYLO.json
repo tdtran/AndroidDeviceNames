@@ -15,6 +15,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "721_PRO",
+      "codename": "721_PRO",
+      "model": "721_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIR",
+      "codename": "AIR",
+      "model": "AIR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ARCTIC",
+      "codename": "ARCTIC",
+      "model": "ARCTIC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS210291",
+      "codename": "AS210291",
+      "model": "AS210291"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BOLD",
       "codename": "BOLD",
       "model": "BOLD"
@@ -51,15 +75,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy",
+      "codename": "Galaxy",
+      "model": "Galaxy"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INKOSI",
       "codename": "INKOSI",
       "model": "INKOSI"
     },
     {
       "manufacturer": "",
+      "market_name": "INKOSI-PRO",
+      "codename": "INKOSI_PRO",
+      "model": "INKOSI_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INKULU",
+      "codename": "INKULU",
+      "model": "INKULU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INKULU_PRO",
+      "codename": "INKULU_PRO",
+      "model": "INKULU_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ithemba",
       "codename": "Ithemba",
       "model": "Ithemba"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Jupiter",
+      "codename": "DQR22",
+      "model": "DQR22"
     },
     {
       "manufacturer": "",
@@ -75,9 +129,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MOSCOW",
+      "codename": "MOSCOW",
+      "model": "MOSCOW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Onyx",
       "codename": "Onyx",
       "model": "Onyx"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIME",
+      "codename": "PRIME",
+      "model": "PRIME"
     },
     {
       "manufacturer": "",
@@ -219,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STEP_UP",
+      "codename": "STEP_UP",
+      "model": "STEP_UP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STYLO MAX",
       "codename": "Stylo_Max",
       "model": "MAX"
@@ -270,6 +342,12 @@
       "market_name": "TAB4",
       "codename": "TAB4",
       "model": "TAB4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TITAN",
+      "codename": "TITAN",
+      "model": "TITAN"
     },
     {
       "manufacturer": "",

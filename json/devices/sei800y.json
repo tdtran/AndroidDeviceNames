@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Yes",
+    "market_name": "Yes",
+    "codename": "SEI800Y",
+    "model": "yes"
+  },
+  {
+    "manufacturer": "Yes",
     "market_name": "yes",
     "codename": "SEI800Y",
     "model": "yes"

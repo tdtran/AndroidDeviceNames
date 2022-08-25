@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "50CLED/55CLED/65CLED",
+      "codename": "songshan",
+      "model": "VU TV FFM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "fushan_vu",
       "codename": "hamamatsucho",
       "model": "Smart 2K ATV4"

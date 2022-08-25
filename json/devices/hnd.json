@@ -13,6 +13,12 @@
   },
   {
     "manufacturer": "Homatics",
+    "market_name": "Box Q",
+    "codename": "HND",
+    "model": "Box Q"
+  },
+  {
+    "manufacturer": "Homatics",
     "market_name": "SEI600HM",
     "codename": "HND",
     "model": "Box Q"
@@ -26,6 +32,12 @@
   {
     "manufacturer": "YAYGO",
     "market_name": "SEI600YAY",
+    "codename": "HND",
+    "model": "ATV-101"
+  },
+  {
+    "manufacturer": "YAYGO",
+    "market_name": "SEI600YAY4",
     "codename": "HND",
     "model": "ATV-101"
   },

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "Z6251",
+    "codename": "Z6251",
+    "model": "Z6251"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Z6251V",
     "codename": "Z6251",
     "model": "Z6251V"

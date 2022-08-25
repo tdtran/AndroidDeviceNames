@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pelican",
+      "codename": "EA211005",
+      "model": "EA211005"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QS5509A",
       "codename": "QS5509QL",
       "model": "QS5509A"
@@ -54,6 +60,12 @@
       "market_name": "U319AA",
       "codename": "U319AA",
       "model": "U319AA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U626AA",
+      "codename": "U626AA",
+      "model": "U626AA"
     },
     {
       "manufacturer": "",

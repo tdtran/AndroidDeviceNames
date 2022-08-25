@@ -6,6 +6,24 @@
       "market_name": "IMP-F01K",
       "codename": "IMP-F01K",
       "model": "IMP-F01K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 Prime",
+      "codename": "selene",
+      "model": "21061119BI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10 Prime",
+      "codename": "selene",
+      "model": "22011119TI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 10C",
+      "codename": "fog",
+      "model": "220333QAG"
     }
   ]
 }

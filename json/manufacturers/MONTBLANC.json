@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Summit 3",
+      "codename": "bluefish",
+      "model": "SUMMIT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Summit Lite",
       "codename": "icefish",
       "model": "SUMMIT LITE"

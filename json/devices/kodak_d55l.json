@@ -4,5 +4,11 @@
     "market_name": "Kodak_D55L",
     "codename": "Kodak_D55L",
     "model": "D55L"
+  },
+  {
+    "manufacturer": "Kodak",
+    "market_name": "Kodak_D55L_R",
+    "codename": "Kodak_D55L",
+    "model": "D55L"
   }
 ]

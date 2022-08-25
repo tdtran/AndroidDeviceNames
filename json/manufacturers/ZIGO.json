@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EON_9",
+      "codename": "EON_9",
+      "model": "EON 9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Zigo_Nebula_10_1",
       "codename": "Zigo_Nebula_10_1",
       "model": "Zigo_Nebula_10_1"

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "UWIN",
+    "market_name": "Draco",
+    "codename": "Draco",
+    "model": "Draco"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Z835",
     "codename": "draco",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "ueno",
+      "model": "2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W10TWF19",
       "codename": "W10TWF19",
       "model": "W10TWF19"
@@ -42,12 +48,6 @@
       "market_name": "WH10S9863232",
       "codename": "WH10S9863232",
       "model": "WH10S9863232"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "West",
-      "codename": "ueno",
-      "model": "2K Android TV"
     }
   ]
 }

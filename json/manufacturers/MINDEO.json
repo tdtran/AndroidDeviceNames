@@ -1,0 +1,29 @@
+{
+  "manufacturer": "MINDEO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MS8389",
+      "codename": "MS8389",
+      "model": "MS8389"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS8389",
+      "codename": "MS8389RU",
+      "model": "MS8389"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS8589",
+      "codename": "MS8589",
+      "model": "MS8589"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS8589_RU",
+      "codename": "MS8589RU",
+      "model": "MS8589"
+    }
+  ]
+}

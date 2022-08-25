@@ -36,6 +36,18 @@
       "market_name": "TSUTAYA Stick",
       "codename": "ts201",
       "model": "TStick"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV Stick",
+      "codename": "ts401",
+      "model": "TV Stick"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV Stick",
+      "codename": "ts401",
+      "model": "TV StickL"
     }
   ]
 }

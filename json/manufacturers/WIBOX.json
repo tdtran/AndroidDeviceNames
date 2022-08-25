@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "WiBox.tv V3",
+      "codename": "WiBox-tv",
+      "model": "WiBox.tv V3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WiboxTv",
       "codename": "dtiw384wb",
       "model": "m384wb"

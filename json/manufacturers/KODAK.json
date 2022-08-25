@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D50PRO",
+      "codename": "Kodak_D50PRO",
+      "model": "D50PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ektra",
       "codename": "KodakEktra",
       "model": "Ektra"
@@ -51,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kodak_D40",
+      "codename": "Kodak_D40",
+      "model": "D40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kodak_D50L",
       "codename": "Kodak_D50L",
       "model": "D50L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kodak_D50PROL",
+      "codename": "Kodak_D50PROL",
+      "model": "D50PROL"
     },
     {
       "manufacturer": "",
@@ -63,9 +81,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kodak_D55L_R",
+      "codename": "Kodak_D55L",
+      "model": "D55L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kodak_D60LX",
       "codename": "Kodak_D60LX",
       "model": "D60LX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kodak_D65L",
+      "codename": "Kodak_D65L",
+      "model": "D65L"
     },
     {
       "manufacturer": "",

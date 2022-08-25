@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BH105",
+      "codename": "BH105",
+      "model": "BH105"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BH505GS",
       "codename": "BH505GS",
       "model": "BH505GS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SQ126G",
+      "codename": "SQ126G",
+      "model": "SQ126G"
     }
   ]
 }

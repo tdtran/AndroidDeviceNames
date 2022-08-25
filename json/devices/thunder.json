@@ -4,5 +4,17 @@
     "market_name": "Thunder",
     "codename": "Thunder",
     "model": "Thunder"
+  },
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M4 5G",
+    "codename": "thunder",
+    "model": "22041219PG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 10 5G",
+    "codename": "thunder",
+    "model": "22041219NY"
   }
 ]

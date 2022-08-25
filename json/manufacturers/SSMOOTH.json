@@ -3,15 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Smooth 5.0 2022",
+      "codename": "Smooth_5_0_2022",
+      "model": "Smooth 5.0 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smooth 5.5 Lite",
       "codename": "Smooth5_5_Lite",
       "model": "Smooth 5.5 Lite"
     },
     {
       "manufacturer": "",
+      "market_name": "Smooth 5.5 MAX",
+      "codename": "Smooth_5_5_MAX",
+      "model": "Smooth 5.5 MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smooth 6.26 Lite",
       "codename": "Smooth6_26_Lite",
       "model": "Smooth 6.26 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth 6.26 Max",
+      "codename": "Smooth6_26_Max",
+      "model": "Smooth 6.26 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth 6.26 Pro",
+      "codename": "Smooth6_26_Pro",
+      "model": "Smooth 6.26 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth 6.5",
+      "codename": "Smooth6_5",
+      "model": "Smooth 6.5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth Note 6.8",
+      "codename": "Smooth_Note_6_8",
+      "model": "Smooth Note 6.8"
     },
     {
       "manufacturer": "",

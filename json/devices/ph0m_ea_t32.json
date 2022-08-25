@@ -22,5 +22,11 @@
     "market_name": "Philips Android TV",
     "codename": "PH0M_EA_T32",
     "model": "Philips FHD Android TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "Philips Android TV",
+    "codename": "PH0M_EA_T32",
+    "model": "Philips UHD Android TV"
   }
 ]

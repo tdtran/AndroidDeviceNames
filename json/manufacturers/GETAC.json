@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZX10",
+      "codename": "zx10",
+      "model": "ZX10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZX70",
       "codename": "zx70",
       "model": "ZX70"

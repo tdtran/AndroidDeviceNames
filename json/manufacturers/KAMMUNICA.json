@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Kammunica_500V",
+      "codename": "Kammunica_500V",
+      "model": "Kammunica_500V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kammunica_800",
+      "codename": "Kammunica_800",
+      "model": "Kammunica_800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kammunica_XD",
       "codename": "Kammunica_XD",
       "model": "Kammunica_XD"

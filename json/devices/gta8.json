@@ -16,5 +16,11 @@
     "market_name": "Galaxy Tab A8",
     "codename": "gta8",
     "model": "SM-X205N"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab A8",
+    "codename": "gta8",
+    "model": "SM-X207"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Gplus",
+    "market_name": "Q20",
+    "codename": "Q20",
+    "model": "GMC-668M"
+  },
+  {
     "manufacturer": "Positivo",
     "market_name": "Positivo Q20",
     "codename": "Q20",

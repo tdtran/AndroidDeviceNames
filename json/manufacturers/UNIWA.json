@@ -5,7 +5,19 @@
       "manufacturer": "",
       "market_name": "M101",
       "codename": "M101",
+      "model": "M101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M101",
+      "codename": "M101",
       "model": "UNIWA M101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNIWA W888",
+      "codename": "UNIWA_W888",
+      "model": "W888"
     }
   ]
 }

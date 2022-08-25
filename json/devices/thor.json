@@ -4,5 +4,11 @@
     "market_name": "THOR",
     "codename": "THOR",
     "model": "THOR"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 12S Ultra",
+    "codename": "thor",
+    "model": "2203121C"
   }
 ]

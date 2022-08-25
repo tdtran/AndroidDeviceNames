@@ -39,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L-5",
+      "codename": "L-5",
+      "model": "L-5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L1",
       "codename": "L1",
       "model": "L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5790",
+      "codename": "S5790",
+      "model": "S5790"
     },
     {
       "manufacturer": "",

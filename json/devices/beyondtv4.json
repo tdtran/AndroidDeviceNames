@@ -9,7 +9,25 @@
     "manufacturer": "TCL",
     "market_name": "BeyondTV6",
     "codename": "BeyondTV4",
+    "model": "Smart TV"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "BeyondTV6",
+    "codename": "BeyondTV4",
     "model": "Smart TV Pro"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "G03_4K_GB",
+    "codename": "BeyondTV4",
+    "model": "Smart TV Pro"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "G03_4K_GB_NF",
+    "codename": "BeyondTV4",
+    "model": "Smart TV"
   },
   {
     "manufacturer": "TCL",

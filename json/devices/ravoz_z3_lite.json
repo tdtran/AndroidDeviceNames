@@ -4,5 +4,11 @@
     "market_name": "RAVOZ_Z3_Lite",
     "codename": "RAVOZ_Z3_Lite",
     "model": "RAVOZ Z3 Lite"
+  },
+  {
+    "manufacturer": "RAVOZ",
+    "market_name": "Z3_Lite",
+    "codename": "RAVOZ_Z3_Lite",
+    "model": "RAVOZ Z3 Lite"
   }
 ]

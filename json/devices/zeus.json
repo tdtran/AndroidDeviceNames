@@ -10,5 +10,17 @@
     "market_name": "Xperia Play",
     "codename": "Zeus",
     "model": "Zeus"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 12 Pro",
+    "codename": "zeus",
+    "model": "2201122C"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 12 Pro",
+    "codename": "zeus",
+    "model": "2201122G"
   }
 ]

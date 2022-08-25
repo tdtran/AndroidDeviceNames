@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KSTB6188",
+      "codename": "KSTB6188",
+      "model": "KSTB6188"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MA4000",
       "codename": "MA4000",
       "model": "MA4000"

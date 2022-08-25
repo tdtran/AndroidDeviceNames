@@ -4,5 +4,11 @@
     "market_name": "V2111",
     "codename": "2111",
     "model": "V2111"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V2111-EG",
+    "codename": "2111",
+    "model": "V2111-EG"
   }
 ]

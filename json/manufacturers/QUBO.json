@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P_545BL_EEA",
+      "codename": "P_545BL_EEA",
+      "model": "P_545BL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q7_Tablet",
       "codename": "Q7_Tablet",
       "model": "Q7_Tablet"

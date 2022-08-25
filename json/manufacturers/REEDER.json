@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13  Blue Max Pro Lite 2022",
+      "codename": "P13_Blue_Pro_2022",
+      "model": "P13 Blue Max Pro Lite 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13 Blue",
       "codename": "P13_Blue",
       "model": "P13_Blue"
@@ -141,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13 Blue Max 128 GB 2022",
+      "codename": "Blue_Max_128GB_2022k1",
+      "model": "P13 Blue Max 128 GB 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13 Blue Max Lite",
       "codename": "P13_BML",
       "model": "P13 Blue Max Lite"
@@ -156,6 +168,12 @@
       "market_name": "P13 Blue Max Pro 2021",
       "codename": "P13_Blue_Max_Pro_2021",
       "model": "P13 Blue Max Pro 2021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13 Blue Max Pro 256 GB",
+      "codename": "P13_Blue_Max_Pro_256_GB",
+      "model": "P13 Blue Max Pro 256 GB"
     },
     {
       "manufacturer": "",
@@ -195,6 +213,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13_Blue_2022",
+      "codename": "P13_Blue_2022kk1",
+      "model": "P13 Blue Max Lite 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13_Blue_Plus_2022",
+      "codename": "P13_Blue_Plus_2022",
+      "model": "P13_Blue_Plus_2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13_Blue_Pro_2022",
+      "codename": "P13_Blue_Pro_2022",
+      "model": "P13 Blue Max Pro Lite 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13_Lite",
       "codename": "P13_Lite",
       "model": "P13_Lite"
@@ -210,6 +246,24 @@
       "market_name": "Preo P3",
       "codename": "Preo_P3",
       "model": "Preo P3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pro Max 256GB",
+      "codename": "Pro_Max_256GB",
+      "model": "Pro Max 256GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19 Max",
+      "codename": "S19_Max",
+      "model": "S19 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19 Max Pro",
+      "codename": "S19_Max_Pro",
+      "model": "S19 Max Pro"
     },
     {
       "manufacturer": "",

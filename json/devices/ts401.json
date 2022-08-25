@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "CCC",
+    "market_name": "TV Stick",
+    "codename": "ts401",
+    "model": "TV Stick"
+  },
+  {
+    "manufacturer": "CCC",
+    "market_name": "TV Stick",
+    "codename": "ts401",
+    "model": "TV StickL"
+  },
+  {
+    "manufacturer": "TVCore",
+    "market_name": "TV Stick",
+    "codename": "ts401",
+    "model": "TV Stick"
+  },
+  {
+    "manufacturer": "TVCore",
+    "market_name": "ts401l",
+    "codename": "ts401",
+    "model": "TV StickL"
+  }
+]

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10W2",
+      "codename": "T10W2",
+      "model": "T10W2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T7G",
       "codename": "T7G",
       "model": "T7G"

@@ -39,6 +39,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NID_1021",
+      "codename": "NID_1021",
+      "model": "NID-1021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NID_1056",
+      "codename": "NID_1056",
+      "model": "NID-1056"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NID_1070",
+      "codename": "NID_1070",
+      "model": "NID_1070"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NID_7021",
+      "codename": "NID_7021",
+      "model": "NID-7021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NID_7022",
+      "codename": "NID_7022",
+      "model": "NID-7022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NID_7056",
+      "codename": "NID_7056",
+      "model": "NID-7056"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Naxa",
       "codename": "NID_1055",
       "model": "NID-1055"

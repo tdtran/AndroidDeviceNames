@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SoyMomo_Lite_V3",
+      "codename": "SoyMomo_Lite_V3",
+      "model": "SoyMomo_Lite_V3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SoyMomo_Lite_V3_EEA",
+      "codename": "SoyMomo_Lite_V3_EEA",
+      "model": "SoyMomo_Lite_V3_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SoyMomo_Pro_EU_V1",
       "codename": "SoyMomo_Pro_EU_V1",
       "model": "SoyMomo_Pro_EU_V1"

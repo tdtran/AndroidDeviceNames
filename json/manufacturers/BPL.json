@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BPL FHD TV",
+      "codename": "takao",
+      "model": "BPL FHD TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BPL UHD TV",
       "codename": "OD0M_EA_T32",
       "model": "BPL UHD TV"

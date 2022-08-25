@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "10C-LTE-A11",
+      "codename": "10C-LTE-A11",
+      "model": "10C-LTE-A11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "10C-PRO-LTE",
       "codename": "10C-PRO-LTE",
       "model": "10C-PRO-LTE"
@@ -69,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "8L_PLUS_EEA",
+      "codename": "8L_PLUS_EEA",
+      "model": "8L_PLUS_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MediaTek",
       "codename": "8Qa_3G",
       "model": "8Qa_3G"
@@ -96,6 +108,12 @@
       "market_name": "UMAX",
       "codename": "visionbook_P55_LTE",
       "model": "visionbook P55 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Umax",
+      "codename": "shilin",
+      "model": "UMAX4KAndroidTV"
     },
     {
       "manufacturer": "",

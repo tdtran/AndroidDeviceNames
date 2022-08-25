@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "ALBADEEL",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Aiwa",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BEC-KW",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Bauhn",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "BenQ",
     "market_name": "730",
     "codename": "redwood",
@@ -24,10 +48,34 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Grunhelm",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "HP",
     "market_name": "7 G2",
     "codename": "redwood",
     "model": "HP 7 G2"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT NA"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT SA"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT CO"
   },
   {
     "manufacturer": "Kogan",
@@ -36,8 +84,116 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Motorola",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Nikkei",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "ORION",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "PILOT",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Rindo",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "SABA",
     "market_name": "A11",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "SABA",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT IT"
+  },
+  {
+    "manufacturer": "Strong",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "TD SYSTEMS",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "TD SYSTEMS Android TV"
+  },
+  {
+    "manufacturer": "TECHLIFE",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "TEKLIO",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "UD (EU)",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "UNITED TV",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Wansa",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "biolux",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "homez",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
   }

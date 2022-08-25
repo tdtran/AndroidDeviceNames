@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Oukitel",
+    "market_name": "WP20_EEA",
+    "codename": "WP20",
+    "model": "WP20"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "WP20_RU",
+    "codename": "WP20",
+    "model": "WP20"
+  },
+  {
     "manufacturer": "Peninsula",
     "market_name": "WP20",
     "codename": "WP20",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S501",
+      "codename": "S501",
+      "model": "S501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S502",
       "codename": "S502",
       "model": "S502"
@@ -30,6 +36,12 @@
       "market_name": "S630M",
       "codename": "S630M",
       "model": "S630M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8001",
+      "codename": "S8001",
+      "model": "S8001"
     }
   ]
 }

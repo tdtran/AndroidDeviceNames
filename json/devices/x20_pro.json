@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ABCTECH",
+    "market_name": "X20_Pro",
+    "codename": "X20_Pro",
+    "model": "X20_Pro"
+  },
+  {
     "manufacturer": "Cubot",
     "market_name": "X20_PRO",
     "codename": "X20_PRO",

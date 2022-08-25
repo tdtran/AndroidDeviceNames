@@ -12,6 +12,12 @@
       "market_name": "StarHub TV+ Box (Innopia)",
       "codename": "NVSH800H1",
       "model": "NVSH800H1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "StarHub TV+ Pro",
+      "codename": "m393vsb_starhub",
+      "model": "SCSH900AT"
     }
   ]
 }

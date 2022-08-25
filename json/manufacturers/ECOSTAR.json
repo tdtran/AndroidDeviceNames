@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ECOSTAR",
+      "codename": "stanford",
+      "model": "40D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ECOSTAR",
+      "codename": "zhongshan",
+      "model": "43F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ECOSTAR SMART TV",
       "codename": "SW4H",
       "model": "ECOSTAR SMART TV"

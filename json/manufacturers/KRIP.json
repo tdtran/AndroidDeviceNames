@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K50",
+      "codename": "K50",
+      "model": "K50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K55g",
+      "codename": "K55g",
+      "model": "K55g"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K55h",
       "codename": "K55h",
       "model": "K55h"
@@ -30,6 +42,12 @@
       "market_name": "K57",
       "codename": "K57",
       "model": "K57"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K58",
+      "codename": "K58",
+      "model": "K58"
     },
     {
       "manufacturer": "",
@@ -69,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K66",
+      "codename": "K66",
+      "model": "K66"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K6b",
       "codename": "K6b",
       "model": "K6b"
@@ -78,6 +102,12 @@
       "market_name": "K700A",
       "codename": "KRIP_K700A",
       "model": "K700A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KRIP K68",
+      "codename": "K68",
+      "model": "K68"
     },
     {
       "manufacturer": "",

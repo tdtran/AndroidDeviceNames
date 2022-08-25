@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Sunmi",
+    "market_name": "Sunmi L2Ks",
+    "codename": "SUNMI-L2KsNFC",
+    "model": "L2Ks_EEA"
+  },
+  {
+    "manufacturer": "Sunmi",
+    "market_name": "Sunmi L2Ks",
+    "codename": "SUNMI-L2KsNFC",
+    "model": "L2Ks_GL"
+  },
+  {
+    "manufacturer": "Sunmi",
+    "market_name": "Sunmi L2Ks",
+    "codename": "SUNMI-L2KsNFC",
+    "model": "L2Ks_RU"
+  },
+  {
+    "manufacturer": "Sunmi",
+    "market_name": "Sunmi L2Ks",
+    "codename": "SUNMI-L2KsNFC",
+    "model": "L2Ks_TR"
+  }
+]

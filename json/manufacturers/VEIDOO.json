@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T30_Plus_EEA",
+      "codename": "T30_Plus_EEA",
+      "model": "T30_Plus_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T7",
       "codename": "T7",
       "model": "T7"
@@ -39,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T80",
+      "codename": "T80",
+      "model": "T80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T80_PLUS",
+      "codename": "T80_PLUS",
+      "model": "T80_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V88",
       "codename": "V88",
       "model": "V88"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VEIDOO_T40_EEA",
+      "codename": "VEIDOO_T40_EEA",
+      "model": "VEIDOO_T40_EEA"
     },
     {
       "manufacturer": "",
@@ -54,6 +78,18 @@
       "market_name": "VEIDOO_T80",
       "codename": "VEIDOO_T80",
       "model": "VEIDOO_T80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VEIDOO_T80_EEA",
+      "codename": "VEIDOO_T80_EEA",
+      "model": "VEIDOO_T80_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VeidooT30_EEA",
+      "codename": "VeidooT30_EEA",
+      "model": "VeidooT30_EEA"
     }
   ]
 }

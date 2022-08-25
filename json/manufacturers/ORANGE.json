@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neva leaf",
+      "codename": "Neva_leaf",
+      "model": "Orange Neva leaf"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neva start",
       "codename": "Neva_start",
       "model": "Orange Neva start"
@@ -132,6 +138,12 @@
       "market_name": "Orange Neva play",
       "codename": "Neva_play",
       "model": "Orange Neva play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orange Neva sparkle",
+      "codename": "Neva_sparkle",
+      "model": "Orange Neva sparkle"
     },
     {
       "manufacturer": "",
@@ -270,6 +282,12 @@
       "market_name": "Sego",
       "codename": "Orange_Sego",
       "model": "Orange Sego"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV Box",
+      "codename": "zc4455v_orb",
+      "model": "Orange TV Box"
     },
     {
       "manufacturer": "",

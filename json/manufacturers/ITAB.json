@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ITAB_X40L_Plus",
+      "codename": "ITAB_X40L_Plus",
+      "model": "ITAB_X40L_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X40L",
       "codename": "X40L",
       "model": "X40L"

@@ -40,8 +40,20 @@
     {
       "manufacturer": "",
       "market_name": "BQ-1025L",
+      "codename": "BQ-1025L",
+      "model": "BQ-1025L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-1025L",
       "codename": "BQru-1025L",
       "model": "BQ-1025L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-1036L",
+      "codename": "BQ_1036L",
+      "model": "BQ-1036L"
     },
     {
       "manufacturer": "",
@@ -237,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5031G",
+      "codename": "BQru-5031G",
+      "model": "BQ-5031G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5033 Shark",
       "codename": "BQru_5033",
       "model": "BQru-5033"
@@ -299,6 +317,12 @@
       "manufacturer": "",
       "market_name": "BQ-5060L",
       "codename": "BQru-5060L",
+      "model": "BQ-5060L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5060L",
+      "codename": "BQru-5060L_9832E",
       "model": "BQ-5060L"
     },
     {
@@ -471,6 +495,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5533G",
+      "codename": "BQru-5533G",
+      "model": "BQ-5533G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5535L",
       "codename": "BQru-5535L",
       "model": "BQ-5535L"
@@ -567,6 +597,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5765L",
+      "codename": "BQru-5765L",
+      "model": "BQ-5765L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-6000L Aurora",
       "codename": "BQru-6000L",
       "model": "BQ-6000L"
@@ -654,6 +690,12 @@
       "market_name": "BQ-6645L Element",
       "codename": "BQru-6645L",
       "model": "BQ-6645L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-6868L",
+      "codename": "BQru-6868L",
+      "model": "BQru-6868L"
     },
     {
       "manufacturer": "",
@@ -768,6 +810,12 @@
       "market_name": "BQ-8077L",
       "codename": "BQru-8077L",
       "model": "BQ-8077L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-8088L",
+      "codename": "BQ_8088L",
+      "model": "BQ-8088L"
     },
     {
       "manufacturer": "",
@@ -888,6 +936,12 @@
       "market_name": "BQru-6022GA",
       "codename": "BQru-6022G",
       "model": "BQ-6022G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQru-6061L",
+      "codename": "BQru-6061L",
+      "model": "BQ-6061L"
     },
     {
       "manufacturer": "",

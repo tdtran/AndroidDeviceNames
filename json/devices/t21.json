@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "DEXP",
+    "market_name": "T21",
+    "codename": "T21",
+    "model": "T21"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "T21",
     "codename": "T21",

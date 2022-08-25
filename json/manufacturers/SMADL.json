@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Abay5_Plus",
+      "codename": "SMADL_Abay5_Plus",
+      "model": "SMADL Abay5+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Matri8",
       "codename": "Matri8",
       "model": "Matri8"

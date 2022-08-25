@@ -1,0 +1,47 @@
+{
+  "manufacturer": "SEBBE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S22_EEA",
+      "codename": "S22_EEA",
+      "model": "S22_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S22_M_EEA",
+      "codename": "S22_M_EEA",
+      "model": "S22_M_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S22_M_US",
+      "codename": "S22_M_US",
+      "model": "S22_M_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S22_US",
+      "codename": "S22_US",
+      "model": "S22_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S23_EEA",
+      "codename": "S23_EEA",
+      "model": "S23_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S23_M_US",
+      "codename": "S23_M_US",
+      "model": "S23_M_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S23_US",
+      "codename": "S23_US",
+      "model": "S23_US"
+    }
+  ]
+}

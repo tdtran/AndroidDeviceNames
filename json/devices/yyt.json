@@ -1,5 +1,35 @@
 [
   {
+    "manufacturer": "Mecool",
+    "market_name": "KD3",
+    "codename": "YYT",
+    "model": "4K Google TV Stick"
+  },
+  {
+    "manufacturer": "Next",
+    "market_name": "4K TV Stick",
+    "codename": "YYT",
+    "model": "4K Google TV Stick"
+  },
+  {
+    "manufacturer": "REGZA",
+    "market_name": "RSG-11B",
+    "codename": "YYT",
+    "model": "4K Google TV Stick"
+  },
+  {
+    "manufacturer": "Skyworth",
+    "market_name": "Leap-S2",
+    "codename": "YYT",
+    "model": "4K Google TV Stick"
+  },
+  {
+    "manufacturer": "Strong",
+    "market_name": "SRT41",
+    "codename": "YYT",
+    "model": "4K Google TV Stick"
+  },
+  {
     "manufacturer": "realme",
     "market_name": "4K Google TV Stick",
     "codename": "YYT",

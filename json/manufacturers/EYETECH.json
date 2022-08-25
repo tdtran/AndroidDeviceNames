@@ -1,0 +1,11 @@
+{
+  "manufacturer": "EyeTech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EyeOnGo10",
+      "codename": "EyeOnGo",
+      "model": "EyeOnGo"
+    }
+  ]
+}

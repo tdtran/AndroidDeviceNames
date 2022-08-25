@@ -4,5 +4,23 @@
     "market_name": "CPH2015",
     "codename": "OP4C7D",
     "model": "CPH2015"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "CPH2031",
+    "codename": "OP4C7D",
+    "model": "CPH2031"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "CPH2073",
+    "codename": "OP4C7D",
+    "model": "CPH2073"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "CPH2081",
+    "codename": "OP4C7D",
+    "model": "CPH2081"
   }
 ]

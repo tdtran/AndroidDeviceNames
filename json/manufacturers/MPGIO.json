@@ -45,6 +45,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAT10221",
+      "codename": "MAT10221",
+      "model": "MAT10221"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAT80211B",
+      "codename": "MAT80211B",
+      "model": "MAT80211B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLT703824",
+      "codename": "MLT703824",
+      "model": "MLT703824"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MPGIO_10",
       "codename": "MPGIO_10",
       "model": "MPGIO-10"

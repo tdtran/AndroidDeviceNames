@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DECO ENTEL DIW586",
+      "codename": "DV8957X-KCE",
+      "model": "DECO ENTEL DIW586"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DECO ENTEL VSB3930",
+      "codename": "m393vsb_entel",
+      "model": "DECO ENTEL VSB3930"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OWN I62S",
       "codename": "OWN-I62S",
       "model": "OWN-I62S"

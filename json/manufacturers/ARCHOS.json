@@ -2007,6 +2007,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "act101hd",
+      "codename": "act101hd",
+      "model": "Archos T101 HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "act101hdp",
+      "codename": "act101hdp",
+      "model": "Archos T101 HD PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "act101hdwf",
+      "codename": "act101hdwf",
+      "model": "Archos T101 HD WIFI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "alba 10",
       "codename": "ac101cplv2",
       "model": "ALBA 10 TABLET"

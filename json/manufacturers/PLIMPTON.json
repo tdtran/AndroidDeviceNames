@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Kids_10",
+      "codename": "Kids_10",
+      "model": "Kids_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PlimPad_P3",
+      "codename": "PlimPad_P3",
+      "model": "PlimPad P3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X100",
       "codename": "X100",
       "model": "X100"

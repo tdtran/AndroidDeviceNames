@@ -1,5 +1,125 @@
 [
   {
+    "manufacturer": "ASTECH",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "AVANGARD",
+    "market_name": "Android tv",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Acer",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Aiwa",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Alhafidh",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Amstrad",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Artel",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "BLACKLINE",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Casper",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Challenger",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "EVVO",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Evvoli",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "FAVORITT",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Fresh",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Home Planet",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "IRIS_OHYAMA",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Kalley",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "MIRAY",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
     "manufacturer": "Mobicell",
     "market_name": "R4",
     "codename": "R4",
@@ -12,6 +132,12 @@
     "model": "R4"
   },
   {
+    "manufacturer": "Mystic",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
     "manufacturer": "Nokia",
     "market_name": "Android TV",
     "codename": "R4",
@@ -20,6 +146,42 @@
   {
     "manufacturer": "Nokia",
     "market_name": "R4",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Olimpo",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Orient",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "PANASONIC TV"
+  },
+  {
+    "manufacturer": "Stream System",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Vision Technology",
+    "market_name": "Android TV",
     "codename": "R4",
     "model": "R4"
   }

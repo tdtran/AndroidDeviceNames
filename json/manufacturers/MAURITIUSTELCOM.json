@@ -6,6 +6,12 @@
       "market_name": "HE2704",
       "codename": "MTIPTVBox",
       "model": "HE2704"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP4411",
+      "codename": "HY44G",
+      "model": "HP4411"
     }
   ]
 }

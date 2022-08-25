@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "General Mobile",
+    "market_name": "G310",
+    "codename": "G310",
+    "model": "G310"
+  },
+  {
+    "manufacturer": "General Mobile",
     "market_name": "GM 21",
     "codename": "G310",
     "model": "G310"

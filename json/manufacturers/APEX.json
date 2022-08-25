@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R10D",
+      "codename": "R10D",
+      "model": "R10D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40PRO_L1",
+      "codename": "T40PRO_L1",
+      "model": "T40PRO_L1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TM772",
       "codename": "TM772",
       "model": "TM772"
@@ -30,6 +42,12 @@
       "market_name": "U10",
       "codename": "U10",
       "model": "U10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U10PRO",
+      "codename": "U10PRO",
+      "model": "U10PRO"
     },
     {
       "manufacturer": "",

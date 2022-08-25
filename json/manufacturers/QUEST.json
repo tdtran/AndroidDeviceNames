@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VISION",
+      "codename": "VISION",
+      "model": "VISION"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vibe",
       "codename": "Vibe",
       "model": "Vibe"

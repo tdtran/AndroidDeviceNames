@@ -351,6 +351,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VTABZ1A",
+      "codename": "VTABZ1A",
+      "model": "V TAB Z1 A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VTABZ2A",
+      "codename": "VTABZ2A",
+      "model": "V Tab Z2 LTE A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V_TAB_7030",
       "codename": "V_TAB_7030",
       "model": "V_TAB_7030"

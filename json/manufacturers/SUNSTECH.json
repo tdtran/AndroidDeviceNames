@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Spain / Portugal",
+      "codename": "martin",
+      "model": "SUNSTECH SD ANDROID TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB1011",
       "codename": "TAB1011",
       "model": "TAB1011"

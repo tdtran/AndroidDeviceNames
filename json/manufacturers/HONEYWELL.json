@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CT30XP",
+      "codename": "CT30P",
+      "model": "CT30P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT40",
       "codename": "CT40-L0-C",
       "model": "CT40"
@@ -483,6 +489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EDA56",
+      "codename": "EDA52",
+      "model": "EDA56"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EDA5S",
       "codename": "EDA5S",
       "model": "EDA5S"
@@ -546,6 +558,12 @@
       "market_name": "HMS-PD-X1C-3",
       "codename": "HMS-PD-X1C-3",
       "model": "HMS-PD-X1C-3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT10",
+      "codename": "MT10",
+      "model": "MT10"
     },
     {
       "manufacturer": "",

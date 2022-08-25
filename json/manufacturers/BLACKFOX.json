@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BMM431B",
+      "codename": "BMM431B",
+      "model": "BMM431B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BMM431S",
       "codename": "BMM431S",
       "model": "BMM431S"

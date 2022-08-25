@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SINGER ANDROID TV",
       "codename": "sunnyvale",
       "model": "SINGER ANDROID TV"
@@ -30,6 +36,12 @@
       "market_name": "SINGER SL SMART TV",
       "codename": "SW4H",
       "model": "SINGER SL SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Singer Android TV",
+      "codename": "kunyang",
+      "model": "Singer Android UHD TV"
     },
     {
       "manufacturer": "",

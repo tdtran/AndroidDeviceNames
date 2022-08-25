@@ -2385,6 +2385,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC A101",
+      "codename": "HTC_A101",
+      "model": "HTC A101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC A103",
+      "codename": "HTC_A103",
+      "model": "HTC A103"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC Desire 19s",
       "codename": "htc_zddugl",
       "model": "2Q8L10000"
@@ -2442,6 +2454,18 @@
       "market_name": "HTC Desire 21 pro 5G",
       "codename": "htc_thudugl",
       "model": "HTC Desire 21 pro 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 22 5G",
+      "codename": "htc_botdugls",
+      "model": "2QBK10000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire 22 5G",
+      "codename": "htc_botdugls",
+      "model": "HTC Desire 22 pro"
     },
     {
       "manufacturer": "",

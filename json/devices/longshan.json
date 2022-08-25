@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "ALBADEEL",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BEC-KW",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BPL",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Bauhn",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "BenQ",
     "market_name": "Smart TV",
     "codename": "longshan",
@@ -18,7 +42,103 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Classpro",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Estla",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT NA"
+  },
+  {
+    "manufacturer": "GeneralSupreme",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Grunhelm",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Kogan",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Kolin",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "MAGICworld",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Nikkei",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "NoonEast",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "ORION",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Premier",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Prism",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT NA"
+  },
+  {
+    "manufacturer": "Rindo",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
@@ -26,6 +146,66 @@
   {
     "manufacturer": "SABA",
     "market_name": "A11",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "SABA",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT IT"
+  },
+  {
+    "manufacturer": "Strong",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Swosh",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "TECO",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "THEHAM",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT NA"
+  },
+  {
+    "manufacturer": "Vivax",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Vu Televisions",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Wansa",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Witooth",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "AI PONT NA"
+  },
+  {
+    "manufacturer": "biolux",
+    "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
   }

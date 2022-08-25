@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MBLTab81",
+      "codename": "MBLTab81",
+      "model": "MBL Tab 8.1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mobell S50",
       "codename": "Mobell_S50",
       "model": "Mobell S50"

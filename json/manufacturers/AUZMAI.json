@@ -12,6 +12,12 @@
       "market_name": "Mete8_EEA",
       "codename": "Mete8_EEA",
       "model": "Mete8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V60",
+      "codename": "Azumi_V60F",
+      "model": "V60"
     }
   ]
 }

@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C10X",
+      "codename": "C10X",
+      "model": "C10X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C10_1",
+      "codename": "C10_1",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C10_2",
+      "codename": "C10_2",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20",
+      "codename": "C20",
+      "model": "C20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C3",
       "codename": "C3",
       "model": "C3"
@@ -27,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F1_1",
+      "codename": "F1_1",
+      "model": "F1_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F1_2",
+      "codename": "F1_2",
+      "model": "F1_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F2",
       "codename": "F2",
       "model": "F2"
@@ -47,6 +83,18 @@
       "manufacturer": "",
       "market_name": "F8",
       "codename": "F8",
+      "model": "F8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F8X",
+      "codename": "F8X",
+      "model": "F8X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F8_1",
+      "codename": "F8_1",
       "model": "F8"
     },
     {
@@ -105,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PL1000B",
+      "codename": "S30",
+      "model": "S30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q2",
       "codename": "Q2",
       "model": "Q2"
@@ -132,6 +186,12 @@
       "market_name": "Q5",
       "codename": "Q5",
       "model": "Q5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q6",
+      "codename": "Q6",
+      "model": "Q6"
     },
     {
       "manufacturer": "",
@@ -171,9 +231,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S40",
+      "codename": "S40",
+      "model": "S40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S8",
       "codename": "S8",
       "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8K_1",
+      "codename": "S8K_1",
+      "model": "S8K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8K_2",
+      "codename": "S8K_2",
+      "model": "S8K"
     },
     {
       "manufacturer": "",

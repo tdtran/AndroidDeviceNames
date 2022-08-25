@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LIFETAB E1081X",
+      "codename": "E1081X",
+      "model": "LIFETAB E1081X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIFETAB E723X",
       "codename": "LIFETAB_E723X",
       "model": "LIFETAB_E723X"
@@ -198,6 +204,12 @@
       "market_name": "LIFETAB P1034X",
       "codename": "lifetab_p1034x",
       "model": "LIFETAB_P1034X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIFETAB P1075X",
+      "codename": "P1075X",
+      "model": "LIFETAB_P1075X"
     },
     {
       "manufacturer": "",

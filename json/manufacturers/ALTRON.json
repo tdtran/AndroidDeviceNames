@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BE-730",
+      "codename": "BE-730",
+      "model": "BE-730"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA",
       "codename": "GH1",
       "model": "GH1"

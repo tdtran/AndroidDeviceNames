@@ -1,109 +1,109 @@
 [
   {
     "manufacturer": "Bauhn",
-    "market_name": "BAUHN",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "4K AI Smart TV"
   },
   {
     "manufacturer": "Challenger",
-    "market_name": "Challenger",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "Challenger 4K AI Smart TV"
   },
   {
     "manufacturer": "Hyundai",
-    "market_name": "Hyundai",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "HYUNDAI 4K AI Smart TV"
   },
   {
     "manufacturer": "Hyundai",
-    "market_name": "Hyundai",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "HYUNDAI 4K Smart TV"
   },
   {
     "manufacturer": "IMPECCA",
-    "market_name": "IMPECCA",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "IMPECCA 4K Smart TV"
   },
   {
     "manufacturer": "JVC",
-    "market_name": "Amtran",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "4K AI Smart TV"
   },
   {
     "manufacturer": "KEMPLER STRAUSS",
-    "market_name": "50F1",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "4K Smart TV"
   },
   {
     "manufacturer": "Nano",
-    "market_name": "nano",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "nano 4K AI Smart TV"
   },
   {
     "manufacturer": "RCA",
-    "market_name": "HKC",
+    "market_name": "4K Smart TV",
+    "codename": "gangbyeon",
+    "model": "4K AI Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "4K Smart TV",
+    "codename": "gangbyeon",
+    "model": "4K Smart TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "HKC 4K AI Smart TV"
   },
   {
     "manufacturer": "RCA",
-    "market_name": "RCA",
-    "codename": "gangbyeon",
-    "model": "4K AI Smart TV"
-  },
-  {
-    "manufacturer": "RCA",
-    "market_name": "Tree",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "Treeview 4K AI Smart TV"
   },
   {
-    "manufacturer": "RCA",
-    "market_name": "US",
-    "codename": "gangbyeon",
-    "model": "4K Smart TV"
-  },
-  {
-    "manufacturer": "Realme",
-    "market_name": "50F1",
-    "codename": "gangbyeon",
-    "model": "4K AI Smart TV"
-  },
-  {
     "manufacturer": "SYLVANIA",
-    "market_name": "US",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "4K Smart TV"
   },
   {
     "manufacturer": "Sceptre",
-    "market_name": "Sceptre",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "4K Smart TV"
   },
   {
     "manufacturer": "Sceptre",
-    "market_name": "TATUNG",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "TATUNG 4K AI Smart TV"
   },
   {
     "manufacturer": "Sceptre",
-    "market_name": "imiia",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "imiia 4K AI Smart TV"
   },
   {
     "manufacturer": "UNITED TV",
-    "market_name": "UNITED",
+    "market_name": "4K Smart TV",
+    "codename": "gangbyeon",
+    "model": "4K AI Smart TV"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "4K AI Smart TV"
   }

@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Casper",
+    "market_name": "43FGA610",
+    "codename": "beaudry",
+    "model": "Casper AndroidTV"
+  },
+  {
+    "manufacturer": "Infinix",
+    "market_name": "43X3",
+    "codename": "beaudry",
+    "model": "Infinix AndroidTV"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "G4350",
+    "codename": "beaudry",
+    "model": "itel AndroidTV"
+  },
+  {
+    "manufacturer": "Syinix",
+    "market_name": "43A51",
+    "codename": "beaudry",
+    "model": "Syinix AndroidTV"
+  }
+]

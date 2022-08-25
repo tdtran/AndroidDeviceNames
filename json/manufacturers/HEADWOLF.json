@@ -1,0 +1,23 @@
+{
+  "manufacturer": "HEADWOLF",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Hpad1",
+      "codename": "Hpad1",
+      "model": "Hpad1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hpad2",
+      "codename": "Hpad2",
+      "model": "H2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wpad1",
+      "codename": "Wpad1",
+      "model": "W1"
+    }
+  ]
+}

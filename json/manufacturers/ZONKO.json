@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K112",
+      "codename": "K112",
+      "model": "K112"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K113",
       "codename": "K113",
       "model": "K113"
@@ -84,6 +90,12 @@
       "market_name": "K710_EEA",
       "codename": "K710_EEA",
       "model": "K710_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K711",
+      "codename": "K711",
+      "model": "K711"
     },
     {
       "manufacturer": "",

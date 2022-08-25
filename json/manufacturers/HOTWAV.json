@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cyber 9 Pro",
+      "codename": "Cyber_9_Pro",
+      "model": "Cyber 9 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H1",
       "codename": "H1",
       "model": "H1"
@@ -147,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pearl K3",
+      "codename": "Pearl_K3",
+      "model": "Pearl K3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pearl_K2_Prime",
       "codename": "Pearl_K2_Prime",
       "model": "Pearl K2 Prime"
@@ -189,9 +201,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T5 Pro",
+      "codename": "T5_Pro",
+      "model": "T5 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Venus",
       "codename": "Venus",
       "model": "Venus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W10",
+      "codename": "W10",
+      "model": "W10"
     }
   ]
 }

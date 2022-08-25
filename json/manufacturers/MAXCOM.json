@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MS554_eea",
+      "codename": "Maxcom_MS554",
+      "model": "MS554"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS571",
       "codename": "MS571",
       "model": "MS571"

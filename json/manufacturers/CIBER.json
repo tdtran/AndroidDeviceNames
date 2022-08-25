@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B610A103A",
+      "codename": "B610A103A",
+      "model": "B610A103A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B610A115",
       "codename": "B610A115",
       "model": "B610A115"

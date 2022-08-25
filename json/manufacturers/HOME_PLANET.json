@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Home Planet",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R4",
+      "model": "R4"
+    }
+  ]
+}

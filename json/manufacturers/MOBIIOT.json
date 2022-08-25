@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MobiPrint4_Plus",
+      "codename": "MobiPrint4_Plus",
+      "model": "MobiPrint4_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mobigo2",
       "codename": "MobiGo2",
       "model": "MobiGo2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mobigo2L",
+      "codename": "MobiGo2L",
+      "model": "MobiGo2L"
     }
   ]
 }

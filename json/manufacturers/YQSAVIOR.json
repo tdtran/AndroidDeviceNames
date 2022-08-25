@@ -1,0 +1,29 @@
+{
+  "manufacturer": "YQSAVIOR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P80_RU",
+      "codename": "P80_RU",
+      "model": "P80_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q2K",
+      "codename": "Q2K",
+      "model": "Q2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ10S",
+      "codename": "YQ10S",
+      "model": "YQ10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ30",
+      "codename": "YQ30",
+      "model": "YQ30"
+    }
+  ]
+}

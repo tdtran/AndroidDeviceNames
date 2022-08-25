@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SS1270PL",
+      "codename": "SS1270PL",
+      "model": "Sky 1430D 4G SS1270PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SS7238PG",
       "codename": "SS7238PG",
       "model": "SKY Kids 70 SS7238PG"
@@ -24,6 +30,30 @@
       "market_name": "SUNWIND_SKY_7_E200_3G",
       "codename": "ST7230MG",
       "model": "SUNWIND SKY 7 E200 3G ST7230MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sky_1123B_3G",
+      "codename": "SS1259PG",
+      "model": "Sky 1123B 3G SS1259PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sky_1262C_3G",
+      "codename": "SS1260PG",
+      "model": "Sky 1262C 3G SS1260PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sky_7143B_3G_SS7265PG",
+      "codename": "SS7265PG",
+      "model": "Sky 7143B 3G SS7265PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sky_8244B_3G_SS8263PG",
+      "codename": "SS8263PG",
+      "model": "Sky 8244B 3G SS8263PG"
     }
   ]
 }

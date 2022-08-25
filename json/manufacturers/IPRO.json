@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BennyM",
+      "codename": "BennyM",
+      "model": "BennyM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jade7s",
       "codename": "Jade7s",
       "model": "Jade7s"
@@ -195,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S200M",
+      "codename": "S200M",
+      "model": "S200M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S401",
       "codename": "S401",
       "model": "S401"
@@ -264,6 +276,12 @@
       "market_name": "XPLAY",
       "codename": "XPLAY",
       "model": "XPLAY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y100",
+      "codename": "Y100",
+      "model": "Y100"
     },
     {
       "manufacturer": "",

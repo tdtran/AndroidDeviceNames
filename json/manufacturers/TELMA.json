@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IFeel_Max_4G",
+      "codename": "IFeel_Max_4G",
+      "model": "Telma IFeel Max 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S_Max",
       "codename": "S_Max",
       "model": "S_Max"
@@ -72,6 +78,12 @@
       "market_name": "Telma_F1_Max_4G",
       "codename": "Telma_F1_Max_4G",
       "model": "Telma_F1_Max_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telma_S_Prime",
+      "codename": "Telma_S_Prime",
+      "model": "Telma_S_Prime"
     },
     {
       "manufacturer": "",

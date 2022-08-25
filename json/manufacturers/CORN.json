@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C55 Pro",
+      "codename": "S55310",
+      "model": "C55 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C55_Pro",
       "codename": "C55_Pro",
       "model": "C55 Pro"
@@ -39,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CORN Note1",
+      "codename": "Note1",
+      "model": "CORN Note1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CORN_R10",
       "codename": "CORN_R10",
       "model": "CORN R10"
@@ -54,6 +66,12 @@
       "market_name": "CORN_X55",
       "codename": "CORN_X55",
       "model": "CORN X55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G60",
+      "codename": "G60",
+      "model": "G60"
     },
     {
       "manufacturer": "",
@@ -87,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Star10_3G",
+      "codename": "Star10_3G",
+      "model": "Star10_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Star7_3G",
       "codename": "Star7_3G",
       "model": "Star7 3G"
@@ -96,6 +120,12 @@
       "market_name": "Star8",
       "codename": "Corn_Star8",
       "model": "CORN Star8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star8",
+      "codename": "Star8",
+      "model": "Star8"
     },
     {
       "manufacturer": "",

@@ -84,6 +84,12 @@
       "market_name": "Pyxis-SECV",
       "codename": "SEI500SECV",
       "model": "Pyxis-SECV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEI500TV",
+      "codename": "SEI500TV",
+      "model": "Pyxis"
     }
   ]
 }

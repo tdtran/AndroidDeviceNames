@@ -3,9 +3,9 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "SL321AN",
-      "codename": "kanda",
-      "model": "2K Smart TV"
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "4K Smart TV"
     },
     {
       "manufacturer": "",
@@ -27,9 +27,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "US",
-      "codename": "gangbyeon",
-      "model": "4K Smart TV"
+      "market_name": "Smart TV",
+      "codename": "kanda",
+      "model": "2K Smart TV"
     }
   ]
 }

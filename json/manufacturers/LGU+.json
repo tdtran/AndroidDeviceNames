@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UHD4K",
+      "codename": "UHD4K",
+      "model": "UHD4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WA-U420D",
       "codename": "WA-U420D",
       "model": "WA-U420D"

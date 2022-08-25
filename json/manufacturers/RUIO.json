@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M31",
+      "codename": "AIS-M31",
+      "model": "AIS-M31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RUIO S5506",
       "codename": "S5506",
       "model": "S5506"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RUIO S6518",
+      "codename": "S6518",
+      "model": "S6518"
     },
     {
       "manufacturer": "",

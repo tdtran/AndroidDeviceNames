@@ -1,0 +1,35 @@
+{
+  "manufacturer": "SGIN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "C10",
+      "codename": "C10",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C8",
+      "codename": "C8",
+      "model": "C8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SGIN_E10M",
+      "codename": "SGIN_E10M",
+      "model": "SGIN_E10M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SGIN_X10",
+      "codename": "SGIN_X10",
+      "model": "SGIN_X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SGIN_X10_EEA",
+      "codename": "SGIN_X10_EEA",
+      "model": "SGIN_X10_EEA"
+    }
+  ]
+}

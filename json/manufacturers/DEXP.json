@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A555",
+      "codename": "A555",
+      "model": "A555"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AL140",
       "codename": "AL140",
       "model": "AL140"
@@ -279,9 +285,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C18",
+      "codename": "C18",
+      "model": "C18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C37",
+      "codename": "C37",
+      "model": "C37"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C38",
+      "codename": "C38",
+      "model": "C38"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D11",
       "codename": "D11",
       "model": "D11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D21",
+      "codename": "D21",
+      "model": "D21"
     },
     {
       "manufacturer": "",
@@ -579,6 +609,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H28",
+      "codename": "H28",
+      "model": "H28"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H310",
       "codename": "H310",
       "model": "H310"
@@ -651,8 +687,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K28_",
+      "codename": "K28_",
+      "model": "K28"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K31",
       "codename": "K31",
+      "model": "K31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K31_",
+      "codename": "K31_",
       "model": "K31"
     },
     {
@@ -669,9 +717,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K41_",
+      "codename": "K41_",
+      "model": "K41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K48",
+      "codename": "K48",
+      "model": "K48"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K51",
       "codename": "K51",
       "model": "K51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K61",
+      "codename": "K61",
+      "model": "K61"
     },
     {
       "manufacturer": "",
@@ -819,6 +885,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P280",
       "codename": "P280",
       "model": "P280"
@@ -960,6 +1032,12 @@
       "market_name": "T155",
       "codename": "T155",
       "model": "T155"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T21",
+      "codename": "T21",
+      "model": "T21"
     },
     {
       "manufacturer": "",

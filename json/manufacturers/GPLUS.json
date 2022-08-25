@@ -57,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10 2022",
+      "codename": "P10_2022",
+      "model": "Gplus P10 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P10+",
       "codename": "P10_Plus",
       "model": "Gplus P10+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q20",
+      "codename": "Q20",
+      "model": "GMC-668M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10",
+      "codename": "S10",
+      "model": "Gplus S10"
     },
     {
       "manufacturer": "",
@@ -72,6 +90,12 @@
       "market_name": "X10",
       "codename": "X10",
       "model": "Gplus X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10+",
+      "codename": "X10_Plus",
+      "model": "Gplus X10+"
     },
     {
       "manufacturer": "",

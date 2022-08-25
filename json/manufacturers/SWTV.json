@@ -21,6 +21,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SW-22AE NF",
+      "codename": "SW6H",
+      "model": "SW-22AE NF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SW-22NA NF",
+      "codename": "SW6H",
+      "model": "SW-22NA NF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SW-22SA",
+      "codename": "SW6H",
+      "model": "SW-22SA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SW-22SA NF",
+      "codename": "SW6H",
+      "model": "SW-22SA NF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWTV-20AE",
       "codename": "SW4H",
       "model": "SWTV-20AE"
@@ -90,6 +114,12 @@
       "market_name": "SWTV-21SA",
       "codename": "sunnyvale",
       "model": "SWTV-21SA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22AE",
+      "codename": "SW6H",
+      "model": "SWTV-22AE"
     },
     {
       "manufacturer": "",

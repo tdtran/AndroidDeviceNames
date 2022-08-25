@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M1582C",
+      "codename": "M1582C",
+      "model": "M1582C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M1587K",
+      "codename": "M1587K",
+      "model": "M1587K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS5314G",
+      "codename": "MS5314G",
+      "model": "MS5314G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS5414G",
       "codename": "MS5414G",
       "model": "MS5414G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS5424G",
+      "codename": "MS5424G",
+      "model": "MS5424G"
     },
     {
       "manufacturer": "",
@@ -18,6 +42,18 @@
       "market_name": "MS5524G",
       "codename": "MS5524G",
       "model": "MS5524G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS5528G",
+      "codename": "MS5528G",
+      "model": "MS5528G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS5539G",
+      "codename": "MS5539G",
+      "model": "MS5539G"
     },
     {
       "manufacturer": "",

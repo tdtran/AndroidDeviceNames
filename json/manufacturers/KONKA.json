@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cygnus",
+      "codename": "Cygnus",
+      "model": "Cygnus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KC516_Pro",
+      "codename": "KC516_Pro",
+      "model": "KC516 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM7012BK",
       "codename": "KM7012BK",
       "model": "KM7012BK"
@@ -39,6 +51,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KONKA 2K Android TV",
+      "codename": "lasalle",
+      "model": "KONKA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KONKA 2K Android TV-A",
+      "codename": "lasalle",
+      "model": "KONKA 2K Android TV-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KONKA 4K Android TV",
+      "codename": "kenton",
+      "model": "KONKA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KONKA 4K Android TV-A",
+      "codename": "kenton",
+      "model": "KONKA 4K Android TV-A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KONKA Android TV",
       "codename": "hongik",
       "model": "KONKA 4K Android TV"
@@ -54,6 +90,18 @@
       "market_name": "Konka android tv",
       "codename": "hanyang",
       "model": "KONKA Android TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOON",
+      "codename": "MOON",
+      "model": "MOON"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N15",
+      "codename": "N15",
+      "model": "N15"
     },
     {
       "manufacturer": "",

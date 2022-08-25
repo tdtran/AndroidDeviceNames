@@ -6,6 +6,24 @@
       "market_name": "Acer",
       "codename": "AS10LXPro",
       "model": "SOSPIRO-AS10LXPro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KE-TB1032OF",
+      "codename": "KE-TB1032OF",
+      "model": "KE-TB1032OF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KE-TB815",
+      "codename": "KE-TB815",
+      "model": "KE-TB815"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KE-TB816OF",
+      "codename": "KE-TB816OF",
+      "model": "KE-TB816OF"
     }
   ]
 }

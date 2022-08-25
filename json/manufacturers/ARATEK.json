@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ARATEK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BM5500",
+      "codename": "BM5500",
+      "model": "BM5500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Marshall-5",
+      "codename": "Marshall-5",
+      "model": "Marshall-5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Marshall-8",
+      "codename": "Marshall-8",
+      "model": "Marshall-8"
+    }
+  ]
+}

@@ -1,7 +1,19 @@
 [
   {
     "manufacturer": "Chuwi",
+    "market_name": "HiPadX-1_EEA",
+    "codename": "HiPadX",
+    "model": "HiPad X"
+  },
+  {
+    "manufacturer": "Chuwi",
     "market_name": "HiPadX_11",
+    "codename": "HiPadX",
+    "model": "HiPadX"
+  },
+  {
+    "manufacturer": "Chuwi",
+    "market_name": "HiPadX_ROW",
     "codename": "HiPadX",
     "model": "HiPadX"
   },

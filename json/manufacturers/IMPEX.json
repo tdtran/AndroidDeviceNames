@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GRANDE UHD TV",
+      "codename": "OD0M_EA_T32",
+      "model": "GRANDE UHD TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grande FHD TV",
       "codename": "takao",
       "model": "GRANDE FHD TV"

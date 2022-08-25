@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ST8888",
+      "codename": "ST8888",
+      "model": "ST8888"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STJR700",
       "codename": "STJR700",
       "model": "STJR700"

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "PHILCO (ar)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P510",
+      "codename": "P510",
+      "model": "P510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P610",
+      "codename": "P610",
+      "model": "P610"
+    }
+  ]
+}

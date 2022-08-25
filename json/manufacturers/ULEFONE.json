@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 15",
+      "codename": "Armor_15",
+      "model": "Armor 15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2",
       "codename": "Armor_2",
       "model": "Armor_2"
@@ -99,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor X10 Pro",
+      "codename": "Armor_X10_Pro",
+      "model": "Armor X10 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor X2",
       "codename": "Armor_X2",
       "model": "Armor_X2"
@@ -126,6 +138,12 @@
       "market_name": "Armor X5 Q",
       "codename": "Armor_X5_Q",
       "model": "Armor X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X6 Pro",
+      "codename": "Armor_X6_Pro",
+      "model": "Armor X6 Pro"
     },
     {
       "manufacturer": "",
@@ -315,9 +333,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 10P",
+      "codename": "Note_10P",
+      "model": "Note 10P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 11P",
       "codename": "Note_11P",
       "model": "Note 11P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 12",
+      "codename": "Note_12",
+      "model": "Note 12"
     },
     {
       "manufacturer": "",
@@ -342,6 +372,12 @@
       "market_name": "Note 6P",
       "codename": "Note_6P",
       "model": "Note 6P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 6T",
+      "codename": "Note_6T",
+      "model": "Note 6T"
     },
     {
       "manufacturer": "",
@@ -441,6 +477,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power Armor 14 Pro",
+      "codename": "Power_Armor14_Pro",
+      "model": "Power Armor14 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor 16 Pro",
+      "codename": "PowerArmor16Pro",
+      "model": "Power Armor 16 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Power_3L",
       "codename": "Power_3L",
       "model": "Power_3L"
@@ -534,6 +582,24 @@
       "market_name": "Tab A7",
       "codename": "Ulefone_Tab_A7",
       "model": "Ulefone Tab A7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab A8",
+      "codename": "Tab_A8",
+      "model": "Tab A8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab A8",
+      "codename": "Tab_A8_EEA",
+      "model": "Tab A8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab R8 5G",
+      "codename": "Tab_R8_5G",
+      "model": "Tab R8 5G"
     },
     {
       "manufacturer": "",

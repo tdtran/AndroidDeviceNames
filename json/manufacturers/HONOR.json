@@ -24,6 +24,96 @@
       "market_name": "HONOR 50 Lite",
       "codename": "HNNTN",
       "model": "NTN-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic4 Lite",
+      "codename": "HNANY-Q1",
+      "model": "ANY-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic4 Lite 5G",
+      "codename": "HNANY-Q",
+      "model": "ANY-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic4 Pro",
+      "codename": "HNLGE",
+      "model": "LGE-NX9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad 8",
+      "codename": "HNHEY-Q",
+      "model": "HEY-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7",
+      "codename": "HNCMA-Q",
+      "model": "CMA-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7",
+      "codename": "HNCMA-Q",
+      "model": "CMA-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7",
+      "codename": "HNCMA-Q",
+      "model": "CMA-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X8",
+      "codename": "HNTFY-Q",
+      "model": "TFY-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X8",
+      "codename": "HNTFY-Q",
+      "model": "TFY-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X8",
+      "codename": "HNTFY-Q",
+      "model": "TFY-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X8 5G",
+      "codename": "HNVNE-Q",
+      "model": "VNE-N41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X9",
+      "codename": "HNANY-Q1",
+      "model": "ANY-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X9",
+      "codename": "HNANY-Q1",
+      "model": "ANY-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X9",
+      "codename": "HNANY-Q1",
+      "model": "ANY-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X9 5G",
+      "codename": "HNANY-Q",
+      "model": "ANY-NX1"
     }
   ]
 }

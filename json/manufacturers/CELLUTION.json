@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "COSMAS_TF",
+      "codename": "COSMAS_TF",
+      "model": "COSMAS_TF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COSMAS_X",
       "codename": "COSMAS_X",
       "model": "COSMAS X"
@@ -42,6 +48,12 @@
       "market_name": "PADUA",
       "codename": "PADUA",
       "model": "PADUA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PADUA_1",
+      "codename": "PADUA_1",
+      "model": "PADUA_1"
     }
   ]
 }

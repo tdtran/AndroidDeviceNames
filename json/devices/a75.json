@@ -4,5 +4,11 @@
     "market_name": "A75",
     "codename": "A75",
     "model": "A75"
+  },
+  {
+    "manufacturer": "Trident",
+    "market_name": "A75 Pro Max",
+    "codename": "A75",
+    "model": "Trident A75 Pro Max"
   }
 ]

@@ -663,6 +663,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROG Phone 6 (AI2201)",
+      "codename": "ASUS_AI2201",
+      "model": "ASUS_AI2201_B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 6 (AI2201)",
+      "codename": "ASUS_AI2201",
+      "model": "ASUS_AI2201_C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 6 (AI2201)",
+      "codename": "ASUS_AI2201",
+      "model": "ASUS_AI2201_D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ROG Phone ll",
       "codename": "ASUS_I001_1",
       "model": "ASUS_I001D"
@@ -2232,6 +2250,12 @@
       "market_name": "Zenfone 8 Flip",
       "codename": "ASUS_I004D",
       "model": "ZS672KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zenfone 9",
+      "codename": "ASUS_AI2202",
+      "model": "ASUS_AI2202"
     },
     {
       "manufacturer": "",

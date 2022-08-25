@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AE9110",
+      "codename": "AE9110",
+      "model": "AE9110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AE9230",
+      "codename": "AE9230",
+      "model": "AE9230"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AE9950",
       "codename": "AE9950",
       "model": "AE9950"
@@ -27,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AH9130",
+      "codename": "AH9130",
+      "model": "AH9130"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AH9910",
       "codename": "AH9910",
       "model": "AH9910"
@@ -45,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "benco V62",
+      "codename": "AE9150",
+      "model": "AE9150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "benco Y11",
       "codename": "AH9110",
       "model": "AH9110"
@@ -54,6 +78,12 @@
       "market_name": "benco Y30",
       "codename": "AF9030",
       "model": "AF9030"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco Y40",
+      "codename": "AH9210",
+      "model": "AH9210"
     },
     {
       "manufacturer": "",

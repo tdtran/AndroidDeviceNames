@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Digit",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Digit_Glory",
+      "codename": "Digit_Glory1",
+      "model": "Digit Glory1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digitplay1",
+      "codename": "Digitplay1",
+      "model": "Digitplay1"
+    }
+  ]
+}

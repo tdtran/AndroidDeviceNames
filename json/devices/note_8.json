@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cubot",
+    "market_name": "NOTE 8",
+    "codename": "NOTE_8",
+    "model": "NOTE 8"
+  },
+  {
     "manufacturer": "Ulefone",
     "market_name": "Note 8",
     "codename": "Note_8",

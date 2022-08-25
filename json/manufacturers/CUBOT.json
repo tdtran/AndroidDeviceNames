@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG 6",
+      "codename": "KINGKONG_6",
+      "model": "KINGKONG 6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG 7",
       "codename": "KINGKONG_7",
       "model": "KINGKONG 7"
@@ -156,6 +162,18 @@
       "market_name": "KINGKONG MINI2",
       "codename": "KINGKONG_MINI2",
       "model": "KINGKONG MINI2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG MINI2 Pro",
+      "codename": "KINGKONG_MINI2_Pro",
+      "model": "KINGKONG MINI2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG MINI2 Pro",
+      "codename": "KINGKONG_MINI2_Pro",
+      "model": "KINGKONG_MINI2_Pro"
     },
     {
       "manufacturer": "",
@@ -213,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOTE 8",
+      "codename": "NOTE_8",
+      "model": "NOTE 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE 9",
       "codename": "NOTE_9",
       "model": "NOTE 9"
@@ -246,6 +270,18 @@
       "market_name": "P40",
       "codename": "P40",
       "model": "P40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50",
+      "codename": "P50",
+      "model": "P50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pocket",
+      "codename": "Pocket",
+      "model": "Pocket"
     },
     {
       "manufacturer": "",

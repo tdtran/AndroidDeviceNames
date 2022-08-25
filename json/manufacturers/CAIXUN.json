@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Columbia",
+      "codename": "patrick",
+      "model": "Aiplus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "martin",
+      "model": "Caixun Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Malaysia",
       "codename": "yeongdeungpo",
       "model": "AiPlus4KMY"
@@ -36,6 +48,12 @@
       "market_name": "South of America",
       "codename": "martin",
       "model": "AiPlus2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South of America",
+      "codename": "patrick",
+      "model": "Aipro4K"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TIMVISION Box",
+      "codename": "uzw4054tim",
+      "model": "TIMVISION Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIMVISION VSB",
       "codename": "m393vsb_tim",
       "model": "TIMVISION VSB"

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MH-T6000",
+      "codename": "MH-T6000",
+      "model": "MH-T6000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT-T800",
       "codename": "MT-T800",
       "model": "MT-T800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-T8B22",
+      "codename": "MT-T8B22",
+      "model": "MT-T8B22"
     },
     {
       "manufacturer": "",

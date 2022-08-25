@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CF550",
+      "codename": "CF550",
+      "model": "CF550"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EF400",
       "codename": "EF400",
       "model": "EF400"

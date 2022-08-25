@@ -9,9 +9,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T55",
+      "codename": "T55",
+      "model": "T55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T8",
       "codename": "T8",
       "model": "T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8A",
+      "codename": "T8A",
+      "model": "T8A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8M",
+      "codename": "T8M",
+      "model": "T8M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8Plus",
+      "codename": "T8Plus",
+      "model": "T8 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8Pro",
+      "codename": "T8Pro",
+      "model": "T8Pro"
     }
   ]
 }

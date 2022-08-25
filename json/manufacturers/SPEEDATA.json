@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Speedata",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FG50",
+      "codename": "FG50",
+      "model": "FG50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FG60",
+      "codename": "FG60",
+      "model": "FG60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FG60 EEA",
+      "codename": "FG60",
+      "model": "FG60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SD100",
+      "codename": "SD100",
+      "model": "SD100"
+    }
+  ]
+}

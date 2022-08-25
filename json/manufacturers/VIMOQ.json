@@ -1,0 +1,29 @@
+{
+  "manufacturer": "VIMOQ",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ  AC50",
+      "codename": "VIMOQ-A507LD",
+      "model": "VIMOQ A507LD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ A507LT",
+      "codename": "VIMOQ-A507LT",
+      "model": "VIMOQ A507LT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ V51 LTE",
+      "codename": "VIMOQ-A507LE",
+      "model": "VIMOQ A507LE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A18",
+      "codename": "VIMOQ-A512WS",
+      "model": "VIMOQ A512WS"
+    }
+  ]
+}

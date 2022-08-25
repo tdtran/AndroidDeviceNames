@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ATEC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "APD3",
+      "codename": "APD3",
+      "model": "APD3"
+    }
+  ]
+}

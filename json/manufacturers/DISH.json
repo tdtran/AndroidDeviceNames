@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CSSL104DBL16",
+      "codename": "SL104D",
+      "model": "SL104D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Celero 5G",
       "codename": "Jupiter",
       "model": "WTCELERO5G"
@@ -21,9 +27,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hopper Plus",
+      "codename": "SNAP2",
+      "model": "Hopper Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Joey 4",
+      "codename": "ATVMJ4",
+      "model": "Joey 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SL201D",
+      "codename": "SL201D",
+      "model": "SL201D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SV10",
       "codename": "HiCast",
       "model": "SV10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wireless Joey 4",
+      "codename": "ATVWJ4",
+      "model": "Wireless Joey 4"
     }
   ]
 }

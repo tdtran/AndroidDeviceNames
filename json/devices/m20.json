@@ -16,5 +16,11 @@
     "market_name": "Galaxy M20",
     "codename": "m20",
     "model": "SM-M205N"
+  },
+  {
+    "manufacturer": "Smart",
+    "market_name": "M20",
+    "codename": "M20",
+    "model": "M20"
   }
 ]

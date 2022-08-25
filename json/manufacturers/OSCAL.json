@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C60",
+      "codename": "C60",
+      "model": "C60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S60",
       "codename": "S60",
       "model": "S60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60Pro",
+      "codename": "S60Pro",
+      "model": "S60Pro"
     }
   ]
 }

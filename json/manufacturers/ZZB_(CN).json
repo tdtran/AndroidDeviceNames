@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ZB10",
+      "codename": "ZB10",
+      "model": "ZB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZB10M",
+      "codename": "ZB10M",
+      "model": "ZB10M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZB10_EEA",
+      "codename": "ZB10_EEA",
+      "model": "ZB10_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZB40",
       "codename": "ZB40",
       "model": "ZB40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZB40_EEA",
+      "codename": "ZB40_EEA",
+      "model": "ZB40_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZZB_ZB30",
+      "codename": "ZZB_ZB30",
+      "model": "ZZB_ZB30"
     }
   ]
 }

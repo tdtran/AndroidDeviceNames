@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AGE",
+      "codename": "zhongshan",
+      "model": "43F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Age",
+      "codename": "stanford",
+      "model": "40D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "India",
       "codename": "tamachi",
       "model": "AGE FHD Android TV"

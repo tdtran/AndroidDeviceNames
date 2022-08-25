@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SKY63",
+      "codename": "SKY63",
+      "model": "SKY63"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY_55",
       "codename": "SKY_55",
       "model": "SKY_55_EEA"
