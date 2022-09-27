@@ -19,6 +19,12 @@
   },
   {
     "manufacturer": "Redmi",
+    "market_name": "Redmi 11 Prime 5G",
+    "codename": "light",
+    "model": "22041219I"
+  },
+  {
+    "manufacturer": "Redmi",
     "market_name": "Redmi Note 11E",
     "codename": "light",
     "model": "22041219C"

@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SW-22JP NF",
+      "codename": "SW6H",
+      "model": "SW-22JP NF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SW-22NA",
+      "codename": "SW6H",
+      "model": "SW-22NA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SW-22NA NF",
       "codename": "SW6H",
       "model": "SW-22NA NF"

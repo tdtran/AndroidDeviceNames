@@ -591,6 +591,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9 WIFI",
+      "codename": "ML_JI0E_M9_WIFI",
+      "model": "M9_WIFI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M9 Wifi",
       "codename": "ML_SO08_M9_Wifi",
       "model": "M9_Wifi"
@@ -867,6 +873,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MULTILASER",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ms5",
       "codename": "MTL-MS5",
       "model": "MS5"
@@ -1020,6 +1032,12 @@
       "market_name": "Sikur",
       "codename": "Multilaser_GMax_2_Sikur",
       "model": "Multilaser_GMax_2_Sikur"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U10",
+      "codename": "ML_SO0K_U10_MTK",
+      "model": "U10"
     },
     {
       "manufacturer": "",

@@ -18,6 +18,12 @@
       "market_name": "AT70K_EEA",
       "codename": "AT70K_EEA",
       "model": "AT70K_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P70W",
+      "codename": "P70W",
+      "model": "P70W"
     }
   ]
 }

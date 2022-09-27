@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO F4",
+    "codename": "munch",
+    "model": "22021211RG"
+  },
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO F4",
+    "codename": "munch",
+    "model": "22021211RI"
+  },
+  {
     "manufacturer": "Redmi",
     "market_name": "Redmi K40S",
     "codename": "munch",

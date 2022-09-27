@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CreaPad_1009S",
+      "codename": "CreaPad_1009S",
+      "model": "CreaPad_1009S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CreaPad_1009S_EEA",
       "codename": "CreaPad_1009S_EEA",
       "model": "CreaPad_1009S_EEA"

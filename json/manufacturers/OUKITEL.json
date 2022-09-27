@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C31_Pro_EEA",
+      "codename": "C31_Pro",
+      "model": "C31 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -375,6 +381,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RT2_EEA",
+      "codename": "RT2",
+      "model": "RT2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U11_Plus",
       "codename": "U11_Plus",
       "model": "U11_Plus"
@@ -516,6 +528,12 @@
       "market_name": "WP18",
       "codename": "WP18_EEA",
       "model": "WP18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP18_P_R_EEA",
+      "codename": "WP18_P_R_EEA",
+      "model": "WP18 Pro"
     },
     {
       "manufacturer": "",

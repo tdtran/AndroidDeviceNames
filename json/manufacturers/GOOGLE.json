@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Chromecast Google TV (HD)",
+      "codename": "boreal",
+      "model": "Chromecast HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Emualtor",
       "codename": "generic_x86_arm",
       "model": "AOSP on IA Emulator"

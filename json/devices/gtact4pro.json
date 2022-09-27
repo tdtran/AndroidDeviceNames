@@ -10,5 +10,17 @@
     "market_name": "Galaxy Tab Active4 Pro 5G",
     "codename": "gtact4pro",
     "model": "SM-T636N"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab Active4 Pro 5G",
+    "codename": "gtact4pro",
+    "model": "SM-T638B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab Active4 Pro 5G",
+    "codename": "gtact4pro",
+    "model": "SM-T638U"
   }
 ]

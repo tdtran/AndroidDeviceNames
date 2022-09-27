@@ -13,6 +13,12 @@
   },
   {
     "manufacturer": "Vivo",
+    "market_name": "V25",
+    "codename": "V2202",
+    "model": "V2228"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "X80 Lite  5G",
     "codename": "V2202",
     "model": "V2208"

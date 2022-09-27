@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G10_EEA",
+      "codename": "G10_EEA",
+      "model": "G10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G10_US",
+      "codename": "G10_US",
+      "model": "G10_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G2_A_EEA",
       "codename": "G2_A_EEA",
       "model": "G2_A_EEA"

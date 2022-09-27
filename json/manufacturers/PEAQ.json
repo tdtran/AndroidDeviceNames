@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PET-1008-F464E",
+      "codename": "PET-1008-F464E",
+      "model": "PET 1008-F464E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-1008-H332E",
+      "codename": "PET-1008-H332E",
+      "model": "PET 1008-H332E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PET-101-F464S",
       "codename": "PET-101-F464S",
       "model": "PET-101-F464S"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "43GloLED",
+      "codename": "songshan",
+      "model": "VU SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "43UA",
       "codename": "ikebukuro",
       "model": "AI PONT"

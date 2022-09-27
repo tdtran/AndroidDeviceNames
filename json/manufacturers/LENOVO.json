@@ -2848,6 +2848,12 @@
     {
       "manufacturer": "",
       "market_name": "Lenovo Tab K10 PRC",
+      "codename": "TB-X6E6F",
+      "model": "Lenovo TB-X6E6FC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K10 PRC",
       "codename": "X6C6F",
       "model": "Lenovo TB-X6C6F"
     },
@@ -4656,6 +4662,18 @@
       "market_name": "联想平板电脑 启天K10",
       "codename": "X6C6NBX",
       "model": "Lenovo TB-X6C6NBX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑 启天K11 Gen2",
+      "codename": "TB230FC",
+      "model": "TB230FC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑 启天K11 Gen2",
+      "codename": "TB230XC",
+      "model": "TB230XC"
     },
     {
       "manufacturer": "",

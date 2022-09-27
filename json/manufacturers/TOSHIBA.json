@@ -339,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V35LK",
+      "codename": "songshan",
+      "model": "2K Toshiba TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "fushan_Toshiba",
       "codename": "hamamatsucho",
       "model": "HiSmart 2K ATV4"

@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ADMIRAL",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADMIRAL",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ADMIRAL 4K TV",
       "codename": "SW4H",
       "model": "ADMIRAL 4K TV"

@@ -159,6 +159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG CS",
+      "codename": "KING_KONG_CS",
+      "model": "KING KONG CS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG MINI 3",
+      "codename": "KINGKONGMINI3",
+      "model": "KINGKONG MINI 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG MINI2",
       "codename": "KINGKONG_MINI2",
       "model": "KINGKONG MINI2"
@@ -276,6 +288,12 @@
       "market_name": "P50",
       "codename": "P50",
       "model": "P50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P60",
+      "codename": "P60",
+      "model": "P60"
     },
     {
       "manufacturer": "",

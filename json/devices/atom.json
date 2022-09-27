@@ -24,6 +24,12 @@
     "model": "atom"
   },
   {
+    "manufacturer": "Rhino",
+    "market_name": "Atom",
+    "codename": "atom",
+    "model": "T5se"
+  },
+  {
     "manufacturer": "Symphony",
     "market_name": "ATOM",
     "codename": "ATOM",

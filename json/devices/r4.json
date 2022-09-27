@@ -168,6 +168,12 @@
     "model": "PANASONIC TV"
   },
   {
+    "manufacturer": "SAMPO",
+    "market_name": "Android TV",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
     "manufacturer": "Stream System",
     "market_name": "Android TV",
     "codename": "R4",

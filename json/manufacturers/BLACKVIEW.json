@@ -213,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV5200",
+      "codename": "BV5200",
+      "model": "BV5200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV5500",
       "codename": "BV5500",
       "model": "BV5500"
@@ -390,6 +396,12 @@
       "market_name": "BV7000_RU",
       "codename": "BV7000",
       "model": "BV7000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV7100",
+      "codename": "BV7100",
+      "model": "BV7100"
     },
     {
       "manufacturer": "",
@@ -681,6 +693,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 13",
+      "codename": "Tab_13",
+      "model": "Tab 13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab10",
       "codename": "Tab_10",
       "model": "Tab 10"
@@ -724,6 +742,12 @@
     {
       "manufacturer": "",
       "market_name": "Tab12_NEU",
+      "codename": "Tab12_NEU",
+      "model": "Tab 12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab12_RUU",
       "codename": "Tab12_NEU",
       "model": "Tab 12"
     },

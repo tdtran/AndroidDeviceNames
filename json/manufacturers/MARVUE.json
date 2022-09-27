@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M81",
+      "codename": "M81",
+      "model": "M81"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pad_M10",
       "codename": "Pad_M10",
       "model": "Pad_M10"

@@ -1,0 +1,14 @@
+[
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P25_T_EEA",
+    "codename": "P25_T",
+    "model": "P25_T_EEA"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P25_T_ROW",
+    "codename": "P25_T",
+    "model": "P25_T_ROW"
+  }
+]

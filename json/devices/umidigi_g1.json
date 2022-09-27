@@ -4,5 +4,11 @@
     "market_name": "UMIDIGI G1",
     "codename": "UMIDIGI_G1",
     "model": "MP08"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "UMIDIGI G1 EEA",
+    "codename": "UMIDIGI_G1",
+    "model": "MP08"
   }
 ]

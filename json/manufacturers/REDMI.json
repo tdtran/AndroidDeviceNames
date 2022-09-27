@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 11 Prime 5G",
+      "codename": "light",
+      "model": "22041219I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 6",
       "codename": "cereus",
       "model": "Redmi 6"
@@ -378,6 +384,36 @@
       "market_name": "Redmi 9T",
       "codename": "pomelo",
       "model": "M2010J19SL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A1",
+      "codename": "ice",
+      "model": "220733SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A1",
+      "codename": "ice",
+      "model": "220733SI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A1",
+      "codename": "ice",
+      "model": "220733SL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A1+",
+      "codename": "snow",
+      "model": "220733SFG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A1+",
+      "codename": "snow",
+      "model": "220743FI"
     },
     {
       "manufacturer": "",
@@ -678,6 +714,18 @@
       "market_name": "Redmi Note 11 Pro+ 5G",
       "codename": "pissarropro",
       "model": "21091116UG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 SE",
+      "codename": "secret",
+      "model": "22087RA4DI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 SE",
+      "codename": "secret",
+      "model": "M2101K7BI"
     },
     {
       "manufacturer": "",

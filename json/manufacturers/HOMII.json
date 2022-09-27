@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xbook_Plus",
+      "codename": "Xbook_Plus",
+      "model": "Xbook_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xbookkids",
       "codename": "Xbookkids",
       "model": "Xbookkids"

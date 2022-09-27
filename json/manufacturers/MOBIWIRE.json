@@ -213,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart Green",
+      "codename": "MobiWire_Verda",
+      "model": "Vodafone Lite 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart N11",
       "codename": "Smart_N11",
       "model": "SmartN11"
@@ -264,6 +270,24 @@
       "market_name": "Verda",
       "codename": "MobiWire_Verda",
       "model": "Verda"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodafone Lite 4G",
+      "codename": "MobiWire_Verda",
+      "model": "Vodafone Lite 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodafone Pro 4G",
+      "codename": "Vodafone_Pro",
+      "model": "Vodafone Pro 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodafone Smart 4G",
+      "codename": "Vodafone_Smart",
+      "model": "Vodafone Smart 4G"
     }
   ]
 }

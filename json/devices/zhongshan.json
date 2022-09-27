@@ -6,6 +6,12 @@
     "model": "43F"
   },
   {
+    "manufacturer": "Admiral Overseas Corporation",
+    "market_name": "ADMIRAL",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Aiwa",
     "market_name": "AIWA",
     "codename": "zhongshan",
@@ -91,12 +97,6 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "EU",
-    "codename": "zhongshan",
-    "model": "43F"
-  },
-  {
-    "manufacturer": "KTCtv",
     "market_name": "Electroman",
     "codename": "zhongshan",
     "model": "Smart UHD TV"
@@ -104,6 +104,18 @@
   {
     "manufacturer": "KTCtv",
     "market_name": "Enova",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "FASTLIFE",
+    "codename": "zhongshan",
+    "model": "SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "GAZER",
     "codename": "zhongshan",
     "model": "4K SMART TV"
   },
@@ -133,6 +145,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "MTEK",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Maxsonic_elite",
     "codename": "zhongshan",
     "model": "4K SMART TV"
@@ -148,6 +166,12 @@
     "market_name": "NAKAMICHI",
     "codename": "zhongshan",
     "model": "CSV4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "POWER GREEN",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -175,6 +199,18 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "VON",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "XITRIX",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Zitro",
     "codename": "zhongshan",
     "model": "43FSA"
@@ -193,13 +229,37 @@
   },
   {
     "manufacturer": "Motorola",
+    "market_name": "MOTOROLA",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "Motorola",
     "codename": "zhongshan",
     "model": "CSV4K"
   },
   {
+    "manufacturer": "Multilaser",
+    "market_name": "MULTILASER",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Next",
     "market_name": "NEXT",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "PHILCO",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "SVISION",
     "codename": "zhongshan",
     "model": "4K SMART TV"
   },

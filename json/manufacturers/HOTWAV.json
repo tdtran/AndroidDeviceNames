@@ -216,6 +216,12 @@
       "market_name": "W10",
       "codename": "W10",
       "model": "W10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W10 Pro",
+      "codename": "W10_Pro",
+      "model": "W10 Pro"
     }
   ]
 }

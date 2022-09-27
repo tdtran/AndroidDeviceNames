@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T21-EEA",
+      "codename": "T21-EEA",
+      "model": "T21-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T211-EEA",
       "codename": "T211-EEA",
       "model": "T211-EEA"

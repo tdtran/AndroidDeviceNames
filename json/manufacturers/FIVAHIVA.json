@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FF1010",
+      "codename": "FF1010",
+      "model": "FF1010"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YY_766",
       "codename": "YY_766",
       "model": "YY_766"

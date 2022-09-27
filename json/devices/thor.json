@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ALT.STYLEFOLDER",
+    "market_name": "Style Folder",
+    "codename": "thor",
+    "model": "AT-M120"
+  },
+  {
     "manufacturer": "QUBO",
     "market_name": "THOR",
     "codename": "THOR",

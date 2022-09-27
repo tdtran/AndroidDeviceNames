@@ -10,5 +10,23 @@
     "market_name": "ICE",
     "codename": "ICE",
     "model": "ICE"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi A1",
+    "codename": "ice",
+    "model": "220733SG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi A1",
+    "codename": "ice",
+    "model": "220733SI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi A1",
+    "codename": "ice",
+    "model": "220733SL"
   }
 ]

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S7_EEA",
+      "codename": "S7_EEA",
+      "model": "S7_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB_A7_US",
       "codename": "TAB_A7_US",
       "model": "TAB_A7_US"

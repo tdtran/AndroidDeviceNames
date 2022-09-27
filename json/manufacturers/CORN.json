@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tronik_12",
+      "codename": "Tronik_12",
+      "model": "Tronik_12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X5",
       "codename": "X5S",
       "model": "X5"

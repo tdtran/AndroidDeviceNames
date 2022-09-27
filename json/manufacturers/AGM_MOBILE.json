@@ -36,6 +36,12 @@
       "market_name": "AGM H5",
       "codename": "AGM_H5",
       "model": "AGM_H5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_H5_PRO",
+      "codename": "AGM_H5_PRO",
+      "model": "AGM_H5_PRO"
     }
   ]
 }

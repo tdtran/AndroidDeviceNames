@@ -645,6 +645,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X98Pro",
+      "codename": "1918T",
+      "model": "X98Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X9S",
       "codename": "X9S",
       "model": "X9S"

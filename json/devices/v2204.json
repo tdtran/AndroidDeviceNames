@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Vivo",
+    "market_name": "Y02s",
+    "codename": "V2204",
+    "model": "V2229"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "Y16",
     "codename": "V2204",
     "model": "V2204"

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Global",
+      "codename": "YQB",
+      "model": "Dongle R 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SEI600HM",
       "codename": "HND",
       "model": "Box Q"

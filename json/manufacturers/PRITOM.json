@@ -219,6 +219,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M60",
+      "codename": "M60",
+      "model": "M60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M60_EEA",
+      "codename": "M60_EU",
+      "model": "M60_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P7",
       "codename": "P7",
       "model": "P7"

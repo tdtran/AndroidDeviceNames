@@ -57,12 +57,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "EU",
-      "codename": "zhongshan",
-      "model": "43F"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Electroman",
       "codename": "zhongshan",
       "model": "Smart UHD TV"
@@ -70,6 +64,24 @@
     {
       "manufacturer": "",
       "market_name": "Enova",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FASTLIFE",
+      "codename": "zhongshan",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GAZER",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GAZER",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     },
@@ -117,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MTEK",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Maxsonic_elite",
       "codename": "stanford",
       "model": "2K SMART TV"
@@ -156,6 +174,18 @@
       "market_name": "Nobrand",
       "codename": "stanford",
       "model": "Smart FHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POWER GREEN",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POWER_GREEN",
+      "codename": "stanford",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
@@ -208,6 +238,24 @@
     {
       "manufacturer": "",
       "market_name": "VISTA",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VON",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VON",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XITRIX",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     },

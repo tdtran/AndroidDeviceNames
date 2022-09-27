@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TK-E8765",
+      "codename": "TK-E8765",
+      "model": "TK-E8765"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z8",
       "codename": "Z8",
       "model": "Z8"

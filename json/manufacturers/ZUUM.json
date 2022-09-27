@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AURA Z",
+      "codename": "AURA_Z",
+      "model": "AURA_Z"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COVET",
       "codename": "COVET",
       "model": "COVET"

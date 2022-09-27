@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PHILCO",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PHILCO Smart TV",
       "codename": "SW4H",
       "model": "PHILCO Smart TV"

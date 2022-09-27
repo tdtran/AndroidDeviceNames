@@ -99,6 +99,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F202_UK",
+      "codename": "F202_UK",
+      "model": "F202_UK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F202_US",
+      "codename": "F202_US",
+      "model": "F202_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F704Bv2",
       "codename": "F704Bv2",
       "model": "F704Bv2"

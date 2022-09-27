@@ -70,6 +70,12 @@
     {
       "manufacturer": "",
       "market_name": "INOI A72",
+      "codename": "A170",
+      "model": "A170_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI A72",
       "codename": "A171",
       "model": "A171"
     },

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Asanzo",
+    "market_name": "EX Series",
+    "codename": "SW6H",
+    "model": "EX Series"
+  },
+  {
     "manufacturer": "COEX",
     "market_name": "COEX 4K Smart TV",
     "codename": "SW6H",
@@ -24,16 +30,52 @@
     "model": "Casper Smart TV"
   },
   {
+    "manufacturer": "Green House",
+    "market_name": "GREEN HOUSE TV",
+    "codename": "SW6H",
+    "model": "GREEN HOUSE TV"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC 4K Smart TV NZ",
     "codename": "SW6H",
     "model": "JVC 4K Smart TV NZ"
   },
   {
+    "manufacturer": "LLOYD",
+    "market_name": "LLOYD 4K SMART TV",
+    "codename": "SW6H",
+    "model": "LLOYD 4K SMART TV"
+  },
+  {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "PrismPlus 4KA",
+    "codename": "SW6H",
+    "model": "PrismPlus 4KA"
+  },
+  {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "PrismPlus P4KA",
+    "codename": "SW6H",
+    "model": "PrismPlus P4KA"
+  },
+  {
     "manufacturer": "SWTV",
     "market_name": "SW-22AE NF",
     "codename": "SW6H",
     "model": "SW-22AE NF"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SW-22JP NF",
+    "codename": "SW6H",
+    "model": "SW-22JP NF"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SW-22NA",
+    "codename": "SW6H",
+    "model": "SW-22NA"
   },
   {
     "manufacturer": "SWTV",
@@ -60,9 +102,39 @@
     "model": "SWTV-22AE"
   },
   {
+    "manufacturer": "TORNADO",
+    "market_name": "TORNADO 4K SmartTV",
+    "codename": "SW6H",
+    "model": "TORNADO 4K SmartTV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "TESLA 4K SMART TV",
+    "codename": "SW6H",
+    "model": "TESLA 4K SMART TV"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "SPPL 4K GSmartTV",
+    "codename": "SW6H",
+    "model": "SPPL 4K GSmartTV"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "SPPL 4K GSmartTV FF",
+    "codename": "SW6H",
+    "model": "SPPL 4K GSmartTV FF"
+  },
+  {
     "manufacturer": "Veon",
     "market_name": "VEON 4K Smart TV",
     "codename": "SW6H",
     "model": "VEON 4K Smart TV"
+  },
+  {
+    "manufacturer": "Yasin",
+    "market_name": "YASIN 4K G Smart TV",
+    "codename": "SW6H",
+    "model": "YASIN 4K G Smart TV"
   }
 ]

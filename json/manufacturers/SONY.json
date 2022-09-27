@@ -436,8 +436,20 @@
     {
       "manufacturer": "",
       "market_name": "Xperia 1 IV",
+      "codename": "XQ-CT44",
+      "model": "XQ-CT44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 IV",
       "codename": "XQ-CT54",
       "model": "XQ-CT54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 IV",
+      "codename": "XQ-CT62",
+      "model": "XQ-CT62"
     },
     {
       "manufacturer": "",

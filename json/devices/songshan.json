@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "50A7H",
+    "codename": "songshan",
+    "model": "Smart TV"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "A36",
     "codename": "songshan",
     "model": "2K Smart TV"
@@ -72,6 +78,12 @@
     "model": "SmartTV 4K"
   },
   {
+    "manufacturer": "Polytron",
+    "market_name": "PLD43UG5959/PLD43BUG5959/PLD50UG5959/PLD50BUG5959/PLD55UG5959/",
+    "codename": "songshan",
+    "model": "POLYTRON4K"
+  },
+  {
     "manufacturer": "Riviera",
     "market_name": "HIKA5",
     "codename": "songshan",
@@ -100,6 +112,18 @@
     "market_name": "M550LP/M550LI",
     "codename": "songshan",
     "model": "Toshiba TV with MIC"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "V35LK",
+    "codename": "songshan",
+    "model": "2K Toshiba TV"
+  },
+  {
+    "manufacturer": "Vu Televisions",
+    "market_name": "43GloLED",
+    "codename": "songshan",
+    "model": "VU SMART TV"
   },
   {
     "manufacturer": "Vu Televisions",

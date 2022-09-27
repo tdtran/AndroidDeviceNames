@@ -1497,6 +1497,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V25",
+      "codename": "V2202",
+      "model": "V2228"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V25 Pro",
       "codename": "V2158",
       "model": "V2158"
@@ -1746,6 +1752,12 @@
       "market_name": "Y02s",
       "codename": "V2204",
       "model": "V2203"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y02s",
+      "codename": "V2204",
+      "model": "V2229"
     },
     {
       "manufacturer": "",
@@ -2106,6 +2118,12 @@
       "market_name": "iQOO Z6",
       "codename": "I2203",
       "model": "I2206"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO Z6 Lite 5G",
+      "codename": "I2208",
+      "model": "I2208"
     },
     {
       "manufacturer": "",
@@ -2565,6 +2583,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo X Fold+",
+      "codename": "PD2229",
+      "model": "V2229A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo X Note",
       "codename": "PD2170",
       "model": "V2170A"
@@ -2724,6 +2748,12 @@
       "market_name": "vivo Y75A",
       "codename": "PD1718",
       "model": "vivo Y75A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Y75s",
+      "codename": "PD2069",
+      "model": "V2069BA"
     },
     {
       "manufacturer": "",

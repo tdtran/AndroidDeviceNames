@@ -12,6 +12,12 @@
       "market_name": "Middle East",
       "codename": "yeongdeungpo",
       "model": "STAR-X UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "United Arab Emirates",
+      "codename": "martin",
+      "model": "STAR-X 2K Android TV"
     }
   ]
 }

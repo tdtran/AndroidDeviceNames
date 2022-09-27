@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "SK Broadband",
+    "market_name": "BFX-UA300",
+    "codename": "BFX-UA300",
+    "model": "BFX-UA300"
+  },
+  {
+    "manufacturer": "SK Broadband",
     "market_name": "SWAN",
     "codename": "BFX-UA300",
     "model": "BFX-UA300"

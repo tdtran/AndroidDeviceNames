@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SmartV22",
+      "codename": "Smart_V22",
+      "model": "SmartV22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart_N9_Lite",
       "codename": "VFD620",
       "model": "VFD 620"

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Model K",
+      "codename": "Model_K",
+      "model": "Model K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model K  4G",
+      "codename": "Model_K_4G",
+      "model": "Model K 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Model_3",
       "codename": "Model_3",
       "model": "Model 3"
@@ -54,6 +66,12 @@
       "market_name": "Model_Y",
       "codename": "Model_Y",
       "model": "Model Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP125D_2",
+      "codename": "SP125D_2",
+      "model": "SP125D_2"
     }
   ]
 }

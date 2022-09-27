@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EF-12/EH-LS300",
+      "codename": "sti6200d101",
+      "model": "Projector"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EH-LS800",
+      "codename": "sti6202d101",
+      "model": "HA90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELPAP12",
+      "codename": "Bushi",
+      "model": "STI6110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Epson",
       "codename": "embt4",
       "model": "EMBT4"
@@ -10,12 +28,6 @@
     {
       "manufacturer": "",
       "market_name": "Projector",
-      "codename": "sti6200d101",
-      "model": "Projector"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SMF2",
       "codename": "sti6200d101",
       "model": "Projector"
     },

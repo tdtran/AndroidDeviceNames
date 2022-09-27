@@ -507,6 +507,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C100",
+      "codename": "DKT",
+      "model": "N152DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C100",
+      "codename": "DKT",
+      "model": "Nokia C100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C2",
       "codename": "NBL",
       "model": "Nebula"
@@ -540,6 +552,18 @@
       "market_name": "Nokia C20 Plus",
       "codename": "SUS",
       "model": "Nokia C20 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C200",
+      "codename": "DRK",
+      "model": "N151DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C200",
+      "codename": "DRK",
+      "model": "Nokia C200"
     },
     {
       "manufacturer": "",
@@ -579,6 +603,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C31",
+      "codename": "VSI",
+      "model": "Nokia C31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C5 Endi",
       "codename": "PMC_CUS",
       "model": "Nokia C5 Endi"
@@ -594,6 +624,18 @@
       "market_name": "Nokia G10",
       "codename": "ROGA_sprout",
       "model": "Nokia G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G100",
+      "codename": "DPT",
+      "model": "N150DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G100",
+      "codename": "DPT",
+      "model": "Nokia G100"
     },
     {
       "manufacturer": "",
@@ -657,6 +699,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia G400 5G",
+      "codename": "STM",
+      "model": "Nokia G400 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G400 5G",
+      "codename": "STO",
+      "model": "Nokia G400 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia G50",
       "codename": "PHR",
       "model": "Nokia G50"
@@ -669,9 +723,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia G60 5G",
+      "codename": "APO_sprout",
+      "model": "Nokia G60 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia Steaming Box 8000",
       "codename": "HND",
       "model": "Nokia Streaming Box 8000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia T10",
+      "codename": "PGN",
+      "model": "Nokia T10"
     },
     {
       "manufacturer": "",
@@ -714,6 +780,12 @@
       "market_name": "Nokia X20",
       "codename": "QKS_sprout",
       "model": "Nokia X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X30 5G",
+      "codename": "FCN_sprout",
+      "model": "Nokia X30 5G"
     },
     {
       "manufacturer": "",

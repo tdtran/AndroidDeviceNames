@@ -1,0 +1,11 @@
+{
+  "manufacturer": "SinoGNSS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "R60 Data Collector",
+      "codename": "R60",
+      "model": "R60"
+    }
+  ]
+}

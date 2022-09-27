@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 70",
+      "codename": "HNFNE",
+      "model": "FNE-NX9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Magic4 Lite",
       "codename": "HNANY-Q1",
       "model": "ANY-LX1"
@@ -48,6 +54,30 @@
       "market_name": "HONOR Pad 8",
       "codename": "HNHEY-Q",
       "model": "HEY-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad X8 Lite",
+      "codename": "HNAGM",
+      "model": "AGM-W09HN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6",
+      "codename": "HNVNE-M",
+      "model": "VNE-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6",
+      "codename": "HNVNE-M",
+      "model": "VNE-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6",
+      "codename": "HNVNE-M",
+      "model": "VNE-LX3"
     },
     {
       "manufacturer": "",

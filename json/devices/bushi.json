@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Epson",
+    "market_name": "ELPAP12",
+    "codename": "Bushi",
+    "model": "STI6110"
+  },
+  {
+    "manufacturer": "Epson",
     "market_name": "STI6110",
     "codename": "Bushi",
     "model": "STI6110"

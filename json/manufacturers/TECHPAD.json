@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tech732",
+      "codename": "Tech_Pad_732",
+      "model": "732"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TechPad",
       "codename": "TechPad_916",
       "model": "916"

@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F3T10B1",
+      "codename": "F3T10B1",
+      "model": "F3T10B1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3T7B1",
+      "codename": "F3T7B1",
+      "model": "F3T7B1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FFFTAB10",
       "codename": "FFFTAB10",
       "model": "FFFTAB10"
@@ -48,6 +60,12 @@
       "market_name": "FFFTAB10b0",
       "codename": "FFFTAB10b0",
       "model": "FFFTAB10b0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FFFTAB10b1",
+      "codename": "FFFTAB10b1",
+      "model": "FFFTAB10b1"
     },
     {
       "manufacturer": "",

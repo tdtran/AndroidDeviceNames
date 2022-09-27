@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO F4",
+      "codename": "munch",
+      "model": "22021211RG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO F4",
+      "codename": "munch",
+      "model": "22021211RI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO F4 GT",
       "codename": "ingres",
       "model": "21121210G"
@@ -102,6 +114,12 @@
       "market_name": "POCO M4 Pro 5G",
       "codename": "evergreen",
       "model": "21091116AG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M5s",
+      "codename": "rosemary",
+      "model": "2207117BPG"
     },
     {
       "manufacturer": "",

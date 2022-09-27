@@ -705,6 +705,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A04",
+      "codename": "a04",
+      "model": "SM-A045F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A04",
+      "codename": "a04",
+      "model": "SM-A045M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A04s",
+      "codename": "a04s",
+      "model": "SM-A047F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A04s",
+      "codename": "a04s",
+      "model": "SM-A047M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A10",
       "codename": "a10",
       "model": "SM-A105F"
@@ -13216,6 +13240,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab A7",
+      "codename": "gta4lve",
+      "model": "SM-T509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A7",
       "codename": "gta4lvewifi",
       "model": "SM-T503"
     },
@@ -13392,6 +13422,18 @@
       "market_name": "Galaxy Tab Active4 Pro 5G",
       "codename": "gtact4pro",
       "model": "SM-T636N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab Active4 Pro 5G",
+      "codename": "gtact4pro",
+      "model": "SM-T638B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab Active4 Pro 5G",
+      "codename": "gtact4pro",
+      "model": "SM-T638U"
     },
     {
       "manufacturer": "",
@@ -15513,25 +15555,25 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy Watch5",
+      "market_name": "Galaxy Watch5 Pro",
       "codename": "projectxbl",
       "model": "SM-R920"
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy Watch5",
+      "market_name": "Galaxy Watch5 Pro",
       "codename": "projectxul",
       "model": "SM-R925F"
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy Watch5",
+      "market_name": "Galaxy Watch5 Pro",
       "codename": "projectxul",
       "model": "SM-R925N"
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy Watch5",
+      "market_name": "Galaxy Watch5 Pro",
       "codename": "projectxul",
       "model": "SM-R925U"
     },
@@ -16138,6 +16180,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Z Flip4",
+      "codename": "SC-54C",
+      "model": "SC-54C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip4",
       "codename": "b4q",
       "model": "SM-F7210"
     },
@@ -16266,6 +16314,12 @@
       "market_name": "Galaxy Z Fold3 5G",
       "codename": "q2q",
       "model": "SM-F926W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold4",
+      "codename": "SC-55C",
+      "model": "SC-55C"
     },
     {
       "manufacturer": "",
@@ -16614,6 +16668,12 @@
       "market_name": "三星W22 5G",
       "codename": "v2q",
       "model": "SM-W2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "心系天下 三星 W23 Flip",
+      "codename": "e4q",
+      "model": "SM-W7023"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WZONE",
       "codename": "HND",
       "model": "WZONE"

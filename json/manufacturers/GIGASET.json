@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GS5 Senior",
+      "codename": "GS5_Senior",
+      "model": "E940-2878-03S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GS80",
       "codename": "GS80",
       "model": "GS80"
@@ -138,6 +144,12 @@
       "market_name": "Gigaset GS4",
       "codename": "Gigaset_GS4",
       "model": "E940-2795-00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gigaset GX6",
+      "codename": "GX6",
+      "model": "E940-2849-00"
     },
     {
       "manufacturer": "",

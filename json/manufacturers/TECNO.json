@@ -1443,6 +1443,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO POVA 4",
+      "codename": "TECNO-LG7n",
+      "model": "TECNO LG7n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POVA 4 Pro",
+      "codename": "TECNO-LG8n",
+      "model": "TECNO LG8n"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO POVA 5G",
       "codename": "TECNO-LE8",
       "model": "TECNO LE8"

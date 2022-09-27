@@ -1,8 +1,20 @@
 [
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO M5s",
+    "codename": "rosemary",
+    "model": "2207117BPG"
+  },
+  {
     "manufacturer": "Redmi",
     "market_name": "Redmi Note 10S",
     "codename": "rosemary",
     "model": "M2101K7BNY"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "POCO M5s",
+    "codename": "rosemary",
+    "model": "2207117BPG"
   }
 ]

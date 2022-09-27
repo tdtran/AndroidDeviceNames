@@ -12,6 +12,12 @@
     "model": "2K SMART TV"
   },
   {
+    "manufacturer": "Admiral Overseas Corporation",
+    "market_name": "ADMIRAL",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
     "manufacturer": "Aiwa",
     "market_name": "AIWA",
     "codename": "stanford",
@@ -133,6 +139,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "GAZER",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Global",
     "codename": "stanford",
     "model": "CSV2K"
@@ -175,6 +187,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "POWER_GREEN",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Rosso",
     "codename": "stanford",
     "model": "40D"
@@ -205,6 +223,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "VON",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Zitro",
     "codename": "stanford",
     "model": "40DSA"
@@ -223,15 +247,33 @@
   },
   {
     "manufacturer": "Motorola",
+    "market_name": "MOTOROLA",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "Motorola",
     "codename": "stanford",
     "model": "CSV2K"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "AP",
+    "codename": "stanford",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "Sansui",
     "market_name": "Sansui Smart TV",
     "codename": "stanford",
     "model": "40D"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP",
+    "codename": "stanford",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "Siragon",

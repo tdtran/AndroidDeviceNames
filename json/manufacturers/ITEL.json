@@ -393,6 +393,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P38",
+      "codename": "itel-P661W",
+      "model": "itel P661W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P51",
       "codename": "P51",
       "model": "itel P51"
@@ -981,6 +987,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A49 Play",
+      "codename": "itel-A631L",
+      "model": "itel A631L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A510W",
       "codename": "itel-A510W",
       "model": "itel A510W"
@@ -1200,6 +1212,12 @@
       "market_name": "itel S17",
       "codename": "itel-S661W",
       "model": "itel S661W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel S18",
+      "codename": "itel-S663L",
+      "model": "itel S663L"
     },
     {
       "manufacturer": "",

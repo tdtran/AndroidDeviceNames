@@ -10,5 +10,11 @@
     "market_name": "ZTE Blade A52",
     "codename": "P963F61_A",
     "model": "ZTE Blade A52"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade A52RU",
+    "codename": "P963F61_A",
+    "model": "ZTE Blade A52RU"
   }
 ]

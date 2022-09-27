@@ -105,6 +105,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SPPL 4K GSmartTV",
+      "codename": "SW6H",
+      "model": "SPPL 4K GSmartTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPPL 4K GSmartTV FF",
+      "codename": "SW6H",
+      "model": "SPPL 4K GSmartTV FF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEO 8",
       "codename": "TEO8LTE32",
       "model": "TEO8LTE"

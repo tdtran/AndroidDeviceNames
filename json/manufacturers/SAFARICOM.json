@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEON VISION",
+      "codename": "NEON_VISION",
+      "model": "NEON_VISION"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEON-RAY-2",
       "codename": "NEON-RAY-2",
       "model": "NEON RAY 2"

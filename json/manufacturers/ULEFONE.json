@@ -363,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 14",
+      "codename": "Note_14",
+      "model": "Note 14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 6",
       "codename": "Note_6",
       "model": "Note 6"
@@ -486,6 +492,18 @@
       "market_name": "Power Armor 16 Pro",
       "codename": "PowerArmor16Pro",
       "model": "Power Armor 16 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor 18T",
+      "codename": "Power_Armor_18T",
+      "model": "Power Armor 18T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor X11 Pro",
+      "codename": "PowerArmorX11Pro",
+      "model": "Power Armor X11 Pro"
     },
     {
       "manufacturer": "",

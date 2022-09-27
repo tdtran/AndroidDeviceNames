@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EX Series",
+      "codename": "SW6H",
+      "model": "EX Series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S3 Plus",
       "codename": "ASANZO_S3_PLUS",
       "model": "ASANZO_S3_PLUS"

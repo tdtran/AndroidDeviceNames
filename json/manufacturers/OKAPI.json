@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Okapi Rambo",
+      "codename": "Okapi_Rambo",
+      "model": "Okapi Rambo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Okapi stone",
+      "codename": "Okapi_stone",
+      "model": "Okapi stone"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Okapi10",
       "codename": "Okapi10",
       "model": "Okapi10"

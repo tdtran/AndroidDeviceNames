@@ -291,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "50A7H",
+      "codename": "songshan",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "55H6SG",
       "codename": "Vision",
       "model": "Vision"

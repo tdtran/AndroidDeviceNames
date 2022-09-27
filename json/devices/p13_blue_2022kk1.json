@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Reeder",
+    "market_name": "P13 Blue Max Lite 2022",
+    "codename": "P13_Blue_2022kk1",
+    "model": "P13 Blue Max Lite 2022"
+  },
+  {
+    "manufacturer": "Reeder",
     "market_name": "P13_Blue_2022",
     "codename": "P13_Blue_2022kk1",
     "model": "P13 Blue Max Lite 2022"

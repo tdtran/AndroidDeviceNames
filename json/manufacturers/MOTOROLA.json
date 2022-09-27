@@ -933,6 +933,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MOTOROLA",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOROLA",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Master Touch",
       "codename": "umts_primus",
       "model": "XT621"
@@ -3147,6 +3159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g32",
+      "codename": "devon",
+      "model": "moto g(100)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g32",
+      "codename": "devon",
+      "model": "moto g32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g40 fusion",
       "codename": "hanoip",
       "model": "moto g(40) fusion"
@@ -3315,6 +3339,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "motorola edge (2022)",
+      "codename": "tesla",
+      "model": "moto g(50) 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge (2022)",
+      "codename": "tesla",
+      "model": "motorola edge (2022)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola edge 20",
       "codename": "berlin",
       "model": "motorola edge 20"
@@ -3384,6 +3420,18 @@
       "market_name": "motorola edge 30 fusion",
       "codename": "tundra",
       "model": "motorola edge 30 fusion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 neo",
+      "codename": "miami",
+      "model": "moto g71 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 30 neo",
+      "codename": "miami",
+      "model": "motorola edge 30 neo"
     },
     {
       "manufacturer": "",

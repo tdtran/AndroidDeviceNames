@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "DUODUOGO",
+    "market_name": "S7_EEA",
+    "codename": "S7_EEA",
+    "model": "S7_EEA"
+  },
+  {
     "manufacturer": "Vankyo",
     "market_name": "S7_EEA",
     "codename": "S7_EEA",

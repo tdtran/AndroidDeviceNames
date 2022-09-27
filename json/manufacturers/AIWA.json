@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JA2-SMP0601",
+      "codename": "JA2-SMP0601",
+      "model": "JA2-SMP0601"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JA2-TBA0801",
+      "codename": "JA2-TBA0801",
+      "model": "JA2-TBA0801"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JA2-TBA1001",
       "codename": "JA2-TBA1001",
       "model": "JA2-TBA1001"

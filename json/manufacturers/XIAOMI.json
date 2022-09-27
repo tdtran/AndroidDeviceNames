@@ -1011,6 +1011,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO M5s",
+      "codename": "rosemary",
+      "model": "2207117BPG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi",
       "codename": "HM2013023",
       "model": "2013023"

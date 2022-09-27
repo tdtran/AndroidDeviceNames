@@ -81,39 +81,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SMART  2",
-      "codename": "SMART_2",
-      "model": "SMART 2"
+      "market_name": "SMART_3",
+      "codename": "SMART_3",
+      "model": "SMART_3"
     },
     {
       "manufacturer": "",
-      "market_name": "SMART_MAX_2",
-      "codename": "SMART_MAX_2",
-      "model": "SMART_MAX_2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SMART_PLUS_2",
-      "codename": "SMART_PLUS_2",
-      "model": "SMART_PLUS_2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SMART_PRO",
-      "codename": "SMART_PRO",
-      "model": "SMART_PRO"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SMART_PRO",
-      "codename": "SMART_PRO_EEA",
-      "model": "SMART_PRO"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SMART_ULTIMATE",
-      "codename": "SMART_ULTIMATE",
-      "model": "SMART_ULTIMATE"
+      "market_name": "SMART_MAX_3",
+      "codename": "SMART_MAX_3",
+      "model": "SMART_MAX_3"
     },
     {
       "manufacturer": "",

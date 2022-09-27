@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fossil Gen 6",
+      "codename": "hoki",
+      "model": "Gen 6 Wellness Edition"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fossil Sport",
       "codename": "darter",
       "model": "Fadelite"

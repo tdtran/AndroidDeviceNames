@@ -1827,6 +1827,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO Reno8 Pro 5G",
+      "codename": "OP5335L1",
+      "model": "CPH2357"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO Watch",
       "codename": "beluga",
       "model": "OPPO Watch"
@@ -1968,6 +1974,30 @@
       "market_name": "PFGM00",
       "codename": "OP5231",
       "model": "PFGM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PFTM10",
+      "codename": "OP526D",
+      "model": "PFTM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PFTM20",
+      "codename": "OP526D",
+      "model": "PFTM20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PFZM10",
+      "codename": "OP5281",
+      "model": "PFZM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PGBM10",
+      "codename": "OP5287",
+      "model": "PGBM10"
     },
     {
       "manufacturer": "",

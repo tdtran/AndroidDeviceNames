@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DS_BD2",
+      "codename": "DS_BD2",
+      "model": "DS-BD2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DS_CL1",
       "codename": "DS_CL1",
       "model": "DS-CL1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS_CL2_Pro",
+      "codename": "DS_CL2_Pro",
+      "model": "DS-CL2 Pro"
     }
   ]
 }

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Koobee_K100",
+      "codename": "SL004T",
+      "model": "SL004T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S12",
       "codename": "koobee_S12",
       "model": "S12"

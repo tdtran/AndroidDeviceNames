@@ -135,6 +135,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 20S",
+      "codename": "Infinix-X6827",
+      "model": "Infinix X6827"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 20i",
+      "codename": "Infinix-X665C",
+      "model": "Infinix X665C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 20i",
+      "codename": "Infinix-X665E",
+      "model": "Infinix X665E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT 3",
       "codename": "INFINIX-X554",
       "model": "Infinix HOT 3 Pro"
@@ -423,6 +441,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix HOT 12 PRO",
+      "codename": "Infinix-X668",
+      "model": "Infinix X668"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 12 PRO",
+      "codename": "Infinix-X668C",
+      "model": "Infinix X668C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix HOT 12 Play",
       "codename": "Infinix-X6816C",
       "model": "Infinix X6816C"
@@ -432,6 +462,12 @@
       "market_name": "Infinix HOT 12 Play NFC",
       "codename": "Infinix-X6816D",
       "model": "Infinix X6816D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 20",
+      "codename": "Infinix-X6826",
+      "model": "Infinix X6826"
     },
     {
       "manufacturer": "",
@@ -549,6 +585,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix NOTE 12 PRO",
+      "codename": "Infinix-X676B",
+      "model": "Infinix X676B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix NOTE 12 Pro 5G",
       "codename": "Infinix-X671B",
       "model": "Infinix X671B"
@@ -636,6 +678,12 @@
       "market_name": "Infinix X572",
       "codename": "Infinix-X572",
       "model": "Infinix X572"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix ZERO 20",
+      "codename": "Infinix-X6821",
+      "model": "Infinix X6821"
     },
     {
       "manufacturer": "",

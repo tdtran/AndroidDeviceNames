@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QTAB",
+      "codename": "QTAB",
+      "model": "QTAB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QTab10.1_LTE",
       "codename": "QTab10_LTE",
       "model": "QTab10_LTE"

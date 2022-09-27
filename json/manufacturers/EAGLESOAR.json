@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EE1010_EEA",
+      "codename": "EE1010_EEA",
+      "model": "EE1010_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z_766_EEA",
       "codename": "Z_766_EEA",
       "model": "Z_766_EEA"

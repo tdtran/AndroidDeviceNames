@@ -30,6 +30,12 @@
       "market_name": "JR-J8",
       "codename": "JR-J8",
       "model": "JR-J8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JR_J7",
+      "codename": "JR_J7",
+      "model": "JR_J7"
     }
   ]
 }

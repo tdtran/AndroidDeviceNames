@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Aborder",
+    "market_name": "Tanzania",
+    "codename": "martin",
+    "model": "Aborder 2K Android TV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "EU、UK、AP",
     "codename": "martin",
@@ -162,6 +168,12 @@
     "model": "WALTON Android TV"
   },
   {
+    "manufacturer": "Star-X",
+    "market_name": "United Arab Emirates",
+    "codename": "martin",
+    "model": "STAR-X 2K Android TV"
+  },
+  {
     "manufacturer": "Sunstech",
     "market_name": "Spain / Portugal",
     "codename": "martin",
@@ -196,6 +208,12 @@
     "market_name": "EU、UK、AP",
     "codename": "martin",
     "model": "Vision Android TV"
+  },
+  {
+    "manufacturer": "XD-DML",
+    "market_name": "XD",
+    "codename": "martin",
+    "model": "XD 2K Andriod TV"
   },
   {
     "manufacturer": "Zephir",

@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7",
+      "codename": "M7",
+      "model": "M7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 Lite",
+      "codename": "M7_Lite",
+      "model": "M7 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MX1",
       "codename": "MX1",
       "model": "MX1"

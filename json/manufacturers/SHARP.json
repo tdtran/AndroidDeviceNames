@@ -111,7 +111,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "4T-C**DS1/DN1",
+      "market_name": "4T-C**DS1/DN1/DP1",
       "codename": "tcvenuj",
       "model": "AQUOS-TVJ21"
     },
@@ -189,7 +189,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "8T-C**DW1",
+      "market_name": "8T-C**DW1/DX1",
       "codename": "tcve8sj",
       "model": "AQUOS-8KTVJ21"
     },
@@ -2142,6 +2142,12 @@
       "market_name": "SH825wi",
       "codename": "SH825Wi",
       "model": "SH825Wi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP",
+      "codename": "stanford",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
