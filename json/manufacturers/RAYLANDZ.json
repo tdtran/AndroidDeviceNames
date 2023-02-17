@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V6_Pro",
       "codename": "V6_Pro",
       "model": "V6_Pro"

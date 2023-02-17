@@ -213,6 +213,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STELLAR M3",
+      "codename": "STELLAR_M3",
+      "model": "STELLAR M3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR M4",
+      "codename": "STELLAR_M4",
+      "model": "STELLAR M4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STELLAR MINI",
       "codename": "STELLAR_MINI",
       "model": "STELLAR MINI"
@@ -240,6 +252,12 @@
       "market_name": "STELLAR P5",
       "codename": "STELLAR_P5",
       "model": "STELLAR P5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR P6",
+      "codename": "STELLAR_P6",
+      "model": "STELLAR P6"
     },
     {
       "manufacturer": "",

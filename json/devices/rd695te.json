@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Remdun",
+    "market_name": "RD695T",
+    "codename": "RD695TE",
+    "model": "RD695TE"
+  },
+  {
+    "manufacturer": "Remdun",
     "market_name": "RD695TE",
     "codename": "RD695TE",
     "model": "RD695TE"

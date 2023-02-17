@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ARWEN",
+      "codename": "ARWEN",
+      "model": "V TAB Z1 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Farabi",
       "codename": "frb3g",
       "model": "Farabi"

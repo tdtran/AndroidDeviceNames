@@ -135,9 +135,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tronik 13S",
+      "codename": "Tronik_13S",
+      "model": "Tronik 13S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tronik_12",
       "codename": "Tronik_12",
       "model": "Tronik_12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tronik_12S",
+      "codename": "Tronik_12S",
+      "model": "Tronik_12S"
     },
     {
       "manufacturer": "",

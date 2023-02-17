@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OASYS TEG9300",
+      "codename": "TEG9300-AL",
+      "model": "TEG9300-AL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OAS_9301",
       "codename": "OAS_9301",
       "model": "OAS_9301"

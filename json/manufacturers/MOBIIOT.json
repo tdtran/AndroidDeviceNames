@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MobiGo 2+",
+      "codename": "MobiGo2P",
+      "model": "MobiGo2P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MobiGo 2+ Pro",
       "codename": "MobiGo2PP",
       "model": "MobiGo2PP"

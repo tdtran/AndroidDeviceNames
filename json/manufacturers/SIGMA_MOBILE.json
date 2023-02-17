@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab_A1010_Neo",
+      "codename": "Tab_A1010_Neo",
+      "model": "Tab_A1010_Neo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-Style S5502",
       "codename": "X-Style_S5502",
       "model": "X-Style_S5502"
@@ -60,6 +66,12 @@
       "market_name": "X-Treme_PQ51",
       "codename": "X-Treme_PQ51",
       "model": "X-Treme_PQ51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-treme PQ18 MAX",
+      "codename": "PQ18_MAX",
+      "model": "X-treme_PQ18_MAX"
     },
     {
       "manufacturer": "",

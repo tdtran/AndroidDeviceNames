@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS V6",
+      "codename": "Cruze_Lite_S",
+      "model": "SH-C03"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Beyond TV",
       "codename": "BeyondTV",
       "model": "BeyondTV"
@@ -57,9 +63,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BeyondTV7",
+      "codename": "BeyondTV4",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C02_2K_GLB",
+      "codename": "BeyondTV",
+      "model": "BeyondTV5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C02_4K_US",
       "codename": "BeyondTV",
       "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C03_4K_NA",
+      "codename": "BeyondTV4",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C05_4K_GB",
+      "codename": "C05",
+      "model": "Smart TV Pro"
     },
     {
       "manufacturer": "",
@@ -120,6 +150,18 @@
       "market_name": "G05_4K_US",
       "codename": "G05",
       "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G06_2K_GB",
+      "codename": "G06",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G06_2K_US",
+      "codename": "G06",
+      "model": "Smart TV"
     },
     {
       "manufacturer": "",
@@ -201,24 +243,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Smart TV",
-      "codename": "BeyondTV",
-      "model": "BeyondTV5"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Smart TV",
-      "codename": "BeyondTV4",
-      "model": "Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Smart TV Pro",
-      "codename": "C05",
-      "model": "Smart TV Pro"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Smartphone",
       "codename": "A5A_INFINI",
       "model": "5086D"
@@ -258,6 +282,18 @@
       "market_name": "TAB 10s New",
       "codename": "Odin2",
       "model": "9081X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBD",
+      "codename": "Apollo84GBoostR",
+      "model": "9132S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBD",
+      "codename": "Odin_5G_TMO",
+      "model": "9183W"
     },
     {
       "manufacturer": "",
@@ -525,6 +561,60 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 30 SE",
+      "codename": "Cruze_Pro",
+      "model": "6165A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 SE",
+      "codename": "Cruze_Pro",
+      "model": "6165H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 SE",
+      "codename": "Cruze_Pro",
+      "model": "6165H_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 SE",
+      "codename": "Cruze_Pro",
+      "model": "6165S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 XE 5G",
+      "codename": "Buffalo_Boost",
+      "model": "T767W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 XE 5G",
+      "codename": "Buffalo_CAN",
+      "model": "T767G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 XL",
+      "codename": "Austin_TF",
+      "model": "T701DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 XL",
+      "codename": "Austin_US",
+      "model": "T671G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30 Z",
+      "codename": "Jetta_Dish",
+      "model": "4188L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 30+",
       "codename": "Passat",
       "model": "T676J"
@@ -534,6 +624,36 @@
       "market_name": "TCL 30+",
       "codename": "Passat",
       "model": "T676K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 303",
+      "codename": "Kona",
+      "model": "5131G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 305",
+      "codename": "Cruze_Lite",
+      "model": "6102D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 306",
+      "codename": "Cruze_Lite_S",
+      "model": "6102H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30E",
+      "codename": "Cruze",
+      "model": "6127I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 R 5G",
+      "codename": "Levin",
+      "model": "T771H"
     },
     {
       "manufacturer": "",
@@ -570,6 +690,12 @@
       "market_name": "TCL C9 Plus",
       "codename": "Venice",
       "model": "5148I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL ION X",
+      "codename": "Bora_TMO",
+      "model": "T430W"
     },
     {
       "manufacturer": "",
@@ -729,6 +855,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL Stylus 5G",
+      "codename": "Challenger_TMO",
+      "model": "T779W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL T Pro",
       "codename": "Jakarta",
       "model": "5130M"
@@ -861,15 +993,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 8",
+      "codename": "Luna",
+      "model": "9132G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8",
+      "codename": "Luna",
+      "model": "9132X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 8 4G",
       "codename": "Apollo_8_4G",
       "model": "9032X"
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB Disney Edition",
+      "codename": "Thor_8_4G_VZW",
+      "model": "9050S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB Lite",
+      "codename": "Apollo84GBoostR",
+      "model": "9132S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB kids",
       "codename": "Thor_8_4G_VZW",
       "model": "9049L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL201",
+      "codename": "Macau",
+      "model": "5133MP"
     },
     {
       "manufacturer": "",
@@ -912,6 +1074,12 @@
       "market_name": "Union TV",
       "codename": "UnionTV",
       "model": "UnionTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1T7 NEW",
+      "codename": "U3A_7_WIFI_Refresh",
+      "model": "9309X2_TR"
     },
     {
       "manufacturer": "",

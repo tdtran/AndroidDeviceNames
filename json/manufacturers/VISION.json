@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "Bangladesh",
+      "codename": "guandu",
+      "model": "Vision Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bangladesh",
       "codename": "tamachi",
       "model": "Vision FHD Android TV"
     },

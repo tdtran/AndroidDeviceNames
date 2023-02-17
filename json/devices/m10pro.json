@@ -10,5 +10,11 @@
     "market_name": "M10 Pro",
     "codename": "M10Pro",
     "model": "M10Pro"
+  },
+  {
+    "manufacturer": "Vantron",
+    "market_name": "M10_Pro",
+    "codename": "M10Pro",
+    "model": "M10Pro"
   }
 ]

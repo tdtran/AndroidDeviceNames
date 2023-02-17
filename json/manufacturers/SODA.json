@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 12",
+      "codename": "Note_12",
+      "model": "Note 12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "s2",
       "codename": "soda_CSW1802",
       "model": "soda S2"

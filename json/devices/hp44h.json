@@ -4,5 +4,11 @@
     "market_name": "b-box",
     "codename": "HP44H",
     "model": "b-box"
+  },
+  {
+    "manufacturer": "Flow",
+    "market_name": "FlowBox-F2",
+    "codename": "HP44H",
+    "model": "FlowBox-F2"
   }
 ]

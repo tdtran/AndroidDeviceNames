@@ -4,5 +4,11 @@
     "market_name": "Azumi V5",
     "codename": "Azumi_V5_AC04",
     "model": "Azumi_V5"
+  },
+  {
+    "manufacturer": "Azumi",
+    "market_name": "V5",
+    "codename": "Azumi_V5_AC04",
+    "model": "Azumi_V5"
   }
 ]

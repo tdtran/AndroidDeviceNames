@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Q-electronics",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "QP-TAQC70",
+      "codename": "QP-TAQC70",
+      "model": "QP-TAQC70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QP-TAQC80",
+      "codename": "QP-TAQC80",
+      "model": "QP-TAQC80"
+    }
+  ]
+}

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO C50",
+      "codename": "snow",
+      "model": "220733SPI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO F2 Pro",
       "codename": "lmi",
       "model": "POCO F2 Pro"
@@ -114,6 +120,18 @@
       "market_name": "POCO M4 Pro 5G",
       "codename": "evergreen",
       "model": "21091116AG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M5",
+      "codename": "rock",
+      "model": "22071219CI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M5",
+      "codename": "stone",
+      "model": "22071219CG"
     },
     {
       "manufacturer": "",

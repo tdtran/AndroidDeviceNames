@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Model_X",
+      "codename": "Model_X",
+      "model": "Model X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Model_Y",
       "codename": "Model_Y",
       "model": "Model Y"

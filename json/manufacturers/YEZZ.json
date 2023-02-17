@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ART3_PRO",
+      "codename": "ART3_PRO",
+      "model": "ART3_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E400A",
       "codename": "E400A",
       "model": "E400A"

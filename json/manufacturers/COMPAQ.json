@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "India/Srilanka/Bangladesh/GCC",
+      "codename": "guandu",
+      "model": "COMPAQ ANDROID 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "India/Srilanka/Bangladesh/GCC",
+      "codename": "martin",
+      "model": "COMPAQ ANDROID 2K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q5",
       "codename": "Q5",
       "model": "Q5"

@@ -171,6 +171,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S41",
+      "codename": "M21",
+      "model": "S41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S41Pro",
+      "codename": "M21T",
+      "model": "S41Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S41T",
+      "codename": "M21T",
+      "model": "S41Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S50",
       "codename": "t758_dg_m3t_n",
       "model": "S50"
@@ -375,9 +393,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S99",
+      "codename": "ZN136T",
+      "model": "S99"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Shoot_ 1",
       "codename": "Shoot_1",
       "model": "Shoot_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "P1",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "P1_2",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20",
+      "codename": "P2",
+      "model": "T20"
     },
     {
       "manufacturer": "",
@@ -408,6 +450,24 @@
       "market_name": "V20",
       "codename": "V20",
       "model": "V20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V20Pro",
+      "codename": "ZN133T",
+      "model": "V20Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30",
+      "codename": "M23",
+      "model": "V30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30Pro",
+      "codename": "M23",
+      "model": "V30"
     },
     {
       "manufacturer": "",
@@ -642,6 +702,12 @@
       "market_name": "X97Pro",
       "codename": "X97Pro",
       "model": "X97Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X98",
+      "codename": "1918",
+      "model": "X98"
     },
     {
       "manufacturer": "",

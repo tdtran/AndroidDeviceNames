@@ -15,12 +15,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R3",
-      "model": "R3"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Black Diamond",
       "codename": "bird77_a_cu_ics2",
       "model": "Essentielb-Black Diamond"
@@ -30,6 +24,12 @@
       "market_name": "Pyxis",
       "codename": "pyxis_boulanger",
       "model": "Essentielb-Pixis"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
     },
     {
       "manufacturer": "",

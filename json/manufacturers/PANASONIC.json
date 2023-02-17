@@ -165,18 +165,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R3",
-      "model": "2KTV-2TH"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "PANASONIC TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Asia",
       "codename": "globe_ap",
       "model": "PanasonicTV"
@@ -1434,6 +1422,18 @@
       "market_name": "Panasonic TV",
       "codename": "SW3H_ATV",
       "model": "GX655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "2KTV-2TH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "PANASONIC TV"
     },
     {
       "manufacturer": "",

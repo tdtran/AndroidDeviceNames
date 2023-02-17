@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2K PA Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4K Smart TV",
       "codename": "gangbyeon",
       "model": "4K AI Smart TV"
@@ -101,12 +107,6 @@
       "manufacturer": "",
       "market_name": "4K Smart TV",
       "codename": "pioneer",
-      "model": "4K PA Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4K Smart TV",
-      "codename": "pioneer",
       "model": "4K SA Smart TV"
     },
     {
@@ -114,12 +114,6 @@
       "market_name": "4K Smart TV",
       "codename": "pioneer",
       "model": "DAEWOO 4K SA Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4K Smart TV",
-      "codename": "pioneer",
-      "model": "HKC 4K SA Smart TV"
     },
     {
       "manufacturer": "",
@@ -402,6 +396,12 @@
       "market_name": "RCA RCT6S03W14",
       "codename": "RCT6S03W14",
       "model": "RCT6S03W14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA Reno Max",
+      "codename": "RCA_Reno_Max",
+      "model": "Reno Max"
     },
     {
       "manufacturer": "",
@@ -701,19 +701,7 @@
       "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "mateo",
-      "model": "2K US Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Smart TV",
-      "codename": "mateo",
       "model": "DAEWOO 2K SA Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Smart TV",
-      "codename": "mateo",
-      "model": "HKC 2K SA Smart TV"
     },
     {
       "manufacturer": "",

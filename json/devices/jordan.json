@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Aqua",
+    "market_name": "AQUA MatrixTV BE",
+    "codename": "jordan",
+    "model": "AQUA MatrixTV BE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "CANDY MatrixTV BE",
+    "codename": "jordan",
+    "model": "CANDY MatrixTV BE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV BE",
+    "codename": "jordan",
+    "model": "Haier MatrixTV BE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV BS",
+    "codename": "jordan",
+    "model": "Haier MatrixTV BS"
+  }
+]

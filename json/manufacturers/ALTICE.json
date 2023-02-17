@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S64",
+      "codename": "S64",
+      "model": "S64"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STARACTIVE",
       "codename": "STARACTIVE",
       "model": "STARACTIVE"

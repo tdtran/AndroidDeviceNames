@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GT_METAL_TAB10",
+      "codename": "GT_METAL_TAB10",
+      "model": "GT_METAL_TAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT_TAB10",
+      "codename": "GT_TAB10",
+      "model": "GT_TAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT_TAB7",
+      "codename": "GT_TAB7",
+      "model": "GT_TAB7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GT_Tab",
       "codename": "GT_Tab",
       "model": "GT_Tab"

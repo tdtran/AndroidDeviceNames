@@ -18,6 +18,18 @@
       "market_name": "KIVI",
       "codename": "komagome",
       "model": "KIVI 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIVI",
+      "codename": "stanford",
+      "model": "2K T56 Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIVI",
+      "codename": "zhongshan",
+      "model": "4K T31 Smart TV"
     }
   ]
 }

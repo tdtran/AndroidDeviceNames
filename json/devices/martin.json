@@ -13,6 +13,18 @@
   },
   {
     "manufacturer": "Blaupunkt",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "BLAUPUNKT EU 2K Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "BLAUPUNKT EU 2K Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
     "market_name": "Turkey",
     "codename": "martin",
     "model": "Blaupunkt 2K Android TV"
@@ -25,6 +37,12 @@
   },
   {
     "manufacturer": "CAIXUN",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "Smarttech Android Monitor"
+  },
+  {
+    "manufacturer": "CAIXUN",
     "market_name": "South of America",
     "codename": "martin",
     "model": "AiPlus2K"
@@ -34,6 +52,12 @@
     "market_name": "Argentina",
     "codename": "martin",
     "model": "Crown Mustang 2K Android TV"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "India/Srilanka/Bangladesh/GCC",
+    "codename": "martin",
+    "model": "COMPAQ ANDROID 2K TV"
   },
   {
     "manufacturer": "Continental Edison",
@@ -79,6 +103,12 @@
   },
   {
     "manufacturer": "JVC",
+    "market_name": "Australia",
+    "codename": "martin",
+    "model": "JVC 2K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
     "market_name": "Canada",
     "codename": "martin",
     "model": "Android TV"
@@ -88,6 +118,12 @@
     "market_name": "EU、UK、AP",
     "codename": "martin",
     "model": "JVC Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "South Africa",
+    "codename": "martin",
+    "model": "JVC Android TV SA"
   },
   {
     "manufacturer": "Kanji",
@@ -154,6 +190,18 @@
     "market_name": "EU、UK、AP",
     "codename": "martin",
     "model": "SPC Android TV"
+  },
+  {
+    "manufacturer": "SPC",
+    "market_name": "US",
+    "codename": "martin",
+    "model": "SPC Android Monitor"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "SHARP 2K EU Android TV"
   },
   {
     "manufacturer": "Smart-Tech TV",

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "N-one",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NpadAir",
+      "codename": "NpadAir",
+      "model": "NpadAir"
+    }
+  ]
+}

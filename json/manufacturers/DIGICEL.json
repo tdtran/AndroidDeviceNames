@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DL4_Plus",
+      "codename": "DL4_Plus",
+      "model": "DL4 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DL501",
       "codename": "DL501",
       "model": "DL501"

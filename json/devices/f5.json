@@ -42,6 +42,18 @@
     "model": "F5_19"
   },
   {
+    "manufacturer": "Conquest",
+    "market_name": "Conquest-F5",
+    "codename": "F5",
+    "model": "F5"
+  },
+  {
+    "manufacturer": "Conquest",
+    "market_name": "conquest-F5",
+    "codename": "F5",
+    "model": "F5"
+  },
+  {
     "manufacturer": "Galax",
     "market_name": "F5",
     "codename": "F5",

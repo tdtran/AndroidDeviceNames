@@ -28,6 +28,12 @@
     {
       "manufacturer": "",
       "market_name": "Thailand",
+      "codename": "guandu",
+      "model": "Nano Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thailand",
       "codename": "tamachi",
       "model": "Nano FHD Android TV"
     },

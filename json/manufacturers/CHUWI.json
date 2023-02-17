@@ -111,6 +111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HiPad_XPro",
+      "codename": "HiPad_XPro",
+      "model": "HiPad XPro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPad_XPro_EEA",
+      "codename": "HiPad_XPro_EEA",
+      "model": "HiPad XPro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HipadX",
       "codename": "HipadX",
       "model": "HiPad X"

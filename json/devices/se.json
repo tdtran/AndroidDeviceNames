@@ -4,5 +4,11 @@
     "market_name": "SE",
     "codename": "SE",
     "model": "SE"
+  },
+  {
+    "manufacturer": "Emporia",
+    "market_name": "SEi",
+    "codename": "SE",
+    "model": "SE"
   }
 ]

@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Doro Tablet",
+      "codename": "DTO0410",
+      "model": "Doro Tablet"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Liberto 810",
       "codename": "Liberto810",
       "model": "Doro Liberto 810"

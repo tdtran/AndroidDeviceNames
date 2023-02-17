@@ -885,6 +885,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G52L",
+      "codename": "G0820",
+      "model": "G52L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G52L",
+      "codename": "G0820WW",
+      "model": "G52L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G52L",
+      "codename": "G0830WW",
+      "model": "G52L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6",
       "codename": "G0210",
       "model": "G6"
@@ -1131,6 +1149,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J6L",
+      "codename": "J0110",
+      "model": "J6L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J6S",
       "codename": "J210EQ",
       "model": "J6S"
@@ -1311,6 +1335,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M8L",
+      "codename": "M0176_EX",
+      "model": "M8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L",
+      "codename": "M0176_ND",
+      "model": "M8L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8L 2022",
       "codename": "M0220WW",
       "model": "M8L 2022"
@@ -1319,6 +1355,24 @@
       "manufacturer": "",
       "market_name": "M8L 2022",
       "codename": "M0220WW_ND",
+      "model": "M8L 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L 2022",
+      "codename": "M0222",
+      "model": "M8L 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L 2022",
+      "codename": "M0222_EX",
+      "model": "M8L 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L 2022",
+      "codename": "M0222_IMT",
       "model": "M8L 2022"
     },
     {
@@ -1362,6 +1416,12 @@
       "market_name": "M8L_PLUS",
       "codename": "M0208WW",
       "model": "M8L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L_Plus",
+      "codename": "M0213_ND",
+      "model": "M8L Plus"
     },
     {
       "manufacturer": "",
@@ -2094,6 +2154,12 @@
       "market_name": "Vivo_One_Plus",
       "codename": "V0290WW",
       "model": "Vivo One Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X22",
+      "codename": "X0010WW",
+      "model": "X22"
     }
   ]
 }

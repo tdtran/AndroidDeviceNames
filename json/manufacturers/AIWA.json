@@ -100,18 +100,6 @@
     {
       "manufacturer": "",
       "market_name": "Android TV",
-      "codename": "R3",
-      "model": "R3"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
       "codename": "ikebukuro",
       "model": "AI PONT"
     },
@@ -138,6 +126,30 @@
       "market_name": "JA2-TBA1001",
       "codename": "JA2-TBA1001",
       "model": "JA2-TBA1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JA2-TBA1002",
+      "codename": "JA2-TBA1002",
+      "model": "JA2-TBA1002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -168,6 +180,18 @@
       "market_name": "TA10-SO10",
       "codename": "TA10-SO10",
       "model": "TA10-SO10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-1102",
+      "codename": "TAB-1102",
+      "model": "TAB-1102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-1103",
+      "codename": "TAB-1103",
+      "model": "TAB-1103"
     },
     {
       "manufacturer": "",

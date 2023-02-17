@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RD695T",
+      "codename": "RD695TE",
+      "model": "RD695TE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD695TE",
       "codename": "RD695TE",
       "model": "RD695TE"
@@ -168,6 +174,12 @@
       "market_name": "RD895TE",
       "codename": "RD895TE",
       "model": "RD895TE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "t8332_T10_64_k419",
+      "codename": "t8332_T10_64_k419",
+      "model": "t8332_l40mmeiw_T10_64_k419"
     }
   ]
 }

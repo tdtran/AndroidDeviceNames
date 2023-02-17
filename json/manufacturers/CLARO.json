@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B866V2",
+      "codename": "B866V2_V1_0_0",
+      "model": "B866V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CLARO BOX TV",
       "codename": "SEI810CCOA",
       "model": "CLARO BOX TV"

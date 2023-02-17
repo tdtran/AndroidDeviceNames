@@ -18,6 +18,12 @@
       "market_name": "Y101",
       "codename": "Y101",
       "model": "Y101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y102",
+      "codename": "Y102",
+      "model": "Y102"
     }
   ]
 }

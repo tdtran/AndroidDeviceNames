@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL201",
+    "codename": "Macau",
+    "model": "5133MP"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "Macau",
+    "model": "5033EP"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "Macau",
+    "model": "5033F"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "Macau",
+    "model": "5033FP"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "Macau",
+    "model": "5033MP"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "TCL201",
+    "codename": "Macau",
+    "model": "5033TP"
+  }
+]

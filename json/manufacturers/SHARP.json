@@ -837,6 +837,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS V6 5G",
+      "codename": "Levin",
+      "model": "SH-C05"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS Xx",
       "codename": "SG404SH",
       "model": "404SH"
@@ -1151,7 +1157,37 @@
       "manufacturer": "",
       "market_name": "AQUOS sense6s",
       "codename": "Nee",
+      "model": "SH-M19s-y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense6s",
+      "codename": "Nee",
       "model": "SH-RM19s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense7",
+      "codename": "IVR",
+      "model": "SHG10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense7",
+      "codename": "Rakan",
+      "model": "SH-M24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense7",
+      "codename": "SH-53C",
+      "model": "SH-53C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense7 plus",
+      "codename": "Quattro",
+      "model": "A208SH"
     },
     {
       "manufacturer": "",
@@ -1182,6 +1218,12 @@
       "market_name": "AQUOS wish",
       "codename": "YLI",
       "model": "SHG06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish2",
+      "codename": "ANK",
+      "model": "SHG08"
     },
     {
       "manufacturer": "",
@@ -1314,6 +1356,12 @@
       "market_name": "B10",
       "codename": "SH-A01",
       "model": "SH-A01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BASIO active",
+      "codename": "DQO",
+      "model": "SHG09"
     },
     {
       "manufacturer": "",
@@ -1473,6 +1521,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EG1",
+      "codename": "namba",
+      "model": "AQUOS-TVH22A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG1",
+      "codename": "namba",
+      "model": "AQUOS-TVP22A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG1",
+      "codename": "namba",
+      "model": "AQUOS-TVX22A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EQ3/DN5",
       "codename": "banqiao",
       "model": "AQUOS-TVE21A"
@@ -1494,6 +1560,18 @@
       "market_name": "EU",
       "codename": "sindang",
       "model": "AQUOS_TVE19A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "guandu",
+      "model": "SHARP 4K EU Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "martin",
+      "model": "SHARP 2K EU Android TV"
     },
     {
       "manufacturer": "",
@@ -1947,6 +2025,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Leitz Phone 2",
+      "codename": "MinevaL",
+      "model": "LP-02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Leitz Phone1",
       "codename": "JudauL",
       "model": "LP-01"
@@ -2010,6 +2094,12 @@
       "market_name": "Q-pot.Phone SH-04D",
       "codename": "SH04D",
       "model": "SH-04D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROUVO V",
+      "codename": "STTM21VAPP",
+      "model": "STTM21VAPP"
     },
     {
       "manufacturer": "",
@@ -2430,6 +2520,12 @@
       "market_name": "dtab d-41A",
       "codename": "d-41A",
       "model": "d-41A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "dtab d-51C",
+      "codename": "d-51C",
+      "model": "d-51C"
     },
     {
       "manufacturer": "",

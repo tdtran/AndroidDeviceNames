@@ -126,6 +126,12 @@
       "market_name": "MID_799IPS",
       "codename": "MID_799IPS",
       "model": "MID_799IPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_899IPS",
+      "codename": "MID_899IPS",
+      "model": "MID_899IPS"
     }
   ]
 }

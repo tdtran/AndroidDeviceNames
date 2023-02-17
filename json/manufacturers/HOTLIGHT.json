@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HotLight",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TP1003",
+      "codename": "TP1003",
+      "model": "TP1003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP1003",
+      "codename": "TP1003_EEA",
+      "model": "TP1003"
+    }
+  ]
+}

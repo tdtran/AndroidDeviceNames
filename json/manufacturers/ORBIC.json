@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tT1003R",
+      "codename": "VC_Device",
+      "model": "RC10RLT-RW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Magic",
       "codename": "R678EL",
       "model": "R678EL"
@@ -52,6 +58,12 @@
     {
       "manufacturer": "",
       "market_name": "RC8L1T-RW",
+      "codename": "RC8L1T-RW",
+      "model": "RC8L1T-RW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RC8L1T-RW1",
       "codename": "RC8L1T-RW",
       "model": "RC8L1T-RW"
     },

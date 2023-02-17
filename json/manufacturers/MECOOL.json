@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KD5",
+      "codename": "BOS",
+      "model": "TV Stick"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM1",
       "codename": "KM1",
       "model": "KM1"
@@ -42,6 +48,12 @@
       "market_name": "KM2",
       "codename": "LAS",
       "model": "LEAP-S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM2 PLUS",
+      "codename": "YYC",
+      "model": "4K Android TV Box"
     },
     {
       "manufacturer": "",

@@ -7,51 +7,27 @@
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "50A7H",
-    "codename": "songshan",
-    "model": "Smart TV"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "A36",
+    "market_name": "2K TV",
     "codename": "songshan",
     "model": "2K Smart TV"
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "A55",
+    "market_name": "4K TV",
     "codename": "songshan",
     "model": "Smart TV"
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "A65",
-    "codename": "songshan",
-    "model": "SmartTV 4K FFM"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
-    "codename": "songshan",
-    "model": "SmartTV 4K FFM"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "U60H",
-    "codename": "songshan",
-    "model": "SmartTV 4K FFM"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "U6H",
-    "codename": "songshan",
-    "model": "SmartTV 4K FFM"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "U6H/A6H/U6G1",
+    "market_name": "4K TV",
     "codename": "songshan",
     "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "4K TV",
+    "codename": "songshan",
+    "model": "SmartTV 4K FFM"
   },
   {
     "manufacturer": "Hisense",
@@ -91,33 +67,21 @@
   },
   {
     "manufacturer": "Toshiba",
-    "market_name": "C350LK",
-    "codename": "songshan",
-    "model": "Toshiba TV"
-  },
-  {
-    "manufacturer": "Toshiba",
-    "market_name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
-    "codename": "songshan",
-    "model": "Toshiba TV"
-  },
-  {
-    "manufacturer": "Toshiba",
-    "market_name": "M550LK",
-    "codename": "songshan",
-    "model": "Toshiba TV with MIC"
-  },
-  {
-    "manufacturer": "Toshiba",
-    "market_name": "M550LP/M550LI",
-    "codename": "songshan",
-    "model": "Toshiba TV with MIC"
-  },
-  {
-    "manufacturer": "Toshiba",
-    "market_name": "V35LK",
+    "market_name": "2K TV",
     "codename": "songshan",
     "model": "2K Toshiba TV"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "4K TV",
+    "codename": "songshan",
+    "model": "Toshiba TV"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "4K TV",
+    "codename": "songshan",
+    "model": "Toshiba TV with MIC"
   },
   {
     "manufacturer": "Vu Televisions",

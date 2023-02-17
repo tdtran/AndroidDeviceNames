@@ -81,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GHS55",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tablet_PC",
       "codename": "Tablet_PC",
       "model": "Tablet_PC"

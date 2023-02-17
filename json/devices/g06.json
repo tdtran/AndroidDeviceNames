@@ -4,5 +4,17 @@
     "market_name": "g06+",
     "codename": "g06",
     "model": "g06"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "G06_2K_GB",
+    "codename": "G06",
+    "model": "Smart TV"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "G06_2K_US",
+    "codename": "G06",
+    "model": "Smart TV"
   }
 ]

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G800",
+      "codename": "G800",
+      "model": "G800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K749",
       "codename": "K749",
       "model": "K749"

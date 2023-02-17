@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G Pro 3S",
+      "codename": "Multilaser_G_Pro_3S",
+      "model": "Multilaser_G_Pro_3S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GMax 2 Payjoy",
       "codename": "GMAX_2_Payjoy",
       "model": "Multilaser_GMAX_2_Payjoy"
@@ -346,6 +352,12 @@
     {
       "manufacturer": "",
       "market_name": "M7 WIFI",
+      "codename": "ML_JI0S_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIFI",
       "codename": "ML_JI2D_M7_WIFI",
       "model": "M7_WIFI"
     },
@@ -359,6 +371,12 @@
       "manufacturer": "",
       "market_name": "M7 WIFI",
       "codename": "ML_SO0E_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIFI",
+      "codename": "ML_SO0P_M7_WIFI",
       "model": "M7_WIFI"
     },
     {
@@ -510,6 +528,12 @@
       "market_name": "M7_3G_A10",
       "codename": "ML_WI3A_M7_3G_A10",
       "model": "M7_3G_A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7_WIFI",
+      "codename": "ML_DI01_M7_WIFI",
+      "model": "M7_WIFI"
     },
     {
       "manufacturer": "",
@@ -1002,6 +1026,12 @@
       "market_name": "Multilaser H",
       "codename": "Multilaser_H",
       "model": "Multilaser H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser H 5G",
+      "codename": "Multilaser_H_5G",
+      "model": "Multilaser_H_5G"
     },
     {
       "manufacturer": "",

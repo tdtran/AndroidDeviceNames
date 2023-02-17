@@ -36,6 +36,18 @@
       "market_name": "Smart TV",
       "codename": "mateo",
       "model": "2K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "X7",
+      "model": "X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X9",
+      "codename": "X9",
+      "model": "X9"
     }
   ]
 }

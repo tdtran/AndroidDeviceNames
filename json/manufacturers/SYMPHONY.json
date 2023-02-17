@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Atom3",
+      "codename": "Atom3",
+      "model": "Atom3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E90",
       "codename": "E90",
       "model": "E90"
@@ -636,6 +642,12 @@
       "market_name": "i80",
       "codename": "i80",
       "model": "i80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i85",
+      "codename": "i85",
+      "model": "i85"
     },
     {
       "manufacturer": "",

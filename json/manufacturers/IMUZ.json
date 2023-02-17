@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IMH101",
+      "codename": "IMH101",
+      "model": "IMH101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L101",
       "codename": "G10",
       "model": "L101"

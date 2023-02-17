@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Fpad2",
+      "codename": "Fpad2",
+      "model": "Fpad2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H3",
+      "codename": "Hpad3",
+      "model": "H3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HPAD1A",
+      "codename": "HPAD1A",
+      "model": "H1A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hpad1",
       "codename": "Hpad1",
       "model": "Hpad1"

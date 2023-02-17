@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "huangshan_emV",
+      "codename": "huangshan",
+      "model": "VU TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "xiaoyushan-vu",
       "codename": "xiaoyushan",
       "model": "HiSmartTV A4"

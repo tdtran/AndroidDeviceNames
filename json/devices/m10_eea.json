@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Pritom",
+    "market_name": "M10_B01_EEA",
+    "codename": "M10_EEA",
+    "model": "M10"
+  },
+  {
+    "manufacturer": "Pritom",
     "market_name": "PRITOM",
     "codename": "M10_EEA",
     "model": "M10_EEA"

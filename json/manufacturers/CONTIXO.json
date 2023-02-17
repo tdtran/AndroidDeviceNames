@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K103",
+      "codename": "K103",
+      "model": "K103"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K4",
       "codename": "K4",
       "model": "K4"
@@ -102,6 +108,12 @@
       "market_name": "V90",
       "codename": "V90",
       "model": "V90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V9A",
+      "codename": "V9A",
+      "model": "V9A"
     },
     {
       "manufacturer": "",

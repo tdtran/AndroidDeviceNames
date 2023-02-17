@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 303",
+    "codename": "Kona",
+    "model": "5131G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Kona",
+    "model": "5031A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Kona",
+    "model": "5031D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Kona",
+    "model": "5031G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1B",
+    "codename": "Kona",
+    "model": "5131E"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "TCL 303",
+    "codename": "Kona",
+    "model": "5131A"
+  }
+]

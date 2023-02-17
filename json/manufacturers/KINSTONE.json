@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KST102SA-EEA",
+      "codename": "KST102SA-EEA",
+      "model": "KST102SA-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KST102SF",
+      "codename": "KST102SF",
+      "model": "KST102SF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KST102SF_EA",
+      "codename": "KST102SF_EA",
+      "model": "KST102SF_EA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KST103RC",
       "codename": "KST103RC",
       "model": "KST103RC"

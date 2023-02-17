@@ -171,6 +171,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACTAB10KB23",
+      "codename": "ACTAB10KB23",
+      "model": "ACTAB10KB23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACTAB1123",
+      "codename": "ACTAB1123",
+      "model": "ACTAB1123"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ACTAB1422",
       "codename": "ACTAB1422",
       "model": "ACTAB1422"
@@ -180,6 +192,12 @@
       "market_name": "ACTAB721",
       "codename": "ACTAB721",
       "model": "ACTAB721"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACTAB723",
+      "codename": "ACTAB723",
+      "model": "ACTAB723"
     },
     {
       "manufacturer": "",
@@ -342,18 +360,6 @@
       "market_name": "Android TV",
       "codename": "R2",
       "model": "ATV R2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R3",
-      "model": "R3"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
     },
     {
       "manufacturer": "",
@@ -1242,6 +1248,18 @@
       "market_name": "Picasso",
       "codename": "ventana",
       "model": "TPA60W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
     },
     {
       "manufacturer": "",

@@ -45,6 +45,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I11_Plus",
+      "codename": "I11_Plus",
+      "model": "I11_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I9_Plus",
+      "codename": "I9_Plus_WIFI_EEA",
+      "model": "I9_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I9_Plus",
+      "codename": "I9_Plus_WIFI_ROW",
+      "model": "I9_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I9_Plus_EEA",
       "codename": "I9_Plus_EEA",
       "model": "I9_Plus_EEA"

@@ -6,6 +6,12 @@
     "model": "TV Box"
   },
   {
+    "manufacturer": "Iskon",
+    "market_name": "Iskon.Play TV",
+    "codename": "HY44G",
+    "model": "Iskon.Play TV"
+  },
+  {
     "manufacturer": "Magenta TV",
     "market_name": "MagentaTV ONE",
     "codename": "HY44G",

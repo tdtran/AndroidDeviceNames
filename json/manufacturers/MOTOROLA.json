@@ -364,12 +364,6 @@
     {
       "manufacturer": "",
       "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
       "codename": "redwood",
       "model": "AI PONT"
     },
@@ -921,6 +915,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo K14 Plus",
+      "codename": "cyprus64",
+      "model": "Lenovo K14 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo K14 Plus",
+      "codename": "cyprus64",
+      "model": "cyprus64"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo XT2081-4",
       "codename": "guam",
       "model": "Lenovo XT2081-4"
@@ -940,8 +946,20 @@
     {
       "manufacturer": "",
       "market_name": "MOTOROLA",
+      "codename": "stanford",
+      "model": "Smart FHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOROLA",
       "codename": "zhongshan",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOROLA",
+      "codename": "zhongshan",
+      "model": "Smart UHD TV"
     },
     {
       "manufacturer": "",
@@ -2151,6 +2169,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RAZR D1",
       "codename": "hawk35_umts",
       "model": "XT914"
@@ -2241,15 +2265,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TBD",
-      "codename": "cyprus64",
-      "model": "Lenovo K14 Plus"
+      "market_name": "ThinkPhone by Motorola",
+      "codename": "bronco",
+      "model": "ThinkPhone by motorola"
     },
     {
       "manufacturer": "",
-      "market_name": "TBD",
-      "codename": "cyprus64",
-      "model": "cyprus64"
+      "market_name": "ThinkPhone by Motorola",
+      "codename": "bronco",
+      "model": "motorola edge 30 pro"
     },
     {
       "manufacturer": "",
@@ -2325,6 +2349,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto G53",
+      "codename": "penang",
+      "model": "XT2335-3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto P30 NOTE",
       "codename": "chef",
       "model": "XT1942-1"
@@ -2334,6 +2364,12 @@
       "market_name": "moto X30 屏下摄像版",
       "codename": "hiphid",
       "model": "XT2201-6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto X40",
+      "codename": "rtwo",
+      "model": "XT2301-5"
     },
     {
       "manufacturer": "",
@@ -3237,6 +3273,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g52j 5G",
+      "codename": "cypfr",
+      "model": "moto g(50)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g52j 5G",
+      "codename": "cypfr",
+      "model": "moto g52j 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g53 5G",
+      "codename": "penang",
+      "model": "moto g stylus 5G (2022)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g53 5G",
+      "codename": "penang",
+      "model": "moto g53 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g6 play",
       "codename": "jeter",
       "model": "Moto G Play"
@@ -3270,6 +3330,30 @@
       "market_name": "moto g71 5G",
       "codename": "corfur",
       "model": "moto g71 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g72",
+      "codename": "vicky",
+      "model": "moto g(50) 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g72",
+      "codename": "vicky",
+      "model": "moto g72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g73 5G",
+      "codename": "devonf",
+      "model": "moto g(50) 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g73 5G",
+      "codename": "devonf",
+      "model": "moto g73 5G"
     },
     {
       "manufacturer": "",
@@ -3654,6 +3738,24 @@
       "market_name": "motorola razr (2020)",
       "codename": "smith",
       "model": "motorola razr (2020)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 2022",
+      "codename": "oneli",
+      "model": "XT2251-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 2022",
+      "codename": "oneli",
+      "model": "motorola edge 30 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 2022",
+      "codename": "oneli",
+      "model": "motorola razr 2022"
     },
     {
       "manufacturer": "",

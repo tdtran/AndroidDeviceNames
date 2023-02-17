@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Iskon.Play TV",
+      "codename": "HY44G",
+      "model": "Iskon.Play TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Iskon.TV",
       "codename": "wh220_iskon",
       "model": "Iskon.TV"

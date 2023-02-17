@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Magic_Q1",
+      "codename": "Magic_Q1",
+      "model": "Magic Q1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q101_EEA",
       "codename": "Q101_EEA",
       "model": "Q101_EEA"

@@ -57,9 +57,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
+      "market_name": "Australia",
+      "codename": "martin",
+      "model": "JVC 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -84,6 +84,12 @@
       "market_name": "Dixons",
       "codename": "sadang",
       "model": "UK 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EUROPE",
+      "codename": "guandu",
+      "model": "JVC Android TV"
     },
     {
       "manufacturer": "",
@@ -126,6 +132,24 @@
       "market_name": "JVC",
       "codename": "bruno",
       "model": "JVC2KAndroid TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "expo",
+      "model": "JVCPA 4KAndroid TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "expo",
+      "model": "JVCSA 4KGoogle TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "kaitak",
+      "model": "JVCPA 4KAndroid TV"
     },
     {
       "manufacturer": "",
@@ -267,9 +291,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SA",
-      "codename": "stanford",
-      "model": "2K SMART TV"
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
     },
     {
       "manufacturer": "",
@@ -282,6 +306,12 @@
       "market_name": "Smart TV",
       "codename": "osaki",
       "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South Africa",
+      "codename": "martin",
+      "model": "JVC Android TV SA"
     },
     {
       "manufacturer": "",

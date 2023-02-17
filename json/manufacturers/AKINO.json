@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "fushan_akino",
+      "codename": "hamamatsucho",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "laoshan-Akino",
       "codename": "laoshan",
       "model": "HAT4KDTV"

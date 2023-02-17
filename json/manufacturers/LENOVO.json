@@ -3165,6 +3165,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M9",
+      "codename": "TB310FU",
+      "model": "TB310FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M9",
+      "codename": "TB310XU",
+      "model": "TB310XU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab P10",
       "codename": "X705F",
       "model": "Lenovo TB-X705F"
@@ -4533,6 +4545,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "d-52C",
+      "codename": "d-52C",
+      "model": "d-52C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ideatv S52",
       "codename": "ideatv_S52",
       "model": "ideatv S52"
@@ -4590,6 +4608,12 @@
       "market_name": "小新 Pad GT",
       "codename": "TB-J616N",
       "model": "Lenovo TB-J616N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "小新Pad Plus 2023",
+      "codename": "TB350FU",
+      "model": "TB350FU"
     },
     {
       "manufacturer": "",

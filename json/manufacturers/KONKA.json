@@ -3,15 +3,15 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Customer need debug",
-      "codename": "KC516",
-      "model": "KC516"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Cygnus",
       "codename": "Cygnus",
       "model": "Cygnus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KC516",
+      "codename": "KC516",
+      "model": "KC516"
     },
     {
       "manufacturer": "",

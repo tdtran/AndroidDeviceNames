@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel Watch",
+    "codename": "r11",
+    "model": "Google Pixel Watch"
+  },
+  {
     "manufacturer": "Oppo",
     "market_name": "R11",
     "codename": "R11",

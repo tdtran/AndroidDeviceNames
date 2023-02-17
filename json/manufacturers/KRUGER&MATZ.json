@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eagle 806",
+      "codename": "Eagle_806",
+      "model": "Eagle 806"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Eagle_702",
       "codename": "Eagle_702",
       "model": "KM0702"

@@ -18,6 +18,18 @@
       "market_name": "SmartPad_K7",
       "codename": "SmartPad_K7",
       "model": "SmartPad_K7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartPad_K7_EU",
+      "codename": "SmartPad_K7_EU",
+      "model": "SmartPad_K7_EU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartPad_T10_EU",
+      "codename": "SmartPad_T10_EU",
+      "model": "SmartPad_T10_EU"
     }
   ]
 }

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KIDS720",
+      "codename": "KIDS720",
+      "model": "KIDS720"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TOPELOTEK",
       "codename": "KIDS08",
       "model": "KIDS08"

@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "EcoTV Plus A",
+    "codename": "hongkong",
+    "model": "EcoTV Plus A"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "EcoTV Plus C",
+    "codename": "hongkong",
+    "model": "EcoTV Plus C"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "EcoTV Plus D",
+    "codename": "hongkong",
+    "model": "EcoTV Plus D"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "SA",
+    "codename": "hongkong",
+    "model": "EcoTV Plus"
+  }
+]

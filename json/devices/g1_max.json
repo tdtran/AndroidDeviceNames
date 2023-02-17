@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "G1 Max",
+    "codename": "G1_Max",
+    "model": "MP18"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "G1 Max EEA",
+    "codename": "G1_Max",
+    "model": "MP18"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "G1 Max RU",
+    "codename": "G1_Max",
+    "model": "MP18"
+  }
+]

@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philco",
+      "codename": "stanford",
+      "model": "PHILCO SMART"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philco Smart TV",
       "codename": "sunnyvale",
       "model": "Philco Smart TV"

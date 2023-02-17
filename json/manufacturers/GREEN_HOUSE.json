@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GREEN HOUSE TV",
       "codename": "SW6H",
       "model": "GREEN HOUSE TV"

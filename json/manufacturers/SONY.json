@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA VH22",
+      "codename": "BRAVIA_VH22",
+      "model": "BRAVIA 4K VH22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA_VH21",
       "codename": "BRAVIA_VH21",
       "model": "BRAVIA 4K VH21"
@@ -171,6 +177,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA_VU3.1",
+      "codename": "BRAVIA_VU31_2K",
+      "model": "BRAVIA VU31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA_VU3.1",
+      "codename": "BRAVIA_VU31_4K",
+      "model": "BRAVIA VU31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ericsson Live with Walkman",
       "codename": "WT19a",
       "model": "WT19a"
@@ -198,6 +216,12 @@
       "market_name": "NSZGS7",
       "codename": "NSZGS7",
       "model": "NSZ-GS7/GX70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NW-A300Series",
+      "codename": "icx1301",
+      "model": "NW-A300Series"
     },
     {
       "manufacturer": "",
@@ -240,6 +264,12 @@
       "market_name": "NW-ZX2",
       "codename": "icx1265",
       "model": "WALKMAN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NW-ZX700Series",
+      "codename": "icx1302",
+      "model": "NW-ZX700Series"
     },
     {
       "manufacturer": "",
@@ -738,6 +768,48 @@
       "market_name": "Xperia 5 III",
       "codename": "XQ-BQ72",
       "model": "XQ-BQ72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 IV",
+      "codename": "A204SO",
+      "model": "A204SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 IV",
+      "codename": "SO-54C",
+      "model": "SO-54C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 IV",
+      "codename": "SOG09",
+      "model": "SOG09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 IV",
+      "codename": "XQ-CQ44",
+      "model": "XQ-CQ44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 IV",
+      "codename": "XQ-CQ54",
+      "model": "XQ-CQ54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 IV",
+      "codename": "XQ-CQ62",
+      "model": "XQ-CQ62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 IV",
+      "codename": "XQ-CQ72",
+      "model": "XQ-CQ72"
     },
     {
       "manufacturer": "",

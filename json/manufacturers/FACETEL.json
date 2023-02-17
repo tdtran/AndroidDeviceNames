@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q10-Pro",
+      "codename": "Q10-Pro",
+      "model": "Q10-Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q10_EEA",
       "codename": "Q10_EEA",
       "model": "Q10_EEA"

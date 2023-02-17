@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FlowBox-F2",
+      "codename": "HP44H",
+      "model": "FlowBox-F2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FlowSoundBox",
+      "codename": "m393gena_teco",
+      "model": "FlowSoundBox"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flowbox-F1",
       "codename": "HP40A2",
       "model": "FlowBox-F1"

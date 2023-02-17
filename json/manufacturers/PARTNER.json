@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PartnerTV-Box",
+      "codename": "uzw4054ptn",
+      "model": "PartnerTV-Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Partner_Evolution",
       "codename": "Partner_Evolution",
       "model": "Partner Evolution"

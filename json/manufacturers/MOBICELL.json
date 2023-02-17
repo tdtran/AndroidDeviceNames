@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EPIC PRO_2",
+      "codename": "EPIC_PRO_2",
+      "model": "EPIC PRO_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EPIC_1",
       "codename": "EPIC_1",
       "model": "EPIC_1"
@@ -495,6 +501,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R9 Pro",
+      "codename": "R9_Pro",
+      "model": "R9_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R9_LITE",
       "codename": "R9_LITE",
       "model": "R9 LITE"
@@ -705,6 +717,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VX16",
+      "codename": "VX16",
+      "model": "VX16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX18",
+      "codename": "VX18",
+      "model": "VX18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX18_1",
+      "codename": "VX18_1",
+      "model": "VX18_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX19",
+      "codename": "VX19",
+      "model": "VX19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX20",
+      "codename": "VX20",
+      "model": "VX20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X1",
       "codename": "X1",
       "model": "X1"
@@ -714,6 +756,18 @@
       "market_name": "X4",
       "codename": "X4",
       "model": "X4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X6",
+      "codename": "X6",
+      "model": "X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X9",
+      "codename": "X9",
+      "model": "X9"
     },
     {
       "manufacturer": "",

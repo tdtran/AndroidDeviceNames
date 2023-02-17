@@ -15,7 +15,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
+      "market_name": "R3",
       "codename": "R3",
       "model": "R3"
     },
@@ -48,6 +48,18 @@
       "market_name": "SingerTV",
       "codename": "shibuya",
       "model": "SingerTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     }
   ]
 }

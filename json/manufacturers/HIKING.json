@@ -51,6 +51,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A40",
+      "codename": "A40",
+      "model": "A40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A42",
+      "codename": "A42",
+      "model": "A42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55",
+      "codename": "A55",
+      "model": "A55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fun5",
       "codename": "Fun5",
       "model": "Fun5"

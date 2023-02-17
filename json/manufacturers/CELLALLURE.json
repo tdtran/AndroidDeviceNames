@@ -36,6 +36,12 @@
       "market_name": "Fashion_C",
       "codename": "Fashion_C",
       "model": "Fashion C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Miracle_Y",
+      "codename": "Miracle_Y",
+      "model": "Miracle_Y"
     }
   ]
 }

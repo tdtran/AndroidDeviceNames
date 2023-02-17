@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "FPT Telecom",
+    "market_name": "FPT Play Box S",
+    "codename": "SEI610FPT",
+    "model": "FPT Play Box S"
+  },
+  {
+    "manufacturer": "FPT Telecom",
     "market_name": "SEI610FPT",
     "codename": "SEI610FPT",
     "model": "FPT Play Box S"

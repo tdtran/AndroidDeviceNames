@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TRANSVISION-Xstream",
+      "codename": "SEI500TR",
+      "model": "TRANSVISION-Xstream"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Transvision",
       "codename": "USB6_IR80",
       "model": "TRANSVISION-iTV"

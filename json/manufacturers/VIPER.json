@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SZ11MK1",
+      "codename": "SZ11MK1",
+      "model": "SZ11MK1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIPER-Z08MK",
       "codename": "VIPER-Z08MK",
       "model": "Z08MK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z11MK",
+      "codename": "Z11MK",
+      "model": "Z11MK"
     }
   ]
 }

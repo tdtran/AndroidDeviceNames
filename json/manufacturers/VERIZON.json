@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "StreamTV",
+      "codename": "f354",
+      "model": "Stream TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Visible Midnight",
       "codename": "WTVIS01",
       "model": "WTVIS01"

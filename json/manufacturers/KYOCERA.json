@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android One S10",
+      "codename": "S10-KC_sprout",
+      "model": "S10-KC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android One S2",
       "codename": "S2_sprout",
       "model": "S2"
@@ -150,6 +156,12 @@
       "market_name": "DIGNO SX2",
       "codename": "KY21L-ST100",
       "model": "KC-S302"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO SX3",
+      "codename": "KY22L-ST200",
+      "model": "KYG02"
     },
     {
       "manufacturer": "",

@@ -6,9 +6,27 @@
     "model": "Luna"
   },
   {
+    "manufacturer": "IRIS_OHYAMA",
+    "market_name": "TE082M2",
+    "codename": "Luna",
+    "model": "TE082M2"
+  },
+  {
     "manufacturer": "Stylo",
     "market_name": "Luna",
     "codename": "Luna",
     "model": "Luna"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 8",
+    "codename": "Luna",
+    "model": "9132G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 8",
+    "codename": "Luna",
+    "model": "9132X"
   }
 ]

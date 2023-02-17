@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer Construction",
+      "codename": "Hammer_Construction",
+      "model": "Hammer_Construction"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Energy 2 2022",
       "codename": "Energy_2_2022",
       "model": "Hammer_Energy_2_2022"

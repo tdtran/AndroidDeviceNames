@@ -405,6 +405,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LUNAR",
+      "codename": "LUNAR_EEA",
+      "model": "LUNAR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L_IXIR_TAB_1047HD",
       "codename": "L_IXIR_TAB_1047HD",
       "model": "L_IXIR_TAB_1047HD"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EUROPE",
+      "codename": "guandu",
+      "model": "TURBO-X Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "TURBO-X Android TV"

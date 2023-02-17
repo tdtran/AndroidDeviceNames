@@ -73,9 +73,9 @@
   },
   {
     "manufacturer": "Haier",
-    "market_name": "Haier 2K android TV",
+    "market_name": "Haier 2K Android TV",
     "codename": "nippori",
-    "model": "haierATVnippori"
+    "model": "Haier 2K Android TV"
   },
   {
     "manufacturer": "Haier",
@@ -85,15 +85,15 @@
   },
   {
     "manufacturer": "Haier",
-    "market_name": "LATAM",
-    "codename": "nippori",
-    "model": "Haier 2K Android TV"
-  },
-  {
-    "manufacturer": "Haier",
     "market_name": "PA",
     "codename": "nippori",
     "model": "Haitech Android TV 2K"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "haierATVnippori",
+    "codename": "nippori",
+    "model": "haierATVnippori"
   },
   {
     "manufacturer": "Hyundai",

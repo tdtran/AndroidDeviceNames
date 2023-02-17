@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A13 Pro Max 5G EEA",
+      "codename": "A13_Pro_Max_5G",
+      "model": "MP04"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A13S",
       "codename": "A13S",
       "model": "MP05"
@@ -233,6 +239,12 @@
       "manufacturer": "",
       "market_name": "AblePad_Pro",
       "codename": "AblePad_Pro",
+      "model": "MT04"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AblePad_Pro-EEA",
+      "codename": "AblePad_Pro-EEA",
       "model": "MT04"
     },
     {
@@ -405,6 +417,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C1 Max",
+      "codename": "C1_Max",
+      "model": "MP17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1 Max EEA",
+      "codename": "C1_Max",
+      "model": "MP17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F1",
       "codename": "F1",
       "model": "F1"
@@ -462,6 +486,30 @@
       "market_name": "F3_5G",
       "codename": "F3_5G",
       "model": "MP13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F3_Pro_5G",
+      "codename": "F3_Pro_5G",
+      "model": "MP19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1 Max",
+      "codename": "G1_Max",
+      "model": "MP18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1 Max EEA",
+      "codename": "G1_Max",
+      "model": "MP18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1 Max RU",
+      "codename": "G1_Max",
+      "model": "MP18"
     },
     {
       "manufacturer": "",
@@ -621,6 +669,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UMIDIGI A13 Pro Max",
+      "codename": "UMIDIGI_A13_Pro_Max",
+      "model": "MP16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI A13 Pro Max EEA",
+      "codename": "UMIDIGI_A13_Pro_Max",
+      "model": "MP16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UMIDIGI C1",
       "codename": "UMIDIGI_C1",
       "model": "MP07"
@@ -630,6 +690,18 @@
       "market_name": "UMIDIGI C1 EEA",
       "codename": "UMIDIGI_C1",
       "model": "MP07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI F3 Pro",
+      "codename": "UMIDIGI_F3_Pro",
+      "model": "MP10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI F3 Pro EEA",
+      "codename": "UMIDIGI_F3_Pro",
+      "model": "MP10"
     },
     {
       "manufacturer": "",

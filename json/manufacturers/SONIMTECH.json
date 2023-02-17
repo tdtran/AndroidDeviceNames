@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XP10",
+      "codename": "XP9900",
+      "model": "XP9900"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XP6",
       "codename": "XP6700",
       "model": "Ex-Handy 209"

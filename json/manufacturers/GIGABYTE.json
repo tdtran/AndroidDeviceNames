@@ -243,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "huangshan_gigabyte",
+      "codename": "huangshan",
+      "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "mexico",
       "codename": "Lanix",
       "model": "iliumPAD"

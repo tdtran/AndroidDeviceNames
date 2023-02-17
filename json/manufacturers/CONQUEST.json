@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CONQUEST-S23",
+      "codename": "CONQUEST-S23",
+      "model": "CONQUEST-S23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Conquest-F5",
+      "codename": "F5",
+      "model": "F5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S11",
       "codename": "conquest-S11",
       "model": "S11"
@@ -30,6 +42,12 @@
       "market_name": "S21_RU",
       "codename": "S21",
       "model": "CONQUEST S21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "conquest-F5",
+      "codename": "F5",
+      "model": "F5"
     },
     {
       "manufacturer": "",

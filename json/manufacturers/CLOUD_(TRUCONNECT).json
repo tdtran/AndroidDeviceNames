@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Stratus_C7",
+      "codename": "Stratus_C7",
+      "model": "Stratus_C7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sunshine_T1",
       "codename": "Sunshine_T1",
       "model": "Sunshine_T1"

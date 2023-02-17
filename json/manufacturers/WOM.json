@@ -6,6 +6,12 @@
       "market_name": "SEI500W",
       "codename": "SEI500W",
       "model": "WOM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WOM",
+      "codename": "SEI500W",
+      "model": "WOM"
     }
   ]
 }

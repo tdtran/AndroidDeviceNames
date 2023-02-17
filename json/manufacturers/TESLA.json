@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "guandu",
+      "model": "Tesla Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Explr 9",
       "codename": "Explr_9",
       "model": "Explr 9"
@@ -78,6 +84,12 @@
       "market_name": "TESLA 4K SMART TV",
       "codename": "SW6H",
       "model": "TESLA 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TESLA 4K SMART TV FF",
+      "codename": "SW6H",
+      "model": "TESLA 4K SMART TV FF"
     },
     {
       "manufacturer": "",

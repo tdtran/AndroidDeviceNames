@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "O-0202",
+      "codename": "Orca_Display_2",
+      "model": "O-0202"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OR-50UX400S",
       "codename": "samseong",
       "model": "AI PONT"

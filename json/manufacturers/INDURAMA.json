@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "INDURAMA",
+      "codename": "stanford",
+      "model": "INDURAMA SMART TV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INDURAMA",
+      "codename": "zhongshan",
+      "model": "INDURAMA SMART TV 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Indurama",
       "codename": "stanford",
       "model": "CSV2K"

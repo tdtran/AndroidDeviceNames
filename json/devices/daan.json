@@ -22,5 +22,11 @@
     "market_name": "Haier Android TV PRO",
     "codename": "daan",
     "model": "Haier Android TV PRO"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier Android TV PRO ISDB",
+    "codename": "daan",
+    "model": "Haier Android TV PRO ISDB"
   }
 ]

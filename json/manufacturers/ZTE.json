@@ -5013,6 +5013,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NX729J",
+      "codename": "NX729J-UN",
+      "model": "NX729J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NX907J",
       "codename": "NX907J",
       "model": "NX907J"
@@ -9282,6 +9288,12 @@
       "market_name": "ZTE Overture 3",
       "codename": "jeff",
       "model": "Z851"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE T0801\t\t",
+      "codename": "P876T01J",
+      "model": "ZTE T0801"
     },
     {
       "manufacturer": "",

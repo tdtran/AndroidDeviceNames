@@ -3598,6 +3598,30 @@
     {
       "manufacturer": "",
       "market_name": "Alcatel 1",
+      "codename": "Macau",
+      "model": "5033EP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "Macau",
+      "model": "5033F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "Macau",
+      "model": "5033FP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "Macau",
+      "model": "5033MP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
       "model": "5033A"
     },
@@ -3726,6 +3750,30 @@
       "market_name": "Alcatel 1A",
       "codename": "Seoul",
       "model": "5002F_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1B",
+      "codename": "Kona",
+      "model": "5031A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1B",
+      "codename": "Kona",
+      "model": "5031D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1B",
+      "codename": "Kona",
+      "model": "5031G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1B",
+      "codename": "Kona",
+      "model": "5131E"
     },
     {
       "manufacturer": "",
@@ -4216,6 +4264,24 @@
     {
       "manufacturer": "",
       "market_name": "Alcatel 1V",
+      "codename": "Cruze_Lite",
+      "model": "6002A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Cruze_Lite",
+      "model": "6002D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Cruze_Lite",
+      "model": "6002J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
       "codename": "Tokyo_Lite",
       "model": "5007A"
     },
@@ -4458,6 +4524,12 @@
       "market_name": "Alcatel 3C",
       "codename": "5006",
       "model": "5006G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3H Plus",
+      "codename": "Cruze",
+      "model": "6027A"
     },
     {
       "manufacturer": "",
@@ -4854,6 +4926,12 @@
       "market_name": "Alcatel 5",
       "codename": "A5A_INFINI",
       "model": "5086Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5H Plus",
+      "codename": "Cruze_Pro",
+      "model": "6065A"
     },
     {
       "manufacturer": "",
@@ -6783,6 +6861,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 303",
+      "codename": "Kona",
+      "model": "5131A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 305",
+      "codename": "Cruze_Lite",
+      "model": "6102D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 30E",
+      "codename": "Cruze",
+      "model": "6127A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 R 5G",
+      "codename": "Levin",
+      "model": "T771A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 R 5G",
+      "codename": "Levin",
+      "model": "T771K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 4X 5G",
+      "codename": "Bremen_TF",
+      "model": "T601DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 520",
       "codename": "shine_lite",
       "model": "TCL 520"
@@ -6930,6 +7044,18 @@
       "market_name": "TCL H900M",
       "codename": "HERO2",
       "model": "TCL H900M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL ION",
+      "codename": "Rapid_CKT",
+      "model": "T501C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL ION",
+      "codename": "Rapid_USCC",
+      "model": "T501L"
     },
     {
       "manufacturer": "",
@@ -7365,6 +7491,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL201",
+      "codename": "Macau",
+      "model": "5033TP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL_6110A",
       "codename": "Telsa",
       "model": "TCL 6110A"
@@ -7716,6 +7848,12 @@
       "market_name": "alcatel 1T7 NEW",
       "codename": "U3A_7_WIFI_Refresh",
       "model": "9309X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1T7 NEW",
+      "codename": "U3A_7_WIFI_Refresh",
+      "model": "9309X2"
     },
     {
       "manufacturer": "",

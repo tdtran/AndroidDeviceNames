@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Australia and New Zeeland",
+      "codename": "guandu",
+      "model": "Kogan 4K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "Kogan TV"

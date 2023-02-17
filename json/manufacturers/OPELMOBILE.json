@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OMSJ523B",
+      "codename": "OpelMobile_OMSJ523B",
+      "model": "Smart J5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Opel Mobile_Smart_J2",
       "codename": "Smart_J2",
       "model": "Smart_J2"

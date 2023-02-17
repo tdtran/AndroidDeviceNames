@@ -51,15 +51,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR Magic5 Lite 5G",
+      "codename": "HNRMO-Q",
+      "model": "RMO-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic5 Lite 5G",
+      "codename": "HNRMO-Q",
+      "model": "RMO-NX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Pad 8",
       "codename": "HNHEY-Q",
       "model": "HEY-W09"
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR Pad X8",
+      "codename": "HNAGM3",
+      "model": "AGM3-AL09HN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad X8",
+      "codename": "HNAGM3",
+      "model": "AGM3-W09HN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Pad X8 Lite",
       "codename": "HNAGM",
       "model": "AGM-W09HN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5",
+      "codename": "HNVNA-M",
+      "model": "VNA-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5",
+      "codename": "HNVNA-M",
+      "model": "VNA-LX3"
     },
     {
       "manufacturer": "",
@@ -99,6 +135,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR X7a",
+      "codename": "HNRKY-M1",
+      "model": "RKY-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7a",
+      "codename": "HNRKY-M1",
+      "model": "RKY-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7a",
+      "codename": "HNRKY-M1",
+      "model": "RKY-LX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR X8",
       "codename": "HNTFY-Q",
       "model": "TFY-LX1"
@@ -123,6 +177,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR X8a",
+      "codename": "HNCRT-M1",
+      "model": "CRT-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X8a",
+      "codename": "HNCRT-M1",
+      "model": "CRT-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X8a",
+      "codename": "HNCRT-M1",
+      "model": "CRT-LX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR X9",
       "codename": "HNANY-Q1",
       "model": "ANY-LX1"
@@ -144,6 +216,12 @@
       "market_name": "HONOR X9 5G",
       "codename": "HNANY-Q",
       "model": "ANY-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X9a 5G",
+      "codename": "HNRMO-Q",
+      "model": "RMO-NX1"
     }
   ]
 }

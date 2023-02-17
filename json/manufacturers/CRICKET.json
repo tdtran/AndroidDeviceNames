@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cricket® Icon 4",
+      "codename": "WTCKT01",
+      "model": "WTCKT01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cricket® Influence",
       "codename": "v350c",
       "model": "V350C"
@@ -51,15 +57,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "DEMK4117",
-      "codename": "SN304AE",
-      "model": "SN304AE"
-    },
-    {
-      "manufacturer": "",
       "market_name": "DEMK4119",
       "codename": "SL101AE",
       "model": "SL101AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SN304AE",
+      "codename": "SN304AE",
+      "model": "SN304AE"
     },
     {
       "manufacturer": "",

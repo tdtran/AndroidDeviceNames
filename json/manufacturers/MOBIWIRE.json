@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H6511",
+      "codename": "H6511",
+      "model": "H6511"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H6821",
+      "codename": "H6821",
+      "model": "H6821"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HALONA",
       "codename": "Halona",
       "model": "Halona"
@@ -96,6 +108,12 @@
       "market_name": "Kicka 5 Plus 4G",
       "codename": "K5P_4G_U",
       "model": "Kicka 5 Plus 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kicka 6 Plus 4G",
+      "codename": "H5032U",
+      "model": "Kicka 6 Plus 4G"
     },
     {
       "manufacturer": "",
@@ -215,6 +233,12 @@
       "manufacturer": "",
       "market_name": "Smart Green",
       "codename": "MobiWire_Verda",
+      "model": "Smart_Green"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart Green",
+      "codename": "MobiWire_Verda",
       "model": "Vodafone Lite 4G"
     },
     {
@@ -228,6 +252,12 @@
       "market_name": "Smart N12",
       "codename": "Smart_N12",
       "model": "SmartN12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartT23",
+      "codename": "Smart_T23",
+      "model": "SmartT23"
     },
     {
       "manufacturer": "",
@@ -264,6 +294,12 @@
       "market_name": "VSN V.45",
       "codename": "up06_h26_v45",
       "model": "V.45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Verda",
+      "codename": "MobiWire_Verda",
+      "model": "Smart_Green_EEA"
     },
     {
       "manufacturer": "",

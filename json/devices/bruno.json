@@ -42,6 +42,12 @@
     "model": "Olive 2K Android TV"
   },
   {
+    "manufacturer": "MTC",
+    "market_name": "VINCENT",
+    "codename": "bruno",
+    "model": "VINCENT 2K Android TV"
+  },
+  {
     "manufacturer": "Polaroid",
     "market_name": "Polaroid",
     "codename": "bruno",
@@ -52,6 +58,12 @@
     "market_name": "Sharp",
     "codename": "bruno",
     "model": "Sharp 2K Android TV"
+  },
+  {
+    "manufacturer": "Veon",
+    "market_name": "VEON",
+    "codename": "bruno",
+    "model": "VEON 2K Android TV"
   },
   {
     "manufacturer": "innos",

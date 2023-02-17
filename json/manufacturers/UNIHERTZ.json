@@ -39,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TANK 01",
+      "codename": "TANK_01",
+      "model": "TANK 01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TickTock-E",
       "codename": "UNIA62",
       "model": "UNIA62_S01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TickTock-S",
+      "codename": "TickTock-S",
+      "model": "TickTock-S"
     },
     {
       "manufacturer": "",

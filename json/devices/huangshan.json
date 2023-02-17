@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Gigabyte",
+    "market_name": "huangshan_gigabyte",
+    "codename": "huangshan",
+    "model": "SmartTV 4K FFM"
+  },
+  {
     "manufacturer": "Hisense",
     "market_name": "huangshan",
     "codename": "huangshan",
@@ -10,5 +16,35 @@
     "market_name": "huangshan",
     "codename": "huangshan",
     "model": "SmartTV 4K FFM"
+  },
+  {
+    "manufacturer": "QVY TV",
+    "market_name": "huangshan_QVY",
+    "codename": "huangshan",
+    "model": "QVY 4K Laser Home Theatre"
+  },
+  {
+    "manufacturer": "Sunbrite",
+    "market_name": "huangshan_sunbrite",
+    "codename": "huangshan",
+    "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "THEHAM",
+    "market_name": "huangshan_theham",
+    "codename": "huangshan",
+    "model": "SmartTV 4K FFM"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "huangshan_emT",
+    "codename": "huangshan",
+    "model": "Toshiba TV"
+  },
+  {
+    "manufacturer": "Vu Televisions",
+    "market_name": "huangshan_emV",
+    "codename": "huangshan",
+    "model": "VU TV"
   }
 ]

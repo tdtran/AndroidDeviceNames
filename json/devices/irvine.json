@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "Aqua",
+    "market_name": "AQUA MatrixTV AE",
+    "codename": "irvine",
+    "model": "AQUA MatrixTV AE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Galaxy TV AEL",
+    "codename": "irvine",
+    "model": "Galaxy TV AEL"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV AE",
+    "codename": "irvine",
+    "model": "Haier MatrixTV AE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV AEL",
+    "codename": "irvine",
+    "model": "Haier MatrixTV AEL"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "TCL 20 5G",
     "codename": "Irvine",

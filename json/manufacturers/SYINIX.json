@@ -30,6 +30,18 @@
       "market_name": "Africa",
       "codename": "yeongdeungpo",
       "model": "Syinix UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     }
   ]
 }

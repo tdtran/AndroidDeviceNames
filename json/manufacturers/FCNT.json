@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "arrows BZ03",
+      "codename": "BZ03",
+      "model": "BZ03"
+    },
+    {
+      "manufacturer": "",
       "market_name": "arrows Be4 Plus F-41B",
       "codename": "F41B",
       "model": "F-41B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows N F-51C",
+      "codename": "F51C",
+      "model": "F-51C"
     },
     {
       "manufacturer": "",

@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TK809",
+      "codename": "TK809",
+      "model": "TK809"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TK809_EEA",
+      "codename": "TK809_EEA",
+      "model": "TK809_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TP1001",
       "codename": "TP1001",
       "model": "TP1001"

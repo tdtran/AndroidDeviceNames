@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EXO_Wave_i726",
+      "codename": "EXO_Wave_i726",
+      "model": "EXO_Wave_i726"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wave i007Kids",
       "codename": "Wave_i007Kids",
       "model": "Wave i007Kids"
@@ -30,6 +36,12 @@
       "market_name": "Wave_i101G",
       "codename": "Wave_i101G",
       "model": "Wave_i101G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i101T2",
+      "codename": "i101T2",
+      "model": "TabletEXO_Wave_i101T2"
     },
     {
       "manufacturer": "",

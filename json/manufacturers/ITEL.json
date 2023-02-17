@@ -393,6 +393,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P37 Pro（Vision2 Plus）",
+      "codename": "itel-P681LM",
+      "model": "itel P681LM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P38",
       "codename": "itel-P661W",
       "model": "itel P661W"
@@ -402,6 +408,12 @@
       "market_name": "P51",
       "codename": "P51",
       "model": "itel P51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad1",
+      "codename": "itel-P10001L",
+      "model": "itel P10001L"
     },
     {
       "manufacturer": "",
@@ -522,6 +534,24 @@
       "market_name": "SP591",
       "codename": "itel-W6004",
       "model": "itel W6004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision 3",
+      "codename": "itel-S661LP",
+      "model": "itel S661LP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision 3",
+      "codename": "itel-S661LPN",
+      "model": "itel S661LPN"
     },
     {
       "manufacturer": "",
@@ -843,6 +873,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A17",
+      "codename": "itel-W5006X",
+      "model": "itel W5006X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A18",
       "codename": "itel-A512W",
       "model": "itel A512W"
@@ -903,6 +939,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A24 Pro",
+      "codename": "itel-A511LP2",
+      "model": "itel A511LP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A25",
       "codename": "itel-L5002R",
       "model": "itel L5002"
@@ -924,6 +966,12 @@
       "market_name": "itel A31",
       "codename": "itel_A31",
       "model": "itel A31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A33 Plus",
+      "codename": "itel-A509WP",
+      "model": "itel A509WP"
     },
     {
       "manufacturer": "",
@@ -1167,6 +1215,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel P38 Pro(Vision 3 Plus)",
+      "codename": "itel-P682L",
+      "model": "itel P682L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel P41",
       "codename": "itel_P41",
       "model": "itel P41"
@@ -1221,6 +1275,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel S18 Pro",
+      "codename": "itel-S662L",
+      "model": "itel S662L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel S32LTE",
       "codename": "itel-S32LTE",
       "model": "itel S32LTE"
@@ -1242,6 +1302,42 @@
       "market_name": "itel V51 LTE",
       "codename": "itel-L5007S",
       "model": "itel L5007S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel VISION 5 Plus",
+      "codename": "itel-S662LCN",
+      "model": "itel S662LCN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel Vision 3",
+      "codename": "itel-S661L",
+      "model": "itel S661L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel Vision 3",
+      "codename": "itel-S661LN",
+      "model": "itel S661LN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel Vision 3 Plus",
+      "codename": "itel-P682LPN",
+      "model": "itel P682LPN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel Vision 3 Plus(P38 Pro)",
+      "codename": "itel-P682LP",
+      "model": "itel P682LP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel Vision 5",
+      "codename": "itel-S663LC",
+      "model": "itel S663LC"
     },
     {
       "manufacturer": "",

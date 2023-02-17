@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Aminocom",
+    "market_name": "Amigo7x3SBC",
+    "codename": "Amigo7x3SBC",
+    "model": "Amino SBCTV"
+  },
+  {
+    "manufacturer": "Aminocom",
     "market_name": "Amino SBCTV",
     "codename": "Amigo7x3SBC",
     "model": "Amino SBCTV"

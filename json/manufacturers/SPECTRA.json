@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TAP-POS",
+      "codename": "TAP-POS",
+      "model": "SAH55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "tap-POS-AM",
       "codename": "tap-POS-AM",
       "model": "SAH55AM"

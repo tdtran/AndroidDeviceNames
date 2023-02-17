@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T80_PLUS",
+      "codename": "T80_PLUS_EEA",
+      "model": "T80_PLUS_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V88",
       "codename": "V88",
       "model": "V88"

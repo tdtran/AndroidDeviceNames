@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 12S",
+      "codename": "Armor_12S",
+      "model": "Armor 12S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 15",
       "codename": "Armor_15",
       "model": "Armor 15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 17 Pro",
+      "codename": "Armor_17_Pro",
+      "model": "Armor 17 Pro"
     },
     {
       "manufacturer": "",
@@ -155,6 +167,12 @@
       "manufacturer": "",
       "market_name": "Armor X7 Pro",
       "codename": "Armor_X7_Pro",
+      "model": "Armor X7 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X7 Pro",
+      "codename": "GQ3087",
       "model": "Armor X7 Pro"
     },
     {
@@ -366,6 +384,12 @@
       "market_name": "Note 14",
       "codename": "Note_14",
       "model": "Note 14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 15",
+      "codename": "Note_15",
+      "model": "Note 15"
     },
     {
       "manufacturer": "",

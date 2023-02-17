@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLAZE 5G",
+      "codename": "LXX503",
+      "model": "LAVA LXX503"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ERA 1X",
       "codename": "era1X",
       "model": "era1X"

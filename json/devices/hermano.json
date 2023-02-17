@@ -4,5 +4,11 @@
     "market_name": "MiTV",
     "codename": "hermano",
     "model": "MiTV-MOSR0"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV",
+    "codename": "hermano",
+    "model": "MiTV-MOSR1"
   }
 ]

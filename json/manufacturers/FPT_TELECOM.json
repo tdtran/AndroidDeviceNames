@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FPT Play Box +",
+      "codename": "SEI500FPT",
+      "model": "FPT Play Box +"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPT Play Box S",
+      "codename": "SEI610FPT",
+      "model": "FPT Play Box S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SEI500FPT",
       "codename": "SEI500FPT",
       "model": "FPT Play Box +"

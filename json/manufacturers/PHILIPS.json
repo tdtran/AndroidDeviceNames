@@ -502,6 +502,12 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
+      "codename": "queenstown",
+      "model": "Philips 4K A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "sindap",
       "model": "PHILIPS 4K TV"
     },

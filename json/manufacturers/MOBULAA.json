@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MOBULAA Note4",
+      "codename": "Note4",
+      "model": "Note4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE1",
       "codename": "NOTE1",
       "model": "NOTE1"

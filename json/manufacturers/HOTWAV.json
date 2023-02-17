@@ -207,6 +207,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB R5",
+      "codename": "TAB_R5",
+      "model": "TAB R5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB R6 Pro",
+      "codename": "TAB_R6_Pro",
+      "model": "TAB R6 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Venus",
       "codename": "Venus",
       "model": "Venus"

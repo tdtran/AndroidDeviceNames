@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Movix",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Movix",
+      "codename": "MVX01",
+      "model": "Movix"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Movix Go",
+      "codename": "MVX02",
+      "model": "Movix Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Movix Pro",
+      "codename": "MVX03",
+      "model": "Movix Pro"
+    }
+  ]
+}

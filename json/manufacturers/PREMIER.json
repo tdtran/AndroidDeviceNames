@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "32FSV720",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAXI 20",
       "codename": "MAXI_20",
       "model": "MAXI 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRM750USV",
+      "codename": "samseong",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

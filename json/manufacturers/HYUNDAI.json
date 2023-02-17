@@ -64,18 +64,6 @@
     {
       "manufacturer": "",
       "market_name": "Android TV",
-      "codename": "R3",
-      "model": "R3"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
       "codename": "redwood",
       "model": "AI PONT NA"
     },
@@ -432,6 +420,12 @@
       "market_name": "HT8WB1RBK02",
       "codename": "HT8WB1RBK02",
       "model": "HT8WB1RBK02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT8WB1RBK02_12",
+      "codename": "HT8WB1RBK02_12",
+      "model": "8WB1"
     },
     {
       "manufacturer": "",
@@ -816,6 +810,18 @@
       "market_name": "L681",
       "codename": "L681",
       "model": "L681"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
     },
     {
       "manufacturer": "",

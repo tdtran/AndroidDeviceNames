@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DIRECTV",
+      "codename": "c71kw400-BEAM",
+      "model": "AT\u0026T TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIRECTV STREAM",
       "codename": "c71kw200",
       "model": "AT\u0026T TV"

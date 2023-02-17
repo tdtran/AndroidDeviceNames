@@ -36,6 +36,18 @@
     "model": "GREEN HOUSE TV"
   },
   {
+    "manufacturer": "Iris",
+    "market_name": "IRIS 4K SmartTV",
+    "codename": "SW6H",
+    "model": "IRIS 4K SmartTV"
+  },
+  {
+    "manufacturer": "Iris",
+    "market_name": "IRIS 4K SmartTV FF",
+    "codename": "SW6H",
+    "model": "IRIS 4K SmartTV FF"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC 4K Smart TV NZ",
     "codename": "SW6H",
@@ -112,6 +124,12 @@
     "market_name": "TESLA 4K SMART TV",
     "codename": "SW6H",
     "model": "TESLA 4K SMART TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "TESLA 4K SMART TV FF",
+    "codename": "SW6H",
+    "model": "TESLA 4K SMART TV FF"
   },
   {
     "manufacturer": "Thomson",

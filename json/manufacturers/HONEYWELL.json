@@ -285,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CT47",
+      "codename": "CT47",
+      "model": "CT47"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT50",
       "codename": "CT50L0N-CS12S",
       "model": "CT50"
@@ -342,6 +348,12 @@
       "market_name": "CT60",
       "codename": "CT60-L1-C",
       "model": "CT60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CW45",
+      "codename": "CW45",
+      "model": "CW45"
     },
     {
       "manufacturer": "",
@@ -492,6 +504,18 @@
       "market_name": "EDA56",
       "codename": "EDA52",
       "model": "EDA56"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA56",
+      "codename": "EDA56",
+      "model": "EDA56"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA57",
+      "codename": "EDA57",
+      "model": "EDA57"
     },
     {
       "manufacturer": "",

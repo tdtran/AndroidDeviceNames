@@ -561,6 +561,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A57",
+      "codename": "OP5355",
+      "model": "CPH2387"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A57",
+      "codename": "OP5355",
+      "model": "CPH2407"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A57s/A77",
+      "codename": "OP5353L1",
+      "model": "CPH2385"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A57t",
       "codename": "A57",
       "model": "OPPO A57t"
@@ -684,6 +702,18 @@
       "market_name": "A77 5G",
       "codename": "OP52F3L1",
       "model": "CPH2339"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A78 5G",
+      "codename": "OP52F3L1",
+      "model": "CPH2483"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A78 5G",
+      "codename": "OP52F3L1",
+      "model": "CPH2495"
     },
     {
       "manufacturer": "",
@@ -1323,6 +1353,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH2455",
+      "codename": "OP56E1L1",
+      "model": "CPH2455"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2457",
+      "codename": "OP56E1L1",
+      "model": "CPH2457"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2461",
+      "codename": "OP533FL1",
+      "model": "CPH2461"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2473",
+      "codename": "OP5637L1",
+      "model": "CPH2473"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F11",
       "codename": "OP4883",
       "model": "CPH1911"
@@ -1671,6 +1725,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPD2102A",
+      "codename": "OP5226L1",
+      "model": "OPD2102A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPG02_jp_kdi",
       "codename": "OP4F39L1",
       "model": "OPG02"
@@ -1713,6 +1773,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO A57s",
+      "codename": "OP5353L1",
+      "model": "CPH2385"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO A74 5G",
       "codename": "OP4F39L1",
       "model": "CPH2197"
@@ -1731,15 +1797,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "OPPO Find X5 Pro",
-      "codename": "OP52D1L1",
-      "model": "CPH2305"
-    },
-    {
-      "manufacturer": "",
       "market_name": "OPPO Pad",
       "codename": "OP5223",
       "model": "OPD2101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Pad Air",
+      "codename": "OP5225",
+      "model": "OPD2102"
     },
     {
       "manufacturer": "",
@@ -1827,9 +1893,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO Reno8 5G",
+      "codename": "OP5339L1",
+      "model": "CPH2359"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO Reno8 Pro 5G",
       "codename": "OP5335L1",
       "model": "CPH2357"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno9 Pro 5G",
+      "codename": "OP5601",
+      "model": "PGX110"
     },
     {
       "manufacturer": "",
@@ -1902,6 +1980,12 @@
       "market_name": "PEGM10",
       "codename": "OP4E59",
       "model": "PEGM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PEGT00",
+      "codename": "OP4E8F",
+      "model": "PEGT00"
     },
     {
       "manufacturer": "",
@@ -1995,6 +2079,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PGAM10",
+      "codename": "OP5285",
+      "model": "PGAM10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PGBM10",
       "codename": "OP5287",
       "model": "PGBM10"
@@ -2004,6 +2094,30 @@
       "market_name": "PGCM10",
       "codename": "OPD2A0",
       "model": "PGCM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PGGM10",
+      "codename": "OP5295",
+      "model": "PGGM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PGJM10",
+      "codename": "OP5297",
+      "model": "PGJM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PGW110",
+      "codename": "OP55FF",
+      "model": "PGW110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHM110",
+      "codename": "OP5627",
+      "model": "PHM110"
     },
     {
       "manufacturer": "",

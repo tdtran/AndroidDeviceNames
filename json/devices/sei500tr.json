@@ -4,5 +4,11 @@
     "market_name": "SEI500TR",
     "codename": "SEI500TR",
     "model": "TRANSVISION-Xstream"
+  },
+  {
+    "manufacturer": "Transvision",
+    "market_name": "TRANSVISION-Xstream",
+    "codename": "SEI500TR",
+    "model": "TRANSVISION-Xstream"
   }
 ]

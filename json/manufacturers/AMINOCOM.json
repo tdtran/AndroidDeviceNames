@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amigo7x3SBC",
+      "codename": "Amigo7x3SBC",
+      "model": "Amino SBCTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Amigo7xESP",
       "codename": "Amigo7xESP",
       "model": "Amigo7xESP"

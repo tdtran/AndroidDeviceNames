@@ -6,6 +6,12 @@
     "model": "ACONATIC 4K Android TV"
   },
   {
+    "manufacturer": "Bauhn",
+    "market_name": "BAUHN",
+    "codename": "shilin",
+    "model": "BAUHN4KAndroidTV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "Blaupunkt",
     "codename": "shilin",
@@ -37,9 +43,21 @@
   },
   {
     "manufacturer": "MTC",
+    "market_name": "ENTV",
+    "codename": "shilin",
+    "model": "ENTV4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
     "market_name": "KIVI",
     "codename": "shilin",
     "model": "KIVI 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "Monex",
+    "codename": "shilin",
+    "model": "Monex4KAndroidTV"
   },
   {
     "manufacturer": "MTC",
@@ -52,6 +70,18 @@
     "market_name": "SmartEver",
     "codename": "shilin",
     "model": "SmartEver4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "VINCENT",
+    "codename": "shilin",
+    "model": "VINCENT 4K Android TV"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Polaroid",
+    "codename": "shilin",
+    "model": "Polaroid4KAndroidTV"
   },
   {
     "manufacturer": "Sharp",

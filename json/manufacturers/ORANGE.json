@@ -297,6 +297,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TV Box 4K",
+      "codename": "zc4450v_orm",
+      "model": "Orange TV Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Zilo",
       "codename": "Orange_Zilo",
       "model": "Zilo"

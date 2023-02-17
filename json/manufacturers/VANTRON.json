@@ -12,6 +12,12 @@
       "market_name": "M10 Pro",
       "codename": "M10Pro",
       "model": "M10Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_Pro",
+      "codename": "M10Pro",
+      "model": "M10Pro"
     }
   ]
 }

@@ -3,7 +3,19 @@
     "manufacturer": "Mobiwire",
     "market_name": "Smart Green",
     "codename": "MobiWire_Verda",
+    "model": "Smart_Green"
+  },
+  {
+    "manufacturer": "Mobiwire",
+    "market_name": "Smart Green",
+    "codename": "MobiWire_Verda",
     "model": "Vodafone Lite 4G"
+  },
+  {
+    "manufacturer": "Mobiwire",
+    "market_name": "Verda",
+    "codename": "MobiWire_Verda",
+    "model": "Smart_Green_EEA"
   },
   {
     "manufacturer": "Mobiwire",

@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
       "market_name": "LUCA Tablet TM152",
       "codename": "TM152M4",
       "model": "TM152"
@@ -18,6 +12,18 @@
       "market_name": "LUCA Tablet TM152",
       "codename": "TM152M8",
       "model": "TM152"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE082M2",
+      "codename": "Luna",
+      "model": "TE082M2"
     },
     {
       "manufacturer": "",

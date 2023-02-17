@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hiking",
+    "market_name": "A40",
+    "codename": "A40",
+    "model": "A40"
+  },
+  {
     "manufacturer": "IkuMobile",
     "market_name": "IKU A40",
     "codename": "A40",

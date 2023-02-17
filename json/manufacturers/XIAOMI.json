@@ -940,6 +940,12 @@
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "croods",
+      "model": "MiTV-MOOQ2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "dangal",
       "model": "MiTV-AXSO0"
     },
@@ -964,6 +970,12 @@
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "hermano",
+      "model": "MiTV-MOSR1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "machuca",
       "model": "MiTV-MSSP3"
     },
@@ -976,14 +988,32 @@
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "martian",
+      "model": "MiTV-MSOR0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "nino",
       "model": "MiTV-MSSP1"
     },
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "rango",
+      "model": "MiTV-AXFR1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "tarzan",
       "model": "MiTV-MOOQ1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "venom",
+      "model": "MiTV-MOOR0"
     },
     {
       "manufacturer": "",
@@ -1377,15 +1407,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi 12T",
+      "codename": "plato",
+      "model": "22071212AG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi 12T Pro",
       "codename": "diting",
       "model": "22081212C"
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi 12T Pro",
+      "codename": "diting",
+      "model": "22081212UG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi 12X",
       "codename": "psyche",
       "model": "2112123AC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13",
+      "codename": "fuxi",
+      "model": "2211133C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13 pro",
+      "codename": "nuwa",
+      "model": "2210132C"
     },
     {
       "manufacturer": "",
@@ -1446,6 +1500,12 @@
       "market_name": "Xiaomi TV stick 4K",
       "codename": "soul",
       "model": "MiTV-AYFR0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi civi2",
+      "codename": "ziyi",
+      "model": "2209129SC"
     },
     {
       "manufacturer": "",

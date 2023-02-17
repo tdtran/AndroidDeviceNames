@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cyber DOG 4G",
+      "codename": "Cyber_DOG_4G",
+      "model": "Cyber DOG 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cyber_Shark_EEA",
       "codename": "Cyber_Shark",
       "model": "iHunt Cyber Shark 4G"
@@ -135,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Strong Tablet P15000 Pro",
+      "codename": "Tablet_P15000",
+      "model": "Strong Tablet P15000 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TITAN P11000 PRO",
       "codename": "TITAN_P11000_PRO",
       "model": "TITAN_P11000_PRO"
@@ -204,6 +216,12 @@
       "market_name": "iHunt Cyber Wolf 5G",
       "codename": "Cyber_Wolf_5G",
       "model": "iHunt Cyber Wolf 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt Fit Runner",
+      "codename": "iHunt_Fit_Runner",
+      "model": "iHunt Fit Runner"
     },
     {
       "manufacturer": "",

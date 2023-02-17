@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A181",
+      "codename": "A181",
+      "model": "A181"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A181",
+      "codename": "A181",
+      "model": "A181_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI 1 Lite",
       "codename": "INOI_1_Lite",
       "model": "INOI_1_Lite"
@@ -84,6 +96,12 @@
       "market_name": "INOI Note 12",
       "codename": "A180",
       "model": "A180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI Note 12",
+      "codename": "A180",
+      "model": "A180_Plus"
     },
     {
       "manufacturer": "",

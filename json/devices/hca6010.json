@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Homeplustv",
+    "market_name": "HCA6010",
+    "codename": "HCA6010",
+    "model": "HCA-6010"
+  },
+  {
+    "manufacturer": "Homeplustv",
     "market_name": "Homeplus_ATV HCA-6010",
     "codename": "HCA6010",
     "model": "HCA-6010"

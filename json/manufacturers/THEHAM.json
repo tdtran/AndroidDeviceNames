@@ -24,6 +24,12 @@
       "market_name": "UHD Android TV",
       "codename": "sindorim",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "huangshan_theham",
+      "codename": "huangshan",
+      "model": "SmartTV 4K FFM"
     }
   ]
 }

@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A52",
+      "codename": "A52",
+      "model": "A52"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A55",
       "codename": "A55",
       "model": "A55"
@@ -219,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV5200 Pro",
+      "codename": "BV5200_Pro",
+      "model": "BV5200 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV5500",
       "codename": "BV5500",
       "model": "BV5500"
@@ -402,6 +414,12 @@
       "market_name": "BV7100",
       "codename": "BV7100",
       "model": "BV7100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV7200",
+      "codename": "BV7200",
+      "model": "BV7200"
     },
     {
       "manufacturer": "",
@@ -705,6 +723,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab11SE_NEU",
+      "codename": "Tab11SE_NEU",
+      "model": "Tab 11 SE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab11_EA",
       "codename": "Tab11_EA",
       "model": "Tab 11"
@@ -753,6 +777,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab15Pro_EEA",
+      "codename": "Tab15Pro_EEA",
+      "model": "Tab 15 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab15Pro_NEU",
+      "codename": "Tab15Pro_NEU",
+      "model": "Tab 15 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab5NEU",
+      "codename": "Tab5NEU",
+      "model": "Tab 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab6Kids_EEA",
       "codename": "Tab6Kids_EEA",
       "model": "Tab 6 Kids"
@@ -786,6 +828,12 @@
       "market_name": "Tab6s_NEU",
       "codename": "Tab6s_NEU",
       "model": "Tab 6s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab7Pro_EEA",
+      "codename": "Tab7Pro_EEA",
+      "model": "Tab 7 Pro"
     },
     {
       "manufacturer": "",
@@ -861,6 +909,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab_15_RU",
+      "codename": "Tab_15_RU",
+      "model": "Tab 15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab_7_EEA",
       "codename": "Tab_7_EEA",
       "model": "Tab 7"
@@ -870,6 +924,18 @@
       "market_name": "Tab_7_NEU",
       "codename": "Tab_7_NEU",
       "model": "Tab 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_7_WiFi_EEA",
+      "codename": "Tab_7_WiFi_EEA",
+      "model": "Tab 7 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_7_WiFi_NEU",
+      "codename": "Tab_7_WiFi_NEU",
+      "model": "Tab 7 WiFi"
     }
   ]
 }

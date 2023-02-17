@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Akino",
+    "market_name": "fushan_akino",
+    "codename": "hamamatsucho",
+    "model": "Smart TV"
+  },
+  {
     "manufacturer": "BGH S.A.",
     "market_name": "fushan_BGH",
     "codename": "hamamatsucho",
@@ -16,12 +22,6 @@
     "market_name": "fushan_2",
     "codename": "hamamatsucho",
     "model": "HiSmart TV"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "fushan_akino",
-    "codename": "hamamatsucho",
-    "model": "Smart TV"
   },
   {
     "manufacturer": "Hisense",

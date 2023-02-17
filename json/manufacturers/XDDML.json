@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ITALY",
+      "codename": "guandu",
+      "model": "XD 4K Andriod TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XD",
       "codename": "martin",
       "model": "XD 2K Andriod TV"

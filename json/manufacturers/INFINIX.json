@@ -429,6 +429,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix HOT 10i",
+      "codename": "Infinix-PR652C",
+      "model": "Infinix PR652C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix HOT 11S NFC",
       "codename": "Infinix-X6812B",
       "model": "Infinix X6812B"
@@ -468,6 +474,24 @@
       "market_name": "Infinix HOT 20",
       "codename": "Infinix-X6826",
       "model": "Infinix X6826"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 20",
+      "codename": "Infinix-X6826B",
+      "model": "Infinix X6826B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 20",
+      "codename": "Infinix-X6826C",
+      "model": "Infinix X6826C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 30i",
+      "codename": "Infinix-X669C",
+      "model": "Infinix X669C"
     },
     {
       "manufacturer": "",
@@ -648,6 +672,12 @@
       "market_name": "Infinix SMART 4 Plus",
       "codename": "Infinix-X680D",
       "model": "Infinix X680D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix SMART 7",
+      "codename": "Infinix-X6515",
+      "model": "Infinix X6515"
     },
     {
       "manufacturer": "",
@@ -975,9 +1005,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART 5 HD",
+      "codename": "Infinix-X6511",
+      "model": "Infinix X6511"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART 5(SMART 6)",
       "codename": "Infinix-X657B",
       "model": "Infinix X657B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART 6",
+      "codename": "Infinix-X6511",
+      "model": "Infinix X6511"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART 6",
+      "codename": "Infinix-X6511B",
+      "model": "Infinix X6511B"
     },
     {
       "manufacturer": "",
@@ -1000,8 +1048,20 @@
     {
       "manufacturer": "",
       "market_name": "SMART 6 PLUS",
+      "codename": "Infinix-X6823",
+      "model": "Infinix X6823"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART 6 PLUS",
       "codename": "Infinix-X6823C",
       "model": "Infinix X6823C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART 7  or SMART 7 PLUS",
+      "codename": "Infinix-X6517",
+      "model": "Infinix X6517"
     },
     {
       "manufacturer": "",
@@ -1104,6 +1164,12 @@
       "market_name": "Smart 4",
       "codename": "Infinix-X653C",
       "model": "Infinix X653C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -1332,6 +1398,18 @@
       "market_name": "ZERO 5G",
       "codename": "Infinix-X6815",
       "model": "Infinix X6815"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZERO 5G 2023",
+      "codename": "Infinix-X6815C",
+      "model": "Infinix X6815C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZERO 5G 2023",
+      "codename": "Infinix-X6815D",
+      "model": "Infinix X6815D"
     },
     {
       "manufacturer": "",

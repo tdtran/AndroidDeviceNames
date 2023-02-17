@@ -291,9 +291,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "50A7H",
+      "market_name": "2K TV",
+      "codename": "songshan",
+      "model": "2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K TV",
       "codename": "songshan",
       "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K TV",
+      "codename": "songshan",
+      "model": "SmartTV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K TV",
+      "codename": "songshan",
+      "model": "SmartTV 4K FFM"
     },
     {
       "manufacturer": "",
@@ -333,12 +351,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "A36",
-      "codename": "songshan",
-      "model": "2K Smart TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "A5",
       "codename": "HLTE202N",
       "model": "HLTE202N"
@@ -348,24 +360,6 @@
       "market_name": "A5 Pro",
       "codename": "HLTE203T",
       "model": "HLTE203T"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "A55",
-      "codename": "songshan",
-      "model": "Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "A65",
-      "codename": "songshan",
-      "model": "SmartTV 4K FFM"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
-      "codename": "songshan",
-      "model": "SmartTV 4K FFM"
     },
     {
       "manufacturer": "",
@@ -2387,6 +2381,12 @@
       "manufacturer": "",
       "market_name": "Hisense U605",
       "codename": "HS7731ESP",
+      "model": "Hisense M50 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U605",
+      "codename": "HS7731ESP",
       "model": "Hisense M50 Lite 2021"
     },
     {
@@ -2412,6 +2412,12 @@
       "market_name": "Hisense U605",
       "codename": "HS7731ESP",
       "model": "Hisense U606"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U605",
+      "codename": "Hisense",
+      "model": "Hisense U605"
     },
     {
       "manufacturer": "",
@@ -3411,6 +3417,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Laser TV",
+      "codename": "wuyishan",
+      "model": "SmartTV 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10-M",
       "codename": "HS9830SP",
       "model": "Hisense M10-M"
@@ -3801,12 +3813,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "U60H",
-      "codename": "songshan",
-      "model": "SmartTV 4K FFM"
-    },
-    {
-      "manufacturer": "",
       "market_name": "U610",
       "codename": "U610",
       "model": "HS-U610"
@@ -3828,24 +3834,6 @@
       "market_name": "U688BE",
       "codename": "MSM8212",
       "model": "HS-U688"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "U6H",
-      "codename": "songshan",
-      "model": "SmartTV 4K FFM"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "U6H/A6H/U6G1",
-      "codename": "songshan",
-      "model": "SmartTV 4K"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "U70H/U8H/U80H/U85H",
-      "codename": "wuyishan",
-      "model": "SmartTV 4K FFM"
     },
     {
       "manufacturer": "",
@@ -3924,6 +3912,12 @@
       "market_name": "U989 Pro",
       "codename": "HS6580MT",
       "model": "Hisense U989 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULED",
+      "codename": "wuyishan",
+      "model": "SmartTV 4K FFM"
     },
     {
       "manufacturer": "",
@@ -4149,12 +4143,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "fushan_akino",
-      "codename": "hamamatsucho",
-      "model": "Smart TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "fushan_em",
       "codename": "hamamatsucho",
       "model": "HiSmart 2K ATV4"
@@ -4287,12 +4275,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "xiaoyushan-bgh",
-      "codename": "xiaoyushan",
-      "model": "HiSmartTV A4"
-    },
-    {
-      "manufacturer": "",
       "market_name": "xiaoyushan-em",
       "codename": "xiaoyushan",
       "model": "HiSmartTV A4"
@@ -4300,18 +4282,6 @@
     {
       "manufacturer": "",
       "market_name": "xiaoyushan-sa",
-      "codename": "xiaoyushan",
-      "model": "HiSmartTV A4"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "xiaoyushan_panavox",
-      "codename": "xiaoyushan",
-      "model": "Panavox Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "xiaoyushan_riviera",
       "codename": "xiaoyushan",
       "model": "HiSmartTV A4"
     },

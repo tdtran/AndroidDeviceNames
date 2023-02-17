@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sky NZ",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Sky Pod",
+      "codename": "SEI700SKY",
+      "model": "Sky Pod"
+    }
+  ]
+}

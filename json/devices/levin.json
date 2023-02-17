@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Sharp",
+    "market_name": "AQUOS V6 5G",
+    "codename": "Levin",
+    "model": "SH-C05"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 40 R 5G",
+    "codename": "Levin",
+    "model": "T771H"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "TCL 40 R 5G",
+    "codename": "Levin",
+    "model": "T771A"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "TCL 40 R 5G",
+    "codename": "Levin",
+    "model": "T771K"
+  }
+]

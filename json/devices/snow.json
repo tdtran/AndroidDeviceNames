@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO C50",
+    "codename": "snow",
+    "model": "220733SPI"
+  },
+  {
     "manufacturer": "Redmi",
     "market_name": "Redmi A1+",
     "codename": "snow",

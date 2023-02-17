@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "REVVL 6",
+      "codename": "Bethpage",
+      "model": "TMAF025G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 6 Pro",
+      "codename": "Augusta",
+      "model": "TMAF035G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "REVVL V",
       "codename": "Newcastle",
       "model": "TMRVL4G"

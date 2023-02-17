@@ -6,6 +6,24 @@
     "model": "4K SA Smart TV"
   },
   {
+    "manufacturer": "Green House",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K SA Smart TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "HKC 4K SA Smart TV"
+  },
+  {
     "manufacturer": "HP",
     "market_name": "HP BRIDGE",
     "codename": "Pioneer",
@@ -24,13 +42,19 @@
     "model": "4K SA Smart TV"
   },
   {
-    "manufacturer": "Polytron",
+    "manufacturer": "Mobell",
     "market_name": "4K Smart TV",
     "codename": "pioneer",
     "model": "4K PA Smart TV"
   },
   {
-    "manufacturer": "RCA",
+    "manufacturer": "Nokia",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
+  },
+  {
+    "manufacturer": "Polytron",
     "market_name": "4K Smart TV",
     "codename": "pioneer",
     "model": "4K PA Smart TV"
@@ -46,12 +70,6 @@
     "market_name": "4K Smart TV",
     "codename": "pioneer",
     "model": "DAEWOO 4K SA Smart TV"
-  },
-  {
-    "manufacturer": "RCA",
-    "market_name": "4K Smart TV",
-    "codename": "pioneer",
-    "model": "HKC 4K SA Smart TV"
   },
   {
     "manufacturer": "iMuz",

@@ -3,9 +3,15 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "KSTB6077",
-      "codename": "KSTB6077",
-      "model": "KSTB6077"
+      "market_name": "T Phone",
+      "codename": "Jaguar",
+      "model": "T Phone"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T Phone Pro",
+      "codename": "Lion",
+      "model": "T Phone Pro"
     }
   ]
 }

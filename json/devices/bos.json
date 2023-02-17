@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Mecool",
+    "market_name": "KD5",
+    "codename": "BOS",
+    "model": "TV Stick"
+  },
+  {
+    "manufacturer": "eroc",
+    "market_name": "F1",
+    "codename": "BOS",
+    "model": "TV Stick"
+  },
+  {
     "manufacturer": "realme",
     "market_name": "TV Stick",
     "codename": "BOS",

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A43",
+      "codename": "A43",
+      "model": "A43"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A53 PRO",
       "codename": "A53_PRO",
       "model": "A53 PRO"

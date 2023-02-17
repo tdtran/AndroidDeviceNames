@@ -4,5 +4,11 @@
     "market_name": "Qualcomm SC7180 Chromebook",
     "codename": "trogdor_cheets",
     "model": "trogdor"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Qualcomm SC7180 Chromebook",
+    "codename": "trogdor_cheets",
+    "model": "trogdor64"
   }
 ]

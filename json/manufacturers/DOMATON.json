@@ -12,6 +12,12 @@
       "market_name": "K712",
       "codename": "K712",
       "model": "K712"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_1099IPS",
+      "codename": "MID_1099IPS",
+      "model": "MID_1099IPS"
     }
   ]
 }

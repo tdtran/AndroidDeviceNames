@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "RxIS201",
+      "codename": "RxIS201",
+      "model": "RxIS201"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RxIS202",
       "codename": "RxIS202",
       "model": "RxIS202"

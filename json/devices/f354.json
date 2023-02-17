@@ -4,5 +4,11 @@
     "market_name": "Stream TV",
     "codename": "f354",
     "model": "Stream TV"
+  },
+  {
+    "manufacturer": "Verizon",
+    "market_name": "StreamTV",
+    "codename": "f354",
+    "model": "Stream TV"
   }
 ]

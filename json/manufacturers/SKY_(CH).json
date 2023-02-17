@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Elite A6",
+      "codename": "Elite_A6",
+      "model": "Elite A6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite C55",
       "codename": "Elite_C55USA",
       "model": "Elite C55"

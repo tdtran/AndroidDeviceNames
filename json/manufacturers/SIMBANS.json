@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PicassoTab_X12",
+      "codename": "PicassoTab_X12",
+      "model": "PicassoTab_X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PicassoTab_XL",
       "codename": "PicassoTab_XL",
       "model": "PicassoTab_XL"

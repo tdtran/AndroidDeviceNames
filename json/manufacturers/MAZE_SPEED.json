@@ -66,6 +66,12 @@
       "market_name": "SSB1001T",
       "codename": "SSB1001T",
       "model": "SSB1001T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB8T323",
+      "codename": "SSB8T323",
+      "model": "SSB8T323"
     }
   ]
 }

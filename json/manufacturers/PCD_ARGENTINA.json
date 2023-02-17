@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P50",
+      "codename": "P50_LPR",
+      "model": "P50 LPR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P55",
       "codename": "P55",
       "model": "P55"

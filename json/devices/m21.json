@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Doogee",
+    "market_name": "S41",
+    "codename": "M21",
+    "model": "S41"
+  },
+  {
     "manufacturer": "Himax",
     "market_name": "M21",
     "codename": "M21",

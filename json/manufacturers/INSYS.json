@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HN2-M16P",
+      "codename": "HN2-M16P",
+      "model": "HN2-M16P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HN2-M16Q",
       "codename": "HN2-M16Q",
       "model": "HN2-M16Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HN2-M87P",
+      "codename": "HN2-M87P",
+      "model": "HN2-M87P"
     },
     {
       "manufacturer": "",
@@ -54,6 +66,12 @@
       "market_name": "KT9-70RA",
       "codename": "KT9-70RA",
       "model": "KT9-70RA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WH2-9832",
+      "codename": "WH2-9832",
+      "model": "WH2-9832"
     }
   ]
 }

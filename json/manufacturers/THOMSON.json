@@ -33,18 +33,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R3",
-      "model": "R3"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Delight TH201",
       "codename": "Delight_TH201",
       "model": "Delight TH201"
@@ -105,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SPPL 4K GSmartTV",
       "codename": "SW6H",
       "model": "SPPL 4K GSmartTV"
@@ -114,6 +114,12 @@
       "market_name": "SPPL 4K GSmartTV FF",
       "codename": "SW6H",
       "model": "SPPL 4K GSmartTV FF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -137,6 +143,18 @@
       "manufacturer": "",
       "market_name": "TEO10A",
       "codename": "TEO10A1BK32",
+      "model": "TEO10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEO10A",
+      "codename": "TEO10A2BK32P_EEA",
+      "model": "TEO10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEO10A",
+      "codename": "TEO10A4BK64P_EEA",
       "model": "TEO10A"
     },
     {

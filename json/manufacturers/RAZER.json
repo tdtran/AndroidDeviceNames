@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Razer Edge",
+      "codename": "Razer-Edge-WiFi",
+      "model": "Razer Edge WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Razer Edge 5G",
+      "codename": "RZ45-0460",
+      "model": "Razer Edge 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Razer Phone",
       "codename": "cheryl",
       "model": "Phone"

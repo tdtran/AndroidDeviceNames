@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEMOR 11",
+      "codename": "m11",
+      "model": "Memor 11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Memor 20",
       "codename": "Q10",
       "model": "Memor 20"

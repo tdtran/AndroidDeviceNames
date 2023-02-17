@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M51_EEA",
+      "codename": "M51_EEA",
+      "model": "M51_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7133",
       "codename": "M7133",
       "model": "M7133"

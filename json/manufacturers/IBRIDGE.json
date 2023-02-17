@@ -6,6 +6,18 @@
       "market_name": "South Korea",
       "codename": "IBT01H",
       "model": "IBT01H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South Korea",
+      "codename": "IBT01H_BDS",
+      "model": "IBT01H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South Korea",
+      "codename": "IBT02H",
+      "model": "IBT02H"
     }
   ]
 }

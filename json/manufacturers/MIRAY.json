@@ -15,12 +15,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
       "market_name": "MIDM_737",
       "codename": "MIDM_737",
       "model": "MIDM_737"
@@ -30,6 +24,12 @@
       "market_name": "MIDM_F10",
       "codename": "MIDM_F10",
       "model": "MIDM_F10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
     },
     {
       "manufacturer": "",

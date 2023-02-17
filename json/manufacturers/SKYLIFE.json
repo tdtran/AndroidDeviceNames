@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UHD_S63AT",
+      "codename": "INTEKS22SS",
+      "model": "UHD-S63AT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "skylife LTE TV",
       "codename": "DMTS17SS",
       "model": "DMT_1621"

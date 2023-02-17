@@ -1,0 +1,11 @@
+{
+  "manufacturer": "QIN(cn)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F22 Pro",
+      "codename": "F22Pro",
+      "model": "F22Pro"
+    }
+  ]
+}

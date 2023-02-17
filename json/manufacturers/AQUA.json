@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUA MatrixTV AE",
+      "codename": "irvine",
+      "model": "AQUA MatrixTV AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUA MatrixTV BE",
+      "codename": "jordan",
+      "model": "AQUA MatrixTV BE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUA android TV",
       "codename": "hanyang",
       "model": "AQUA Android TV"

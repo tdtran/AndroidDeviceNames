@@ -16,6 +16,12 @@
     {
       "manufacturer": "",
       "market_name": "Italy",
+      "codename": "guandu",
+      "model": "Qbell 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Italy",
       "codename": "tamachi",
       "model": "Qbell FHD Android TV"
     },

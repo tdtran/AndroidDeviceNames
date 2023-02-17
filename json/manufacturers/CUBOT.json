@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J20",
+      "codename": "J20",
+      "model": "J20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J5",
       "codename": "J5",
       "model": "J5"
@@ -237,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOTE 30",
+      "codename": "NOTE_30",
+      "model": "NOTE 30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE 7",
       "codename": "NOTE_7",
       "model": "NOTE 7"
@@ -294,6 +306,12 @@
       "market_name": "P60",
       "codename": "P60",
       "model": "P60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCKET 3",
+      "codename": "POCKET_3",
+      "model": "POCKET 3"
     },
     {
       "manufacturer": "",

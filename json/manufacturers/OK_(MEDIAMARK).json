@@ -52,8 +52,20 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT DE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "osaki",
       "model": "2K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT DE"
     },
     {
       "manufacturer": "",

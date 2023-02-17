@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Indonesia",
+      "codename": "guandu",
+      "model": "SPC Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIGHTYEAR-2",
       "codename": "LIGHTYEAR-2",
       "model": "LIGHTYEAR 2"
@@ -108,6 +114,12 @@
       "market_name": "SMART_ULTIMATE",
       "codename": "SMART_ULTIMATE",
       "model": "SMART_ULTIMATE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "US",
+      "codename": "martin",
+      "model": "SPC Android Monitor"
     }
   ]
 }

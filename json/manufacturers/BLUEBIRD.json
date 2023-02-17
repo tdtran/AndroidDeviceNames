@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SF650",
+      "codename": "SF650",
+      "model": "SF650"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ST080",
       "codename": "ST080",
       "model": "ST080"

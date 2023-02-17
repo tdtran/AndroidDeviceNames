@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Quantum_Q7s",
+      "codename": "Quantum_Q7s",
+      "model": "Quantum_Q7s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Quantum_Q7s_Plus",
+      "codename": "Quantum_Q7s_Plus",
+      "model": "Quantum_Q7s_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tablet10_X-View",
       "codename": "Tablet10_X_View",
       "model": "Tablet10_X-View"

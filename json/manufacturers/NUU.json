@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A19L",
+      "codename": "S6303LA_Go",
+      "model": "S6303L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "NUU_A3",
       "model": "NUU_A3"
@@ -99,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A9L",
+      "codename": "S6303LA_Go",
+      "model": "S6303L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B10",
       "codename": "S6505LA",
       "model": "S6505L"
@@ -108,6 +120,12 @@
       "market_name": "B15",
       "codename": "S6701LA",
       "model": "S6701L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B20",
+      "codename": "N6501LA",
+      "model": "N6501L"
     },
     {
       "manufacturer": "",
@@ -221,6 +239,12 @@
       "manufacturer": "",
       "market_name": "Tab 8",
       "codename": "T0801LAV1",
+      "model": "T0801L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 8",
+      "codename": "T0801LAV2",
       "model": "T0801L"
     },
     {

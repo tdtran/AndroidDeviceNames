@@ -84,6 +84,12 @@
       "market_name": "TAB_915_4G",
       "codename": "TAB_915_4G",
       "model": "TAB_915_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_916_4G",
+      "codename": "TAB_916_4G",
+      "model": "TAB_916_4G"
     }
   ]
 }

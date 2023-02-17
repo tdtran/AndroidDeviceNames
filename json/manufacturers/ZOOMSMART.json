@@ -12,6 +12,12 @@
       "market_name": "LT800",
       "codename": "LT800",
       "model": "LT800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZM800_EEA",
+      "codename": "ZM800",
+      "model": "ZM800"
     }
   ]
 }

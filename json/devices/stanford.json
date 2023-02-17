@@ -60,6 +60,12 @@
     "model": "40D"
   },
   {
+    "manufacturer": "Ghia",
+    "market_name": "GHIA",
+    "codename": "stanford",
+    "model": "SMART TV"
+  },
+  {
     "manufacturer": "Hyundai",
     "market_name": "Hyundai",
     "codename": "stanford",
@@ -76,6 +82,12 @@
     "market_name": "hyundai",
     "codename": "stanford",
     "model": "SMART TV"
+  },
+  {
+    "manufacturer": "Indurama",
+    "market_name": "INDURAMA",
+    "codename": "stanford",
+    "model": "INDURAMA SMART TV 2K"
   },
   {
     "manufacturer": "Indurama",
@@ -96,12 +108,6 @@
     "model": "2K SMART TV"
   },
   {
-    "manufacturer": "JVC",
-    "market_name": "SA",
-    "codename": "stanford",
-    "model": "2K SMART TV"
-  },
-  {
     "manufacturer": "K-ELEC",
     "market_name": "KELEC",
     "codename": "stanford",
@@ -115,6 +121,18 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "AZATECH",
+    "codename": "stanford",
+    "model": "SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "BAUF",
+    "codename": "stanford",
+    "model": "SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Banana",
     "codename": "stanford",
     "model": "2K SMART TV"
@@ -124,6 +142,12 @@
     "market_name": "COL",
     "codename": "stanford",
     "model": "40DCOL"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "COMPAQ",
+    "codename": "stanford",
+    "model": "SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -163,6 +187,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "MTEK",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Maxsonic_elite",
     "codename": "stanford",
     "model": "2K SMART TV"
@@ -181,6 +211,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "NEXT_G",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Nobrand",
     "codename": "stanford",
     "model": "Smart FHD TV"
@@ -193,15 +229,15 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "Rosso",
+    "market_name": "PROMETHEUS",
     "codename": "stanford",
-    "model": "40D"
+    "model": "SMART TV"
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "SA",
+    "market_name": "Rosso",
     "codename": "stanford",
-    "model": "2K Siera SMART TV"
+    "model": "40D"
   },
   {
     "manufacturer": "KTCtv",
@@ -211,9 +247,9 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "SA",
+    "market_name": "SIERA",
     "codename": "stanford",
-    "model": "F VIZZION TV"
+    "model": "2K Siera SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -223,9 +259,21 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "VIZZION",
+    "codename": "stanford",
+    "model": "F VIZZION TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "VON",
     "codename": "stanford",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "XITRIX",
+    "codename": "stanford",
+    "model": "SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -238,6 +286,12 @@
     "market_name": "Karbonn Smart TV",
     "codename": "stanford",
     "model": "40D"
+  },
+  {
+    "manufacturer": "Kivi",
+    "market_name": "KIVI",
+    "codename": "stanford",
+    "model": "2K T56 Smart TV"
   },
   {
     "manufacturer": "LUCOMS",
@@ -253,9 +307,21 @@
   },
   {
     "manufacturer": "Motorola",
+    "market_name": "MOTOROLA",
+    "codename": "stanford",
+    "model": "Smart FHD TV"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "Motorola",
     "codename": "stanford",
     "model": "CSV2K"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "Philco",
+    "codename": "stanford",
+    "model": "PHILCO SMART"
   },
   {
     "manufacturer": "S Vision",
@@ -277,7 +343,7 @@
   },
   {
     "manufacturer": "Siragon",
-    "market_name": "SA",
+    "market_name": "SIRAGON",
     "codename": "stanford",
     "model": "SMART TV"
   },

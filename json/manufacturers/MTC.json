@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ENTV",
+      "codename": "shilin",
+      "model": "ENTV4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hansung",
       "codename": "seocho",
       "model": "Hansung 4K Android TV"
@@ -57,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Monex",
+      "codename": "shilin",
+      "model": "Monex4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Olive",
       "codename": "bruno",
       "model": "Olive 2K Android TV"
@@ -90,6 +102,18 @@
       "market_name": "Smart_Light",
       "codename": "Smart_Light",
       "model": "Smart_Light"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VINCENT",
+      "codename": "bruno",
+      "model": "VINCENT 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VINCENT",
+      "codename": "shilin",
+      "model": "VINCENT 4K Android TV"
     },
     {
       "manufacturer": "",

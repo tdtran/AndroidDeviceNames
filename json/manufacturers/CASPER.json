@@ -27,18 +27,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R3",
-      "model": "R3"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
       "market_name": "CASPER_L10_4_5G",
       "codename": "CASPER_L10_4_5G",
       "model": "CASPER_L10_4.5G"
@@ -87,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S20",
       "codename": "S20",
       "model": "S20"
@@ -120,6 +114,18 @@
       "market_name": "VIA A4",
       "codename": "VIA_A4",
       "model": "VIA A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA F30",
+      "codename": "VIA_F30",
+      "model": "VIA F30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA F30 Plus",
+      "codename": "VIA_F30_Plus",
+      "model": "VIA F30 Plus"
     },
     {
       "manufacturer": "",

@@ -6,6 +6,18 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "ASHER",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Aiwa",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "BEC-KW",
     "market_name": "Smart TV",
     "codename": "longshan",
@@ -30,7 +42,19 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "CHiQ",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "CRONY",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
@@ -43,6 +67,18 @@
   },
   {
     "manufacturer": "Classpro",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Ditecma",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Ergo",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
@@ -67,6 +103,12 @@
   },
   {
     "manufacturer": "Hyundai",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Infinix",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
@@ -120,6 +162,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT DE"
+  },
+  {
     "manufacturer": "ORION",
     "market_name": "Smart TV",
     "codename": "longshan",
@@ -136,6 +184,12 @@
     "market_name": "Android TV",
     "codename": "longshan",
     "model": "AI PONT NA"
+  },
+  {
+    "manufacturer": "Raylandz",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
   },
   {
     "manufacturer": "Rindo",
@@ -156,6 +210,18 @@
     "model": "AI PONT IT"
   },
   {
+    "manufacturer": "SHINON",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Strong",
     "market_name": "Smart TV",
     "codename": "longshan",
@@ -163,6 +229,12 @@
   },
   {
     "manufacturer": "Swosh",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Syinix",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
@@ -178,6 +250,12 @@
     "market_name": "Android TV",
     "codename": "longshan",
     "model": "AI PONT NA"
+  },
+  {
+    "manufacturer": "UD (EU)",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
   },
   {
     "manufacturer": "Vivax",

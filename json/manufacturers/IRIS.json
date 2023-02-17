@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IRIS 4K SmartTV",
+      "codename": "SW6H",
+      "model": "IRIS 4K SmartTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRIS 4K SmartTV FF",
+      "codename": "SW6H",
+      "model": "IRIS 4K SmartTV FF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IRIS Smart TV",
       "codename": "SW4H",
       "model": "IRIS Smart TV"

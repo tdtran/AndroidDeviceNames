@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 11 Prime",
+      "codename": "rock",
+      "model": "22071219AI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 11 Prime 5G",
       "codename": "light",
       "model": "22041219I"
@@ -537,6 +543,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi K60",
+      "codename": "mondrian",
+      "model": "23013RK75C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K60 Pro",
+      "codename": "socrates",
+      "model": "22127RK46C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K60E",
+      "codename": "rembrandt",
+      "model": "22122RK93C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 10",
       "codename": "camellia",
       "model": "M2103K19C"
@@ -789,6 +813,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 12 5G",
+      "codename": "sunstone",
+      "model": "22101317C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 DISCOVERY EDITION",
+      "codename": "rubyplus",
+      "model": "22101316UC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro",
+      "codename": "ruby",
+      "model": "22101316C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro Speed",
+      "codename": "redwood",
+      "model": "22101320C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro+",
+      "codename": "rubypro",
+      "model": "22101316UCP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 7",
       "codename": "lavender",
       "model": "Redmi Note 7"
@@ -936,6 +990,12 @@
       "market_name": "Redmi Note 9T",
       "codename": "cannong",
       "model": "M2007J22G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad",
+      "codename": "yunluo",
+      "model": "22081283G"
     },
     {
       "manufacturer": "",

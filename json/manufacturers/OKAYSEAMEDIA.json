@@ -6,6 +6,18 @@
       "market_name": "TK706",
       "codename": "TK706",
       "model": "TK706"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TK708",
+      "codename": "TK708",
+      "model": "TK708"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TK708_EEA",
+      "codename": "TK708_EEA",
+      "model": "TK708_EEA"
     }
   ]
 }

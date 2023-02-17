@@ -49,6 +49,12 @@
   },
   {
     "manufacturer": "Indurama",
+    "market_name": "INDURAMA",
+    "codename": "zhongshan",
+    "model": "INDURAMA SMART TV 4K"
+  },
+  {
+    "manufacturer": "Indurama",
     "market_name": "Indurama",
     "codename": "zhongshan",
     "model": "CSV4K"
@@ -70,6 +76,18 @@
     "market_name": "KELEC",
     "codename": "zhongshan",
     "model": "43F"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "AZATECH",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "BAUF",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -169,6 +187,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "NEXT_G",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "POWER GREEN",
     "codename": "zhongshan",
     "model": "4K SMART TV"
@@ -216,6 +240,12 @@
     "model": "43FSA"
   },
   {
+    "manufacturer": "Kivi",
+    "market_name": "KIVI",
+    "codename": "zhongshan",
+    "model": "4K T31 Smart TV"
+  },
+  {
     "manufacturer": "LUCOMS",
     "market_name": "LUCOMS",
     "codename": "zhongshan",
@@ -232,6 +262,12 @@
     "market_name": "MOTOROLA",
     "codename": "zhongshan",
     "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "MOTOROLA",
+    "codename": "zhongshan",
+    "model": "Smart UHD TV"
   },
   {
     "manufacturer": "Motorola",

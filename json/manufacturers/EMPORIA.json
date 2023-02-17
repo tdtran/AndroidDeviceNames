@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S4i",
+      "codename": "S4",
+      "model": "S4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S5_EEA",
       "codename": "S5",
       "model": "S5"
@@ -22,6 +28,12 @@
     {
       "manufacturer": "",
       "market_name": "SE",
+      "codename": "SE",
+      "model": "SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEi",
       "codename": "SE",
       "model": "SE"
     },

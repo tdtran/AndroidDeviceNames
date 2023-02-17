@@ -6,6 +6,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "ASHER",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Aiwa",
     "market_name": "Smart TV",
     "codename": "redwood",
@@ -13,6 +19,12 @@
   },
   {
     "manufacturer": "BEC-KW",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "BRANDO",
     "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
@@ -48,6 +60,24 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Condor",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "ELSONIC",
+    "market_name": "ESD",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Ergo",
+    "market_name": "GHS55",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Grunhelm",
     "market_name": "Smart TV",
     "codename": "redwood",
@@ -78,8 +108,26 @@
     "model": "AI PONT CO"
   },
   {
+    "manufacturer": "Itel",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "KUNFT",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Kogan",
     "market_name": "RF9220",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "LIBERTON",
+    "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
   },
@@ -108,6 +156,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT DE"
+  },
+  {
     "manufacturer": "ORION",
     "market_name": "Smart TV",
     "codename": "redwood",
@@ -118,6 +172,18 @@
     "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "G5N",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12 Pro Speed",
+    "codename": "redwood",
+    "model": "22101320C"
   },
   {
     "manufacturer": "Rindo",
@@ -138,8 +204,26 @@
     "model": "AI PONT IT"
   },
   {
+    "manufacturer": "SHINON",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Strong",
     "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Syinix",
+    "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
   },
@@ -157,6 +241,12 @@
   },
   {
     "manufacturer": "TEKLIO",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Thomson",
     "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"

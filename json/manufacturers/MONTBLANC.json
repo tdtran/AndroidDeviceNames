@@ -16,6 +16,12 @@
     {
       "manufacturer": "",
       "market_name": "Summit",
+      "codename": "bluefish",
+      "model": "SUMMIT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Summit",
       "codename": "lionfish",
       "model": "MB SUMMIT"
     },
@@ -24,12 +30,6 @@
       "market_name": "Summit 2+",
       "codename": "coralia",
       "model": "Summit 2+"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Summit 3",
-      "codename": "bluefish",
-      "model": "SUMMIT"
     },
     {
       "manufacturer": "",

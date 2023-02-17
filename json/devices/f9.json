@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "FreeYond",
+    "market_name": "F9",
+    "codename": "F9",
+    "model": "F9"
+  },
+  {
     "manufacturer": "Gionee",
     "market_name": "F9",
     "codename": "F9",

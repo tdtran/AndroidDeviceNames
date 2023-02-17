@@ -12,6 +12,12 @@
     "model": "B1"
   },
   {
+    "manufacturer": "IIIF150",
+    "market_name": "B1",
+    "codename": "B1",
+    "model": "B1"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "G Pro2",
     "codename": "b1",

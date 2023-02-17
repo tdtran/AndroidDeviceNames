@@ -309,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite Max",
+      "codename": "Elite_Max",
+      "model": "Elite Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite N55",
       "codename": "Elite_N55",
       "model": "Elite N55"
@@ -906,6 +912,12 @@
       "market_name": "SKY KID1",
       "codename": "SKY_KID1",
       "model": "SKY_KID1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY Pad10",
+      "codename": "SKY_Pad10k",
+      "model": "SKY Pad10"
     },
     {
       "manufacturer": "",

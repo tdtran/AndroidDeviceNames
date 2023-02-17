@@ -12,6 +12,12 @@
       "market_name": "S988",
       "codename": "S988",
       "model": "S988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S988",
+      "codename": "S988_itree",
+      "model": "S988"
     }
   ]
 }

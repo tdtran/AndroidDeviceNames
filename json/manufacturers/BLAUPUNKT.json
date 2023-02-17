@@ -219,6 +219,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "guandu",
+      "model": "BLAUPUNKT EU 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "martin",
+      "model": "BLAUPUNKT EU 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "martin",
+      "model": "BLAUPUNKT EU 2K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Guardian",
       "codename": "Guardian",
       "model": "Guardian"
@@ -286,6 +304,12 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "samseong",
       "model": "AI PONT"
     },
@@ -300,6 +324,12 @@
       "market_name": "TX01",
       "codename": "TX01",
       "model": "TX01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TX60",
+      "codename": "Blaupunkt_TX60",
+      "model": "Blaupunkt_TX60"
     },
     {
       "manufacturer": "",

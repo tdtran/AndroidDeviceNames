@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IVI-SYSTEM",
+      "codename": "msmnile_au",
+      "model": "IVI-SYSTEM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MY15ADA",
       "codename": "koelsch",
       "model": "MY15ADA"

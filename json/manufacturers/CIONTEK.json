@@ -18,6 +18,12 @@
       "market_name": "CS50",
       "codename": "CS50",
       "model": "CS50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS50_EEA",
+      "codename": "CS50",
+      "model": "CS50"
     }
   ]
 }

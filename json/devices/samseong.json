@@ -90,6 +90,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Condor",
+    "market_name": "Algeria",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Erito",
     "market_name": "Vietnam",
     "codename": "samseong",
@@ -200,6 +206,12 @@
   {
     "manufacturer": "PILOT",
     "market_name": "PQ55CH",
+    "codename": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Premier",
+    "market_name": "PRM750USV",
     "codename": "samseong",
     "model": "AI PONT"
   },

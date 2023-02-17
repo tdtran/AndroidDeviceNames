@@ -18,6 +18,12 @@
       "market_name": "P670",
       "codename": "P670",
       "model": "P670"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP65_66440",
+      "codename": "SP65_66440",
+      "model": "SP65_66440"
     }
   ]
 }

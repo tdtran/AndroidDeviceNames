@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V350",
+      "codename": "V350",
+      "model": "V350"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V700",
       "codename": "V700",
       "model": "V700"
@@ -24,6 +30,12 @@
       "market_name": "V710",
       "codename": "V710",
       "model": "V710"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V730",
+      "codename": "V730",
+      "model": "V730"
     },
     {
       "manufacturer": "",

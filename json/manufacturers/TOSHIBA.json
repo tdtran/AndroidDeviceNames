@@ -27,6 +27,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2K TV",
+      "codename": "songshan",
+      "model": "2K Toshiba TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K TV",
+      "codename": "songshan",
+      "model": "Toshiba TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K TV",
+      "codename": "songshan",
+      "model": "Toshiba TV with MIC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A204",
       "codename": "tos14ast10",
       "model": "A204"
@@ -144,18 +162,6 @@
       "market_name": "AT7-C",
       "codename": "tos14riy20",
       "model": "AT7-C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "C350LK",
-      "codename": "songshan",
-      "model": "Toshiba TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
-      "codename": "songshan",
-      "model": "Toshiba TV"
     },
     {
       "manufacturer": "",
@@ -285,18 +291,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "M550LK",
-      "codename": "songshan",
-      "model": "Toshiba TV with MIC"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "M550LP/M550LI",
-      "codename": "songshan",
-      "model": "Toshiba TV with MIC"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Mozart",
       "codename": "Mozart",
       "model": "Mozart"
@@ -339,12 +333,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "V35LK",
-      "codename": "songshan",
-      "model": "2K Toshiba TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "fushan_Toshiba",
       "codename": "hamamatsucho",
       "model": "HiSmart 2K ATV4"
@@ -354,6 +342,18 @@
       "market_name": "fushan_euT",
       "codename": "hamamatsucho",
       "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "huangshan_emT",
+      "codename": "huangshan",
+      "model": "Toshiba TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "huashan_emT",
+      "codename": "hayward",
+      "model": "Toshiba TV"
     },
     {
       "manufacturer": "",

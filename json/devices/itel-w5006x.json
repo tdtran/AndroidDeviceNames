@@ -4,5 +4,11 @@
     "market_name": "A17",
     "codename": "itel-W5006X",
     "model": "itel W5006X"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "itel A17",
+    "codename": "itel-W5006X",
+    "model": "itel W5006X"
   }
 ]

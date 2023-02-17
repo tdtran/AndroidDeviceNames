@@ -207,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S300",
+      "codename": "S300",
+      "model": "S300"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S401",
       "codename": "S401",
       "model": "S401"

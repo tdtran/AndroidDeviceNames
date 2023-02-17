@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Oppo",
+    "market_name": "CPH2461",
+    "codename": "OP533FL1",
+    "model": "CPH2461"
+  },
+  {
+    "manufacturer": "Oppo",
     "market_name": "OPPO Reno7",
     "codename": "OP533FL1",
     "model": "CPH2363"

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Algeria",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Allure  M1",
       "codename": "Allure_M1",
       "model": "Allure M1"
@@ -96,12 +102,6 @@
       "market_name": "C7",
       "codename": "PGN_506",
       "model": "PGN-506"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "CLEVER 3",
-      "codename": "CLEVER_3",
-      "model": "CLEVER 3"
     },
     {
       "manufacturer": "",
@@ -546,6 +546,12 @@
       "market_name": "SP638",
       "codename": "SP638",
       "model": "Plume L3 Smart"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",

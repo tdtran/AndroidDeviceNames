@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "martin",
+      "model": "Smarttech Android Monitor"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Malaysia",
       "codename": "yeongdeungpo",
       "model": "AiPlus4KMY"

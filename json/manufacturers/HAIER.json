@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CANDY MatrixTV BE",
+      "codename": "jordan",
+      "model": "CANDY MatrixTV BE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CDP7TAB4C8",
       "codename": "CDP7TAB4C8",
       "model": "CDP7TAB4C8"
@@ -333,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy TV AEL",
+      "codename": "irvine",
+      "model": "Galaxy TV AEL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HEC Android TV",
       "codename": "hanyang",
       "model": "HEC Android TV"
@@ -435,15 +447,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Haier 2K android TV",
+      "market_name": "Haier 2K Android TV",
       "codename": "nippori",
-      "model": "haierATVnippori"
+      "model": "Haier 2K Android TV"
     },
     {
       "manufacturer": "",
-      "market_name": "Haier Android TV",
+      "market_name": "Haier 4K Android TV",
       "codename": "hanyang",
-      "model": "haierATV"
+      "model": "Haier 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -501,21 +513,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier Android TV PRO ISDB",
+      "codename": "daan",
+      "model": "Haier Android TV PRO ISDB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Haier Leisure L7",
       "codename": "Haier_Leisure_L7",
       "model": "HM-N700-FL"
     },
     {
       "manufacturer": "",
-      "market_name": "Haier Titan T5",
-      "codename": "Titan_T5",
-      "model": "Titan_T5"
+      "market_name": "Haier MatrixTV AE",
+      "codename": "irvine",
+      "model": "Haier MatrixTV AE"
     },
     {
       "manufacturer": "",
-      "market_name": "Haier android TV",
-      "codename": "hanyang",
-      "model": "Haier 4K Android TV"
+      "market_name": "Haier MatrixTV AEL",
+      "codename": "irvine",
+      "model": "Haier MatrixTV AEL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier MatrixTV BE",
+      "codename": "jordan",
+      "model": "Haier MatrixTV BE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier MatrixTV BS",
+      "codename": "jordan",
+      "model": "Haier MatrixTV BS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier Titan T5",
+      "codename": "Titan_T5",
+      "model": "Titan_T5"
     },
     {
       "manufacturer": "",
@@ -612,12 +648,6 @@
       "market_name": "L52",
       "codename": "Haier_L52",
       "model": "L52"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LATAM",
-      "codename": "nippori",
-      "model": "Haier 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -1002,6 +1032,18 @@
       "market_name": "haier lesure L7",
       "codename": "Haier_Leisure_L7",
       "model": "HM-N700-FL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "haierATV",
+      "codename": "hanyang",
+      "model": "haierATV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "haierATVnippori",
+      "codename": "nippori",
+      "model": "haierATVnippori"
     },
     {
       "manufacturer": "",

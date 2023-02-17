@@ -22,5 +22,11 @@
     "market_name": "RUBY",
     "codename": "RUBY",
     "model": "RUBY"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12 Pro",
+    "codename": "ruby",
+    "model": "22101316C"
   }
 ]

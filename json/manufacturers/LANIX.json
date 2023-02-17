@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alpha 3R",
+      "codename": "ALPHA_3R",
+      "model": "Alpha 3R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alpha 5V",
       "codename": "Alpha_5V",
       "model": "Alpha 5V"
@@ -132,6 +138,12 @@
       "market_name": "ILIUM_PADE7",
       "codename": "ILIUM_PADE7V10",
       "model": "ILIUM_PADE7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ILIUM_PAD_RX8_v5",
+      "codename": "ILIUM_PAD_RX8_v5",
+      "model": "ILIUM_PAD_RX8_v5"
     },
     {
       "manufacturer": "",
@@ -522,6 +534,12 @@
       "market_name": "Llium L910",
       "codename": "Ilium_L910",
       "model": "Ilium L910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX8",
+      "codename": "Ilium_PAD_RX8",
+      "model": "Ilium_PAD_RX8v4"
     },
     {
       "manufacturer": "",

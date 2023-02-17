@@ -6,6 +6,18 @@
       "market_name": "T88",
       "codename": "T88",
       "model": "T88"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y101",
+      "codename": "Y101",
+      "model": "Y101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z-T10",
+      "codename": "Z-T10",
+      "model": "Z-T10"
     }
   ]
 }

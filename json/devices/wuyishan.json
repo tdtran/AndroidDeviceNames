@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "Hisense",
-    "market_name": "U70H/U8H/U80H/U85H",
+    "market_name": "Laser TV",
+    "codename": "wuyishan",
+    "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "ULED",
     "codename": "wuyishan",
     "model": "SmartTV 4K FFM"
   }

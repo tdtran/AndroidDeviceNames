@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C21_Pro_EEA",
+      "codename": "C21_Pro",
+      "model": "C21 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C22",
       "codename": "C22",
       "model": "C22"
@@ -198,6 +204,12 @@
       "market_name": "C9",
       "codename": "C9",
       "model": "C9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C90_Pro_EEA",
+      "codename": "C90_Pro",
+      "model": "C90 Pro"
     },
     {
       "manufacturer": "",

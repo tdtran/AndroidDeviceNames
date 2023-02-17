@@ -40,5 +40,11 @@
     "market_name": "Galaxy A23 5G",
     "codename": "a23xq",
     "model": "SM-S236DL"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A23 5G UW",
+    "codename": "a23xq",
+    "model": "SM-A236V"
   }
 ]

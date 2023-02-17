@@ -12,6 +12,12 @@
       "market_name": "fushan_BGH",
       "codename": "hamamatsucho",
       "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xiaoyushan-bgh",
+      "codename": "xiaoyushan",
+      "model": "HiSmartTV A4"
     }
   ]
 }

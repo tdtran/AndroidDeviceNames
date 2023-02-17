@@ -12,6 +12,12 @@
       "market_name": "VIP7100 A",
       "codename": "SFO",
       "model": "VIP7100 A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIP7300",
+      "codename": "f503",
+      "model": "VIP7300"
     }
   ]
 }

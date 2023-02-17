@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E00",
+      "codename": "Edinburgh",
+      "model": "E00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One",
       "codename": "A0001",
       "model": "A0001"
@@ -275,6 +281,12 @@
       "manufacturer": "",
       "market_name": "OnePlus 8 5G",
       "codename": "OnePlus8TMO",
+      "model": "IN2015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 8 5G",
+      "codename": "OnePlus8TMO",
       "model": "IN2017"
     },
     {
@@ -384,6 +396,12 @@
       "market_name": "OnePlus 9 Pro 5G",
       "codename": "OnePlus9Pro",
       "model": "LE2123"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 9 Pro 5G",
+      "codename": "OnePlus9Pro",
+      "model": "LE2125"
     },
     {
       "manufacturer": "",

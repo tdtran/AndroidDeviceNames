@@ -1,0 +1,11 @@
+{
+  "manufacturer": "BioWolf",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DEZ",
+      "codename": "DEZ",
+      "model": "DEZ"
+    }
+  ]
+}

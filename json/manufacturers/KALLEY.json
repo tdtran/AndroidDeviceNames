@@ -21,18 +21,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R3",
-      "model": "R3"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Android TV",
-      "codename": "R4",
-      "model": "R4"
-    },
-    {
-      "manufacturer": "",
       "market_name": "BLACK_PRO",
       "codename": "BLACK_PRO",
       "model": "BLACK_PRO"
@@ -111,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Element 5 Plus",
+      "codename": "Element_5",
+      "model": "Element 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Element Play",
       "codename": "ELEMENT_PLAY",
       "model": "ELEMENT PLAY"
@@ -132,6 +126,18 @@
       "market_name": "Klic",
       "codename": "SA",
       "model": "K4-02 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
     },
     {
       "manufacturer": "",

@@ -1,14 +1,116 @@
 [
   {
+    "manufacturer": "Aborder",
+    "market_name": "Tanzania",
+    "codename": "guandu",
+    "model": "Aborder 4K Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Europe",
+    "codename": "guandu",
+    "model": "BLAUPUNKT EU 4K Android TV"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "India/Srilanka/Bangladesh/GCC",
+    "codename": "guandu",
+    "model": "COMPAQ ANDROID 4K TV"
+  },
+  {
     "manufacturer": "Continental Edison",
     "market_name": "France",
     "codename": "guandu",
     "model": "Continental Edison Android TV"
   },
   {
+    "manufacturer": "JVC",
+    "market_name": "EUROPE",
+    "codename": "guandu",
+    "model": "JVC Android TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Australia and New Zeeland",
+    "codename": "guandu",
+    "model": "Kogan 4K TV"
+  },
+  {
+    "manufacturer": "Nano",
+    "market_name": "Thailand",
+    "codename": "guandu",
+    "model": "Nano Android TV"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "Italy",
+    "codename": "guandu",
+    "model": "Qbell 4K Android TV"
+  },
+  {
+    "manufacturer": "SPC",
+    "market_name": "Indonesia",
+    "codename": "guandu",
+    "model": "SPC Android TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "Europe",
+    "codename": "guandu",
+    "model": "SHARP 4K EU Android TV"
+  },
+  {
     "manufacturer": "Smart-Tech TV",
     "market_name": "Aiplus4K",
     "codename": "guandu",
     "model": "Aiplus4K"
+  },
+  {
+    "manufacturer": "TD SYSTEMS",
+    "market_name": "EUROPE",
+    "codename": "guandu",
+    "model": "TD SYSTEMS Android TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "Europe",
+    "codename": "guandu",
+    "model": "Tesla Android TV"
+  },
+  {
+    "manufacturer": "Turbo-X",
+    "market_name": "EUROPE",
+    "codename": "guandu",
+    "model": "TURBO-X Android TV"
+  },
+  {
+    "manufacturer": "Vega",
+    "market_name": "European and African countries",
+    "codename": "guandu",
+    "model": "VEGA 4K Android TV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "Bangladesh",
+    "codename": "guandu",
+    "model": "Vision Android TV"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "EXPRESS",
+    "codename": "guandu",
+    "model": "WALTON Android TV"
+  },
+  {
+    "manufacturer": "XD-DML",
+    "market_name": "ITALY",
+    "codename": "guandu",
+    "model": "XD 4K Andriod TV"
+  },
+  {
+    "manufacturer": "Zephir",
+    "market_name": "Italy",
+    "codename": "guandu",
+    "model": "Zephir 4K Android TV"
   }
 ]

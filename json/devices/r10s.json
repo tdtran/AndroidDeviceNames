@@ -4,5 +4,11 @@
     "market_name": "R10",
     "codename": "R10S",
     "model": "R10"
+  },
+  {
+    "manufacturer": "redfox",
+    "market_name": "Wizpad_Valuer_R10S",
+    "codename": "R10S",
+    "model": "Wizpad Valuer R10S"
   }
 ]

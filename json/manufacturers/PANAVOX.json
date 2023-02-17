@@ -6,6 +6,12 @@
       "market_name": "50 google tv/58 google tv/65 google tv/75 google tv",
       "codename": "songshan",
       "model": "SmartTV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xiaoyushan_panavox",
+      "codename": "xiaoyushan",
+      "model": "Panavox Android TV"
     }
   ]
 }

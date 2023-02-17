@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AT10",
+      "codename": "AT10",
+      "model": "AT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT10K",
+      "codename": "AT10K",
+      "model": "AT10K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT70K",
       "codename": "AT70K",
       "model": "AT70K"
@@ -18,6 +30,24 @@
       "market_name": "AT70K_EEA",
       "codename": "AT70K_EEA",
       "model": "AT70K_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT71K",
+      "codename": "AT71K",
+      "model": "AT71K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT81K",
+      "codename": "AT81K",
+      "model": "AT81K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP30",
+      "codename": "CP30",
+      "model": "CP30"
     },
     {
       "manufacturer": "",

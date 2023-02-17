@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G5N",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinite",
       "codename": "MID1324",
       "model": "MID 1324"
@@ -492,6 +498,12 @@
       "market_name": "Polaroid",
       "codename": "komagome",
       "model": "Polaroid 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polaroid",
+      "codename": "shilin",
+      "model": "Polaroid4KAndroidTV"
     },
     {
       "manufacturer": "",

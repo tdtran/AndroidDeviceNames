@@ -1,0 +1,29 @@
+{
+  "manufacturer": "IIIF150",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Air1",
+      "codename": "Air1",
+      "model": "Air1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Air1 Pro",
+      "codename": "Air1_Pro",
+      "model": "Air1 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B1",
+      "codename": "B1",
+      "model": "B1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B1 Pro",
+      "codename": "B1_Pro",
+      "model": "B1 Pro"
+    }
+  ]
+}

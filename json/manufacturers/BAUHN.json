@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BAUHN",
+      "codename": "shilin",
+      "model": "BAUHN4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bauhn",
       "codename": "komagome",
       "model": "BAUHN 2K Android TV"

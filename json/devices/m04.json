@@ -4,5 +4,17 @@
     "market_name": "arrows M04",
     "codename": "M04",
     "model": "arrowsM04"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M04",
+    "codename": "m04",
+    "model": "SM-E045F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M04",
+    "codename": "m04",
+    "model": "SM-M045F"
   }
 ]
