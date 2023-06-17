@@ -6,6 +6,12 @@
       "market_name": "uLesson_Education_Tab",
       "codename": "uLesson_Education_Tab",
       "model": "uLesson_Education_Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "uLesson_Education_Tab_V2",
+      "codename": "uLesson_Tab_V2",
+      "model": "uLesson_Education_Tab_V2"
     }
   ]
 }

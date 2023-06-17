@@ -6,6 +6,12 @@
       "market_name": "S917V9",
       "codename": "S917V9",
       "model": "S917V9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SD917R",
+      "codename": "SD917R_Tablet",
+      "model": "SD917R"
     }
   ]
 }

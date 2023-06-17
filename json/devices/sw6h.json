@@ -1,9 +1,21 @@
 [
   {
     "manufacturer": "Asanzo",
+    "market_name": "EX FF Series",
+    "codename": "SW6H",
+    "model": "EX FF Series"
+  },
+  {
+    "manufacturer": "Asanzo",
     "market_name": "EX Series",
     "codename": "SW6H",
     "model": "EX Series"
+  },
+  {
+    "manufacturer": "Britania",
+    "market_name": "Britania Smart plus TV",
+    "codename": "SW6H",
+    "model": "Britania Smart plus TV"
   },
   {
     "manufacturer": "COEX",
@@ -28,6 +40,18 @@
     "market_name": "Casper Smart TV",
     "codename": "SW6H",
     "model": "Casper Smart TV"
+  },
+  {
+    "manufacturer": "Daewoo",
+    "market_name": "DAEWOO SMART TV",
+    "codename": "SW6H",
+    "model": "DAEWOO SMART TV"
+  },
+  {
+    "manufacturer": "Dawlance",
+    "market_name": "DAWLANCE GSMART 4KTV",
+    "codename": "SW6H",
+    "model": "DAWLANCE GSMART 4KTV"
   },
   {
     "manufacturer": "Green House",
@@ -72,10 +96,28 @@
     "model": "PrismPlus P4KA"
   },
   {
+    "manufacturer": "Panasonic",
+    "market_name": "4KTV-3SU",
+    "codename": "SW6H",
+    "model": "4KTV-3SU"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "4KTV-3SUF",
+    "codename": "SW6H",
+    "model": "4KTV-3SUF"
+  },
+  {
     "manufacturer": "SWTV",
     "market_name": "SW-22AE NF",
     "codename": "SW6H",
     "model": "SW-22AE NF"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SW-22HK NF",
+    "codename": "SW6H",
+    "model": "SW-22HK NF"
   },
   {
     "manufacturer": "SWTV",
@@ -114,6 +156,12 @@
     "model": "SWTV-22AE"
   },
   {
+    "manufacturer": "Singer",
+    "market_name": "Singer 4K GSMART TV",
+    "codename": "SW6H",
+    "model": "Singer 4K GSMART TV"
+  },
+  {
     "manufacturer": "TORNADO",
     "market_name": "TORNADO 4K SmartTV",
     "codename": "SW6H",
@@ -150,9 +198,39 @@
     "model": "VEON 4K Smart TV"
   },
   {
+    "manufacturer": "Walton",
+    "market_name": "WALTON GSMART 4KTV FF",
+    "codename": "SW6H",
+    "model": "WALTON GSMART 4KTV FF"
+  },
+  {
+    "manufacturer": "Xtreme",
+    "market_name": "Xtreme 4K Smart TV",
+    "codename": "SW6H",
+    "model": "Xtreme 4K Smart TV"
+  },
+  {
     "manufacturer": "Yasin",
     "market_name": "YASIN 4K G Smart TV",
     "codename": "SW6H",
     "model": "YASIN 4K G Smart TV"
+  },
+  {
+    "manufacturer": "Yasin",
+    "market_name": "YASIN 4K G Smart TV FF",
+    "codename": "SW6H",
+    "model": "YASIN 4K G Smart TV FF"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "realme 4K G Smart TV",
+    "codename": "SW6H",
+    "model": "realme 4K G Smart TV"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "realme 4K G Smart TV FF",
+    "codename": "SW6H",
+    "model": "realme 4K G Smart TV FF"
   }
 ]

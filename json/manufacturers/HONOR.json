@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 70 Lite",
+      "codename": "HNRBN-Q",
+      "model": "RBN-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic Vs",
+      "codename": "HNFRI",
+      "model": "FRI-NX9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Magic4 Lite",
       "codename": "HNANY-Q1",
       "model": "ANY-LX1"
@@ -51,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR Magic5",
+      "codename": "HNPGT",
+      "model": "PGT-N09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Magic5 Lite 5G",
       "codename": "HNRMO-Q",
       "model": "RMO-NX1"
@@ -60,6 +78,12 @@
       "market_name": "HONOR Magic5 Lite 5G",
       "codename": "HNRMO-Q",
       "model": "RMO-NX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic5 Pro",
+      "codename": "HNPGT",
+      "model": "PGT-N19"
     },
     {
       "manufacturer": "",
@@ -195,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR X8a 5G",
+      "codename": "HNRBN-Q",
+      "model": "RBN-NX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR X9",
       "codename": "HNANY-Q1",
       "model": "ANY-LX1"
@@ -222,6 +252,12 @@
       "market_name": "HONOR X9a 5G",
       "codename": "HNRMO-Q",
       "model": "RMO-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RBN-NX1",
+      "codename": "HNRBN-Q",
+      "model": "RBN-NX1"
     }
   ]
 }

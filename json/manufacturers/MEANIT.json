@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "meanIT_X40",
+      "codename": "meanIT_X40_EEA",
+      "model": "meanIT_X40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "meanIT_X6",
       "codename": "meanIT_X6",
       "model": "meanIT_X6"

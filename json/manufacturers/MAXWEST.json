@@ -3,6 +3,60 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ASTRO 10R",
+      "codename": "MX-A100RWW",
+      "model": "MX-A10R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO 10R",
+      "codename": "MX-A101RWW",
+      "model": "MX-A10R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO 10R",
+      "codename": "MX-A102RWW",
+      "model": "MX-A10R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO 10R",
+      "codename": "MX-A10R1WW",
+      "model": "MX-A10R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO 10R",
+      "codename": "MX-A10R2WW",
+      "model": "MX-A10R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO 10R",
+      "codename": "MX-A10RWW",
+      "model": "MX-A10R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO_8R",
+      "codename": "MX-A80RWW",
+      "model": "MX-A8R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO 8R",
+      "codename": "MX-A81RWW",
+      "model": "MX-A8R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO 8R",
+      "codename": "MX-A82RWW",
+      "model": "MX-A8R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astro 4 PRO",
       "codename": "Astro_4_PRO",
       "model": "Astro 4 PRO"
@@ -114,6 +168,12 @@
       "market_name": "Astro 8Q",
       "codename": "Astro_8Q",
       "model": "Astro 8Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY G6",
+      "codename": "GRAVITY_G6",
+      "model": "MX-GG6"
     },
     {
       "manufacturer": "",

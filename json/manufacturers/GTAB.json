@@ -231,8 +231,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S30_1",
+      "codename": "S30_1",
+      "model": "S30_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S40",
       "codename": "S40",
+      "model": "S40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40-1",
+      "codename": "S40-1",
       "model": "S40"
     },
     {

@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E Series",
+      "codename": "umeda",
+      "model": "E Series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EX FF Series",
+      "codename": "SW6H",
+      "model": "EX FF Series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EX Series",
       "codename": "SW6H",
       "model": "EX Series"

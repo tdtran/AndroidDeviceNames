@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9116",
+      "codename": "M9116",
+      "model": "M9116"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Movitel_M9104",
       "codename": "Movitel_M9104",
       "model": "Movitel_M9104"

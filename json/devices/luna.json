@@ -25,8 +25,14 @@
   },
   {
     "manufacturer": "TCL",
-    "market_name": "TCL TAB 8",
+    "market_name": "TCL TAB 8 Wi-Fi",
     "codename": "Luna",
     "model": "9132X"
+  },
+  {
+    "manufacturer": "Unihertz",
+    "market_name": "Luna",
+    "codename": "Luna",
+    "model": "Luna"
   }
 ]

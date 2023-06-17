@@ -42,6 +42,12 @@
       "market_name": "S23_US",
       "codename": "S23_US",
       "model": "S23_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S23_US_B",
+      "codename": "S23_US_B",
+      "model": "S23_US_B"
     }
   ]
 }

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "COMPAQ",
+      "codename": "zhongshan",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT101",
       "codename": "fireball",
       "model": "CT101"

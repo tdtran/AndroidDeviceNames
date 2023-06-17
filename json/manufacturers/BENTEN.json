@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Benten_T30",
+      "codename": "Benten_T30",
+      "model": "T30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10",
       "codename": "Benten_T10",
       "model": "T10"

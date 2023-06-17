@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIMOQ A40",
+      "codename": "VIMOQ-A662LS",
+      "model": "VIMOQ A662LS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIMOQ A507LT",
       "codename": "VIMOQ-A507LT",
       "model": "VIMOQ A507LT"
@@ -18,6 +24,12 @@
       "market_name": "VIMOQ V51 LTE",
       "codename": "VIMOQ-A507LE",
       "model": "VIMOQ A507LE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ Vision 3",
+      "codename": "VIMOQ-S661LS",
+      "model": "VIMOQ S661LS"
     },
     {
       "manufacturer": "",

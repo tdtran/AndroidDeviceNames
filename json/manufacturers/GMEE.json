@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ConnectPro",
+      "codename": "ConnectPro",
+      "model": "ConnectPro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ConnectPro_L",
+      "codename": "ConnectPro_L",
+      "model": "ConnectPro_L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-mee Play Pro",
+      "codename": "G-mee_Play_Pro",
+      "model": "G-mee Play Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "connect 2 US",
       "codename": "connect_2_US",
       "model": "connect 2 US"

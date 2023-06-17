@@ -24,6 +24,18 @@
       "market_name": "LT700",
       "codename": "LT700",
       "model": "LT700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT800",
+      "codename": "LT800",
+      "model": "LT800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT800H",
+      "codename": "LT800",
+      "model": "LT800"
     }
   ]
 }

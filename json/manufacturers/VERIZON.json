@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "Stream TV",
+      "codename": "SCSIP02",
+      "model": "Stream TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stream TV",
       "codename": "f354",
       "model": "Stream TV"
     },

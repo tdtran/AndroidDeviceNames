@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab A802",
+      "codename": "Tab_A802",
+      "model": "Tab A802"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab_A1010_Neo",
       "codename": "Tab_A1010_Neo",
       "model": "Tab_A1010_Neo"

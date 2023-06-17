@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Element",
+      "codename": "tennoji",
+      "model": "ElementDeluxe2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "USA \u0026 CANADA",
       "codename": "Tiger838",
       "model": "TU43GDX"

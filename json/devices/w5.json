@@ -34,5 +34,11 @@
     "market_name": "L70",
     "codename": "w5",
     "model": "LGMS323"
+  },
+  {
+    "manufacturer": "Wonder",
+    "market_name": "Wonder",
+    "codename": "W5",
+    "model": "W5"
   }
 ]

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 13 Pro",
+    "codename": "nuwa",
+    "model": "2210132G"
+  },
+  {
+    "manufacturer": "Xiaomi",
     "market_name": "Xiaomi 13 pro",
     "codename": "nuwa",
     "model": "2210132C"

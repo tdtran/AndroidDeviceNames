@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DYON 2K Google TV",
+      "codename": "capitolhill",
+      "model": "DYON 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DYON 4K Google TV",
+      "codename": "keoneae",
+      "model": "DYON 4K Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dyon",
       "codename": "bangbae",
       "model": "Dyon 4K Android TV"

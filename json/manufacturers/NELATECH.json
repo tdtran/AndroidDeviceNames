@@ -1,0 +1,17 @@
+{
+  "manufacturer": "NELATECH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TAB8V1",
+      "codename": "TAB8V1",
+      "model": "TAB8V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V22S1",
+      "codename": "V22S1",
+      "model": "V22S"
+    }
+  ]
+}

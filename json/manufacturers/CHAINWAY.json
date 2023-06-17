@@ -81,6 +81,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MC21",
+      "codename": "MC21",
+      "model": "MC21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC50",
+      "codename": "MC50",
+      "model": "MC50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC95",
+      "codename": "MC95",
+      "model": "MC95"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P80",
       "codename": "P80",
       "model": "P80"

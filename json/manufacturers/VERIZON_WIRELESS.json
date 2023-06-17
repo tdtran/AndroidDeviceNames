@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB Pro 5G",
+      "codename": "Transformer_VZW",
+      "model": "9198S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wear24",
       "codename": "dorado",
       "model": "Wear24"

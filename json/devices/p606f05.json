@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "Optus X Max",
+    "codename": "P606F05",
+    "model": "Blade A72s"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE A7050",
     "codename": "P606F05",
     "model": "ZTE A7050"

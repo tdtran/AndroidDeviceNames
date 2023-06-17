@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "samseong",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Australia",
       "codename": "nippori",
       "model": "Kogan SmarterTV 2K"
@@ -47,12 +53,6 @@
       "manufacturer": "",
       "market_name": "KALED32RH9210STA",
       "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "KALED50XU9210STA",
-      "codename": "samseong",
       "model": "AI PONT"
     },
     {

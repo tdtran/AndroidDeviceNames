@@ -1,0 +1,65 @@
+{
+  "manufacturer": "SYLVOX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SYLVOX 2K Google TV",
+      "codename": "capitolhill",
+      "model": "SYLVOX  2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SYLVOX 4K Google TV-A",
+      "codename": "keoneae",
+      "model": "SYLVOX 4K Google TV-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SYLVOX 4K Google TV-B",
+      "codename": "keoneae",
+      "model": "SYLVOX 4K Google TV-B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SYLVOX 4K Google TV-D",
+      "codename": "keoneae",
+      "model": "SYLVOX 4K Google TV-D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SYLVOX 4K Google TV-E",
+      "codename": "keoneae",
+      "model": "SYLVOX 4K Google TV-E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV 2K",
+      "codename": "lasalle",
+      "model": "Smart TV 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV 2K-A",
+      "codename": "lasalle",
+      "model": "Smart TV 2K-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV 2K-B",
+      "codename": "lasalle",
+      "model": "Smart TV 2K-B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV 4K",
+      "codename": "kenton",
+      "model": "Smart TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV 4K-B",
+      "codename": "kenton",
+      "model": "Smart TV 4K-B"
+    }
+  ]
+}

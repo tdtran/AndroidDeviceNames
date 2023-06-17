@@ -1,0 +1,17 @@
+{
+  "manufacturer": "iSTAR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S32WD02",
+      "codename": "beaudry",
+      "model": "iSTAR AndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S55WD01",
+      "codename": "barking",
+      "model": "iSTAR AndroidTV"
+    }
+  ]
+}

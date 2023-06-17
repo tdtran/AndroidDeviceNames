@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "BMAX",
+    "market_name": "I10_Plus",
+    "codename": "I10_Plus",
+    "model": "I10_Plus"
+  },
+  {
     "manufacturer": "Symphony",
     "market_name": "i10 plus",
     "codename": "i10_plus",

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "mipo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "mipo_M17",
+      "codename": "mipo_M17",
+      "model": "mipo_M17"
+    }
+  ]
+}

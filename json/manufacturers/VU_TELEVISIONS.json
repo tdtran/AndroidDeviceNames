@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ULED",
+      "codename": "wuyishan",
+      "model": "VU TV FFM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VU 4K Google TV",
+      "codename": "keoneae",
+      "model": "VU 4K Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "fushan_vu",
       "codename": "hamamatsucho",
       "model": "Smart 2K ATV4"

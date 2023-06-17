@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DIGIT INFINITY",
+      "codename": "DIGIT_INFINITY",
+      "model": "DIGIT INFINITY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Digit_Glory",
       "codename": "Digit_Glory1",
       "model": "Digit Glory1"

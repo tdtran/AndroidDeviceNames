@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "nagata",
+      "model": "Apollo Premium2K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "France",
       "codename": "tamachi",
       "model": "AiPlus2K"

@@ -117,13 +117,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "4T-C**EN1/EQ1/ES1/EU1",
+      "market_name": "4T-C**EN1/EQ1/ES1/EU1/EP1/FN1",
       "codename": "tcvenruj",
       "model": "AQUOS-4KTVJ22"
     },
     {
       "manufacturer": "",
-      "market_name": "4T-C**EN2/EL1/EQ2",
+      "market_name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
       "codename": "tcvenruj",
       "model": "AQUOS-4KTVJ22-2"
     },
@@ -843,6 +843,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS V7 plus",
+      "codename": "Model_3",
+      "model": "SH-C06"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS Xx",
       "codename": "SG404SH",
       "model": "404SH"
@@ -1539,6 +1545,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EN3/EL3",
+      "codename": "banqiao",
+      "model": "AQUOS-TVE21F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EQ3/DN5",
       "codename": "banqiao",
       "model": "AQUOS-TVE21A"
@@ -1578,6 +1590,18 @@
       "market_name": "FS8014",
       "codename": "SE3",
       "model": "FS8014"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FV1",
+      "codename": "sandiego",
+      "model": "AQUOS-TVT23A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FV1",
+      "codename": "sandiego",
+      "model": "AQUOS-TVX23A"
     },
     {
       "manufacturer": "",
@@ -2094,6 +2118,12 @@
       "market_name": "Q-pot.Phone SH-04D",
       "codename": "SH04D",
       "model": "SH-04D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4-SH",
+      "codename": "R4",
+      "model": "R4-SH"
     },
     {
       "manufacturer": "",

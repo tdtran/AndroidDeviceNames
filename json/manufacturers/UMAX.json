@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "11T-LTE-Pro_EEA",
+      "codename": "11T-LTE-Pro_EEA",
+      "model": "11T-LTE-Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "7A_3G",
       "codename": "7A_3G",
       "model": "7A_3G"
@@ -100,8 +106,20 @@
     {
       "manufacturer": "",
       "market_name": "UMAX",
+      "codename": "kaitak",
+      "model": "Ultra 4K GTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMAX",
       "codename": "seocho",
       "model": "UMAX 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMAX",
+      "codename": "tennoji",
+      "model": "Premium 2K GTV"
     },
     {
       "manufacturer": "",

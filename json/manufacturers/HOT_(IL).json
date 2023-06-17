@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HOT ONE",
+      "codename": "VSB3918_ALT_ME",
+      "model": "HOT ONE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT Streamer",
       "codename": "DV8555-KIH",
       "model": "HOT Streamer"

@@ -243,6 +243,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB7",
+      "codename": "TAB7",
+      "model": "TAB7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB8",
+      "codename": "TAB8",
+      "model": "TAB8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X1",
       "codename": "186HS2080531",
       "model": "186HS2080531"
@@ -258,6 +270,12 @@
       "market_name": "X75",
       "codename": "X75",
       "model": "X75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X76",
+      "codename": "X76",
+      "model": "X76"
     },
     {
       "manufacturer": "",
@@ -318,6 +336,12 @@
       "market_name": "X90",
       "codename": "X90",
       "model": "X90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X91",
+      "codename": "X91",
+      "model": "X91"
     }
   ]
 }

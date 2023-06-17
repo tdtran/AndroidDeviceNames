@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG 9",
+      "codename": "KINGKONG_9",
+      "model": "KINGKONG 9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG CS",
       "codename": "KING_KONG_CS",
       "model": "KING KONG CS"
@@ -309,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P80",
+      "codename": "P80",
+      "model": "P80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCKET 3",
       "codename": "POCKET_3",
       "model": "POCKET 3"
@@ -369,6 +381,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB 20",
+      "codename": "TAB_20",
+      "model": "TAB 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB KINGKONG",
+      "codename": "TAB_KINGKONG",
+      "model": "TAB KINGKONG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X19",
       "codename": "X19",
       "model": "X19"
@@ -402,6 +426,12 @@
       "market_name": "X50",
       "codename": "X50",
       "model": "X50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X70",
+      "codename": "X70",
+      "model": "X70"
     },
     {
       "manufacturer": "",

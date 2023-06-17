@@ -42,6 +42,12 @@
     "model": "HiSmart 2K ATV4"
   },
   {
+    "manufacturer": "Hisense",
+    "market_name": "fushan_sa",
+    "codename": "hamamatsucho",
+    "model": "HiSmart TV"
+  },
+  {
     "manufacturer": "Riviera",
     "market_name": "Riviera",
     "codename": "hamamatsucho",

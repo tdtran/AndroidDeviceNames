@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VPC-A31-O1",
+      "codename": "VPC-A31-O1",
+      "model": "VPC-A31-O1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VSD221",
       "codename": "VSD221",
       "model": "VSD221"

@@ -64,6 +64,12 @@
     {
       "manufacturer": "",
       "market_name": "Android TV",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
       "codename": "redwood",
       "model": "AI PONT NA"
     },
@@ -72,6 +78,18 @@
       "market_name": "Android TV",
       "codename": "redwood",
       "model": "AI PONT SA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BS5002",
+      "codename": "redwood",
+      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -441,20 +459,8 @@
     },
     {
       "manufacturer": "",
-      "market_name": "HYLED4321AiM",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
       "market_name": "HYLED5015A4KM",
       "codename": "samseong",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "HYLED5520A4KM",
-      "codename": "sindorim",
       "model": "AI PONT"
     },
     {
@@ -465,9 +471,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HYUNDAI 2K Google TV",
+      "codename": "capitolhill",
+      "model": "HYUNDAI  2K Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HYUNDAI 4K Android TV",
       "codename": "kenton",
       "model": "HYUNDAI 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI 4K Google TV",
+      "codename": "keoneae",
+      "model": "HYUNDAI 4K Google TV"
     },
     {
       "manufacturer": "",

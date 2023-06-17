@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "ASTEX",
+    "market_name": "ASTEX 2K Android",
+    "codename": "lasalle",
+    "model": "ASTEX 2K Android"
+  },
+  {
+    "manufacturer": "BGH S.A.",
+    "market_name": "BGH 2K Android TV",
+    "codename": "lasalle",
+    "model": "BGH 2K Android TV"
+  },
+  {
+    "manufacturer": "DigiKing",
+    "market_name": "DigiKing 2K Android",
+    "codename": "lasalle",
+    "model": "DigiKing 2K Android TV"
+  },
+  {
     "manufacturer": "Dual",
     "market_name": "Dual 2K Android TV",
     "codename": "lasalle",
@@ -24,9 +42,69 @@
     "model": "KONKA 2K Android TV-A"
   },
   {
+    "manufacturer": "LEADER",
+    "market_name": "LEADER 2K Android TV",
+    "codename": "lasalle",
+    "model": "LEADER 2K Android TV"
+  },
+  {
+    "manufacturer": "Majestic",
+    "market_name": "MAJESTIC 2K Android TV",
+    "codename": "lasalle",
+    "model": "MAJESTIC 2K Android TV"
+  },
+  {
+    "manufacturer": "ORCA",
+    "market_name": "ORCA 2K Android TV",
+    "codename": "lasalle",
+    "model": "ORCA 2K Android TV"
+  },
+  {
+    "manufacturer": "PRIMA",
+    "market_name": "PRIMA 2K Android TV",
+    "codename": "lasalle",
+    "model": "PRIMA 2K Android TV"
+  },
+  {
+    "manufacturer": "PROTON",
+    "market_name": "PROTON 2K Android",
+    "codename": "lasalle",
+    "model": "PROTON 2K Android"
+  },
+  {
     "manufacturer": "Polaroid",
     "market_name": "Polaroid 2K Android TV",
     "codename": "lasalle",
     "model": "Polaroid 2K Android TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA 2K Android TV",
+    "codename": "lasalle",
+    "model": "RCA 2K Android TV"
+  },
+  {
+    "manufacturer": "SYLVOX",
+    "market_name": "Smart TV 2K",
+    "codename": "lasalle",
+    "model": "Smart TV 2K"
+  },
+  {
+    "manufacturer": "SYLVOX",
+    "market_name": "Smart TV 2K-A",
+    "codename": "lasalle",
+    "model": "Smart TV 2K-A"
+  },
+  {
+    "manufacturer": "SYLVOX",
+    "market_name": "Smart TV 2K-B",
+    "codename": "lasalle",
+    "model": "Smart TV 2K-B"
+  },
+  {
+    "manufacturer": "carp(IN)",
+    "market_name": "carp 2K Android TV",
+    "codename": "lasalle",
+    "model": "carp 2K Android TV"
   }
 ]

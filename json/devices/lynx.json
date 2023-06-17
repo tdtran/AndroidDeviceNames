@@ -6,6 +6,12 @@
     "model": "LYNX"
   },
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel 7a",
+    "codename": "lynx",
+    "model": "Pixel 7a"
+  },
+  {
     "manufacturer": "Hurricane",
     "market_name": "Lynx",
     "codename": "Lynx",

@@ -4,5 +4,11 @@
     "market_name": "HiPad_XPro",
     "codename": "HiPad_XPro",
     "model": "HiPad XPro"
+  },
+  {
+    "manufacturer": "Chuwi",
+    "market_name": "HiPad_XPro_RU",
+    "codename": "HiPad_XPro",
+    "model": "HiPad XPro"
   }
 ]

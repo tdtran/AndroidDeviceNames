@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philips Google TV TA6",
+      "codename": "kujo",
+      "model": "Philips Google TV TA6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philips S257",
       "codename": "S257",
       "model": "Philips S257"

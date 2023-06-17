@@ -4,5 +4,11 @@
     "market_name": "",
     "codename": "crane-zte7",
     "model": "K75"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "K75",
+    "codename": "crane-zte7",
+    "model": "K75"
   }
 ]

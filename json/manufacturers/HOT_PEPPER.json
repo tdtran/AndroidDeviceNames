@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Bola",
+      "codename": "Bola",
+      "model": "Bola"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Chilaca",
       "codename": "HPPL60A",
       "model": "HPPL60A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT10",
+      "codename": "DT10_EEA",
+      "model": "DT10"
     },
     {
       "manufacturer": "",

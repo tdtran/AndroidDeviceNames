@@ -87,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cat S75",
+      "codename": "BM1S1B",
+      "model": "Cat S75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cat S75",
+      "codename": "BM1S1B",
+      "model": "S75"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CatS50c",
       "codename": "CatS50c",
       "model": "S50c"

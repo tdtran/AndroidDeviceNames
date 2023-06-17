@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S63",
+      "codename": "S63",
+      "model": "S63"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Togocel_F1_Max_4G",
       "codename": "Togocel_F1_Max_4G",
       "model": "Togocel_F1_Max_4G"

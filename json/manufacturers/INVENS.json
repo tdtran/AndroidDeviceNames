@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Spain",
+      "codename": "nagata",
+      "model": "INVES SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UNO",
       "codename": "UNO",
       "model": "UNO"

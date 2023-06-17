@@ -1,0 +1,11 @@
+{
+  "manufacturer": "CVTE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "edu_v2",
+      "codename": "rk3588_t",
+      "model": "edu_v2"
+    }
+  ]
+}

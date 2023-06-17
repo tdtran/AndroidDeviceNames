@@ -1,0 +1,17 @@
+{
+  "manufacturer": "PRIMA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PRIMA 2K Android TV",
+      "codename": "lasalle",
+      "model": "PRIMA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMA 4K Android TV",
+      "codename": "kenton",
+      "model": "PRIMA 4K Android TV"
+    }
+  ]
+}

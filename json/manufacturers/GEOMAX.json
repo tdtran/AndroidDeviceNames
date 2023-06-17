@@ -1,0 +1,11 @@
+{
+  "manufacturer": "GeoMax",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GeoMax Zenius08",
+      "codename": "Zenius08",
+      "model": "GMT-08QA-2301"
+    }
+  ]
+}

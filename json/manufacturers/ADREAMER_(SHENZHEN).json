@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KidsPad_7",
+      "codename": "KidsPad_7",
+      "model": "KidsPad_7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LeoPad 10X",
+      "codename": "LeoPad_10X",
+      "model": "LeoPad 10X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TH10",
       "codename": "TH10",
       "model": "TH10"

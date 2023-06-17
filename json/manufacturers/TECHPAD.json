@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R10",
+      "codename": "R10",
+      "model": "R10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S6",
       "codename": "S6",
       "model": "S6"

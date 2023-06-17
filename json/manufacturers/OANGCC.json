@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A9_EEA",
+      "codename": "A9_EEA",
+      "model": "A9_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A9_US",
+      "codename": "A9_US",
+      "model": "A9_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab-A8",
       "codename": "Tab-A8",
       "model": "Tab-A8"

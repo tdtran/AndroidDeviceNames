@@ -225,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VODAFONE TV",
+      "codename": "m393gena_vf",
+      "model": "VODAFONE TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vodacom Kicka VE",
       "codename": "VFD100",
       "model": "VFD 100"
@@ -324,6 +330,12 @@
       "market_name": "Vodafone TV",
       "codename": "uiw4030vha",
       "model": "Vodafone TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodafone TV 3",
+      "codename": "m377_vf",
+      "model": "Vodafone TV 3"
     }
   ]
 }

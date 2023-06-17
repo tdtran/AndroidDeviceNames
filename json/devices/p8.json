@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "FOXXD",
+    "market_name": "P8",
+    "codename": "P8",
+    "model": "P8"
+  },
+  {
     "manufacturer": "HAOVM",
     "market_name": "MediaPadP8",
     "codename": "P8",
@@ -13,6 +19,12 @@
   },
   {
     "manufacturer": "POPTEL",
+    "market_name": "P8",
+    "codename": "P8",
+    "model": "P8"
+  },
+  {
+    "manufacturer": "Plimpton",
     "market_name": "P8",
     "codename": "P8",
     "model": "P8"

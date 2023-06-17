@@ -1,0 +1,23 @@
+{
+  "manufacturer": "VIVIVIEW",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "V10",
+      "codename": "V10",
+      "model": "V10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V5Pro",
+      "codename": "V5Pro",
+      "model": "V5Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V8",
+      "codename": "V8",
+      "model": "V8"
+    }
+  ]
+}

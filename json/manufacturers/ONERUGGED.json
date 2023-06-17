@@ -6,6 +6,12 @@
       "market_name": "MPC10T",
       "codename": "MPC10T",
       "model": "MPC10T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MPC80T",
+      "codename": "MPC80T",
+      "model": "MPC80T"
     }
   ]
 }

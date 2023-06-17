@@ -171,9 +171,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACTAB1024",
+      "codename": "ACTAB1024",
+      "model": "ACTAB1024"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ACTAB10KB23",
       "codename": "ACTAB10KB23",
       "model": "ACTAB10KB23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACTAB10KB24",
+      "codename": "ACTAB10KB24",
+      "model": "ACTAB10KB24"
     },
     {
       "manufacturer": "",
@@ -240,6 +252,12 @@
       "market_name": "ATAB721E",
       "codename": "ATAB721E",
       "model": "ATAB721E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATAB723E",
+      "codename": "ATAB723E",
+      "model": "ATAB723E"
     },
     {
       "manufacturer": "",
@@ -1260,6 +1278,12 @@
       "market_name": "R4",
       "codename": "R4",
       "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4_GTV",
+      "codename": "R4_GTV",
+      "model": "R4G"
     },
     {
       "manufacturer": "",

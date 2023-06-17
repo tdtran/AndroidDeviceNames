@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "PAX (CN)",
+    "market_name": "A6650",
+    "codename": "A6650",
+    "model": "A6650"
+  },
+  {
+    "manufacturer": "PAX (CN)",
+    "market_name": "A6650_EEA",
+    "codename": "A6650",
+    "model": "A6650"
+  },
+  {
+    "manufacturer": "PAX (CN)",
+    "market_name": "A6650_PEEA",
+    "codename": "A6650",
+    "model": "A6650"
+  },
+  {
+    "manufacturer": "PAX (CN)",
+    "market_name": "A6650_PLUS",
+    "codename": "A6650",
+    "model": "A6650"
+  }
+]

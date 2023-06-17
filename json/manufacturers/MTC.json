@@ -87,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Osmartphona Tablet",
+      "codename": "Osmartphona_Tablet",
+      "model": "Osmartphona Tablet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4000-C0C10",
+      "codename": "S4000",
+      "model": "S4000-C0C10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartEver",
       "codename": "seocho",
       "model": "SmartEver 4K Android TV"
@@ -120,12 +132,6 @@
       "market_name": "Vodafone Smart mini",
       "codename": "Vodafone_875",
       "model": "MTC 970H"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "canada",
-      "codename": "S4000",
-      "model": "S4000-C0C10"
     },
     {
       "manufacturer": "",

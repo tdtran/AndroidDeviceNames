@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Accent",
+    "market_name": "C5L PLUS",
+    "codename": "C5_PLUS",
+    "model": "C5 PLUS"
+  },
+  {
     "manufacturer": "Neffos",
     "market_name": "Neffos C5 Plus",
     "codename": "C5_Plus",

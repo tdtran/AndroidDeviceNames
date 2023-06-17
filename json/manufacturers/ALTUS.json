@@ -24,6 +24,18 @@
       "market_name": "Altus UHD Android TV",
       "codename": "kunyang",
       "model": "UHD Pro TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Altus UHD Pro TV",
+      "codename": "marina",
+      "model": "Altus UHD Pro TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "martin",
+      "model": "Altus Android TV"
     }
   ]
 }

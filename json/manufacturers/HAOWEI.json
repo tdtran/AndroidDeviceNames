@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HAOWEI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HBDC-1122",
+      "codename": "HBDC-1122",
+      "model": "HBDC-1122"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HBDC-822",
+      "codename": "HBDC-822",
+      "model": "HBDC-822"
+    }
+  ]
+}

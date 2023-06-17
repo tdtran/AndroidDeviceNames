@@ -6,6 +6,18 @@
     "model": "4K SA Smart TV"
   },
   {
+    "manufacturer": "Daewoo",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
+    "manufacturer": "Engel",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
+  },
+  {
     "manufacturer": "Green House",
     "market_name": "4K Smart TV",
     "codename": "pioneer",
@@ -21,7 +33,19 @@
     "manufacturer": "HKC Elec",
     "market_name": "4K Smart TV",
     "codename": "pioneer",
+    "model": "4K SA Smart TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
     "model": "HKC 4K SA Smart TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
   },
   {
     "manufacturer": "HP",
@@ -36,10 +60,22 @@
     "model": "4K SA Smart TV"
   },
   {
+    "manufacturer": "Marcel",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
+  },
+  {
     "manufacturer": "Master-G",
     "market_name": "4K Smart TV",
     "codename": "pioneer",
     "model": "4K SA Smart TV"
+  },
+  {
+    "manufacturer": "Mito",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
   },
   {
     "manufacturer": "Mobell",
@@ -49,6 +85,12 @@
   },
   {
     "manufacturer": "Nokia",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
     "market_name": "4K Smart TV",
     "codename": "pioneer",
     "model": "4K PA Smart TV"
@@ -66,10 +108,16 @@
     "model": "4K SA Smart TV"
   },
   {
-    "manufacturer": "RCA",
+    "manufacturer": "Soniq",
     "market_name": "4K Smart TV",
     "codename": "pioneer",
-    "model": "DAEWOO 4K SA Smart TV"
+    "model": "4K PA Smart TV"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "4K Smart TV",
+    "codename": "pioneer",
+    "model": "4K PA Smart TV"
   },
   {
     "manufacturer": "iMuz",

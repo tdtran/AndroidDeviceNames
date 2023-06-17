@@ -537,6 +537,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M1R",
+      "codename": "M1R",
+      "model": "M1R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NA",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RX8",
       "codename": "Ilium_PAD_RX8",
       "model": "Ilium_PAD_RX8v4"
@@ -612,6 +624,12 @@
       "market_name": "X570Lite",
       "codename": "X570Lite",
       "model": "X570Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "X7",
+      "model": "X7"
     },
     {
       "manufacturer": "",

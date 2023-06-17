@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cyber X",
+      "codename": "Cyber_X",
+      "model": "Cyber X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cyber X Pro",
+      "codename": "Cyber_X_Pro",
+      "model": "Cyber X Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H1",
       "codename": "H1",
       "model": "H1"

@@ -33,15 +33,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10U",
+      "codename": "T10U",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB8",
       "codename": "TAB8",
       "model": "TAB8"
     },
     {
       "manufacturer": "",
+      "market_name": "TAB8V",
+      "codename": "TAB8V",
+      "model": "TAB8V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V22",
       "codename": "V22",
       "model": "V22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V22S",
+      "codename": "V22S",
+      "model": "V22S"
     },
     {
       "manufacturer": "",

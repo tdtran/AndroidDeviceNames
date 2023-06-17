@@ -4,6 +4,18 @@
     {
       "manufacturer": "",
       "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "HKC 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "gangbyeon",
+      "model": "TATUNG 4K AI Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
       "codename": "pioneer",
       "model": "4K PA Smart TV"
     },
@@ -11,7 +23,25 @@
       "manufacturer": "",
       "market_name": "4K Smart TV",
       "codename": "pioneer",
+      "model": "4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
       "model": "HKC 4K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
+      "codename": "nagai",
+      "model": "2K SA Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart Monitor",
+      "codename": "mateo",
+      "model": "2K Smart Monitor"
     },
     {
       "manufacturer": "",
@@ -30,6 +60,12 @@
       "market_name": "Smart TV",
       "codename": "mateo",
       "model": "HKC 2K SA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
     }
   ]
 }

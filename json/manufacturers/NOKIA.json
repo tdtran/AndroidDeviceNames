@@ -483,6 +483,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C02",
+      "codename": "CYR",
+      "model": "Cypher"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C02",
+      "codename": "CYR",
+      "model": "Nokia C02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C1",
       "codename": "RKU",
       "model": "Nokia C1"
@@ -516,6 +528,36 @@
       "market_name": "Nokia C100",
       "codename": "DKT",
       "model": "Nokia C100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C110",
+      "codename": "DGC",
+      "model": "Nokia C110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C110",
+      "codename": "DGF",
+      "model": "N156DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C12",
+      "codename": "NVA",
+      "model": "Nokia C12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C12 Pro",
+      "codename": "NVA",
+      "model": "Nokia C12 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C12 Pro",
+      "codename": "NVA",
+      "model": "Nokia C12 Pro"
     },
     {
       "manufacturer": "",
@@ -585,6 +627,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C22",
+      "codename": "HKEA",
+      "model": "Nokia C22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C3",
       "codename": "GMR",
       "model": "Nokia C3"
@@ -603,9 +651,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia C300",
+      "codename": "ORT",
+      "model": "N155DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia C31",
       "codename": "VSI",
       "model": "Nokia C31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C32",
+      "codename": "MKDA",
+      "model": "Nokia C32"
     },
     {
       "manufacturer": "",
@@ -690,6 +750,18 @@
       "market_name": "Nokia G21",
       "codename": "SCP_sprout",
       "model": "Nokia G21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G22",
+      "codename": "SFI",
+      "model": "Nokia G22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia G22",
+      "codename": "SFIA",
+      "model": "Nokia G22"
     },
     {
       "manufacturer": "",
@@ -834,6 +906,12 @@
       "market_name": "Nokia XR20",
       "codename": "TTG_sprout",
       "model": "Nokia XR20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia XR21",
+      "codename": "SNT_sprout",
+      "model": "Nokia XR21"
     },
     {
       "manufacturer": "",

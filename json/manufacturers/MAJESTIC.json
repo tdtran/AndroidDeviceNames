@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAJESTIC 2K Android TV",
+      "codename": "lasalle",
+      "model": "MAJESTIC 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAJESTIC 4K Android TV",
+      "codename": "kenton",
+      "model": "MAJESTIC 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB 611 3G",
       "codename": "TAB_611_3G",
       "model": "TAB 611 3G"
@@ -72,6 +84,12 @@
       "market_name": "TAB_912_4G",
       "codename": "TAB_912_4G",
       "model": "TAB_912_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_912_PRO_4G",
+      "codename": "TAB_912_PRO_4G",
+      "model": "TAB_912_PRO_4G"
     },
     {
       "manufacturer": "",

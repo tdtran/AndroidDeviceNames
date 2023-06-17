@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TicWatch Pro 5",
+      "codename": "dace",
+      "model": "TicWatch Pro 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ticwatch Pro 4G",
       "codename": "catshark",
       "model": "TicWatch Pro 4G"

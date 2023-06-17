@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EU",
       "codename": "tamachi",
       "model": "MARCEL Android TV"
@@ -18,6 +24,12 @@
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "MARCEL Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K US Smart TV"
     }
   ]
 }

@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L66 LITE",
+      "codename": "L66_LITE",
+      "model": "L66 LITE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L68",
       "codename": "LOGIC_L68",
       "model": "LOGIC L68"
@@ -90,6 +96,18 @@
       "market_name": "LOGIC L65 LITE",
       "codename": "LOGIC_L65_LITE",
       "model": "LOGIC L65 LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC MV01",
+      "codename": "LOGIC_MV01",
+      "model": "LOGIC MV01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC MV02",
+      "codename": "LOGIC_MV02",
+      "model": "LOGIC MV02"
     },
     {
       "manufacturer": "",

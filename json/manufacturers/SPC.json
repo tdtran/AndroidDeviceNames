@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GRAVITY_3_MINI",
+      "codename": "GRAVITY_3_MINI",
+      "model": "GRAVITY_3_MINI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GRAVITY_3_PRO",
       "codename": "GRAVITY_3_PRO",
       "model": "GRAVITY 3 PRO"

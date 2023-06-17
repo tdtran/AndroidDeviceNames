@@ -495,6 +495,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xperia 1 V",
+      "codename": "A301SO",
+      "model": "A301SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 V",
+      "codename": "SO-51D",
+      "model": "SO-51D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 V",
+      "codename": "SOG10",
+      "model": "SOG10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 V",
+      "codename": "XQ-DQ72",
+      "model": "XQ-DQ72"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xperia 10",
       "codename": "I3113",
       "model": "I3113"
@@ -642,6 +666,42 @@
       "market_name": "Xperia 10 Plus",
       "codename": "I4293",
       "model": "I4293"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 V",
+      "codename": "A302SO",
+      "model": "A302SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 V",
+      "codename": "SO-52D",
+      "model": "SO-52D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 V",
+      "codename": "SOG11",
+      "model": "SOG11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 V",
+      "codename": "XQ-DC44",
+      "model": "XQ-DC44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 V",
+      "codename": "XQ-DC54",
+      "model": "XQ-DC54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 V",
+      "codename": "XQ-DC72",
+      "model": "XQ-DC72"
     },
     {
       "manufacturer": "",

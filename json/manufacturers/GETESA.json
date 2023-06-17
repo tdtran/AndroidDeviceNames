@@ -1,0 +1,17 @@
+{
+  "manufacturer": "GETESA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GETESA Sky blue",
+      "codename": "GETESA_Sky_blue",
+      "model": "GETESA Sky blue"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GETESA_niebla",
+      "codename": "GETESA_niebla",
+      "model": "GETESA_niebla"
+    }
+  ]
+}

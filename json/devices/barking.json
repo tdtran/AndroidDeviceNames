@@ -6,15 +6,33 @@
     "model": "Casper AndroidTV"
   },
   {
+    "manufacturer": "Infinix",
+    "market_name": "50X3",
+    "codename": "barking",
+    "model": "Infinix AndroidTV"
+  },
+  {
     "manufacturer": "Itel",
     "market_name": "G5550",
     "codename": "barking",
     "model": "itel Android TV"
   },
   {
+    "manufacturer": "Sceptre",
+    "market_name": "A557CV-UMRBX",
+    "codename": "barking",
+    "model": "SCEPTRE AndroidTV"
+  },
+  {
     "manufacturer": "Syinix",
     "market_name": "55U51",
     "codename": "barking",
     "model": "Syinix AndroidTV"
+  },
+  {
+    "manufacturer": "iSTAR",
+    "market_name": "S55WD01",
+    "codename": "barking",
+    "model": "iSTAR AndroidTV"
   }
 ]

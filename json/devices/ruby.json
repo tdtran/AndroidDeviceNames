@@ -28,5 +28,17 @@
     "market_name": "Redmi Note 12 Pro",
     "codename": "ruby",
     "model": "22101316C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12 Pro 5G",
+    "codename": "ruby",
+    "model": "22101316G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12 Pro 5G",
+    "codename": "ruby",
+    "model": "22101316I"
   }
 ]

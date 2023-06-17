@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "Nubia 8031",
+    "codename": "P963F06",
+    "model": "Nubia 8031"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE 8030",
     "codename": "P963F06",
     "model": "ZTE 8030"

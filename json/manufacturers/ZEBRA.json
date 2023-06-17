@@ -327,6 +327,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC78",
+      "codename": "TC78",
+      "model": "TC78"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC8000",
       "codename": "TC8000",
       "model": "TC8000"

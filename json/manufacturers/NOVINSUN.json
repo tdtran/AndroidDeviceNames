@@ -12,6 +12,12 @@
       "market_name": "TN618",
       "codename": "TN618",
       "model": "TN618"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TN618pro",
+      "codename": "TN618pro",
+      "model": "TN618pro"
     }
   ]
 }

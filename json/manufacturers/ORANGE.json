@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H5032_Orange",
+      "codename": "H5032",
+      "model": "H5032_Orange"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Luno",
       "codename": "Luno",
       "model": "Luno"

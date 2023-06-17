@@ -133,6 +133,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "BOTECH",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Banana",
     "codename": "stanford",
     "model": "2K SMART TV"
@@ -151,9 +157,33 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "CONTI",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAHUA",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAHUA",
+    "codename": "stanford",
+    "model": "40DSA"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "DIGGIO",
     "codename": "stanford",
     "model": "CSV2K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ELECTROMAN",
+    "codename": "stanford",
+    "model": "Smart FHD TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -175,9 +205,21 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "ICE",
+    "codename": "stanford",
+    "model": "SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "INNOVA",
     "codename": "stanford",
     "model": "CSV2K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ITEL",
+    "codename": "stanford",
+    "model": "SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -235,6 +277,18 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "QBELL",
+    "codename": "stanford",
+    "model": "QBELL 2K Android TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ROYALRAHMANI",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Rosso",
     "codename": "stanford",
     "model": "40D"
@@ -250,6 +304,18 @@
     "market_name": "SIERA",
     "codename": "stanford",
     "model": "2K Siera SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "SKY-ONE",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "SONEVIEW",
+    "codename": "stanford",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -271,9 +337,9 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "XITRIX",
+    "market_name": "ZEPHIR",
     "codename": "stanford",
-    "model": "SMART TV"
+    "model": "ZEPHIR 2K Android TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -296,6 +362,12 @@
   {
     "manufacturer": "LUCOMS",
     "market_name": "LUCOMS",
+    "codename": "stanford",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Lanix",
+    "market_name": "NA",
     "codename": "stanford",
     "model": "2K SMART TV"
   },
@@ -364,5 +436,17 @@
     "market_name": "VIVAX",
     "codename": "stanford",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Xitrix",
+    "market_name": "XITRIX",
+    "codename": "stanford",
+    "model": "SMART TV"
+  },
+  {
+    "manufacturer": "eNOVA",
+    "market_name": "ENOVA",
+    "codename": "stanford",
+    "model": "SA 2K SMART TV"
   }
 ]

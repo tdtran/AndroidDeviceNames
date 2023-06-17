@@ -3,7 +3,19 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P3S",
+      "codename": "P3S",
+      "model": "P3S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P3S_EEA",
+      "codename": "P3S",
+      "model": "P3S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P3S_RU",
       "codename": "P3S",
       "model": "P3S"
     }

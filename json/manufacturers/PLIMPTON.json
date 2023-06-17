@@ -9,9 +9,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kids_10_ver13",
+      "codename": "Kids_10_ver13",
+      "model": "Kids 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kids_8",
+      "codename": "Kids_8",
+      "model": "Kids_8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P60Plus",
+      "codename": "P60Plus",
+      "model": "P60Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P60_Pro",
       "codename": "P60_Pro",
       "model": "PlimPad_P60_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8",
+      "codename": "P8",
+      "model": "P8"
     },
     {
       "manufacturer": "",

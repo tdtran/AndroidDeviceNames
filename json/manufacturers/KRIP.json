@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K51",
+      "codename": "K51",
+      "model": "K51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K55g",
       "codename": "K55g",
       "model": "K55g"

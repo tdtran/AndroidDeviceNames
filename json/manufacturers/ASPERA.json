@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AS9",
+      "codename": "AS9",
+      "model": "AS9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ASPERA R9",
       "codename": "R9",
       "model": "ASPERA_R9"

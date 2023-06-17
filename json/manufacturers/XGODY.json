@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T702Pro",
+      "codename": "T702Pro_A",
+      "model": "T702Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T702Pro-A",
       "codename": "T702Pro-A",
       "model": "T702Pro-A"
@@ -36,6 +42,12 @@
       "market_name": "T702Pro-EEA",
       "codename": "T702Pro-EEA",
       "model": "T702Pro-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T702Pro_S",
+      "codename": "T702Pro_S",
+      "model": "T702Pro_S"
     },
     {
       "manufacturer": "",

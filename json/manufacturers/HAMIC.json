@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MIELS",
+      "codename": "MIELS",
+      "model": "MIELS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCKET",
       "codename": "POCKET",
       "model": "POCKET"

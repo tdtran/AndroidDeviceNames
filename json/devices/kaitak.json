@@ -4,5 +4,11 @@
     "market_name": "JVC",
     "codename": "kaitak",
     "model": "JVCPA 4KAndroid TV"
+  },
+  {
+    "manufacturer": "Umax",
+    "market_name": "UMAX",
+    "codename": "kaitak",
+    "model": "Ultra 4K GTV"
   }
 ]

@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "MGS",
+      "codename": "expo",
+      "model": "4K MGS Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MGS",
       "codename": "komagome",
       "model": "MGS 2K Android TV"
     }

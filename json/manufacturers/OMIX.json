@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5",
+      "model": "X5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X500",
       "codename": "X500",
       "model": "OMIX X500"

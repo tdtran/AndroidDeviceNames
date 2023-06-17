@@ -72,6 +72,12 @@
       "market_name": "AT801U",
       "codename": "AT801U",
       "model": "AT801U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT_701B",
+      "codename": "AT_701B",
+      "model": "AT_701B"
     }
   ]
 }

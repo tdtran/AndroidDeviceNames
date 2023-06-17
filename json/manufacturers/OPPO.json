@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1 Pro 5G",
+      "codename": "OP5613",
+      "model": "PHQ110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A11",
       "codename": "A11",
       "model": "A11"
@@ -150,6 +156,18 @@
       "market_name": "A1603",
       "codename": "A1603",
       "model": "A1603"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A17",
+      "codename": "OP56F5",
+      "model": "CPH2477"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A17k",
+      "codename": "OP56F5",
+      "model": "CPH2471"
     },
     {
       "manufacturer": "",
@@ -1347,6 +1365,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH2385",
+      "codename": "OP571DL1",
+      "model": "CPH2385"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2387",
+      "codename": "OP571F",
+      "model": "CPH2387"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2407",
+      "codename": "OP571F",
+      "model": "CPH2407"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CPH2421",
       "codename": "OP5325",
       "model": "CPH2421"
@@ -1374,6 +1410,12 @@
       "market_name": "CPH2473",
       "codename": "OP5637L1",
       "model": "CPH2473"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH2527",
+      "codename": "OP56E7L1",
+      "model": "CPH2527"
     },
     {
       "manufacturer": "",
@@ -1503,6 +1545,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Find N2 Flip",
+      "codename": "OP56CDL1",
+      "model": "CPH2437"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find N2 Flip 中国版",
+      "codename": "OP5605",
+      "model": "PGT110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Find X",
       "codename": "CPH1871",
       "model": "CPH1871"
@@ -1614,6 +1668,18 @@
       "market_name": "Find X5 Pro",
       "codename": "OP52D1L1",
       "model": "CPH2305"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X6",
+      "codename": "OP528F",
+      "model": "PGFM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X6 Pro",
+      "codename": "OP528BL1",
+      "model": "PGEM10"
     },
     {
       "manufacturer": "",
@@ -3186,6 +3252,12 @@
       "market_name": "Reno7 中国版",
       "codename": "OP5227",
       "model": "PFJM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno8 T 5G",
+      "codename": "OP56EDL1",
+      "model": "CPH2505"
     },
     {
       "manufacturer": "",

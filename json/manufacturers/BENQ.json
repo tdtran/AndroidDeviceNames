@@ -237,6 +237,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QS02",
+      "codename": "YUL",
+      "model": "QS02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "longshan",
       "model": "AI PONT"

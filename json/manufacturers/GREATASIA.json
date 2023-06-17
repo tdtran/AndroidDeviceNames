@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E10_A133_EEA",
+      "codename": "E10_A133_EEA",
+      "model": "E10_A133_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E9863",
       "codename": "E9863",
       "model": "E9863"

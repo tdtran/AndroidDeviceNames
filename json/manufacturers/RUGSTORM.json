@@ -1,0 +1,11 @@
+{
+  "manufacturer": "RUGSTORM",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UA100",
+      "codename": "UA100",
+      "model": "UA100"
+    }
+  ]
+}

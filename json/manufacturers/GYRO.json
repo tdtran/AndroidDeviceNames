@@ -1,0 +1,11 @@
+{
+  "manufacturer": "GYRO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S6001",
+      "codename": "S6001",
+      "model": "GYRO S6001"
+    }
+  ]
+}

@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "DIRECTV",
+      "codename": "c71kw400-4gb",
+      "model": "AT\u0026T TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIRECTV",
       "codename": "c71kw400-BEAM",
       "model": "AT\u0026T TV"
     },
@@ -27,15 +33,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "DIRECTV STREAM",
-      "codename": "c71kw400-4gb",
-      "model": "AT\u0026T TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "OTT-01",
       "codename": "HP40A",
       "model": "OTT-01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pendant",
+      "codename": "p21kw500",
+      "model": "Pendant"
     }
   ]
 }

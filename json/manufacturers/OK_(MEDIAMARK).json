@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "longshan",
       "model": "AI PONT"
@@ -58,6 +64,12 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "osaki",
       "model": "2K AI Smart TV"
     },
@@ -78,6 +90,12 @@
       "market_name": "eu",
       "codename": "yeongdeungpo",
       "model": "OK 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ok 2K TV",
+      "codename": "umeda",
+      "model": "ok 2K TV"
     }
   ]
 }

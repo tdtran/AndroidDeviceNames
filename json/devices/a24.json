@@ -6,6 +6,24 @@
     "model": "Micromax A24"
   },
   {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A24",
+    "codename": "a24",
+    "model": "SM-A245F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A24",
+    "codename": "a24",
+    "model": "SM-A245M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A24",
+    "codename": "a24",
+    "model": "SM-A245N"
+  },
+  {
     "manufacturer": "Trident",
     "market_name": "A24",
     "codename": "A24",

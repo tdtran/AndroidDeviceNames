@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Xitrix",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TravelPad A10",
+      "codename": "TravelPad_A10",
+      "model": "TravelPad A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XITRIX",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XITRIX",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P1000",
+      "codename": "P1000",
+      "model": "P1000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rocky 2",
       "codename": "Rocky_2",
       "model": "Rocky 2"

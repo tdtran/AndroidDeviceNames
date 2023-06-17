@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Air1 Ultra",
+      "codename": "Air1_Ultra",
+      "model": "Air1 Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B1",
       "codename": "B1",
       "model": "B1"

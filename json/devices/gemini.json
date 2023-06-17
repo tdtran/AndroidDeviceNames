@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "KOOLMAAX",
+    "market_name": "GEMINI",
+    "codename": "GEMINI",
+    "model": "GEMINI"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "Mi 5",
     "codename": "gemini",

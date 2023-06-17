@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A13_Tab",
+      "codename": "A13_Tab",
+      "model": "MT07"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -513,6 +519,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G1 Plus",
+      "codename": "G1_Plus",
+      "model": "MP28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1 Plus EEA",
+      "codename": "G1_Plus",
+      "model": "MP28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2",
+      "codename": "UMIDIGI_G2",
+      "model": "MP21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2 EEA",
+      "codename": "UMIDIGI_G2",
+      "model": "MP21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3",
+      "codename": "UMIDIGI_G3",
+      "model": "MP24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3 EEA",
+      "codename": "UMIDIGI_G3",
+      "model": "MP24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3 Plus",
+      "codename": "G3_Plus",
+      "model": "MP25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3 Plus EEA",
+      "codename": "G3_Plus",
+      "model": "MP25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT02_EEA",
       "codename": "MT02_EEA",
       "model": "AblePad"
@@ -693,6 +747,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UMIDIGI C2",
+      "codename": "UMIDIGI_C2",
+      "model": "MP20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI C2 EEA",
+      "codename": "UMIDIGI_C2",
+      "model": "MP20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UMIDIGI F3 Pro",
       "codename": "UMIDIGI_F3_Pro",
       "model": "MP10"
@@ -714,6 +780,18 @@
       "market_name": "UMIDIGI G1 EEA",
       "codename": "UMIDIGI_G1",
       "model": "MP08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G3 Max",
+      "codename": "G3_Max",
+      "model": "MP26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G3 Max EEA",
+      "codename": "G3_Max",
+      "model": "MP26"
     },
     {
       "manufacturer": "",

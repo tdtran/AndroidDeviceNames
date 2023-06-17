@@ -22,5 +22,17 @@
     "market_name": "moto g(7) supra",
     "codename": "ocean",
     "model": "moto g(7) supra"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12S",
+    "codename": "ocean",
+    "model": "2303CRA44A"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12S",
+    "codename": "ocean",
+    "model": "2303ERA42L"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "AOSKEY",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F11",
+      "codename": "F11",
+      "model": "F11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P21",
+      "codename": "P21",
+      "model": "P21"
+    }
+  ]
+}

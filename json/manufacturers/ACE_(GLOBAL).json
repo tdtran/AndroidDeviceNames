@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BUZZ 4",
+      "codename": "BUZZ_4",
+      "model": "BUZZ 4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CLEVER 3",
       "codename": "CLEVER_3",
       "model": "CLEVER 3"
@@ -24,6 +30,12 @@
       "market_name": "URBAN 3",
       "codename": "URBAN_3",
       "model": "URBAN 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "URBAN 3 Plus",
+      "codename": "URBAN_3_PlusE",
+      "model": "URBAN 3 Plus"
     }
   ]
 }

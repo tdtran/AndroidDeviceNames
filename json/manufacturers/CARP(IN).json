@@ -1,0 +1,17 @@
+{
+  "manufacturer": "carp(IN)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "carp 2K Android TV",
+      "codename": "lasalle",
+      "model": "carp 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "carp 4K Android TV",
+      "codename": "kenton",
+      "model": "carp 4K Android TV"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "manufacturer": "Asanzo",
+    "market_name": "E Series",
+    "codename": "umeda",
+    "model": "E Series"
+  },
+  {
+    "manufacturer": "Iris",
+    "market_name": "IRIS 2K SmartTV",
+    "codename": "umeda",
+    "model": "IRIS 2K SmartTV"
+  },
+  {
+    "manufacturer": "LLOYD",
+    "market_name": "LLOYD 2K SMART TV",
+    "codename": "umeda",
+    "model": "LLOYD 2K SMART TV"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "ok 2K TV",
+    "codename": "umeda",
+    "model": "ok 2K TV"
+  },
+  {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "PrismPlus 2KA",
+    "codename": "umeda",
+    "model": "PrismPlus 2KA"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22AE-FHD",
+    "codename": "umeda",
+    "model": "SWTV-22AE-FHD"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22NA-FHD",
+    "codename": "umeda",
+    "model": "SWTV-22NA-FHD"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22SA-FHD",
+    "codename": "umeda",
+    "model": "SWTV-22SA-FHD"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "TESLA 2K SMART TV",
+    "codename": "umeda",
+    "model": "TESLA 2K SMART TV"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "SPPL 2K GSmartTV",
+    "codename": "umeda",
+    "model": "SPPL 2K GSmartTV"
+  },
+  {
+    "manufacturer": "Yasin",
+    "market_name": "YASIN 2K G Smart TV",
+    "codename": "umeda",
+    "model": "YASIN 2K G Smart TV"
+  }
+]

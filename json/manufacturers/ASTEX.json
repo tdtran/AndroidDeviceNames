@@ -1,0 +1,29 @@
+{
+  "manufacturer": "ASTEX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ASTEX 2K Android",
+      "codename": "lasalle",
+      "model": "ASTEX 2K Android"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTEX 2K Google TV",
+      "codename": "capitolhill",
+      "model": "ASTEX 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTEX 4K Android",
+      "codename": "kenton",
+      "model": "ASTEX 4K Android"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTEX Google TV",
+      "codename": "bandra",
+      "model": "ASTEX Google TV"
+    }
+  ]
+}

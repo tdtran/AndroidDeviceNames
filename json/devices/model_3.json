@@ -4,5 +4,23 @@
     "market_name": "Model_3",
     "codename": "Model_3",
     "model": "Model 3"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "AQUOS V7 plus",
+    "codename": "Model_3",
+    "model": "SH-C06"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 40 SE",
+    "codename": "Model_3",
+    "model": "T610E"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 40 SE",
+    "codename": "Model_3",
+    "model": "T610K"
   }
 ]

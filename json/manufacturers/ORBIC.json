@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RC10RLT-RW1",
+      "codename": "VC_Device",
+      "model": "RC10RLT-RW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RC506LT",
       "codename": "Orbic-RC506LT",
       "model": "RC506LT"
@@ -48,6 +54,18 @@
       "market_name": "RC609L",
       "codename": "RC609L",
       "model": "RC609L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RC609LP-RWANZ",
+      "codename": "RC609LP",
+      "model": "RC609LP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RC609LP-RWANZ",
+      "codename": "RC609LP",
+      "model": "RC609LP-RW"
     },
     {
       "manufacturer": "",

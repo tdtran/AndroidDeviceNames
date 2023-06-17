@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hi10_XPro",
+      "codename": "Hi10_XPro",
+      "model": "Hi10 XPro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hi9",
       "codename": "Hi9",
       "model": "Hi9"
@@ -119,6 +125,12 @@
       "manufacturer": "",
       "market_name": "HiPad_XPro_EEA",
       "codename": "HiPad_XPro_EEA",
+      "model": "HiPad XPro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPad_XPro_RU",
+      "codename": "HiPad_XPro",
       "model": "HiPad XPro"
     },
     {

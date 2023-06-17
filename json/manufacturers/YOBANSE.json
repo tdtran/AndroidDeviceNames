@@ -18,6 +18,12 @@
       "market_name": "Z-T10",
       "codename": "Z-T10",
       "model": "Z-T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z-TAB10",
+      "codename": "Z-TAB10",
+      "model": "Z-TAB10"
     }
   ]
 }

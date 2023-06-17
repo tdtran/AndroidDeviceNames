@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PA768",
+      "codename": "PA768",
+      "model": "PA768"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TB85",
       "codename": "TB85",
       "model": "TB85"

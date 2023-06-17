@@ -6,6 +6,18 @@
     "model": "ADMIRAL TV"
   },
   {
+    "manufacturer": "BGH S.A.",
+    "market_name": "BGH Smart TV",
+    "codename": "sunnyvale",
+    "model": "BGH Smart TV"
+  },
+  {
+    "manufacturer": "Britania",
+    "market_name": "Britania Smart TV",
+    "codename": "sunnyvale",
+    "model": "Britania Smart TV"
+  },
+  {
     "manufacturer": "COEX",
     "market_name": "COEX 2K Smart TV",
     "codename": "sunnyvale",
@@ -40,6 +52,12 @@
     "market_name": "MONDIAL Smart TV",
     "codename": "sunnyvale",
     "model": "MONDIAL Smart TV"
+  },
+  {
+    "manufacturer": "NobleSkiodo",
+    "market_name": "NS 2K SmartTV",
+    "codename": "sunnyvale",
+    "model": "NS 2K SmartTV"
   },
   {
     "manufacturer": "Noblex",

@@ -537,9 +537,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier MatrixTV AS",
+      "codename": "irvine",
+      "model": "Haier MatrixTV AS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Haier MatrixTV BE",
       "codename": "jordan",
       "model": "Haier MatrixTV BE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier MatrixTV BN",
+      "codename": "jordan",
+      "model": "Haier MatrixTV BN"
     },
     {
       "manufacturer": "",

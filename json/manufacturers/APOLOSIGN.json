@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Apolosign",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NW1495T_ROW",
+      "codename": "NW1495T",
+      "model": "NW1495T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "elcnw tablet",
+      "codename": "NW1495T",
+      "model": "NW1495T_EEA"
+    }
+  ]
+}

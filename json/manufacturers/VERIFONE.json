@@ -1,0 +1,17 @@
+{
+  "manufacturer": "verifone",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IX90_CQA1103",
+      "codename": "IX90_CQA1103",
+      "model": "IX90_CQA1103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IX90_CQA1103_EEA",
+      "codename": "IX90_CQA1103_EEA",
+      "model": "IX90_CQA1103_EEA"
+    }
+  ]
+}

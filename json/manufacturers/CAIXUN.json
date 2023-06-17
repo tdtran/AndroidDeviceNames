@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EXPRESS",
+      "codename": "marina",
+      "model": "Apollo Premium4K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Europe",
       "codename": "martin",
       "model": "Caixun Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "martin",
+      "model": "SE 2K Android Monitor"
     },
     {
       "manufacturer": "",

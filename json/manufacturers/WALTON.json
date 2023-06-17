@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bangladesh and EU",
       "codename": "tamachi",
       "model": "WALTON Android TV"
@@ -30,6 +36,12 @@
       "market_name": "Orbit M20",
       "codename": "OrbitM20",
       "model": "Orbit M20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orbit Y11",
+      "codename": "Orbit_Y11",
+      "model": "Orbit Y11"
     },
     {
       "manufacturer": "",
@@ -652,6 +664,12 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K US Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
       "codename": "osaki",
       "model": "2K AI Smart TV"
     },
@@ -684,6 +702,12 @@
       "market_name": "WALPAD 8G",
       "codename": "WALPAD_8G",
       "model": "WALPAD_8G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALTON GSMART 4KTV FF",
+      "codename": "SW6H",
+      "model": "WALTON GSMART 4KTV FF"
     },
     {
       "manufacturer": "",

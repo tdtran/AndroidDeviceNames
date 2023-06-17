@@ -1,9 +1,33 @@
 [
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO C55",
+    "codename": "earth",
+    "model": "22127PC95I"
+  },
+  {
     "manufacturer": "Plaisio",
     "market_name": "Earth",
     "codename": "Earth",
     "model": "Earth"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12C",
+    "codename": "earth",
+    "model": "22120RN86G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12C",
+    "codename": "earth",
+    "model": "22120RN86I"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12C",
+    "codename": "earth",
+    "model": "2212ARNC4L"
   },
   {
     "manufacturer": "Tech 4u",

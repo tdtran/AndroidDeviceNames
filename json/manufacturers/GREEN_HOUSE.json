@@ -12,6 +12,12 @@
       "market_name": "GREEN HOUSE TV",
       "codename": "SW6H",
       "model": "GREEN HOUSE TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "mateo",
+      "model": "2K SA Smart TV"
     }
   ]
 }

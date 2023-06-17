@@ -807,6 +807,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Platinum_J5US",
+      "codename": "Platinum_J5US",
+      "model": "Platinum J5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Platinum_K5",
       "codename": "Platinum_K5",
       "model": "Platinum K5"
@@ -834,6 +840,12 @@
       "market_name": "Premier5",
       "codename": "Premier5_US",
       "model": "Premier5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Premier_Pro",
+      "codename": "Premier_Pro",
+      "model": "Premier Pro"
     },
     {
       "manufacturer": "",
@@ -966,6 +978,18 @@
       "market_name": "SKY Volt",
       "codename": "SKY_Volt",
       "model": "SKY Volt"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_PAD10us",
+      "codename": "SKY_PAD10us",
+      "model": "SKY_PAD10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_Pad_Max",
+      "codename": "SKY_Pad_Max",
+      "model": "SKY_Pad_Max"
     },
     {
       "manufacturer": "",

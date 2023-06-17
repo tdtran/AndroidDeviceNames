@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q3-pro",
+      "codename": "Q3_pro",
+      "model": "Q3_pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q3_EEA",
       "codename": "Q3_EEA",
       "model": "Q3_EEA"
@@ -36,6 +42,12 @@
       "market_name": "Q3pro_eea",
       "codename": "Q3pro_eea",
       "model": "Q3pro_eea"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q5_EEA",
+      "codename": "Q5_EEA",
+      "model": "3W_EEA"
     }
   ]
 }

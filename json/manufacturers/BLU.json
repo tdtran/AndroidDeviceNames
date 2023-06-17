@@ -267,6 +267,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BOLD N3",
+      "codename": "N0070",
+      "model": "BOLD N3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C1",
       "codename": "C190",
       "model": "C1"
@@ -444,6 +450,12 @@
       "market_name": "C5L Max",
       "codename": "C0173WW",
       "model": "C5L Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L PLUS",
+      "codename": "C0130UU",
+      "model": "C5L PLUS"
     },
     {
       "manufacturer": "",
@@ -789,6 +801,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G40",
+      "codename": "G0790UU",
+      "model": "G40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G5",
       "codename": "G0090",
       "model": "G5"
@@ -903,6 +921,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G53",
+      "codename": "G0850",
+      "model": "G53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G53",
+      "codename": "G0850_IW",
+      "model": "G53"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6",
       "codename": "G0210",
       "model": "G6"
@@ -939,6 +969,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G63",
+      "codename": "G0870",
+      "model": "G63"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G70",
       "codename": "G0151WW",
       "model": "G70"
@@ -972,6 +1008,12 @@
       "market_name": "G71_PLUS_TIGO",
       "codename": "G0560WW",
       "model": "G71 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G73",
+      "codename": "G0771",
+      "model": "G73"
     },
     {
       "manufacturer": "",
@@ -1044,6 +1086,12 @@
       "market_name": "G91_Max",
       "codename": "G0690WW",
       "model": "G91 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G93",
+      "codename": "G0910",
+      "model": "G93"
     },
     {
       "manufacturer": "",
@@ -1240,8 +1288,20 @@
     {
       "manufacturer": "",
       "market_name": "M10L",
+      "codename": "M0178_ND",
+      "model": "M10L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L",
       "codename": "M0190WW",
       "model": "M10L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L PLUS",
+      "codename": "M0223_ND",
+      "model": "M10L PLUS"
     },
     {
       "manufacturer": "",
@@ -1421,6 +1481,12 @@
       "manufacturer": "",
       "market_name": "M8L_Plus",
       "codename": "M0213_ND",
+      "model": "M8L Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L_Plus",
+      "codename": "M0213_SM",
       "model": "M8L Plus"
     },
     {

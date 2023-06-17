@@ -28,5 +28,11 @@
     "market_name": "Micromax Canvas 1",
     "codename": "C1",
     "model": "Micromax C1"
+  },
+  {
+    "manufacturer": "Telpo",
+    "market_name": "C1",
+    "codename": "C1",
+    "model": "C1"
   }
 ]

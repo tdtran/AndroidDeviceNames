@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M51",
+      "codename": "M51",
+      "model": "M51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M51_EEA",
       "codename": "M51_EEA",
       "model": "M51_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M53",
+      "codename": "M53",
+      "model": "M53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M53_EEA",
+      "codename": "M53_EEA",
+      "model": "M53_EEA"
     },
     {
       "manufacturer": "",
@@ -54,6 +72,18 @@
       "market_name": "M7152D1_EEA",
       "codename": "M7152D1_EEA",
       "model": "M7152D1_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7152P",
+      "codename": "M7152P",
+      "model": "M7152P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7152P_EEA",
+      "codename": "M7152P_EEA",
+      "model": "M7152P_EEA"
     },
     {
       "manufacturer": "",

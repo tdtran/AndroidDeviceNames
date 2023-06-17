@@ -189,6 +189,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S620",
+      "codename": "S620",
+      "model": "S620"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S620",
+      "codename": "S620",
+      "model": "Twist 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP2",
       "codename": "SP2",
       "model": "SP2"
@@ -252,6 +264,18 @@
       "market_name": "T2040",
       "codename": "T2040B",
       "model": "T2040"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2050C",
+      "codename": "T2050C",
+      "model": "T2050C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2050C",
+      "codename": "T2050C",
+      "model": "Tab Q10"
     },
     {
       "manufacturer": "",
@@ -336,6 +360,18 @@
       "market_name": "T810C",
       "codename": "T810C",
       "model": "T810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TL10",
+      "codename": "TL10",
+      "model": "Vaio TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab Q10",
+      "codename": "T2050M",
+      "model": "Tab Q10"
     },
     {
       "manufacturer": "",
@@ -441,6 +477,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Twist 5 Max",
+      "codename": "S650",
+      "model": "Twist 5 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 5 Pro",
+      "codename": "S640",
+      "model": "Twist 5 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Twist Max",
       "codename": "S540",
       "model": "Twist Max"
@@ -510,6 +558,18 @@
       "market_name": "Twist Tab",
       "codename": "T770G",
       "model": "Twist Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab",
+      "codename": "T770G",
+      "model": "Twist Tab +"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist Tab",
+      "codename": "T770G",
+      "model": "Twist Tab Minions +"
     },
     {
       "manufacturer": "",

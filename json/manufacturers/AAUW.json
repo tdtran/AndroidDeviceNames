@@ -1,0 +1,17 @@
+{
+  "manufacturer": "AAUW",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T60Pro",
+      "codename": "T60Pro",
+      "model": "T60Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T_50",
+      "codename": "T_50",
+      "model": "T_50"
+    }
+  ]
+}

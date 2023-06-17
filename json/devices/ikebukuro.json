@@ -7,12 +7,6 @@
   },
   {
     "manufacturer": "Aiwa",
-    "market_name": "AW-LED43GKF",
-    "codename": "ikebukuro",
-    "model": "AI PONT"
-  },
-  {
-    "manufacturer": "Aiwa",
     "market_name": "Android TV",
     "codename": "ikebukuro",
     "model": "AI PONT"
@@ -67,6 +61,12 @@
   },
   {
     "manufacturer": "Changhong",
+    "market_name": "Android TV",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Changhong",
     "market_name": "L32H7",
     "codename": "ikebukuro",
     "model": "AI PONT"
@@ -76,12 +76,6 @@
     "market_name": "L32H7",
     "codename": "ikebukuro",
     "model": "CHiQ AI Center"
-  },
-  {
-    "manufacturer": "Changhong",
-    "market_name": "L42G6F",
-    "codename": "ikebukuro",
-    "model": "AI PONT"
   },
   {
     "manufacturer": "Classpro",
@@ -109,6 +103,12 @@
   },
   {
     "manufacturer": "Hyundai",
+    "market_name": "Android TV",
+    "codename": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Hyundai",
     "market_name": "G9S",
     "codename": "ikebukuro",
     "model": "AI PONT"
@@ -126,12 +126,6 @@
     "model": "AI PONT"
   },
   {
-    "manufacturer": "Hyundai",
-    "market_name": "HYLED4321AiM",
-    "codename": "ikebukuro",
-    "model": "AI PONT"
-  },
-  {
     "manufacturer": "Infinix",
     "market_name": "32X1",
     "codename": "ikebukuro",
@@ -145,13 +139,13 @@
   },
   {
     "manufacturer": "JVC",
-    "market_name": "LT-32N3115A",
+    "market_name": "Android TV",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
   {
     "manufacturer": "JVC",
-    "market_name": "LT-40KB308",
+    "market_name": "LT-32N3115A",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
@@ -210,14 +204,8 @@
     "model": "AI PONT"
   },
   {
-    "manufacturer": "Philco",
-    "market_name": "PTV40G71AGBL-VA",
-    "codename": "ikebukuro",
-    "model": "AI PONT"
-  },
-  {
     "manufacturer": "Premier",
-    "market_name": "32FSV720",
+    "market_name": "Android TV",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },
@@ -241,7 +229,7 @@
   },
   {
     "manufacturer": "Riviera",
-    "market_name": "RLED-AND42CHG6F",
+    "market_name": "Android TV",
     "codename": "ikebukuro",
     "model": "AI PONT"
   },

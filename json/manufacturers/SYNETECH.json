@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Synetech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Synetech Elite Taurus",
+      "codename": "rk3588_t",
+      "model": "Synetech_T35"
+    }
+  ]
+}

@@ -267,9 +267,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S19 Max 32GB",
+      "codename": "S19_Max_32GB",
+      "model": "S19 Max 32GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19 Max 64GB",
+      "codename": "S19_Max_64GB",
+      "model": "S19 Max 64GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S19 Max Pro",
       "codename": "S19_Max_Pro",
       "model": "S19 Max Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19 Max Pro S",
+      "codename": "S19_Max_Pro_S",
+      "model": "S19 Max Pro S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S23 Pro Max",
+      "codename": "S23_Pro_Max",
+      "model": "S23 Pro Max"
     },
     {
       "manufacturer": "",

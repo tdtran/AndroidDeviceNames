@@ -1,0 +1,50 @@
+[
+  {
+    "manufacturer": "ASTEX",
+    "market_name": "ASTEX 2K Google TV",
+    "codename": "capitolhill",
+    "model": "ASTEX 2K Google TV"
+  },
+  {
+    "manufacturer": "DigiKing",
+    "market_name": "Digiking 2K Google TV",
+    "codename": "capitolhill",
+    "model": "Digiking 2K Google TV"
+  },
+  {
+    "manufacturer": "Dyon",
+    "market_name": "DYON 2K Google TV",
+    "codename": "capitolhill",
+    "model": "DYON 2K Google TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI 2K Google TV",
+    "codename": "capitolhill",
+    "model": "HYUNDAI  2K Google TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "HK 2K Google TV",
+    "codename": "capitolhill",
+    "model": "HK 2K Google TV"
+  },
+  {
+    "manufacturer": "SYLVOX",
+    "market_name": "SYLVOX 2K Google TV",
+    "codename": "capitolhill",
+    "model": "SYLVOX  2K Google TV"
+  },
+  {
+    "manufacturer": "Stream",
+    "market_name": "STREAM 2K Google TV",
+    "codename": "capitolhill",
+    "model": "STREAM 2K Google TV"
+  },
+  {
+    "manufacturer": "innos",
+    "market_name": "innos 2K Google TV",
+    "codename": "capitolhill",
+    "model": "innos 2K Google TV"
+  }
+]

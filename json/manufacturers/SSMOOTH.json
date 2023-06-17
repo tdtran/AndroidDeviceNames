@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NOVA 6.5",
+      "codename": "NOVA_6_5",
+      "model": "NOVA 6.5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smooth 5.0 2022",
       "codename": "Smooth_5_0_2022",
       "model": "Smooth 5.0 2022"
@@ -66,6 +72,24 @@
       "market_name": "Smooth_5",
       "codename": "SSmooth_5",
       "model": "Smooth 5.0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smooth_8GT",
+      "codename": "Smooth_8GT",
+      "model": "Smooth 8GT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision",
+      "codename": "Vision",
+      "model": "Vision"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision Plus",
+      "codename": "Vision_Plus",
+      "model": "Vision Plus"
     }
   ]
 }

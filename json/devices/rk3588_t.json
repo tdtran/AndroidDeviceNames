@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "ADOC",
+    "market_name": "ADOC EX650",
+    "codename": "rk3588_t",
+    "model": "ADOCEX650"
+  },
+  {
+    "manufacturer": "CVTE",
+    "market_name": "edu_v2",
+    "codename": "rk3588_t",
+    "model": "edu_v2"
+  },
+  {
+    "manufacturer": "ClearTouch",
+    "market_name": "six_zero_XXAplus",
+    "codename": "rk3588_t",
+    "model": "six_zero_XXAplus"
+  },
+  {
+    "manufacturer": "Newline",
+    "market_name": "Q23",
+    "codename": "rk3588_t",
+    "model": "Q23"
+  },
+  {
+    "manufacturer": "Synetech",
+    "market_name": "Synetech Elite Taurus",
+    "codename": "rk3588_t",
+    "model": "Synetech_T35"
+  }
+]

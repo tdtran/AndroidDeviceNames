@@ -1,0 +1,11 @@
+{
+  "manufacturer": "iMACHINE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MobilePOSTerminal",
+      "codename": "MobilePOSTerminal",
+      "model": "AP12"
+    }
+  ]
+}

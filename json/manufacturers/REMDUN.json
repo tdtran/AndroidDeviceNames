@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RD1XT",
+      "codename": "RD1XT",
+      "model": "RD1XT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD40T",
       "codename": "RD40T",
       "model": "RD40T"

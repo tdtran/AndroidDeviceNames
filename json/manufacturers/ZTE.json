@@ -100,24 +100,6 @@
     {
       "manufacturer": "",
       "market_name": "",
-      "codename": "P117T21",
-      "model": "ZTE U960E"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "P188T10",
-      "model": "ZTE U956"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "P188T20",
-      "model": "ZTE U819"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
       "codename": "P253A20",
       "model": "ZTE V768"
     },
@@ -196,38 +178,8 @@
     {
       "manufacturer": "",
       "market_name": "",
-      "codename": "P810A20",
-      "model": "ZTE U887"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "P810T01",
-      "model": "ZTE U791"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "P810T01",
-      "model": "ZTE U791(OPEN)"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
       "codename": "P810T02",
       "model": "ZTE U793"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "P825T10",
-      "model": "ZTE U808"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "P825T10",
-      "model": "ZTE U808(OPEN)"
     },
     {
       "manufacturer": "",
@@ -240,12 +192,6 @@
       "market_name": "",
       "codename": "QB7211",
       "model": "STARTEXT II"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "T77",
-      "model": "T77"
     },
     {
       "manufacturer": "",
@@ -718,12 +664,6 @@
     {
       "manufacturer": "",
       "market_name": "",
-      "codename": "enterprise",
-      "model": "ZTE U5"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
       "codename": "enterprise_HK",
       "model": "ZTE Grand Era"
     },
@@ -750,12 +690,6 @@
       "market_name": "",
       "codename": "frosty",
       "model": "ZTE T82"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "",
-      "codename": "hct77_ics2",
-      "model": "V865M"
     },
     {
       "manufacturer": "",
@@ -1533,6 +1467,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Avid Slate",
+      "codename": "K82",
+      "model": "K82"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Axon 10 Pro 5G",
       "codename": "P855A21",
       "model": "ZTE A2020N2 Pro"
@@ -1722,6 +1662,12 @@
       "market_name": "BASE Lutea 2",
       "codename": "skate",
       "model": "BASE Lutea 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BBC100-1",
+      "codename": "BBC100_1",
+      "model": "BBC100-1"
     },
     {
       "manufacturer": "",
@@ -3789,6 +3735,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K70",
+      "codename": "K70",
+      "model": "K70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K75",
+      "codename": "crane-zte7",
+      "model": "K75"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K81",
       "codename": "helen",
       "model": "K81"
@@ -4881,6 +4839,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NX607J",
+      "codename": "NX607J",
+      "model": "NX607J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NX608J",
+      "codename": "NX608J",
+      "model": "NX608J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NX609J",
       "codename": "NX609J",
       "model": "NX609J"
@@ -5013,6 +4983,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NX709S",
+      "codename": "NX709S-EEA",
+      "model": "NX709S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NX709S",
+      "codename": "NX709S-UN",
+      "model": "NX709S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NX711J",
+      "codename": "PQ82A01",
+      "model": "NX711J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NX729J",
+      "codename": "NX729J",
+      "model": "NX729J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NX729J",
+      "codename": "NX729J-EEA",
+      "model": "NX729J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NX729J",
       "codename": "NX729J-UN",
       "model": "NX729J"
@@ -5040,6 +5040,12 @@
       "market_name": "Nubia 8011",
       "codename": "P963F05",
       "model": "Nubia 8011"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nubia 8031",
+      "codename": "P963F06",
+      "model": "Nubia 8031"
     },
     {
       "manufacturer": "",
@@ -5082,6 +5088,12 @@
       "market_name": "Optimus Barcelona",
       "codename": "blade2",
       "model": "Optimus Barcelona"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optus X Max",
+      "codename": "P606F05",
+      "model": "Blade A72s"
     },
     {
       "manufacturer": "",
@@ -5208,6 +5220,12 @@
       "market_name": "P652",
       "codename": "P963F61",
       "model": "P652"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P652 Pro",
+      "codename": "Z6356O",
+      "model": "P652 Pro"
     },
     {
       "manufacturer": "",
@@ -6036,6 +6054,12 @@
       "market_name": "T760",
       "codename": "P173A10T",
       "model": "ZTE T760"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T77",
+      "codename": "T77",
+      "model": "T77"
     },
     {
       "manufacturer": "",
@@ -6976,6 +7000,12 @@
     {
       "manufacturer": "",
       "market_name": "V865M",
+      "codename": "hct77_ics2",
+      "model": "V865M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V865M",
       "codename": "hct77_jb",
       "model": "V865M"
     },
@@ -7317,6 +7347,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Verve Connect",
+      "codename": "Z6201",
+      "model": "Z6103"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vesta",
       "codename": "proline",
       "model": "Z965"
@@ -7332,6 +7368,12 @@
       "market_name": "Vodafone Smart Chat",
       "codename": "turies",
       "model": "Vodafone Smart Chat"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodafone Smart X9",
+      "codename": "VFD820",
+      "model": "VFD 820"
     },
     {
       "manufacturer": "",
@@ -7416,6 +7458,12 @@
       "market_name": "Z3351S",
       "codename": "Z3351",
       "model": "Z3351S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3352CA",
+      "codename": "Z3352CA",
+      "model": "Z3352CA"
     },
     {
       "manufacturer": "",
@@ -7515,6 +7563,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z6356T",
+      "codename": "Z6356T",
+      "model": "Z6356T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z6410",
       "codename": "Z6410",
       "model": "Z6410S"
@@ -7554,6 +7608,12 @@
       "market_name": "Z667",
       "codename": "demi",
       "model": "Z667"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z667G",
+      "codename": "demi",
+      "model": "Z667G"
     },
     {
       "manufacturer": "",
@@ -8037,6 +8097,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE 7160N",
+      "codename": "P720F02",
+      "model": "ZTE 7160N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE 7530N",
       "codename": "P633S07",
       "model": "ZTE 7530N"
@@ -8130,6 +8196,12 @@
       "market_name": "ZTE 8046",
       "codename": "P616F01",
       "model": "ZTE 8046"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE 8140N",
+      "codename": "P633F10",
+      "model": "ZTE 8140N"
     },
     {
       "manufacturer": "",
@@ -8322,6 +8394,12 @@
       "market_name": "ZTE A2121L",
       "codename": "P618A03",
       "model": "ZTE A2121L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A2122H",
+      "codename": "P768A02",
+      "model": "ZTE A2122H"
     },
     {
       "manufacturer": "",
@@ -8529,6 +8607,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE B2017",
+      "codename": "msm8952_64",
+      "model": "ZTE B2017"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE A0605",
       "codename": "P809F15",
       "model": "ZTE BLADE A0605"
@@ -8586,6 +8670,12 @@
       "market_name": "ZTE BLADE A321",
       "codename": "VFD511",
       "model": "ZTE BLADE A321"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE A322",
+      "codename": "P809V52",
+      "model": "ZTE BLADE A322"
     },
     {
       "manufacturer": "",
@@ -8859,6 +8949,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade A3 2020",
+      "codename": "P932K30",
+      "model": "ZTE Blade A3 2020"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade A3 2020RU",
       "codename": "P932F50",
       "model": "ZTE Blade A3 2020RU"
@@ -8879,6 +8975,12 @@
       "manufacturer": "",
       "market_name": "ZTE Blade A31 Lite",
       "codename": "P932F21",
+      "model": "ZTE Blade A31 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A31 Lite",
+      "codename": "P932F21_A",
       "model": "ZTE Blade A31 Lite"
     },
     {
@@ -8916,6 +9018,30 @@
       "market_name": "ZTE Blade A32",
       "codename": "P963F90W",
       "model": "ZTE Blade A32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A33",
+      "codename": "P932F22",
+      "model": "ZTE Blade A33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A33 Core",
+      "codename": "P932F23",
+      "model": "ZTE Blade A33 Core"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A33+",
+      "codename": "P963F91",
+      "model": "ZTE Blade A33+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A33+ Core",
+      "codename": "P963F92",
+      "model": "ZTE Blade A33+ Core"
     },
     {
       "manufacturer": "",
@@ -9045,6 +9171,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade A53",
+      "codename": "P963F62",
+      "model": "ZTE Blade A53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A53 Pro",
+      "codename": "P963F63",
+      "model": "ZTE Blade A53 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A53+",
+      "codename": "P963F62",
+      "model": "P630"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A53+",
+      "codename": "P963F62",
+      "model": "ZTE Blade A53+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A53+",
+      "codename": "P963F62_A",
+      "model": "ZTE Blade A53+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade A531",
       "codename": "P932F10",
       "model": "ZTE Blade A531"
@@ -9077,6 +9233,12 @@
       "manufacturer": "",
       "market_name": "ZTE Blade A7 2020",
       "codename": "P662F02_D1",
+      "model": "ZTE Blade A7 2020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A7 2020",
+      "codename": "P662F02_D2",
       "model": "ZTE Blade A7 2020"
     },
     {
@@ -9144,6 +9306,12 @@
       "market_name": "ZTE Blade L210RU",
       "codename": "P731F50",
       "model": "ZTE Blade L210RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade L220",
+      "codename": "P731F60",
+      "model": "ZTE Blade L220"
     },
     {
       "manufacturer": "",
@@ -9279,15 +9447,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE E7LS",
+      "codename": "ZTE_E7LS",
+      "model": "ZTE E7LS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Fanfare 3",
       "codename": "kelly",
       "model": "Z852"
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE N939Sc",
+      "codename": "zx55q05_64",
+      "model": "LS-5504"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE N939Sc",
+      "codename": "zx55q05_64",
+      "model": "ZTE Blade X9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE N939Sc",
+      "codename": "zx55q05_64",
+      "model": "ZTE N939Sc"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE N939Sc",
+      "codename": "zx55q05_64",
+      "model": "ZTE N939St"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Overture 3",
       "codename": "jeff",
       "model": "Z851"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE PA01",
+      "codename": "P898P01",
+      "model": "ZTE PA01"
     },
     {
       "manufacturer": "",
@@ -9300,6 +9504,60 @@
       "market_name": "ZTE Tempo X",
       "codename": "grayjoylite",
       "model": "N9137"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U5",
+      "codename": "enterprise",
+      "model": "ZTE U5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U791",
+      "codename": "P810T01",
+      "model": "ZTE U791"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U791",
+      "codename": "P810T01",
+      "model": "ZTE U791(OPEN)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U808",
+      "codename": "P825T10",
+      "model": "ZTE U808"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U808",
+      "codename": "P825T10",
+      "model": "ZTE U808(OPEN)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U819",
+      "codename": "P188T20",
+      "model": "ZTE U819"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U887",
+      "codename": "P810A20",
+      "model": "ZTE U887"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U956",
+      "codename": "P188T10",
+      "model": "ZTE U956"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE U960E",
+      "codename": "P117T21",
+      "model": "ZTE U960E"
     },
     {
       "manufacturer": "",
@@ -9465,6 +9723,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nubia Pad 3D",
+      "codename": "LumePad",
+      "model": "LPD-20W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nubia Play",
       "codename": "NX651J",
       "model": "NX651J"
@@ -9474,6 +9738,12 @@
       "market_name": "nubia Z5",
       "codename": "NX501",
       "model": "nubia Z5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Z50 Ultra",
+      "codename": "PQ82A11",
+      "model": "NX712J"
     },
     {
       "manufacturer": "",
@@ -9504,6 +9774,18 @@
       "market_name": "zBox 1",
       "codename": "YXE",
       "model": "zBox 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "中兴畅行40",
+      "codename": "P963S71",
+      "model": "ZTE 1020L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "中兴远航41",
+      "codename": "P720S11",
+      "model": "ZTE 7541N"
     }
   ]
 }

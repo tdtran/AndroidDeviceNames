@@ -19,6 +19,12 @@
   },
   {
     "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV BN",
+    "codename": "jordan",
+    "model": "Haier MatrixTV BN"
+  },
+  {
+    "manufacturer": "Haier",
     "market_name": "Haier MatrixTV BS",
     "codename": "jordan",
     "model": "Haier MatrixTV BS"

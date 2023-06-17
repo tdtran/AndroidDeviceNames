@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SmartabS32",
+      "codename": "SmartabS32",
+      "model": "SmartabS32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartabS4",
       "codename": "SmartabS4",
       "model": "SmartabS4"

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "DABLIU",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E13R_B65G",
+      "codename": "rk3588_E13R",
+      "model": "E13R"
+    }
+  ]
+}

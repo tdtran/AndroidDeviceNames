@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LTC(LR)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LTC1066",
+      "codename": "LTC1066",
+      "model": "LTC1066"
+    }
+  ]
+}

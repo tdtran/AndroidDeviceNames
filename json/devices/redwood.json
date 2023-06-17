@@ -42,6 +42,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Android TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "CHiQ",
     "market_name": "H7",
     "codename": "redwood",
@@ -61,6 +67,12 @@
   },
   {
     "manufacturer": "Condor",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "DORA",
     "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
@@ -100,6 +112,12 @@
     "market_name": "Android TV",
     "codename": "redwood",
     "model": "AI PONT SA"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "BS5002",
+    "codename": "redwood",
+    "model": "AI PONT"
   },
   {
     "manufacturer": "Hyundai",
@@ -176,6 +194,12 @@
   {
     "manufacturer": "Polaroid",
     "market_name": "G5N",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Premier",
+    "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
   },

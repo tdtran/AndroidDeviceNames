@@ -123,6 +123,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aqua_Tab_S1_2023",
+      "codename": "Aqua_Tab_S1_2023",
+      "model": "A1250"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua_Tab_S2_Pro",
+      "codename": "Aqua_Tab_S2_Pro",
+      "model": "Aqua_Tab_S2_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aqua_Tab_Ultra",
+      "codename": "Aqua_Tab_Ultra",
+      "model": "Aqua_Tab_Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cherry Comet",
       "codename": "Cherry_Comet",
       "model": "A870"

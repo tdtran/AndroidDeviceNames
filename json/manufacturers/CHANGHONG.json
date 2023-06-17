@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G7P",
       "codename": "hapjeong",
       "model": "AI PONT PLUS"
@@ -39,12 +51,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "L42G6F",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "longshan",
       "model": "AI PONT"
@@ -60,12 +66,6 @@
       "market_name": "U50H7",
       "codename": "samseong",
       "model": "CHiQ AI Center"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "U58H7",
-      "codename": "sindorim",
-      "model": "AI PONT"
     },
     {
       "manufacturer": "",

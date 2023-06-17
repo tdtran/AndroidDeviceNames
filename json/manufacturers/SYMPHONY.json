@@ -501,6 +501,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z60",
+      "codename": "Z60",
+      "model": "Symphony Z60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z60",
+      "codename": "Z60",
+      "model": "Z60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z60 Plus",
+      "codename": "Z60_plus",
+      "model": "Z60 plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZVII",
       "codename": "ZVII",
       "model": "ZVII"
@@ -678,6 +696,12 @@
       "market_name": "i99",
       "codename": "i99",
       "model": "i99"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "innova10",
+      "codename": "innova10",
+      "model": "innova10"
     },
     {
       "manufacturer": "",

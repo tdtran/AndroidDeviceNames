@@ -81,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4KTV-3SU",
+      "codename": "SW6H",
+      "model": "4KTV-3SU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4KTV-3SUF",
+      "codename": "SW6H",
+      "model": "4KTV-3SUF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "55AX600C",
       "codename": "mst918_4k2k",
       "model": "55AX600C"
@@ -1434,6 +1446,12 @@
       "market_name": "R4",
       "codename": "R4",
       "model": "PANASONIC TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4_GTV",
+      "codename": "R4_GTV",
+      "model": "4KTV-3MUP"
     },
     {
       "manufacturer": "",

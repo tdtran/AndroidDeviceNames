@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "INOI",
+    "market_name": "INOI A151",
+    "codename": "A151",
+    "model": "A151"
+  },
+  {
     "manufacturer": "TVB",
     "market_name": "A15",
     "codename": "A151",

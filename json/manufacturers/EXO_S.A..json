@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wave_i101u",
+      "codename": "Wave_i101u",
+      "model": "Wave_i101u"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i101T2",
       "codename": "i101T2",
       "model": "TabletEXO_Wave_i101T2"

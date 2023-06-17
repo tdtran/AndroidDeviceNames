@@ -30,6 +30,12 @@
       "market_name": "TE101N1",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "TE101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE102M3",
+      "codename": "TE102M3",
+      "model": "TE102"
     }
   ]
 }

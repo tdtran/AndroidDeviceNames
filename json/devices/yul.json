@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "BenQ",
+    "market_name": "QS02",
+    "codename": "YUL",
+    "model": "QS02"
+  },
+  {
+    "manufacturer": "Dcolor",
+    "market_name": "GD1 4K",
+    "codename": "YUL",
+    "model": "GD1 4K"
+  },
+  {
+    "manufacturer": "ETOE",
+    "market_name": "D1221",
+    "codename": "YUL",
+    "model": "D1221"
+  },
+  {
+    "manufacturer": "INNOCN",
+    "market_name": "S1",
+    "codename": "YUL",
+    "model": "S1"
+  },
+  {
     "manufacturer": "imiia",
     "market_name": "i-217D1",
     "codename": "YUL",

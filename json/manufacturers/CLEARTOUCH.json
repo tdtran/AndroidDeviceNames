@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ClearTouch",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "six_zero_XXAplus",
+      "codename": "rk3588_t",
+      "model": "six_zero_XXAplus"
+    }
+  ]
+}

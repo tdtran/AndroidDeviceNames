@@ -12,6 +12,12 @@
       "market_name": "Infotainment 3.8",
       "codename": "gminfo37",
       "model": "gminfo38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCU",
+      "codename": "aegean",
+      "model": "aegean"
     }
   ]
 }

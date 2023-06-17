@@ -87,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STREAM 2K Google TV",
+      "codename": "capitolhill",
+      "model": "STREAM 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STREAM 4K Google TV",
+      "codename": "keoneae",
+      "model": "STREAM 4K Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Stream",
       "codename": "DV8555-Altice",
       "model": "Stream"

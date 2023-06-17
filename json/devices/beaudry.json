@@ -22,5 +22,11 @@
     "market_name": "43A51",
     "codename": "beaudry",
     "model": "Syinix AndroidTV"
+  },
+  {
+    "manufacturer": "iSTAR",
+    "market_name": "S32WD02",
+    "codename": "beaudry",
+    "model": "iSTAR AndroidTV"
   }
 ]

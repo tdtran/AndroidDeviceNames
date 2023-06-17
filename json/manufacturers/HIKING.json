@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A51",
+      "codename": "A51",
+      "model": "A51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A55",
       "codename": "A55",
       "model": "A55"

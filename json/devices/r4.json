@@ -168,6 +168,12 @@
     "model": "R4"
   },
   {
+    "manufacturer": "Sharp",
+    "market_name": "R4-SH",
+    "codename": "R4",
+    "model": "R4-SH"
+  },
+  {
     "manufacturer": "Stream System",
     "market_name": "R4",
     "codename": "R4",

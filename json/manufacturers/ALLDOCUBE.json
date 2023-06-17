@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay 50",
+      "codename": "T1030",
+      "model": "iPlay_50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay 50S",
+      "codename": "T1029T",
+      "model": "iPlay_50S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay 8 Pro",
       "codename": "T806MH",
       "model": "T806MH"
@@ -138,6 +150,18 @@
       "market_name": "iPlay 8T",
       "codename": "T802",
       "model": "iPlay_8T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay50 Pro",
+      "codename": "T1030M",
+      "model": "iPlay50 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay50_SE",
+      "codename": "iPlay50_SE",
+      "model": "iPlay50_SE"
     },
     {
       "manufacturer": "",

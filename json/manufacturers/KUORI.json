@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Kuori",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KH3566",
+      "codename": "Kivi",
+      "model": "KH3566"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KH660",
+      "codename": "Nupiton",
+      "model": "KH660"
+    }
+  ]
+}

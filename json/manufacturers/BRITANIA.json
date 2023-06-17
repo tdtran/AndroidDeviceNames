@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Britania",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Britania Smart TV",
+      "codename": "sunnyvale",
+      "model": "Britania Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Britania Smart plus TV",
+      "codename": "SW6H",
+      "model": "Britania Smart plus TV"
+    }
+  ]
+}

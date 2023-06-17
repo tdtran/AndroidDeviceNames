@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Promethean",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Promethean OPS-A1",
+      "codename": "XM3566D",
+      "model": "OPS-A1"
+    }
+  ]
+}

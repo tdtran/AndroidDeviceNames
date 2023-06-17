@@ -1,0 +1,35 @@
+{
+  "manufacturer": "LT_Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LT 2003",
+      "codename": "LT_2003",
+      "model": "LT 2003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_6217",
+      "codename": "LT_6217",
+      "model": "LT_6217"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_6509",
+      "codename": "LT_6509",
+      "model": "LT_6509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_9701",
+      "codename": "LT_9701",
+      "model": "LT_9701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_mobile_S22",
+      "codename": "LT_mobile_S22",
+      "model": "S22"
+    }
+  ]
+}

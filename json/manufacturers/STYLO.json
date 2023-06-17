@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ATLAS",
+      "codename": "AW230345",
+      "model": "ATLAS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATLAS",
+      "codename": "DVK83",
+      "model": "ATLAS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BOLD",
       "codename": "BOLD",
       "model": "BOLD"
@@ -60,6 +72,18 @@
       "market_name": "BRAVE",
       "codename": "BRAVE",
       "model": "BRAVE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DVK82 Mercury",
+      "codename": "DVK82_Mercury",
+      "model": "DVK82 Mercury"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DVK87_Orion 8_Tab",
+      "codename": "DVK87_Orion_8_Tab",
+      "model": "DVK87 Orion 8 Tab"
     },
     {
       "manufacturer": "",
@@ -150,6 +174,12 @@
       "market_name": "PRIME",
       "codename": "PRIME",
       "model": "PRIME"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Phoenix",
+      "codename": "Phoenix",
+      "model": "Phoenix"
     },
     {
       "manufacturer": "",
@@ -291,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SATURN",
+      "codename": "SATURN",
+      "model": "SATURN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STEP_UP",
       "codename": "STEP_UP",
       "model": "STEP_UP"
@@ -354,6 +390,12 @@
       "market_name": "TITAN",
       "codename": "TITAN",
       "model": "TITAN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNIVERSE",
+      "codename": "UNIVERSE",
+      "model": "UNIVERSE"
     },
     {
       "manufacturer": "",

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Doogee",
+    "market_name": "S100",
+    "codename": "M22",
+    "model": "S100"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy M22",
     "codename": "m22",

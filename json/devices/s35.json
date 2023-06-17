@@ -10,5 +10,11 @@
     "market_name": "S35_RU",
     "codename": "S35",
     "model": "S35"
+  },
+  {
+    "manufacturer": "Mobiwire",
+    "market_name": "ALTICE S35",
+    "codename": "S35",
+    "model": "S35"
   }
 ]

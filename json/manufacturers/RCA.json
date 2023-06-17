@@ -95,12 +95,6 @@
       "manufacturer": "",
       "market_name": "4K Smart TV",
       "codename": "gangbyeon",
-      "model": "HKC 4K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4K Smart TV",
-      "codename": "gangbyeon",
       "model": "Treeview 4K AI Smart TV"
     },
     {
@@ -108,12 +102,6 @@
       "market_name": "4K Smart TV",
       "codename": "pioneer",
       "model": "4K SA Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4K Smart TV",
-      "codename": "pioneer",
-      "model": "DAEWOO 4K SA Smart TV"
     },
     {
       "manufacturer": "",
@@ -299,6 +287,18 @@
       "manufacturer": "",
       "market_name": "RCA",
       "codename": "seocho",
+      "model": "RCA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA 2K Android TV",
+      "codename": "lasalle",
+      "model": "RCA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA 4K Android TV",
+      "codename": "kenton",
       "model": "RCA 4K Android TV"
     },
     {
@@ -681,6 +681,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart Monitor",
+      "codename": "mateo",
+      "model": "2K Smart Monitor"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "kanda",
       "model": "2K Smart TV"
@@ -700,12 +706,6 @@
     {
       "manufacturer": "",
       "market_name": "Smart TV",
-      "codename": "mateo",
-      "model": "DAEWOO 2K SA Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Smart TV",
       "codename": "osaki",
       "model": "2K AI Smart TV"
     },
@@ -714,12 +714,6 @@
       "market_name": "Smart TV",
       "codename": "osaki",
       "model": "Treeview 2K AI Smart TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Smart TV",
-      "codename": "osaki",
-      "model": "UNICO 2K AI Smart TV"
     },
     {
       "manufacturer": "",

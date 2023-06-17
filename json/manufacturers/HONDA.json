@@ -88,6 +88,12 @@
     {
       "manufacturer": "",
       "market_name": "IVI-SYSTEM",
+      "codename": "emu_pub_h_30a_g_car",
+      "model": "IVI-SYSTEM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IVI-SYSTEM",
       "codename": "msmnile_au",
       "model": "IVI-SYSTEM"
     },

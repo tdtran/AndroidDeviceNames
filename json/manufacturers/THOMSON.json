@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "martin",
+      "model": "Thomson TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Friendly TH101",
       "codename": "Friendly_TH101",
       "model": "Friendly_TH101"
@@ -81,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Origin_679",
+      "codename": "Origin_679",
+      "model": "Origin_679"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRIMO7 Tablet",
       "codename": "PRIMO7",
       "model": "PRIMO7"
@@ -102,6 +114,12 @@
       "market_name": "R4",
       "codename": "R4",
       "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPPL 2K GSmartTV",
+      "codename": "umeda",
+      "model": "SPPL 2K GSmartTV"
     },
     {
       "manufacturer": "",
@@ -174,6 +192,12 @@
       "market_name": "TEO8-A2BK32",
       "codename": "TEO8-A2BK32",
       "model": "TEO8-A2BK32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEO84G",
+      "codename": "TEO84G332",
+      "model": "TEO84G"
     },
     {
       "manufacturer": "",

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "realme",
+    "market_name": "RMX3612",
+    "codename": "RE588DL1",
+    "model": "RMX3612"
+  },
+  {
+    "manufacturer": "realme",
     "market_name": "realme 9i 5G",
     "codename": "RE588DL1",
     "model": "RMX3612"

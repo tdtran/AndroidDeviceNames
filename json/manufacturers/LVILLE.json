@@ -12,6 +12,12 @@
       "market_name": "TP1005_EEA",
       "codename": "TP1005_EEA",
       "model": "TP1005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPC1013",
+      "codename": "TPC1013",
+      "model": "TPC1013"
     }
   ]
 }

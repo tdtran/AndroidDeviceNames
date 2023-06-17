@@ -117,6 +117,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus 11 5G",
+      "codename": "OP594DL1",
+      "model": "CPH2447"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 11 5G",
+      "codename": "OP594DL1",
+      "model": "CPH2449"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 11 5G",
+      "codename": "OP594DL1",
+      "model": "CPH2451"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 11 5G 中国版",
+      "codename": "OP591BL1",
+      "model": "PHB110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 11R 5G",
+      "codename": "OP5961L1",
+      "model": "CPH2487"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus 6",
       "codename": "OnePlus6",
       "model": "ONEPLUS A6000"
@@ -501,6 +531,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Nord CE 3 Lite 5G",
+      "codename": "OP5958L1",
+      "model": "CPH2465"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord CE 3 Lite 5G",
+      "codename": "OP5958L1",
+      "model": "CPH2467"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus Nord CE 5G",
       "codename": "OnePlusNordCE",
       "model": "EB2101"
@@ -606,6 +648,18 @@
       "market_name": "OnePlus Nord N200 5G",
       "codename": "OnePlusN200TMO",
       "model": "DE2118"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord N30 5G",
+      "codename": "OP5958L1",
+      "model": "CPH2513"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord N30 5G",
+      "codename": "OP5958L1",
+      "model": "CPH2515"
     },
     {
       "manufacturer": "",

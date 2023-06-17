@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "EKEMP",
+    "market_name": "T80 EEA",
+    "codename": "T80",
+    "model": "T80"
+  },
+  {
     "manufacturer": "Veidoo",
     "market_name": "T80",
     "codename": "T80",

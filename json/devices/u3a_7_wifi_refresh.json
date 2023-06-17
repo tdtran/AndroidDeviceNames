@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "TCL",
+    "market_name": "TCL TAB 7 Lite",
+    "codename": "U3A_7_WIFI_Refresh",
+    "model": "9309X2"
+  },
+  {
+    "manufacturer": "TCL",
     "market_name": "alcatel 1T7 NEW",
     "codename": "U3A_7_WIFI_Refresh",
     "model": "9309X2_TR"

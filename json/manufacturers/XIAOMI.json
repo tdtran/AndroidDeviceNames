@@ -1421,7 +1421,25 @@
       "manufacturer": "",
       "market_name": "Xiaomi 12T Pro",
       "codename": "diting",
+      "model": "22081212R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12T Pro",
+      "codename": "diting",
       "model": "22081212UG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12T Pro",
+      "codename": "diting",
+      "model": "22200414R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 12T Pro",
+      "codename": "diting",
+      "model": "A201XM"
     },
     {
       "manufacturer": "",
@@ -1434,6 +1452,30 @@
       "market_name": "Xiaomi 13",
       "codename": "fuxi",
       "model": "2211133C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13",
+      "codename": "fuxi",
+      "model": "2211133G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13 Lite",
+      "codename": "ziyi",
+      "model": "2210129SG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13 Pro",
+      "codename": "nuwa",
+      "model": "2210132G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13 Ultra",
+      "codename": "ishtar",
+      "model": "2304FPN6DC"
     },
     {
       "manufacturer": "",
@@ -1497,15 +1539,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi Pad 6",
+      "codename": "pipa",
+      "model": "23043RP34C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi TV Box S (2nd Gen)",
+      "codename": "jaws",
+      "model": "MiTV-AFKR0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi TV stick 4K",
       "codename": "soul",
       "model": "MiTV-AYFR0"
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi civi 3",
+      "codename": "yuechu",
+      "model": "23046PNC9C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi civi2",
       "codename": "ziyi",
       "model": "2209129SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi pad 6 Pro",
+      "codename": "liuqin",
+      "model": "23046RP50C"
     },
     {
       "manufacturer": "",

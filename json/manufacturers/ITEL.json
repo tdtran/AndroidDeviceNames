@@ -801,6 +801,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A04",
+      "codename": "itel-A632WM",
+      "model": "itel A632WM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A11",
       "codename": "itel_A11",
       "model": "itel A11"
@@ -1119,6 +1125,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A60",
+      "codename": "itel-A662L",
+      "model": "itel A662L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel AC12",
       "codename": "itel-A14",
       "model": "itel A14"
@@ -1221,6 +1233,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel P40",
+      "codename": "itel-P662L",
+      "model": "itel P662L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel P40+",
+      "codename": "itel-P683L",
+      "model": "itel P683L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel P41",
       "codename": "itel_P41",
       "model": "itel P41"
@@ -1278,6 +1302,18 @@
       "market_name": "itel S18 Pro",
       "codename": "itel-S662L",
       "model": "itel S662L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel S23",
+      "codename": "itel-S665L",
+      "model": "itel S665L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel S23",
+      "codename": "itel-S665LN",
+      "model": "itel S665LN"
     },
     {
       "manufacturer": "",

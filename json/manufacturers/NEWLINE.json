@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Newline",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "23QA",
+      "codename": "velvet",
+      "model": "LGA311D2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q23",
+      "codename": "rk3588_t",
+      "model": "Q23"
+    }
+  ]
+}

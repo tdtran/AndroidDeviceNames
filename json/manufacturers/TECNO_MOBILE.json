@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POVA 5",
+      "codename": "TECNO-Mobile-LH7n",
+      "model": "TECNO Mobile LH7n"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POVA Neo 2",
       "codename": "TECNO-Mobile-LG6n",
       "model": "TECNO Mobile LG6n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPARK Go 2023",
+      "codename": "TECNO-Mobile-BF7n",
+      "model": "TECNO Mobile BF7n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 10",
+      "codename": "TECNO-Mobile-KI5q",
+      "model": "TECNO Mobile KI5q"
     }
   ]
 }

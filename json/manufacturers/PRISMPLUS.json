@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PrismPlus 2KA",
+      "codename": "umeda",
+      "model": "PrismPlus 2KA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PrismPlus 4K Android TV",
       "codename": "SW4H",
       "model": "PrismPlus 4K Android TV"

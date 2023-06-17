@@ -669,6 +669,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-6065L",
+      "codename": "BQru-6065L",
+      "model": "BQ-6065L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-6200L Aurora",
       "codename": "BQru-6200L",
       "model": "BQ-6200L"

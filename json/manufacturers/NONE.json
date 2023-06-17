@@ -6,6 +6,12 @@
       "market_name": "NpadAir",
       "codename": "NpadAir",
       "model": "NpadAir"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NpadS",
+      "codename": "NpadS",
+      "model": "NpadS"
     }
   ]
 }

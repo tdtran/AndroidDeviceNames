@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GS0882T",
+      "codename": "GS0882T",
+      "model": "GS0882T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GS0883T",
+      "codename": "GS0883T",
+      "model": "GS0883T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GS1081T",
       "codename": "GS1081T",
       "model": "GS1081T"

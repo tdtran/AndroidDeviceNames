@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ZTE",
+    "market_name": "K70",
+    "codename": "K70",
+    "model": "K70"
+  },
+  {
     "manufacturer": "Zonko",
     "market_name": "k70",
     "codename": "K70",

@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kodak_D9PRO",
+      "codename": "Kodak_D9PRO",
+      "model": "D9PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kodak_KD50",
       "codename": "Kodak_KD50",
       "model": "KD50"

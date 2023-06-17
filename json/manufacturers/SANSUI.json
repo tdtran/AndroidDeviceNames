@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "North American",
+      "codename": "marina",
+      "model": "Apollo Premium4K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SANSUI SmartTV",
       "codename": "sunnyvale",
       "model": "SANSUI SmartTV"

@@ -117,6 +117,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dell Latitude Chromebook Enterprise",
+      "codename": "sarien_cheets",
+      "model": "Dell Latitude 5400 Chromebook Enterprise"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dell Latitude Chromebook Enterprise",
+      "codename": "sarien_cheets",
+      "model": "sarien"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Latitude 7000",
       "codename": "drallion_cheets",
       "model": "drallion"

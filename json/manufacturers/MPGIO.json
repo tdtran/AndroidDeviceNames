@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IKP104",
+      "codename": "IKP104",
+      "model": "IKP104"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LEGEND_EZ",
       "codename": "LEGEND_EZ",
       "model": "LEGEND_EZ"

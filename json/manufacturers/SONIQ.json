@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV",
+      "codename": "pioneer",
+      "model": "4K PA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PT0719A",
       "codename": "PT0719A",
       "model": "PT0719A"

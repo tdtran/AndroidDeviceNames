@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BGH 2K Android TV",
+      "codename": "lasalle",
+      "model": "BGH 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BGH 4K Android TV",
+      "codename": "kenton",
+      "model": "BGH 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BGH Joy 303",
       "codename": "BGH_Joy_303",
       "model": "BGH Joy 303"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BGH Smart TV",
+      "codename": "sunnyvale",
+      "model": "BGH Smart TV"
     },
     {
       "manufacturer": "",

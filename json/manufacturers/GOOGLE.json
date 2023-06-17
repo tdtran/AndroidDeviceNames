@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AMD FP6 Chromebook",
+      "codename": "guybrush_cheets",
+      "model": "guybrush"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AMD Raven Ridge Chromebook",
       "codename": "zork_cheets",
       "model": "zork"
@@ -12,6 +18,12 @@
       "market_name": "AMD Stoney Ridge Chromebook",
       "codename": "grunt_cheets",
       "model": "grunt"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebase",
+      "codename": "kalista_cheets",
+      "model": "kalista"
     },
     {
       "manufacturer": "",
@@ -105,6 +117,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Intel Alder Lake Chromebox",
+      "codename": "brask_cheets",
+      "model": "brask"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Alder Lake-N Chromebook",
+      "codename": "nissa_cheets",
+      "model": "nissa"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Intel Amber Lake Y Chromebook",
       "codename": "rammus_cheets",
       "model": "rammus"
@@ -189,7 +213,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Mediatek MT8173 Chromebook",
+      "market_name": "Mediatek MT8183 Chromebook",
       "codename": "jacuzzi_cheets",
       "model": "jacuzzi"
     },
@@ -201,9 +225,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mediatek MT8186 Chromebook",
+      "codename": "corsola_cheets",
+      "model": "corsola"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mediatek MT8192 Chromebook",
       "codename": "asurada_cheets",
       "model": "asurada"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediatek MT8195 Chromebook",
+      "codename": "cherry_cheets",
+      "model": "cherry"
     },
     {
       "manufacturer": "",
@@ -330,6 +366,12 @@
       "market_name": "Pixel 7 Pro",
       "codename": "cheetah",
       "model": "Pixel 7 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 7a",
+      "codename": "lynx",
+      "model": "Pixel 7a"
     },
     {
       "manufacturer": "",

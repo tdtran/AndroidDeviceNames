@@ -2391,6 +2391,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC A102",
+      "codename": "HTC_A102",
+      "model": "HTC A102"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC A103",
       "codename": "HTC_A103",
       "model": "HTC A103"
@@ -2598,6 +2604,18 @@
       "market_name": "HTC U19e",
       "codename": "htc_tetdugl",
       "model": "HTC 2Q7A100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC U23 pro",
+      "codename": "htc_soodugls",
+      "model": "2QC9100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC U23 pro",
+      "codename": "htc_soodugls",
+      "model": "HTC U23 pro"
     },
     {
       "manufacturer": "",
@@ -4197,6 +4215,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wildfire E star",
+      "codename": "Wildfire_E_star",
+      "model": "Wildfire E star"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wildfire E ultra",
       "codename": "Wildfire_E_ultra",
       "model": "Wildfire E ultra"
@@ -4227,6 +4251,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wildfire E2 play",
+      "codename": "Wildfire_E2_play",
+      "model": "Wildfire E2 play"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wildfire E2 plus",
       "codename": "Wildfire_E2_plus",
       "model": "Wildfire E2 plus"
@@ -4236,6 +4266,12 @@
       "market_name": "Wildfire E3",
       "codename": "Wildfire_E3",
       "model": "Wildfire E3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E3 lite",
+      "codename": "Wildfire_E3_lite",
+      "model": "Wildfire E3 lite"
     },
     {
       "manufacturer": "",

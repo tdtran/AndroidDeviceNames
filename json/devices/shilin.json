@@ -30,6 +30,12 @@
     "model": "HIMADE4KAndroidTV"
   },
   {
+    "manufacturer": "INFINITON",
+    "market_name": "Infiniton",
+    "codename": "shilin",
+    "model": "Infiniton4KAndroidTV"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "shilin",

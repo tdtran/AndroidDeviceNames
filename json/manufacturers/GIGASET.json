@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gigaset GX4 PRO",
+      "codename": "GX4_PRO",
+      "model": "E940-2797-01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gigaset GX6",
       "codename": "GX6",
       "model": "E940-2849-00"

@@ -75,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G60_Pro_4G",
+      "codename": "G60_Pro_4G",
+      "model": "G60_Pro_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note13",
+      "codename": "Note13",
+      "model": "Note13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R10",
       "codename": "R10S",
       "model": "R10"
@@ -161,6 +173,12 @@
       "manufacturer": "",
       "market_name": "X60",
       "codename": "X60",
+      "model": "X60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X60",
+      "codename": "X60S",
       "model": "X60"
     },
     {

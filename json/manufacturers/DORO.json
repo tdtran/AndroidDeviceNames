@@ -111,6 +111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Doro 8200",
+      "codename": "DSB0440",
+      "model": "Doro 8200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Doro 8220",
+      "codename": "DSB0440",
+      "model": "Doro 8200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Doro 824",
       "codename": "825A",
       "model": "Doro 824"

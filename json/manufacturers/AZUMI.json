@@ -657,6 +657,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V52B",
+      "codename": "Azumi_V52B",
+      "model": "V52"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V54_AC24",
       "codename": "Azumi_V54_AC24",
       "model": "V54"
@@ -672,6 +678,12 @@
       "market_name": "V55_AC04",
       "codename": "Azumi_V55_AC04",
       "model": "V55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V56B",
+      "codename": "Azumi_V56B",
+      "model": "V56"
     },
     {
       "manufacturer": "",
@@ -708,6 +720,18 @@
       "market_name": "V60",
       "codename": "Azumi_V60",
       "model": "V60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V61",
+      "codename": "Azumi_V61",
+      "model": "Azumi_V61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V66",
+      "codename": "AZUMI_V66",
+      "model": "Azumi_V66"
     }
   ]
 }

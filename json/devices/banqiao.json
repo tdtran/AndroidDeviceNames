@@ -25,6 +25,12 @@
   },
   {
     "manufacturer": "Sharp",
+    "market_name": "EN3/EL3",
+    "codename": "banqiao",
+    "model": "AQUOS-TVE21F"
+  },
+  {
+    "manufacturer": "Sharp",
     "market_name": "EQ3/DN5",
     "codename": "banqiao",
     "model": "AQUOS-TVE21A"

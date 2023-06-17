@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Tecno",
+    "market_name": "SPARK Go 2023",
+    "codename": "TECNO-BF7n",
+    "model": "TECNO BF7n"
+  },
+  {
+    "manufacturer": "Tecno",
     "market_name": "TECNO",
     "codename": "TECNO-BF7n",
     "model": "TECNO BF7n"

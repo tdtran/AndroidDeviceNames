@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dbook_111",
+      "codename": "Dbook_111",
+      "model": "Dbook_111"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dslide 1013",
       "codename": "DSlide1013",
       "model": "DSlide 1013"
@@ -159,9 +165,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dslide_1025_EEA",
+      "codename": "Dslide_1025_EEA",
+      "model": "Dslide_1025"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dslide_113",
       "codename": "Dslide_113",
       "model": "Dslide_113"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dslide_809",
+      "codename": "Dslide_809_EEA",
+      "model": "Dslide_809"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dslide_809Pro_EEA",
+      "codename": "Dslide_809Pro",
+      "model": "Dslide_809Pro"
     },
     {
       "manufacturer": "",
@@ -240,6 +264,12 @@
       "market_name": "Konnect_509",
       "codename": "Konnect_509",
       "model": "Konnect_509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Konnect_557",
+      "codename": "Konnect_557",
+      "model": "Konnect_557"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,11 @@
     "market_name": "VX18",
     "codename": "VX18",
     "model": "VX18"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "VX_18",
+    "codename": "VX18",
+    "model": "VX18"
   }
 ]

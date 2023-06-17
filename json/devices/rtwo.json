@@ -4,5 +4,29 @@
     "market_name": "moto X40",
     "codename": "rtwo",
     "model": "XT2301-5"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "motorola edge 40 pro",
+    "codename": "rtwo",
+    "model": "motorola edge 30 pro"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "motorola edge 40 pro",
+    "codename": "rtwo",
+    "model": "motorola edge 40 pro"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "motorola edge plus 2023",
+    "codename": "rtwo",
+    "model": "motorola edge plus (2022)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "motorola edge plus 2023",
+    "codename": "rtwo",
+    "model": "motorola edge plus 2023"
   }
 ]

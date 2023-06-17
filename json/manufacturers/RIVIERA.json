@@ -3,21 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "HIKA5",
-      "codename": "songshan",
-      "model": "SmartTV 4K"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "RLED-AND42CHG6F",
+      "market_name": "Android TV",
       "codename": "ikebukuro",
       "model": "AI PONT"
     },
     {
       "manufacturer": "",
-      "market_name": "RLED-AND50CHG6FP",
+      "market_name": "Android TV",
       "codename": "sindorim",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HIKA5",
+      "codename": "songshan",
+      "model": "SmartTV 4K"
     },
     {
       "manufacturer": "",

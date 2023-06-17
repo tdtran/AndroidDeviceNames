@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RG540",
+      "codename": "RG540",
+      "model": "RG540"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RG650",
       "codename": "RG650",
       "model": "RG650"

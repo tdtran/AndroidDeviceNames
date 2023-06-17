@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cosmo LTE",
+      "codename": "Cosmo_LTE",
+      "model": "Cosmo LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cosmo LTE_1",
       "codename": "Cosmo_LTE_1",
       "model": "Cosmo LTE_1"
@@ -747,6 +753,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VX20 PRO",
+      "codename": "VX20_PRO",
+      "model": "VX20 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX_18",
+      "codename": "VX18",
+      "model": "VX18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X1",
       "codename": "X1",
       "model": "X1"
@@ -768,6 +786,12 @@
       "market_name": "X9",
       "codename": "X9",
       "model": "X9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XV19",
+      "codename": "VX19",
+      "model": "VX19"
     },
     {
       "manufacturer": "",

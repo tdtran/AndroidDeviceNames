@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "Z667G",
+    "codename": "demi",
+    "model": "Z667G"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Z669",
     "codename": "demi",
     "model": "Z669"

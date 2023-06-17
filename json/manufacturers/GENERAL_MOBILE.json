@@ -111,6 +111,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GM 23 Dual",
+      "codename": "G316",
+      "model": "G316"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 23 SE Dual",
+      "codename": "G314",
+      "model": "G314"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 23 SE Single",
+      "codename": "G314",
+      "model": "G314"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM 23 Single",
+      "codename": "G316",
+      "model": "G316"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 6 d",
       "codename": "GM6_d_sprout",
       "model": "GM 6 d"

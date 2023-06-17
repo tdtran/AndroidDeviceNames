@@ -54,6 +54,18 @@
       "market_name": "P70W",
       "codename": "P70W",
       "model": "P70W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80W",
+      "codename": "P80W",
+      "model": "P80W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ10S_Gold",
+      "codename": "YQ10S_Gold",
+      "model": "YQ10S_Gold"
     }
   ]
 }

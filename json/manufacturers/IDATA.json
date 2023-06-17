@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iData P1",
+      "codename": "iData_P1",
+      "model": "iData P1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iData T1",
       "codename": "T1",
       "model": "iData T1"

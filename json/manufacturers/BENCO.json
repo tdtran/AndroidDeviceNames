@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AE9240",
+      "codename": "AE9240",
+      "model": "AE9240"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AE9950",
       "codename": "AE9950",
       "model": "AE9950"

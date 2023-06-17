@@ -153,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA M30",
+      "codename": "VIA_M30",
+      "model": "VIA M30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA M30 Plus",
+      "codename": "VIA_M30_Plus",
+      "model": "VIA M30 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA P3",
       "codename": "VIA_P3",
       "model": "VIA_P3"
@@ -174,6 +186,12 @@
       "market_name": "VIA X20",
       "codename": "VIA_X20",
       "model": "VIA X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA X30",
+      "codename": "VIA_X30",
+      "model": "VIA X30"
     },
     {
       "manufacturer": "",
@@ -261,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA_L40",
+      "codename": "VIA_L40",
+      "model": "VIA L40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA_M4",
       "codename": "VIA_M4",
       "model": "VIA_M4"
@@ -306,6 +330,12 @@
       "market_name": "VIA_S30_0",
       "codename": "VIA_S30_0",
       "model": "VIA_S30_0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_S40",
+      "codename": "VIA_S40",
+      "model": "VIA S40"
     },
     {
       "manufacturer": "",

@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Australia",
       "codename": "martin",
       "model": "JVC 2K Android TV"
@@ -148,6 +160,12 @@
     {
       "manufacturer": "",
       "market_name": "JVC",
+      "codename": "expo",
+      "model": "JVCUS 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
       "codename": "kaitak",
       "model": "JVCPA 4KAndroid TV"
     },
@@ -156,6 +174,12 @@
       "market_name": "JVC",
       "codename": "komagome",
       "model": "EU 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "komagome",
+      "model": "JVC 2K Android TV"
     },
     {
       "manufacturer": "",
@@ -261,12 +285,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LT-40KB308",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
       "market_name": "LT-40N5115A",
       "codename": "ikebukuro",
       "model": "AI PONT"
@@ -285,9 +303,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LT-55KB597",
-      "codename": "sindorim",
-      "model": "AI PONT"
+      "market_name": "MTC",
+      "codename": "tennoji",
+      "model": "JVCUS 2K Google TV"
     },
     {
       "manufacturer": "",

@@ -30,6 +30,12 @@
       "market_name": "T700B",
       "codename": "T700B",
       "model": "T700B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7I_232",
+      "codename": "T7I_232",
+      "model": "T7I_232"
     }
   ]
 }

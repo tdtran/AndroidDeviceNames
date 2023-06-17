@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IRIS 2K SmartTV",
+      "codename": "umeda",
+      "model": "IRIS 2K SmartTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IRIS 4K Android TV",
       "codename": "SW4H_FF",
       "model": "IRIS 4K Android TV"

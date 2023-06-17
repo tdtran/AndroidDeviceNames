@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALFA_10BT",
+      "codename": "ALFA_10BT",
+      "model": "ALFA_10BT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA_10RX",
       "codename": "ALFA_10RX",
       "model": "ALFA_10RX"
@@ -78,6 +84,12 @@
       "market_name": "ALFA_8ST",
       "codename": "ALFA_8ST",
       "model": "ALFA_8ST"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alfa10LT",
+      "codename": "Alfa10LT",
+      "model": "Alfa10LT"
     },
     {
       "manufacturer": "",

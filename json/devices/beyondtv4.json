@@ -58,5 +58,11 @@
     "market_name": "G03_4K_US_NF",
     "codename": "BeyondTV4",
     "model": "Smart TV Pro"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "G03_4K_US_NF_DB",
+    "codename": "BeyondTV4",
+    "model": "Smart TV"
   }
 ]

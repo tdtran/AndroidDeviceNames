@@ -4,5 +4,11 @@
     "market_name": "\tT1003R",
     "codename": "VC_Device",
     "model": "RC10RLT-RW"
+  },
+  {
+    "manufacturer": "Orbic",
+    "market_name": "RC10RLT-RW1",
+    "codename": "VC_Device",
+    "model": "RC10RLT-RW"
   }
 ]

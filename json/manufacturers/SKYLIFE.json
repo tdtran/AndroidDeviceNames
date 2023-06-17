@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MA5000",
+      "codename": "MA5000",
+      "model": "MA5000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Skylife android 2nd TV",
       "codename": "DMTS18SS",
       "model": "USI-7000NA"

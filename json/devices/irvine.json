@@ -24,6 +24,12 @@
     "model": "Haier MatrixTV AEL"
   },
   {
+    "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV AS",
+    "codename": "irvine",
+    "model": "Haier MatrixTV AS"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "TCL 20 5G",
     "codename": "Irvine",

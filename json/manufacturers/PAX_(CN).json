@@ -15,6 +15,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A6650",
+      "codename": "A6650",
+      "model": "A6650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6650_EEA",
+      "codename": "A6650",
+      "model": "A6650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6650_PEEA",
+      "codename": "A6650",
+      "model": "A6650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6650_PLUS",
+      "codename": "A6650",
+      "model": "A6650"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A77",
       "codename": "A77",
       "model": "A77"

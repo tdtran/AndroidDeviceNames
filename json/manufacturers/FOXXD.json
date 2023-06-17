@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A5Pro",
+      "codename": "A5Pro",
+      "model": "A5Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MIRO",
       "codename": "L590A",
       "model": "L590A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N5",
+      "codename": "N5",
+      "model": "N5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10",
+      "codename": "P10",
+      "model": "P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8",
+      "codename": "P8",
+      "model": "P8"
     },
     {
       "manufacturer": "",

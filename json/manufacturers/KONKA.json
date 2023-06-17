@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HK 2K Google TV",
+      "codename": "capitolhill",
+      "model": "HK 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HK 4K Google TV-A",
+      "codename": "keoneae",
+      "model": "HK 4K Google TV-A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KC516",
       "codename": "KC516",
       "model": "KC516"
@@ -75,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KONKA 4K Google TV",
+      "codename": "keoneae",
+      "model": "HK 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KONKA 4K OLED Google TV",
+      "codename": "bandra",
+      "model": "HK Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KONKA Android TV",
       "codename": "hongik",
       "model": "KONKA 4K Android TV"
@@ -102,6 +126,12 @@
       "market_name": "N15",
       "codename": "N15",
       "model": "N15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N17",
+      "codename": "N17",
+      "model": "N17"
     },
     {
       "manufacturer": "",

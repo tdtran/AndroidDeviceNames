@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LIV 3S LTE",
+      "codename": "LIV_3S_LTE",
+      "model": "LIV 3S LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIV1",
       "codename": "LIV1",
       "model": "LIV1"
@@ -114,6 +120,12 @@
       "market_name": "LIV3_LTE",
       "codename": "LIV3_LTE",
       "model": "LIV 3 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIV_3S",
+      "codename": "LIV_3S",
+      "model": "LIV_3S"
     },
     {
       "manufacturer": "",

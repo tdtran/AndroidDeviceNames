@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Nano 6",
+      "codename": "Nano6",
+      "model": "Nano6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tech-A1",
       "codename": "Tech-A1",
       "model": "Tech A1"
@@ -12,6 +18,12 @@
       "market_name": "WISENET5",
       "codename": "WISENET5",
       "model": "WISENET5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wiseasy P5",
+      "codename": "P5",
+      "model": "P5"
     }
   ]
 }

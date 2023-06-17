@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Phone Max",
+    "market_name": "P1000",
+    "codename": "P1000",
+    "model": "P1000"
+  },
+  {
     "manufacturer": "Polaroid",
     "market_name": "P1000",
     "codename": "P1000",

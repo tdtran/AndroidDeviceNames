@@ -10,5 +10,11 @@
     "market_name": "SM-G6200",
     "codename": "Phoenix",
     "model": "SM-G6200"
+  },
+  {
+    "manufacturer": "Stylo",
+    "market_name": "Phoenix",
+    "codename": "Phoenix",
+    "model": "Phoenix"
   }
 ]

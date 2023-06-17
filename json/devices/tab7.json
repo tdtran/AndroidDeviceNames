@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Premio",
+    "market_name": "TAB7",
+    "codename": "TAB7",
+    "model": "TAB7"
+  },
+  {
     "manufacturer": "Vodafone",
     "market_name": "Tab mini 7",
     "codename": "Tab7",

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "iMESH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IM-560",
+      "codename": "IM-560",
+      "model": "IM-560"
+    }
+  ]
+}

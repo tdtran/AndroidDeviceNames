@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1110",
+      "codename": "A1110",
+      "model": "A1110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6_pro",
       "codename": "G6_pro",
       "model": "G6_pro"

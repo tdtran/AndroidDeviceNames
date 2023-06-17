@@ -16,5 +16,11 @@
     "market_name": "moto g53 5G",
     "codename": "penang",
     "model": "moto g53 5G"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g53j 5G",
+    "codename": "penang",
+    "model": "moto g53j 5G"
   }
 ]

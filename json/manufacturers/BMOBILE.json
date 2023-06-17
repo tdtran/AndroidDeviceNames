@@ -861,6 +861,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL52Pro",
+      "codename": "Bmobile_BL52Pro",
+      "model": "BL52Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL52_TG06",
       "codename": "Bmobile_BL52_TG06",
       "model": "BL52"
@@ -951,6 +957,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL63",
+      "codename": "Bmobile_BL63",
+      "model": "BL63_TG07"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL65",
       "codename": "Bmobile_BL65_OM",
       "model": "BL65_OM"
@@ -960,6 +972,12 @@
       "market_name": "BL65",
       "codename": "Bmobile_BL65_TG",
       "model": "BL65_TG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL70",
+      "codename": "Bmobile_BL70",
+      "model": "BL70"
     },
     {
       "manufacturer": "",

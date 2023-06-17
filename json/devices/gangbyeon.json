@@ -12,6 +12,18 @@
     "model": "Challenger 4K AI Smart TV"
   },
   {
+    "manufacturer": "HKC Elec",
+    "market_name": "4K Smart TV",
+    "codename": "gangbyeon",
+    "model": "HKC 4K AI Smart TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "4K Smart TV",
+    "codename": "gangbyeon",
+    "model": "TATUNG 4K AI Smart TV"
+  },
+  {
     "manufacturer": "Hyundai",
     "market_name": "4K Smart TV",
     "codename": "gangbyeon",
@@ -63,12 +75,6 @@
     "manufacturer": "RCA",
     "market_name": "4K Smart TV",
     "codename": "gangbyeon",
-    "model": "HKC 4K AI Smart TV"
-  },
-  {
-    "manufacturer": "RCA",
-    "market_name": "4K Smart TV",
-    "codename": "gangbyeon",
     "model": "Treeview 4K AI Smart TV"
   },
   {
@@ -84,22 +90,16 @@
     "model": "4K Smart TV"
   },
   {
-    "manufacturer": "Sceptre",
-    "market_name": "4K Smart TV",
-    "codename": "gangbyeon",
-    "model": "TATUNG 4K AI Smart TV"
-  },
-  {
-    "manufacturer": "Sceptre",
-    "market_name": "4K Smart TV",
-    "codename": "gangbyeon",
-    "model": "imiia 4K AI Smart TV"
-  },
-  {
     "manufacturer": "UNITED TV",
     "market_name": "4K Smart TV",
     "codename": "gangbyeon",
     "model": "4K AI Smart TV"
+  },
+  {
+    "manufacturer": "imiia",
+    "market_name": "4K Smart TV",
+    "codename": "gangbyeon",
+    "model": "imiia 4K AI Smart TV"
   },
   {
     "manufacturer": "realme",

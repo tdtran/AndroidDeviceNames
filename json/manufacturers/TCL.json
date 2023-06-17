@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G03_4K_US_NF_DB",
+      "codename": "BeyondTV4",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G05_4K_GB",
       "codename": "G05",
       "model": "Smart TV Pro"
@@ -561,6 +567,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 30 LE",
+      "codename": "Jetta_Visible",
+      "model": "4188V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 30 SE",
       "codename": "Cruze_Pro",
       "model": "6165A"
@@ -615,6 +627,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 30 Z",
+      "codename": "Jetta_NA_OM",
+      "model": "4188O"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 30+",
       "codename": "Passat",
       "model": "T676J"
@@ -654,6 +672,48 @@
       "market_name": "TCL 40 R 5G",
       "codename": "Levin",
       "model": "T771H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 SE",
+      "codename": "Model_3",
+      "model": "T610E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 SE",
+      "codename": "Model_3",
+      "model": "T610K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 X 5G",
+      "codename": "Encore_OM",
+      "model": "T609M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 XE 5G",
+      "codename": "Encore_CAN",
+      "model": "T609J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 XE 5G",
+      "codename": "Encore_USCC",
+      "model": "T609L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 406",
+      "codename": "Civic_S",
+      "model": "T506K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40XL",
+      "codename": "Sonata_Pro_OM",
+      "model": "T608M"
     },
     {
       "manufacturer": "",
@@ -843,6 +903,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL NXTPAPER 11",
+      "codename": "Eternals11",
+      "model": "9466X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL PLEX",
       "codename": "T1",
       "model": "T780H"
@@ -852,6 +918,12 @@
       "market_name": "TCL PLEX",
       "codename": "T1_L1",
       "model": "T780H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL Stylus 5G",
+      "codename": "Challenger_CS",
+      "model": "T779W"
     },
     {
       "manufacturer": "",
@@ -963,6 +1035,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 10L Gen 2",
+      "codename": "Freyr_10_1_WiFi",
+      "model": "8492A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 10s",
       "codename": "Aquaman_10_Pro",
       "model": "9061"
@@ -987,9 +1065,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 10s 5G",
+      "codename": "Odin_5G",
+      "model": "9183G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 11",
+      "codename": "Eternals11",
+      "model": "9466X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 11 LTE",
+      "codename": "Eternals11",
+      "model": "9166G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 7 Lite",
       "codename": "U3A_7_WIFI_Refresh",
       "model": "9309X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 7 Lite",
+      "codename": "U3A_7_WIFI_Refresh",
+      "model": "9309X2"
     },
     {
       "manufacturer": "",
@@ -999,15 +1101,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TCL TAB 8",
-      "codename": "Luna",
-      "model": "9132X"
-    },
-    {
-      "manufacturer": "",
       "market_name": "TCL TAB 8 4G",
       "codename": "Apollo_8_4G",
       "model": "9032X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8 LE",
+      "codename": "Luna_8_4G_TMO",
+      "model": "9137W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8 Wi-Fi",
+      "codename": "Luna",
+      "model": "9132X"
     },
     {
       "manufacturer": "",
@@ -1026,6 +1134,12 @@
       "market_name": "TCL TAB kids",
       "codename": "Thor_8_4G_VZW",
       "model": "9049L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL stylus 5G",
+      "codename": "Challenger_TH",
+      "model": "T779P"
     },
     {
       "manufacturer": "",

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO C51",
+      "codename": "water",
+      "model": "2302EPCC4H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO C55",
+      "codename": "earth",
+      "model": "22127PC95I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO F2 Pro",
       "codename": "lmi",
       "model": "POCO F2 Pro"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Motorola",
+    "market_name": "moto S30",
+    "codename": "tundra",
+    "model": "XT2243-2"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "motorola edge 30 fusion",
     "codename": "tundra",
     "model": "moto g200 5G"

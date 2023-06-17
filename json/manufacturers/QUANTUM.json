@@ -81,9 +81,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q-Test",
+      "codename": "S518AR",
+      "model": "Q-test"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QSPT-1952",
       "codename": "QF3A",
       "model": "QT-195W-aa2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qrash",
+      "codename": "S600AR",
+      "model": "Qrash"
     },
     {
       "manufacturer": "",

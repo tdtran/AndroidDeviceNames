@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ACONATIC",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AP",
       "codename": "stanford",
       "model": "40D"
@@ -28,6 +34,18 @@
     {
       "manufacturer": "",
       "market_name": "BAUF",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BOTECH",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BOTECH",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     },
@@ -69,6 +87,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CONTI",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CONTI",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "stanford",
+      "model": "40DSA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "zhongshan",
+      "model": "43FCOL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "zhongshan",
+      "model": "43FSA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGGIO",
       "codename": "stanford",
       "model": "CSV2K"
@@ -78,6 +138,18 @@
       "market_name": "DIGGIO",
       "codename": "zhongshan",
       "model": "CSV4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DYON",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELECTROMAN",
+      "codename": "stanford",
+      "model": "Smart FHD TV"
     },
     {
       "manufacturer": "",
@@ -135,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GHIA",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Global",
       "codename": "stanford",
       "model": "CSV2K"
@@ -147,6 +225,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ICE",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ICE",
+      "codename": "zhongshan",
+      "model": "Smart UHD TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INNOVA",
       "codename": "stanford",
       "model": "CSV2K"
@@ -156,6 +246,18 @@
       "market_name": "INNOVA",
       "codename": "zhongshan",
       "model": "CSV4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ITEL",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ITEL",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -261,6 +363,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QBELL",
+      "codename": "stanford",
+      "model": "QBELL 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QBELL",
+      "codename": "zhongshan",
+      "model": "QBELL 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROSSO",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROYALRAHMANI",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rosso",
       "codename": "stanford",
       "model": "40D"
@@ -288,6 +414,30 @@
       "market_name": "SIERA",
       "codename": "stanford",
       "model": "2K Siera SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY-ONE",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY-ONE",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SONEVIEW",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SONEVIEW",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -333,15 +483,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "XITRIX",
+      "market_name": "ZEPHIR",
       "codename": "stanford",
-      "model": "SMART TV"
+      "model": "ZEPHIR 2K Android TV"
     },
     {
       "manufacturer": "",
-      "market_name": "XITRIX",
+      "market_name": "ZEPHIR",
       "codename": "zhongshan",
-      "model": "4K SMART TV"
+      "model": "ZEPHIR 4K Android TV"
     },
     {
       "manufacturer": "",

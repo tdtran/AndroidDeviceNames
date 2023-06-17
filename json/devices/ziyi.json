@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 13 Lite",
+    "codename": "ziyi",
+    "model": "2210129SG"
+  },
+  {
+    "manufacturer": "Xiaomi",
     "market_name": "Xiaomi civi2",
     "codename": "ziyi",
     "model": "2209129SC"

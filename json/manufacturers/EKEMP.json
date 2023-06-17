@@ -1,0 +1,11 @@
+{
+  "manufacturer": "EKEMP",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T80 EEA",
+      "codename": "T80",
+      "model": "T80"
+    }
+  ]
+}

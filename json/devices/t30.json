@@ -28,5 +28,11 @@
     "market_name": "T30_RU",
     "codename": "T30",
     "model": "T30_RU"
+  },
+  {
+    "manufacturer": "UAUU",
+    "market_name": "T30",
+    "codename": "T30",
+    "model": "T30"
   }
 ]

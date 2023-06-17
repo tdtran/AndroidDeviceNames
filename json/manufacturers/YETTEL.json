@@ -6,6 +6,12 @@
       "market_name": "MediaBox",
       "codename": "MediaBox_B866V2",
       "model": "MediaBox"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STB BG",
+      "codename": "STB_BG_B866V2H01",
+      "model": "STB BG"
     }
   ]
 }

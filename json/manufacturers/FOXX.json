@@ -1,0 +1,11 @@
+{
+  "manufacturer": "FOXX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T8C",
+      "codename": "T8C",
+      "model": "T8C"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K626_EEA",
+      "codename": "K626",
+      "model": "K626"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M101",
       "codename": "M101",
       "model": "M101"

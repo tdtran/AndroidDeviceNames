@@ -53,7 +53,19 @@
       "manufacturer": "",
       "market_name": "PET-882-H232S",
       "codename": "PET-882-H232S",
+      "model": "Lightyear 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET-882-H232S",
+      "codename": "PET-882-H232S",
       "model": "PET-882-H232S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET_8040_H464S",
+      "codename": "PET_8040_H464S",
+      "model": "PET_8040_H464S"
     }
   ]
 }

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALTICE S35",
+      "codename": "S35",
+      "model": "S35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ahiga",
       "codename": "Ahiga",
       "model": "Ahiga"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Altice E55",
+      "codename": "E55",
+      "model": "E55"
     },
     {
       "manufacturer": "",

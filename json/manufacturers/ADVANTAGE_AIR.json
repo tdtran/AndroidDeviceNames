@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PIC8GS12",
+      "codename": "PIC8GS12",
+      "model": "PIC8GS12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PIC8GS8",
       "codename": "PIC8GS8",
       "model": "PIC8GS8"

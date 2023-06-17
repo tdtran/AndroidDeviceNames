@@ -3,7 +3,7 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "32FSV720",
+      "market_name": "Android TV",
       "codename": "ikebukuro",
       "model": "AI PONT"
     },
@@ -23,6 +23,12 @@
       "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
       "model": "AI PONT"
     },
     {

@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T28-EEA",
+      "codename": "T28-EEA",
+      "model": "T28-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T32-EEA",
       "codename": "T32-EEA",
       "model": "T32-EEA"

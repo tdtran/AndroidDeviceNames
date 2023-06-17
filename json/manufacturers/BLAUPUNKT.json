@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "redwood",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Atlantis_A10_G403",
       "codename": "Atlantis_A10_G403",
       "model": "Atlantis_A10_G403"
@@ -141,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blaupunkt 4K Google TV",
+      "codename": "keoneae",
+      "model": "Blaupunkt 4K Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blaupunkt SL 01",
       "codename": "Blaupunkt_SL_01",
       "model": "Blaupunkt SL 01"
@@ -204,6 +216,12 @@
       "market_name": "EU",
       "codename": "tamachi",
       "model": "BLAUPUNKT FHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU、UK、AP",
+      "codename": "martin",
+      "model": "BLAUPUNKT 2K Android TV"
     },
     {
       "manufacturer": "",

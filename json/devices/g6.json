@@ -16,5 +16,11 @@
     "market_name": "G6",
     "codename": "G6",
     "model": "G6"
+  },
+  {
+    "manufacturer": "LUNA",
+    "market_name": "LUNA_G6",
+    "codename": "G6",
+    "model": "LUNA G6"
   }
 ]

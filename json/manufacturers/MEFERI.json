@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "ME40K",
+      "codename": "ME40K",
+      "model": "ME40K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ME40M",
       "codename": "ME40K_M",
       "model": "ME40K"
     }

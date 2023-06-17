@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MT-1011",
+      "codename": "MT-1011",
+      "model": "MT-1011"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT-1011OF",
       "codename": "MT-1011OF",
       "model": "MT-1011OF"

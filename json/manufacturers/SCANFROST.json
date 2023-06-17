@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Scanfrost",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Nigeria",
+      "codename": "marina",
+      "model": "Scanfrost TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nigeria",
+      "codename": "martin",
+      "model": "Scanfrost 2K Android TV"
+    }
+  ]
+}

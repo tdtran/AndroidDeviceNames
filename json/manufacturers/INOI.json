@@ -69,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI A151",
+      "codename": "A151",
+      "model": "A151"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI A52 Lite 32GB",
       "codename": "A150",
       "model": "A150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI A62 64GB",
+      "codename": "A161",
+      "model": "A161"
     },
     {
       "manufacturer": "",

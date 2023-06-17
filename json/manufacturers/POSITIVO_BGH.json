@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BGH Series Q10",
+      "codename": "M16QF1XMT8183",
+      "model": "\"Positivo BGH Series Q10\"\"\""
+    },
+    {
+      "manufacturer": "",
       "market_name": "BGH Y100",
       "codename": "Y700",
       "model": "Positivo BGH Y100"

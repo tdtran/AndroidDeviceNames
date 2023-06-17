@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LEADER",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LEADER 2K Android TV",
+      "codename": "lasalle",
+      "model": "LEADER 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LEADER 4K Android TV",
+      "codename": "kenton",
+      "model": "LEADER 4K Android TV"
+    }
+  ]
+}

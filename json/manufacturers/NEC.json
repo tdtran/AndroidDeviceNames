@@ -177,12 +177,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo Tab M7 3rd Gen",
-      "codename": "LAVIET77SD1",
-      "model": "LAVIE T7 7SD1"
-    },
-    {
-      "manufacturer": "",
       "market_name": "LifeTouch B",
       "codename": "LTB013",
       "model": "D000-000013-101"
@@ -588,6 +582,12 @@
       "market_name": "PC-TE510N1B",
       "codename": "LaVieTab",
       "model": "LaVieTab PC-TE510N1B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab M7 3rd Gen",
+      "codename": "LAVIET77SD1",
+      "model": "LAVIE T7 7SD1"
     }
   ]
 }

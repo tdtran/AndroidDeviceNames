@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "50X3",
+      "codename": "barking",
+      "model": "Infinix AndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "55X1",
       "codename": "samseong",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT 10 Pro",
+      "codename": "Infinix-X6739",
+      "model": "Infinix X6739"
     },
     {
       "manufacturer": "",
@@ -174,6 +186,12 @@
       "market_name": "HOT 3 LTE",
       "codename": "INFINIX-X553-A1",
       "model": "Infinix HOT 3 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 30 5G",
+      "codename": "Infinix-X6832",
+      "model": "Infinix X6832"
     },
     {
       "manufacturer": "",
@@ -489,9 +507,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix HOT 30 PLAY",
+      "codename": "Infinix-X6835",
+      "model": "Infinix X6835"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 30 PLAY",
+      "codename": "Infinix-X6835B",
+      "model": "Infinix X6835B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 30i",
+      "codename": "Infinix-X669",
+      "model": "Infinix X669"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix HOT 30i",
       "codename": "Infinix-X669C",
       "model": "Infinix X669C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 30i",
+      "codename": "Infinix-X669D",
+      "model": "Infinix X669D"
     },
     {
       "manufacturer": "",
@@ -627,6 +669,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix NOTE 30",
+      "codename": "Infinix-X6833B",
+      "model": "Infinix X6833B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 30 5G",
+      "codename": "Infinix-X6711",
+      "model": "Infinix X6711"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix NOTE 5",
       "codename": "Infinix-X604_sprout",
       "model": "Infinix X604"
@@ -678,6 +732,12 @@
       "market_name": "Infinix SMART 7",
       "codename": "Infinix-X6515",
       "model": "Infinix X6515"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix SMART 7 HD",
+      "codename": "Infinix-X6516",
+      "model": "Infinix X6516"
     },
     {
       "manufacturer": "",
@@ -834,6 +894,30 @@
       "market_name": "NOTE 3 Pro",
       "codename": "X601-LTE",
       "model": "Infinix_X601_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 30",
+      "codename": "Infinix-X6716B",
+      "model": "Infinix X6716B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 30 Pro",
+      "codename": "Infinix-X678B",
+      "model": "Infinix X678B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 30 VIP",
+      "codename": "Infinix-X6710",
+      "model": "Infinix X6710"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 30i",
+      "codename": "Infinix-X6716",
+      "model": "Infinix X6716"
     },
     {
       "manufacturer": "",

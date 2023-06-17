@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nautiz X81",
+      "codename": "Nautiz_X81",
+      "model": "Nautiz X81"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nautiz X9",
       "codename": "Nautiz_X9P",
       "model": "Nautiz X9P"

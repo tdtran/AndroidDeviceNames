@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A10s",
+      "codename": "A10s",
+      "model": "A10s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A11",
       "codename": "A11",
       "model": "A11"
@@ -90,6 +96,12 @@
       "market_name": "A70",
       "codename": "A70",
       "model": "iKU A70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A7_Plus",
+      "codename": "A7_Plus",
+      "model": "A7 Plus"
     },
     {
       "manufacturer": "",
@@ -177,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T5",
+      "codename": "T5",
+      "model": "T5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T6",
       "codename": "T6",
       "model": "T6"
@@ -216,6 +234,12 @@
       "market_name": "X5",
       "codename": "X5",
       "model": "X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8",
+      "codename": "X8",
+      "model": "X8"
     },
     {
       "manufacturer": "",

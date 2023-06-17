@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Model D",
+      "codename": "Model_D",
+      "model": "Model D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Model K",
       "codename": "Model_K",
       "model": "Model K"
@@ -45,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Model_E_4G",
+      "codename": "Model_E_4G",
+      "model": "Model E 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_One",
+      "codename": "Model_One",
+      "model": "Model One"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Model_S",
       "codename": "Model_S",
       "model": "Model S"
@@ -63,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Model_T1",
+      "codename": "Model_T1",
+      "model": "Model T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_T_4G",
+      "codename": "Model_T_4G",
+      "model": "Model_T_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Model_X",
       "codename": "Model_X",
       "model": "Model X"
@@ -78,6 +108,18 @@
       "market_name": "SP125D_2",
       "codename": "SP125D_2",
       "model": "SP125D_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sunmax Model Tab 10",
+      "codename": "Sunmax_Model_Tab_10",
+      "model": "Sunmax Model Tab 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_6",
+      "codename": "Tab_6",
+      "model": "Tab_6"
     }
   ]
 }

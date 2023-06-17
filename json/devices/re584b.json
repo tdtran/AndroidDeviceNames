@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "realme",
+    "market_name": "realme V30",
+    "codename": "RE584B",
+    "model": "RMX3618"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "realme V30",
+    "codename": "RE584B",
+    "model": "RMX3619"
+  },
+  {
+    "manufacturer": "realme",
     "market_name": "真我 V20",
     "codename": "RE584B",
     "model": "RMX3610"

@@ -6,6 +6,18 @@
     "model": "S80"
   },
   {
+    "manufacturer": "OSCAL",
+    "market_name": "S80",
+    "codename": "S80",
+    "model": "S80"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "S80_RU",
+    "codename": "S80",
+    "model": "S80"
+  },
+  {
     "manufacturer": "Premio",
     "market_name": "S80",
     "codename": "S80",

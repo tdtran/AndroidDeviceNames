@@ -1,8 +1,20 @@
 [
   {
     "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12 Pro + 5G",
+    "codename": "rubypro",
+    "model": "22101316UP"
+  },
+  {
+    "manufacturer": "Redmi",
     "market_name": "Redmi Note 12 Pro+",
     "codename": "rubypro",
     "model": "22101316UCP"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 12 Pro+ 5G",
+    "codename": "rubypro",
+    "model": "22101316UG"
   }
 ]

@@ -16,5 +16,11 @@
     "market_name": "LG Spirit LTE",
     "codename": "c70",
     "model": "LG-H440AR"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "C70",
+    "codename": "C70",
+    "model": "C70"
   }
 ]

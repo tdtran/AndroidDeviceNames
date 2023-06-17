@@ -12,6 +12,12 @@
       "market_name": "GT78-VN",
       "codename": "GT78-VN",
       "model": "GT78-VN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT10",
+      "codename": "HT10",
+      "model": "HT10"
     }
   ]
 }

@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "ASTEX",
+    "market_name": "ASTEX 4K Android",
+    "codename": "kenton",
+    "model": "ASTEX 4K Android"
+  },
+  {
+    "manufacturer": "BGH S.A.",
+    "market_name": "BGH 4K Android TV",
+    "codename": "kenton",
+    "model": "BGH 4K Android TV"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "ContinentalEdison 4K Android TV",
+    "codename": "kenton",
+    "model": "ContinentalEdison 4K Android TV"
+  },
+  {
+    "manufacturer": "DigiKing",
+    "market_name": "DigiKing 4K Android",
+    "codename": "kenton",
+    "model": "DigiKing 4K Android TV"
+  },
+  {
     "manufacturer": "Dual",
     "market_name": "Dual 4K Android TV",
     "codename": "kenton",
@@ -30,9 +54,69 @@
     "model": "KONKA 4K Android TV-A"
   },
   {
+    "manufacturer": "LEADER",
+    "market_name": "LEADER 4K Android TV",
+    "codename": "kenton",
+    "model": "LEADER 4K Android TV"
+  },
+  {
+    "manufacturer": "Majestic",
+    "market_name": "MAJESTIC 4K Android TV",
+    "codename": "kenton",
+    "model": "MAJESTIC 4K Android TV"
+  },
+  {
+    "manufacturer": "ORCA",
+    "market_name": "ORCA 4K Android TV",
+    "codename": "kenton",
+    "model": "ORCA 4K Android TV"
+  },
+  {
+    "manufacturer": "PRIMA",
+    "market_name": "PRIMA 4K Android TV",
+    "codename": "kenton",
+    "model": "PRIMA 4K Android TV"
+  },
+  {
+    "manufacturer": "PROTON",
+    "market_name": "PROTON 4K Android",
+    "codename": "kenton",
+    "model": "PROTON 4K Android"
+  },
+  {
     "manufacturer": "Polaroid",
     "market_name": "Polaroid 4K Android TV",
     "codename": "kenton",
     "model": "Polaroid 4K Android TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA 4K Android TV",
+    "codename": "kenton",
+    "model": "RCA 4K Android TV"
+  },
+  {
+    "manufacturer": "SYLVOX",
+    "market_name": "Smart TV 4K",
+    "codename": "kenton",
+    "model": "Smart TV 4K"
+  },
+  {
+    "manufacturer": "SYLVOX",
+    "market_name": "Smart TV 4K-B",
+    "codename": "kenton",
+    "model": "Smart TV 4K-B"
+  },
+  {
+    "manufacturer": "ZENOS",
+    "market_name": "ZENOS 4K Android TV",
+    "codename": "kenton",
+    "model": "ZENOS 4K Android TV"
+  },
+  {
+    "manufacturer": "carp(IN)",
+    "market_name": "carp 4K Android TV",
+    "codename": "kenton",
+    "model": "carp 4K Android TV"
   }
 ]

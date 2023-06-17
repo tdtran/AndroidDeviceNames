@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ENOVA",
+      "codename": "stanford",
+      "model": "SA 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAE08N10",
       "codename": "TAE08N10",
       "model": "TAE08N10"

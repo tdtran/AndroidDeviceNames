@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Luna",
+      "codename": "Luna",
+      "model": "Luna"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TANK 01",
       "codename": "TANK_01",
       "model": "TANK 01"

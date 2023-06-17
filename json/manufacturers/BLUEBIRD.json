@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EF551",
+      "codename": "EF551",
+      "model": "EF551"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EK430",
       "codename": "EK430",
       "model": "EK430"

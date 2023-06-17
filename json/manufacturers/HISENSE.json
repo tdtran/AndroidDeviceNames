@@ -2471,6 +2471,12 @@
       "manufacturer": "",
       "market_name": "Hisense U964",
       "codename": "HLTE106E_01",
+      "model": "Hisense U60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HLTE106E_01",
       "model": "Hisense U964"
     },
     {
@@ -2508,6 +2514,12 @@
       "market_name": "Hisense U964",
       "codename": "HS7731ESP",
       "model": "Hisense U50 lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HS7731ESP",
+      "model": "Hisense U60 Lite"
     },
     {
       "manufacturer": "",
@@ -3916,6 +3928,12 @@
     {
       "manufacturer": "",
       "market_name": "ULED",
+      "codename": "hengshan",
+      "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULED",
       "codename": "wuyishan",
       "model": "SmartTV 4K FFM"
     },
@@ -4158,6 +4176,12 @@
       "market_name": "fushan_sa",
       "codename": "hamamatsucho",
       "model": "HiSmart 2K ATV4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "fushan_sa",
+      "codename": "hamamatsucho",
+      "model": "HiSmart TV"
     },
     {
       "manufacturer": "",

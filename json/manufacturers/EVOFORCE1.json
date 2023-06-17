@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FRC1-Midco",
+      "codename": "SEI800MC",
+      "model": "FRC1-Midco"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FRC1-RCN",
       "codename": "SEI800RCN",
       "model": "FRC1-RCN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "USA",
+      "codename": "SEI800MOBI",
+      "model": "FRC1-MOBI"
     },
     {
       "manufacturer": "",

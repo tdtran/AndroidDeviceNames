@@ -1,0 +1,17 @@
+{
+  "manufacturer": "PROTON",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PROTON 2K Android",
+      "codename": "lasalle",
+      "model": "PROTON 2K Android"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PROTON 4K Android",
+      "codename": "kenton",
+      "model": "PROTON 4K Android"
+    }
+  ]
+}

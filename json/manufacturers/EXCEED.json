@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E10G21",
+      "codename": "E10G21",
+      "model": "E10G21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E10G22",
+      "codename": "E10G22",
+      "model": "E10G22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E10W10",
+      "codename": "E10W10",
+      "model": "E10W10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E22",
+      "codename": "Exceed_E22",
+      "model": "E22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EX10S10",
       "codename": "EX10S10",
       "model": "EX10S10"

@@ -60,16 +60,16 @@
     "model": "Treeview 2K AI Smart TV"
   },
   {
-    "manufacturer": "RCA",
-    "market_name": "Smart TV",
-    "codename": "osaki",
-    "model": "UNICO 2K AI Smart TV"
-  },
-  {
     "manufacturer": "Soniq",
     "market_name": "Smart TV",
     "codename": "osaki",
     "model": "2K AI Smart TV"
+  },
+  {
+    "manufacturer": "UNICO",
+    "market_name": "Smart TV",
+    "codename": "osaki",
+    "model": "UNICO 2K AI Smart TV"
   },
   {
     "manufacturer": "UNITED TV",

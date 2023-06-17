@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Blackview",
+    "market_name": "A53 Pro",
+    "codename": "A53_Pro",
+    "model": "A53 Pro"
+  },
+  {
     "manufacturer": "Trident",
     "market_name": "A53 PRO",
     "codename": "A53_PRO",

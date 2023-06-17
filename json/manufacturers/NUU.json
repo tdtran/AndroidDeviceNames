@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A12L",
+      "codename": "S5504LA",
+      "model": "S5504L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A19L",
       "codename": "S6303LA_Go",
       "model": "S6303L"
@@ -237,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 5",
+      "codename": "N5005LA_F",
+      "model": "N5005L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 8",
       "codename": "T0801LAV1",
       "model": "T0801L"
@@ -246,6 +258,18 @@
       "market_name": "Tab 8",
       "codename": "T0801LAV2",
       "model": "T0801L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 8",
+      "codename": "T0801LAV2",
+      "model": "T0802L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 8 Plus",
+      "codename": "T0805LAV1",
+      "model": "T0805L"
     },
     {
       "manufacturer": "",

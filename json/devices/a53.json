@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Blackview",
+    "market_name": "A53",
+    "codename": "A53",
+    "model": "A53"
+  },
+  {
     "manufacturer": "Oppo",
     "market_name": "A53",
     "codename": "A53",

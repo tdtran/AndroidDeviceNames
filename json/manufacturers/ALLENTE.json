@@ -6,6 +6,12 @@
       "market_name": "Allente 1",
       "codename": "OnePlace2",
       "model": "Allente 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Allente Streaming Hub",
+      "codename": "SEI700ALLG",
+      "model": "Allente Streaming Hub"
     }
   ]
 }

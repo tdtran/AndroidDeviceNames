@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "YASIN 2K G Smart TV",
+      "codename": "umeda",
+      "model": "YASIN 2K G Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YASIN 2K TV",
       "codename": "shinagawa",
       "model": "YASIN 2K TV"
@@ -18,6 +24,12 @@
       "market_name": "YASIN 4K G Smart TV",
       "codename": "SW6H",
       "model": "YASIN 4K G Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YASIN 4K G Smart TV FF",
+      "codename": "SW6H",
+      "model": "YASIN 4K G Smart TV FF"
     },
     {
       "manufacturer": "",

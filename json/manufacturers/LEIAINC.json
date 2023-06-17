@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LeiaInc",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Lume Pad",
+      "codename": "LumePad",
+      "model": "LPD-20W"
+    }
+  ]
+}

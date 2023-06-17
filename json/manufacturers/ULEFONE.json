@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 20WT",
+      "codename": "Armor_20WT",
+      "model": "Armor 20WT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 21",
+      "codename": "Armor_21",
+      "model": "Armor 21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2S",
       "codename": "Armor_2S",
       "model": "Armor_2S"
@@ -102,6 +114,12 @@
       "market_name": "Armor 9E",
       "codename": "Armor_9E",
       "model": "Armor 9E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor Pad",
+      "codename": "Armor_Pad",
+      "model": "Armor Pad"
     },
     {
       "manufacturer": "",
@@ -393,6 +411,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 16 Pro",
+      "codename": "Note_16_Pro",
+      "model": "Note 16 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 6",
       "codename": "Note_6",
       "model": "Note 6"
@@ -519,9 +543,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power Armor 18",
+      "codename": "Power_Armor_18",
+      "model": "Power Armor 18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Power Armor 18T",
       "codename": "Power_Armor_18T",
       "model": "Power Armor 18T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor 19",
+      "codename": "Power_Armor_19",
+      "model": "Power Armor 19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor 19T",
+      "codename": "Power_Armor_19T",
+      "model": "Power Armor 19T"
     },
     {
       "manufacturer": "",
@@ -552,6 +594,12 @@
       "market_name": "Power_6_EEA",
       "codename": "Power_6",
       "model": "Power_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power_Armor_19T",
+      "codename": "Power_Armor_19T",
+      "model": "Power Armor 19T"
     },
     {
       "manufacturer": "",

@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PNC460",
+      "codename": "PNC460",
+      "model": "PNC460"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PNC460_TR",
+      "codename": "PNC460",
+      "model": "PNC460"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PNC550",
       "codename": "PNC550",
       "model": "PNC550"

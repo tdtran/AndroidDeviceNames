@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Cidea",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CM76",
+      "codename": "CM76_EEA",
+      "model": "CM76"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM77",
+      "codename": "CM77",
+      "model": "CM77"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM81",
+      "codename": "CM81_EEA",
+      "model": "CM81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM82",
+      "codename": "CM82",
+      "model": "CM82"
+    }
+  ]
+}

@@ -2805,6 +2805,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab Extreme",
+      "codename": "TB570FU",
+      "model": "TB570FU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab K10",
       "codename": "X6C6F",
       "model": "Lenovo TB-X6C6F"
@@ -2940,12 +2946,6 @@
       "market_name": "Lenovo Tab M10 (HD)",
       "codename": "TB-X505X",
       "model": "Lenovo TB-X505X"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Lenovo Tab M10 5G",
-      "codename": "TB-X607Z",
-      "model": "Lenovo TB-X607Z"
     },
     {
       "manufacturer": "",
@@ -3378,6 +3378,12 @@
       "market_name": "LenovoTAB2 A7-30DC",
       "codename": "A7-30HC",
       "model": "Lenovo TAB 2 A7-30DC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LenovoTB-X607Z_EEA",
+      "codename": "TB-X607Z",
+      "model": "Lenovo TB-X607Z"
     },
     {
       "manufacturer": "",

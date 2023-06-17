@@ -1,8 +1,26 @@
 [
   {
     "manufacturer": "Vivo",
+    "market_name": "T2x 5G",
+    "codename": "V2225",
+    "model": "V2253"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "T2x 5G",
+    "codename": "V2225",
+    "model": "V2312"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "Y56 5G",
     "codename": "V2225",
     "model": "V2225"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y56 5G",
+    "codename": "V2225",
+    "model": "V2311"
   }
 ]

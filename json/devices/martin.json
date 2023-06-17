@@ -6,6 +6,18 @@
     "model": "Aborder 2K Android TV"
   },
   {
+    "manufacturer": "Altus",
+    "market_name": "Turkey",
+    "codename": "martin",
+    "model": "Altus Android TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "EU、UK、AP",
     "codename": "martin",
@@ -34,6 +46,12 @@
     "market_name": "Europe",
     "codename": "martin",
     "model": "Caixun Android TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "SE 2K Android Monitor"
   },
   {
     "manufacturer": "CAIXUN",
@@ -70,6 +88,12 @@
     "market_name": "EU、UK、AP",
     "codename": "martin",
     "model": "Digiquest 2K Android TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "EKO 2K Android TV"
   },
   {
     "manufacturer": "EKO",
@@ -171,13 +195,31 @@
     "manufacturer": "QBell",
     "market_name": "EU、UK、AP",
     "codename": "martin",
+    "model": "Qbell 2K Android TV"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
     "model": "Qbell 2K Android TV"
   },
   {
     "manufacturer": "S Vision",
     "market_name": "EU、UK、AP",
     "codename": "martin",
+    "model": "SVISION 2K Android TV"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
     "model": "SVISION 2K Android TV"
+  },
+  {
+    "manufacturer": "SCHNEIDER",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Schneider 2K Android TV"
   },
   {
     "manufacturer": "SCHNEIDER",
@@ -196,6 +238,12 @@
     "market_name": "US",
     "codename": "martin",
     "model": "SPC Android Monitor"
+  },
+  {
+    "manufacturer": "Scanfrost",
+    "market_name": "Nigeria",
+    "codename": "martin",
+    "model": "Scanfrost 2K Android TV"
   },
   {
     "manufacturer": "Sharp",
@@ -246,6 +294,12 @@
     "model": "Tesla Android TV"
   },
   {
+    "manufacturer": "Thomson",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "Thomson TV"
+  },
+  {
     "manufacturer": "Turbo-X",
     "market_name": "EU、UK、AP",
     "codename": "martin",
@@ -262,6 +316,12 @@
     "market_name": "XD",
     "codename": "martin",
     "model": "XD 2K Andriod TV"
+  },
+  {
+    "manufacturer": "Zephir",
+    "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Zephir 2K Android TV"
   },
   {
     "manufacturer": "Zephir",

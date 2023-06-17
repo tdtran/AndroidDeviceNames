@@ -9,12 +9,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AFL0065S",
-      "codename": "sindorim",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
       "market_name": "AIWA",
       "codename": "stanford",
       "model": "SMART TV"
@@ -30,12 +24,6 @@
       "market_name": "AIWA 2K TV",
       "codename": "shinagawa",
       "model": "AIWA 2K TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "AW-LED43GKF",
-      "codename": "ikebukuro",
-      "model": "AI PONT"
     },
     {
       "manufacturer": "",
@@ -111,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "sindorim",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JA2-SMP0601",
       "codename": "JA2-SMP0601",
       "model": "JA2-SMP0601"
@@ -132,6 +126,12 @@
       "market_name": "JA2-TBA1002",
       "codename": "JA2-TBA1002",
       "model": "JA2-TBA1002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JA3-SMP0602",
+      "codename": "JA3-SMP0602",
+      "model": "JA3-SMP0602"
     },
     {
       "manufacturer": "",

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SW-22HK NF",
+      "codename": "SW6H",
+      "model": "SW-22HK NF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SW-22JP NF",
       "codename": "SW6H",
       "model": "SW-22JP NF"
@@ -132,6 +138,24 @@
       "market_name": "SWTV-22AE",
       "codename": "SW6H",
       "model": "SWTV-22AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22AE-FHD",
+      "codename": "umeda",
+      "model": "SWTV-22AE-FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22NA-FHD",
+      "codename": "umeda",
+      "model": "SWTV-22NA-FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22SA-FHD",
+      "codename": "umeda",
+      "model": "SWTV-22SA-FHD"
     },
     {
       "manufacturer": "",

@@ -117,6 +117,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N50",
+      "codename": "1918Y",
+      "model": "N50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N60Pro",
+      "codename": "1919",
+      "model": "N60Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S100",
+      "codename": "M22",
+      "model": "S100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S100Pro",
+      "codename": "M22H",
+      "model": "S100Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S30",
       "codename": "S30",
       "model": "S30"
@@ -417,9 +441,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10S",
+      "codename": "P1D",
+      "model": "T10S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T20",
       "codename": "P2",
       "model": "T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20",
+      "codename": "P2_2",
+      "model": "T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T30Pro",
+      "codename": "P3Pro",
+      "model": "T30Pro"
     },
     {
       "manufacturer": "",
@@ -432,6 +474,18 @@
       "market_name": "T5S",
       "codename": "T5S",
       "model": "T5S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V MAX",
+      "codename": "M23H",
+      "model": "V Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V Max",
+      "codename": "M23H",
+      "model": "V Max"
     },
     {
       "manufacturer": "",
@@ -468,6 +522,12 @@
       "market_name": "V30Pro",
       "codename": "M23",
       "model": "V30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30T",
+      "codename": "M23T",
+      "model": "V30T"
     },
     {
       "manufacturer": "",

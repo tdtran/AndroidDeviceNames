@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Element",
+    "market_name": "Element",
+    "codename": "tennoji",
+    "model": "ElementDeluxe2K"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "MTC",
+    "codename": "tennoji",
+    "model": "JVCUS 2K Google TV"
+  },
+  {
+    "manufacturer": "Umax",
+    "market_name": "UMAX",
+    "codename": "tennoji",
+    "model": "Premium 2K GTV"
+  }
+]

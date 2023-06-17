@@ -36,6 +36,18 @@
       "market_name": "Digi_K2_EEA",
       "codename": "Digi_K2",
       "model": "Digi K2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digiking 4K Google TV",
+      "codename": "keoneae",
+      "model": "Digiking 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INFINITY MAX",
+      "codename": "DIGIT_INFINITY_MAX",
+      "model": "DIGIT INFINITY MAX"
     }
   ]
 }

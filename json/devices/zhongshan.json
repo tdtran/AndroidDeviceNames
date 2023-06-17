@@ -36,6 +36,12 @@
     "model": "43FCOL"
   },
   {
+    "manufacturer": "Compaq",
+    "market_name": "COMPAQ",
+    "codename": "zhongshan",
+    "model": "SMART TV"
+  },
+  {
     "manufacturer": "EKO",
     "market_name": "EKO",
     "codename": "zhongshan",
@@ -79,6 +85,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "ACONATIC",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "AZATECH",
     "codename": "zhongshan",
     "model": "4K SMART TV"
@@ -86,6 +98,12 @@
   {
     "manufacturer": "KTCtv",
     "market_name": "BAUF",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "BOTECH",
     "codename": "zhongshan",
     "model": "4K SMART TV"
   },
@@ -109,9 +127,39 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "CONTI",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAHUA",
+    "codename": "zhongshan",
+    "model": "43FCOL"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAHUA",
+    "codename": "zhongshan",
+    "model": "43FSA"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAHUA",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "DIGGIO",
     "codename": "zhongshan",
     "model": "CSV4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DYON",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -139,15 +187,33 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "GHIA",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "Golbal",
     "codename": "zhongshan",
     "model": "CSV4K"
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "ICE",
+    "codename": "zhongshan",
+    "model": "Smart UHD TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "INNOVA",
     "codename": "zhongshan",
     "model": "CSV4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ITEL",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -199,9 +265,33 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "QBELL",
+    "codename": "zhongshan",
+    "model": "QBELL 4K Android TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ROSSO",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "SA",
     "codename": "zhongshan",
     "model": "43FSA"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "SKY-ONE",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "SONEVIEW",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -229,9 +319,9 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "XITRIX",
+    "market_name": "ZEPHIR",
     "codename": "zhongshan",
-    "model": "4K SMART TV"
+    "model": "ZEPHIR 4K Android TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -332,6 +422,12 @@
   {
     "manufacturer": "Vivax",
     "market_name": "VIVAX",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Xitrix",
+    "market_name": "XITRIX",
     "codename": "zhongshan",
     "model": "4K SMART TV"
   }

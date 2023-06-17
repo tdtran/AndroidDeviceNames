@@ -213,6 +213,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 12C",
+      "codename": "aether",
+      "model": "22126RN91Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12C",
+      "codename": "earth",
+      "model": "22120RN86G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12C",
+      "codename": "earth",
+      "model": "22120RN86I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12C",
+      "codename": "earth",
+      "model": "2212ARNC4L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 6",
       "codename": "cereus",
       "model": "Redmi 6"
@@ -420,6 +444,24 @@
       "market_name": "Redmi A1+",
       "codename": "snow",
       "model": "220743FI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A2",
+      "codename": "cloud",
+      "model": "23026RN54G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A2",
+      "codename": "cloud",
+      "model": "23028RN4DG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A2+",
+      "codename": "water",
+      "model": "23028RNCAG"
     },
     {
       "manufacturer": "",
@@ -813,6 +855,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 12",
+      "codename": "tapas",
+      "model": "23021RAAEG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12",
+      "codename": "tapas",
+      "model": "23027RAD4I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12",
+      "codename": "tapas",
+      "model": "23028RA60L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12",
+      "codename": "topaz",
+      "model": "23021RAA2Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 12 5G",
       "codename": "sunstone",
       "model": "22101317C"
@@ -831,6 +897,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro",
+      "codename": "sweet",
+      "model": "2209116AG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro + 5G",
+      "codename": "rubypro",
+      "model": "22101316UP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro 5G",
+      "codename": "ruby",
+      "model": "22101316G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro 5G",
+      "codename": "ruby",
+      "model": "22101316I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 12 Pro Speed",
       "codename": "redwood",
       "model": "22101320C"
@@ -840,6 +930,36 @@
       "market_name": "Redmi Note 12 Pro+",
       "codename": "rubypro",
       "model": "22101316UCP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12 Pro+ 5G",
+      "codename": "rubypro",
+      "model": "22101316UG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12S",
+      "codename": "ocean",
+      "model": "2303CRA44A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12S",
+      "codename": "ocean",
+      "model": "2303ERA42L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12S",
+      "codename": "sea",
+      "model": "23030RAC7Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 12T Pro",
+      "codename": "pearl",
+      "model": "23054RA19C"
     },
     {
       "manufacturer": "",

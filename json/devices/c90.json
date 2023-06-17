@@ -16,5 +16,11 @@
     "market_name": "LG Volt S",
     "codename": "c90",
     "model": "LG-F640S"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "C90_EEA",
+    "codename": "C90",
+    "model": "C90"
   }
 ]

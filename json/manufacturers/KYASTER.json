@@ -6,6 +6,30 @@
       "market_name": "KPad_U2",
       "codename": "KPad_U2",
       "model": "KPad_U2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KPad_U2_Pro",
+      "codename": "KPad_U2_Pro",
+      "model": "KPad_U2_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KPad_U2_Pro_EEA",
+      "codename": "KPad_U2_Pro_EEA",
+      "model": "KPad_U2_Pro_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KPad_U4",
+      "codename": "KPad_U4",
+      "model": "KPad_U4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KPad_U4_EEA",
+      "codename": "KPad_U4_EEA",
+      "model": "KPad_U4_EEA"
     }
   ]
 }
