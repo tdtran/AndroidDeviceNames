@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ST7001 Tablet",
       "codename": "ST7001",
       "model": "ST7001"

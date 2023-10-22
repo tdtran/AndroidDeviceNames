@@ -1,14 +1,164 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Europe",
+    "codename": "nagata",
+    "model": "Blaupunkt Smart TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Apollo Premium TV",
+    "codename": "nagata",
+    "model": "Apollo Premium TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Europe",
+    "codename": "nagata",
+    "model": "Fobem 2K SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "MAXWELL SMART TV",
+    "codename": "nagata",
+    "model": "MAXWELL SMART TV"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "COMPAQ SMART TV",
+    "codename": "nagata",
+    "model": "COMPAQ SMART TV"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "Venezuela",
+    "codename": "nagata",
+    "model": "COMPAQ SMART 2K TV"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "CDI SMART TV",
+    "codename": "nagata",
+    "model": "CDI SMART TV"
+  },
+  {
+    "manufacturer": "Grunkel",
+    "market_name": "Europe",
+    "codename": "nagata",
+    "model": "GRUNKEL SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI SMART 2K TV",
+    "codename": "nagata",
+    "model": "Hyundai 2K Smart TV"
+  },
+  {
+    "manufacturer": "IMPEX",
+    "market_name": "IMPEX evoQ 2K",
+    "codename": "nagata",
+    "model": "IMPEX evoQ 2K"
+  },
+  {
     "manufacturer": "Invens",
     "market_name": "Spain",
     "codename": "nagata",
     "model": "INVES SMART TV"
   },
   {
+    "manufacturer": "Kogan",
+    "market_name": "Kogan G5",
+    "codename": "nagata",
+    "model": "Kogan G5"
+  },
+  {
+    "manufacturer": "MULTYNET",
+    "market_name": "Pakistan",
+    "codename": "nagata",
+    "model": "MULTYNET 2K SMART TV"
+  },
+  {
+    "manufacturer": "Nano",
+    "market_name": "Thailand",
+    "codename": "nagata",
+    "model": "Nano 2K SMART TV"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Nokia TV",
+    "codename": "nagata",
+    "model": "Nokia TV"
+  },
+  {
+    "manufacturer": "Profilo",
+    "market_name": "Turkey",
+    "codename": "nagata",
+    "model": "Profilo Smart TV"
+  },
+  {
+    "manufacturer": "Qilive",
+    "market_name": "Qilive SMART TV",
+    "codename": "nagata",
+    "model": "Qilive SMART TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA 2K SMART TV",
+    "codename": "nagata",
+    "model": "RCA 2K SMART TV"
+  },
+  {
+    "manufacturer": "Sansui",
+    "market_name": "Apollo Premium2K TV",
+    "codename": "nagata",
+    "model": "Apollo Premium2K TV"
+  },
+  {
+    "manufacturer": "Scanfrost",
+    "market_name": "Scanfrost TV",
+    "codename": "nagata",
+    "model": "Scanfrost TV"
+  },
+  {
     "manufacturer": "Smart-Tech TV",
     "market_name": "Europe",
     "codename": "nagata",
     "model": "Apollo Premium2K TV"
+  },
+  {
+    "manufacturer": "Star-X",
+    "market_name": "STAR-X 2K SMART TV",
+    "codename": "nagata",
+    "model": "STAR-X 2K SMART TV"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "Thomson TV",
+    "codename": "nagata",
+    "model": "Thomson TV"
+  },
+  {
+    "manufacturer": "Vega",
+    "market_name": "VEGA Smart TV",
+    "codename": "nagata",
+    "model": "VEGA Smart TV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION 2K SMART TV",
+    "codename": "nagata",
+    "model": "VISION 2K SMART TV"
+  },
+  {
+    "manufacturer": "Vision Technology",
+    "market_name": "2K SMART TV",
+    "codename": "nagata",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "XENON",
+    "market_name": "XENON ANDROID TV",
+    "codename": "nagata",
+    "model": "XENON ANDROID TV"
   }
 ]

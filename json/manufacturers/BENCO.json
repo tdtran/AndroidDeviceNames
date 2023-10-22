@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AE9310",
+      "codename": "AE9310",
+      "model": "AE9310"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AE9950",
       "codename": "AE9950",
       "model": "AE9950"
@@ -66,6 +72,12 @@
       "market_name": "M700",
       "codename": "M700",
       "model": "M700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco S1 Plus",
+      "codename": "AEOP513",
+      "model": "AEOP513"
     },
     {
       "manufacturer": "",

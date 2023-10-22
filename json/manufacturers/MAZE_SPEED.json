@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M1586K",
+      "codename": "M1586K",
+      "model": "M1586K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M1587K",
       "codename": "M1587K",
       "model": "M1587K"
@@ -54,6 +60,12 @@
       "market_name": "MS5539G",
       "codename": "MS5539G",
       "model": "MS5539G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS5614G",
+      "codename": "MS5614G",
+      "model": "MS5614G"
     },
     {
       "manufacturer": "",

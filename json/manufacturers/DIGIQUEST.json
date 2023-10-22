@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DigiquestEA",
+      "codename": "GIU7720D",
+      "model": "DigiquestEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "Digiquest 2K Android TV"

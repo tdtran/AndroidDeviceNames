@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Topsand",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "N10",
+      "codename": "N10_T",
+      "model": "N10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N8",
+      "codename": "N8",
+      "model": "N8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N8_KIDS",
+      "codename": "N8_KIDS",
+      "model": "N8 KIDS"
+    }
+  ]
+}

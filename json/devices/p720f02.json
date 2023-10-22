@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "5G UG Phone U23",
+    "codename": "P720F02",
+    "model": "5G UG Phone U23"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE 7160N",
     "codename": "P720F02",
     "model": "ZTE 7160N"

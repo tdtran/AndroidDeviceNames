@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "2K SMART TV",
+      "codename": "nagata",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "R1",
       "model": "ATV R1"

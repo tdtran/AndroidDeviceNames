@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "NEXT",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     }

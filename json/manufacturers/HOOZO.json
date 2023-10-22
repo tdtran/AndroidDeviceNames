@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F13",
+      "codename": "F13",
+      "model": "F13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F13_EEA",
+      "codename": "F13_EEA",
+      "model": "F13_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HZ0010",
       "codename": "HZ0010",
       "model": "HZ0010"

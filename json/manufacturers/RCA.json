@@ -286,6 +286,24 @@
     {
       "manufacturer": "",
       "market_name": "RCA",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA",
       "codename": "seocho",
       "model": "RCA 4K Android TV"
     },
@@ -297,9 +315,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA 2K SMART TV",
+      "codename": "nagata",
+      "model": "RCA 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA 4K Android TV",
       "codename": "kenton",
       "model": "RCA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA 4K Google TV",
+      "codename": "keoneae",
+      "model": "RCA 4K Google TV"
     },
     {
       "manufacturer": "",
@@ -720,6 +750,12 @@
       "market_name": "Smart TV",
       "codename": "ueno",
       "model": "2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "US",
+      "codename": "marina",
+      "model": "RCA 4K SMART TV"
     },
     {
       "manufacturer": "",

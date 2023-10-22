@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Discovery",
+      "codename": "Discovery",
+      "model": "Discovery"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Discovery Pro",
+      "codename": "Discovery_Pro",
+      "model": "Discovery Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "SPC Android TV"

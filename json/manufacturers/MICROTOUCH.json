@@ -1,0 +1,11 @@
+{
+  "manufacturer": "MicroTouch",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IDC_Series",
+      "codename": "IDC_Series",
+      "model": "IDC_Series"
+    }
+  ]
+}

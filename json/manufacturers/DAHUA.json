@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Dahua",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "stanford",
+      "model": "40DSA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "zhongshan",
+      "model": "43FCOL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "zhongshan",
+      "model": "43FSA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

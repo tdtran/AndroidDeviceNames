@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TESLA",
+      "codename": "zhongshan",
+      "model": "Tesla 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TESLA 2K SMART TV",
       "codename": "umeda",
       "model": "TESLA 2K SMART TV"
@@ -180,6 +186,24 @@
       "market_name": "Tesla_SP9_2",
       "codename": "Tesla_SP9_2",
       "model": "Tesla_SP9_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venezuela",
+      "codename": "martin",
+      "model": "Tesla 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venezuela",
+      "codename": "martin",
+      "model": "Tesla Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venezuela",
+      "codename": "patrick",
+      "model": "Tesla Android TV"
     }
   ]
 }

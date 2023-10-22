@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TRIPLTEK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "T mini",
+      "codename": "T_mini",
+      "model": "T mini"
+    }
+  ]
+}

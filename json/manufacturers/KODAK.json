@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KODAK",
+      "codename": "bruno",
+      "model": "KODAK2KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KODAK",
+      "codename": "shilin",
+      "model": "KODAK4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KODAK SMARTWAY L1 PRO",
       "codename": "L1_PRO",
       "model": "KODAK SMARTWAY L1 PRO"
@@ -93,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kodak_D61L",
+      "codename": "Kodak_D61L",
+      "model": "D61L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kodak_D65L",
       "codename": "Kodak_D65L",
       "model": "D65L"
@@ -114,6 +132,12 @@
       "market_name": "Kodak_KD50",
       "codename": "Kodak_KD50",
       "model": "KD50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panama",
+      "codename": "marina",
+      "model": "KODAK 4K Smart TV"
     },
     {
       "manufacturer": "",
@@ -144,6 +168,12 @@
       "market_name": "Smartway_T1",
       "codename": "Smartway_T1",
       "model": "Smartway_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South America",
+      "codename": "marina",
+      "model": "KODAK Smart TV"
     }
   ]
 }

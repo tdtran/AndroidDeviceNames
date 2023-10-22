@@ -1,0 +1,11 @@
+{
+  "manufacturer": "AHA(A)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IFPD",
+      "codename": "AHA_ULTRA_RK3588",
+      "model": "Hybrid_8600"
+    }
+  ]
+}

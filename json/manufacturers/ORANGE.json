@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Orange ES VSB3918",
+      "codename": "m393vsb_osp",
+      "model": "Orange ES VSB3918"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Orange Neva leaf",
       "codename": "Neva_leaf",
       "model": "Orange Neva leaf"

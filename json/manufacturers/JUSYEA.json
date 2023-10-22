@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "J10_EEA",
+      "codename": "J10_EEA",
+      "model": "J10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J10_US",
+      "codename": "J10_US",
+      "model": "J10_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J3",
       "codename": "JUSYEA_J3",
       "model": "J3"

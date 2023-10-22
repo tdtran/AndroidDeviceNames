@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E13R",
+      "codename": "E13R_B100G",
+      "model": "E13R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E13R",
+      "codename": "E13R_B75G",
+      "model": "E13R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E13R",
+      "codename": "E13R_B86G",
+      "model": "E13R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E13R_B65G",
       "codename": "rk3588_E13R",
       "model": "E13R"

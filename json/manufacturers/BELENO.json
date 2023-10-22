@@ -6,6 +6,12 @@
       "market_name": "BeLeno_Neod_8",
       "codename": "BeLeno_Neod_8",
       "model": "BeLeno_Neod_8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BeLeno_Turbo_101",
+      "codename": "BeLeno_Turbo_101",
+      "model": "BeLeno_Turbo_101"
     }
   ]
 }

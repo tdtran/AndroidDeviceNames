@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q03",
+      "codename": "Q03",
+      "model": "Quantum Q03"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QSPT-1952",
       "codename": "QF3A",
       "model": "QT-195W-aa2"

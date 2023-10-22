@@ -33,6 +33,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VISION 2K SMART TV",
+      "codename": "nagata",
+      "model": "VISION 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VISION 4K SMART TV",
+      "codename": "marina",
+      "model": "VISION 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VISION GSMART 2KTV",
+      "codename": "umeda",
+      "model": "VISION GSMART 2KTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VISION GSMART 4KTV",
+      "codename": "SW6H",
+      "model": "VISION GSMART 4KTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VISION GSMART 4KTV FF",
+      "codename": "SW6H",
+      "model": "VISION GSMART 4KTV FF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VISION SMART TV",
       "codename": "SW4H",
       "model": "VISION SMART TV"

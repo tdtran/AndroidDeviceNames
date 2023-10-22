@@ -34,5 +34,11 @@
     "market_name": "Galaxy Note10 Lite",
     "codename": "r7",
     "model": "SM-N770F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note10 Lite",
+    "codename": "r7",
+    "model": "SM-N770X"
   }
 ]

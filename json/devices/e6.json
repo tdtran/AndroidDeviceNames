@@ -12,6 +12,12 @@
     "model": "E6"
   },
   {
+    "manufacturer": "Emporia",
+    "market_name": "E6_EEA",
+    "codename": "E6",
+    "model": "E6"
+  },
+  {
     "manufacturer": "Gini",
     "market_name": "e6_plus",
     "codename": "e6",

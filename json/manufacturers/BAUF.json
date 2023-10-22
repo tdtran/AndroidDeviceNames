@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Bauf",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BAUF",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BAUF",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

@@ -1,9 +1,51 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt",
+    "codename": "kaitak",
+    "model": "Blaupunkt Google TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "kaitak",
+    "model": "EKO Google TV"
+  },
+  {
+    "manufacturer": "Element",
+    "market_name": "Element",
+    "codename": "kaitak",
+    "model": "ElementPlatiumTV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "kaitak",
+    "model": "4KGoogle TV"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "kaitak",
     "model": "JVCPA 4KAndroid TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "kaitak",
+    "model": "JVCSA 4KGoogleTV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "kaitak",
+    "model": "Platinum Google TV"
+  },
+  {
+    "manufacturer": "OK (Mediamark)",
+    "market_name": "OK",
+    "codename": "kaitak",
+    "model": "OK Google TV"
   },
   {
     "manufacturer": "Umax",

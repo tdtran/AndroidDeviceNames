@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DT40_EEA",
+      "codename": "DT40",
+      "model": "DT40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DT50",
       "codename": "DT50",
       "model": "DT50"

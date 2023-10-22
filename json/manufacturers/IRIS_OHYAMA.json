@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TE083M3",
+      "codename": "TE083M3",
+      "model": "TE083"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TE101N1",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "TE101"
@@ -36,6 +42,12 @@
       "market_name": "TE102M3",
       "codename": "TE102M3",
       "model": "TE102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE103M3",
+      "codename": "TE103M3",
+      "model": "TE103"
     }
   ]
 }

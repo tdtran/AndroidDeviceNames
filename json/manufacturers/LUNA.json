@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LUNA T10",
+      "codename": "LUNA_T10",
+      "model": "LUNA T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUNA V6",
+      "codename": "LUNA_V6",
+      "model": "LUNA V6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUNA V6 3GB",
+      "codename": "LUNA_V6_3GB",
+      "model": "LUNA V6 3GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LUNA_G6",
       "codename": "G6",
       "model": "LUNA G6"

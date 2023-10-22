@@ -231,6 +231,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iHunt S24 PLUS",
+      "codename": "iHunt_S24_PLUS",
+      "model": "iHunt S24 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt S24 ULTRA",
+      "codename": "iHunt_S24_ULTRA",
+      "model": "iHunt S24 ULTRA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iHunt S90 Apex",
       "codename": "S90_Apex",
       "model": "S90_Apex"

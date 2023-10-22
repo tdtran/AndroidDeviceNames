@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LYOTECH_LABS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LFi_ONE_EEA",
+      "codename": "LFi_ONE",
+      "model": "LFi ONE"
+    }
+  ]
+}

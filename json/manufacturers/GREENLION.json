@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G-10_PRO",
+      "codename": "G-10_PRO",
+      "model": "G-10 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G-10_ULTRA",
       "codename": "G-10_ULTRA",
       "model": "G-10 ULTRA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G-8_PRO",
+      "codename": "G-8_PRO",
+      "model": "G-8 PRO"
     }
   ]
 }

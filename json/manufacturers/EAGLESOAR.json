@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EE10A",
+      "codename": "EE10A",
+      "model": "EE10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z_766_EEA",
       "codename": "Z_766_EEA",
       "model": "Z_766_EEA"

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite N55Max",
+      "codename": "Elite_N55Max",
+      "model": "Elite N55Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite OctaPlus",
       "codename": "Elite_OctaPlus4us",
       "model": "Elite OctaPlus"
@@ -42,6 +48,12 @@
       "market_name": "Platinum_B7",
       "codename": "Platinum_B7",
       "model": "Platinum B7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_PAD10Max",
+      "codename": "SKY_PAD10Maxk3",
+      "model": "SKY PAD10Max"
     },
     {
       "manufacturer": "",

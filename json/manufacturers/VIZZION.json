@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "VIZZION",
+      "codename": "stanford",
+      "model": "F VIZZION TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIZZION 4K TV",
       "codename": "SW4H",
       "model": "VIZZION 4K TV"

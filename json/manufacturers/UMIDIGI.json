@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A13_Tab_EEA",
+      "codename": "A13_Tab_EEA",
+      "model": "MT07"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -252,6 +258,12 @@
       "market_name": "AblePad_Pro-EEA",
       "codename": "AblePad_Pro-EEA",
       "model": "MT04"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active T1",
+      "codename": "Active_T1",
+      "model": "MT09"
     },
     {
       "manufacturer": "",
@@ -435,6 +447,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C1 Plus",
+      "codename": "C1_Plus",
+      "model": "MP29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1 Plus EEA",
+      "codename": "C1_Plus",
+      "model": "MP29"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F1",
       "codename": "F1",
       "model": "F1"
@@ -531,6 +555,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G1_Tab_Kids",
+      "codename": "G1_Tab_Kids",
+      "model": "MT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G2",
       "codename": "UMIDIGI_G2",
       "model": "MP21"
@@ -540,6 +570,12 @@
       "market_name": "G2 EEA",
       "codename": "UMIDIGI_G2",
       "model": "MP21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2_Tab_Kids",
+      "codename": "G2_Tab_Kids",
+      "model": "MT11"
     },
     {
       "manufacturer": "",
@@ -564,6 +600,24 @@
       "market_name": "G3 Plus EEA",
       "codename": "G3_Plus",
       "model": "MP25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5 Mecha",
+      "codename": "G5_Mecha",
+      "model": "RP08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5 Mecha EEA",
+      "codename": "G5_Mecha",
+      "model": "RP08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5 Mecha RU",
+      "codename": "G5_Mecha",
+      "model": "RP08"
     },
     {
       "manufacturer": "",
@@ -735,6 +789,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UMIDIGI A15",
+      "codename": "UMIDIGI_A15",
+      "model": "MP33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI A15 EEA",
+      "codename": "UMIDIGI_A15",
+      "model": "MP33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI A15 RU",
+      "codename": "UMIDIGI_A15",
+      "model": "MP33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI A15C",
+      "codename": "UMIDIGI_A15C",
+      "model": "MP34"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI A15C EEA",
+      "codename": "UMIDIGI_A15C",
+      "model": "MP34"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UMIDIGI C1",
       "codename": "UMIDIGI_C1",
       "model": "MP07"
@@ -792,6 +876,30 @@
       "market_name": "UMIDIGI G3 Max EEA",
       "codename": "G3_Max",
       "model": "MP26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G5",
+      "codename": "UMIDIGI_G5",
+      "model": "MP27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G5 EEA",
+      "codename": "UMIDIGI_G5",
+      "model": "MP27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G5A",
+      "codename": "UMIDIGI_G5A",
+      "model": "MP38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G5A EEA",
+      "codename": "UMIDIGI_G5A",
+      "model": "MP38"
     },
     {
       "manufacturer": "",

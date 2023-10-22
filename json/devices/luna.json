@@ -25,6 +25,18 @@
   },
   {
     "manufacturer": "TCL",
+    "market_name": "TCL TAB 8",
+    "codename": "Luna",
+    "model": "9132X"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 8 V",
+    "codename": "Luna",
+    "model": "9132X"
+  },
+  {
+    "manufacturer": "TCL",
     "market_name": "TCL TAB 8 Wi-Fi",
     "codename": "Luna",
     "model": "9132X"

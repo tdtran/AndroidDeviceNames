@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ATOM4",
+      "codename": "ATOM4",
+      "model": "ATOM4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Allegro",
       "codename": "RFIP_ST4K_2",
       "model": "Allegro"
@@ -177,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SYMTAB 80",
+      "codename": "SYMTAB_80",
+      "model": "SYMTAB_80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SYMTAB25",
       "codename": "SYMTAB25",
       "model": "SYMTAB25"
@@ -186,6 +198,12 @@
       "market_name": "SYMTAB60",
       "codename": "SYMTAB60",
       "model": "SYMTAB60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Symphony G26",
+      "codename": "G26",
+      "model": "G26"
     },
     {
       "manufacturer": "",

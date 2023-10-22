@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Delta_14",
+      "codename": "Delta_14",
+      "model": "Delta_14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gtel Infinity 8s",
       "codename": "Gtel_Infinity_8s",
       "model": "Gtel Infinity 8s"
@@ -174,6 +180,12 @@
       "market_name": "Infinity 7 Pro",
       "codename": "Infinity7Pro",
       "model": "Infinity 7 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinity_13",
+      "codename": "Infinity_13",
+      "model": "Infinity_13"
     },
     {
       "manufacturer": "",

@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab10_Edu",
+      "codename": "Tab10_EduV2",
+      "model": "Tab10_Edu"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab7LTE",
       "codename": "Masstel_Tab7LTE",
       "model": "Masstel_Tab7LTE"

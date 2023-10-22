@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG 8",
+      "codename": "KINGKONG_8",
+      "model": "KINGKONG 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG 9",
       "codename": "KINGKONG_9",
       "model": "KINGKONG 9"
@@ -198,6 +204,12 @@
       "market_name": "KINGKONG MINI2 Pro",
       "codename": "KINGKONG_MINI2_Pro",
       "model": "KINGKONG_MINI2_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG STAR",
+      "codename": "KINGKONG_STAR",
+      "model": "KINGKONG STAR"
     },
     {
       "manufacturer": "",
@@ -252,6 +264,18 @@
       "market_name": "NOTE 30",
       "codename": "NOTE_30",
       "model": "NOTE 30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 40",
+      "codename": "NOTE_40",
+      "model": "NOTE 40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 50",
+      "codename": "NOTE_50",
+      "model": "NOTE 50"
     },
     {
       "manufacturer": "",
@@ -387,6 +411,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB 40",
+      "codename": "TAB_40",
+      "model": "TAB 40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB 50",
+      "codename": "TAB_50",
+      "model": "TAB 50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB KINGKONG",
       "codename": "TAB_KINGKONG",
       "model": "TAB KINGKONG"
@@ -420,6 +456,12 @@
       "market_name": "X30",
       "codename": "X30",
       "model": "X30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X30P",
+      "codename": "X30P",
+      "model": "X30P"
     },
     {
       "manufacturer": "",

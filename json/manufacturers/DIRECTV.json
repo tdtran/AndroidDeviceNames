@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LK02",
+      "codename": "HYS0A",
+      "model": "LK02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OTT-01",
       "codename": "HP40A",
       "model": "OTT-01"

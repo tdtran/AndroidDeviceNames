@@ -4,5 +4,11 @@
     "market_name": "WP21_EEA",
     "codename": "WP21",
     "model": "WP21"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "WP21_RU",
+    "codename": "WP21",
+    "model": "WP21"
   }
 ]

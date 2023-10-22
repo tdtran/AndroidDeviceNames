@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Joya Touch 22",
+      "codename": "jta11f",
+      "model": "Joya Touch 22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MEMOR 1",
       "codename": "M1_AOSP",
       "model": "Memor 1"
@@ -34,12 +40,6 @@
     {
       "manufacturer": "",
       "market_name": "MEMOR 11",
-      "codename": "m11",
-      "model": "Memor 11"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Memor 11",
       "codename": "m11",
       "model": "Memor 11"
     },

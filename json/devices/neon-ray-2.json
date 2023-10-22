@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Safaricom",
+    "market_name": "NEON RAY 2",
+    "codename": "NEON-RAY-2",
+    "model": "NEON RAY 2"
+  },
+  {
+    "manufacturer": "Safaricom",
     "market_name": "NEON-RAY-2",
     "codename": "NEON-RAY-2",
     "model": "NEON RAY 2"

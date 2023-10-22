@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "THEHAM",
+      "codename": "hongkong",
+      "model": "Smart UHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "THEHAM",
       "codename": "stanford",
       "model": "Smart FHD TV"
     },

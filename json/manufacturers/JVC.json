@@ -166,8 +166,44 @@
     {
       "manufacturer": "",
       "market_name": "JVC",
+      "codename": "hongkong",
+      "model": "JVC 4K ATSC TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "hongkong",
+      "model": "JVC 4K DVB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "hongkong",
+      "model": "JVC 4K ISDB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "kaitak",
+      "model": "4KGoogle TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
       "codename": "kaitak",
       "model": "JVCPA 4KAndroid TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "kaitak",
+      "model": "JVCSA 4KGoogleTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "kaitak",
+      "model": "Platinum Google TV"
     },
     {
       "manufacturer": "",
@@ -186,6 +222,36 @@
       "market_name": "JVC",
       "codename": "komagome",
       "model": "JVC EU 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "lavender",
+      "model": "JVC 4K DVB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "lavender",
+      "model": "JVC 4K ISDB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "mountbaker",
+      "model": "JVC 2K ATSC TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "mountbaker",
+      "model": "JVC 2K DVB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "mountbaker",
+      "model": "JVC 2K ISDB TV"
     },
     {
       "manufacturer": "",
@@ -216,6 +282,12 @@
       "market_name": "JVC",
       "codename": "shilin",
       "model": "JVC PA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "shilin",
+      "model": "JVC UK 4K Android TV"
     },
     {
       "manufacturer": "",
@@ -252,6 +324,18 @@
       "market_name": "JVC",
       "codename": "sugamo",
       "model": "US 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "tennoji",
+      "model": "JVCPA 2KAndroid TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "tennoji",
+      "model": "JVCSA 2KGoogle TV"
     },
     {
       "manufacturer": "",
@@ -306,6 +390,12 @@
       "market_name": "MTC",
       "codename": "tennoji",
       "model": "JVCUS 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
     },
     {
       "manufacturer": "",

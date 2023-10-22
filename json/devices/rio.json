@@ -4,5 +4,29 @@
     "market_name": "Rio",
     "codename": "Rio",
     "model": "B001"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 403",
+    "codename": "Rio",
+    "model": "T431A"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 403",
+    "codename": "Rio",
+    "model": "T431E"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 403",
+    "codename": "Rio",
+    "model": "T431P"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 403",
+    "codename": "Rio",
+    "model": "T431Q"
   }
 ]

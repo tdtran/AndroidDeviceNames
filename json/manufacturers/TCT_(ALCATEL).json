@@ -6885,6 +6885,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 40 XE 5G",
+      "codename": "Encore_TF",
+      "model": "T609DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 4X 5G",
       "codename": "Bremen_TF",
       "model": "T601DL"

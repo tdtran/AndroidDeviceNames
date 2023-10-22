@@ -33,6 +33,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H93A",
+      "codename": "songni",
+      "model": "H93A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N1",
+      "codename": "songni",
+      "model": "S70A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N1 Pro",
+      "codename": "songni",
+      "model": "H80A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One",
       "codename": "A0001",
       "model": "A0001"
@@ -441,27 +459,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "OnePlus 9Pro 5G",
-      "codename": "OnePlus9Pro",
-      "model": "LE2120"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "OnePlus 9Pro 5G",
-      "codename": "OnePlus9Pro",
-      "model": "LE2123"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "OnePlus 9Pro 5G",
-      "codename": "OnePlus9Pro",
-      "model": "LE2125"
+      "market_name": "OnePlus 9R",
+      "codename": "OnePlus9R",
+      "model": "LE2100"
     },
     {
       "manufacturer": "",
       "market_name": "OnePlus 9R",
       "codename": "OnePlus9R",
-      "model": "LE2100"
+      "model": "LE2101"
     },
     {
       "manufacturer": "",
@@ -510,6 +516,18 @@
       "market_name": "OnePlus Nord 2T 5G",
       "codename": "OP557AL1",
       "model": "CPH2401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord 3 5G",
+      "codename": "OP556FL1",
+      "model": "CPH2491"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord 3 5G",
+      "codename": "OP556FL1",
+      "model": "CPH2493"
     },
     {
       "manufacturer": "",
@@ -675,6 +693,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Pad",
+      "codename": "OP59BCL1",
+      "model": "OPD2203"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus2",
       "codename": "OnePlus2",
       "model": "ONE A2003"
@@ -723,21 +747,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "OnePlus9R",
-      "codename": "OnePlus9R",
-      "model": "LE2100"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "OnePlus9R",
-      "codename": "OnePlus9R",
-      "model": "LE2101"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Oneplus_Dosa_IN",
       "codename": "Oneplus_Dosa_IN",
       "model": "Oneplus_Dosa_IN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHP110",
+      "codename": "OP5927",
+      "model": "PHP110"
     },
     {
       "manufacturer": "",

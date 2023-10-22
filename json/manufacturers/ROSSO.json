@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Rosso",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ROSSO",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rosso",
+      "codename": "stanford",
+      "model": "40D"
+    }
+  ]
+}

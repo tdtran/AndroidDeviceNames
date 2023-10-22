@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEIZU 20 Inf",
+      "codename": "meizu20Inf",
+      "model": "MEIZU 20 Inf"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Meizu 6T",
       "codename": "Meizu6T",
       "model": "Meizu 6T"
@@ -246,6 +252,18 @@
       "market_name": "meizu 18 Pro",
       "codename": "meizu18Pro",
       "model": "MEIZU 18 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu 20",
+      "codename": "meizu20",
+      "model": "MEIZU 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu 20 Pro",
+      "codename": "meizu20Pro",
+      "model": "MEIZU 20 Pro"
     },
     {
       "manufacturer": "",

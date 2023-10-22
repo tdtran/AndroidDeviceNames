@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IFPXX03-V7PRO",
+      "codename": "rk3588_t",
+      "model": "IFPO3V7PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Zyro",
       "codename": "zyro",
       "model": "V7 Zyro"

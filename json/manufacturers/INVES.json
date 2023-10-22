@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "marina",
+      "model": "INVES SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Spain",
       "codename": "tamachi",
       "model": "INVES FHD Android TV"

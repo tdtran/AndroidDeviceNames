@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Mobicell",
+    "market_name": "D3",
+    "codename": "VX20_PRO",
+    "model": "D3"
+  },
+  {
+    "manufacturer": "Mobicell",
     "market_name": "VX20 PRO",
     "codename": "VX20_PRO",
     "model": "VX20 PRO"

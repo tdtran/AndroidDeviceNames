@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AMD Mendocino FT6 Chromebook",
+      "codename": "skyrim_cheets",
+      "model": "skyrim"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AMD Raven Ridge Chromebook",
       "codename": "zork_cheets",
       "model": "zork"
@@ -375,9 +381,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixel 8",
+      "codename": "shiba",
+      "model": "Pixel 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 8 Pro",
+      "codename": "husky",
+      "model": "Pixel 8 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixel C",
       "codename": "dragon",
       "model": "Pixel C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel Fold",
+      "codename": "felix",
+      "model": "Pixel Fold"
     },
     {
       "manufacturer": "",
@@ -399,6 +423,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixel Tablet",
+      "codename": "tangorpro",
+      "model": "Pixel Tablet"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixel Watch",
       "codename": "r11",
       "model": "Google Pixel Watch"
@@ -408,6 +438,18 @@
       "market_name": "Pixel Watch",
       "codename": "r11btwifi",
       "model": "Google Pixel Watch"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel Watch 2",
+      "codename": "aurora",
+      "model": "Google Pixel Watch 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel Watch 2",
+      "codename": "eos",
+      "model": "Google Pixel Watch 2"
     },
     {
       "manufacturer": "",

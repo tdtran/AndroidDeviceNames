@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Profilo Smart TV",
+      "codename": "marina",
+      "model": "Profilo Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "mateo",
       "model": "2K PA Smart TV"
@@ -10,8 +16,20 @@
     {
       "manufacturer": "",
       "market_name": "Turkey",
+      "codename": "guandu",
+      "model": "Profilo 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
       "codename": "martin",
       "model": "Profilo 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "nagata",
+      "model": "Profilo Smart TV"
     },
     {
       "manufacturer": "",

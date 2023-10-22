@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P80_B",
+      "codename": "P80_PRO",
+      "model": "P80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P80_EEA",
       "codename": "P80",
       "model": "P80"

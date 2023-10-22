@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "DIALN",
+    "market_name": "X10G",
+    "codename": "X10G",
+    "model": "X10G"
+  },
+  {
     "manufacturer": "Kenxinda",
     "market_name": "X10g",
     "codename": "X10g",

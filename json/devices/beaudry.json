@@ -18,6 +18,18 @@
     "model": "itel AndroidTV"
   },
   {
+    "manufacturer": "Miramage",
+    "market_name": "TV3223HDA11SMARTG",
+    "codename": "beaudry",
+    "model": "Miramage AndroidTV"
+  },
+  {
+    "manufacturer": "Seleco",
+    "market_name": "Seleco 2K Smart TV",
+    "codename": "beaudry",
+    "model": "Seleco AndroidTV"
+  },
+  {
     "manufacturer": "Syinix",
     "market_name": "43A51",
     "codename": "beaudry",
@@ -28,5 +40,11 @@
     "market_name": "S32WD02",
     "codename": "beaudry",
     "model": "iSTAR AndroidTV"
+  },
+  {
+    "manufacturer": "jAC-EG",
+    "market_name": "43JB822",
+    "codename": "beaudry",
+    "model": "jAC AndroidTV"
   }
 ]

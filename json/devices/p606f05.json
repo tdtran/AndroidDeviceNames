@@ -10,5 +10,17 @@
     "market_name": "ZTE A7050",
     "codename": "P606F05",
     "model": "ZTE A7050"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade A72s",
+    "codename": "P606F05",
+    "model": "ZTE A7050"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade V41 Smart",
+    "codename": "P606F05",
+    "model": "ZTE A7050"
   }
 ]

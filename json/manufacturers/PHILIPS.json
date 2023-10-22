@@ -321,9 +321,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philips Google TV TA1",
+      "codename": "PH1M_WW_9972",
+      "model": "Philips Google TV TA1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips Google TV TA2",
+      "codename": "PH1M_WW_9972",
+      "model": "Philips Google TV TA2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philips Google TV TA6",
       "codename": "kujo",
       "model": "Philips Google TV TA6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips Google TV TA6",
+      "codename": "kujo",
+      "model": "Philips Google TV TA6 LT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips Google TV TA7",
+      "codename": "PH3M_AL_T32",
+      "model": "Philips Google TV TA7"
     },
     {
       "manufacturer": "",

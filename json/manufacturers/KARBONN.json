@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ST101",
+      "codename": "ST101",
+      "model": "ST101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sparkle V",
       "codename": "Sparkle_V_sprout",
       "model": "Sparkle V"

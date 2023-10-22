@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F2A",
+      "codename": "F2A",
+      "model": "F2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fpad1",
+      "codename": "Fpad1",
+      "model": "F1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fpad2",
       "codename": "Fpad2",
       "model": "Fpad2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fpad3",
+      "codename": "Fpad3",
+      "model": "F3"
     },
     {
       "manufacturer": "",
@@ -30,6 +48,12 @@
       "market_name": "Hpad2",
       "codename": "Hpad2",
       "model": "H2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hpad2",
+      "codename": "Hpad2",
+      "model": "H2A"
     },
     {
       "manufacturer": "",

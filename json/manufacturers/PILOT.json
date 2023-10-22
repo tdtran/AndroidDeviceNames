@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PQ55CH",
       "codename": "samseong",
       "model": "AI PONT"

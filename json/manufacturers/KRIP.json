@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KRIP K69",
+      "codename": "K69",
+      "model": "K69"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KRIP_K4",
       "codename": "KRIP_K4",
       "model": "KRIP_K4"

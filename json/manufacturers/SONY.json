@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA AE M6L",
+      "codename": "BRAVIA_AE_M6L",
+      "model": "BRAVIA 4K AE1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA Smart Stick",
       "codename": "NSZGU1",
       "model": "NSZ-GU1"
@@ -184,6 +190,12 @@
     {
       "manufacturer": "",
       "market_name": "BRAVIA_VU3.1",
+      "codename": "BRAVIA_VU31_4K",
+      "model": "BRAVIA VU31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA_VU31",
       "codename": "BRAVIA_VU31_4K",
       "model": "BRAVIA VU31"
     },
@@ -510,6 +522,24 @@
       "market_name": "Xperia 1 V",
       "codename": "SOG10",
       "model": "SOG10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 V",
+      "codename": "XQ-DQ44",
+      "model": "XQ-DQ44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 V",
+      "codename": "XQ-DQ54",
+      "model": "XQ-DQ54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 V",
+      "codename": "XQ-DQ62",
+      "model": "XQ-DQ62"
     },
     {
       "manufacturer": "",
@@ -870,6 +900,36 @@
       "market_name": "Xperia 5 IV",
       "codename": "XQ-CQ72",
       "model": "XQ-CQ72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 V",
+      "codename": "SO-53D",
+      "model": "SO-53D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 V",
+      "codename": "SOG12",
+      "model": "SOG12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 V",
+      "codename": "XQ-DE44",
+      "model": "XQ-DE44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 V",
+      "codename": "XQ-DE54",
+      "model": "XQ-DE54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5 V",
+      "codename": "XQ-DE72",
+      "model": "XQ-DE72"
     },
     {
       "manufacturer": "",

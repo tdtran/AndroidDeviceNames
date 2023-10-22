@@ -6,6 +6,12 @@
       "market_name": "UA100",
       "codename": "UA100",
       "model": "UA100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UA80",
+      "codename": "UA80",
+      "model": "UA80"
     }
   ]
 }

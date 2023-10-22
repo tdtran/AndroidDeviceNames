@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Silo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SILO",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SILO",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    }
+  ]
+}

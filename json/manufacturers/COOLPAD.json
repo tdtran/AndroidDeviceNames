@@ -345,6 +345,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "3631",
+      "codename": "CP12t",
+      "model": "CP12t"
+    },
+    {
+      "manufacturer": "",
       "market_name": "3632A",
       "codename": "cp3632a",
       "model": "Coolpad 3632A"
@@ -810,6 +816,18 @@
       "market_name": "COOLPAD_C203",
       "codename": "COOLPAD_C203",
       "model": "COOLPAD C203"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP12",
+      "codename": "CP12",
+      "model": "CP12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP12p_S0",
+      "codename": "CP12p",
+      "model": "CP12p"
     },
     {
       "manufacturer": "",
@@ -1458,6 +1476,12 @@
       "market_name": "Y92-9",
       "codename": "Y92-9",
       "model": "Coolpad Y92-9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad 5651",
+      "codename": "CP12p",
+      "model": "CP12p"
     },
     {
       "manufacturer": "",

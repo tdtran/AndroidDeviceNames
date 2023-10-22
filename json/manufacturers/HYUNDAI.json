@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BOLIVIA",
+      "codename": "marina",
+      "model": "HYUNDAI SMART 4K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BS5002",
       "codename": "redwood",
       "model": "AI PONT"
@@ -363,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HT10LC1MBKLTM01",
+      "codename": "HT10LC1MBKLTM01",
+      "model": "HT10LC1MBKLTM01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT10LC1MBKWW01",
       "codename": "HT10LC1MBKWW01",
       "model": "HT10LC1MBKWW01"
@@ -465,15 +477,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HYUNDAI",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HYUNDAI 2K Android TV",
       "codename": "lasalle",
       "model": "HYUNDAI 2K Android TV"
     },
     {
       "manufacturer": "",
+      "market_name": "HYUNDAI 2K Android TV-A",
+      "codename": "lasalle",
+      "model": "HYUNDAI 2K Android TV-A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HYUNDAI 2K Google TV",
       "codename": "capitolhill",
       "model": "HYUNDAI  2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI 2K Google TV-E",
+      "codename": "capitolhill",
+      "model": "HYUNDAI 2K Google TV-E"
     },
     {
       "manufacturer": "",
@@ -489,6 +519,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HYUNDAI SMART 2K TV",
+      "codename": "nagata",
+      "model": "Hyundai 2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI SMART TV",
+      "codename": "SW6H",
+      "model": "HYUNDAI SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HYUNDAI SMART TV",
       "codename": "sunnyvale",
       "model": "HYUNDAI SMART TV"
@@ -498,6 +540,24 @@
       "market_name": "HY_BDL163G_001",
       "codename": "HY_BDL163G_001_EEA",
       "model": "HY-BDL163G-001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HyLine_Plus",
+      "codename": "HY65PB1401NA",
+      "model": "65PB1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HyLine_Plus_2",
+      "codename": "HY65PB1401NA",
+      "model": "65PB1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HyLine_Pro_X",
+      "codename": "HY65PA1401NA",
+      "model": "65PA1"
     },
     {
       "manufacturer": "",
@@ -540,6 +600,12 @@
       "market_name": "Hyundai 2K TV",
       "codename": "shinjuku",
       "model": "Hyundai 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai 4K Smart TV",
+      "codename": "marina",
+      "model": "Hyundai 4K Smart TV"
     },
     {
       "manufacturer": "",

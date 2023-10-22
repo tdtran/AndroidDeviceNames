@@ -46,5 +46,11 @@
     "market_name": "Galaxy A11",
     "codename": "a11q",
     "model": "SM-A115W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A11",
+    "codename": "a11q",
+    "model": "SM-S115DL"
   }
 ]

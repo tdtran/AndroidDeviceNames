@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI A62 64GB",
+      "codename": "A161_Plus",
+      "model": "A161_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI A72",
       "codename": "A170",
       "model": "A170"
@@ -102,6 +108,12 @@
       "market_name": "INOI A72",
       "codename": "A171",
       "model": "A171"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI A72",
+      "codename": "A171",
+      "model": "A171_Plus"
     },
     {
       "manufacturer": "",

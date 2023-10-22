@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TMB(A)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Max",
+      "codename": "Max",
+      "model": "Max"
+    }
+  ]
+}

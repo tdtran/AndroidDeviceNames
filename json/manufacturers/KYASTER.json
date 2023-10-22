@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KPad_U2_P",
+      "codename": "KPad_U2_P",
+      "model": "KPad_U2_P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KPad_U2_Pro",
       "codename": "KPad_U2_Pro",
       "model": "KPad_U2_Pro"

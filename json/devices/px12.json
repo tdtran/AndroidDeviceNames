@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "D1",
+    "codename": "PX12",
+    "model": "D1"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "D2",
+    "codename": "PX12",
+    "model": "D2"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "MX2",
+    "codename": "PX12",
+    "model": "MX2"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "PX12",
+    "codename": "PX12",
+    "model": "PX12"
+  }
+]

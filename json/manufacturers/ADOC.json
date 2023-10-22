@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ADOC TCAT10",
+      "codename": "ADOC_TCAT10",
+      "model": "ADOC TCAT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D30",
       "codename": "D30",
       "model": "D30"

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TD Tech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TD Tech V800",
+      "codename": "V800",
+      "model": "V800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TD Tech V900",
+      "codename": "V900",
+      "model": "V900"
+    }
+  ]
+}

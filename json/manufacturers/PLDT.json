@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PLDT-GMB8260",
+      "codename": "DS8942-KPP",
+      "model": "PLDT-GMB8260"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart Page 8 Pro",
       "codename": "Smart_Page_8_Pro",
       "model": "Smart_Page_8_Pro"

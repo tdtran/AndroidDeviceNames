@@ -225,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X11",
+      "codename": "X11",
+      "model": "X11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X6",
       "codename": "X6",
       "model": "X6"

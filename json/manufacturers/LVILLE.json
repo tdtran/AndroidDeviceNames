@@ -18,6 +18,12 @@
       "market_name": "TPC1013",
       "codename": "TPC1013",
       "model": "TPC1013"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPC1013_EEA",
+      "codename": "TPC1013_EEA",
+      "model": "TPC1013_EEA"
     }
   ]
 }

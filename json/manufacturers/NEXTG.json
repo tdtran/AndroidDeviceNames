@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Next-G",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NEXT_G",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT_G",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

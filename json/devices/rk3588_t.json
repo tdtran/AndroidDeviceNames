@@ -18,6 +18,12 @@
     "model": "six_zero_XXAplus"
   },
   {
+    "manufacturer": "Clevertouch",
+    "market_name": "IMPACT Lux",
+    "codename": "rk3588_t",
+    "model": "Impact_Lux_Display"
+  },
+  {
     "manufacturer": "Newline",
     "market_name": "Q23",
     "codename": "rk3588_t",
@@ -28,5 +34,11 @@
     "market_name": "Synetech Elite Taurus",
     "codename": "rk3588_t",
     "model": "Synetech_T35"
+  },
+  {
+    "manufacturer": "V7",
+    "market_name": "IFPXX03-V7PRO",
+    "codename": "rk3588_t",
+    "model": "IFPO3V7PRO"
   }
 ]

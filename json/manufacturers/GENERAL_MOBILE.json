@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GM 24 Pro",
+      "codename": "G514",
+      "model": "G514"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 6 d",
       "codename": "GM6_d_sprout",
       "model": "GM 6 d"
@@ -198,6 +204,12 @@
       "market_name": "GM 9 Pro",
       "codename": "GM9PRO_sprout",
       "model": "GM 9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM Phoenix 5G d",
+      "codename": "G901",
+      "model": "G901"
     },
     {
       "manufacturer": "",

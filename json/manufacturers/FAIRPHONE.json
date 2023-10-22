@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fairphone 5 5G",
+      "codename": "FP5",
+      "model": "FP5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fairphone3",
       "codename": "FP3",
       "model": "FP3"

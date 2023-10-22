@@ -18,15 +18,33 @@
     "model": "Crown Mustang 4K Android TV"
   },
   {
+    "manufacturer": "EPIC",
+    "market_name": "Guatemala/Honduras",
+    "codename": "patrick",
+    "model": "EPIC Android TV"
+  },
+  {
     "manufacturer": "Kanji",
     "market_name": "ARGENTINA",
     "codename": "patrick",
     "model": "KANJI 4K Android TV"
   },
   {
+    "manufacturer": "Kioto",
+    "market_name": "CHILE",
+    "codename": "patrick",
+    "model": "KIOTO 4K Android TV"
+  },
+  {
     "manufacturer": "Tesla",
     "market_name": "South American",
     "codename": "patrick",
     "model": "Tesla 4K Android TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "Venezuela",
+    "codename": "patrick",
+    "model": "Tesla Android TV"
   }
 ]

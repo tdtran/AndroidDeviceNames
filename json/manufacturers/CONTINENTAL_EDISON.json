@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CDI SMART TV",
+      "codename": "marina",
+      "model": "CDI SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CDI SMART TV",
+      "codename": "nagata",
+      "model": "CDI SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CE10402",
       "codename": "CE10402",
       "model": "CE10402"
@@ -12,6 +24,30 @@
       "market_name": "Continental Edison",
       "codename": "yeongdeungpo",
       "model": "B UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ContinentalEdison 2K Android",
+      "codename": "lasalle",
+      "model": "ContinentalEdison 2K Android"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ContinentalEdison 2K Android",
+      "codename": "lasalle",
+      "model": "ContinentalEdison 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ContinentalEdison 4K Android",
+      "codename": "kenton",
+      "model": "ContinentalEdison 4K Android"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ContinentalEdison 4K Android",
+      "codename": "kenton",
+      "model": "ContinentalEdison 4K Android TV"
     },
     {
       "manufacturer": "",

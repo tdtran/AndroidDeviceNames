@@ -1,0 +1,17 @@
+{
+  "manufacturer": "GlobalSec",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BW819E_CR",
+      "codename": "BW819E_CR_EEA",
+      "model": "BW819E_CR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BW819E_SK",
+      "codename": "BW819E_SK_EEA",
+      "model": "BW819E_SK"
+    }
+  ]
+}

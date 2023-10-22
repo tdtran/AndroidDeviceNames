@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ocean K8",
+      "codename": "Ocean_K8",
+      "model": "Ocean K8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ocean_F8",
+      "codename": "Ocean_F8",
+      "model": "Ocean F8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q101_EEA",
       "codename": "Q101_EEA",
       "model": "Q101_EEA"

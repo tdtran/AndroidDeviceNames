@@ -1233,6 +1233,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "5G UG Phone U23",
+      "codename": "P720F02",
+      "model": "5G UG Phone U23"
+    },
+    {
+      "manufacturer": "",
       "market_name": "901ZT",
       "codename": "P450A01",
       "model": "901ZT"
@@ -4584,6 +4590,12 @@
       "market_name": "NOS NOVU III",
       "codename": "P637F10",
       "model": "NOS NOVU III"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NP01J",
+      "codename": "P898P02",
+      "model": "NP01J"
     },
     {
       "manufacturer": "",
@@ -8097,6 +8109,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE 7060",
+      "codename": "P606F07",
+      "model": "ZTE 7060"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE 7160N",
       "codename": "P720F02",
       "model": "ZTE 7160N"
@@ -8199,6 +8217,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE 8050",
+      "codename": "P606F08",
+      "model": "ZTE 8050"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE 8140N",
       "codename": "P633F10",
       "model": "ZTE 8140N"
@@ -8262,6 +8286,12 @@
       "market_name": "ZTE 9047",
       "codename": "P618F08",
       "model": "ZTE 9047"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE 9050N",
+      "codename": "P720F05",
+      "model": "ZTE 9050N"
     },
     {
       "manufacturer": "",
@@ -8430,6 +8460,12 @@
       "market_name": "ZTE A520S",
       "codename": "P809S10",
       "model": "ZTE A520S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A53",
+      "codename": "P963F62",
+      "model": "ZTE A53"
     },
     {
       "manufacturer": "",
@@ -9045,6 +9081,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade A33s",
+      "codename": "P963F93",
+      "model": "ZTE Blade A33s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade A3v",
       "codename": "Z5157",
       "model": "Z5157V"
@@ -9255,6 +9297,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade A72s",
+      "codename": "P606F05",
+      "model": "ZTE A7050"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade A7s",
       "codename": "P662F02",
       "model": "ZTE Blade A7s"
@@ -9402,6 +9450,24 @@
       "market_name": "ZTE Blade V2020 Vita",
       "codename": "P671F70",
       "model": "ZTE 8000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V41 Smart",
+      "codename": "P606F05",
+      "model": "ZTE A7050"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V50 Design 5G",
+      "codename": "P720F03",
+      "model": "ZTE 8150N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V50 Vita",
+      "codename": "P606F09",
+      "model": "ZTE 8550"
     },
     {
       "manufacturer": "",
@@ -9723,6 +9789,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nubia Neo 5G",
+      "codename": "P720F03_A",
+      "model": "nubia 8150N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nubia Pad 3D",
       "codename": "LumePad",
       "model": "LPD-20W"
@@ -9744,6 +9816,12 @@
       "market_name": "nubia Z50 Ultra",
       "codename": "PQ82A11",
       "model": "NX712J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Z50S Pro",
+      "codename": "PQ82A02",
+      "model": "NX713J"
     },
     {
       "manufacturer": "",

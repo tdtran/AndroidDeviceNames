@@ -27,9 +27,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A15",
+      "codename": "S6512LA",
+      "model": "S6512L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A19L",
       "codename": "S6303LA_Go",
       "model": "S6303L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A23 Plus",
+      "codename": "S6304LA",
+      "model": "S6304L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A25",
+      "codename": "S6703LA",
+      "model": "S6703L"
     },
     {
       "manufacturer": "",
@@ -186,6 +204,12 @@
       "market_name": "N5L",
       "codename": "N5L",
       "model": "N5L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N6001L",
+      "codename": "N6001LA",
+      "model": "N6001L"
     },
     {
       "manufacturer": "",

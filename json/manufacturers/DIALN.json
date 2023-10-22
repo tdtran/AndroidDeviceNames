@@ -3,6 +3,72 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G10",
+      "codename": "G10",
+      "model": "G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G65",
+      "codename": "G65",
+      "model": "G65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neo",
+      "codename": "NeoA",
+      "model": "Neo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8",
+      "codename": "S8",
+      "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10G",
+      "codename": "X10G",
+      "model": "X10G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10ULTRA",
+      "codename": "X10ULTRA",
+      "model": "X10ULTRA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X62",
+      "codename": "X62",
+      "model": "X62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X62",
+      "codename": "X62A",
+      "model": "X62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X65",
+      "codename": "X65",
+      "model": "X65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X65",
+      "codename": "X65A",
+      "model": "X65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8G",
+      "codename": "X8G",
+      "model": "X8G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X8PRO",
       "codename": "X8PRO",
       "model": "X8 PRO"

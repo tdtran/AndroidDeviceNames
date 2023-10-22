@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUA MatrixTV CE",
+      "codename": "deto",
+      "model": "AQUA MatrixTV CE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUA android TV",
       "codename": "hanyang",
       "model": "AQUA Android TV"

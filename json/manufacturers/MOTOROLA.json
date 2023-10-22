@@ -959,6 +959,12 @@
       "manufacturer": "",
       "market_name": "MOTOROLA",
       "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOROLA",
+      "codename": "stanford",
       "model": "Smart FHD TV"
     },
     {
@@ -2062,6 +2068,36 @@
     {
       "manufacturer": "",
       "market_name": "Motorola",
+      "codename": "hongkong",
+      "model": "MOTOROLA GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Motorola",
+      "codename": "hongkong",
+      "model": "MOTOROLA GOOGLE TV 4K ATSC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Motorola",
+      "codename": "lavender",
+      "model": "MOTOROLA GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Motorola",
+      "codename": "mountbaker",
+      "model": "MOTOROLA GOOGLE TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Motorola",
+      "codename": "mountbaker",
+      "model": "MOTOROLA GOOGLE TV NA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Motorola",
       "codename": "stanford",
       "model": "CSV2K"
     },
@@ -2082,6 +2118,12 @@
       "market_name": "Motorola Defy",
       "codename": "bathena",
       "model": "Motorola Defy"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Motorola Defy 2",
+      "codename": "BM2S1E",
+      "model": "Defy 2"
     },
     {
       "manufacturer": "",
@@ -2511,6 +2553,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto e22",
+      "codename": "borag",
+      "model": "moto"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e22",
+      "codename": "borag",
+      "model": "moto e22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e22i",
+      "codename": "borago",
+      "model": "moto"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e22i",
+      "codename": "borago",
+      "model": "moto e22i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto e30",
       "codename": "cyprus",
       "model": "cyprus"
@@ -2889,6 +2955,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g stylus 5G - 2023",
+      "codename": "genevn",
+      "model": "moto g stylus 5G - 2023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g stylus 5G - 2023",
+      "codename": "genevn",
+      "model": "moto g stylus 5g"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g(10)",
       "codename": "capri",
       "model": "moto e(7) plus"
@@ -3237,6 +3315,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g14",
+      "codename": "cancun",
+      "model": "cancun"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g14",
+      "codename": "cancun",
+      "model": "moto g14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g200 5G",
       "codename": "xpeng",
       "model": "moto g200 5G"
@@ -3399,6 +3489,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g53y 5G",
+      "codename": "penang",
+      "model": "moto g53y 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g54 5G",
+      "codename": "cancunf",
+      "model": "moto g54 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g54 5G",
+      "codename": "cancunf",
+      "model": "moto g73 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g6 play",
       "codename": "jeter",
       "model": "Moto G Play"
@@ -3420,6 +3528,18 @@
       "market_name": "moto g62 5G",
       "codename": "rhodec",
       "model": "moto g62 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g62 5G",
+      "codename": "rhodei",
+      "model": "moto g62 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g62 5G",
+      "codename": "rhodei",
+      "model": "moto g71 5G"
     },
     {
       "manufacturer": "",
@@ -3528,6 +3648,12 @@
       "market_name": "moto z4",
       "codename": "foles",
       "model": "moto z4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola defy x",
+      "codename": "BM2S1E",
+      "model": "motorola defy x"
     },
     {
       "manufacturer": "",
@@ -3918,6 +4044,18 @@
       "market_name": "motorola razr 2022",
       "codename": "oneli",
       "model": "motorola razr 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 2023",
+      "codename": "lynkco",
+      "model": "motorola razr 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 2023",
+      "codename": "lynkco",
+      "model": "motorola razr 2023"
     },
     {
       "manufacturer": "",

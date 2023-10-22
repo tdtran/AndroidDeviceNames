@@ -2403,6 +2403,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC A103 Plus",
+      "codename": "HTC_A103_Plus",
+      "model": "HTC A103 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC A104",
+      "codename": "HTC_A104",
+      "model": "HTC A104"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC A105 Plus",
+      "codename": "HTC_A105_Plus",
+      "model": "HTC A105 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC Desire 19s",
       "codename": "htc_zddugl",
       "model": "2Q8L10000"
@@ -2604,6 +2622,12 @@
       "market_name": "HTC U19e",
       "codename": "htc_tetdugl",
       "model": "HTC 2Q7A100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC U23",
+      "codename": "htc_twrdugls",
+      "model": "HTC U23"
     },
     {
       "manufacturer": "",

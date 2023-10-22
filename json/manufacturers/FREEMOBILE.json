@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Freemobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FS500",
+      "codename": "FS500",
+      "model": "FS500"
+    }
+  ]
+}

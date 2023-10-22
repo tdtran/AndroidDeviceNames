@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Airtel Imagine",
+      "codename": "H5032U",
+      "model": "Airtel Imagine"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Altice E55",
       "codename": "E55",
       "model": "E55"
@@ -112,6 +118,12 @@
     {
       "manufacturer": "",
       "market_name": "Kicka 5 Plus 4G",
+      "codename": "H5032U",
+      "model": "Kicka 5 Plus 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kicka 5 Plus 4G",
       "codename": "K5P_4G",
       "model": "Kicka 5 Plus 4G"
     },
@@ -186,6 +198,12 @@
       "market_name": "MobiWire Kosumi",
       "codename": "Kosumi",
       "model": "Kosumi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ONE",
+      "codename": "H5032U",
+      "model": "ONE"
     },
     {
       "manufacturer": "",
@@ -264,6 +282,12 @@
       "market_name": "Smart N12",
       "codename": "Smart_N12",
       "model": "SmartN12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart P24",
+      "codename": "Smart_P24",
+      "model": "Smart_P24"
     },
     {
       "manufacturer": "",

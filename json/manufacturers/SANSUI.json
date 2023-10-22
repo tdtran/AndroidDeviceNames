@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Apollo Premium2K TV",
+      "codename": "nagata",
+      "model": "Apollo Premium2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Apollo Premium4K TV",
+      "codename": "marina",
+      "model": "Apollo Premium4K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ETAB M9021G",
       "codename": "ETAB_M9021G",
       "model": "ETAB_M9021G"
@@ -48,12 +60,6 @@
       "market_name": "Nitro",
       "codename": "Nitro",
       "model": "Nitro"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "North American",
-      "codename": "marina",
-      "model": "Apollo Premium4K TV"
     },
     {
       "manufacturer": "",

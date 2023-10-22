@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A2S905X4",
+      "codename": "A2_S905X4",
+      "model": "A2S905X4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N97_A1B_72115",
       "codename": "A1B_72115",
       "model": "N97_A1B_72115"

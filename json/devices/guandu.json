@@ -42,6 +42,12 @@
     "model": "Nano Android TV"
   },
   {
+    "manufacturer": "Profilo",
+    "market_name": "Turkey",
+    "codename": "guandu",
+    "model": "Profilo 4K Android TV"
+  },
+  {
     "manufacturer": "QBell",
     "market_name": "Italy",
     "codename": "guandu",
@@ -76,6 +82,12 @@
     "market_name": "Europe",
     "codename": "guandu",
     "model": "Tesla Android TV"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "Europe",
+    "codename": "guandu",
+    "model": "Thomson TV"
   },
   {
     "manufacturer": "Turbo-X",

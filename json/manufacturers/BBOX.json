@@ -1,0 +1,11 @@
+{
+  "manufacturer": "bbox",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "bbox",
+      "codename": "bbox-M752A",
+      "model": "bbox-M752A"
+    }
+  ]
+}

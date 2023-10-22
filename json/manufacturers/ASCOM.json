@@ -36,6 +36,42 @@
       "market_name": "Ascom Myco 3",
       "codename": "ADAA",
       "model": "Ascom Myco 3 DECT Wi-Fi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ascom Myco 4",
+      "codename": "SH4-1",
+      "model": "Myco 4 Cellular Wi-Fi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ascom Myco 4",
+      "codename": "SH4-1",
+      "model": "Myco 4 Cellular Wi-Fi EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ascom Myco 4",
+      "codename": "SH4-2",
+      "model": "Myco 4 Slim"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ascom Myco 4",
+      "codename": "SH4-2",
+      "model": "Myco 4 Slim EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ascom Myco 4",
+      "codename": "SH4-2",
+      "model": "Myco 4 Wi-Fi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ascom Myco 4",
+      "codename": "SH4-2",
+      "model": "Myco 4 Wi-Fi EEA"
     }
   ]
 }

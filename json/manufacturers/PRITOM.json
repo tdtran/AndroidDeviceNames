@@ -147,6 +147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L8_B02",
+      "codename": "L8_B02",
+      "model": "L8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8_B02_EEA",
+      "codename": "L8_B02_EEA",
+      "model": "L8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L8_EEA",
       "codename": "L8_EEA",
       "model": "L8_EEA"

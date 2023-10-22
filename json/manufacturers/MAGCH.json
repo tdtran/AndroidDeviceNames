@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M220",
+      "codename": "M220",
+      "model": "M220"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M310-EEA",
       "codename": "M310-EEA",
       "model": "M310-EEA"
@@ -24,6 +30,12 @@
       "market_name": "M321-EEA",
       "codename": "M321-EEA",
       "model": "M321-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M520",
+      "codename": "M520",
+      "model": "M520"
     },
     {
       "manufacturer": "",
@@ -48,6 +60,12 @@
       "market_name": "M821-EEA",
       "codename": "M821-EEA",
       "model": "M821-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M910",
+      "codename": "M910",
+      "model": "M910"
     },
     {
       "manufacturer": "",

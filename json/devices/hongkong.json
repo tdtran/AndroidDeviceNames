@@ -1,5 +1,101 @@
 [
   {
+    "manufacturer": "Aiwa",
+    "market_name": "Aiwa",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BLAUPUNKT",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BLAUPUNKT",
+    "codename": "hongkong",
+    "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "DIJITSU",
+    "market_name": "DIJITSU",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Electroman",
+    "market_name": "Electroman",
+    "codename": "hongkong",
+    "model": "Smart UHD TV"
+  },
+  {
+    "manufacturer": "Element",
+    "market_name": "ELEMENT",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Indurama",
+    "market_name": "Indurama",
+    "codename": "hongkong",
+    "model": "INDURAMA GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "hongkong",
+    "model": "JVC 4K ATSC TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "hongkong",
+    "model": "JVC 4K DVB TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "hongkong",
+    "model": "JVC 4K ISDB TV"
+  },
+  {
+    "manufacturer": "Jam",
+    "market_name": "JAM",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ASAANO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "CHIMEI",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DANILUX",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DIGGIO",
+    "codename": "hongkong",
+    "model": "DIGGIO GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ESLEY",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "KTCtv",
     "market_name": "EcoTV Plus A",
     "codename": "hongkong",
@@ -19,8 +115,164 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "FPS",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "Global",
+    "codename": "hongkong",
+    "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "INNOVA",
+    "codename": "hongkong",
+    "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "NAKAMICHI",
+    "codename": "hongkong",
+    "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "PHIMARK",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "POWEROLOGY",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "QRIOM",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "REYNA",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "SA",
     "codename": "hongkong",
     "model": "EcoTV Plus"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "VOXELECTRONICS",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "XELL",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "YARA",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Kenwood",
+    "market_name": "Kenwood",
+    "codename": "hongkong",
+    "model": "KENWOOD ATSC 4K TV"
+  },
+  {
+    "manufacturer": "Kenwood",
+    "market_name": "Kenwood",
+    "codename": "hongkong",
+    "model": "KENWOOD DVB 4K TV"
+  },
+  {
+    "manufacturer": "Kenwood",
+    "market_name": "Kenwood",
+    "codename": "hongkong",
+    "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+    "manufacturer": "LUCOMS",
+    "market_name": "LUCMOS",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Mango",
+    "market_name": "MANGO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Master-G",
+    "market_name": "Master-G",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Motorola",
+    "codename": "hongkong",
+    "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Motorola",
+    "codename": "hongkong",
+    "model": "MOTOROLA GOOGLE TV 4K ATSC"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Rangs",
+    "market_name": "RANGS",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Royal-rahmani",
+    "market_name": "ROYALRAHMANI",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Samview",
+    "market_name": "SAMVIEW",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Silo",
+    "market_name": "SILO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Siragon",
+    "market_name": "Siragon",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "THEHAM",
+    "market_name": "THEHAM",
+    "codename": "hongkong",
+    "model": "Smart UHD TV"
   }
 ]

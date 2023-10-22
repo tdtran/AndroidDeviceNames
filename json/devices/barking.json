@@ -18,10 +18,28 @@
     "model": "itel Android TV"
   },
   {
+    "manufacturer": "Miramage",
+    "market_name": "MTJ-X43FLS",
+    "codename": "barking",
+    "model": "Miramage Smart Display"
+  },
+  {
+    "manufacturer": "Miramage",
+    "market_name": "TV5023UHDA11SMARTG",
+    "codename": "barking",
+    "model": "Miramage AndroidTV"
+  },
+  {
     "manufacturer": "Sceptre",
     "market_name": "A557CV-UMRBX",
     "codename": "barking",
     "model": "SCEPTRE AndroidTV"
+  },
+  {
+    "manufacturer": "Seleco",
+    "market_name": "Seleco 4K Smart TV",
+    "codename": "barking",
+    "model": "Seleco AndroidTV"
   },
   {
     "manufacturer": "Syinix",
@@ -34,5 +52,11 @@
     "market_name": "S55WD01",
     "codename": "barking",
     "model": "iSTAR AndroidTV"
+  },
+  {
+    "manufacturer": "jAC-EG",
+    "market_name": "55JB832",
+    "codename": "barking",
+    "model": "jAC AndroidTV"
   }
 ]

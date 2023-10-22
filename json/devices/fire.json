@@ -24,6 +24,24 @@
     "model": "Fire"
   },
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12",
+    "codename": "fire",
+    "model": "23053RN02A"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12",
+    "codename": "fire",
+    "model": "23053RN02I"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12",
+    "codename": "fire",
+    "model": "23053RN02L"
+  },
+  {
     "manufacturer": "Tech 4u",
     "market_name": "Fire",
     "codename": "Fire",

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SXPRO",
+      "codename": "SXPRO",
+      "model": "SXPRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SXPRO_classic",
       "codename": "SXPRO_classic",
       "model": "SXPRO_classic"

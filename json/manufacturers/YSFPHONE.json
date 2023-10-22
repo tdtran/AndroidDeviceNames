@@ -1,0 +1,11 @@
+{
+  "manufacturer": "YSFPHONE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Rugged tablet",
+      "codename": "Rugged_tablet",
+      "model": "Rugged_tablet"
+    }
+  ]
+}

@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO F5",
+      "codename": "marblein",
+      "model": "23049PCD8I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi  7A",
       "codename": "pine",
       "model": "Redmi 7A"
@@ -210,6 +216,48 @@
       "market_name": "Redmi 11 Prime 5G",
       "codename": "light",
       "model": "22041219I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12",
+      "codename": "fire",
+      "model": "23053RN02A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12",
+      "codename": "fire",
+      "model": "23053RN02I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12",
+      "codename": "fire",
+      "model": "23053RN02L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12",
+      "codename": "heat",
+      "model": "23053RN02Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12 5G",
+      "codename": "XIG03",
+      "model": "XIG03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12 5G",
+      "codename": "river",
+      "model": "23076RA4BR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 12 5G",
+      "codename": "river",
+      "model": "23076RN8DY"
     },
     {
       "manufacturer": "",
@@ -597,6 +645,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi K60 Ultra",
+      "codename": "corot",
+      "model": "23078RKD5C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi K60E",
       "codename": "rembrandt",
       "model": "22122RK93C"
@@ -744,6 +798,12 @@
       "market_name": "Redmi Note 11 Pro",
       "codename": "pissarro",
       "model": "21091116C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 11 Pro",
+      "codename": "vida",
+      "model": "2201116TI"
     },
     {
       "manufacturer": "",
@@ -939,6 +999,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 12 Turbo",
+      "codename": "marble",
+      "model": "23049RAD8C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 12S",
       "codename": "ocean",
       "model": "2303CRA44A"
@@ -960,6 +1026,30 @@
       "market_name": "Redmi Note 12T Pro",
       "codename": "pearl",
       "model": "23054RA19C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 5G",
+      "codename": "gold",
+      "model": "2312DRAABC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro",
+      "codename": "garnet",
+      "model": "2312CRAD3C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro",
+      "codename": "garnet",
+      "model": "2312DRA50C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro+",
+      "codename": "zircon",
+      "model": "23090RA98C"
     },
     {
       "manufacturer": "",
@@ -1116,6 +1206,18 @@
       "market_name": "Redmi Pad",
       "codename": "yunluo",
       "model": "22081283G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad SE",
+      "codename": "xun",
+      "model": "23073RPBFG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad SE",
+      "codename": "xun",
+      "model": "23073RPBFL"
     },
     {
       "manufacturer": "",

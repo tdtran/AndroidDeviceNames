@@ -39,6 +39,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ASTRO_10",
+      "codename": "MX-A10WW",
+      "model": "MX-A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO_10_1",
+      "codename": "MX-AA10WW01",
+      "model": "MX-A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASTRO_8",
+      "codename": "MX-AA8WW01",
+      "model": "MX-A8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ASTRO_8R",
       "codename": "MX-A80RWW",
       "model": "MX-A8R"
@@ -66,6 +84,12 @@
       "market_name": "Astro 4R",
       "codename": "Astro_4R",
       "model": "Astro 4R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro 4T",
+      "codename": "Astro_4T",
+      "model": "Astro 4T"
     },
     {
       "manufacturer": "",
@@ -216,6 +240,12 @@
       "market_name": "MAX_TAB_7",
       "codename": "MAX_TAB_7",
       "model": "MAX_TAB_7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MX-A4R",
+      "codename": "MX-A4R",
+      "model": "MX-A4R"
     },
     {
       "manufacturer": "",

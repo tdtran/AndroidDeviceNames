@@ -75,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "umeda",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV 4K",
+      "codename": "SW6H",
+      "model": "Smart TV 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T7A6INC",
       "codename": "T7A6INC",
       "model": "T7A6INC"

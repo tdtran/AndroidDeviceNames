@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO C51",
+      "codename": "water",
+      "model": "2305EPCC4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO C55",
       "codename": "earth",
       "model": "22127PC95I"
@@ -66,6 +72,18 @@
       "market_name": "POCO F4 GT",
       "codename": "ingres",
       "model": "21121210G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO F5",
+      "codename": "marble",
+      "model": "23049PCD8G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO F5",
+      "codename": "marble",
+      "model": "23049PCD8I"
     },
     {
       "manufacturer": "",

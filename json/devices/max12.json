@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "PAWBO",
+    "market_name": "Max12",
+    "codename": "Max12",
+    "model": "Max12"
+  },
+  {
     "manufacturer": "iBRIT",
     "market_name": "MAX12",
     "codename": "MAX12",

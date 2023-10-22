@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Maxsonic Elite",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Maxsonic_elite",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Maxsonic_elite",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

@@ -10,8 +10,26 @@
     {
       "manufacturer": "",
       "market_name": "ELEXIA",
+      "codename": "bruno",
+      "model": "ELEXIA2KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELEXIA",
+      "codename": "expo",
+      "model": "4K ELEXIA Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELEXIA",
       "codename": "komagome",
       "model": "ELEXIA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELEXIA",
+      "codename": "tennoji",
+      "model": "2K ELEXIA Google TV"
     }
   ]
 }

@@ -6,6 +6,12 @@
       "market_name": "G200",
       "codename": "G200",
       "model": "G200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GDL Xtreme6",
+      "codename": "Xtreme_6",
+      "model": "Xtreme 6"
     }
   ]
 }

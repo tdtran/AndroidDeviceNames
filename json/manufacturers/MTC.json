@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ANAM",
+      "codename": "shilin",
+      "model": "ANAM4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ANDRINO",
+      "codename": "shilin",
+      "model": "andrino 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DWSUMMUS",
+      "codename": "shilin",
+      "model": "DWSUMMUS4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ENTV",
       "codename": "seocho",
       "model": "ENTV 4K Android TV"
@@ -21,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GRANZ",
+      "codename": "shilin",
+      "model": "GRANZ4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hansung",
       "codename": "seocho",
       "model": "Hansung 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hansung",
+      "codename": "shilin",
+      "model": "Hansung4KAndroidTV"
     },
     {
       "manufacturer": "",
@@ -39,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "shilin",
+      "model": "JVC US 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KIVI",
       "codename": "shilin",
       "model": "KIVI 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KLEINZ",
+      "codename": "shilin",
+      "model": "KLEINZ4KAndroidTV"
     },
     {
       "manufacturer": "",
@@ -99,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Sansui",
+      "codename": "shilin",
+      "model": "SANSUI4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartEver",
       "codename": "seocho",
       "model": "SmartEver 4K Android TV"
@@ -117,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tesla",
+      "codename": "shilin",
+      "model": "Tesla4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VINCENT",
       "codename": "bruno",
       "model": "VINCENT 2K Android TV"
@@ -132,6 +186,12 @@
       "market_name": "Vodafone Smart mini",
       "codename": "Vodafone_875",
       "model": "MTC 970H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WasabiMango",
+      "codename": "shilin",
+      "model": "WasabiMango4KAndroidTV"
     },
     {
       "manufacturer": "",

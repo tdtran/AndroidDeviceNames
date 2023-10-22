@@ -12,6 +12,18 @@
       "market_name": "EUTB_758_Argos",
       "codename": "EUTB_758_Argos",
       "model": "EUTB-758 TABI Argos"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TGO_TB1001_2R",
+      "codename": "TGO_TB1001_2R",
+      "model": "TGO_TB1001_2R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TGO_TB1001_4R",
+      "codename": "TGO_TB1001_4R",
+      "model": "TGO_TB1001_4R"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Clevertouch",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IMPACT Lux",
+      "codename": "rk3588_t",
+      "model": "Impact_Lux_Display"
+    }
+  ]
+}

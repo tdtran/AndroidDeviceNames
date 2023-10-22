@@ -1,0 +1,17 @@
+{
+  "manufacturer": "VOXelectronics",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VOXelectronics 2K Android TV",
+      "codename": "lasalle",
+      "model": "VOXelectronics 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOXelectronics 4K Android TV",
+      "codename": "kenton",
+      "model": "VOXelectronics 4K Android TV"
+    }
+  ]
+}

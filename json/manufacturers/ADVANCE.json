@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP5736",
+      "codename": "SP5736",
+      "model": "SP5736"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP5760",
       "codename": "SP5760",
       "model": "SP5760"
@@ -246,6 +252,12 @@
       "market_name": "SP7248",
       "codename": "SP7248",
       "model": "SP7248"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP7348",
+      "codename": "SP7348",
+      "model": "SP7348"
     },
     {
       "manufacturer": "",

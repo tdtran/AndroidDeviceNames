@@ -1,0 +1,17 @@
+{
+  "manufacturer": "sky HCN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KSTB1157",
+      "codename": "K1100UA",
+      "model": "KSTB1157"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "skyhcn Android UHD STB",
+      "codename": "IMT-H6300",
+      "model": "IMT-H6300"
+    }
+  ]
+}

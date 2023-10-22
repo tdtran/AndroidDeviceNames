@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "longshan",
+      "model": "ERGOGS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B502 Basic",
       "codename": "B502_Basic",
       "model": "B502 Basic"
@@ -84,6 +90,12 @@
       "market_name": "GHS55",
       "codename": "redwood",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GHS55",
+      "codename": "redwood",
+      "model": "ERGOGS"
     },
     {
       "manufacturer": "",

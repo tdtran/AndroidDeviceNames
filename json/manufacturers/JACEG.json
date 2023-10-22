@@ -1,0 +1,17 @@
+{
+  "manufacturer": "jAC-EG",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "43JB822",
+      "codename": "beaudry",
+      "model": "jAC AndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "55JB832",
+      "codename": "barking",
+      "model": "jAC AndroidTV"
+    }
+  ]
+}

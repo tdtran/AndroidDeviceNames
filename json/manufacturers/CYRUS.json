@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CS45XA",
+      "codename": "CS45XA2",
+      "model": "CS45XA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS45XA_EEA",
       "codename": "CS45XA2",
       "model": "CS45XA_EEA"

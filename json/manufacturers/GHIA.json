@@ -57,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GA8N",
+      "codename": "GA8N",
+      "model": "GA8N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA",
       "codename": "stanford",
       "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GHIA",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -96,6 +108,12 @@
       "market_name": "GHIA_VECTOR_3G",
       "codename": "GHIA_VECTOR_3G",
       "model": "GHIA_VECTOR_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133",
+      "codename": "GK133",
+      "model": "GK133"
     },
     {
       "manufacturer": "",
@@ -204,6 +222,12 @@
       "market_name": "GVP133",
       "codename": "GVP133",
       "model": "GVP133"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GVPNT",
+      "codename": "GVPNT",
+      "model": "GVPNT"
     },
     {
       "manufacturer": "",

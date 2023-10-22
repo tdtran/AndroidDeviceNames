@@ -4,5 +4,11 @@
     "market_name": "X650",
     "codename": "X650",
     "model": "X650"
+  },
+  {
+    "manufacturer": "EPIKONE",
+    "market_name": "X650_tigo",
+    "codename": "X650",
+    "model": "X650"
   }
 ]

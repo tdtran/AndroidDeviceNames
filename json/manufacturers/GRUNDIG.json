@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grundig Google TV UHD+",
+      "codename": "wanchai",
+      "model": "Grundig Google TV UHD+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grundig UHD Android TV",
       "codename": "kunyang",
       "model": "Grundig Android UHD TV"

@@ -231,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB R6 Ultra",
+      "codename": "TAB_R6_Ultra",
+      "model": "TAB R6 Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Venus",
       "codename": "Venus",
       "model": "Venus"

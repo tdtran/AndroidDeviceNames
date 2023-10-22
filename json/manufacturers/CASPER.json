@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA M35",
+      "codename": "VIA_M35",
+      "model": "VIA M35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA P3",
       "codename": "VIA_P3",
       "model": "VIA_P3"
@@ -192,6 +198,12 @@
       "market_name": "VIA X30",
       "codename": "VIA_X30",
       "model": "VIA X30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA X30 Plus",
+      "codename": "VIA_X30_Plus",
+      "model": "VIA X30 Plus"
     },
     {
       "manufacturer": "",

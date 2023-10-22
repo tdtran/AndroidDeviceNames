@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\u0027Aligator_S5550",
+      "codename": "Aligator_S5550",
+      "model": "Aligator_S5550"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALIGATOR RX800",
       "codename": "ALIGATOR_RX800",
       "model": "ALIGATOR RX800"
@@ -78,6 +84,12 @@
       "market_name": "RX700",
       "codename": "RX700",
       "model": "RX700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX850",
+      "codename": "RX850",
+      "model": "ALIGATOR RX850"
     },
     {
       "manufacturer": "",

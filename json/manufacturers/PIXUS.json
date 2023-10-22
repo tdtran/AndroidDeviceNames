@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PixusJoker",
+      "codename": "PixusJoker",
+      "model": "PixusJoker"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixus_Blast",
       "codename": "Pixus_Blast",
       "model": "Pixus_Blast"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixus_Drive",
+      "codename": "Pixus_Drive",
+      "model": "Pixus_Drive"
     },
     {
       "manufacturer": "",

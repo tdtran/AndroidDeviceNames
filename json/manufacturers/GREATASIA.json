@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E700_Kids_EEA",
+      "codename": "E700_Kids_EEA",
+      "model": "E700_Kids_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E720_EEA",
+      "codename": "E720_EEA",
+      "model": "E720_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E9863",
       "codename": "E9863",
       "model": "E9863"

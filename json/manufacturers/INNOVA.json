@@ -1,0 +1,29 @@
+{
+  "manufacturer": "INNOVA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA 2K Android TV",
+      "codename": "lasalle",
+      "model": "INNOVA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA 2K Google TV",
+      "codename": "capitolhill",
+      "model": "INNOVA 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA 4K Android TV",
+      "codename": "kenton",
+      "model": "INNOVA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA 4K Google TV",
+      "codename": "keoneae",
+      "model": "INNOVA 4K Google TV"
+    }
+  ]
+}

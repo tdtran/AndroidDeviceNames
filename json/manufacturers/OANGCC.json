@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A13_EEA",
+      "codename": "A13_EEA",
+      "model": "A13_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13_US",
+      "codename": "A13_US",
+      "model": "A13_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9_EEA",
       "codename": "A9_EEA",
       "model": "A9_EEA"

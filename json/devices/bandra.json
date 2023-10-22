@@ -6,9 +6,39 @@
     "model": "ASTEX Google TV"
   },
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt Google TV",
+    "codename": "bandra",
+    "model": "Blaupunkt Google TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO Google TV",
+    "codename": "bandra",
+    "model": "EKO Google TV"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "HK Google TV-A",
+    "codename": "bandra",
+    "model": "HK Google TV-A"
+  },
+  {
     "manufacturer": "KONKA",
     "market_name": "KONKA 4K OLED Google TV",
     "codename": "bandra",
     "model": "HK Google TV"
+  },
+  {
+    "manufacturer": "PROTON",
+    "market_name": "PROTON Google TV",
+    "codename": "bandra",
+    "model": "PROTON Google TV"
+  },
+  {
+    "manufacturer": "innos",
+    "market_name": "innos Google TV",
+    "codename": "bandra",
+    "model": "innos Google TV"
   }
 ]

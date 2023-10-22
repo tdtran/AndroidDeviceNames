@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S8",
+      "codename": "S8",
+      "model": "S8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB_A7_US",
       "codename": "TAB_A7_US",
       "model": "TAB_A7_US"

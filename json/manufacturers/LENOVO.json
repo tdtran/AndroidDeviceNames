@@ -801,6 +801,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A301LV",
+      "codename": "A301LV",
+      "model": "A301LV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A305E",
       "codename": "A305e",
       "model": "LNV-Lenovo A305e"
@@ -2073,6 +2079,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Legion Tab Y700",
+      "codename": "TB320FC",
+      "model": "TB320FC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Legion Y70",
       "codename": "halo",
       "model": "Lenovo L71091"
@@ -2811,6 +2823,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab Extreme",
+      "codename": "TB570ZU",
+      "model": "TB570ZU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab K10",
       "codename": "X6C6F",
       "model": "Lenovo TB-X6C6F"
@@ -2946,6 +2964,12 @@
       "market_name": "Lenovo Tab M10 (HD)",
       "codename": "TB-X505X",
       "model": "Lenovo TB-X505X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M10 5G",
+      "codename": "TB360ZU",
+      "model": "TB360ZU"
     },
     {
       "manufacturer": "",
@@ -3153,6 +3177,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M8 (4th Gen) 2024",
+      "codename": "TB301FU",
+      "model": "TB301FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M8 (4th Gen) 2024",
+      "codename": "TB301XU",
+      "model": "TB301XU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab M8 (4th gen)",
       "codename": "TB300FU",
       "model": "TB300FU"
@@ -3252,6 +3288,12 @@
       "market_name": "Lenovo Tab P11 Pro (2nd Gen)",
       "codename": "TB132FU",
       "model": "TB132FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab P12",
+      "codename": "TB370FU",
+      "model": "TB370FU"
     },
     {
       "manufacturer": "",
@@ -4053,6 +4095,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TB360ZJ",
+      "codename": "TB360ZJ",
+      "model": "TB360ZJ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB360ZU",
+      "codename": "TB360ZU",
+      "model": "TB360ZU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TBD",
       "codename": "kunlun2",
       "model": "Lenovo L38111"
@@ -4581,6 +4635,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "xiaoxin pad Pro 12.7",
+      "codename": "TB371FC",
+      "model": "TB371FC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "启天K10 Pro",
       "codename": "TB128FU",
       "model": "TB128FU"
@@ -4629,6 +4689,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "小新Pad Pro 12.7 (天玑版）",
+      "codename": "TB370FU",
+      "model": "TB370FU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "小新Pad Pro 2021",
       "codename": "J716F",
       "model": "Lenovo TB-J716F"
@@ -4647,6 +4713,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "小新学习平板",
+      "codename": "TB372FC",
+      "model": "TB372FC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "小新平板",
       "codename": "TB-8804F",
       "model": "Lenovo TB-8804F"
@@ -4656,6 +4728,18 @@
       "market_name": "小新平板",
       "codename": "X804F",
       "model": "Lenovo TB-X804F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "拯救者平板Y900",
+      "codename": "TB570FU",
+      "model": "TB570FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "拯救者平板Y900",
+      "codename": "TB570ZU",
+      "model": "TB570ZU"
     },
     {
       "manufacturer": "",
@@ -4704,6 +4788,12 @@
       "market_name": "联想平板电脑 启天K11 Gen2",
       "codename": "TB230XC",
       "model": "TB230XC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑 启天K12",
+      "codename": "TB240FC",
+      "model": "TB240FC"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT\u0026T Calypso® 4",
+      "codename": "U380AA",
+      "model": "U380AA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT\u0026T Maestro™ Plus",
       "codename": "v350u",
       "model": "V350U"
@@ -18,6 +24,12 @@
       "market_name": "AT\u0026T Motivate™ 2",
       "codename": "EA211002",
       "model": "EA211002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT\u0026T Propel™ 5G",
+      "codename": "U6080AA",
+      "model": "U6080AA"
     },
     {
       "manufacturer": "",

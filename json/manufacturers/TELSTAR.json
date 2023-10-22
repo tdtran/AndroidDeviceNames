@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TELSTAR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TELSTAR 2K Google TV",
+      "codename": "capitolhill",
+      "model": "TELSTAR 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TELSTAR 4K Google TV",
+      "codename": "keoneae",
+      "model": "TELSTAR 4K Google TV"
+    }
+  ]
+}

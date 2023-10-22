@@ -54,6 +54,12 @@
     "model": "IdeaPadA10"
   },
   {
+    "manufacturer": "SGIN",
+    "market_name": "A10",
+    "codename": "A10",
+    "model": "A10"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy A10",
     "codename": "a10",

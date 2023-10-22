@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X85",
+      "codename": "X85",
+      "model": "X85"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X8a",
       "codename": "X8a",
       "model": "X8a"

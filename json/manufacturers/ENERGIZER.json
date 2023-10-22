@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U506S",
+      "codename": "U506S",
+      "model": "U506S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U608S",
       "codename": "U608S",
       "model": "U608S"

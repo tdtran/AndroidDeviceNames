@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1 Hrvatska B866V2F02",
+      "codename": "A1_B866V2F02",
+      "model": "B866V2F02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1 Smart N9",
       "codename": "VFD720",
       "model": "VFD 720"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A1-Smart-Box-DV9161",
+      "codename": "DV9161-KBA",
+      "model": "A1-Smart-Box-DV9161"
     },
     {
       "manufacturer": "",

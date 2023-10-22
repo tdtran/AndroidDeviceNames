@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AS0623",
+      "codename": "BUZZ_4_Note",
+      "model": "BUZZ 4 Note"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BUZZ 3",
       "codename": "BUZZ_3",
       "model": "BUZZ 3"
@@ -18,6 +24,12 @@
       "market_name": "BUZZ 4",
       "codename": "BUZZ_4",
       "model": "BUZZ 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 4 Prime",
+      "codename": "BUZZ_4_Prime",
+      "model": "BUZZ 4 Prime"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,11 @@
     "market_name": "Optimus Pad",
     "codename": "v900",
     "model": "LG-V900"
+  },
+  {
+    "manufacturer": "TD Tech",
+    "market_name": "TD Tech V900",
+    "codename": "V900",
+    "model": "V900"
   }
 ]

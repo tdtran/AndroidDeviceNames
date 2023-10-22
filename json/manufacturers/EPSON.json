@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EH-LS650",
+      "codename": "sti6290d101",
+      "model": "projector"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EH-LS800",
       "codename": "sti6202d101",
       "model": "HA90"

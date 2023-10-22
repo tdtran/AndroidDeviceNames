@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M3PRO",
+      "codename": "M3PRO",
+      "model": "M3PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P1000",
       "codename": "P1000",
       "model": "P1000"
@@ -30,6 +36,12 @@
       "market_name": "X1",
       "codename": "X1",
       "model": "X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1_Pro",
+      "codename": "X1_Pro",
+      "model": "X1 Pro"
     }
   ]
 }

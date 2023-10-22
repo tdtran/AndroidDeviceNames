@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BUZZ 4Lite",
+      "codename": "BUZZ_4Lite",
+      "model": "BUZZ 4Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 4Pro",
+      "codename": "BUZZ_4Pro",
+      "model": "BUZZ 4Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BUZZ 4S",
       "codename": "BUZZ_4S",
       "model": "BUZZ 4S"

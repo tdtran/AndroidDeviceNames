@@ -12,6 +12,18 @@
       "market_name": "PROTON 4K Android",
       "codename": "kenton",
       "model": "PROTON 4K Android"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PROTON 4K Google TV",
+      "codename": "keoneae",
+      "model": "PROTON 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PROTON Google TV",
+      "codename": "bandra",
+      "model": "PROTON Google TV"
     }
   ]
 }

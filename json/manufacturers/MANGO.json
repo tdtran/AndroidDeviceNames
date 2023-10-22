@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MANGO",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mango",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mango_S5",
       "codename": "Mango_S5",
       "model": "Mango S5"

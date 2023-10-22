@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RK26",
+      "codename": "RK26",
+      "model": "RK26"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RK95",
       "codename": "RK95",
       "model": "RK95"

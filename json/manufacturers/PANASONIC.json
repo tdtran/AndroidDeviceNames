@@ -1485,6 +1485,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SPU-A05-SWG",
+      "codename": "SPU-A05-SWG",
+      "model": "SPU-A05-SWG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SV-ME1000",
       "codename": "K1",
       "model": "Panasonic SV-ME1000"
@@ -1584,6 +1590,12 @@
       "market_name": "TAB-A05-SA",
       "codename": "TAB-A05",
       "model": "TAB-A05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-A05-SA2",
+      "codename": "TAB-A05-SA2",
+      "model": "TAB-A05-SA2"
     },
     {
       "manufacturer": "",

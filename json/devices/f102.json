@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "FOSSiBOT",
+    "market_name": "F102",
+    "codename": "F102",
+    "model": "F102"
+  },
+  {
+    "manufacturer": "FOSSiBOT",
+    "market_name": "F102 ROW",
+    "codename": "F102",
+    "model": "F102"
+  },
+  {
     "manufacturer": "Innjoo",
     "market_name": "F102",
     "codename": "F102",

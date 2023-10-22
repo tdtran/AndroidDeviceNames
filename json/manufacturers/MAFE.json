@@ -42,6 +42,12 @@
       "market_name": "Z2",
       "codename": "Z2",
       "model": "Z2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z7",
+      "codename": "Z7",
+      "model": "Z7"
     }
   ]
 }

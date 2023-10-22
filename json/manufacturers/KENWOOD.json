@@ -6,6 +6,54 @@
       "market_name": "KWSA80K",
       "codename": "XP8800",
       "model": "KWSA80K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "hongkong",
+      "model": "KENWOOD ATSC 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "hongkong",
+      "model": "KENWOOD DVB 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "hongkong",
+      "model": "KENWOOD ISDB 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "lavender",
+      "model": "KENWOOD DVB 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "lavender",
+      "model": "KENWOOD ISDB 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "mountbaker",
+      "model": "KENWOOD ATSC 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "mountbaker",
+      "model": "KENWOOD DVB 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kenwood",
+      "codename": "mountbaker",
+      "model": "KENWOOD ISDB 2K TV"
     }
   ]
 }

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Oukitel",
+    "market_name": "S109_RU",
+    "codename": "S109",
+    "model": "WP22"
+  },
+  {
+    "manufacturer": "Oukitel",
     "market_name": "WP22",
     "codename": "S109",
     "model": "WP22"

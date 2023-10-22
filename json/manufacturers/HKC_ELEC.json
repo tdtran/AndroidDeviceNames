@@ -34,8 +34,32 @@
     {
       "manufacturer": "",
       "market_name": "Google TV",
+      "codename": "lakeside",
+      "model": "4K PA Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
+      "codename": "lakeside",
+      "model": "4K US Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
+      "codename": "nagai",
+      "model": "2K PA Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
       "codename": "nagai",
       "model": "2K SA Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
+      "codename": "nagai",
+      "model": "2K US Google TV"
     },
     {
       "manufacturer": "",

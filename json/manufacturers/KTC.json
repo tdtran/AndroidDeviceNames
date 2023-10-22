@@ -1,0 +1,23 @@
+{
+  "manufacturer": "KTC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EcoTVCOL",
+      "codename": "lavender",
+      "model": "EcoTV C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EcoTVDVB",
+      "codename": "lavender",
+      "model": "EcoTV D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EcoTVISDB",
+      "codename": "lavender",
+      "model": "EcoTV"
+    }
+  ]
+}

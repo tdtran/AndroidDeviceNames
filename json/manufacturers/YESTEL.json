@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T13_EEA",
+      "codename": "T13_EEA",
+      "model": "T13_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T13_US",
+      "codename": "T13_US",
+      "model": "T13_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T5",
       "codename": "T5",
       "model": "T5"
@@ -84,6 +96,18 @@
       "market_name": "X8_EEA",
       "codename": "X8_EEA",
       "model": "X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X9_EEA",
+      "codename": "X9_EEA",
+      "model": "X9_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X9_US",
+      "codename": "X9_US",
+      "model": "X9_US"
     }
   ]
 }

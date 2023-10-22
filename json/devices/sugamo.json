@@ -40,5 +40,11 @@
     "market_name": "Tecnomaster",
     "codename": "sugamo",
     "model": "Tecnomaster 2K Android TV"
+  },
+  {
+    "manufacturer": "truvii",
+    "market_name": "Truvii",
+    "codename": "sugamo",
+    "model": "Truvii 2K Android TV"
   }
 ]

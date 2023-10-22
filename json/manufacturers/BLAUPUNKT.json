@@ -64,6 +64,18 @@
     {
       "manufacturer": "",
       "market_name": "BLAUPUNKT",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAUPUNKT",
+      "codename": "hongkong",
+      "model": "BLAUPUNKT GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAUPUNKT",
       "codename": "stanford",
       "model": "CSV2K"
     },
@@ -105,6 +117,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BP_T6108X",
+      "codename": "BP_T6108X",
+      "model": "BP_T6108X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BP_T6110X",
+      "codename": "BP_T6110X",
+      "model": "BP_T6110X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blaupunk",
       "codename": "stanford",
       "model": "Blaupunkt 2K Android TV"
@@ -124,8 +148,38 @@
     {
       "manufacturer": "",
       "market_name": "Blaupunkt",
+      "codename": "expo",
+      "model": "4K Blaupunkt Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "kaitak",
+      "model": "Blaupunkt Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
       "codename": "komagome",
       "model": "BLAUPUNKT 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "lavender",
+      "model": "BLAUPUNKT GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "mountbaker",
+      "model": "BLAUPUNKT GOOGLE TV"
     },
     {
       "manufacturer": "",
@@ -142,6 +196,12 @@
     {
       "manufacturer": "",
       "market_name": "Blaupunkt",
+      "codename": "tennoji",
+      "model": "2K Blaupunkt Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
       "codename": "zhongshan",
       "model": "Blaupunkt 4K Android TV"
     },
@@ -150,6 +210,12 @@
       "market_name": "Blaupunkt 4K Google TV",
       "codename": "keoneae",
       "model": "Blaupunkt 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt Google TV",
+      "codename": "bandra",
+      "model": "Blaupunkt Google TV"
     },
     {
       "manufacturer": "",
@@ -244,6 +310,12 @@
     {
       "manufacturer": "",
       "market_name": "Europe",
+      "codename": "marina",
+      "model": "Blaupunkt Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
       "codename": "martin",
       "model": "BLAUPUNKT EU 2K Android TV"
     },
@@ -252,6 +324,12 @@
       "market_name": "Europe",
       "codename": "martin",
       "model": "BLAUPUNKT EU 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "nagata",
+      "model": "Blaupunkt Smart TV"
     },
     {
       "manufacturer": "",

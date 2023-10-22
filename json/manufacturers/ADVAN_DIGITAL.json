@@ -333,6 +333,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XTAB",
+      "codename": "ADVAN_XTAB",
+      "model": "8004"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i10",
       "codename": "i10",
       "model": "i10"

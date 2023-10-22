@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AS5",
+      "codename": "AS5",
+      "model": "AS5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS57",
+      "codename": "AS57",
+      "model": "AS57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS6",
       "codename": "AS6",
       "model": "AS6"
@@ -33,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AS8",
+      "codename": "AS8",
+      "model": "AS8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS9",
       "codename": "AS9",
       "model": "AS9"
@@ -42,6 +60,12 @@
       "market_name": "ASPERA R9",
       "codename": "R9",
       "model": "ASPERA_R9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ASPERA_R10",
+      "codename": "ASPERA_R10",
+      "model": "ASPERA_R10"
     },
     {
       "manufacturer": "",

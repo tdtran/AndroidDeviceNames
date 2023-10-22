@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "2K",
+      "codename": "hayward",
+      "model": "POLYTRON2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4K Smart TV",
       "codename": "pioneer",
       "model": "4K PA Smart TV"

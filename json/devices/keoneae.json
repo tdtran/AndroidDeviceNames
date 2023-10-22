@@ -1,9 +1,21 @@
 [
   {
+    "manufacturer": "ASTEX",
+    "market_name": "ASTEX 4K Google TV",
+    "codename": "keoneae",
+    "model": "ASTEX 4K Google TV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "Blaupunkt 4K Google TV",
     "codename": "keoneae",
     "model": "Blaupunkt 4K Google TV"
+  },
+  {
+    "manufacturer": "Decaview",
+    "market_name": "Decaview 4K Google TV",
+    "codename": "keoneae",
+    "model": "Decaview 4K Google TV"
   },
   {
     "manufacturer": "Digi",
@@ -30,6 +42,18 @@
     "model": "HYUNDAI 4K Google TV"
   },
   {
+    "manufacturer": "IMARFLEX",
+    "market_name": "imarflex 4K Google TV",
+    "codename": "keoneae",
+    "model": "imarflex 4K Google TV"
+  },
+  {
+    "manufacturer": "INNOVA",
+    "market_name": "INNOVA 4K Google TV",
+    "codename": "keoneae",
+    "model": "INNOVA 4K Google TV"
+  },
+  {
     "manufacturer": "KONKA",
     "market_name": "HK 4K Google TV-A",
     "codename": "keoneae",
@@ -37,9 +61,45 @@
   },
   {
     "manufacturer": "KONKA",
+    "market_name": "HK 4K Google TV-B",
+    "codename": "keoneae",
+    "model": "HK 4K Google TV-B"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "HK 4K Google TV-C",
+    "codename": "keoneae",
+    "model": "HK 4K Google TV-C"
+  },
+  {
+    "manufacturer": "KONKA",
+    "market_name": "HYUNDAI 4K Google TV-E",
+    "codename": "keoneae",
+    "model": "HYUNDAI 4K Google TV-E"
+  },
+  {
+    "manufacturer": "KONKA",
     "market_name": "KONKA 4K Google TV",
     "codename": "keoneae",
     "model": "HK 4K Google TV"
+  },
+  {
+    "manufacturer": "PROTON",
+    "market_name": "PROTON 4K Google TV",
+    "codename": "keoneae",
+    "model": "PROTON 4K Google TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA 4K Google TV",
+    "codename": "keoneae",
+    "model": "RCA 4K Google TV"
+  },
+  {
+    "manufacturer": "SICON",
+    "market_name": "SICON 4K Google TV",
+    "codename": "keoneae",
+    "model": "SICON 4K Google TV"
   },
   {
     "manufacturer": "SYLVOX",
@@ -72,6 +132,12 @@
     "model": "STREAM 4K Google TV"
   },
   {
+    "manufacturer": "TELSTAR",
+    "market_name": "TELSTAR 4K Google TV",
+    "codename": "keoneae",
+    "model": "TELSTAR 4K Google TV"
+  },
+  {
     "manufacturer": "Vu Televisions",
     "market_name": "VU 4K Google TV",
     "codename": "keoneae",
@@ -82,5 +148,11 @@
     "market_name": "innos 4K Google TV",
     "codename": "keoneae",
     "model": "innos 4K Google TV"
+  },
+  {
+    "manufacturer": "innos",
+    "market_name": "innos 4K Google TV-A",
+    "codename": "keoneae",
+    "model": "innos 4K Google TV-A"
   }
 ]

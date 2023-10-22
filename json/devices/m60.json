@@ -6,6 +6,12 @@
     "model": "M60"
   },
   {
+    "manufacturer": "MEDER",
+    "market_name": "m60",
+    "codename": "m60",
+    "model": "m60"
+  },
+  {
     "manufacturer": "Pritom",
     "market_name": "M60",
     "codename": "M60",

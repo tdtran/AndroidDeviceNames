@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TABLET_PC",
+      "codename": "10080",
+      "model": "10080"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"

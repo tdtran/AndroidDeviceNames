@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AMLogic Ref",
+      "codename": "planck",
+      "model": "planck"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SEI103V",
       "codename": "SEI103",
       "model": "ANDROID TV MEDIA BOX"

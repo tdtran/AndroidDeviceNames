@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALMIIS-01",
+      "codename": "ALMIIS-01",
+      "model": "ALMIIS-01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C10",
       "codename": "C10",
       "model": "C10"
@@ -186,6 +192,18 @@
       "market_name": "C32_EEA",
       "codename": "C32",
       "model": "C32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C33_EEA",
+      "codename": "C33",
+      "model": "C33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C35_EEA",
+      "codename": "C35",
+      "model": "C35"
     },
     {
       "manufacturer": "",
@@ -399,6 +417,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OKT3",
+      "codename": "OKT3",
+      "model": "OKT3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P07_EEA",
+      "codename": "P07",
+      "model": "RT7 TITAN 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RT1",
       "codename": "RT1",
       "model": "RT1"
@@ -426,6 +456,48 @@
       "market_name": "RT5_EEA",
       "codename": "RT5",
       "model": "RT5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT6_EEA",
+      "codename": "RT6",
+      "model": "RT6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S105B_RU",
+      "codename": "S105B",
+      "model": "WP21 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S109_RU",
+      "codename": "S109",
+      "model": "WP22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S115_EEA",
+      "codename": "S115",
+      "model": "WP26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S115_RU",
+      "codename": "S115",
+      "model": "WP26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S118_EEA",
+      "codename": "S118",
+      "model": "WP28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S118_RU",
+      "codename": "S118",
+      "model": "WP28"
     },
     {
       "manufacturer": "",
@@ -585,6 +657,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP18_P_R_RU",
+      "codename": "WP18_P_R_EEA",
+      "model": "WP18 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP18_Pro_EEA",
       "codename": "WP18_Pro_EEA",
       "model": "WP18 Pro"
@@ -627,7 +705,19 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP21 Ultra",
+      "codename": "S105B",
+      "model": "WP21 Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP21_EEA",
+      "codename": "WP21",
+      "model": "WP21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP21_RU",
       "codename": "WP21",
       "model": "WP21"
     },
@@ -642,6 +732,18 @@
       "market_name": "WP23",
       "codename": "S111",
       "model": "WP23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP27_EEA",
+      "codename": "WP27",
+      "model": "WP27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP27_RU",
+      "codename": "WP27",
+      "model": "WP27"
     },
     {
       "manufacturer": "",

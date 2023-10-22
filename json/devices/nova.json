@@ -4,5 +4,11 @@
     "market_name": "Nova",
     "codename": "Nova",
     "model": "Nova"
+  },
+  {
+    "manufacturer": "Rhino",
+    "market_name": "nova",
+    "codename": "nova",
+    "model": "C6"
   }
 ]

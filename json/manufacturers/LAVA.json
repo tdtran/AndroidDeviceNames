@@ -159,6 +159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blaze 2 Pro",
+      "codename": "LZX406",
+      "model": "LAVA LZX406"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaze Pro 5G",
+      "codename": "LXX506",
+      "model": "LAVA LXX506"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ERA 1X",
       "codename": "era1X",
       "model": "era1X"

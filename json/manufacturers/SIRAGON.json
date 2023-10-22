@@ -81,9 +81,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Siragon",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Siragon",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Siragon_SP_7200",
       "codename": "Siragon_SP_7200",
       "model": "Siragon_SP_7200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Siragon_SP_7300",
+      "codename": "Siragon_SP_7300",
+      "model": "SP_7300"
     },
     {
       "manufacturer": "",

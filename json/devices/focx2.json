@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Funkwerk",
+    "market_name": "focX2",
+    "codename": "focX2",
+    "model": "focX2"
+  },
+  {
+    "manufacturer": "Funkwerk",
     "market_name": "focX2_Row",
     "codename": "focX2",
     "model": "focX2_Row"

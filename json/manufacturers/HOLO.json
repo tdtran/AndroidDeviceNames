@@ -12,6 +12,12 @@
       "market_name": "VE0319",
       "codename": "VE0319",
       "model": "VE0319"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X10",
+      "codename": "X10",
+      "model": "X10"
     }
   ]
 }

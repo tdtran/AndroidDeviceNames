@@ -13,6 +13,18 @@
   },
   {
     "manufacturer": "Continental Edison",
+    "market_name": "ContinentalEdison 4K Android",
+    "codename": "kenton",
+    "model": "ContinentalEdison 4K Android"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "ContinentalEdison 4K Android",
+    "codename": "kenton",
+    "model": "ContinentalEdison 4K Android TV"
+  },
+  {
+    "manufacturer": "Continental Edison",
     "market_name": "ContinentalEdison 4K Android TV",
     "codename": "kenton",
     "model": "ContinentalEdison 4K Android TV"
@@ -42,6 +54,18 @@
     "model": "HYUNDAI 4K Android TV"
   },
   {
+    "manufacturer": "IMARFLEX",
+    "market_name": "IMARFLEX 4K Android TV",
+    "codename": "kenton",
+    "model": "IMARFLEX 4K Android TV"
+  },
+  {
+    "manufacturer": "INNOVA",
+    "market_name": "INNOVA 4K Android TV",
+    "codename": "kenton",
+    "model": "INNOVA 4K Android TV"
+  },
+  {
     "manufacturer": "KONKA",
     "market_name": "KONKA 4K Android TV",
     "codename": "kenton",
@@ -54,6 +78,18 @@
     "model": "KONKA 4K Android TV-A"
   },
   {
+    "manufacturer": "KONKA",
+    "market_name": "KONKA 4K Android TV-B",
+    "codename": "kenton",
+    "model": "KONKA 4K Android TV-B"
+  },
+  {
+    "manufacturer": "Konchris",
+    "market_name": "Konchris 4K Android TV",
+    "codename": "kenton",
+    "model": "Konchris 4K Android TV"
+  },
+  {
     "manufacturer": "LEADER",
     "market_name": "LEADER 4K Android TV",
     "codename": "kenton",
@@ -64,6 +100,12 @@
     "market_name": "MAJESTIC 4K Android TV",
     "codename": "kenton",
     "model": "MAJESTIC 4K Android TV"
+  },
+  {
+    "manufacturer": "ONIDA",
+    "market_name": "ONIDA 4K Android TV",
+    "codename": "kenton",
+    "model": "ONIDA 4K Android TV"
   },
   {
     "manufacturer": "ORCA",
@@ -103,9 +145,27 @@
   },
   {
     "manufacturer": "SYLVOX",
+    "market_name": "Smart TV 4K-A",
+    "codename": "kenton",
+    "model": "Smart TV 4K-A"
+  },
+  {
+    "manufacturer": "SYLVOX",
     "market_name": "Smart TV 4K-B",
     "codename": "kenton",
     "model": "Smart TV 4K-B"
+  },
+  {
+    "manufacturer": "Tecnomaster",
+    "market_name": "Tecnomaster 4K Android TV",
+    "codename": "kenton",
+    "model": "Tecnomaster 4K Android TV"
+  },
+  {
+    "manufacturer": "VOXelectronics",
+    "market_name": "VOXelectronics 4K Android TV",
+    "codename": "kenton",
+    "model": "VOXelectronics 4K Android TV"
   },
   {
     "manufacturer": "ZENOS",
@@ -118,5 +178,11 @@
     "market_name": "carp 4K Android TV",
     "codename": "kenton",
     "model": "carp 4K Android TV"
+  },
+  {
+    "manufacturer": "simfer",
+    "market_name": "simfer 4K Android TV",
+    "codename": "kenton",
+    "model": "simfer 4K Android TV"
   }
 ]

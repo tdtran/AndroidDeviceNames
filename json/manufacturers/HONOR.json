@@ -39,6 +39,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 90",
+      "codename": "HNREA",
+      "model": "REA-NX9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 90 Lite",
+      "codename": "HNCRT-M2",
+      "model": "CRT-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 90 Lite",
+      "codename": "HNCRT-M2",
+      "model": "CRT-NX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Magic Vs",
       "codename": "HNFRI",
       "model": "FRI-NX9"
@@ -111,6 +129,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR Pad X9",
+      "codename": "HNELN-Q",
+      "model": "ELN-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad X9",
+      "codename": "HNELN-Q",
+      "model": "ELN-W09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR X5",
       "codename": "HNVNA-M",
       "model": "VNA-LX2"
@@ -120,6 +150,24 @@
       "market_name": "HONOR X5",
       "codename": "HNVNA-M",
       "model": "VNA-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5 Plus",
+      "codename": "HNWDY-M",
+      "model": "WOD-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5 Plus",
+      "codename": "HNWDY-M",
+      "model": "WOD-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5 Plus",
+      "codename": "HNWDY-M",
+      "model": "WOD-LX3"
     },
     {
       "manufacturer": "",
@@ -138,6 +186,24 @@
       "market_name": "HONOR X6",
       "codename": "HNVNE-M",
       "model": "VNE-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6a",
+      "codename": "HNWDY-M",
+      "model": "WDY-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6a",
+      "codename": "HNWDY-M",
+      "model": "WDY-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6a",
+      "codename": "HNWDY-M",
+      "model": "WDY-LX3"
     },
     {
       "manufacturer": "",

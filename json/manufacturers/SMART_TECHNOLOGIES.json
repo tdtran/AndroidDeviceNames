@@ -1,0 +1,23 @@
+{
+  "manufacturer": "SMART Technologies",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AM60 series",
+      "codename": "komodo",
+      "model": "AM60 series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AMG1",
+      "codename": "komodo",
+      "model": "AMG series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART Board MX Series (V5)",
+      "codename": "groundhog",
+      "model": "SMART Board MX Series (V5)"
+    }
+  ]
+}

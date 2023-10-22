@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CHMT52",
+      "codename": "GIU7AG0D",
+      "model": "CHMT52"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T3AMX3",
       "codename": "SEI600TID",
       "model": "T3AMX3"

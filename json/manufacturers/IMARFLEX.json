@@ -1,0 +1,29 @@
+{
+  "manufacturer": "IMARFLEX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IMARFLEX 2K Android TV",
+      "codename": "lasalle",
+      "model": "IMARFLEX 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IMARFLEX 4K Android TV",
+      "codename": "kenton",
+      "model": "IMARFLEX 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "imarflex 2K Google TV",
+      "codename": "capitolhill",
+      "model": "imarflex 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "imarflex 4K Google TV",
+      "codename": "keoneae",
+      "model": "imarflex 4K Google TV"
+    }
+  ]
+}

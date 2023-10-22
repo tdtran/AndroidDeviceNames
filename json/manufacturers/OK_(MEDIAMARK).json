@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OK",
+      "codename": "kaitak",
+      "model": "OK Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OK 2K TV",
       "codename": "shinagawa",
       "model": "OK 2K TV"

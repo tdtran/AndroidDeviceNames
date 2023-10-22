@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "2K NSTV",
+      "codename": "umeda",
+      "model": "2K NSTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "32VRCHG5SP",
       "codename": "ikebukuro",
       "model": "AI PONT"

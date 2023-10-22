@@ -237,6 +237,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S89",
+      "codename": "S89",
+      "model": "S89"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S90",
+      "codename": "S90",
+      "model": "S90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S91",
+      "codename": "S91",
+      "model": "S91"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "T1",
       "model": "T1"
@@ -270,6 +288,12 @@
       "market_name": "X75",
       "codename": "X75",
       "model": "X75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X750-2021",
+      "codename": "X75-2021",
+      "model": "X75-2021"
     },
     {
       "manufacturer": "",

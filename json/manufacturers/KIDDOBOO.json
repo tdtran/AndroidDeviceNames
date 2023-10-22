@@ -1,0 +1,17 @@
+{
+  "manufacturer": "kiddoboo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KB101",
+      "codename": "KB101",
+      "model": "KB101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kiddoboo Plus KB80P",
+      "codename": "KB80P",
+      "model": "Kiddoboo Plus KB80P"
+    }
+  ]
+}

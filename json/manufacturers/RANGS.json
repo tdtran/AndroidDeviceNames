@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Rangs",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RANGS",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RANGS",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RANGS",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    }
+  ]
+}

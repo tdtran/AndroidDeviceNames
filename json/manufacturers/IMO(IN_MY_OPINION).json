@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IMO Q5",
+      "codename": "IMO_Q5",
+      "model": "IMO Q5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IMO S2",
       "codename": "S2",
       "model": "IMO S2"

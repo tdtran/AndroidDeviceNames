@@ -30,6 +30,18 @@
       "market_name": "innos 4K Google TV",
       "codename": "keoneae",
       "model": "innos 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "innos 4K Google TV-A",
+      "codename": "keoneae",
+      "model": "innos 4K Google TV-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "innos Google TV",
+      "codename": "bandra",
+      "model": "innos Google TV"
     }
   ]
 }

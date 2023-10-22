@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NewPad 10",
+      "codename": "NewPad_10",
+      "model": "NewPad 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Premier5",
       "codename": "Premier5",
       "model": "Premier5"

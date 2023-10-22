@@ -34,6 +34,18 @@
     {
       "manufacturer": "",
       "market_name": "EKO",
+      "codename": "expo",
+      "model": "4K EKO Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO",
+      "codename": "kaitak",
+      "model": "EKO Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO",
       "codename": "komagome",
       "model": "EKO 2K Android TV"
     },
@@ -46,14 +58,32 @@
     {
       "manufacturer": "",
       "market_name": "EKO",
+      "codename": "tennoji",
+      "model": "2K EKO Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO",
       "codename": "zhongshan",
       "model": "EKO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO 2K Google TV",
+      "codename": "capitolhill",
+      "model": "EKO 2K Google TV"
     },
     {
       "manufacturer": "",
       "market_name": "EKO 4K Google TV",
       "codename": "keoneae",
       "model": "EKO 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO Google TV",
+      "codename": "bandra",
+      "model": "EKO Google TV"
     },
     {
       "manufacturer": "",

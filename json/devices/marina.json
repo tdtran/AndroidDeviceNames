@@ -6,14 +6,152 @@
     "model": "Altus UHD Pro TV"
   },
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Europe",
+    "codename": "marina",
+    "model": "Blaupunkt Smart TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Columbia",
+    "codename": "marina",
+    "model": "Apollo Premium4K TV"
+  },
+  {
     "manufacturer": "CAIXUN",
     "market_name": "EXPRESS",
     "codename": "marina",
     "model": "Apollo Premium4K TV"
   },
   {
+    "manufacturer": "CAIXUN",
+    "market_name": "Europe",
+    "codename": "marina",
+    "model": "Fobem 4K SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Korea",
+    "codename": "marina",
+    "model": "DWsummus 4K SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "MAXWELL SMART TV",
+    "codename": "marina",
+    "model": "MAXWELL SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "South of America",
+    "codename": "marina",
+    "model": "Apollo Pro4K TV"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "COMPAQ SMART TV",
+    "codename": "marina",
+    "model": "COMPAQ SMART TV"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "Venezuela",
+    "codename": "marina",
+    "model": "COMPAQ SMART 4K TV"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "CDI SMART TV",
+    "codename": "marina",
+    "model": "CDI SMART TV"
+  },
+  {
+    "manufacturer": "Exclusiv",
+    "market_name": "Columbia",
+    "codename": "marina",
+    "model": "Apollo Premium4K TV"
+  },
+  {
+    "manufacturer": "Grunkel",
+    "market_name": "GRUNKEL SMART TV",
+    "codename": "marina",
+    "model": "GRUNKEL SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "BOLIVIA",
+    "codename": "marina",
+    "model": "HYUNDAI SMART 4K TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "Hyundai 4K Smart TV",
+    "codename": "marina",
+    "model": "Hyundai 4K Smart TV"
+  },
+  {
+    "manufacturer": "IMPEX",
+    "market_name": "IMPEX evoQ 4K",
+    "codename": "marina",
+    "model": "IMPEX evoQ 4K"
+  },
+  {
+    "manufacturer": "Inves",
+    "market_name": "Europe",
+    "codename": "marina",
+    "model": "INVES SMART TV"
+  },
+  {
+    "manufacturer": "Kodak",
+    "market_name": "Panama",
+    "codename": "marina",
+    "model": "KODAK 4K Smart TV"
+  },
+  {
+    "manufacturer": "Kodak",
+    "market_name": "South America",
+    "codename": "marina",
+    "model": "KODAK Smart TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Kogan G5",
+    "codename": "marina",
+    "model": "Kogan G5"
+  },
+  {
+    "manufacturer": "MULTYNET",
+    "market_name": "Pakistan",
+    "codename": "marina",
+    "model": "MULTYNET 4K SMART TV"
+  },
+  {
+    "manufacturer": "Nano",
+    "market_name": "Thailand",
+    "codename": "marina",
+    "model": "Nano 4K SMART TV"
+  },
+  {
+    "manufacturer": "Profilo",
+    "market_name": "Profilo Smart TV",
+    "codename": "marina",
+    "model": "Profilo Smart TV"
+  },
+  {
+    "manufacturer": "Qilive",
+    "market_name": "Qilive SMART TV",
+    "codename": "marina",
+    "model": "Qilive SMART TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "US",
+    "codename": "marina",
+    "model": "RCA 4K SMART TV"
+  },
+  {
     "manufacturer": "Sansui",
-    "market_name": "North American",
+    "market_name": "Apollo Premium4K TV",
     "codename": "marina",
     "model": "Apollo Premium4K TV"
   },
@@ -22,5 +160,41 @@
     "market_name": "Nigeria",
     "codename": "marina",
     "model": "Scanfrost TV"
+  },
+  {
+    "manufacturer": "Star-X",
+    "market_name": "Europe",
+    "codename": "marina",
+    "model": "STAR-X 4K SMART TV"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "Thomson TV",
+    "codename": "marina",
+    "model": "Thomson TV"
+  },
+  {
+    "manufacturer": "Vega",
+    "market_name": "Europe",
+    "codename": "marina",
+    "model": "VEGA Smart TV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION 4K SMART TV",
+    "codename": "marina",
+    "model": "VISION 4K SMART TV"
+  },
+  {
+    "manufacturer": "Visiontech",
+    "market_name": "4K SMART TV",
+    "codename": "marina",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "XENON",
+    "market_name": "PHILIPPINES",
+    "codename": "marina",
+    "model": "XENON ANDROID TV"
   }
 ]

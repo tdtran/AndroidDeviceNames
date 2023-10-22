@@ -1,0 +1,17 @@
+{
+  "manufacturer": "yyswie",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CT1001",
+      "codename": "CT1001",
+      "model": "CT1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT1001_EEA",
+      "codename": "CT1001_EEA",
+      "model": "CT1001"
+    }
+  ]
+}

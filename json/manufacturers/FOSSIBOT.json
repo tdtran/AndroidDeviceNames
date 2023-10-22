@@ -6,6 +6,30 @@
       "market_name": "F101",
       "codename": "F101",
       "model": "F101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F101",
+      "codename": "F101_P",
+      "model": "F101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F101 Pro",
+      "codename": "F101_Pro",
+      "model": "F101 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F102",
+      "codename": "F102",
+      "model": "F102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F102 ROW",
+      "codename": "F102",
+      "model": "F102"
     }
   ]
 }

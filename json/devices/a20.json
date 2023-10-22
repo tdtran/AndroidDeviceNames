@@ -58,5 +58,11 @@
     "market_name": "Galaxy Wide4",
     "codename": "a20",
     "model": "SM-A205S"
+  },
+  {
+    "manufacturer": "TVB",
+    "market_name": "A20",
+    "codename": "A20",
+    "model": "A20"
   }
 ]

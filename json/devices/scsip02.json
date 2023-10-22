@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Verizon",
+    "market_name": "Fios TV",
+    "codename": "SCSIP02",
+    "model": "Fios TV"
+  },
+  {
+    "manufacturer": "Verizon",
     "market_name": "Stream TV",
     "codename": "SCSIP02",
     "model": "Stream TV"

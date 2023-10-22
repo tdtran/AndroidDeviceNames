@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D106",
+      "codename": "D106",
+      "model": "D106"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D118",
+      "codename": "D118",
+      "model": "D118"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D136",
+      "codename": "D136",
+      "model": "D136"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K100",
       "codename": "K100",
       "model": "K100"
@@ -48,6 +66,12 @@
       "market_name": "K108_EEA",
       "codename": "K108_EEA",
       "model": "K108_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K110",
+      "codename": "K110",
+      "model": "K110"
     },
     {
       "manufacturer": "",

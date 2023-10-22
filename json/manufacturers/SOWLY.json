@@ -6,6 +6,12 @@
       "market_name": "AG_1088_A133",
       "codename": "AG_1088_A133",
       "model": "AG_1088_A133"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AG_1088_A133P",
+      "codename": "AG_1088_A133P",
+      "model": "AG_1088_A133P"
     }
   ]
 }

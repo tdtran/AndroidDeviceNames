@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IFP8652-2",
+      "codename": "IFP8652-2",
+      "model": "IFP8652-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q5",
       "codename": "Q5",
       "model": "Viewphone Q5"

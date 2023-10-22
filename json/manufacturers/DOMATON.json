@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D102",
+      "codename": "D102",
+      "model": "D102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D718",
+      "codename": "D718",
+      "model": "D718"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K111",
       "codename": "K111",
       "model": "K111"
@@ -18,6 +30,12 @@
       "market_name": "MID_1099IPS",
       "codename": "MID_1099IPS",
       "model": "MID_1099IPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ocean_K10",
+      "codename": "Ocean_K10",
+      "model": "Ocean K10"
     }
   ]
 }

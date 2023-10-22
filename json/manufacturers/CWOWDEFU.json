@@ -129,6 +129,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P15W",
+      "codename": "P15W",
+      "model": "P15W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P15W_EEA",
+      "codename": "P15W_EEA",
+      "model": "P15W_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P20L",
       "codename": "P20L",
       "model": "P20L"

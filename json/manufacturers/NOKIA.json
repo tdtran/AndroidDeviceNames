@@ -783,6 +783,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia G42 5G",
+      "codename": "SDW",
+      "model": "Nokia G42 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia G50",
       "codename": "PHR",
       "model": "Nokia G50"
@@ -834,6 +840,12 @@
       "market_name": "Nokia T21",
       "codename": "AGTA",
       "model": "Nokia T21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia TV",
+      "codename": "nagata",
+      "model": "Nokia TV"
     },
     {
       "manufacturer": "",

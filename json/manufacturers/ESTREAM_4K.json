@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pyxis-TDS",
+      "codename": "SEI500TDS",
+      "model": "Pyxis-TDS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TiVo Stream 4K",
       "codename": "SEI400TV",
       "model": "TiVo Stream 4K"

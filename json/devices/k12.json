@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "COLORROOM",
+    "market_name": "K12",
+    "codename": "K12",
+    "model": "K12"
+  },
+  {
     "manufacturer": "Oukitel",
     "market_name": "K12",
     "codename": "K12",

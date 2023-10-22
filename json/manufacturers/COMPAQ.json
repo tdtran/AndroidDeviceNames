@@ -16,8 +16,26 @@
     {
       "manufacturer": "",
       "market_name": "COMPAQ",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COMPAQ",
       "codename": "zhongshan",
       "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COMPAQ SMART TV",
+      "codename": "marina",
+      "model": "COMPAQ SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COMPAQ SMART TV",
+      "codename": "nagata",
+      "model": "COMPAQ SMART TV"
     },
     {
       "manufacturer": "",
@@ -90,6 +108,30 @@
       "market_name": "QTab8_LTE",
       "codename": "QTab8_LTE",
       "model": "QTab8_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qtab 10.1 with keyboard",
+      "codename": "Qtab10",
+      "model": "Qtab 10.1 with keyboard"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qtab10Plus",
+      "codename": "Qtab10Plus",
+      "model": "Qtab10Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venezuela",
+      "codename": "marina",
+      "model": "COMPAQ SMART 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venezuela",
+      "codename": "nagata",
+      "model": "COMPAQ SMART 2K TV"
     }
   ]
 }

@@ -6,6 +6,18 @@
     "model": "E Series"
   },
   {
+    "manufacturer": "Dawlance",
+    "market_name": "DAWLANCE GSMART 2KTV",
+    "codename": "umeda",
+    "model": "DAWLANCE GSMART 2KTV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "2K Haier TV",
+    "codename": "umeda",
+    "model": "2K Haier TV"
+  },
+  {
     "manufacturer": "Iris",
     "market_name": "IRIS 2K SmartTV",
     "codename": "umeda",
@@ -16,6 +28,18 @@
     "market_name": "LLOYD 2K SMART TV",
     "codename": "umeda",
     "model": "LLOYD 2K SMART TV"
+  },
+  {
+    "manufacturer": "NobleSkiodo",
+    "market_name": "2K NSTV",
+    "codename": "umeda",
+    "model": "2K NSTV"
+  },
+  {
+    "manufacturer": "Noblex",
+    "market_name": "Smart TV",
+    "codename": "umeda",
+    "model": "Smart TV"
   },
   {
     "manufacturer": "OK (Mediamark)",
@@ -58,6 +82,24 @@
     "market_name": "SPPL 2K GSmartTV",
     "codename": "umeda",
     "model": "SPPL 2K GSmartTV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION GSMART 2KTV",
+    "codename": "umeda",
+    "model": "VISION GSMART 2KTV"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "WALTON GSMART 2KTV",
+    "codename": "umeda",
+    "model": "WALTON GSMART 2KTV"
+  },
+  {
+    "manufacturer": "Xtreme",
+    "market_name": "Xtreme 2K Smart TV",
+    "codename": "umeda",
+    "model": "Xtreme 2K Smart TV"
   },
   {
     "manufacturer": "Yasin",

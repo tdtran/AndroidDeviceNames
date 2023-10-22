@@ -15,6 +15,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HD60",
+      "codename": "HD60",
+      "model": "HD60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HD60L",
+      "codename": "HD60L",
+      "model": "HD60L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HD60i",
+      "codename": "HD60i",
+      "model": "HD60i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HD65",
+      "codename": "HD65",
+      "model": "HD65"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MUV",
       "codename": "MUV",
       "model": "MUV"
@@ -30,6 +54,12 @@
       "market_name": "Sync",
       "codename": "Sync",
       "model": "Sync"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10M_Pro",
+      "codename": "T10M_Pro",
+      "model": "T10M_Pro"
     },
     {
       "manufacturer": "",
@@ -69,9 +99,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VORTEX CM62",
+      "codename": "CM62",
+      "model": "VORTEX CM62"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vortex Z22",
       "codename": "Z22",
       "model": "Z22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vortex Z23",
+      "codename": "Z23",
+      "model": "Z23"
     },
     {
       "manufacturer": "",

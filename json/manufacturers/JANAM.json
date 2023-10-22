@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XT40",
+      "codename": "XT40",
+      "model": "XT40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XT75",
       "codename": "XM75",
       "model": "XM75"

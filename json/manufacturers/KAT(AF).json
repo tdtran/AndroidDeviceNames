@@ -1,0 +1,11 @@
+{
+  "manufacturer": "KAT(AF)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SM1_Tablet",
+      "codename": "SM1_Tablet",
+      "model": "SM1"
+    }
+  ]
+}

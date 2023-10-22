@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "Infiniton",
+      "codename": "bruno",
+      "model": "Infiniton2KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infiniton",
       "codename": "shilin",
       "model": "Infiniton4KAndroidTV"
     }

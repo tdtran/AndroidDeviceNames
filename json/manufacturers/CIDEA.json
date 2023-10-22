@@ -24,6 +24,24 @@
       "market_name": "CM82",
       "codename": "CM82",
       "model": "CM82"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM826",
+      "codename": "CM826",
+      "model": "CM826"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM90",
+      "codename": "CM90",
+      "model": "CM90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM91_EEA",
+      "codename": "CM91_EEA",
+      "model": "CM91_EEA"
     }
   ]
 }

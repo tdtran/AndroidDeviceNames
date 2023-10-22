@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AP5501",
+      "codename": "AP5501",
+      "model": "AP5501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AP5701",
       "codename": "AP5701",
       "model": "AP5701"

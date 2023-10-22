@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Gazer",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GAZER",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GAZER",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

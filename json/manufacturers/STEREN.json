@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INTV-ASIST",
+      "codename": "INTV_ASIST",
+      "model": "INTV_ASIST"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Steren INTV_1000",
       "codename": "INTV_1000",
       "model": "Steren INTV_1000"

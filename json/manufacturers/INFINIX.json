@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 20 PLAY",
+      "codename": "Infinix-X6825",
+      "model": "Infinix X6825"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT 20S",
       "codename": "Infinix-X6827",
       "model": "Infinix X6827"
@@ -741,6 +747,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix SMART 8",
+      "codename": "Infinix-X6525",
+      "model": "Infinix X6525"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix X5010",
       "codename": "Infinix-X5010",
       "model": "Infinix X5010"
@@ -774,6 +786,12 @@
       "market_name": "Infinix ZERO 20",
       "codename": "Infinix-X6821",
       "model": "Infinix X6821"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix ZERO 30",
+      "codename": "Infinix-X6731B",
+      "model": "Infinix X6731B"
     },
     {
       "manufacturer": "",
@@ -1476,6 +1494,12 @@
       "market_name": "X600",
       "codename": "INFINIX-X600-H533-5M",
       "model": "Infinix-X600-LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZERO 30 5G",
+      "codename": "Infinix-X6731",
+      "model": "Infinix X6731"
     },
     {
       "manufacturer": "",

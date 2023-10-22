@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay50 Pro",
+      "codename": "T1030M",
+      "model": "iPlay50_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay50_SE",
       "codename": "iPlay50_SE",
       "model": "iPlay50_SE"

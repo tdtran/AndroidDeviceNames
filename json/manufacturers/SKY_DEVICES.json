@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite 6Max",
+      "codename": "Elite_6Max",
+      "model": "Elite 6Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite A5",
       "codename": "BITA_5",
       "model": "Elite A5"
@@ -138,6 +144,18 @@
       "market_name": "Elite A6",
       "codename": "Elite_A6",
       "model": "Elite A6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A63",
+      "codename": "Elite_A63",
+      "model": "Elite A63"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A63Max",
+      "codename": "Elite_A63MUS",
+      "model": "Elite A63Max"
     },
     {
       "manufacturer": "",
@@ -327,6 +345,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite N55Max",
+      "codename": "Elite_N55Maxus",
+      "model": "Elite N55Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite Octa",
       "codename": "Elite_OCTUS",
       "model": "Elite Octa"
@@ -477,6 +501,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite_A63Max",
+      "codename": "Elite_A63Max",
+      "model": "Elite A63Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite_A65",
       "codename": "Elite_A65",
       "model": "Elite A65"
@@ -516,6 +546,12 @@
       "market_name": "Elite_F5",
       "codename": "Elite_F5",
       "model": "Elite_F5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_G63",
+      "codename": "Elite_G63",
+      "model": "Elite G63"
     },
     {
       "manufacturer": "",
@@ -927,6 +963,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SKY PAD10Max",
+      "codename": "SKY_PAD10MaxNUS",
+      "model": "SKY PAD10Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PAD10Max",
+      "codename": "SKY_PAD10MaxOPM",
+      "model": "SKY PAD10Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PAD10Max",
+      "codename": "SKY_PADMaxNAL",
+      "model": "SKY PAD10Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY Pad10",
       "codename": "SKY_Pad10k",
       "model": "SKY Pad10"
@@ -978,6 +1032,12 @@
       "market_name": "SKY Volt",
       "codename": "SKY_Volt",
       "model": "SKY Volt"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_PAD10Max",
+      "codename": "SKY_PAD10Maxk1",
+      "model": "SKY PAD10Max"
     },
     {
       "manufacturer": "",

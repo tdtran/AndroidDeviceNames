@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ProDVX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "APPC-10SLBe",
+      "codename": "rk3399_Android11",
+      "model": "APPC-10SLBe"
+    }
+  ]
+}

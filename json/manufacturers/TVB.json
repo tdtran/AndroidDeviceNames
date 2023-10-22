@@ -6,6 +6,12 @@
       "market_name": "A15",
       "codename": "A151",
       "model": "A15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20",
+      "codename": "A20",
+      "model": "A20"
     }
   ]
 }

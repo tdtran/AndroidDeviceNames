@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A2023",
+      "codename": "A2023",
+      "model": "A2023"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A5Pro",
       "codename": "A5Pro",
       "model": "A5Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C10",
+      "codename": "C10",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FOXXD C65",
+      "codename": "FOXXD_C65",
+      "model": "FOXXD C65"
     },
     {
       "manufacturer": "",

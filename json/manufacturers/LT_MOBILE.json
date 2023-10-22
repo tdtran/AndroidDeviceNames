@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT_9902",
+      "codename": "LT_9902",
+      "model": "LT_9902"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT_mobile_S22",
       "codename": "LT_mobile_S22",
       "model": "S22"

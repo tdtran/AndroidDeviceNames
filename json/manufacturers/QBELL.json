@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QBELL",
+      "codename": "stanford",
+      "model": "QBELL 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QBELL",
+      "codename": "zhongshan",
+      "model": "QBELL 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QBell",
       "codename": "bangbae",
       "model": "QBell 4K Android TV"

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A200 Pro",
+      "codename": "A200Pro",
+      "model": "A200 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A30-RU",
       "codename": "A30-RU",
       "model": "A30-RU"
@@ -168,6 +174,30 @@
       "market_name": "A95",
       "codename": "A95",
       "model": "A95"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A96",
+      "codename": "A96",
+      "model": "A96"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active 6",
+      "codename": "Active6",
+      "model": "Active 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active 6",
+      "codename": "Active6_RU",
+      "model": "Active 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active 8 Pro",
+      "codename": "Active8Pro",
+      "model": "Active 8 Pro"
     },
     {
       "manufacturer": "",
@@ -363,6 +393,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV6200",
+      "codename": "BV6200",
+      "model": "BV6200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV6200 Pro",
+      "codename": "BV6200Pro",
+      "model": "BV6200 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV6300",
       "codename": "BV6300",
       "model": "BV6300"
@@ -468,6 +510,12 @@
       "market_name": "BV8800",
       "codename": "BV8800",
       "model": "BV8800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV8900",
+      "codename": "BV8900",
+      "model": "BV8900"
     },
     {
       "manufacturer": "",
@@ -669,6 +717,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N6000",
+      "codename": "N6000",
+      "model": "N6000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P10000 Pro",
       "codename": "P10000_Pro",
       "model": "P10000 Pro"
@@ -753,9 +807,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 10 WiFi",
+      "codename": "Tab10WiFi",
+      "model": "Tab 10 WiFi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 13",
       "codename": "Tab_13",
       "model": "Tab 13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 13 Pro",
+      "codename": "Tab13_Pro",
+      "model": "Tab 13 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 50 WiFi",
+      "codename": "Tab50WiFi",
+      "model": "Tab 50 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 60",
+      "codename": "Tab60",
+      "model": "Tab 60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 70 WiFi",
+      "codename": "Tab70WiFi",
+      "model": "Tab 70 WiFi"
     },
     {
       "manufacturer": "",
@@ -768,6 +852,24 @@
       "market_name": "Tab 8 WiFi",
       "codename": "Tab8_WiFi_ROW",
       "model": "Tab 8 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 80",
+      "codename": "Tab80",
+      "model": "Tab 80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 80",
+      "codename": "Tab80_EEA",
+      "model": "Tab 80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 80",
+      "codename": "Tab80_RU",
+      "model": "Tab 80"
     },
     {
       "manufacturer": "",
@@ -804,6 +906,12 @@
       "market_name": "Tab11WiFi_NEU",
       "codename": "Tab11WiFi_NEU",
       "model": "Tab11WiFi_NEU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab11WiFi_RU",
+      "codename": "Tab11WiFi_NEU",
+      "model": "Tab11WiFi_RU"
     },
     {
       "manufacturer": "",
@@ -966,6 +1074,12 @@
       "market_name": "Tab6s_NEU",
       "codename": "Tab6s_NEU",
       "model": "Tab 6s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab70WiFi_EEA",
+      "codename": "Tab70WiFi",
+      "model": "Tab 70 WiFi"
     },
     {
       "manufacturer": "",

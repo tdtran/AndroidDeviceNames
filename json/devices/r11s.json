@@ -10,5 +10,11 @@
     "market_name": "R11st",
     "codename": "R11s",
     "model": "OPPO R11st"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S23 FE",
+    "codename": "r11s",
+    "model": "SM-S711B"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Soneview",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SONEVIEW",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SONEVIEW",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "galneoscreen",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "wende.interaktiv GmbH",
+      "codename": "galneoscreen_V5",
+      "model": "galneoscreen_V5"
+    }
+  ]
+}

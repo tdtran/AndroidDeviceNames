@@ -57,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ART_3S",
+      "codename": "ART_3S",
+      "model": "ART 3S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ART_3_Lite",
+      "codename": "ART_3_Lite",
+      "model": "ART 3 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E400A",
       "codename": "E400A",
       "model": "E400A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EPIC_3_MAX",
+      "codename": "EPIC_3_MAX",
+      "model": "EPIC_3_MAX"
     },
     {
       "manufacturer": "",
@@ -126,6 +144,12 @@
       "market_name": "LIV_3S",
       "codename": "LIV_3S",
       "model": "LIV_3S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAX 3 ULTRA",
+      "codename": "MAX3_ULTRA",
+      "model": "MAX3 ULTRA"
     },
     {
       "manufacturer": "",

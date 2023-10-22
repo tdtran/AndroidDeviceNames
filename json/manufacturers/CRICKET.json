@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cricket Debut S2™",
+      "codename": "U380AC",
+      "model": "U380AC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cricket® Dream 5G",
       "codename": "EC211001",
       "model": "EC211001"
@@ -36,6 +42,12 @@
       "market_name": "Cricket® Innovate 5G",
       "codename": "EC211004",
       "model": "EC211004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cricket® Magic 5G",
+      "codename": "U6080AC",
+      "model": "U6080AC"
     },
     {
       "manufacturer": "",

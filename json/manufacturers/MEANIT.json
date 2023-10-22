@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X5",
+      "codename": "Smartphone_X5",
+      "model": "Smartphone_X5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "meanIT C80C81",
       "codename": "meanIT_C80C81",
       "model": "meanIT_C80C81"

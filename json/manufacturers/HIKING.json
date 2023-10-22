@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A30",
+      "codename": "A30",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A40",
       "codename": "A40",
       "model": "A40"
@@ -60,6 +66,30 @@
       "market_name": "A42",
       "codename": "A42",
       "model": "A42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A44",
+      "codename": "A44",
+      "model": "A44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A46",
+      "codename": "A46",
+      "model": "A46"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A47",
+      "codename": "A42_A47",
+      "model": "A42_A47"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A48",
+      "codename": "A43_A48",
+      "model": "A43_A48"
     },
     {
       "manufacturer": "",

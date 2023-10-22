@@ -453,6 +453,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5L Max",
+      "codename": "C0175",
+      "model": "C5L Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5L PLUS",
       "codename": "C0130UU",
       "model": "C5L PLUS"
@@ -795,6 +801,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G33",
+      "codename": "G0890",
+      "model": "G33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G33",
+      "codename": "G0892",
+      "model": "G33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G40",
       "codename": "G0730WW",
       "model": "G40"
@@ -933,6 +951,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G53",
+      "codename": "G0851",
+      "model": "G53"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6",
       "codename": "G0210",
       "model": "G6"
@@ -966,6 +990,12 @@
       "market_name": "G61S",
       "codename": "G0630WW",
       "model": "G61S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G63",
+      "codename": "G0860",
+      "model": "G63"
     },
     {
       "manufacturer": "",
@@ -1008,6 +1038,12 @@
       "market_name": "G71_PLUS_TIGO",
       "codename": "G0560WW",
       "model": "G71 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G72 MAX",
+      "codename": "G0770",
+      "model": "G72 MAX"
     },
     {
       "manufacturer": "",
@@ -1197,6 +1233,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J10L",
+      "codename": "J0150",
+      "model": "J10L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J6L",
       "codename": "J0110",
       "model": "J6L"
@@ -1212,6 +1254,12 @@
       "market_name": "J7",
       "codename": "J0000LL_ATT_MX",
       "model": "J7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J8L",
+      "codename": "J0170",
+      "model": "J8L"
     },
     {
       "manufacturer": "",
@@ -1300,8 +1348,38 @@
     {
       "manufacturer": "",
       "market_name": "M10L PLUS",
+      "codename": "M0223",
+      "model": "M10L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L PLUS",
+      "codename": "M0223_EX",
+      "model": "M10L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L PLUS",
       "codename": "M0223_ND",
       "model": "M10L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L PLUS",
+      "codename": "M0224_ND",
+      "model": "M10L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L Pro",
+      "codename": "M0214_ND",
+      "model": "M10L Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L Pro",
+      "codename": "M0215_ND",
+      "model": "M10L Pro"
     },
     {
       "manufacturer": "",
@@ -1391,6 +1469,12 @@
       "manufacturer": "",
       "market_name": "M8L",
       "codename": "M0175WW_ND",
+      "model": "M8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8L",
+      "codename": "M0176",
       "model": "M8L"
     },
     {

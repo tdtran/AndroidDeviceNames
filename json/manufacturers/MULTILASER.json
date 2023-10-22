@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10 4G NOVA",
+      "codename": "ML_SO1C_M10_4G_NOVA",
+      "model": "M10_4G_NOVA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10 4G PRO",
       "codename": "ML_JI0B_M10_4G_PRO",
       "model": "M10_4G_PRO"
@@ -377,6 +383,12 @@
       "manufacturer": "",
       "market_name": "M7 WIFI",
       "codename": "ML_SO0P_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIFI",
+      "codename": "ML_SO0R_M7_WIFI",
       "model": "M7_WIFI"
     },
     {

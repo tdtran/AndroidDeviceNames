@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Vivo",
+    "market_name": "Y77t",
+    "codename": "PD2278",
+    "model": "V2278A"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "Y78",
     "codename": "PD2278",
     "model": "V2278A"

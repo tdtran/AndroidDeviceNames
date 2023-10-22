@@ -30,6 +30,12 @@
     "model": "R3"
   },
   {
+    "manufacturer": "Amstrad",
+    "market_name": "R3",
+    "codename": "R3",
+    "model": "R3"
+  },
+  {
     "manufacturer": "Artel",
     "market_name": "R3",
     "codename": "R3",
@@ -37,6 +43,12 @@
   },
   {
     "manufacturer": "BLACKLINE",
+    "market_name": "R3",
+    "codename": "R3",
+    "model": "R3"
+  },
+  {
+    "manufacturer": "Brandt",
     "market_name": "R3",
     "codename": "R3",
     "model": "R3"
@@ -91,6 +103,12 @@
   },
   {
     "manufacturer": "Hyundai",
+    "market_name": "R3",
+    "codename": "R3",
+    "model": "R3"
+  },
+  {
+    "manufacturer": "JVC",
     "market_name": "R3",
     "codename": "R3",
     "model": "R3"
@@ -162,6 +180,12 @@
     "model": "2KTV-2TH"
   },
   {
+    "manufacturer": "SPJtv",
+    "market_name": "R3",
+    "codename": "R3",
+    "model": "R3"
+  },
+  {
     "manufacturer": "Singer",
     "market_name": "R3",
     "codename": "R3",
@@ -180,7 +204,19 @@
     "model": "R3"
   },
   {
+    "manufacturer": "Vise",
+    "market_name": "R3",
+    "codename": "R3",
+    "model": "R3"
+  },
+  {
     "manufacturer": "Vision Technology",
+    "market_name": "R3",
+    "codename": "R3",
+    "model": "R3"
+  },
+  {
+    "manufacturer": "elactron",
     "market_name": "R3",
     "codename": "R3",
     "model": "R3"

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M51S",
+      "codename": "M51S",
+      "model": "M51S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M51S_EEA",
+      "codename": "M51S_EEA",
+      "model": "M51S_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M51_EEA",
       "codename": "M51_EEA",
       "model": "M51_EEA"
@@ -36,6 +48,18 @@
       "market_name": "M53_EEA",
       "codename": "M53_EEA",
       "model": "M53_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M55",
+      "codename": "M55",
+      "model": "M55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M55_EEA",
+      "codename": "M55_EEA",
+      "model": "M55_EEA"
     },
     {
       "manufacturer": "",

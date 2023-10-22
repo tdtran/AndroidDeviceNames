@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BOTECH",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BOTECH",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WZONE",
       "codename": "HND",
       "model": "WZONE"

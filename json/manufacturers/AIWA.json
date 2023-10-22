@@ -87,6 +87,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aiwa",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aiwa",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Aiwa",
+      "codename": "mountbaker",
+      "model": "AIWA 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "ikebukuro",
       "model": "AI PONT"
@@ -135,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JA3-TBA1005",
+      "codename": "JA3-TBA1005",
+      "model": "JA3-TBA1005"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JA3-TBA1007",
+      "codename": "JA3-TBA1007",
+      "model": "JA3-TBA1007"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R3",
       "codename": "R3",
       "model": "R3"
@@ -180,6 +210,12 @@
       "market_name": "TA10-SO10",
       "codename": "TA10-SO10",
       "model": "TA10-SO10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-1100",
+      "codename": "TAB-1100",
+      "model": "TAB-1100"
     },
     {
       "manufacturer": "",

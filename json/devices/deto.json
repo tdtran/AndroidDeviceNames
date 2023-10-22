@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Aqua",
+    "market_name": "AQUA MatrixTV CE",
+    "codename": "deto",
+    "model": "AQUA MatrixTV CE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "CANDY MatrixTV CE",
+    "codename": "deto",
+    "model": "CANDY MatrixTV CE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV CE",
+    "codename": "deto",
+    "model": "Haier MatrixTV CE"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV CS",
+    "codename": "deto",
+    "model": "Haier MatrixTV CS"
+  }
+]

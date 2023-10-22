@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "RES102",
+      "codename": "Station",
+      "model": "RES102"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S500",
       "codename": "HiBox",
       "model": "S500"

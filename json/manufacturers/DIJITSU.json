@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DCT 90",
+      "codename": "DCT_90",
+      "model": "DCT 90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIJITSU",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIJITSU",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart A11s",
       "codename": "Smart_A11s",
       "model": "DIJITSU_Smart_A11s"

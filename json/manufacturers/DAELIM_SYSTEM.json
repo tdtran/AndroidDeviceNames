@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Daelim_System",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Daelim System_IFPD",
+      "codename": "Daelim_System_RK3588",
+      "model": "ULTRA_DS11386"
+    }
+  ]
+}

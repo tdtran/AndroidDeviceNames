@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACTABKID",
+      "codename": "ACTABKID",
+      "model": "ACTABKID"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AK330s",
       "codename": "C8n",
       "model": "AK330S"
@@ -240,6 +246,18 @@
       "market_name": "ATAB1021E",
       "codename": "ATAB1021E",
       "model": "ATAB1021E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATAB1024E",
+      "codename": "ATAB1024E",
+      "model": "ATAB1024E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATAB10KB24E",
+      "codename": "ATAB10KB24E",
+      "model": "ATAB10KB24E"
     },
     {
       "manufacturer": "",
@@ -267,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ATABKD1024K",
+      "codename": "ATABKD1024K",
+      "model": "ATABKD1024K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ATL1021EA",
       "codename": "ATL1021EA",
       "model": "ATL1021EA"
@@ -282,6 +306,18 @@
       "market_name": "ATLTE1022E",
       "codename": "ATLTE1022E",
       "model": "ATLTE1022E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer",
+      "codename": "anglelake",
+      "model": "DIX41RKF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer",
+      "codename": "waiawa",
+      "model": "DIX51R4KU"
     },
     {
       "manufacturer": "",
@@ -340,6 +376,12 @@
     {
       "manufacturer": "",
       "market_name": "Acer One 8 T4-82L",
+      "codename": "AcerOne8T4-82L",
+      "model": "Acer One 8 T4-82L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer One 8 T4-82L",
       "codename": "AcerOne8T4-82Lxi",
       "model": "Acer One 8 T4-82L"
     },
@@ -348,6 +390,12 @@
       "market_name": "Acer One 8 T4-82L",
       "codename": "AcerOne8T482L",
       "model": "Acer One 8 T4-82L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer One 8 T9-422L",
+      "codename": "AcerOne8T9-422L",
+      "model": "Acer One 8 T9-422L"
     },
     {
       "manufacturer": "",
@@ -360,6 +408,12 @@
       "market_name": "Acer_A61L",
       "codename": "Acer_A61L",
       "model": "A61L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer_One_10_T9-1212L",
+      "codename": "Acer_One_10_T9-1212L",
+      "model": "Acer_One_10_T9-1212L"
     },
     {
       "manufacturer": "",

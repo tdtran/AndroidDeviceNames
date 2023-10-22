@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SmartPad_A10_L",
+      "codename": "SmartPad_A10_L",
+      "model": "SmartPad_A10_L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartPad_A70W",
       "codename": "SmartPad_A70W",
       "model": "SmartPad_A70W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartPad_A70W_EU",
+      "codename": "SmartPad_A70W_EU",
+      "model": "SmartPad_A70W_EU"
     },
     {
       "manufacturer": "",
@@ -36,6 +48,18 @@
       "market_name": "SmartPad_T10_EU",
       "codename": "SmartPad_T10_EU",
       "model": "SmartPad_T10_EU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartPad_T20",
+      "codename": "SmartPad_T20",
+      "model": "SmartPad_T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartPad_T20_EEA",
+      "codename": "SmartPad_T20_EEA",
+      "model": "SmartPad_T20"
     }
   ]
 }

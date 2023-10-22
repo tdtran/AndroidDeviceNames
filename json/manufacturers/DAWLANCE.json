@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DAWLANCE GSMART 2KTV",
+      "codename": "umeda",
+      "model": "DAWLANCE GSMART 2KTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DAWLANCE GSMART 4KTV",
       "codename": "SW6H",
       "model": "DAWLANCE GSMART 4KTV"

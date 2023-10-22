@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt",
+    "codename": "tennoji",
+    "model": "2K Blaupunkt Google TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "tennoji",
+    "model": "2K EKO Google TV"
+  },
+  {
+    "manufacturer": "ELEXIA",
+    "market_name": "ELEXIA",
+    "codename": "tennoji",
+    "model": "2K ELEXIA Google TV"
+  },
+  {
     "manufacturer": "Element",
     "market_name": "Element",
     "codename": "tennoji",
@@ -7,9 +25,27 @@
   },
   {
     "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "tennoji",
+    "model": "JVCPA 2KAndroid TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "tennoji",
+    "model": "JVCSA 2KGoogle TV"
+  },
+  {
+    "manufacturer": "JVC",
     "market_name": "MTC",
     "codename": "tennoji",
     "model": "JVCUS 2K Google TV"
+  },
+  {
+    "manufacturer": "MGS",
+    "market_name": "MGS",
+    "codename": "tennoji",
+    "model": "2K MGS Google TV"
   },
   {
     "manufacturer": "Umax",

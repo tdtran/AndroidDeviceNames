@@ -12,6 +12,12 @@
       "market_name": "BS703_EEA",
       "codename": "BS703_EEA",
       "model": "BS703_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BS801",
+      "codename": "BS801_EEA",
+      "model": "BS801"
     }
   ]
 }

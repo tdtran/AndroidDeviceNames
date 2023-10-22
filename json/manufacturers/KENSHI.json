@@ -1,0 +1,23 @@
+{
+  "manufacturer": "KENSHI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E17_RU",
+      "codename": "E17",
+      "model": "E17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E18_RU",
+      "codename": "E18",
+      "model": "E18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H38",
+      "codename": "H38",
+      "model": "H38"
+    }
+  ]
+}

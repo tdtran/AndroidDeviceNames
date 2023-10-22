@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L10-T02",
+      "codename": "L10-T02",
+      "model": "L10-T02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_A01",
+      "codename": "L10_A01",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7",
       "codename": "M7",
       "model": "M7"
@@ -18,6 +30,18 @@
       "market_name": "M7_EEA",
       "codename": "M7_EEA",
       "model": "M7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB12",
+      "codename": "TAB12",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB12_EEA",
+      "codename": "TAB12_EEA",
+      "model": "L10"
     }
   ]
 }

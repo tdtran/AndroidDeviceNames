@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hot1-z",
+      "codename": "Hot1-z",
+      "model": "Hot1-z"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S501",
       "codename": "S501",
       "model": "S501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S501plus",
+      "codename": "S501plus-Z",
+      "model": "S501plus-Z"
     },
     {
       "manufacturer": "",

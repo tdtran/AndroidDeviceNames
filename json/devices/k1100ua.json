@@ -4,5 +4,17 @@
     "market_name": "K1100UA",
     "codename": "K1100UA",
     "model": "K1100UA"
+  },
+  {
+    "manufacturer": "SK broadband",
+    "market_name": "BKO-UC500",
+    "codename": "K1100UA",
+    "model": "BKO-UC500"
+  },
+  {
+    "manufacturer": "sky HCN",
+    "market_name": "KSTB1157",
+    "codename": "K1100UA",
+    "model": "KSTB1157"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Mtek",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MTEK",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MTEK",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

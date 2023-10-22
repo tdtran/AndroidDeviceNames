@@ -16,6 +16,24 @@
     {
       "manufacturer": "",
       "market_name": "Indurama",
+      "codename": "hongkong",
+      "model": "INDURAMA GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Indurama",
+      "codename": "lavender",
+      "model": "INDURAMA GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Indurama",
+      "codename": "mountbaker",
+      "model": "INDURAMA GOOGLE TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Indurama",
       "codename": "stanford",
       "model": "CSV2K"
     },

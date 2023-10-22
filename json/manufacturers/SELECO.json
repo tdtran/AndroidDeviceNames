@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Seleco",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Seleco 2K Smart TV",
+      "codename": "beaudry",
+      "model": "Seleco AndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Seleco 4K Smart TV",
+      "codename": "barking",
+      "model": "Seleco AndroidTV"
+    }
+  ]
+}

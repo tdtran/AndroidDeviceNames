@@ -37,7 +37,7 @@
   },
   {
     "manufacturer": "BenQ",
-    "market_name": "730",
+    "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
   },
@@ -72,6 +72,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "Cristor",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "DORA",
     "market_name": "Smart TV",
     "codename": "redwood",
@@ -88,6 +94,12 @@
     "market_name": "GHS55",
     "codename": "redwood",
     "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Ergo",
+    "market_name": "GHS55",
+    "codename": "redwood",
+    "model": "ERGOGS"
   },
   {
     "manufacturer": "Grunhelm",
@@ -127,6 +139,12 @@
   },
   {
     "manufacturer": "Itel",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Jetpoint",
     "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"

@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ILIUM PAD RX10 Pro",
+      "codename": "RX10ProV7",
+      "model": "RX10ProV7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ILIUM S670",
       "codename": "Ilium_S670",
       "model": "ILIUM S670"
@@ -567,6 +573,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X1S",
+      "codename": "X1S",
+      "model": "X1S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X230",
       "codename": "X230",
       "model": "X230"
@@ -588,6 +600,12 @@
       "market_name": "X400",
       "codename": "Ilium_X400",
       "model": "ILIUM X400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X5",
+      "model": "X5"
     },
     {
       "manufacturer": "",
@@ -690,6 +708,12 @@
       "market_name": "ilium_PADE10",
       "codename": "ilium_PADE10",
       "model": "ilium_PADE10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ilium_PAD_RX10",
+      "codename": "RX10V6",
+      "model": "Ilium_PAD_RX10V6"
     },
     {
       "manufacturer": "",

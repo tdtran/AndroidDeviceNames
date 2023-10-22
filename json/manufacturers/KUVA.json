@@ -1,0 +1,11 @@
+{
+  "manufacturer": "KUVA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Pad",
+      "codename": "Pad",
+      "model": "KUVA Pad"
+    }
+  ]
+}

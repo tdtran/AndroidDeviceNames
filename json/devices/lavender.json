@@ -1,5 +1,143 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt",
+    "codename": "lavender",
+    "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "Indurama",
+    "market_name": "Indurama",
+    "codename": "lavender",
+    "model": "INDURAMA GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "lavender",
+    "model": "JVC 4K DVB TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "lavender",
+    "model": "JVC 4K ISDB TV"
+  },
+  {
+    "manufacturer": "KTC",
+    "market_name": "EcoTVCOL",
+    "codename": "lavender",
+    "model": "EcoTV C"
+  },
+  {
+    "manufacturer": "KTC",
+    "market_name": "EcoTVDVB",
+    "codename": "lavender",
+    "model": "EcoTV D"
+  },
+  {
+    "manufacturer": "KTC",
+    "market_name": "EcoTVISDB",
+    "codename": "lavender",
+    "model": "EcoTV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ASAANO",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DIGGIO",
+    "codename": "lavender",
+    "model": "DIGGIO GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "ESLEY",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "Global",
+    "codename": "lavender",
+    "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "INNOVA",
+    "codename": "lavender",
+    "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "NAKAMICHI",
+    "codename": "lavender",
+    "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "PHIMARK",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "QRIOM",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "STAR-TRACK",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "STAR-TRACK",
+    "codename": "lavender",
+    "model": "STAR-TRACK 4K SMART TV"
+  },
+  {
+    "manufacturer": "Kenwood",
+    "market_name": "Kenwood",
+    "codename": "lavender",
+    "model": "KENWOOD DVB 4K TV"
+  },
+  {
+    "manufacturer": "Kenwood",
+    "market_name": "Kenwood",
+    "codename": "lavender",
+    "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+    "manufacturer": "MAG",
+    "market_name": "MAG",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Motorola",
+    "codename": "lavender",
+    "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Rangs",
+    "market_name": "RANGS",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Redmi",
     "market_name": "Redmi  Note  7",
     "codename": "lavender",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C10",
+      "codename": "C10-pro",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C10X",
       "codename": "C10X",
       "model": "C10X"
@@ -30,6 +36,12 @@
       "market_name": "C3",
       "codename": "C3",
       "model": "C3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30",
+      "codename": "C30",
+      "model": "C30"
     },
     {
       "manufacturer": "",
@@ -246,6 +258,12 @@
       "market_name": "S40-1",
       "codename": "S40-1",
       "model": "S40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S50",
+      "codename": "S50",
+      "model": "S50"
     },
     {
       "manufacturer": "",

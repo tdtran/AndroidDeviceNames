@@ -1,0 +1,11 @@
+{
+  "manufacturer": "GTX(A)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GTX_JACULUS",
+      "codename": "GTX_JACULUS",
+      "model": "GTX_JACULUS"
+    }
+  ]
+}

@@ -66,6 +66,12 @@
       "market_name": "K749B",
       "codename": "K749B",
       "model": "K749B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K750",
+      "codename": "K750",
+      "model": "K750"
     }
   ]
 }

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G 4K TV Dongle",
+      "codename": "YQX",
+      "model": "G 4K TV Dongle"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT750",
       "codename": "LT750",
       "model": "LT750"
@@ -681,6 +687,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WALPAD 10H Pro",
+      "codename": "WALPAD_10H_Pro",
+      "model": "WALPAD 10H Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WALPAD 10P",
       "codename": "10P",
       "model": "WALPAD 10P"
@@ -702,6 +714,18 @@
       "market_name": "WALPAD 8G",
       "codename": "WALPAD_8G",
       "model": "WALPAD_8G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALTON GSMART 2KTV",
+      "codename": "umeda",
+      "model": "WALTON GSMART 2KTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WALTON GSMART 4KTV",
+      "codename": "SW6H",
+      "model": "WALTON GSMART 4KTV"
     },
     {
       "manufacturer": "",

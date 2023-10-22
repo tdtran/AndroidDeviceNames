@@ -1983,6 +1983,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SPAT101FHDW_EEA",
+      "codename": "at101fhdw",
+      "model": "ARCHOS T101 FHD WiFi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart Home Tablet",
       "codename": "hometablet",
       "model": "Archos Smart Home Tablet"
@@ -2016,6 +2022,12 @@
       "market_name": "act101hd",
       "codename": "act101hd",
       "model": "Archos T101 HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "act101hd3",
+      "codename": "act101hd3",
+      "model": "ARCHOS T101HD3 WiFi"
     },
     {
       "manufacturer": "",

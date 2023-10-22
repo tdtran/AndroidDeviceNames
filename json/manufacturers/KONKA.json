@@ -21,6 +21,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HK 4K Google TV-B",
+      "codename": "keoneae",
+      "model": "HK 4K Google TV-B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HK 4K Google TV-C",
+      "codename": "keoneae",
+      "model": "HK 4K Google TV-C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HK Google TV-A",
+      "codename": "bandra",
+      "model": "HK Google TV-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI 4K Google TV-E",
+      "codename": "keoneae",
+      "model": "HYUNDAI 4K Google TV-E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KC516",
       "codename": "KC516",
       "model": "KC516"
@@ -75,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KONKA 2K Android TV-B",
+      "codename": "lasalle",
+      "model": "KONKA 2K Android TV-B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KONKA 4K Android TV",
       "codename": "kenton",
       "model": "KONKA 4K Android TV"
@@ -84,6 +114,12 @@
       "market_name": "KONKA 4K Android TV-A",
       "codename": "kenton",
       "model": "KONKA 4K Android TV-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KONKA 4K Android TV-B",
+      "codename": "kenton",
+      "model": "KONKA 4K Android TV-B"
     },
     {
       "manufacturer": "",

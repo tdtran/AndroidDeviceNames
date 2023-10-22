@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Connect V3",
+      "codename": "DIW377_ALT_FR",
+      "model": "Connect TV de SFR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DV8219_SFR",
       "codename": "DV8219",
       "model": "DV8219_SFR"

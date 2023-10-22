@@ -102,6 +102,18 @@
       "market_name": "I9_Plus_ROW",
       "codename": "I9_Plus_ROW",
       "model": "I9_Plus_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I9_Plus_WLAN",
+      "codename": "I9_Plus_WLAN",
+      "model": "I9_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I9_Plus_WLAN_EEA",
+      "codename": "I9_Plus_WLAN_EEA",
+      "model": "I9_Plus"
     }
   ]
 }

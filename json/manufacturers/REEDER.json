@@ -189,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P13 Blue MaxL 2022s",
+      "codename": "P13_Blue_MaxL_2022",
+      "model": "P13 Blue MaxL 2022"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P13 Blue Plus",
       "codename": "P13_Blue_Plus",
       "model": "P13_Blue_Plus"
@@ -222,6 +228,12 @@
       "market_name": "P13_Blue_2022",
       "codename": "P13_Blue_2022kk1",
       "model": "P13 Blue Max Lite 2022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13_Blue_MaxL_2021",
+      "codename": "P13_Blue_MaxL_2021",
+      "model": "P13 Blue MaxL 2021"
     },
     {
       "manufacturer": "",

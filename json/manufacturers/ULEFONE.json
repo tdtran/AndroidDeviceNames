@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 22",
+      "codename": "Armor_22",
+      "model": "Armor 22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2S",
       "codename": "Armor_2S",
       "model": "Armor_2S"
@@ -123,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor Pad Lite",
+      "codename": "ArmorPadLite",
+      "model": "Armor Pad Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor X",
       "codename": "Armor_X",
       "model": "Armor_X"
@@ -138,6 +150,30 @@
       "market_name": "Armor X10 Pro",
       "codename": "Armor_X10_Pro",
       "model": "Armor X10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X12",
+      "codename": "Armor_X12",
+      "model": "Armor X12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X12 Pro",
+      "codename": "Armor_X12_Pro",
+      "model": "Armor X12 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X13",
+      "codename": "Armor_X12_Pro",
+      "model": "Armor X12 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X13",
+      "codename": "Armor_X13",
+      "model": "Armor X13"
     },
     {
       "manufacturer": "",
@@ -300,6 +336,12 @@
       "market_name": "Armor_9E",
       "codename": "Armor_9E",
       "model": "Armor 9E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X13",
+      "codename": "Armor_X13",
+      "model": "Armor X13"
     },
     {
       "manufacturer": "",
@@ -567,6 +609,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power Armor X11",
+      "codename": "Power_Armor_X11",
+      "model": "Power Armor X11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Power Armor X11 Pro",
       "codename": "PowerArmorX11Pro",
       "model": "Power Armor X11 Pro"
@@ -672,6 +720,12 @@
       "market_name": "Tab A7",
       "codename": "Ulefone_Tab_A7",
       "model": "Ulefone Tab A7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab A8",
+      "codename": "GQ3286",
+      "model": "Tab A8"
     },
     {
       "manufacturer": "",

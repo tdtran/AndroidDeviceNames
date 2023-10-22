@@ -72,10 +72,22 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "DORA",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Ditecma",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Ergo",
+    "market_name": "Android TV",
+    "codename": "longshan",
+    "model": "ERGOGS"
   },
   {
     "manufacturer": "Ergo",
@@ -109,6 +121,12 @@
   },
   {
     "manufacturer": "Infinix",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Jetpoint",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
@@ -170,6 +188,12 @@
   {
     "manufacturer": "ORION",
     "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "PILOT",
+    "market_name": "Android TV",
     "codename": "longshan",
     "model": "AI PONT"
   },

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Royal-rahmani",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ROYALRAHMANI",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROYALRAHMANI",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    }
+  ]
+}

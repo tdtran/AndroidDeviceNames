@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jelly Star",
+      "codename": "Jelly_Star",
+      "model": "Jelly Star"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jelly2",
       "codename": "Jelly2",
       "model": "Jelly2"

@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EVOLVE 2",
+      "codename": "m377_dish",
+      "model": "EVOLVE 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hopper Plus",
       "codename": "SNAP2",
       "model": "Hopper Plus"

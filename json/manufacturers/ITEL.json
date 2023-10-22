@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A05S",
+      "codename": "itel-A663L",
+      "model": "itel A663L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A05s",
+      "codename": "itel-A663L",
+      "model": "itel A663L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A05s",
+      "codename": "itel-A663LC",
+      "model": "itel A663LC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A11",
       "codename": "itel_A11",
       "model": "itel A11"
@@ -261,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A70",
+      "codename": "itel-A665L",
+      "model": "itel A665L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F311",
       "codename": "Spice-F311",
       "model": "Spice F311"
@@ -300,6 +324,18 @@
       "market_name": "G5550",
       "codename": "barking",
       "model": "itel Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ITEL",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ITEL",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -802,6 +838,12 @@
     {
       "manufacturer": "",
       "market_name": "itel A04",
+      "codename": "itel-A632W",
+      "model": "itel A632W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A04",
       "codename": "itel-A632WM",
       "model": "itel A632WM"
     },
@@ -891,6 +933,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A18s",
+      "codename": "itel-A513W",
+      "model": "itel A513W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A20",
       "codename": "itel-A20",
       "model": "itel A20"
@@ -942,6 +990,18 @@
       "market_name": "itel A24",
       "codename": "itel-L5007",
       "model": "itel L5007"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A24 2023",
+      "codename": "itel-A507LC",
+      "model": "itel A507LC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A24 2023",
+      "codename": "itel-A507LSP",
+      "model": "itel A507LSP"
     },
     {
       "manufacturer": "",
@@ -1131,6 +1191,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A60E",
+      "codename": "itel-A662L",
+      "model": "itel A662L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A60s",
+      "codename": "itel-A662LM",
+      "model": "itel A662LM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel AC12",
       "codename": "itel-A14",
       "model": "itel A14"
@@ -1251,6 +1323,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel P55 5G",
+      "codename": "itel-P661N",
+      "model": "itel P661N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel Prime 4",
       "codename": "itel_Prime4",
       "model": "itel Prime 4"
@@ -1317,6 +1395,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel S23+",
+      "codename": "itel-S681LN",
+      "model": "itel S681LN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel S32LTE",
       "codename": "itel-S32LTE",
       "model": "itel S32LTE"
@@ -1338,6 +1422,12 @@
       "market_name": "itel V51 LTE",
       "codename": "itel-L5007S",
       "model": "itel L5007S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel V52LTE",
+      "codename": "itel-A507LV",
+      "model": "itel A507LV"
     },
     {
       "manufacturer": "",
@@ -1476,6 +1566,12 @@
       "market_name": "itel-A510W",
       "codename": "itel-A510W",
       "model": "itel A510W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel-IKP-31",
+      "codename": "itel-IKP-31",
+      "model": "IKP-31"
     },
     {
       "manufacturer": "",

@@ -12,6 +12,12 @@
     "model": "SmartTV 4K FFM"
   },
   {
+    "manufacturer": "Leica",
+    "market_name": "Leica Laser",
+    "codename": "wuyishan",
+    "model": "SmartTV 4K"
+  },
+  {
     "manufacturer": "Vu Televisions",
     "market_name": "ULED",
     "codename": "wuyishan",

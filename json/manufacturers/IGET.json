@@ -75,6 +75,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART_L30",
+      "codename": "SMART_L30",
+      "model": "SMART L30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_L31",
+      "codename": "SMART_L31",
+      "model": "SMART L31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_L31",
+      "codename": "SMART_L31",
+      "model": "SMART_L31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_L32",
+      "codename": "SMART_L32",
+      "model": "SMART L32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART_W101",
       "codename": "SMART_W101",
       "model": "SMART_W101"

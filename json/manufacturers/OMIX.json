@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X3",
+      "codename": "X3",
+      "model": "X3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X300",
       "codename": "X300",
       "model": "OMIX X300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X3_1",
+      "codename": "X3",
+      "model": "X3_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4",
+      "codename": "OMIX_X4",
+      "model": "X4"
     },
     {
       "manufacturer": "",

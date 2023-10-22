@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SmartBox",
+      "codename": "SEI800DT-Telekom",
+      "model": "SmartBox"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TelekomTV-STB",
       "codename": "DV8519B-Telekom",
       "model": "TelekomTV-STB"

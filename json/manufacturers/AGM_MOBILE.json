@@ -42,6 +42,30 @@
       "market_name": "AGM_H5_PRO",
       "codename": "AGM_H5_PRO",
       "model": "AGM_H5_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_H6",
+      "codename": "AGM_H6",
+      "model": "AGM_H6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_Note_N1",
+      "codename": "AGM_Note_N1",
+      "model": "AGM_Note_N1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_PAD_P1",
+      "codename": "AGM_PAD_P1",
+      "model": "AGM_PAD_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android_Tablet",
+      "codename": "Android_Tablet",
+      "model": "Android_Tablet"
     }
   ]
 }

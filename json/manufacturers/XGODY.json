@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB_M10",
+      "codename": "TAB_M10",
+      "model": "TAB_M10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X24_EU",
       "codename": "X24_EU",
       "model": "X24_EU"

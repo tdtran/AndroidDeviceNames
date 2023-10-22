@@ -1,0 +1,17 @@
+{
+  "manufacturer": "simfer",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "simfer 2K Android TV",
+      "codename": "lasalle",
+      "model": "simfer 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "simfer 4K Android TV",
+      "codename": "kenton",
+      "model": "simfer 4K Android TV"
+    }
+  ]
+}

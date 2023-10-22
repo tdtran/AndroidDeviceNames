@@ -699,6 +699,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T60",
+      "codename": "T60",
+      "model": "T60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TOMMY",
       "codename": "P4901AC",
       "model": "TOMMY"

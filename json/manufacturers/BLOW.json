@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PlatinumTAB11_4G",
+      "codename": "PlatinumTAB11_4G",
+      "model": "PlatinumTAB11_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PlatinumTAB8_4G",
       "codename": "PlatinumTAB8_4G",
       "model": "PlatinumTAB8_4G"

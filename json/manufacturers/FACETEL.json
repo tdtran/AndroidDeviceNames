@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q3-EEA",
+      "codename": "Q3-EEA",
+      "model": "Q3-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q3-pro",
       "codename": "Q3_pro",
       "model": "Q3_pro"
@@ -48,6 +54,24 @@
       "market_name": "Q5_EEA",
       "codename": "Q5_EEA",
       "model": "3W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q5_US",
+      "codename": "Q5_US",
+      "model": "3W_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W3_T_EEA",
+      "codename": "W3_T_EEA",
+      "model": "3W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W3_T_US",
+      "codename": "W3_T_US",
+      "model": "3W_US"
     }
   ]
 }

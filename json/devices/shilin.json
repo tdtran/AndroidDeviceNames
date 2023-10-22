@@ -24,6 +24,12 @@
     "model": "EKO 4K Android TV"
   },
   {
+    "manufacturer": "Element",
+    "market_name": "Element",
+    "codename": "shilin",
+    "model": "Element4KAndroidTV"
+  },
+  {
     "manufacturer": "HIMADE",
     "market_name": "HIMADE",
     "codename": "shilin",
@@ -45,7 +51,37 @@
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "shilin",
+    "model": "JVC UK 4K Android TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "shilin",
     "model": "JVC4KAndroid TV"
+  },
+  {
+    "manufacturer": "Kodak",
+    "market_name": "KODAK",
+    "codename": "shilin",
+    "model": "KODAK4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "ANAM",
+    "codename": "shilin",
+    "model": "ANAM4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "ANDRINO",
+    "codename": "shilin",
+    "model": "andrino 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "DWSUMMUS",
+    "codename": "shilin",
+    "model": "DWSUMMUS4KAndroidTV"
   },
   {
     "manufacturer": "MTC",
@@ -55,9 +91,33 @@
   },
   {
     "manufacturer": "MTC",
+    "market_name": "GRANZ",
+    "codename": "shilin",
+    "model": "GRANZ4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "Hansung",
+    "codename": "shilin",
+    "model": "Hansung4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "JVC",
+    "codename": "shilin",
+    "model": "JVC US 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
     "market_name": "KIVI",
     "codename": "shilin",
     "model": "KIVI 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "KLEINZ",
+    "codename": "shilin",
+    "model": "KLEINZ4KAndroidTV"
   },
   {
     "manufacturer": "MTC",
@@ -73,15 +133,39 @@
   },
   {
     "manufacturer": "MTC",
+    "market_name": "Sansui",
+    "codename": "shilin",
+    "model": "SANSUI4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
     "market_name": "SmartEver",
     "codename": "shilin",
     "model": "SmartEver4KAndroidTV"
   },
   {
     "manufacturer": "MTC",
+    "market_name": "Tesla",
+    "codename": "shilin",
+    "model": "Tesla4KAndroidTV"
+  },
+  {
+    "manufacturer": "MTC",
     "market_name": "VINCENT",
     "codename": "shilin",
     "model": "VINCENT 4K Android TV"
+  },
+  {
+    "manufacturer": "MTC",
+    "market_name": "WasabiMango",
+    "codename": "shilin",
+    "model": "WasabiMango4KAndroidTV"
+  },
+  {
+    "manufacturer": "Monster",
+    "market_name": "MONSTER",
+    "codename": "shilin",
+    "model": "MONSTER4KAndroidTV"
   },
   {
     "manufacturer": "Polaroid",
@@ -100,6 +184,12 @@
     "market_name": "Umax",
     "codename": "shilin",
     "model": "UMAX4KAndroidTV"
+  },
+  {
+    "manufacturer": "Veon",
+    "market_name": "VEON",
+    "codename": "shilin",
+    "model": "VEON 4K Android TV"
   },
   {
     "manufacturer": "innos",

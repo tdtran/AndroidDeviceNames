@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP20_MAX",
+      "codename": "CP20_MAX",
+      "model": "CP20_MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP20_PRO",
+      "codename": "CP20_PRO",
+      "model": "CP20_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP30",
       "codename": "CP30",
       "model": "CP30"
@@ -66,6 +78,12 @@
       "market_name": "YQ10S_Gold",
       "codename": "YQ10S_Gold",
       "model": "YQ10S_Gold"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ10S_MAX",
+      "codename": "YQ10S_MAX",
+      "model": "YQ10S_MAX"
     }
   ]
 }

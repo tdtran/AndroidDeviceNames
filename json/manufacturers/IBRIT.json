@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iBRIT",
+      "codename": "Diamond_Pro_Max",
+      "model": "Diamond Pro Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iBRIT SpeedX",
       "codename": "SpeedX",
       "model": "SpeedX"

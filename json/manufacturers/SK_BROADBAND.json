@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BKO-UC500",
+      "codename": "K1100UA",
+      "model": "BKO-UC500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PlayZ",
       "codename": "BIP-EB100",
       "model": "BIP-EB100"

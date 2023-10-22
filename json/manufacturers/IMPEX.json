@@ -12,6 +12,18 @@
       "market_name": "Grande FHD TV",
       "codename": "takao",
       "model": "GRANDE FHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IMPEX evoQ 2K",
+      "codename": "nagata",
+      "model": "IMPEX evoQ 2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IMPEX evoQ 4K",
+      "codename": "marina",
+      "model": "IMPEX evoQ 4K"
     }
   ]
 }

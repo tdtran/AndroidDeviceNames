@@ -976,6 +976,24 @@
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "irobot",
+      "model": "MiTV-MOOR1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "irobot",
+      "model": "MiTV-MOSR3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "irobot",
+      "model": "MiTV-MOSR4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "machuca",
       "model": "MiTV-MSSP3"
     },
@@ -1018,8 +1036,38 @@
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "venom",
+      "model": "MiTV-MOOR2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "venom",
+      "model": "MiTV-MOOR3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "venom",
+      "model": "MiTV-MOOR4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "venom",
+      "model": "MiTV-MOOR6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "volver",
       "model": "MiTV-MSSP2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "watchmen",
+      "model": "MiTV-AXFR2"
     },
     {
       "manufacturer": "",
@@ -1479,9 +1527,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi 13 Ultra",
+      "codename": "ishtar",
+      "model": "2304FPN6DG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi 13 pro",
       "codename": "nuwa",
       "model": "2210132C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13T",
+      "codename": "XIG04",
+      "model": "XIG04"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13T",
+      "codename": "aristotle",
+      "model": "2306EPN60G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13T Pro",
+      "codename": "corot",
+      "model": "23078PND5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13T Pro",
+      "codename": "corot",
+      "model": "23088PND5R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 13T Pro",
+      "codename": "corot",
+      "model": "A301XM"
     },
     {
       "manufacturer": "",
@@ -1506,6 +1590,12 @@
       "market_name": "Xiaomi MIX Fold 2",
       "codename": "zizhan",
       "model": "22061218C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi MIX Fold 3",
+      "codename": "babylon",
+      "model": "2308CPXD0C"
     },
     {
       "manufacturer": "",
@@ -1545,6 +1635,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi Pad 6",
+      "codename": "pipa",
+      "model": "23043RP34G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 6",
+      "codename": "pipa",
+      "model": "23043RP34I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 6 Max 14",
+      "codename": "yudi",
+      "model": "2307BRPDCC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi TV Box S (2nd Gen)",
       "codename": "jaws",
       "model": "MiTV-AFKR0"
@@ -1557,6 +1665,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi Watch 2 Pro",
+      "codename": "axolotl",
+      "model": "Xiaomi Watch 2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Watch 2 Pro",
+      "codename": "axolotlte",
+      "model": "Xiaomi Watch 2 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi civi 3",
       "codename": "yuechu",
       "model": "23046PNC9C"
@@ -1566,6 +1686,12 @@
       "market_name": "Xiaomi civi2",
       "codename": "ziyi",
       "model": "2209129SC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi pad 6",
+      "codename": "pipa",
+      "model": "23043RP34G"
     },
     {
       "manufacturer": "",

@@ -411,6 +411,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EDA10A-1",
+      "codename": "EDA10A",
+      "model": "EDA10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EDA40",
       "codename": "EDA40-0",
       "model": "EDA40"

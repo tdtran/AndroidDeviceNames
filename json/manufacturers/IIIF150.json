@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Air1 Ultra+",
+      "codename": "Air1_Ultra_Pro",
+      "model": "Air1 Ultra Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B1",
       "codename": "B1",
       "model": "B1"
@@ -30,6 +36,24 @@
       "market_name": "B1 Pro",
       "codename": "B1_Pro",
       "model": "B1 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B2",
+      "codename": "B2",
+      "model": "B2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B2 Ultra",
+      "codename": "B2_Ultra",
+      "model": "B2 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Raptor LTD",
+      "codename": "Raptor",
+      "model": "Raptor"
     }
   ]
 }

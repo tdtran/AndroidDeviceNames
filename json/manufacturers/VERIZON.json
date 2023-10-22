@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Fios TV",
+      "codename": "SCSIP02",
+      "model": "Fios TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Stream TV",
       "codename": "JS8V",
       "model": "Stream TV"

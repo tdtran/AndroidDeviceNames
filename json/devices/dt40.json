@@ -4,5 +4,11 @@
     "market_name": "DT40",
     "codename": "DT40",
     "model": "DT40"
+  },
+  {
+    "manufacturer": "Urovo",
+    "market_name": "DT40_EEA",
+    "codename": "DT40",
+    "model": "DT40"
   }
 ]

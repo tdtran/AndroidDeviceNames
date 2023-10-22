@@ -1,0 +1,11 @@
+{
+  "manufacturer": "iBoard",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IFPD",
+      "codename": "TE_QS",
+      "model": "TE_QS"
+    }
+  ]
+}

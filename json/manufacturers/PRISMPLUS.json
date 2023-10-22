@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4K Smart TV Plus",
+      "codename": "anaheim",
+      "model": "4K Smart TV Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PrismPlus 2KA",
       "codename": "umeda",
       "model": "PrismPlus 2KA"

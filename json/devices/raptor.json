@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "IIIF150",
+    "market_name": "Raptor LTD",
+    "codename": "Raptor",
+    "model": "Raptor"
+  },
+  {
     "manufacturer": "QUEST",
     "market_name": "RAPTOR",
     "codename": "RAPTOR",

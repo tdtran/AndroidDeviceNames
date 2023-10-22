@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CHSTB02",
+      "codename": "CHSTB02",
+      "model": "CHSTB02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SDOTT0202",
       "codename": "DV8519",
       "model": "SDOTT0202"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "ZTE A53",
+    "codename": "P963F62",
+    "model": "ZTE A53"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE Blade A53",
     "codename": "P963F62",
     "model": "ZTE Blade A53"

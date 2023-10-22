@@ -6,6 +6,12 @@
       "market_name": "AVA-RM-RX1-EU",
       "codename": "AVA-RM-RX1",
       "model": "RX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AVA-RM-RX2-US",
+      "codename": "AVA-RM-RX2-US",
+      "model": "RX2"
     }
   ]
 }

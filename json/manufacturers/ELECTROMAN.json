@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Electroman",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Electroman",
+      "codename": "hongkong",
+      "model": "Smart UHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Electroman",
+      "codename": "stanford",
+      "model": "Smart FHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Electroman",
+      "codename": "zhongshan",
+      "model": "Smart UHD TV"
+    }
+  ]
+}

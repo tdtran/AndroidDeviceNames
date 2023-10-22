@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pad 15",
+      "codename": "Pad15",
+      "model": "Pad 15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 15",
+      "codename": "Pad15_EEA",
+      "model": "Pad 15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pad 70",
       "codename": "Pad70_NEU",
       "model": "Pad 70"

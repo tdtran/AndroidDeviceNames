@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EM103A",
+      "codename": "EM103A",
+      "model": "EM103A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K109A",
+      "codename": "K109A",
+      "model": "K109A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K709A",
+      "codename": "K709A",
+      "model": "K709A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NW1495T_ROW",
       "codename": "NW1495T",
       "model": "NW1495T"

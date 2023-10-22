@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A130-2023",
+      "codename": "A130-2023",
+      "model": "A130-2023"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A140",
       "codename": "A140",
       "model": "A140"

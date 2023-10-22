@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt",
+    "codename": "expo",
+    "model": "4K Blaupunkt Google TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "expo",
+    "model": "4K EKO Google TV"
+  },
+  {
+    "manufacturer": "ELEXIA",
+    "market_name": "ELEXIA",
+    "codename": "expo",
+    "model": "4K ELEXIA Google TV"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "expo",

@@ -4,5 +4,11 @@
     "market_name": "BRAVIA_VU3.1",
     "codename": "BRAVIA_VU31_4K",
     "model": "BRAVIA VU31"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "BRAVIA_VU31",
+    "codename": "BRAVIA_VU31_4K",
+    "model": "BRAVIA VU31"
   }
 ]

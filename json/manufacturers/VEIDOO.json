@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T40",
+      "codename": "T40",
+      "model": "T40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T7",
       "codename": "T7",
       "model": "T7"
@@ -96,6 +102,12 @@
       "market_name": "VEIDOO_T60_EEA",
       "codename": "VEIDOO_T60_EEA",
       "model": "VEIDOO_T60_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VEIDOO_T70",
+      "codename": "VEIDOO_T70",
+      "model": "VEIDOO_T70"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SICON",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SICON 2K Google TV",
+      "codename": "capitolhill",
+      "model": "SICON 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SICON 4K Google TV",
+      "codename": "keoneae",
+      "model": "SICON 4K Google TV"
+    }
+  ]
+}

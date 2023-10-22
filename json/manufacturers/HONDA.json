@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gathers",
+      "codename": "pr3a_arm64",
+      "model": "Gathers PR3A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IVI-SYSTEM",
       "codename": "emu_pub_h_30a_g_car",
       "model": "IVI-SYSTEM"

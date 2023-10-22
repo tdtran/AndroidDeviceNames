@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Nothing phone (1)",
+      "market_name": "Nothing Phone (1)",
       "codename": "Spacewar",
       "model": "A063"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nothing Phone (2)",
+      "codename": "Pong",
+      "model": "A065"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nothing Phone (2)",
+      "codename": "Pong",
+      "model": "AIN065"
     }
   ]
 }

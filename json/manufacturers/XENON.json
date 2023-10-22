@@ -1,0 +1,17 @@
+{
+  "manufacturer": "XENON",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPPINES",
+      "codename": "marina",
+      "model": "XENON ANDROID TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XENON ANDROID TV",
+      "codename": "nagata",
+      "model": "XENON ANDROID TV"
+    }
+  ]
+}

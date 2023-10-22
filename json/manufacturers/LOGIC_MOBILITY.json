@@ -240,6 +240,12 @@
       "market_name": "X5A",
       "codename": "LOGIC_X5A",
       "model": "LOGIC X5A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "l409",
+      "codename": "LOGIC_L40",
+      "model": "LOGIC L40"
     }
   ]
 }

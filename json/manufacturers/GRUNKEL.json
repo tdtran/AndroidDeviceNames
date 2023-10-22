@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "nagata",
+      "model": "GRUNKEL SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRUNKEL SMART TV",
+      "codename": "marina",
+      "model": "GRUNKEL SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Spain",
       "codename": "tamachi",
       "model": "GRUNKEL FHD Android TV"

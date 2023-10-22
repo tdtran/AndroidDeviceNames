@@ -60,6 +60,12 @@
     "model": "GREEN HOUSE TV"
   },
   {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI SMART TV",
+    "codename": "SW6H",
+    "model": "HYUNDAI SMART TV"
+  },
+  {
     "manufacturer": "Iris",
     "market_name": "IRIS 4K SmartTV",
     "codename": "SW6H",
@@ -84,6 +90,12 @@
     "model": "LLOYD 4K SMART TV"
   },
   {
+    "manufacturer": "Noblex",
+    "market_name": "Smart TV 4K",
+    "codename": "SW6H",
+    "model": "Smart TV 4K"
+  },
+  {
     "manufacturer": "PRISMPLUS",
     "market_name": "PrismPlus 4KA",
     "codename": "SW6H",
@@ -106,6 +118,12 @@
     "market_name": "4KTV-3SUF",
     "codename": "SW6H",
     "model": "4KTV-3SUF"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "Philco Smart plus TV",
+    "codename": "SW6H",
+    "model": "Philco Smart plus TV"
   },
   {
     "manufacturer": "SWTV",
@@ -162,6 +180,12 @@
     "model": "Singer 4K GSMART TV"
   },
   {
+    "manufacturer": "Syinix",
+    "market_name": "Glory TV",
+    "codename": "SW6H",
+    "model": "Glory TV"
+  },
+  {
     "manufacturer": "TORNADO",
     "market_name": "TORNADO 4K SmartTV",
     "codename": "SW6H",
@@ -192,10 +216,34 @@
     "model": "SPPL 4K GSmartTV FF"
   },
   {
+    "manufacturer": "Toush",
+    "market_name": "4K FF SMART TV",
+    "codename": "SW6H",
+    "model": "4K FF SMART TV"
+  },
+  {
     "manufacturer": "Veon",
     "market_name": "VEON 4K Smart TV",
     "codename": "SW6H",
     "model": "VEON 4K Smart TV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION GSMART 4KTV",
+    "codename": "SW6H",
+    "model": "VISION GSMART 4KTV"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION GSMART 4KTV FF",
+    "codename": "SW6H",
+    "model": "VISION GSMART 4KTV FF"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "WALTON GSMART 4KTV",
+    "codename": "SW6H",
+    "model": "WALTON GSMART 4KTV"
   },
   {
     "manufacturer": "Walton",

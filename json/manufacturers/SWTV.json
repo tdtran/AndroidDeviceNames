@@ -141,9 +141,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SWTV-22AE-4K",
+      "codename": "anaheim",
+      "model": "SWTV-22AE-4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWTV-22AE-FHD",
       "codename": "umeda",
       "model": "SWTV-22AE-FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22HK-4K NF",
+      "codename": "anaheim",
+      "model": "SWTV-22HK-4K NF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22NA-4K",
+      "codename": "anaheim",
+      "model": "SWTV-22NA-4K"
     },
     {
       "manufacturer": "",
@@ -153,9 +171,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SWTV-22SA-4K",
+      "codename": "anaheim",
+      "model": "SWTV-22SA-4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWTV-22SA-FHD",
       "codename": "umeda",
       "model": "SWTV-22SA-FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22TGS-4K",
+      "codename": "anaheim",
+      "model": "SWTV-22TGS-4K"
     },
     {
       "manufacturer": "",

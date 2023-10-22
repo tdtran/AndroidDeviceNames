@@ -243,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC22",
+      "codename": "TC22",
+      "model": "TC22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC25",
       "codename": "TC25FM",
       "model": "TC25"
@@ -252,6 +258,12 @@
       "market_name": "TC26",
       "codename": "TC26",
       "model": "TC26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC27",
+      "codename": "TC27",
+      "model": "TC27"
     },
     {
       "manufacturer": "",

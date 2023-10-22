@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FlowBox-S2",
+      "codename": "m250_t",
+      "model": "FlowBox-S2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FlowSoundBox",
       "codename": "m393gena_teco",
       "model": "FlowSoundBox"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "marina",
+      "model": "STAR-X 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Middle East",
       "codename": "tamachi",
       "model": "STAR-X FHD Android TV"
@@ -12,6 +18,12 @@
       "market_name": "Middle East",
       "codename": "yeongdeungpo",
       "model": "STAR-X UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STAR-X 2K SMART TV",
+      "codename": "nagata",
+      "model": "STAR-X 2K SMART TV"
     },
     {
       "manufacturer": "",

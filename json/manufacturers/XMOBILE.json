@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X10Max",
+      "codename": "X10Max",
+      "model": "X10Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X3",
       "codename": "Xmobile_X3",
       "model": "X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X63Pro",
+      "codename": "X63Pro",
+      "model": "X63Pro"
     },
     {
       "manufacturer": "",

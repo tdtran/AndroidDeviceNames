@@ -63,6 +63,12 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy A51",
     "codename": "a51",
+    "model": "SM-A515X"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A51",
+    "codename": "a51",
     "model": "SM-S515DL"
   }
 ]

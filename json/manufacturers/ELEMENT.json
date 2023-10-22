@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ELEMENT",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Element",
+      "codename": "bruno",
+      "model": "Element2KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Element",
+      "codename": "kaitak",
+      "model": "ElementPlatiumTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Element",
+      "codename": "shilin",
+      "model": "Element4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Element",
       "codename": "tennoji",
       "model": "ElementDeluxe2K"

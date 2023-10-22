@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Compaq",
+    "market_name": "Qtab 10.1 with keyboard",
+    "codename": "Qtab10",
+    "model": "Qtab 10.1 with keyboard"
+  },
+  {
     "manufacturer": "QBell",
     "market_name": "QTAB10",
     "codename": "QTAB10",

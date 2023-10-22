@@ -1,0 +1,11 @@
+{
+  "manufacturer": "JCB_UK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "JCB_TP231",
+      "codename": "JCB_TP231",
+      "model": "JCB TP231"
+    }
+  ]
+}

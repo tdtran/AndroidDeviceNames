@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X500_T_EEA",
+      "codename": "X500_T_EEA",
+      "model": "X500_T_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X500_US",
       "codename": "X500_US",
       "model": "X500_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X700_EEA",
+      "codename": "X700_EEA",
+      "model": "X700_EEA"
     },
     {
       "manufacturer": "",

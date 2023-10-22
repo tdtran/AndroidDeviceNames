@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Libra PAD",
+      "codename": "Libra_PAD",
+      "model": "Libra PAD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TH10",
       "codename": "TH10",
       "model": "TH10"

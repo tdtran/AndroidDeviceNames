@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Konchris",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Konchris 2K Android",
+      "codename": "lasalle",
+      "model": "Konchris 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Konchris 4K Android TV",
+      "codename": "kenton",
+      "model": "Konchris 4K Android TV"
+    }
+  ]
+}

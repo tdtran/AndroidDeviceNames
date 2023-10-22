@@ -6,6 +6,12 @@
       "market_name": "rephone",
       "codename": "rephone",
       "model": "2000_000170_00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "rephone5G",
+      "codename": "rephone5G",
+      "model": "2000_000176_00"
     }
   ]
 }

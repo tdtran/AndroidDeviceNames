@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Polytron",
+    "market_name": "2K",
+    "codename": "hayward",
+    "model": "POLYTRON2K"
+  },
+  {
     "manufacturer": "Toshiba",
     "market_name": "huashan_emT",
     "codename": "hayward",

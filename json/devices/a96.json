@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Blackview",
+    "market_name": "A96",
+    "codename": "A96",
+    "model": "A96"
+  },
+  {
     "manufacturer": "Micromax",
     "market_name": "CANVAS POWER",
     "codename": "A96",

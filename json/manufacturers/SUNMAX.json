@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Model 6 Pro Max 4G",
+      "codename": "Model_6_Pro_Max_4G",
+      "model": "Model_6_Pro_Max_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Model D",
       "codename": "Model_D",
       "model": "Model D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model E",
+      "codename": "Model_E",
+      "model": "Model E"
     },
     {
       "manufacturer": "",
@@ -21,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Model X 4G",
+      "codename": "Model_X_4G_A",
+      "model": "Model_X_4G_A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Model_3",
       "codename": "Model_3",
       "model": "Model 3"
@@ -30,6 +48,12 @@
       "market_name": "Model_6",
       "codename": "Model_6",
       "model": "Model 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Model_6_4G",
+      "codename": "Model_6_4G",
+      "model": "Model_6_4G"
     },
     {
       "manufacturer": "",

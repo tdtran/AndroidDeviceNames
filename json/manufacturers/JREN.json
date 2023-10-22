@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J10PLUS",
+      "codename": "J10PLUS",
+      "model": "J10PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J10PRO",
+      "codename": "J10PRO",
+      "model": "J10PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J11PLUS",
+      "codename": "J11PLUS",
+      "model": "J11PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J7",
       "codename": "J7",
       "model": "J7"
@@ -18,6 +36,12 @@
       "market_name": "JR-101",
       "codename": "JR-101",
       "model": "JR-101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JR-802",
+      "codename": "JR-802",
+      "model": "JR-802"
     },
     {
       "manufacturer": "",

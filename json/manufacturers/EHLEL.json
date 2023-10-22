@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Defender",
+      "codename": "Ehlel_Defender_D23",
+      "model": "Defender D23"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ehlel C7 PRO",
       "codename": "Ehlel-C7PRO",
       "model": "Ehlel C7 PRO"

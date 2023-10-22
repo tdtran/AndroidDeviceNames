@@ -609,6 +609,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V10 Viper",
+      "codename": "V10_Viper",
+      "model": "V10_Viper"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V2 Viper",
       "codename": "V2_Viper",
       "model": "V2_Viper"

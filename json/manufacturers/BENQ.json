@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "730",
-      "codename": "redwood",
-      "model": "AI PONT"
-    },
-    {
-      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -243,8 +237,32 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RM6504",
+      "codename": "RM6504",
+      "model": "RM6504"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RM7504",
+      "codename": "RM7504",
+      "model": "RM7504"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RP8604",
+      "codename": "RP8604",
+      "model": "RP8604"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
       "model": "AI PONT"
     },
     {
@@ -288,6 +306,12 @@
       "market_name": "T55",
       "codename": "T55",
       "model": "T55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEY1A",
+      "codename": "TEY1A",
+      "model": "TEY1A"
     },
     {
       "manufacturer": "",

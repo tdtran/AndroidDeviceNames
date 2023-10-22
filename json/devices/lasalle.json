@@ -12,6 +12,18 @@
     "model": "BGH 2K Android TV"
   },
   {
+    "manufacturer": "Continental Edison",
+    "market_name": "ContinentalEdison 2K Android",
+    "codename": "lasalle",
+    "model": "ContinentalEdison 2K Android"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "ContinentalEdison 2K Android",
+    "codename": "lasalle",
+    "model": "ContinentalEdison 2K Android TV"
+  },
+  {
     "manufacturer": "DigiKing",
     "market_name": "DigiKing 2K Android",
     "codename": "lasalle",
@@ -30,6 +42,24 @@
     "model": "HYUNDAI 2K Android TV"
   },
   {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI 2K Android TV-A",
+    "codename": "lasalle",
+    "model": "HYUNDAI 2K Android TV-A"
+  },
+  {
+    "manufacturer": "IMARFLEX",
+    "market_name": "IMARFLEX 2K Android TV",
+    "codename": "lasalle",
+    "model": "IMARFLEX 2K Android TV"
+  },
+  {
+    "manufacturer": "INNOVA",
+    "market_name": "INNOVA 2K Android TV",
+    "codename": "lasalle",
+    "model": "INNOVA 2K Android TV"
+  },
+  {
     "manufacturer": "KONKA",
     "market_name": "KONKA 2K Android TV",
     "codename": "lasalle",
@@ -42,6 +72,18 @@
     "model": "KONKA 2K Android TV-A"
   },
   {
+    "manufacturer": "KONKA",
+    "market_name": "KONKA 2K Android TV-B",
+    "codename": "lasalle",
+    "model": "KONKA 2K Android TV-B"
+  },
+  {
+    "manufacturer": "Konchris",
+    "market_name": "Konchris 2K Android",
+    "codename": "lasalle",
+    "model": "Konchris 2K Android TV"
+  },
+  {
     "manufacturer": "LEADER",
     "market_name": "LEADER 2K Android TV",
     "codename": "lasalle",
@@ -52,6 +94,12 @@
     "market_name": "MAJESTIC 2K Android TV",
     "codename": "lasalle",
     "model": "MAJESTIC 2K Android TV"
+  },
+  {
+    "manufacturer": "ONIDA",
+    "market_name": "ONIDA 2K Android TV",
+    "codename": "lasalle",
+    "model": "ONIDA 2K Android TV"
   },
   {
     "manufacturer": "ORCA",
@@ -102,9 +150,27 @@
     "model": "Smart TV 2K-B"
   },
   {
+    "manufacturer": "Tecnomaster",
+    "market_name": "Tecnomaster 2K Android TV",
+    "codename": "lasalle",
+    "model": "Tecnomaster 2K Android TV"
+  },
+  {
+    "manufacturer": "VOXelectronics",
+    "market_name": "VOXelectronics 2K Android TV",
+    "codename": "lasalle",
+    "model": "VOXelectronics 2K Android TV"
+  },
+  {
     "manufacturer": "carp(IN)",
     "market_name": "carp 2K Android TV",
     "codename": "lasalle",
     "model": "carp 2K Android TV"
+  },
+  {
+    "manufacturer": "simfer",
+    "market_name": "simfer 2K Android TV",
+    "codename": "lasalle",
+    "model": "simfer 2K Android TV"
   }
 ]

@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZEPHIR",
+      "codename": "stanford",
+      "model": "ZEPHIR 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZEPHIR",
+      "codename": "zhongshan",
+      "model": "ZEPHIR 4K Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Zephir",
       "codename": "bangbae",
       "model": "Zephir 4K Android TV"

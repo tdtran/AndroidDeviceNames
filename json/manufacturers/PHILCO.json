@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philco Smart plus TV",
+      "codename": "SW6H",
+      "model": "Philco Smart plus TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PhilcoTV",
       "codename": "shinjuku",
       "model": "PhilcoTV"

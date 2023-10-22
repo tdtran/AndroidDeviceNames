@@ -4,5 +4,11 @@
     "market_name": "Tab11WiFi_NEU",
     "codename": "Tab11WiFi_NEU",
     "model": "Tab11WiFi_NEU"
+  },
+  {
+    "manufacturer": "Blackview",
+    "market_name": "Tab11WiFi_RU",
+    "codename": "Tab11WiFi_NEU",
+    "model": "Tab11WiFi_RU"
   }
 ]

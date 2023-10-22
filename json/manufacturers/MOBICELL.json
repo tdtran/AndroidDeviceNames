@@ -135,6 +135,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D1",
+      "codename": "PX12",
+      "model": "D1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D2",
+      "codename": "PX12",
+      "model": "D2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D3",
+      "codename": "VX20_PRO",
+      "model": "D3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DANDY",
       "codename": "DANDY",
       "model": "DANDY"
@@ -291,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IX-1",
+      "codename": "IX-1",
+      "model": "IX-1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Icon",
       "codename": "Mobicel_Icon",
       "model": "Icon"
@@ -330,6 +354,12 @@
       "market_name": "METRO2",
       "codename": "METRO2",
       "model": "MOBICEL METRO2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MX2",
+      "codename": "PX12",
+      "model": "MX2"
     },
     {
       "manufacturer": "",
@@ -450,6 +480,18 @@
       "market_name": "PURE_PLUS",
       "codename": "PURE_PLUS",
       "model": "PURE PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX12",
+      "codename": "PX12",
+      "model": "PX12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q10",
+      "codename": "Q10",
+      "model": "Q10"
     },
     {
       "manufacturer": "",
@@ -576,6 +618,18 @@
       "market_name": "RUSH",
       "codename": "RUSH",
       "model": "RUSH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX PRO",
+      "codename": "RX_PRO",
+      "model": "RX PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX17",
+      "codename": "RX17",
+      "model": "RX17"
     },
     {
       "manufacturer": "",
@@ -792,6 +846,12 @@
       "market_name": "XV19",
       "codename": "VX19",
       "model": "VX19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3",
+      "codename": "RX17",
+      "model": "Z3"
     },
     {
       "manufacturer": "",

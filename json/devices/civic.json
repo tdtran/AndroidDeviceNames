@@ -16,5 +16,11 @@
     "market_name": "Coolpad CVC-M0",
     "codename": "Civic",
     "model": "CVC-M0"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 405",
+    "codename": "Civic",
+    "model": "T506A"
   }
 ]

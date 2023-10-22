@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAGNO C PLUS",
+      "codename": "Magno_C_Plus",
+      "model": "Magno C Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAGNO C1",
       "codename": "MAGNO_C1",
       "model": "MAGNO C1"
@@ -168,6 +174,12 @@
       "market_name": "MAGNO MINI",
       "codename": "MAGNO_MINI",
       "model": "MAGNO MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magno Pro",
+      "codename": "Magno_Pro",
+      "model": "Magno Pro"
     },
     {
       "manufacturer": "",
@@ -276,6 +288,12 @@
       "market_name": "STELLAR Z",
       "codename": "STELLAR_Z",
       "model": "STELLAR Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR_M5",
+      "codename": "STELLAR_M5",
+      "model": "STELLAR M5"
     },
     {
       "manufacturer": "",

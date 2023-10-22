@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R4_GTV",
       "codename": "R4_GTV",
       "model": "R4G"

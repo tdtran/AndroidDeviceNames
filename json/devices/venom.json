@@ -4,5 +4,29 @@
     "market_name": "MiTV",
     "codename": "venom",
     "model": "MiTV-MOOR0"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV",
+    "codename": "venom",
+    "model": "MiTV-MOOR2"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV",
+    "codename": "venom",
+    "model": "MiTV-MOOR3"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV",
+    "codename": "venom",
+    "model": "MiTV-MOOR4"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV",
+    "codename": "venom",
+    "model": "MiTV-MOOR6"
   }
 ]

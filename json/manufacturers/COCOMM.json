@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ENOS",
+      "codename": "ENOS",
+      "model": "ENOS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F900",
       "codename": "F900N0101",
       "model": "F900"

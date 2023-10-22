@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HiPad_XPro_EEA13",
+      "codename": "HiPad_XPro",
+      "model": "HiPad XPro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HiPad_XPro_RU",
       "codename": "HiPad_XPro",
       "model": "HiPad XPro"

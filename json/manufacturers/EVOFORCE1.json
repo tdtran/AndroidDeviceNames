@@ -3,6 +3,54 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FRC1-ABB",
+      "codename": "SEI800ABB",
+      "model": "FRC1-ABB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-Armstrong",
+      "codename": "SEI800AS",
+      "model": "FRC1-Armstrong"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-BlueRidge",
+      "codename": "SEI800BR",
+      "model": "FRC1-BlueRidge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-BlueStream",
+      "codename": "SEI800BS",
+      "model": "FRC1-BlueStream"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-CBT",
+      "codename": "SEI800CB",
+      "model": "FRC1-CBT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-CableCo",
+      "codename": "SEI800TV",
+      "model": "FRC1-CableCo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-Eastlink",
+      "codename": "SEI800ESTL",
+      "model": "FRC1-ESTL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-MDCOM",
+      "codename": "SEI800MDCOM",
+      "model": "FRC1-MDCOM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FRC1-MOBI",
       "codename": "SEI800MOBI",
       "model": "FRC1-MOBI"
@@ -21,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FRC1-SECV",
+      "codename": "SEI800SECV",
+      "model": "FRC1-SECV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FRC1-TDS",
+      "codename": "SEI800TDS",
+      "model": "FRC1-TDS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "USA",
       "codename": "SEI800MOBI",
       "model": "FRC1-MOBI"
@@ -30,6 +90,18 @@
       "market_name": "USA",
       "codename": "SEI800MOBI",
       "model": "MOBI-Buckeye"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "USA\u0026Canada",
+      "codename": "SEI800MOBI",
+      "model": "FRC1-MOBI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "USA\u0026Canada",
+      "codename": "SEI800MOBI",
+      "model": "MOBI-SECTV"
     }
   ]
 }

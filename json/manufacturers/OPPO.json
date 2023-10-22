@@ -603,6 +603,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A58",
+      "codename": "OP574FL1",
+      "model": "CPH2577"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A59",
       "codename": "A59",
       "model": "OPPO A59"
@@ -858,6 +864,12 @@
       "market_name": "A96 5G",
       "codename": "OP5267",
       "model": "PFUM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A98 5G",
+      "codename": "OP56E8L1",
+      "model": "CPH2529"
     },
     {
       "manufacturer": "",
@@ -1803,6 +1815,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO A1 5G",
+      "codename": "OP561D",
+      "model": "PHS110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO A33",
       "codename": "OP4EEA",
       "model": "CPH2137"
@@ -1863,15 +1881,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO K11 5G",
+      "codename": "OP591D",
+      "model": "PJC110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO K11x 5G",
+      "codename": "OP5925",
+      "model": "PHF110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO Pad",
       "codename": "OP5223",
       "model": "OPD2101"
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO Pad 2",
+      "codename": "OP5989",
+      "model": "OPD2201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Pad 2",
+      "codename": "OP59BBL1",
+      "model": "OPD2202"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO Pad Air",
       "codename": "OP5225",
       "model": "OPD2102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno10 5G",
+      "codename": "OP5655",
+      "model": "PHW110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno10 Pro 5G",
+      "codename": "OP561F",
+      "model": "PHV110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno10 Pro+ 5G",
+      "codename": "OP564B",
+      "model": "PHU110"
     },
     {
       "manufacturer": "",
@@ -1968,6 +2028,12 @@
       "market_name": "OPPO Reno8 Pro 5G",
       "codename": "OP5335L1",
       "model": "CPH2357"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Reno8 T",
+      "codename": "OP5709L1",
+      "model": "CPH2481"
     },
     {
       "manufacturer": "",
@@ -3075,6 +3141,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Reno10 5G",
+      "codename": "OP5705L1",
+      "model": "CPH2531"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno10 Pro 5G",
+      "codename": "OP56DBL1",
+      "model": "A302OP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno10 Pro 5G",
+      "codename": "OP56DBL1",
+      "model": "CPH2525"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno10 Pro 5G",
+      "codename": "OP56DBL1",
+      "model": "CPH2541"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno10 Pro+ 5G",
+      "codename": "OP56D3L1",
+      "model": "CPH2521"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Reno2 Z",
       "codename": "OP4B65L1",
       "model": "CPH1945"
@@ -3219,6 +3315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Reno5 A (eSIM)",
+      "codename": "OP4F2BL1",
+      "model": "A103OP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Reno5 F",
       "codename": "OP4F43L1",
       "model": "CPH2217"
@@ -3258,6 +3360,18 @@
       "market_name": "Reno8 T 5G",
       "codename": "OP56EDL1",
       "model": "CPH2505"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno9 A",
+      "codename": "OP5701L1",
+      "model": "A301OP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno9 A",
+      "codename": "OP5701L1",
+      "model": "CPH2523"
     },
     {
       "manufacturer": "",

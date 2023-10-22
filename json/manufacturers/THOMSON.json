@@ -58,6 +58,12 @@
     {
       "manufacturer": "",
       "market_name": "Europe",
+      "codename": "guandu",
+      "model": "Thomson TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
       "codename": "martin",
       "model": "Thomson TV"
     },
@@ -201,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TEO8M2BK32LTE",
+      "codename": "TEO8M2BK32LTE",
+      "model": "TEO8M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEOX102",
       "codename": "TEOX102",
       "model": "TEOX102"
@@ -234,6 +246,18 @@
       "market_name": "Thomson T50",
       "codename": "Thomson_T50",
       "model": "Thomson T50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thomson TV",
+      "codename": "marina",
+      "model": "Thomson TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thomson TV",
+      "codename": "nagata",
+      "model": "Thomson TV"
     },
     {
       "manufacturer": "",

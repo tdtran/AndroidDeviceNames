@@ -4,5 +4,11 @@
     "market_name": "WP18_P_R_EEA",
     "codename": "WP18_P_R_EEA",
     "model": "WP18 Pro"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "WP18_P_R_RU",
+    "codename": "WP18_P_R_EEA",
+    "model": "WP18 Pro"
   }
 ]

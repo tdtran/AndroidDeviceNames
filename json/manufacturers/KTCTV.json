@@ -3,7 +3,13 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "ACONATIC",
+      "market_name": "ADSUN",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADSUN",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     },
@@ -15,39 +21,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AZATECH",
-      "codename": "stanford",
-      "model": "SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "AZATECH",
-      "codename": "zhongshan",
+      "market_name": "ASAANO",
+      "codename": "hongkong",
       "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "BAUF",
-      "codename": "stanford",
-      "model": "SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "BAUF",
-      "codename": "zhongshan",
+      "market_name": "ASAANO",
+      "codename": "lavender",
       "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "BOTECH",
-      "codename": "stanford",
+      "market_name": "ASAANO",
+      "codename": "mountbaker",
       "model": "2K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "BOTECH",
-      "codename": "zhongshan",
-      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -59,6 +47,12 @@
       "manufacturer": "",
       "market_name": "Banana",
       "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CHIMEI",
+      "codename": "hongkong",
       "model": "4K SMART TV"
     },
     {
@@ -81,51 +75,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "COMPAQ",
+      "market_name": "CONTINUUS",
       "codename": "stanford",
       "model": "SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "CONTI",
-      "codename": "stanford",
-      "model": "2K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "CONTI",
-      "codename": "zhongshan",
+      "market_name": "DANILUX",
+      "codename": "hongkong",
       "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "DAHUA",
-      "codename": "stanford",
+      "market_name": "DANILUX",
+      "codename": "mountbaker",
       "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "DAHUA",
-      "codename": "stanford",
-      "model": "40DSA"
+      "market_name": "DIGGIO",
+      "codename": "hongkong",
+      "model": "DIGGIO GOOGLE TV 4K"
     },
     {
       "manufacturer": "",
-      "market_name": "DAHUA",
-      "codename": "zhongshan",
-      "model": "43FCOL"
+      "market_name": "DIGGIO",
+      "codename": "lavender",
+      "model": "DIGGIO GOOGLE TV 4K"
     },
     {
       "manufacturer": "",
-      "market_name": "DAHUA",
-      "codename": "zhongshan",
-      "model": "43FSA"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "DAHUA",
-      "codename": "zhongshan",
-      "model": "4K SMART TV"
+      "market_name": "DIGGIO",
+      "codename": "mountbaker",
+      "model": "DIGGIO GOOGLE TV"
     },
     {
       "manufacturer": "",
@@ -141,20 +123,44 @@
     },
     {
       "manufacturer": "",
-      "market_name": "DYON",
+      "market_name": "DREAMVIEW",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DYANORA",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DYANORA",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "ELECTROMAN",
-      "codename": "stanford",
-      "model": "Smart FHD TV"
+      "market_name": "ELEMENT",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "ENGLAON",
-      "codename": "stanford",
+      "market_name": "ESLEY",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ESLEY",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ESLEY",
+      "codename": "mountbaker",
       "model": "2K SMART TV"
     },
     {
@@ -177,39 +183,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Electroman",
-      "codename": "zhongshan",
-      "model": "Smart UHD TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Enova",
-      "codename": "zhongshan",
+      "market_name": "FPS",
+      "codename": "hongkong",
       "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "FASTLIFE",
-      "codename": "zhongshan",
-      "model": "SMART TV"
+      "market_name": "Global",
+      "codename": "hongkong",
+      "model": "GLOBAL GOOGLE TV 4K"
     },
     {
       "manufacturer": "",
-      "market_name": "GAZER",
-      "codename": "stanford",
-      "model": "2K SMART TV"
+      "market_name": "Global",
+      "codename": "lavender",
+      "model": "GLOBAL GOOGLE TV 4K"
     },
     {
       "manufacturer": "",
-      "market_name": "GAZER",
-      "codename": "zhongshan",
-      "model": "4K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "GHIA",
-      "codename": "zhongshan",
-      "model": "4K SMART TV"
+      "market_name": "Global",
+      "codename": "mountbaker",
+      "model": "GLOBAL GOOGLE TV"
     },
     {
       "manufacturer": "",
@@ -238,6 +232,24 @@
     {
       "manufacturer": "",
       "market_name": "INNOVA",
+      "codename": "hongkong",
+      "model": "INNOVA GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA",
+      "codename": "lavender",
+      "model": "INNOVA GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA",
+      "codename": "mountbaker",
+      "model": "INNOVA GOOGLE TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNOVA",
       "codename": "stanford",
       "model": "CSV2K"
     },
@@ -249,15 +261,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ITEL",
+      "market_name": "KIUNIT",
       "codename": "stanford",
       "model": "SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "ITEL",
+      "market_name": "KIUNIT",
       "codename": "zhongshan",
-      "model": "4K SMART TV"
+      "model": "Smart UHD TV"
     },
     {
       "manufacturer": "",
@@ -270,34 +282,16 @@
       "market_name": "KTC",
       "codename": "zhongshan",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Leading Smart TV",
+      "codename": "minami",
+      "model": "EcoTV J"
     },
     {
       "manufacturer": "",
       "market_name": "LikeMe",
-      "codename": "zhongshan",
-      "model": "4K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "MTEK",
-      "codename": "stanford",
-      "model": "2K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "MTEK",
-      "codename": "zhongshan",
-      "model": "4K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Maxsonic_elite",
-      "codename": "stanford",
-      "model": "2K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Maxsonic_elite",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     },
@@ -316,6 +310,24 @@
     {
       "manufacturer": "",
       "market_name": "NAKAMICHI",
+      "codename": "hongkong",
+      "model": "NAKAMICHI GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NAKAMICHI",
+      "codename": "lavender",
+      "model": "NAKAMICHI GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NAKAMICHI",
+      "codename": "mountbaker",
+      "model": "NAKAMICHI GOOGLE TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NAKAMICHI",
       "codename": "stanford",
       "model": "CSV2K"
     },
@@ -327,26 +339,32 @@
     },
     {
       "manufacturer": "",
-      "market_name": "NEXT_G",
-      "codename": "stanford",
-      "model": "2K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "NEXT_G",
-      "codename": "zhongshan",
+      "market_name": "PHIMARK",
+      "codename": "hongkong",
       "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "Nobrand",
-      "codename": "stanford",
-      "model": "Smart FHD TV"
+      "market_name": "PHIMARK",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHIMARK",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
       "market_name": "POWER GREEN",
       "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POWEROLOGY",
+      "codename": "hongkong",
       "model": "4K SMART TV"
     },
     {
@@ -357,39 +375,33 @@
     },
     {
       "manufacturer": "",
-      "market_name": "PROMETHEUS",
-      "codename": "stanford",
-      "model": "SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "QBELL",
-      "codename": "stanford",
-      "model": "QBELL 2K Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "QBELL",
-      "codename": "zhongshan",
-      "model": "QBELL 4K Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ROSSO",
-      "codename": "zhongshan",
+      "market_name": "QRIOM",
+      "codename": "hongkong",
       "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "ROYALRAHMANI",
-      "codename": "stanford",
+      "market_name": "QRIOM",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QRIOM",
+      "codename": "mountbaker",
       "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "Rosso",
-      "codename": "stanford",
-      "model": "40D"
+      "market_name": "RENYA",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REYNA",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -429,15 +441,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SONEVIEW",
-      "codename": "stanford",
-      "model": "2K SMART TV"
+      "market_name": "STAR-TRACK",
+      "codename": "lavender",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "SONEVIEW",
-      "codename": "zhongshan",
-      "model": "4K SMART TV"
+      "market_name": "STAR-TRACK",
+      "codename": "lavender",
+      "model": "STAR-TRACK 4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -447,9 +459,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Telsa",
-      "codename": "zhongshan",
-      "model": "Tesla 4K Android TV"
+      "market_name": "Smart TV",
+      "codename": "mountbaker",
+      "model": "EcoTV FHD"
     },
     {
       "manufacturer": "",
@@ -465,12 +477,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "VIZZION",
-      "codename": "stanford",
-      "model": "F VIZZION TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "VON",
       "codename": "stanford",
       "model": "2K SMART TV"
@@ -483,15 +489,33 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ZEPHIR",
-      "codename": "stanford",
-      "model": "ZEPHIR 2K Android TV"
+      "market_name": "VOXELECTRONICS",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
-      "market_name": "ZEPHIR",
-      "codename": "zhongshan",
-      "model": "ZEPHIR 4K Android TV"
+      "market_name": "VOXELECTRONICS",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XELL",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XELL",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YARA",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",

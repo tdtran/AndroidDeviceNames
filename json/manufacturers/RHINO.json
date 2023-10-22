@@ -27,9 +27,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nova",
+      "codename": "nova",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "portal",
       "codename": "portal",
       "model": "PACE A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "scout",
+      "codename": "scout",
+      "model": "T80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "scoutxl",
+      "codename": "scoutxl",
+      "model": "T100"
     }
   ]
 }

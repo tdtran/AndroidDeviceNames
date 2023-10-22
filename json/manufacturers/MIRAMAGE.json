@@ -6,6 +6,24 @@
       "market_name": "MF3D2211",
       "codename": "MF3D2211",
       "model": "MF3D2211"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MTJ-X43FLS",
+      "codename": "barking",
+      "model": "Miramage Smart Display"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV3223HDA11SMARTG",
+      "codename": "beaudry",
+      "model": "Miramage AndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV5023UHDA11SMARTG",
+      "codename": "barking",
+      "model": "Miramage AndroidTV"
     }
   ]
 }

@@ -12,6 +12,12 @@
       "market_name": "Nigeria",
       "codename": "martin",
       "model": "Scanfrost 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Scanfrost TV",
+      "codename": "nagata",
+      "model": "Scanfrost TV"
     }
   ]
 }

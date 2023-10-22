@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Beneve",
+    "market_name": "M55",
+    "codename": "M55",
+    "model": "M55"
+  },
+  {
     "manufacturer": "Evercoss",
     "market_name": "M55",
     "codename": "M55",

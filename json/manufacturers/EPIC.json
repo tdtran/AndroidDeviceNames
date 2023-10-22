@@ -1,0 +1,17 @@
+{
+  "manufacturer": "EPIC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Guatemala/Honduras",
+      "codename": "patrick",
+      "model": "EPIC Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "martin",
+      "codename": "martin",
+      "model": "EPIC Android TV"
+    }
+  ]
+}

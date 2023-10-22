@@ -18,6 +18,12 @@
       "market_name": "Truvii",
       "codename": "shilin",
       "model": "Truvii4KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Truvii",
+      "codename": "sugamo",
+      "model": "Truvii 2K Android TV"
     }
   ]
 }

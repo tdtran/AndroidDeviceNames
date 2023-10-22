@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Decaview",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Decaview 2K Google TV",
+      "codename": "capitolhill",
+      "model": "Decaview  2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Decaview 4K Google TV",
+      "codename": "keoneae",
+      "model": "Decaview 4K Google TV"
+    }
+  ]
+}

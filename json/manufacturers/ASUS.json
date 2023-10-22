@@ -2259,6 +2259,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Zenfone 10 (AI2302)",
+      "codename": "ASUS_AI2302",
+      "model": "ASUS_AI2302"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Zenfone 8 / ASUS 8Z",
       "codename": "ASUS_I006D",
       "model": "ASUS_I006D"

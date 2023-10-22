@@ -18,6 +18,24 @@
     "model": "EKO 2K Android TV"
   },
   {
+    "manufacturer": "ELEXIA",
+    "market_name": "ELEXIA",
+    "codename": "bruno",
+    "model": "ELEXIA2KAndroidTV"
+  },
+  {
+    "manufacturer": "Element",
+    "market_name": "Element",
+    "codename": "bruno",
+    "model": "Element2KAndroidTV"
+  },
+  {
+    "manufacturer": "INFINITON",
+    "market_name": "Infiniton",
+    "codename": "bruno",
+    "model": "Infiniton2KAndroidTV"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "bruno",
@@ -34,6 +52,18 @@
     "market_name": "KIVI",
     "codename": "bruno",
     "model": "KIVI 2K Android TV"
+  },
+  {
+    "manufacturer": "Kodak",
+    "market_name": "KODAK",
+    "codename": "bruno",
+    "model": "KODAK2KAndroidTV"
+  },
+  {
+    "manufacturer": "MGS",
+    "market_name": "MGS",
+    "codename": "bruno",
+    "model": "MGS2KAndroidTV"
   },
   {
     "manufacturer": "MTC",

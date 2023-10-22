@@ -84,6 +84,12 @@
     "model": "Continental Edison Android TV"
   },
   {
+    "manufacturer": "DAIICHI",
+    "market_name": "Vietnam",
+    "codename": "martin",
+    "model": "Daiichi 2K SMART TV"
+  },
+  {
     "manufacturer": "Digiquest",
     "market_name": "EU、UK、AP",
     "codename": "martin",
@@ -100,6 +106,12 @@
     "market_name": "EU、UK、AP",
     "codename": "martin",
     "model": "EKO 2K Android TV"
+  },
+  {
+    "manufacturer": "EPIC",
+    "market_name": "martin",
+    "codename": "martin",
+    "model": "EPIC Android TV"
   },
   {
     "manufacturer": "Estar",
@@ -290,6 +302,18 @@
   {
     "manufacturer": "Tesla",
     "market_name": "EU、UK、AP",
+    "codename": "martin",
+    "model": "Tesla Android TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "Venezuela",
+    "codename": "martin",
+    "model": "Tesla 2K Android TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "Venezuela",
     "codename": "martin",
     "model": "Tesla Android TV"
   },

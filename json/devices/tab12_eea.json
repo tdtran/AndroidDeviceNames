@@ -4,5 +4,11 @@
     "market_name": "Tab12_EEA",
     "codename": "Tab12_EEA",
     "model": "Tab 12"
+  },
+  {
+    "manufacturer": "VASOUN",
+    "market_name": "TAB12_EEA",
+    "codename": "TAB12_EEA",
+    "model": "L10"
   }
 ]

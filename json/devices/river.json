@@ -10,5 +10,17 @@
     "market_name": "moto g(7)",
     "codename": "river",
     "model": "moto g(7)"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12 5G",
+    "codename": "river",
+    "model": "23076RA4BR"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 12 5G",
+    "codename": "river",
+    "model": "23076RN8DY"
   }
 ]

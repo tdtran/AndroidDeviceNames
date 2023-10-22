@@ -6,6 +6,18 @@
       "market_name": "KT1006",
       "codename": "KT1006",
       "model": "KT1006"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11_EEA ",
+      "codename": "P11_EEA",
+      "model": "P11_EEA"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Ayat101",
+      "codename": "Ayat101",
+      "model": "Ayat101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "T1",
       "model": "AYYA T1"

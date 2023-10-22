@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Readly",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ReadlyReaderOne",
+      "codename": "ReadlyReaderOne",
+      "model": "ReadlyReaderOne"
+    }
+  ]
+}

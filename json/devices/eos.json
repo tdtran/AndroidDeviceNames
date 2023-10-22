@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel Watch 2",
+    "codename": "eos",
+    "model": "Google Pixel Watch 2"
+  },
+  {
     "manufacturer": "OTOT",
     "market_name": "E1",
     "codename": "EOS",

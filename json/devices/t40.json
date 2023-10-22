@@ -16,5 +16,11 @@
     "market_name": "T40_ROW",
     "codename": "T40",
     "model": "TLA001"
+  },
+  {
+    "manufacturer": "Veidoo",
+    "market_name": "T40",
+    "codename": "T40",
+    "model": "T40"
   }
 ]

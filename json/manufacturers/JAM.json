@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Jam",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "JAM",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JAM",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    }
+  ]
+}

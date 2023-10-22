@@ -177,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G08",
+      "codename": "G08",
+      "model": "Smart TV Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GO5c",
       "codename": "U3A_PLUS_4G",
       "model": "5033E"
@@ -186,6 +192,12 @@
       "market_name": "HotelTV",
       "codename": "HotelTV",
       "model": "WelcomeTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Jitterbug Smart4",
+      "codename": "Sonata_BBH",
+      "model": "T608G"
     },
     {
       "manufacturer": "",
@@ -264,6 +276,12 @@
       "market_name": "South America",
       "codename": "tcl",
       "model": "Percee TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T607DL",
+      "codename": "Bora_TF",
+      "model": "T607DL"
     },
     {
       "manufacturer": "",
@@ -669,6 +687,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 40 NXTPAPER",
+      "codename": "Ladybird_Pro",
+      "model": "T612B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 NXTPAPER 5G",
+      "codename": "Firefly",
+      "model": "T771K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 40 R 5G",
       "codename": "Levin",
       "model": "T771H"
@@ -687,6 +717,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 40 SE",
+      "codename": "Model_3",
+      "model": "T610P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 40 X 5G",
       "codename": "Encore_OM",
       "model": "T609M"
@@ -700,14 +736,80 @@
     {
       "manufacturer": "",
       "market_name": "TCL 40 XE 5G",
-      "codename": "Encore_USCC",
-      "model": "T609L"
+      "codename": "Encore_Spectrum",
+      "model": "T609V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 XE 5G",
+      "codename": "Encore_Visible",
+      "model": "T609B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 403",
+      "codename": "Rio",
+      "model": "T431A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 403",
+      "codename": "Rio",
+      "model": "T431E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 403",
+      "codename": "Rio",
+      "model": "T431P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 403",
+      "codename": "Rio",
+      "model": "T431Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 405",
+      "codename": "Civic",
+      "model": "T506A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 406",
+      "codename": "Civic_S",
+      "model": "T506G"
     },
     {
       "manufacturer": "",
       "market_name": "TCL 406",
       "codename": "Civic_S",
       "model": "T506K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 408",
+      "codename": "Civic_Plus",
+      "model": "T507F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 408",
+      "codename": "Civic_Plus",
+      "model": "T507J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 408",
+      "codename": "Civic_Plus",
+      "model": "T507U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40T",
+      "codename": "Sonata_TF",
+      "model": "T608DL"
     },
     {
       "manufacturer": "",
@@ -750,6 +852,18 @@
       "market_name": "TCL C9 Plus",
       "codename": "Venice",
       "model": "5148I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL ION V",
+      "codename": "Bora_NA_OM",
+      "model": "T430M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL ION X",
+      "codename": "Bora_NA_OM",
+      "model": "T430WS"
     },
     {
       "manufacturer": "",
@@ -1041,6 +1155,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 10L LTE Gen 2",
+      "codename": "Freyr_10_1_4G",
+      "model": "8192A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 10s",
       "codename": "Aquaman_10_Pro",
       "model": "9061"
@@ -1101,6 +1221,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 8",
+      "codename": "Luna",
+      "model": "9132X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 8 4G",
       "codename": "Apollo_8_4G",
       "model": "9032X"
@@ -1110,6 +1236,18 @@
       "market_name": "TCL TAB 8 LE",
       "codename": "Luna_8_4G_TMO",
       "model": "9137W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8 Plus",
+      "codename": "Luna_8_4G_VZW",
+      "model": "9138S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8 V",
+      "codename": "Luna",
+      "model": "9132X"
     },
     {
       "manufacturer": "",
@@ -1125,6 +1263,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB Disney Edition 2",
+      "codename": "Luna_8_4G_VZW",
+      "model": "9150S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB Lite",
       "codename": "Apollo84GBoostR",
       "model": "9132S"
@@ -1134,6 +1278,18 @@
       "market_name": "TCL TAB kids",
       "codename": "Thor_8_4G_VZW",
       "model": "9049L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB10 Gen2",
+      "codename": "Gaia",
+      "model": "8496G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB10 LTE Gen2",
+      "codename": "Gaia",
+      "model": "8196G"
     },
     {
       "manufacturer": "",

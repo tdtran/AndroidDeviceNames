@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DV9157-C",
+      "codename": "DV9157-C-KRM",
+      "model": "DV9157-C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IPTVSTB",
+      "codename": "DV9135-KRM",
+      "model": "DV9135"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart_Bit",
       "codename": "Smart_Bit",
       "model": "Smart Bit"

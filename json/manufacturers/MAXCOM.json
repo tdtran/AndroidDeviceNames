@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MS651",
+      "codename": "MS651",
+      "model": "MS651"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RS-401",
       "codename": "RS_401",
       "model": "RS-401"

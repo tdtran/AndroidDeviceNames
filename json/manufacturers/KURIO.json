@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K01023",
+      "codename": "K01023",
+      "model": "K01023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K01023",
+      "codename": "K01023",
+      "model": "KURIO_01023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K01023US",
+      "codename": "K01023US",
+      "model": "K01023US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KURIO LITE GO NEW",
       "codename": "U3A_7_WIFI_Refresh_KD",
       "model": "9309S"

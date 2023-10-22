@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T2",
+      "codename": "T2",
+      "model": "T2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tech-A1",
       "codename": "Tech-A1",
       "model": "Tech A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WISEASY N6",
+      "codename": "Nano6",
+      "model": "Nano6"
     },
     {
       "manufacturer": "",

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT10",
+      "codename": "LT10",
+      "model": "LT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\"LexiTab 10\"\"\"",
       "codename": "MFC512",
       "model": "MFC512FR"
@@ -132,6 +138,12 @@
       "market_name": "TL70",
       "codename": "TL70",
       "model": "TL70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TLN10FR",
+      "codename": "TLN10FR",
+      "model": "TLN10FR"
     },
     {
       "manufacturer": "",

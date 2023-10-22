@@ -165,9 +165,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M40_Plus_EEA",
+      "codename": "M40_Plus_EEA",
+      "model": "M40_Plus_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M40_Plus_ROW",
+      "codename": "M40_Plus_ROW",
+      "model": "M40_Plus_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M40_ROW",
       "codename": "M40_ROW",
       "model": "M40_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50Pro_EEA",
+      "codename": "M50Pro_EEA",
+      "model": "M50 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50Pro_ROW",
+      "codename": "M50Pro_ROW",
+      "model": "M50 Pro"
     },
     {
       "manufacturer": "",
@@ -327,6 +351,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P26T_EEA",
+      "codename": "P26T",
+      "model": "P26T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P26T_ROW",
+      "codename": "P26T",
+      "model": "P26T_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P30Air_EEA",
       "codename": "P30Air_EEA",
       "model": "P30Air_EEA"
@@ -387,6 +423,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P30S_W_EEA",
+      "codename": "P30S_W_EEA",
+      "model": "P30S_W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30S_W_ROW",
+      "codename": "P30S_W_ROW",
+      "model": "P30S_W_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P40HD_EEA",
       "codename": "P40HD_EEA",
       "model": "P40HD"
@@ -414,6 +462,18 @@
       "market_name": "P40HD_RUS",
       "codename": "P40HD_RUS",
       "model": "P40HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P40HD_T_EEA",
+      "codename": "P40HD_T_EEA",
+      "model": "P40HD_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P40HD_T_ROW",
+      "codename": "P40HD_T_ROW",
+      "model": "P40HD_T_ROW"
     },
     {
       "manufacturer": "",
@@ -615,6 +675,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T40Air_EEA",
+      "codename": "T40Air_EEA",
+      "model": "T40 Air"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Air_EEA",
+      "codename": "T40Air_EEA",
+      "model": "T40 Air_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Air_ROW",
+      "codename": "T40Air_ROW",
+      "model": "T40 Air"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40Air_RUS",
+      "codename": "T40Air_RUS",
+      "model": "T40Air_RUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40HD_EEA",
+      "codename": "T40HD_T",
+      "model": "T40HD_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40HD_ROW",
+      "codename": "T40HD_ROW",
+      "model": "T40HD_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40HD_ROW",
+      "codename": "T40HD_T",
+      "model": "T40HD_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40HD_RUS",
+      "codename": "T40HD_RUS",
+      "model": "T40HD_RUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T40Pro",
       "codename": "Teclast_T40Pro",
       "model": "T40 PRO_ROW"
@@ -723,6 +831,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T40_Pro_W_EEA",
+      "codename": "T40_Pro_W_EEA",
+      "model": "T40_Pro_W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40_Pro_W_ROW",
+      "codename": "T40_Pro_W_ROW",
+      "model": "T40_Pro_W_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T40_ROW",
       "codename": "T40",
       "model": "TLA001"
@@ -750,6 +870,18 @@
       "market_name": "T50Air_EEA",
       "codename": "T50Air",
       "model": "T50Air_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50Pro_W_EEA",
+      "codename": "T50Pro_W_EEA",
+      "model": "T50Pro_W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50Pro_W_ROW",
+      "codename": "T50Pro_W_ROW",
+      "model": "T50Pro_W_ROW"
     },
     {
       "manufacturer": "",

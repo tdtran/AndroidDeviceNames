@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "marina",
+      "model": "VEGA Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "European and African countries",
       "codename": "guandu",
       "model": "VEGA 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VEGA Smart TV",
+      "codename": "nagata",
+      "model": "VEGA Smart TV"
     },
     {
       "manufacturer": "",

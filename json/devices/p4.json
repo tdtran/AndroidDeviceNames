@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Doogee",
+    "market_name": "T10E",
+    "codename": "P4",
+    "model": "T10E"
+  },
+  {
+    "manufacturer": "Doogee",
+    "market_name": "T10SE",
+    "codename": "P4",
+    "model": "T10E"
+  },
+  {
     "manufacturer": "Doopro",
     "market_name": "P4",
     "codename": "P4",

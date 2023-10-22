@@ -12,6 +12,12 @@
       "market_name": "T60",
       "codename": "T60",
       "model": "T60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T90_NEW",
+      "codename": "T90_NEW",
+      "model": "T90_NEW"
     }
   ]
 }

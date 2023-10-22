@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Phone Max",
+    "market_name": "X1_Pro",
+    "codename": "X1_Pro",
+    "model": "X1 Pro"
+  },
+  {
     "manufacturer": "Vernee",
     "market_name": "X1",
     "codename": "X1_PRO",

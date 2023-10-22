@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Prometheus",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PROMETHEUS",
+      "codename": "stanford",
+      "model": "SMART TV"
+    }
+  ]
+}

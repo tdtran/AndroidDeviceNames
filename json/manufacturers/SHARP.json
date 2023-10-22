@@ -759,6 +759,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R8",
+      "codename": "FaYuiry",
+      "model": "SH-R80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R8",
+      "codename": "SH-52D",
+      "model": "SH-52D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R8 pro",
+      "codename": "Kamille",
+      "model": "A301SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R8 pro",
+      "codename": "Kamille",
+      "model": "SH-R80P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R8 pro",
+      "codename": "SH-51D",
+      "model": "SH-51D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -1197,6 +1227,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense7 plus",
+      "codename": "Quattro",
+      "model": "SH-S70P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS wish",
       "codename": "SX1",
       "model": "A103SH"
@@ -1242,6 +1278,30 @@
       "market_name": "AQUOS wish2",
       "codename": "SXI",
       "model": "A204SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish3",
+      "codename": "SH-53D",
+      "model": "SH-53D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish3",
+      "codename": "SX3",
+      "model": "A302SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish3",
+      "codename": "SX3",
+      "model": "A303SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish3",
+      "codename": "SX3",
+      "model": "SH-M25"
     },
     {
       "manufacturer": "",
@@ -1587,6 +1647,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FK1",
+      "codename": "mongkok",
+      "model": "AQUOS-TVX23C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FS8014",
       "codename": "SE3",
       "model": "FS8014"
@@ -1596,6 +1662,12 @@
       "market_name": "FV1",
       "codename": "sandiego",
       "model": "AQUOS-TVT23A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FV1",
+      "codename": "sandiego",
+      "model": "AQUOS-TVU23A"
     },
     {
       "manufacturer": "",

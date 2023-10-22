@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DT10-TAB4G-T101",
+      "codename": "DT10-TAB4G-T101",
+      "model": "DT10-TAB4G-T101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H70_G",
       "codename": "H70_G",
       "model": "H70_G"

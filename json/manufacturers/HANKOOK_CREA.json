@@ -1,0 +1,11 @@
+{
+  "manufacturer": "HANKOOK_CREA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HANKOOK_CREA_IFPD",
+      "codename": "HANKOOK_CREA_RK3588",
+      "model": "CREA_86135_Series"
+    }
+  ]
+}

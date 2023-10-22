@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Max12",
+      "codename": "Max12",
+      "model": "Max12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T13",
+      "codename": "T13",
+      "model": "T13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab-T13",
       "codename": "Tab-T13",
       "model": "Tab-T13"

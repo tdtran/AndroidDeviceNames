@@ -27,9 +27,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T1021",
+      "codename": "T1021",
+      "model": "T1021"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1030A",
+      "codename": "T1030A",
+      "model": "T1030A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T803",
       "codename": "T803",
       "model": "T803"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T808",
+      "codename": "T808",
+      "model": "T808"
     }
   ]
 }

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Apollo Premium TV",
+      "codename": "nagata",
+      "model": "Apollo Premium TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Australian/EU",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
@@ -22,6 +28,12 @@
     {
       "manufacturer": "",
       "market_name": "Columbia",
+      "codename": "marina",
+      "model": "Apollo Premium4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Columbia",
       "codename": "patrick",
       "model": "Aiplus4K"
     },
@@ -30,6 +42,12 @@
       "market_name": "EXPRESS",
       "codename": "marina",
       "model": "Apollo Premium4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "marina",
+      "model": "Fobem 4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -51,6 +69,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "nagata",
+      "model": "Fobem 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Korea",
+      "codename": "marina",
+      "model": "DWsummus 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAXWELL SMART TV",
+      "codename": "marina",
+      "model": "MAXWELL SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAXWELL SMART TV",
+      "codename": "nagata",
+      "model": "MAXWELL SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Malaysia",
       "codename": "yeongdeungpo",
       "model": "AiPlus4KMY"
@@ -60,6 +102,18 @@
       "market_name": "Mexico",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sgamer",
+      "codename": "cottongreen",
+      "model": "Sgamer"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South of America",
+      "codename": "marina",
+      "model": "Apollo Pro4K TV"
     },
     {
       "manufacturer": "",

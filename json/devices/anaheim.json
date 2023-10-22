@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "PRISMPLUS",
+    "market_name": "4K Smart TV Plus",
+    "codename": "anaheim",
+    "model": "4K Smart TV Plus"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22AE-4K",
+    "codename": "anaheim",
+    "model": "SWTV-22AE-4K"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22HK-4K NF",
+    "codename": "anaheim",
+    "model": "SWTV-22HK-4K NF"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22NA-4K",
+    "codename": "anaheim",
+    "model": "SWTV-22NA-4K"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22SA-4K",
+    "codename": "anaheim",
+    "model": "SWTV-22SA-4K"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22TGS-4K",
+    "codename": "anaheim",
+    "model": "SWTV-22TGS-4K"
+  }
+]

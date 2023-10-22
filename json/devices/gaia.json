@@ -4,5 +4,17 @@
     "market_name": "D601L",
     "codename": "Gaia",
     "model": "D601L"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB10 Gen2",
+    "codename": "Gaia",
+    "model": "8496G"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB10 LTE Gen2",
+    "codename": "Gaia",
+    "model": "8196G"
   }
 ]

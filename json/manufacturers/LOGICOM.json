@@ -381,6 +381,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIKIDS11",
+      "codename": "LOGIKIDS11",
+      "model": "LOGIKIDS11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIKIDS5",
       "codename": "LOGIKIDS5",
       "model": "LOGIKIDS5"
@@ -783,6 +789,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lunar Pro",
+      "codename": "Lunar_Pro",
+      "model": "Lunar Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M bot 51",
       "codename": "Mbot51",
       "model": "M bot 51"
@@ -855,6 +867,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ONIX",
+      "codename": "ONIX",
+      "model": "ONIX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POWER bot",
       "codename": "POWERBOT",
       "model": "POWER BOT"
@@ -912,6 +930,18 @@
       "market_name": "SOLAR",
       "codename": "SOLAR",
       "model": "SOLAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB76",
+      "codename": "TAB76",
+      "model": "TAB76"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TABLINK104",
+      "codename": "Tab_Link_104",
+      "model": "Tab Link 104"
     },
     {
       "manufacturer": "",

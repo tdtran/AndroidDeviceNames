@@ -48,6 +48,18 @@
     "model": "X3"
   },
   {
+    "manufacturer": "OMIX",
+    "market_name": "X3",
+    "codename": "X3",
+    "model": "X3"
+  },
+  {
+    "manufacturer": "OMIX",
+    "market_name": "X3_1",
+    "codename": "X3",
+    "model": "X3_1"
+  },
+  {
     "manufacturer": "STK(Santok)",
     "market_name": "STKX3",
     "codename": "X3",

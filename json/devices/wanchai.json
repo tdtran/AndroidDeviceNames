@@ -6,15 +6,33 @@
     "model": "Arcelik Google TV"
   },
   {
+    "manufacturer": "Arcelik",
+    "market_name": "Arcelik Google TV UHD+",
+    "codename": "wanchai",
+    "model": "Arcelik Google TV UHD+"
+  },
+  {
     "manufacturer": "Beko",
     "market_name": "Beko Google TV",
     "codename": "wanchai",
     "model": "Beko Google TV"
   },
   {
+    "manufacturer": "Beko",
+    "market_name": "Beko Google TV UHD+",
+    "codename": "wanchai",
+    "model": "Beko Google TV UHD+"
+  },
+  {
     "manufacturer": "Grundig",
     "market_name": "Grundig Google TV",
     "codename": "wanchai",
     "model": "Grundig Google TV"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Grundig Google TV UHD+",
+    "codename": "wanchai",
+    "model": "Grundig Google TV UHD+"
   }
 ]

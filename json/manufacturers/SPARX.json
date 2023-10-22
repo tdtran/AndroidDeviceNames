@@ -15,9 +15,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neo 5 Plus",
+      "codename": "Neo_5_Plus",
+      "model": "Sparx Neo 5 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neo 5 Pro",
+      "codename": "Neo_5_Pro",
+      "model": "Neo 5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neo 7 Plus",
+      "codename": "Neo_5_Plus",
+      "model": "Sparx Neo 7 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neo 7 Ultra",
       "codename": "Neo_7_Ultra",
       "model": "Sparx Neo 7 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neo 7 Ultra",
+      "codename": "Neo_7_Ultra",
+      "model": "Sparx Neo 7 Ultra 8GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neo_X",
+      "codename": "Neo_X",
+      "model": "Neo X"
     },
     {
       "manufacturer": "",
@@ -33,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S7",
+      "codename": "Sparx_S7",
+      "model": "Sparx S7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S9",
       "codename": "S9",
       "model": "S9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sparx",
+      "codename": "Neo_8",
+      "model": "Neo 8"
     },
     {
       "manufacturer": "",

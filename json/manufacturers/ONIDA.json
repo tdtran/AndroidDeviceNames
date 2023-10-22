@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ONIDA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ONIDA 2K Android TV",
+      "codename": "lasalle",
+      "model": "ONIDA 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ONIDA 4K Android TV",
+      "codename": "kenton",
+      "model": "ONIDA 4K Android TV"
+    }
+  ]
+}

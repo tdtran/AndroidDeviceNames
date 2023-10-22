@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Azatech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AZATECH",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AZATECH",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    }
+  ]
+}

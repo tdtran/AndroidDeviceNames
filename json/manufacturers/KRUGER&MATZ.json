@@ -81,6 +81,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eagle_1074",
+      "codename": "KM1074",
+      "model": "Eagle_1074"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eagle_1075",
+      "codename": "KM1075",
+      "model": "Eagle_1075"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eagle_1076",
+      "codename": "KM1076",
+      "model": "Eagle_1076"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Eagle_702",
       "codename": "Eagle_702",
       "model": "KM0702"
