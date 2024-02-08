@@ -1,0 +1,11 @@
+{
+  "manufacturer": "CTOUCH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CTOUCH Droid OPS Module",
+      "codename": "Droid_OPS_Module",
+      "model": "UGE013AM"
+    }
+  ]
+}

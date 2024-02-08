@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 15 EEA",
+      "codename": "Note_15",
+      "model": "Note 15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pearl K1",
       "codename": "Pearl_K1",
       "model": "Pearl K1"
@@ -216,6 +222,18 @@
       "market_name": "T5 Pro",
       "codename": "T5_Pro",
       "model": "T5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7 EEA",
+      "codename": "T7",
+      "model": "T7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T7 Pro EEA",
+      "codename": "T7_Pro",
+      "model": "T7 Pro"
     },
     {
       "manufacturer": "",

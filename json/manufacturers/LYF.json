@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LS1602UW",
+      "codename": "LYF",
+      "model": "LS1602UW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT-8001",
       "codename": "LT-8001",
       "model": "LT-8001"

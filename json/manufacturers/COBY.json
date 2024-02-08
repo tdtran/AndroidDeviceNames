@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dorado",
+      "codename": "Dorado",
+      "model": "Dorado"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID7052",
       "codename": "MID7052",
       "model": "MID7052"

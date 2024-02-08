@@ -1,0 +1,11 @@
+{
+  "manufacturer": "AngelTech",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P80",
+      "codename": "P80",
+      "model": "P80"
+    }
+  ]
+}

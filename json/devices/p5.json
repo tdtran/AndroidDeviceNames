@@ -13,6 +13,12 @@
   },
   {
     "manufacturer": "Wiseasy",
+    "market_name": "P5_EEA",
+    "codename": "P5",
+    "model": "P5"
+  },
+  {
+    "manufacturer": "Wiseasy",
     "market_name": "Wiseasy P5",
     "codename": "P5",
     "model": "P5"

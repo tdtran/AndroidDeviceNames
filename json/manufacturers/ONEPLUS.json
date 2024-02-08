@@ -3,6 +3,42 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "12",
+      "codename": "OP595DL1",
+      "model": "CPH2573"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "12",
+      "codename": "OP595DL1",
+      "model": "CPH2581"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "12",
+      "codename": "OP595DL1",
+      "model": "CPH2583"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "12R",
+      "codename": "OP5D35L1",
+      "model": "CPH2585"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "12R",
+      "codename": "OP5D35L1",
+      "model": "CPH2609"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "12R",
+      "codename": "OP5D35L1",
+      "model": "CPH2611"
+    },
+    {
+      "manufacturer": "",
       "market_name": "2",
       "codename": "OnePlus2",
       "model": "ONE A2003"
@@ -162,6 +198,18 @@
       "market_name": "OnePlus 11R 5G",
       "codename": "OP5961L1",
       "model": "CPH2487"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 12",
+      "codename": "OP5929L1",
+      "model": "PJD110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 12R",
+      "codename": "OP5D35L1",
+      "model": "CPH2609"
     },
     {
       "manufacturer": "",
@@ -489,6 +537,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Ace 3",
+      "codename": "OP5CF9L1",
+      "model": "PJE110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus Ace 竞速版",
       "codename": "OP5911",
       "model": "PGZ110"
@@ -750,6 +804,12 @@
       "market_name": "Oneplus_Dosa_IN",
       "codename": "Oneplus_Dosa_IN",
       "model": "Oneplus_Dosa_IN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Open",
+      "codename": "OP5973L1",
+      "model": "CPH2551"
     },
     {
       "manufacturer": "",

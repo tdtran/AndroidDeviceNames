@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PHILIPS",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PHILIPS TV",
       "codename": "cocina",
       "model": "PHILIPS TV"

@@ -48,6 +48,12 @@
     "model": "HiSmart TV"
   },
   {
+    "manufacturer": "Panavox",
+    "market_name": "fushan_panavox",
+    "codename": "hamamatsucho",
+    "model": "Panavox Android TV"
+  },
+  {
     "manufacturer": "Riviera",
     "market_name": "Riviera",
     "codename": "hamamatsucho",

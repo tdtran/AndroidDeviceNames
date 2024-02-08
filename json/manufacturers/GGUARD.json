@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vileparle",
+      "codename": "vileparle",
+      "model": "R6G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "xiaoyushan_emG",
       "codename": "xiaoyushan",
       "model": "HiSmartTV A4"

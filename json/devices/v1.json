@@ -6,6 +6,12 @@
     "model": "V1"
   },
   {
+    "manufacturer": "Hafury",
+    "market_name": "V1",
+    "codename": "V1",
+    "model": "V1"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "LG Optimus L1II",
     "codename": "v1",
@@ -76,5 +82,11 @@
     "market_name": "V1",
     "codename": "V1",
     "model": "vivo V1"
+  },
+  {
+    "manufacturer": "Vocal",
+    "market_name": "v1",
+    "codename": "v1",
+    "model": "VOCAL V1"
   }
 ]

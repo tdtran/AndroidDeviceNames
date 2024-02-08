@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "LNMBBS",
+    "market_name": "L80",
+    "codename": "L80",
+    "model": "L80"
+  },
+  {
     "manufacturer": "SPC Mobile",
     "market_name": "L80",
     "codename": "L80",

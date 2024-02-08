@@ -24,6 +24,12 @@
       "market_name": "XStream Smart Box",
       "codename": "hsw4026atl",
       "model": "hsw4026atl"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xstream4_AR",
+      "codename": "VIP7220SIAI",
+      "model": "Xstream4_AR"
     }
   ]
 }

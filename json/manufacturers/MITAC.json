@@ -36,6 +36,12 @@
       "market_name": "N672",
       "codename": "hera_pro",
       "model": "N672"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "phaeton",
+      "codename": "phaeton",
+      "model": "N722"
     }
   ]
 }

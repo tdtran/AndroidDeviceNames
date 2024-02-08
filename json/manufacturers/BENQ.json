@@ -249,6 +249,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RM8604",
+      "codename": "RM8604",
+      "model": "RM8604"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RP6504",
+      "codename": "RP6504",
+      "model": "RP6504"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RP7504",
+      "codename": "RP7504",
+      "model": "RP7504"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RP8604",
       "codename": "RP8604",
       "model": "RP8604"
@@ -312,6 +330,12 @@
       "market_name": "TEY1A",
       "codename": "TEY1A",
       "model": "TEY1A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TEY2A",
+      "codename": "TEY2A",
+      "model": "TEY2A"
     },
     {
       "manufacturer": "",

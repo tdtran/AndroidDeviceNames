@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LeNumero2Mini EEA",
+      "codename": "LeNumero2Mini",
+      "model": "LeNumero2Mini"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ordissimo LeNumero2",
       "codename": "LeNumero2",
       "model": "LeNumero2"

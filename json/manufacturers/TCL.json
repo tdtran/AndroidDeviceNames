@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TBD",
+      "codename": "ScarabLite_TMO",
+      "model": "T434W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 10 5G",
       "codename": "Seattle",
       "model": "T790B"
@@ -742,6 +748,12 @@
     {
       "manufacturer": "",
       "market_name": "TCL 40 XE 5G",
+      "codename": "Encore_USCC",
+      "model": "T609L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 40 XE 5G",
       "codename": "Encore_Visible",
       "model": "T609B"
     },
@@ -789,6 +801,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 406i",
+      "codename": "Civic_S_Refresh",
+      "model": "T506F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 406s",
+      "codename": "Civic_S",
+      "model": "T506T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 408",
       "codename": "Civic_Plus",
       "model": "T507F"
@@ -816,6 +840,12 @@
       "market_name": "TCL 40XL",
       "codename": "Sonata_Pro_OM",
       "model": "T608M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 502",
+      "codename": "Rio_CAN",
+      "model": "T432J"
     },
     {
       "manufacturer": "",
@@ -1284,6 +1314,12 @@
       "market_name": "TCL TAB10 Gen2",
       "codename": "Gaia",
       "model": "8496G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB10 Gen2 LTE",
+      "codename": "Gaia",
+      "model": "8196G"
     },
     {
       "manufacturer": "",

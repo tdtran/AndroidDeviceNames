@@ -28,5 +28,11 @@
     "market_name": "motorola razr 40",
     "codename": "lynkco",
     "model": "motorola razr 40"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "motorola razr 40s",
+    "codename": "lynkco",
+    "model": "motorola razr 40s"
   }
 ]

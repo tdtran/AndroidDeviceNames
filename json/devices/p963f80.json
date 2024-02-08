@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "P601",
+    "codename": "P963F80",
+    "model": "P601"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE Blade A31 Plus",
     "codename": "P963F80",
     "model": "ZTE Blade A31 Plus"

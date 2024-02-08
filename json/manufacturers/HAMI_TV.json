@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Hami TV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HamiVideo",
+      "codename": "HamiVideo",
+      "model": "HamiVideo"
+    }
+  ]
+}

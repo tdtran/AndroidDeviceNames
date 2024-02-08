@@ -16,5 +16,11 @@
     "market_name": "SKY",
     "codename": "Sky",
     "model": "Sky"
+  },
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M6 Pro 5G",
+    "codename": "sky",
+    "model": "23076PC4BI"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Power Green",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "POWER GREEN",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POWER_GREEN",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    }
+  ]
+}

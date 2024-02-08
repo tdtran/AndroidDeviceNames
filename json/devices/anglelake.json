@@ -4,5 +4,11 @@
     "market_name": "Acer",
     "codename": "anglelake",
     "model": "DIX41RKF"
+  },
+  {
+    "manufacturer": "Gangnam",
+    "market_name": "GANGNAM",
+    "codename": "anglelake",
+    "model": "GNG41RF"
   }
 ]

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J11",
+      "codename": "J11",
+      "model": "J11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J11PLUS",
       "codename": "J11PLUS",
       "model": "J11PLUS"

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X900-US",
+      "codename": "X900-US",
+      "model": "X900-US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X900_EEA",
       "codename": "X900_EEA",
       "model": "X900_EEA"

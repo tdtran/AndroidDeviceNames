@@ -459,6 +459,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5L Max",
+      "codename": "C0176",
+      "model": "C5L Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5L PLUS",
       "codename": "C0130UU",
       "model": "C5L PLUS"
@@ -519,6 +525,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C6L",
+      "codename": "C0190",
+      "model": "C6L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6L 2020",
       "codename": "C0090WW",
       "model": "C6L 2020"
@@ -567,6 +579,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C6L MAX",
+      "codename": "C0200",
+      "model": "C6L Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L MAX",
+      "codename": "C0210",
+      "model": "C6L Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6x",
       "codename": "C090P",
       "model": "C6x"
@@ -576,6 +600,12 @@
       "market_name": "C7",
       "codename": "C250EQ",
       "model": "C7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C7 MAX",
+      "codename": "C0220",
+      "model": "C7 MAX"
     },
     {
       "manufacturer": "",
@@ -813,6 +843,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G33",
+      "codename": "G0892_MXT",
+      "model": "G33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G33",
+      "codename": "G0892_SP",
+      "model": "G33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G33",
+      "codename": "G0892_SYN",
+      "model": "G33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G33",
+      "codename": "G0894",
+      "model": "G33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G40",
       "codename": "G0730WW",
       "model": "G40"
@@ -822,6 +876,12 @@
       "market_name": "G40",
       "codename": "G0790UU",
       "model": "G40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G43",
+      "codename": "G0950",
+      "model": "G43"
     },
     {
       "manufacturer": "",
@@ -952,8 +1012,20 @@
     {
       "manufacturer": "",
       "market_name": "G53",
+      "codename": "G0850_TIGO",
+      "model": "G53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G53",
       "codename": "G0851",
       "model": "G53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G54",
+      "codename": "G0840",
+      "model": "G54"
     },
     {
       "manufacturer": "",
@@ -1050,6 +1122,12 @@
       "market_name": "G73",
       "codename": "G0771",
       "model": "G73"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G73L",
+      "codename": "G0930",
+      "model": "G73L"
     },
     {
       "manufacturer": "",
@@ -1230,6 +1308,12 @@
       "market_name": "Grand_X",
       "codename": "Grand_X",
       "model": "Grand X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J10L",
+      "codename": "J0140",
+      "model": "J10L"
     },
     {
       "manufacturer": "",
@@ -2310,6 +2394,12 @@
       "market_name": "X22",
       "codename": "X0010WW",
       "model": "X22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "X0020",
+      "model": "X5"
     }
   ]
 }

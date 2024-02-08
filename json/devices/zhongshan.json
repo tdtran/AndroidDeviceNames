@@ -132,6 +132,12 @@
     "model": "4K SMART TV"
   },
   {
+    "manufacturer": "Ice",
+    "market_name": "ICE",
+    "codename": "zhongshan",
+    "model": "Smart UHD TV"
+  },
+  {
     "manufacturer": "Indurama",
     "market_name": "INDURAMA",
     "codename": "zhongshan",
@@ -211,12 +217,6 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "ICE",
-    "codename": "zhongshan",
-    "model": "Smart UHD TV"
-  },
-  {
-    "manufacturer": "KTCtv",
     "market_name": "INNOVA",
     "codename": "zhongshan",
     "model": "CSV4K"
@@ -253,7 +253,7 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "POWER GREEN",
+    "market_name": "RZTK",
     "codename": "zhongshan",
     "model": "4K SMART TV"
   },
@@ -368,6 +368,12 @@
   {
     "manufacturer": "Philco",
     "market_name": "PHILCO",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Power Green",
+    "market_name": "POWER GREEN",
     "codename": "zhongshan",
     "model": "4K SMART TV"
   },

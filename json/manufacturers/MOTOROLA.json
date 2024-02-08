@@ -363,6 +363,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4K TV",
+      "codename": "songshan",
+      "model": "SmartTV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K TV",
+      "codename": "songshan",
+      "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "redwood",
       "model": "AI PONT"
@@ -978,6 +990,12 @@
       "market_name": "MOTOROLA",
       "codename": "zhongshan",
       "model": "Smart UHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOROLA SMART TV",
+      "codename": "umeda",
+      "model": "MOTOROLA SMART TV"
     },
     {
       "manufacturer": "",
@@ -2130,6 +2148,12 @@
       "market_name": "Motorola one",
       "codename": "deen_sprout",
       "model": "motorola one"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MotorolaTV",
+      "codename": "hayward",
+      "model": "MotorolaTV"
     },
     {
       "manufacturer": "",
@@ -3393,6 +3417,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g34",
+      "codename": "fogos",
+      "model": "XT2363-4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g34 5G",
+      "codename": "fogos",
+      "model": "moto g34 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g34 5G",
+      "codename": "fogos",
+      "model": "moto g53 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g40 fusion",
       "codename": "hanoip",
       "model": "moto g(40) fusion"
@@ -3489,9 +3531,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g53s 5G",
+      "codename": "penang",
+      "model": "moto g53s 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g53y 5G",
       "codename": "penang",
       "model": "moto g53y 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g54 5G",
+      "codename": "cancunf",
+      "model": "XT2343-3"
     },
     {
       "manufacturer": "",
@@ -3600,6 +3654,18 @@
       "market_name": "moto g82 5G",
       "codename": "rhodep",
       "model": "moto g82 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g84 5G",
+      "codename": "bangkk",
+      "model": "moto g53 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g84 5G",
+      "codename": "bangkk",
+      "model": "moto g84 5G"
     },
     {
       "manufacturer": "",
@@ -3735,6 +3801,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "motorola edge 2023",
+      "codename": "aion",
+      "model": "motorola edge (2022)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 2023",
+      "codename": "aion",
+      "model": "motorola edge 2023"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola edge 30",
       "codename": "dubai",
       "model": "moto g200 5G"
@@ -3804,6 +3882,18 @@
       "market_name": "motorola edge 40",
       "codename": "lyriq",
       "model": "motorola edge 40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 40 neo",
+      "codename": "manaus",
+      "model": "motorola edge (2022)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 40 neo",
+      "codename": "manaus",
+      "model": "motorola edge 40 neo"
     },
     {
       "manufacturer": "",
@@ -4080,6 +4170,12 @@
       "market_name": "motorola razr 40 ultra",
       "codename": "zeekr",
       "model": "motorola razr 40 ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 40s",
+      "codename": "lynkco",
+      "model": "motorola razr 40s"
     },
     {
       "manufacturer": "",

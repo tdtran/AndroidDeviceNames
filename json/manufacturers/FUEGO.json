@@ -1,0 +1,17 @@
+{
+  "manufacturer": "FUEGO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FUEGO 2K SMART TV",
+      "codename": "nagata",
+      "model": "FUEGO 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FUEGO 4K SMART TV",
+      "codename": "marina",
+      "model": "FUEGO 4K SMART TV"
+    }
+  ]
+}

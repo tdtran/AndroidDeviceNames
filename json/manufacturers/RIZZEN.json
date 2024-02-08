@@ -6,6 +6,24 @@
       "market_name": "NovaTab_R10",
       "codename": "NovaTab_R10",
       "model": "NovaTab_R10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NovaTab_R10s",
+      "codename": "NovaTab_R10s",
+      "model": "R10s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S1",
+      "codename": "S1",
+      "model": "S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "X1",
+      "model": "X1"
     }
   ]
 }

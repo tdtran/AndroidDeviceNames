@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KG3100",
+      "codename": "KG3100",
+      "model": "KG3100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KG4100",
       "codename": "KG4100",
       "model": "KG4100"
@@ -30,6 +36,12 @@
       "market_name": "MA4100",
       "codename": "MA4100",
       "model": "MA4100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAR4510C",
+      "codename": "MAR4510C",
+      "model": "MAR4510C"
     }
   ]
 }

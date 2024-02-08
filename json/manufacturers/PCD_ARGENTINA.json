@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P63L",
+      "codename": "P63L_CA",
+      "model": "P63L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P63L",
+      "codename": "P63L_PR",
+      "model": "P63L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PCD508",
       "codename": "PCD508",
       "model": "PCD508"

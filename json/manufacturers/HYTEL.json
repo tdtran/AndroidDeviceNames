@@ -6,6 +6,12 @@
       "market_name": "HOT MINI",
       "codename": "HOT_MINI",
       "model": "HOT MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M30A",
+      "codename": "M30A",
+      "model": "M30A"
     }
   ]
 }

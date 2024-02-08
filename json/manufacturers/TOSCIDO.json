@@ -63,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T181",
+      "codename": "T181",
+      "model": "T181"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T181-EEA",
+      "codename": "T181-EEA",
+      "model": "T181-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T20-EEA",
       "codename": "T20-EEA",
       "model": "T20-EEA"

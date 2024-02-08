@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GO700FR",
+      "codename": "GoFreeTV",
+      "model": "GO700FR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SEI600GO",
       "codename": "HND",
       "model": "SEI600GO"

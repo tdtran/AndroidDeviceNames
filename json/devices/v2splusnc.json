@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Sunmi",
+    "market_name": "V2sPLUS",
+    "codename": "V2sPLUSNC",
+    "model": "V2sPLUSNC_EDLA_GL"
+  },
+  {
+    "manufacturer": "Sunmi",
     "market_name": "V2sPLUSNC",
     "codename": "V2sPLUSNC",
     "model": "V2sPLUSNC_EEA"

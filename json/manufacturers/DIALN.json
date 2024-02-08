@@ -16,8 +16,32 @@
     {
       "manufacturer": "",
       "market_name": "Neo",
+      "codename": "Neo",
+      "model": "Neo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neo",
       "codename": "NeoA",
       "model": "Neo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nova",
+      "codename": "Nova",
+      "model": "Nova"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nova",
+      "codename": "NovaA",
+      "model": "Nova"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10",
+      "codename": "S10",
+      "model": "S10"
     },
     {
       "manufacturer": "",
@@ -51,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X62",
+      "codename": "X62B",
+      "model": "X62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X62",
+      "codename": "X62C",
+      "model": "X62"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X65",
       "codename": "X65",
       "model": "X65"
@@ -59,6 +95,18 @@
       "manufacturer": "",
       "market_name": "X65",
       "codename": "X65A",
+      "model": "X65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X65",
+      "codename": "X65B",
+      "model": "X65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X65",
+      "codename": "X65C",
       "model": "X65"
     },
     {

@@ -39,6 +39,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SPARK Go 2024",
+      "codename": "TECNO-Mobile-BG6",
+      "model": "TECNO Mobile BG6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO Mobile SPARK 20",
+      "codename": "TECNO-Mobile-KJ5n",
+      "model": "TECNO Mobile KJ5n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO Mobile SPARK 20 Pro+",
+      "codename": "TECNO-Mobile-KJ7",
+      "model": "TECNO Mobile KJ7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO Mobile SPARK 20C",
+      "codename": "TECNO-Mobile-BG7n",
+      "model": "TECNO Mobile BG7n"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO SPARK 10",
       "codename": "TECNO-Mobile-KI5q",
       "model": "TECNO Mobile KI5q"

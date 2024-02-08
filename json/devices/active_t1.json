@@ -4,5 +4,11 @@
     "market_name": "Active T1",
     "codename": "Active_T1",
     "model": "MT09"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "Active T1 EEA",
+    "codename": "Active_T1",
+    "model": "MT09"
   }
 ]

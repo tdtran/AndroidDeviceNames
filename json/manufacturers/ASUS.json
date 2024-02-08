@@ -633,63 +633,57 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 5",
+      "market_name": "ROG Phone 5 series",
       "codename": "ASUS_I005_1",
       "model": "ASUS_I005D"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 5",
+      "market_name": "ROG Phone 5 series",
       "codename": "ASUS_I005_1",
       "model": "ASUS_I005DA"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 5",
+      "market_name": "ROG Phone 5 series",
       "codename": "ASUS_I005_1",
       "model": "ASUS_I005DB"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 5",
+      "market_name": "ROG Phone 5 series",
       "codename": "ASUS_I005_1",
       "model": "ZS673KS"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 5",
+      "market_name": "ROG Phone 5 series",
       "codename": "ASUS_I005_1",
       "model": "ZS676KS"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 6 (AI2201)",
+      "market_name": "ROG Phone 6 series",
       "codename": "ASUS_AI2201",
       "model": "ASUS_AI2201_A"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 6 (AI2201)",
+      "market_name": "ROG Phone 6 series",
       "codename": "ASUS_AI2201",
       "model": "ASUS_AI2201_B"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 6 (AI2201)",
+      "market_name": "ROG Phone 6 series",
       "codename": "ASUS_AI2201",
       "model": "ASUS_AI2201_C"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 6 (AI2201)",
+      "market_name": "ROG Phone 6 series",
       "codename": "ASUS_AI2201",
       "model": "ASUS_AI2201_D"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ROG Phone 6D Ultimate",
-      "codename": "ASUS_AI2203",
-      "model": "ASUS_AI2203_B"
     },
     {
       "manufacturer": "",
@@ -699,15 +693,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 7 (AI2205)",
+      "market_name": "ROG Phone 6D series",
+      "codename": "ASUS_AI2203",
+      "model": "ASUS_AI2203_B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 7 series",
       "codename": "ASUS_AI2205",
       "model": "ASUS_AI2205_A"
     },
     {
       "manufacturer": "",
-      "market_name": "ROG Phone 7 (AI2205)",
+      "market_name": "ROG Phone 7 series",
       "codename": "ASUS_AI2205",
       "model": "ASUS_AI2205_C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 8 series",
+      "codename": "ASUS_AI2401",
+      "model": "ASUS_AI2401_A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 8 series",
+      "codename": "ASUS_AI2401",
+      "model": "ASUS_AI2401_C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 8 series",
+      "codename": "ASUS_AI2401",
+      "model": "ASUS_AI2401_D"
     },
     {
       "manufacturer": "",
@@ -2259,21 +2277,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Zenfone 10 (AI2302)",
+      "market_name": "Zenfone 10",
       "codename": "ASUS_AI2302",
       "model": "ASUS_AI2302"
     },
     {
       "manufacturer": "",
-      "market_name": "Zenfone 8 / ASUS 8Z",
+      "market_name": "Zenfone 8",
       "codename": "ASUS_I006D",
       "model": "ASUS_I006D"
     },
     {
       "manufacturer": "",
-      "market_name": "Zenfone 8 / ASUS 8Z",
+      "market_name": "Zenfone 8",
       "codename": "ASUS_I006D",
       "model": "ZS590KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zenfone 8 / ASUS 8z",
+      "codename": "ASUS_I006D",
+      "model": "ASUS_I006D"
     },
     {
       "manufacturer": "",

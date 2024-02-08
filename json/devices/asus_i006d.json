@@ -1,14 +1,20 @@
 [
   {
     "manufacturer": "Asus",
-    "market_name": "Zenfone 8 / ASUS 8Z",
+    "market_name": "Zenfone 8",
     "codename": "ASUS_I006D",
     "model": "ASUS_I006D"
   },
   {
     "manufacturer": "Asus",
-    "market_name": "Zenfone 8 / ASUS 8Z",
+    "market_name": "Zenfone 8",
     "codename": "ASUS_I006D",
     "model": "ZS590KS"
+  },
+  {
+    "manufacturer": "Asus",
+    "market_name": "Zenfone 8 / ASUS 8z",
+    "codename": "ASUS_I006D",
+    "model": "ASUS_I006D"
   }
 ]

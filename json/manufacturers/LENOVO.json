@@ -2895,18 +2895,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo Tab K11",
-      "codename": "J606F",
-      "model": "Lenovo TB-J606F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Lenovo Tab K11",
-      "codename": "J606N",
-      "model": "Lenovo TB-J606N"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Lenovo Tab K8",
       "codename": "TB-8506F",
       "model": "Lenovo TB-8506F"
@@ -3072,6 +3060,18 @@
       "market_name": "Lenovo Tab M10 Plus 3rd Gen",
       "codename": "TB128XU",
       "model": "Lenovo TB128XU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M11",
+      "codename": "TB330FU",
+      "model": "TB330FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M11",
+      "codename": "TB330XU",
+      "model": "TB330XU"
     },
     {
       "manufacturer": "",
@@ -3354,6 +3354,18 @@
       "market_name": "Lenovo Tab V7",
       "codename": "PB-6505Y",
       "model": "Lenovo PB-6505Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab m11",
+      "codename": "J606F",
+      "model": "Lenovo TB-J606F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab m11",
+      "codename": "J606N",
+      "model": "Lenovo TB-J606N"
     },
     {
       "manufacturer": "",
@@ -4776,6 +4788,18 @@
       "market_name": "联想平板电脑 启天K10",
       "codename": "X6C6NBX",
       "model": "Lenovo TB-X6C6NBX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑 启天K10c",
+      "codename": "TB330FU",
+      "model": "TB330FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "联想平板电脑 启天K10c",
+      "codename": "TB330XC",
+      "model": "TB330XC"
     },
     {
       "manufacturer": "",

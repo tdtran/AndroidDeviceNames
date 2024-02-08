@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Contex TV",
+      "codename": "nagata",
+      "model": "Contex TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "AiPlus2K"
@@ -18,12 +24,6 @@
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "WALTON Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Europe",
-      "codename": "nagata",
-      "model": "Apollo Premium2K TV"
     },
     {
       "manufacturer": "",

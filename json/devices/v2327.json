@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V30 Lite 5G",
+    "codename": "V2327",
+    "model": "V2327"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V30 SE",
+    "codename": "V2327",
+    "model": "V2349"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "V40 SE 5G",
+    "codename": "V2327",
+    "model": "V2337"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y100 5G",
+    "codename": "V2327",
+    "model": "V2327"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y200e 5G",
+    "codename": "V2327",
+    "model": "V2336"
+  }
+]

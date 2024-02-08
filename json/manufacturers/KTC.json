@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EcoTV1 J",
+      "codename": "catlins",
+      "model": "EcoTV1 J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EcoTVCOL",
       "codename": "lavender",
       "model": "EcoTV C"

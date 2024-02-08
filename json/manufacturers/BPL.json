@@ -30,6 +30,12 @@
       "market_name": "BPL UHD TV",
       "codename": "OD0M_EA_T32",
       "model": "BPL UHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
+      "model": "AI PONT"
     }
   ]
 }

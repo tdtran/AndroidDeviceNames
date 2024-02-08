@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "fushan_panavox",
+      "codename": "hamamatsucho",
+      "model": "Panavox Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "xiaoyushan_panavox",
       "codename": "xiaoyushan",
       "model": "Panavox Android TV"

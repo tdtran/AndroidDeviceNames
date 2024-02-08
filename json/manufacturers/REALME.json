@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RMX3771",
+      "codename": "RE58B8L1",
+      "model": "RMX3771"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX3782",
+      "codename": "RE5C6CL1",
+      "model": "RMX3782"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "mateo",
       "model": "2K PA Smart TV"
@@ -210,6 +222,12 @@
       "market_name": "realme 11x 5G",
       "codename": "RE5C6CL1",
       "model": "RMX3785"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 12 Pro+ 5G",
+      "codename": "RE5C82L1",
+      "model": "RMX3840"
     },
     {
       "manufacturer": "",
@@ -561,6 +579,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme C67",
+      "codename": "RE5C91L1",
+      "model": "RMX3890"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme GT 2\t",
       "codename": "RE58B2L1",
       "model": "RMX3312"
@@ -609,6 +633,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme GT Neo 5 SE",
+      "codename": "RE58D1L1",
+      "model": "RMX3701"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme GT Neo2 5G",
       "codename": "RE879AL1",
       "model": "RMX3370"
@@ -636,6 +666,12 @@
       "market_name": "realme GT5 240W",
       "codename": "RE5C33",
       "model": "RMX3823"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme GT5 Pro",
+      "codename": "RE5C37",
+      "model": "RMX3888"
     },
     {
       "manufacturer": "",
@@ -708,6 +744,12 @@
       "market_name": "realme Q3s\t",
       "codename": "RE548BL1",
       "model": "RMX3461"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme Q5",
+      "codename": "RE547D",
+      "model": "RMX3478"
     },
     {
       "manufacturer": "",
@@ -897,12 +939,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "realme narzo 60x 5G",
-      "codename": "RE5C6CL1",
-      "model": "RMX3782"
-    },
-    {
-      "manufacturer": "",
       "market_name": "realme narzo N53",
       "codename": "RE58C6",
       "model": "RMX3761"
@@ -939,12 +975,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "真我 10 Pro",
-      "codename": "RE5869",
-      "model": "RMX3770"
-    },
-    {
-      "manufacturer": "",
       "market_name": "真我 GT NEO  3  150W",
       "codename": "RE5489",
       "model": "RMX3562"
@@ -969,12 +999,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "真我 Q5",
-      "codename": "RE547D",
-      "model": "RMX3478"
-    },
-    {
-      "manufacturer": "",
       "market_name": "真我 V20",
       "codename": "RE584B",
       "model": "RMX3610"
@@ -984,6 +1008,12 @@
       "market_name": "真我 V20",
       "codename": "RE584B",
       "model": "RMX3611"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我11 Pro",
+      "codename": "RE5869",
+      "model": "RMX3770"
     },
     {
       "manufacturer": "",
@@ -1038,6 +1068,18 @@
       "market_name": "真我V13 5G",
       "codename": "RE5081",
       "model": "RMX3043"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我V50",
+      "codename": "RE5C34",
+      "model": "RMX3783"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我V50s",
+      "codename": "RE5C34",
+      "model": "RMX3781"
     }
   ]
 }

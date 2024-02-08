@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "Pad  1 mini",
+    "codename": "itel-IKP-31",
+    "model": "IKP-31"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel-IKP-31",
     "codename": "itel-IKP-31",
     "model": "IKP-31"

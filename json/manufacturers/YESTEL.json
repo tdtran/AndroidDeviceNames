@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X2_US",
+      "codename": "X2_US",
+      "model": "X2_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X3",
       "codename": "X3",
       "model": "X3"

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SL1046",
+      "codename": "SL1046",
+      "model": "SL1046"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SL1068",
       "codename": "SL1068",
       "model": "SL1068"

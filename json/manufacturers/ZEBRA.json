@@ -141,6 +141,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ET60",
+      "codename": "ET60",
+      "model": "ET60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ET65",
+      "codename": "ET65",
+      "model": "ET65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HC20",
+      "codename": "TC22",
+      "model": "HC20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HC50",
+      "codename": "TC22",
+      "model": "TC22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MC18",
       "codename": "MC18",
       "model": "MC18N0"
@@ -186,6 +210,12 @@
       "market_name": "MC40",
       "codename": "MC40",
       "model": "MC40N0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC9400",
+      "codename": "MC9400",
+      "model": "MC9400"
     },
     {
       "manufacturer": "",

@@ -309,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IX PRO",
+      "codename": "IX_PRO",
+      "model": "IX PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IX-1",
       "codename": "IX-1",
       "model": "IX-1"
@@ -354,6 +360,12 @@
       "market_name": "METRO2",
       "codename": "METRO2",
       "model": "MOBICEL METRO2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MX1",
+      "codename": "MX1",
+      "model": "MX1"
     },
     {
       "manufacturer": "",

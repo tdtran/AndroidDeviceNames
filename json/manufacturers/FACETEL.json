@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q10-EEA",
+      "codename": "Q10-EEA",
+      "model": "Q10-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q10-Pro",
       "codename": "Q10-Pro",
       "model": "Q10-Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q10-US",
+      "codename": "Q10-US",
+      "model": "Q10-US"
     },
     {
       "manufacturer": "",
@@ -60,6 +72,12 @@
       "market_name": "Q5_US",
       "codename": "Q5_US",
       "model": "3W_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q6_US",
+      "codename": "Q6_US",
+      "model": "Q6_US"
     },
     {
       "manufacturer": "",

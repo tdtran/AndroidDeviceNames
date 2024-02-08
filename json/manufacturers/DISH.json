@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Celero3 5G",
+      "codename": "U653DS",
+      "model": "Celero3 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Celero3 5G+",
+      "codename": "U695DS",
+      "model": "Celero3 5G+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EVOLVE",
       "codename": "dish_cable_bcm",
       "model": "SH960C-DS"

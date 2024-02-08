@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KidzPad Pro",
+      "codename": "KidzPad_Pro",
+      "model": "T811"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smile_1",
       "codename": "Smile_1",
       "model": "T803"
@@ -153,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay50",
+      "codename": "T1030X",
+      "model": "iPlay50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay50 Pro",
       "codename": "T1030M",
       "model": "iPlay50 Pro"
@@ -162,6 +174,30 @@
       "market_name": "iPlay50 Pro",
       "codename": "T1030M",
       "model": "iPlay50_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay50 Upgraded",
+      "codename": "T1030T",
+      "model": "iPlay50_Upgraded"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay50S",
+      "codename": "T1029TA",
+      "model": "iPlay50S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay50_Lite",
+      "codename": "U1030",
+      "model": "iPlay50_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay50_Mini_Lite",
+      "codename": "U807",
+      "model": "iPlay50_Mini_Lite"
     },
     {
       "manufacturer": "",

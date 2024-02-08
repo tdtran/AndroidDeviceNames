@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eagle_807",
+      "codename": "KM0807",
+      "model": "Eagle_807"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FLOW",
       "codename": "Kruger_Matz_FLOW",
       "model": "FLOW"

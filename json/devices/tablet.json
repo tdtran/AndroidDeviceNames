@@ -28,5 +28,29 @@
     "market_name": "SN10064",
     "codename": "TABLET",
     "model": "SN10064"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20721400",
+    "codename": "Tablet",
+    "model": "20721400"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20725300",
+    "codename": "Tablet",
+    "model": "20725300"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20726600",
+    "codename": "Tablet",
+    "model": "20726600"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20728200",
+    "codename": "Tablet",
+    "model": "20728200"
   }
 ]

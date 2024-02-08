@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "realme",
+    "market_name": "RMX3771",
+    "codename": "RE58B8L1",
+    "model": "RMX3771"
+  },
+  {
+    "manufacturer": "realme",
     "market_name": "realme 10 Pro 5G",
     "codename": "RE58B8L1",
     "model": "RMX3771"

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Pepperl_Fuchs",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Smart-Ex 03",
+      "codename": "Smart-Ex03",
+      "model": "Smart-Ex03"
+    }
+  ]
+}

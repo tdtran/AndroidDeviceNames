@@ -60,6 +60,12 @@
       "market_name": "R4_GTV",
       "codename": "R4_GTV",
       "model": "R4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vileparle",
+      "codename": "vileparle",
+      "model": "R6G"
     }
   ]
 }

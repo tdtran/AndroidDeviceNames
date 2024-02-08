@@ -357,6 +357,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Orange Nola fun 3",
+      "codename": "Nola_fun_3",
+      "model": "Orange Nola fun 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P11",
       "codename": "itel_P11",
       "model": "itel P11"
@@ -444,6 +450,12 @@
       "market_name": "P51",
       "codename": "P51",
       "model": "itel P51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad  1 mini",
+      "codename": "itel-IKP-31",
+      "model": "IKP-31"
     },
     {
       "manufacturer": "",
@@ -606,6 +618,12 @@
       "market_name": "Vision1Pro",
       "codename": "itel-L6502",
       "model": "itel L6502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WOW TV",
+      "codename": "umeda",
+      "model": "WOW TV"
     },
     {
       "manufacturer": "",
@@ -1323,9 +1341,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel P55",
+      "codename": "itel-A666L",
+      "model": "itel A666L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel P55",
+      "codename": "itel-A666LN",
+      "model": "itel A666LN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel P55 5G",
       "codename": "itel-P661N",
       "model": "itel P661N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel P55+",
+      "codename": "itel-P663L",
+      "model": "itel P663L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel P55+",
+      "codename": "itel-P663LN",
+      "model": "itel P663LN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel P55T",
+      "codename": "itel-P665L",
+      "model": "itel P665L"
     },
     {
       "manufacturer": "",
@@ -1398,6 +1446,12 @@
       "market_name": "itel S23+",
       "codename": "itel-S681LN",
       "model": "itel S681LN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel S24",
+      "codename": "itel-S667LN",
+      "model": "itel S667LN"
     },
     {
       "manufacturer": "",

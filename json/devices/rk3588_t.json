@@ -24,6 +24,18 @@
     "model": "Impact_Lux_Display"
   },
   {
+    "manufacturer": "ESOL",
+    "market_name": "CCBEK",
+    "codename": "rk3588_t",
+    "model": "CCBEK"
+  },
+  {
+    "manufacturer": "Helgi",
+    "market_name": "HXxx10",
+    "codename": "rk3588_t",
+    "model": "Helgi_HX10"
+  },
+  {
     "manufacturer": "Newline",
     "market_name": "Q23",
     "codename": "rk3588_t",

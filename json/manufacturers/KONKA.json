@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M27S",
+      "codename": "M27S",
+      "model": "M27S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MOON",
       "codename": "MOON",
       "model": "MOON"

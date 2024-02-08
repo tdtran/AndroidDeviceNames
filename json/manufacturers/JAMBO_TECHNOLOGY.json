@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Jambo_Technology",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "JamboPhone",
+      "codename": "JP1",
+      "model": "JP1"
+    }
+  ]
+}

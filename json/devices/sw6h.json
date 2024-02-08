@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Aiwa",
+    "market_name": "AIWA TV",
+    "codename": "SW6H",
+    "model": "AIWA TV"
+  },
+  {
+    "manufacturer": "Akai",
+    "market_name": "AKAI 4K SMART TV",
+    "codename": "SW6H",
+    "model": "AKAI 4K SMART TV"
+  },
+  {
     "manufacturer": "Asanzo",
     "market_name": "EX FF Series",
     "codename": "SW6H",
@@ -60,6 +72,18 @@
     "model": "GREEN HOUSE TV"
   },
   {
+    "manufacturer": "Haier",
+    "market_name": "Haier TV",
+    "codename": "SW6H",
+    "model": "Haier TV"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "Haier TV FF",
+    "codename": "SW6H",
+    "model": "Haier TV FF"
+  },
+  {
     "manufacturer": "Hyundai",
     "market_name": "HYUNDAI SMART TV",
     "codename": "SW6H",
@@ -88,6 +112,24 @@
     "market_name": "LLOYD 4K SMART TV",
     "codename": "SW6H",
     "model": "LLOYD 4K SMART TV"
+  },
+  {
+    "manufacturer": "MarQ",
+    "market_name": "MarQ 4K SMART TV",
+    "codename": "SW6H",
+    "model": "MarQ 4K SMART TV"
+  },
+  {
+    "manufacturer": "NobleSkiodo",
+    "market_name": "NSTV",
+    "codename": "SW6H",
+    "model": "NSTV"
+  },
+  {
+    "manufacturer": "NobleSkiodo",
+    "market_name": "NSTV FF",
+    "codename": "SW6H",
+    "model": "NSTV FF"
   },
   {
     "manufacturer": "Noblex",
@@ -193,6 +235,12 @@
   },
   {
     "manufacturer": "Tesla",
+    "market_name": "TESLA 4K GSMART TV FF",
+    "codename": "SW6H",
+    "model": "TESLA 4K GSMART TV FF"
+  },
+  {
+    "manufacturer": "Tesla",
     "market_name": "TESLA 4K SMART TV",
     "codename": "SW6H",
     "model": "TESLA 4K SMART TV"
@@ -202,6 +250,12 @@
     "market_name": "TESLA 4K SMART TV FF",
     "codename": "SW6H",
     "model": "TESLA 4K SMART TV FF"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "TESLA 4K TV FF",
+    "codename": "SW6H",
+    "model": "TESLA 4K TV FF"
   },
   {
     "manufacturer": "Thomson",
@@ -256,6 +310,12 @@
     "market_name": "Xtreme 4K Smart TV",
     "codename": "SW6H",
     "model": "Xtreme 4K Smart TV"
+  },
+  {
+    "manufacturer": "Xtreme",
+    "market_name": "Xtreme 4K Smart TV FF",
+    "codename": "SW6H",
+    "model": "Xtreme 4K Smart TV FF"
   },
   {
     "manufacturer": "Yasin",

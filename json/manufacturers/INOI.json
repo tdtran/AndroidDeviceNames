@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI A34",
+      "codename": "INOI_A34",
+      "model": "A340"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI A52 Lite 32GB",
       "codename": "A150",
       "model": "A150"

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D118_EEA",
+      "codename": "D118_EEA",
+      "model": "D118_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K104",
       "codename": "K104",
       "model": "K104"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ADOBox 4K (DIW377)",
+      "codename": "DIW377_ALT_DO",
+      "model": "ADOBox 4K (DIW377)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALTICE S43",
       "codename": "S43",
       "model": "ALTICE_S43"
@@ -204,6 +210,12 @@
       "market_name": "Staractive",
       "codename": "STARACTIVE",
       "model": "STARACTIVE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stream V2",
+      "codename": "DIW377AUSA",
+      "model": "Stream"
     },
     {
       "manufacturer": "",

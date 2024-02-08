@@ -345,6 +345,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T800",
+      "codename": "T800M",
+      "model": "TabQ8-T800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T810",
       "codename": "T810",
       "model": "T810"
@@ -366,6 +372,12 @@
       "market_name": "TL10",
       "codename": "TL10",
       "model": "Vaio TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TL10",
+      "codename": "TL10",
+      "model": "Vaio TL10A"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,17 @@
     "market_name": "Sgamer",
     "codename": "cottongreen",
     "model": "Sgamer"
+  },
+  {
+    "manufacturer": "Continental Edison",
+    "market_name": "CDI SMART TV",
+    "codename": "cottongreen",
+    "model": "CDI SMART TV"
+  },
+  {
+    "manufacturer": "Kogan",
+    "market_name": "Kogan G7",
+    "codename": "cottongreen",
+    "model": "Kogan G7"
   }
 ]

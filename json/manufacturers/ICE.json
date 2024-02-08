@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Ice",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ICE",
+      "codename": "stanford",
+      "model": "SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ICE",
+      "codename": "zhongshan",
+      "model": "Smart UHD TV"
+    }
+  ]
+}

@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Sketsa3",
+      "codename": "ADVAN_SKETSA3",
+      "model": "1013"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB A8",
       "codename": "ADVAN_TAB_A8",
       "model": "8004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX_LITE",
+      "codename": "ADVAN_TAB_VX_LITE",
+      "model": "1013"
     }
   ]
 }

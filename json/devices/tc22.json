@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Zebra",
+    "market_name": "HC20",
+    "codename": "TC22",
+    "model": "HC20"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "HC50",
+    "codename": "TC22",
+    "model": "TC22"
+  },
+  {
+    "manufacturer": "Zebra",
     "market_name": "TC22",
     "codename": "TC22",
     "model": "TC22"

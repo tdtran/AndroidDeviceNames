@@ -171,9 +171,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A18",
+      "codename": "OP575DL1",
+      "model": "CPH2591"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1k",
       "codename": "OP486C",
       "model": "CPH1923"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A2x 5G",
+      "codename": "OP5A0D",
+      "model": "PJS110"
     },
     {
       "manufacturer": "",
@@ -312,6 +324,12 @@
       "market_name": "A37tm",
       "codename": "A37",
       "model": "OPPO A37tm"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A38",
+      "codename": "OP5759L1",
+      "model": "CPH2579"
     },
     {
       "manufacturer": "",
@@ -729,6 +747,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A78",
+      "codename": "OP5745L1",
+      "model": "CPH2565"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A78 5G",
       "codename": "OP52F3L1",
       "model": "CPH2483"
@@ -744,6 +768,24 @@
       "market_name": "A79",
       "codename": "A79",
       "model": "OPPO A79"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A79 5G",
+      "codename": "OP573DL1",
+      "model": "A303OP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A79 5G",
+      "codename": "OP573DL1",
+      "model": "CPH2553"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A79 5G",
+      "codename": "OP573DL1",
+      "model": "CPH2557"
     },
     {
       "manufacturer": "",
@@ -1569,6 +1611,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Find N3",
+      "codename": "OP55F3L1",
+      "model": "PHN110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find N3",
+      "codename": "OP56BBL1",
+      "model": "CPH2499"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find N3 Flip",
+      "codename": "OP5607L1",
+      "model": "PHT110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find N3 Flip",
+      "codename": "OP56CFL1",
+      "model": "CPH2519"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Find X",
       "codename": "CPH1871",
       "model": "CPH1871"
@@ -1692,6 +1758,18 @@
       "market_name": "Find X6 Pro",
       "codename": "OP528BL1",
       "model": "PGEM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X7",
+      "codename": "OP5661L1",
+      "model": "PHZ110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X7 Ultra",
+      "codename": "OP565FL1",
+      "model": "PHY110"
     },
     {
       "manufacturer": "",
@@ -3069,6 +3147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Reno 11",
+      "codename": "OP5ABFL1",
+      "model": "CPH2599"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno 11 Pro",
+      "codename": "OP5AD3L1",
+      "model": "CPH2607"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Reno 2",
       "codename": "OP4B83L1",
       "model": "CPH1907"
@@ -3168,6 +3258,18 @@
       "market_name": "Reno10 Pro+ 5G",
       "codename": "OP56D3L1",
       "model": "CPH2521"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno11",
+      "codename": "OP59EDL1",
+      "model": "PJH110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno11 Pro",
+      "codename": "OP59EFL1",
+      "model": "PJJ110"
     },
     {
       "manufacturer": "",

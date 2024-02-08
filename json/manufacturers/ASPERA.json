@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AS-10",
+      "codename": "AS-10",
+      "model": "AS-10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS5",
       "codename": "AS5",
       "model": "AS5"
@@ -96,6 +102,12 @@
       "market_name": "Jazz_2",
       "codename": "Jazz_2",
       "model": "Jazz 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro2",
+      "codename": "Nitro2",
+      "model": "Nitro2"
     },
     {
       "manufacturer": "",

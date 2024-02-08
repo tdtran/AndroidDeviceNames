@@ -12,6 +12,12 @@
       "market_name": "Q23",
       "codename": "rk3588_t",
       "model": "Q23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WB55860W",
+      "codename": "WB55860W",
+      "model": "WB55860W"
     }
   ]
 }

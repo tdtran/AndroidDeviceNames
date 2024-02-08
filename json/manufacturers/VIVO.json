@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G2",
+      "codename": "PD2318",
+      "model": "V2318A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I1927",
       "codename": "I1928",
       "model": "I1927"
@@ -1623,6 +1629,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V29e",
+      "codename": "V2303",
+      "model": "V2303"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V29e 5G",
       "codename": "V2317",
       "model": "V2317"
@@ -1638,6 +1650,24 @@
       "market_name": "V3",
       "codename": "V3",
       "model": "vivo V3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30 Lite",
+      "codename": "V2317",
+      "model": "V2314"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30 Lite 5G",
+      "codename": "V2327",
+      "model": "V2327"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30 SE",
+      "codename": "V2327",
+      "model": "V2349"
     },
     {
       "manufacturer": "",
@@ -1671,6 +1701,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V40 SE 5G",
+      "codename": "V2327",
+      "model": "V2337"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V5Plus",
       "codename": "V5Plus",
       "model": "vivo V5Plus"
@@ -1692,6 +1728,36 @@
       "market_name": "V9 Pro",
       "codename": "1851",
       "model": "vivo 1851"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X Flip",
+      "codename": "PD2256",
+      "model": "V2256A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X100",
+      "codename": "PD2309",
+      "model": "V2309A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X100",
+      "codename": "V2308",
+      "model": "V2308"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X100 Pro",
+      "codename": "PD2324",
+      "model": "V2324A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X100 Pro",
+      "codename": "V2309",
+      "model": "V2309"
     },
     {
       "manufacturer": "",
@@ -1930,8 +1996,20 @@
     {
       "manufacturer": "",
       "market_name": "Y100",
+      "codename": "PD2313",
+      "model": "V2313A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y100",
       "codename": "V2239",
       "model": "V2239"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y100 5G",
+      "codename": "V2327",
+      "model": "V2327"
     },
     {
       "manufacturer": "",
@@ -1950,6 +2028,12 @@
       "market_name": "Y11",
       "codename": "Y11",
       "model": "vivo Y11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y12",
+      "codename": "PD2317",
+      "model": "V2317A"
     },
     {
       "manufacturer": "",
@@ -2001,9 +2085,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y17s",
+      "codename": "V2310",
+      "model": "V2331"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y200 5G",
       "codename": "V2307",
       "model": "V2307"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y200e 5G",
+      "codename": "V2327",
+      "model": "V2336"
     },
     {
       "manufacturer": "",
@@ -2061,9 +2157,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y27s",
+      "codename": "V2247",
+      "model": "V2322"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y27s",
+      "codename": "V2247",
+      "model": "V2335"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y28",
       "codename": "Y28",
       "model": "vivo Y28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y28 5G",
+      "codename": "V2315",
+      "model": "V2315"
     },
     {
       "manufacturer": "",
@@ -2121,6 +2235,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y33t",
+      "codename": "PD2317",
+      "model": "V2317A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y35",
       "codename": "PD1502L",
       "model": "vivo Y35"
@@ -2164,6 +2284,12 @@
     {
       "manufacturer": "",
       "market_name": "Y36",
+      "codename": "PD2318",
+      "model": "V2318A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y36",
       "codename": "V2247",
       "model": "V2247"
     },
@@ -2178,6 +2304,12 @@
       "market_name": "Y36 5G",
       "codename": "V2248",
       "model": "V2248"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y36m",
+      "codename": "PD2318",
+      "model": "V2318A"
     },
     {
       "manufacturer": "",
@@ -2238,6 +2370,12 @@
       "market_name": "Y55s",
       "codename": "PD2164",
       "model": "V2164A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y55t",
+      "codename": "PD2279",
+      "model": "V2279A"
     },
     {
       "manufacturer": "",
@@ -2403,6 +2541,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iQOO 12",
+      "codename": "I2220",
+      "model": "I2220"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO 12",
+      "codename": "PD2307",
+      "model": "V2307A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO 12 Pro",
+      "codename": "PD2329",
+      "model": "V2329A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQOO 9 Pro",
       "codename": "2022",
       "model": "I2022"
@@ -2487,9 +2643,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iQOO Neo9",
+      "codename": "PD2338",
+      "model": "V2338A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO Neo9 Pro",
+      "codename": "PD2339",
+      "model": "V2339A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQOO Pad",
       "codename": "DPD2307",
       "model": "iPA2375"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO Pad Air",
+      "codename": "DPD2305",
+      "model": "iPA2451"
     },
     {
       "manufacturer": "",
@@ -3039,6 +3213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo S15e",
+      "codename": "PD2190",
+      "model": "V2190A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo S16",
       "codename": "PD2244",
       "model": "V2244A"
@@ -3063,15 +3243,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "vivo T2",
-      "codename": "PD2199",
-      "model": "V2199GA"
+      "market_name": "vivo S18",
+      "codename": "PD2323",
+      "model": "V2323A"
     },
     {
       "manufacturer": "",
-      "market_name": "vivo X Flip",
-      "codename": "PD2256",
-      "model": "V2256A"
+      "market_name": "vivo S18e",
+      "codename": "PD2334",
+      "model": "V2334A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo T2",
+      "codename": "PD2199",
+      "model": "V2199GA"
     },
     {
       "manufacturer": "",
@@ -3222,6 +3408,12 @@
       "market_name": "vivo X9s Plus",
       "codename": "PD1635",
       "model": "vivo X9s Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Y100i长续航版",
+      "codename": "PD2312",
+      "model": "V2312BA"
     },
     {
       "manufacturer": "",

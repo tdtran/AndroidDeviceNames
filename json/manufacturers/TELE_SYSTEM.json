@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ON T2 HD",
+      "codename": "ONT2HD",
+      "model": "ONT2HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UPT24K",
       "codename": "UPT24K",
       "model": "UPT24K"

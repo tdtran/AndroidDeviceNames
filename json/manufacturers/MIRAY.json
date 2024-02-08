@@ -54,6 +54,12 @@
       "market_name": "TPM4G_E108_A",
       "codename": "TPM4G_E108_A",
       "model": "TPM4G_E108"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPM4G_E9863",
+      "codename": "TPM4G_E9863",
+      "model": "TPM4G_E9863"
     }
   ]
 }

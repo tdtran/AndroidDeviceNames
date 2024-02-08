@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "AIWA",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIWA",
       "codename": "stanford",
       "model": "SMART TV"
     },
@@ -24,6 +30,12 @@
       "market_name": "AIWA 2K TV",
       "codename": "shinagawa",
       "model": "AIWA 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIWA TV",
+      "codename": "SW6H",
+      "model": "AIWA TV"
     },
     {
       "manufacturer": "",

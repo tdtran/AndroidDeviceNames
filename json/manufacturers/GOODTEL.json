@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G2-EEA",
+      "codename": "G2-EEA",
+      "model": "G2-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G2_A_EEA",
       "codename": "G2_A_EEA",
       "model": "G2_A_EEA"

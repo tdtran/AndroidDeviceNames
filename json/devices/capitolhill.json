@@ -6,6 +6,18 @@
     "model": "ASTEX 2K Google TV"
   },
   {
+    "manufacturer": "Axen",
+    "market_name": "AXEN 2K Google TV",
+    "codename": "capitolhill",
+    "model": "AXEN 2K Google TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt 2K Google TV",
+    "codename": "capitolhill",
+    "model": "Blaupunkt 2K Google TV"
+  },
+  {
     "manufacturer": "Decaview",
     "market_name": "Decaview 2K Google TV",
     "codename": "capitolhill",
@@ -60,6 +72,12 @@
     "model": "HK 2K Google TV"
   },
   {
+    "manufacturer": "RCA",
+    "market_name": "RCA 2K Google TV-E",
+    "codename": "capitolhill",
+    "model": "RCA 2K Google TV-E"
+  },
+  {
     "manufacturer": "SICON",
     "market_name": "SICON 2K Google TV",
     "codename": "capitolhill",
@@ -82,6 +100,12 @@
     "market_name": "STREAM 2K Google TV",
     "codename": "capitolhill",
     "model": "STREAM 2K Google TV"
+  },
+  {
+    "manufacturer": "Sunny",
+    "market_name": "SUNNY 2K Google TV",
+    "codename": "capitolhill",
+    "model": "SUNNY 2K Google TV"
   },
   {
     "manufacturer": "TELSTAR",

@@ -190,6 +190,12 @@
     {
       "manufacturer": "",
       "market_name": "Active 6",
+      "codename": "Active6_EEA",
+      "model": "Active 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active 6",
       "codename": "Active6_RU",
       "model": "Active 6"
     },
@@ -825,6 +831,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 3 Kids",
+      "codename": "Tab3Kids",
+      "model": "Tab 3 Kids"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 50 WiFi",
       "codename": "Tab50WiFi",
       "model": "Tab 50 WiFi"
@@ -834,6 +846,12 @@
       "market_name": "Tab 60",
       "codename": "Tab60",
       "model": "Tab 60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 60 Kids",
+      "codename": "Tab60Kids_EEA",
+      "model": "Tab 60 Kids"
     },
     {
       "manufacturer": "",
@@ -1026,6 +1044,12 @@
       "market_name": "Tab16_RU",
       "codename": "Tab16_RU",
       "model": "Tab 16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab50WiFi_EEA",
+      "codename": "Tab50WiFi",
+      "model": "Tab 50 WiFi"
     },
     {
       "manufacturer": "",

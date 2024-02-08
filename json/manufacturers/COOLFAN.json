@@ -1,0 +1,17 @@
+{
+  "manufacturer": "COOLFAN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "OC106",
+      "codename": "OC106",
+      "model": "OC106"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OC106",
+      "codename": "OC106_EEA",
+      "model": "OC106"
+    }
+  ]
+}

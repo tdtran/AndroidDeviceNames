@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EA660",
+      "codename": "EA660",
+      "model": "EA660"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT330",
       "codename": "HT330",
       "model": "HT330"
@@ -84,6 +90,12 @@
       "market_name": "PA768",
       "codename": "PA768",
       "model": "PA768"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT112",
+      "codename": "RT112",
+      "model": "RT112"
     },
     {
       "manufacturer": "",

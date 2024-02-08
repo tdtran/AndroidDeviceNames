@@ -3,6 +3,12 @@
     "manufacturer": "BMobile",
     "market_name": "BL63",
     "codename": "Bmobile_BL63",
+    "model": "BL63"
+  },
+  {
+    "manufacturer": "BMobile",
+    "market_name": "BL63",
+    "codename": "Bmobile_BL63",
     "model": "BL63_TG07"
   }
 ]

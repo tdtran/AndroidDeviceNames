@@ -36,6 +36,18 @@
     "model": "SmartTV 4K"
   },
   {
+    "manufacturer": "Motorola",
+    "market_name": "4K TV",
+    "codename": "songshan",
+    "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "4K TV",
+    "codename": "songshan",
+    "model": "SmartTV 4K FFM"
+  },
+  {
     "manufacturer": "Noblex",
     "market_name": "X7500",
     "codename": "songshan",

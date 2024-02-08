@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Coby",
+    "market_name": "Dorado",
+    "codename": "Dorado",
+    "model": "Dorado"
+  },
+  {
     "manufacturer": "Verizon Wireless",
     "market_name": "Wear24",
     "codename": "dorado",

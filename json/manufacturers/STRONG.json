@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Leap-S3",
+      "codename": "YDA",
+      "model": "4K Google TV Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SRT41",
       "codename": "YYT",
       "model": "4K Google TV Stick"

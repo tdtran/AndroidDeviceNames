@@ -3,12 +3,12 @@
     "manufacturer": "Asus",
     "market_name": "ROG Phone 6D Ultimate",
     "codename": "ASUS_AI2203",
-    "model": "ASUS_AI2203_B"
+    "model": "ASUS_AI2203_D"
   },
   {
     "manufacturer": "Asus",
-    "market_name": "ROG Phone 6D Ultimate",
+    "market_name": "ROG Phone 6D series",
     "codename": "ASUS_AI2203",
-    "model": "ASUS_AI2203_D"
+    "model": "ASUS_AI2203_B"
   }
 ]

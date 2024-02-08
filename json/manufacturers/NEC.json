@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LAVIE Tab 9QHD1",
+      "codename": "LAVIETab9QHD1",
+      "model": "LAVIE Tab 9QHD1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAVIE Tab E",
       "codename": "PC-TE410JAW",
       "model": "PC-TE410JAW"
@@ -150,6 +156,12 @@
       "market_name": "LAVIE Tab T11",
       "codename": "LAVIETab11QHD2",
       "model": "LAVIE Tab 11QHD2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVIE Tab T14",
+      "codename": "LAVIETab143K1",
+      "model": "LAVIE Tab 143K1"
     },
     {
       "manufacturer": "",

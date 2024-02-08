@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Toyota",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Toyota",
+      "codename": "TSA",
+      "model": "OTT"
+    }
+  ]
+}

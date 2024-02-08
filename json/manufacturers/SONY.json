@@ -131,6 +131,12 @@
       "manufacturer": "",
       "market_name": "BRAVIA VH2",
       "codename": "BRAVIA_VH2",
+      "model": "BRAVIA 2K VH2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA VH2",
+      "codename": "BRAVIA_VH2",
       "model": "BRAVIA 4K VH2"
     },
     {
@@ -144,6 +150,12 @@
       "market_name": "BRAVIA VH22",
       "codename": "BRAVIA_VH22",
       "model": "BRAVIA 4K VH22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BRAVIA_BF1",
+      "codename": "BRAVIA_BF1",
+      "model": "BRAVIA BF1"
     },
     {
       "manufacturer": "",

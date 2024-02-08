@@ -1,15 +1,45 @@
 [
   {
+    "manufacturer": "Dawlance",
+    "market_name": "DAWLANCE GSMART 4KTV",
+    "codename": "anaheim",
+    "model": "DAWLANCE GSMART 4KTV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC 4K Smart TV Plus",
+    "codename": "anaheim",
+    "model": "JVC 4K Smart TV Plus"
+  },
+  {
     "manufacturer": "PRISMPLUS",
     "market_name": "4K Smart TV Plus",
     "codename": "anaheim",
     "model": "4K Smart TV Plus"
   },
   {
+    "manufacturer": "Panasonic",
+    "market_name": "4KTV-4SUH",
+    "codename": "anaheim",
+    "model": "4KTV-4SUH"
+  },
+  {
+    "manufacturer": "Philco",
+    "market_name": "Philco Smart Plus TV",
+    "codename": "anaheim",
+    "model": "Philco Smart Plus TV"
+  },
+  {
     "manufacturer": "SWTV",
     "market_name": "SWTV-22AE-4K",
     "codename": "anaheim",
     "model": "SWTV-22AE-4K"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22COL-4K",
+    "codename": "anaheim",
+    "model": "SWTV-22COL-4K"
   },
   {
     "manufacturer": "SWTV",
@@ -34,5 +64,29 @@
     "market_name": "SWTV-22TGS-4K",
     "codename": "anaheim",
     "model": "SWTV-22TGS-4K"
+  },
+  {
+    "manufacturer": "SWTV",
+    "market_name": "SWTV-22TW-4K",
+    "codename": "anaheim",
+    "model": "SWTV-22TW-4K"
+  },
+  {
+    "manufacturer": "Singer",
+    "market_name": "Singer 4K GSMART TV FF",
+    "codename": "anaheim",
+    "model": "Singer 4K GSMART TV FF"
+  },
+  {
+    "manufacturer": "Vision",
+    "market_name": "VISION GSMART 4KTV FF",
+    "codename": "anaheim",
+    "model": "VISION GSMART 4KTV FF"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "WALTON GSMART 4KTV FF",
+    "codename": "anaheim",
+    "model": "WALTON GSMART 4KTV FF"
   }
 ]

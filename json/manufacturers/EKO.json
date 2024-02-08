@@ -52,6 +52,12 @@
     {
       "manufacturer": "",
       "market_name": "EKO",
+      "codename": "lavender",
+      "model": "EKO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO",
       "codename": "shilin",
       "model": "EKO 4K Android TV"
     },

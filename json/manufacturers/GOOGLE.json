@@ -237,6 +237,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mediatek MT8186 Tablet",
+      "codename": "staryu_cheets",
+      "model": "staryu"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mediatek MT8192 Chromebook",
       "codename": "asurada_cheets",
       "model": "asurada"
@@ -528,6 +534,12 @@
       "market_name": "Rockchip RK3288 Chromebook",
       "codename": "mighty_cheets",
       "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "emulator",
+      "codename": "emu64xa",
+      "model": "sdk_gphone64_x86_64"
     },
     {
       "manufacturer": "",

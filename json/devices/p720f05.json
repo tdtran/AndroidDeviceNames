@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "ZTE 8030",
+    "codename": "P720F05",
+    "model": "ZTE 9050N"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE 9050N",
     "codename": "P720F05",
     "model": "ZTE 9050N"

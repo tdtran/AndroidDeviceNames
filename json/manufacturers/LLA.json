@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Gasobi region",
+      "codename": "SEI700L",
+      "model": "FUSE 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Orion",
       "codename": "SEI500L",
       "model": "Orion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panama",
+      "codename": "SEI700L",
+      "model": "FUSE 4K"
     },
     {
       "manufacturer": "",

@@ -10,5 +10,17 @@
     "market_name": "Emerald",
     "codename": "Emerald",
     "model": "Emerald_M55CRD"
+  },
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M6 Pro",
+    "codename": "emerald",
+    "model": "2312FPCA6G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 13 Pro",
+    "codename": "emerald",
+    "model": "23117RA68G"
   }
 ]

@@ -291,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y300",
+      "codename": "Mobilephone",
+      "model": "Y300"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Zafiro",
       "codename": "Zafiro",
       "model": "Zafiro"

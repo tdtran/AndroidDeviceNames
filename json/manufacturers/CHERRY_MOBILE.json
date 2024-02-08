@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1240",
+      "codename": "A1240",
+      "model": "A1240"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A810",
       "codename": "A810",
       "model": "Superion S1 Plus DTV"

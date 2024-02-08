@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MixTab Pro 2",
+      "codename": "MixTab_Pro_2",
+      "model": "MixTab Pro 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X3",
       "codename": "X3",
       "model": "X3"
@@ -48,6 +54,12 @@
       "market_name": "X500",
       "codename": "X500",
       "model": "OMIX X500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X6",
+      "codename": "X6",
+      "model": "X6"
     },
     {
       "manufacturer": "",

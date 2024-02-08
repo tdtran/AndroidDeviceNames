@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M1582C MAX",
+      "codename": "M1582C_MAX",
+      "model": "M1582C_MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M1586K",
       "codename": "M1586K",
       "model": "M1586K"

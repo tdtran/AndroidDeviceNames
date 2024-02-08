@@ -12,6 +12,12 @@
     "model": "Air"
   },
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 13C 5G",
+    "codename": "air",
+    "model": "23124RN87I"
+  },
+  {
     "manufacturer": "Stylo",
     "market_name": "AIR",
     "codename": "AIR",

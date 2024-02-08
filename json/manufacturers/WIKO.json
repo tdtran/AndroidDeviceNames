@@ -687,6 +687,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T20",
+      "codename": "T20",
+      "model": "Aix-AN00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T3",
       "codename": "W-V770",
       "model": "W-V770"

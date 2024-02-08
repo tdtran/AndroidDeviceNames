@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Motorola",
+    "market_name": "MotorolaTV",
+    "codename": "hayward",
+    "model": "MotorolaTV"
+  },
+  {
     "manufacturer": "Polytron",
     "market_name": "2K",
     "codename": "hayward",

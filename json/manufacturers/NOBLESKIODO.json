@@ -24,6 +24,18 @@
       "market_name": "NS 2K SmartTV",
       "codename": "sunnyvale",
       "model": "NS 2K SmartTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NSTV",
+      "codename": "SW6H",
+      "model": "NSTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NSTV FF",
+      "codename": "SW6H",
+      "model": "NSTV FF"
     }
   ]
 }

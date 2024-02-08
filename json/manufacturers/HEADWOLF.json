@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H5",
+      "codename": "Hpad5",
+      "model": "H5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HPAD1A",
       "codename": "HPAD1A",
       "model": "H1A"

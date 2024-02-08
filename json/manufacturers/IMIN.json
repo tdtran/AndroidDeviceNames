@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Swan 1 Pro",
+      "codename": "Swan1Pro",
+      "model": "I23D02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Swift 1",
       "codename": "I22M01",
       "model": "I22M01"
@@ -24,6 +30,12 @@
       "market_name": "Swift 1",
       "codename": "I22M01",
       "model": "Swift_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swift 2 Pro",
+      "codename": "Swift2Pro",
+      "model": "I23M02"
     }
   ]
 }

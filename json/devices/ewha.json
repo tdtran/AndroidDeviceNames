@@ -3,13 +3,31 @@
     "manufacturer": "Blaupunkt",
     "market_name": "Blaupunkt",
     "codename": "ewha",
+    "model": "AQUOS-TVE19I"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "Blaupunkt",
+    "codename": "ewha",
     "model": "BLAU-TVE19I"
   },
   {
     "manufacturer": "Bush",
     "market_name": "BUSH",
     "codename": "ewha",
+    "model": "AQUOS-TVE19L"
+  },
+  {
+    "manufacturer": "Bush",
+    "market_name": "BUSH",
+    "codename": "ewha",
     "model": "BUSH-TVE19L"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Polaroid",
+    "codename": "ewha",
+    "model": "AQUOS-TVE19K"
   },
   {
     "manufacturer": "Polaroid",
@@ -34,6 +52,12 @@
     "market_name": "Sharp",
     "codename": "ewha",
     "model": "AQUOS-TVE21B"
+  },
+  {
+    "manufacturer": "Tesco",
+    "market_name": "Technika",
+    "codename": "ewha",
+    "model": "AQUOS-TVE19J"
   },
   {
     "manufacturer": "Tesco",

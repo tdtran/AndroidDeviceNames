@@ -6,6 +6,12 @@
       "market_name": "MK_1000",
       "codename": "MK_1000",
       "model": "MK_1000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT-6208A",
+      "codename": "Opera",
+      "model": "Posiflex MT62"
     }
   ]
 }

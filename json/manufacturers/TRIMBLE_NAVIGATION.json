@@ -138,6 +138,12 @@
       "market_name": "Trimble DUO",
       "codename": "DUO",
       "model": "DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Trimble TDC6",
+      "codename": "TDC6",
+      "model": "TDC6"
     }
   ]
 }

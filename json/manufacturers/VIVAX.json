@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "VIVAX TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TPC-102_4G_eea",
       "codename": "TPC-102_4G",
       "model": "VIVAX TPC-102 4G"

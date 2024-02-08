@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Legamaster",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EVOLVE2",
+      "codename": "ETX",
+      "model": "ETX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NAVIGATOR",
+      "codename": "NAV_RK",
+      "model": "NAV"
+    }
+  ]
+}

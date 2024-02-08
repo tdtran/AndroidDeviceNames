@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R10",
+      "codename": "PT1",
+      "model": "R10 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S100",
       "codename": "M22",
       "model": "S100"

@@ -12,6 +12,12 @@
       "market_name": "TA2C-DR94G",
       "codename": "TA2C-DR94G",
       "model": "TA2C-DR94G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA2C-NF8",
+      "codename": "TA2C-NF8",
+      "model": "TA2C-NF8"
     }
   ]
 }

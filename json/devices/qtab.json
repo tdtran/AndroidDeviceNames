@@ -4,5 +4,11 @@
     "market_name": "QTAB",
     "codename": "QTAB",
     "model": "QTAB"
+  },
+  {
+    "manufacturer": "Compaq",
+    "market_name": "QTabPro",
+    "codename": "Qtab",
+    "model": "QTabPro"
   }
 ]

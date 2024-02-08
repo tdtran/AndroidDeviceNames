@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Arcelik Google TV OLED",
+      "codename": "wanchai",
+      "model": "Arcelik Google TV OLED"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Arcelik Google TV QLED",
+      "codename": "wanchai",
+      "model": "Arcelik Google TV QLED"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Arcelik Google TV UHD+",
       "codename": "wanchai",
       "model": "Arcelik Google TV UHD+"
@@ -18,6 +30,12 @@
       "market_name": "B55L 9682 5AS",
       "codename": "arcelik_eu",
       "model": "arcelik_uhd_powermax_at"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "martin",
+      "model": "Arcelik Android TV"
     }
   ]
 }

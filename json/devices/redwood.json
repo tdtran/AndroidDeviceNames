@@ -24,6 +24,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "BPL",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "BRANDO",
     "market_name": "Smart TV",
     "codename": "redwood",
@@ -158,6 +164,12 @@
   {
     "manufacturer": "Kogan",
     "market_name": "RF9220",
+    "codename": "redwood",
+    "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Kolin",
+    "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
   },

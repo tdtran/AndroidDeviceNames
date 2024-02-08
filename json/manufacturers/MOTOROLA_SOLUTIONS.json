@@ -35,6 +35,12 @@
       "manufacturer": "",
       "market_name": "LEX L11",
       "codename": "lexl11g_64",
+      "model": "LEX L11a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LEX L11",
+      "codename": "lexl11g_64",
       "model": "LEX L11j"
     },
     {
@@ -59,7 +65,19 @@
       "manufacturer": "",
       "market_name": "MOTOTRBO ION",
       "codename": "mkz_sdm660_64",
+      "model": "MSLB-MKZ900ti"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOTRBO ION",
+      "codename": "mkz_sdm660_64",
       "model": "MSLB-MKZ920"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOTOTRBO ION",
+      "codename": "mkz_sdm660_64",
+      "model": "MSLB-MKZ920ti"
     },
     {
       "manufacturer": "",

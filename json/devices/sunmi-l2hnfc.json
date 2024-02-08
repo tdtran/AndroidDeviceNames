@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Sunmi",
+    "market_name": "L2H_EDLA_GL",
+    "codename": "SUNMI-L2HNFC",
+    "model": "L2H_EDLA_GL"
+  },
+  {
+    "manufacturer": "Sunmi",
     "market_name": "Sunmi L2H",
     "codename": "SUNMI-L2HNFC",
     "model": "L2H_EEA"

@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aura M1",
+      "codename": "Aura_M1",
+      "model": "AURA M1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COVET",
       "codename": "COVET",
       "model": "COVET"
@@ -168,6 +174,12 @@
       "market_name": "MAGNO C1",
       "codename": "MAGNO_C1",
       "model": "MAGNO C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAGNO C2",
+      "codename": "MAGNO_C2",
+      "model": "MAGNO C2"
     },
     {
       "manufacturer": "",

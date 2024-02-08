@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TAMBOARD",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TB_GH",
+      "codename": "TB_GH",
+      "model": "TB_GH"
+    }
+  ]
+}

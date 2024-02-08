@@ -3,51 +3,63 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Atom",
-      "codename": "atom",
-      "model": "T5se"
-    },
-    {
-      "manufacturer": "",
       "market_name": "C10",
       "codename": "Rhino_C10",
       "model": "C10"
     },
     {
       "manufacturer": "",
-      "market_name": "M10p_001",
+      "market_name": "RHINO C10",
+      "codename": "Rhino_C10",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO C6",
+      "codename": "nova",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO M10p",
       "codename": "Rhino_M10p",
       "model": "M10p"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO PACE A1",
+      "codename": "portal",
+      "model": "PACE A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO T100",
+      "codename": "scoutxl",
+      "model": "T100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO T5se",
+      "codename": "atom",
+      "model": "T5se"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO T8",
+      "codename": "Rhino_T8",
+      "model": "T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO T80",
+      "codename": "scout",
+      "model": "T80"
     },
     {
       "manufacturer": "",
       "market_name": "T8",
       "codename": "Rhino_T8",
       "model": "T8"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "nova",
-      "codename": "nova",
-      "model": "C6"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "portal",
-      "codename": "portal",
-      "model": "PACE A1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "scout",
-      "codename": "scout",
-      "model": "T80"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "scoutxl",
-      "codename": "scoutxl",
-      "model": "T100"
     }
   ]
 }

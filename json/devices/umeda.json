@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Akai",
+    "market_name": "AKAI SMART TV",
+    "codename": "umeda",
+    "model": "AKAI  SMART TV"
+  },
+  {
     "manufacturer": "Asanzo",
     "market_name": "E Series",
     "codename": "umeda",
@@ -10,6 +16,12 @@
     "market_name": "DAWLANCE GSMART 2KTV",
     "codename": "umeda",
     "model": "DAWLANCE GSMART 2KTV"
+  },
+  {
+    "manufacturer": "Green House",
+    "market_name": "GREEN HOUSE 2K SMART",
+    "codename": "umeda",
+    "model": "GREEN HOUSE 2K SMART"
   },
   {
     "manufacturer": "Haier",
@@ -24,10 +36,28 @@
     "model": "IRIS 2K SmartTV"
   },
   {
+    "manufacturer": "Itel",
+    "market_name": "WOW TV",
+    "codename": "umeda",
+    "model": "WOW TV"
+  },
+  {
     "manufacturer": "LLOYD",
     "market_name": "LLOYD 2K SMART TV",
     "codename": "umeda",
     "model": "LLOYD 2K SMART TV"
+  },
+  {
+    "manufacturer": "MarQ",
+    "market_name": "MarQ SMART TV",
+    "codename": "umeda",
+    "model": "MarQ SMART TV"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "MOTOROLA SMART TV",
+    "codename": "umeda",
+    "model": "MOTOROLA SMART TV"
   },
   {
     "manufacturer": "NobleSkiodo",
@@ -70,6 +100,24 @@
     "market_name": "SWTV-22SA-FHD",
     "codename": "umeda",
     "model": "SWTV-22SA-FHD"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "AQUOS-TVL23B",
+    "codename": "umeda",
+    "model": "AQUOS-TVL23B"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP 2K TV",
+    "codename": "umeda",
+    "model": "SHARP 2K TV"
+  },
+  {
+    "manufacturer": "TORNADO",
+    "market_name": "TORNADO 2K SMART TV",
+    "codename": "umeda",
+    "model": "TORNADO 2K SMART TV"
   },
   {
     "manufacturer": "Tesla",

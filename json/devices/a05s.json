@@ -15,11 +15,17 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy A05s",
     "codename": "a05s",
+    "model": "SM-A057M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy F14",
+    "codename": "a05s",
     "model": "SM-E145F"
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy A05s",
+    "market_name": "Galaxy M14",
     "codename": "a05s",
     "model": "SM-M145F"
   }

@@ -24,6 +24,12 @@
     "model": "4K SMART TV"
   },
   {
+    "manufacturer": "Dahua",
+    "market_name": "DAHUA",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Electroman",
     "market_name": "Electroman",
     "codename": "hongkong",
@@ -34,6 +40,24 @@
     "market_name": "ELEMENT",
     "codename": "hongkong",
     "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "hongkong",
+    "model": "EcoTV Pro A"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "hongkong",
+    "model": "EcoTV Pro D"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "hongkong",
+    "model": "EcoTV Pro I"
   },
   {
     "manufacturer": "Indurama",
@@ -67,6 +91,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "AKAI",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "ASAANO",
     "codename": "hongkong",
     "model": "4K SMART TV"
@@ -74,6 +104,12 @@
   {
     "manufacturer": "KTCtv",
     "market_name": "CHIMEI",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAIWA",
     "codename": "hongkong",
     "model": "4K SMART TV"
   },
@@ -115,6 +151,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "FOL",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "FPS",
     "codename": "hongkong",
     "model": "4K SMART TV"
@@ -124,6 +166,18 @@
     "market_name": "Global",
     "codename": "hongkong",
     "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "HARMON-TEC",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "IMMER",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -175,6 +229,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "WYBOR",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "XELL",
     "codename": "hongkong",
     "model": "4K SMART TV"
@@ -202,6 +262,12 @@
     "market_name": "Kenwood",
     "codename": "hongkong",
     "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+    "manufacturer": "Kolin",
+    "market_name": "KOLIN",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "LUCOMS",
@@ -274,5 +340,11 @@
     "market_name": "THEHAM",
     "codename": "hongkong",
     "model": "Smart UHD TV"
+  },
+  {
+    "manufacturer": "thehaam",
+    "market_name": "THEHAAM",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
   }
 ]

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ENOVA STICK",
+      "codename": "IAD",
+      "model": "ENOVA STICK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Echolink TV",
       "codename": "shinagawa",
       "model": "Echolink TV"

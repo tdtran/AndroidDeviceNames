@@ -36,6 +36,12 @@
       "market_name": "SC730",
       "codename": "EVERPAD-SC730",
       "model": "SC730"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VORTEX_V10",
+      "codename": "VORTEX_V10",
+      "model": "VORTEX_V10"
     }
   ]
 }

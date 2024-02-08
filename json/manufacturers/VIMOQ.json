@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A662LS",
+      "codename": "VIMOQ-A662LS",
+      "model": "VIMOQ A662LS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIMOQ  AC50",
       "codename": "VIMOQ-A507LD",
       "model": "VIMOQ A507LD"

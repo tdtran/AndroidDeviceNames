@@ -1,9 +1,39 @@
 [
   {
+    "manufacturer": "Aiwa",
+    "market_name": "AIWA",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BLAUPUNKT",
+    "codename": "lavender",
+    "model": "BLAUPUNKT 4K TV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "Blaupunkt",
     "codename": "lavender",
     "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "lavender",
+    "model": "EKO 4K Android TV"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "lavender",
+    "model": "EcoTV Plus D"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "lavender",
+    "model": "EcoTV Plus I"
   },
   {
     "manufacturer": "Indurama",
@@ -49,6 +79,18 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "COLORVIEW",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAIWA",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "DIGGIO",
     "codename": "lavender",
     "model": "DIGGIO GOOGLE TV 4K"
@@ -70,6 +112,12 @@
     "market_name": "INNOVA",
     "codename": "lavender",
     "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "IQWORLD",
+    "codename": "lavender",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -102,6 +150,18 @@
     "model": "STAR-TRACK 4K SMART TV"
   },
   {
+    "manufacturer": "KTCtv",
+    "market_name": "VEIRA",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "WYBOR",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Kenwood",
     "market_name": "Kenwood",
     "codename": "lavender",
@@ -126,6 +186,24 @@
     "model": "MOTOROLA GOOGLE TV 4K"
   },
   {
+    "manufacturer": "PEL (PAK)",
+    "market_name": "PEL",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "PHILIPS",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "QBELL",
+    "codename": "lavender",
+    "model": "QBELL 4K Android TV"
+  },
+  {
     "manufacturer": "RCA",
     "market_name": "RCA",
     "codename": "lavender",
@@ -148,6 +226,18 @@
     "market_name": "Redmi Note 7",
     "codename": "lavender",
     "model": "Redmi Note 7"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "SVISION",
+    "codename": "lavender",
+    "model": "SVISION 4K Android TV"
+  },
+  {
+    "manufacturer": "VOXelectronics",
+    "market_name": "VOXELECTRONICS",
+    "codename": "lavender",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "ZTE",

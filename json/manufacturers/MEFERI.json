@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ME10",
+      "codename": "ME10",
+      "model": "ME10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ME40K",
       "codename": "ME40K",
       "model": "ME40K"
@@ -12,6 +18,18 @@
       "market_name": "ME40M",
       "codename": "ME40K_M",
       "model": "ME40K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ME61",
+      "codename": "ME61",
+      "model": "ME61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ME65",
+      "codename": "ME65",
+      "model": "ME65"
     }
   ]
 }

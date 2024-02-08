@@ -12,6 +12,12 @@
     "model": "T-Mobile myTouch 3G"
   },
   {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 13",
+    "codename": "sapphire",
+    "model": "23129RA5FL"
+  },
+  {
     "manufacturer": "Sico",
     "market_name": "Sico Sapphire",
     "codename": "Sapphire",

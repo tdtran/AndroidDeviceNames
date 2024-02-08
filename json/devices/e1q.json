@@ -40,5 +40,29 @@
     "market_name": "Zone3",
     "codename": "e1q",
     "model": "VS425PP"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S24",
+    "codename": "e1q",
+    "model": "SM-S9210"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S24",
+    "codename": "e1q",
+    "model": "SM-S921U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S24",
+    "codename": "e1q",
+    "model": "SM-S921U1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S24",
+    "codename": "e1q",
+    "model": "SM-S921W"
   }
 ]

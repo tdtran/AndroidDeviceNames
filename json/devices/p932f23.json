@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "ZTE Blade A33 Cor",
+    "codename": "P932F23",
+    "model": "ZTE Blade A33 Core"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE Blade A33 Core",
     "codename": "P932F23",
     "model": "ZTE Blade A33 Core"

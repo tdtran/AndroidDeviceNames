@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A9-EEA",
+      "codename": "A9-EEA",
+      "model": "A9-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9_EEA",
       "codename": "A9_EEA",
       "model": "A9_EEA"

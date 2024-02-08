@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philco Smart Plus TV",
+      "codename": "anaheim",
+      "model": "Philco Smart Plus TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philco Smart TV",
       "codename": "sunnyvale",
       "model": "Philco Smart TV"

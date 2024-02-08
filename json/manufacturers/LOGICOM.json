@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Five Pro",
+      "codename": "Five_Pro",
+      "model": "Five Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ID bot 53",
       "codename": "IDbot53",
       "model": "ID bot 53"
@@ -735,6 +741,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Le_Link",
+      "codename": "Le_Link",
+      "model": "Le Link"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Le_Pulse",
       "codename": "Le_Pulse",
       "model": "Le_Pulse"
@@ -786,6 +798,12 @@
       "market_name": "Logikids_6",
       "codename": "Logikids_6",
       "model": "Logikids_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luma",
+      "codename": "Luma",
+      "model": "Luma"
     },
     {
       "manufacturer": "",
@@ -930,6 +948,12 @@
       "market_name": "SOLAR",
       "codename": "SOLAR",
       "model": "SOLAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Solar Pro",
+      "codename": "Solar_Pro",
+      "model": "Solar Pro"
     },
     {
       "manufacturer": "",

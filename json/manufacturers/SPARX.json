@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neo 11",
+      "codename": "Neo_11",
+      "model": "Neo 11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neo 5 Plus",
       "codename": "Neo_5_Plus",
       "model": "Sparx Neo 5 Plus"
@@ -90,6 +96,18 @@
       "market_name": "Sparx Neo 7 Pro",
       "codename": "Neo_7_Pro",
       "model": "Sparx Neo 7 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sparx Neo 8 Plus",
+      "codename": "Neo_8_Plus",
+      "model": "Sparx Neo 8 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sparx Neo 8 Pro",
+      "codename": "Neo_8_Pro",
+      "model": "Sparx Neo 8 Pro"
     }
   ]
 }

@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kogan G7",
+      "codename": "cottongreen",
+      "model": "Kogan G7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kogan SmarterTV",
       "codename": "hanyang",
       "model": "Kogan SmarterTV"

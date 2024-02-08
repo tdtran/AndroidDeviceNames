@@ -12,6 +12,12 @@
       "market_name": "EU",
       "codename": "yeongdeungpo",
       "model": "HORIZON Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ID65HZA3B1_C",
+      "codename": "Interactive_White_Board",
+      "model": "ID65HZA3B1_C"
     }
   ]
 }

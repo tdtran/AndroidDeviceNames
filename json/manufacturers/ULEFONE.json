@@ -75,6 +75,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 23 Ultra",
+      "codename": "Armor_23_Ultra",
+      "model": "Armor 23 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 24",
+      "codename": "Armor_24",
+      "model": "Armor 24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 26 Ultra",
+      "codename": "Armor_26_Ultra",
+      "model": "Armor 26 Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2S",
       "codename": "Armor_2S",
       "model": "Armor_2S"
@@ -126,6 +144,12 @@
       "market_name": "Armor Pad",
       "codename": "Armor_Pad",
       "model": "Armor Pad"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor Pad 2",
+      "codename": "Armor_Pad_2",
+      "model": "Armor Pad 2"
     },
     {
       "manufacturer": "",
@@ -454,8 +478,20 @@
     {
       "manufacturer": "",
       "market_name": "Note 16 Pro",
+      "codename": "GQ3106",
+      "model": "Note 16 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 16 Pro",
       "codename": "Note_16_Pro",
       "model": "Note 16 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 17 Pro",
+      "codename": "Note_17_Pro",
+      "model": "Note 17 Pro"
     },
     {
       "manufacturer": "",

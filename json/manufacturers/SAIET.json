@@ -30,6 +30,12 @@
       "market_name": "STS600",
       "codename": "STS600",
       "model": "STS600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STS601",
+      "codename": "STS601",
+      "model": "STS601"
     }
   ]
 }

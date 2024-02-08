@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S10Y",
+      "codename": "S10Y",
+      "model": "S10Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S501",
       "codename": "S501",
       "model": "S501"

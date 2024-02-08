@@ -6,6 +6,12 @@
     "model": "NEO"
   },
   {
+    "manufacturer": "DIALN",
+    "market_name": "Neo",
+    "codename": "Neo",
+    "model": "Neo"
+  },
+  {
     "manufacturer": "Mobicell",
     "market_name": "NEO",
     "codename": "NEO",

@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4KTV-4SUH",
+      "codename": "anaheim",
+      "model": "4KTV-4SUH"
+    },
+    {
+      "manufacturer": "",
       "market_name": "55AX600C",
       "codename": "mst918_4k2k",
       "model": "55AX600C"

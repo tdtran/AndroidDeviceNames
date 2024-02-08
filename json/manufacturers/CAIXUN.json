@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Caixun TV",
+      "codename": "marina",
+      "model": "Caixun TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Caixun TV",
+      "codename": "nagata",
+      "model": "Caixun TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Canada",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
@@ -36,6 +48,12 @@
       "market_name": "Columbia",
       "codename": "patrick",
       "model": "Aiplus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dreamstar 2K SMART TV",
+      "codename": "nagata",
+      "model": "Dreamstar 2K SMART TV"
     },
     {
       "manufacturer": "",
@@ -102,6 +120,18 @@
       "market_name": "Mexico",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Newal 2K SMART TV",
+      "codename": "nagata",
+      "model": "Newal 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Newal 4K SMART TV",
+      "codename": "marina",
+      "model": "Newal 4K SMART TV"
     },
     {
       "manufacturer": "",

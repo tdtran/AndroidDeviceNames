@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite C63",
+      "codename": "Elite_C63",
+      "model": "Elite C63"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite D55",
       "codename": "Elite_D55",
       "model": "Elite_D55"
@@ -447,6 +453,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite T10",
+      "codename": "Elite_T10A",
+      "model": "Elite T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite T4",
       "codename": "Elite_T4",
       "model": "Elite T4"
@@ -594,6 +606,12 @@
       "market_name": "Elite_P55",
       "codename": "Elite_P55",
       "model": "Elite P55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_PAD8USA",
+      "codename": "Elite_PAD8USA",
+      "model": "SKY PAD8"
     },
     {
       "manufacturer": "",
@@ -963,6 +981,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SKY KID1",
+      "codename": "SKY_KID1us",
+      "model": "SKY_KID1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PAD10",
+      "codename": "SKY_PAD10",
+      "model": "SKY PAD10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PAD10",
+      "codename": "SKY_PAX10US",
+      "model": "SKY PAD10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PAD10MAX",
+      "codename": "SKY_PAD10MAXEXUS",
+      "model": "SKY_PAD10MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SKY PAD10Max",
       "codename": "SKY_PAD10MaxNUS",
       "model": "SKY PAD10Max"
@@ -978,6 +1020,18 @@
       "market_name": "SKY PAD10Max",
       "codename": "SKY_PADMaxNAL",
       "model": "SKY PAD10Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PAD8",
+      "codename": "SKY_PAD8",
+      "model": "SKY PAD8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY PAD8PRO",
+      "codename": "SKY_PAD8PROUSON",
+      "model": "SKY_PAD8PRO"
     },
     {
       "manufacturer": "",
@@ -1032,6 +1086,12 @@
       "market_name": "SKY Volt",
       "codename": "SKY_Volt",
       "model": "SKY Volt"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY_PAD10Max",
+      "codename": "SKY_PAD10MXUSK2",
+      "model": "SKY PAD10Max"
     },
     {
       "manufacturer": "",
@@ -1110,6 +1170,12 @@
       "market_name": "X2",
       "codename": "Xmobile_X2_US",
       "model": "X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X63Max",
+      "codename": "X63Max",
+      "model": "X63Max"
     },
     {
       "manufacturer": "",

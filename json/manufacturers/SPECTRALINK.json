@@ -66,6 +66,18 @@
       "market_name": "Versity 92-Series",
       "codename": "VC92",
       "model": "VC9253"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Versity 9740",
+      "codename": "Versity",
+      "model": "Versity 9740"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Versity 9753",
+      "codename": "Versity",
+      "model": "Versity 9753"
     }
   ]
 }

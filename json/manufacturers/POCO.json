@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO C65",
+      "codename": "gale",
+      "model": "2310FPCA4I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO C65",
+      "codename": "gust",
+      "model": "2310FPCA4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO F2 Pro",
       "codename": "lmi",
       "model": "POCO F2 Pro"
@@ -171,6 +183,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO M6 Pro",
+      "codename": "emerald",
+      "model": "2312FPCA6G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M6 Pro 5G",
+      "codename": "sky",
+      "model": "23076PC4BI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO X2",
       "codename": "phoenixin",
       "model": "POCO X2"
@@ -216,6 +240,18 @@
       "market_name": "POCO X4 Pro 5G",
       "codename": "veux",
       "model": "2201116PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X6 5G",
+      "codename": "garnet",
+      "model": "23122PCD1G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X6 5G",
+      "codename": "garnet",
+      "model": "23122PCD1I"
     }
   ]
 }

@@ -30,6 +30,12 @@
     "model": "Miramage AndroidTV"
   },
   {
+    "manufacturer": "SCHNEIDER",
+    "market_name": "GMS55A1G",
+    "codename": "barking",
+    "model": "SCHNEIDER AndroidTV"
+  },
+  {
     "manufacturer": "Sceptre",
     "market_name": "A557CV-UMRBX",
     "codename": "barking",

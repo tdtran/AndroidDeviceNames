@@ -1233,6 +1233,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense8",
+      "codename": "Quess",
+      "model": "SH-M26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense8",
+      "codename": "SH-54D",
+      "model": "SH-54D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense8",
+      "codename": "XIJ",
+      "model": "SHG11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS wish",
       "codename": "SX1",
       "model": "A103SH"
@@ -1295,7 +1313,19 @@
       "manufacturer": "",
       "market_name": "AQUOS wish3",
       "codename": "SX3",
+      "model": "A302SH-s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish3",
+      "codename": "SX3",
       "model": "A303SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish3",
+      "codename": "SX3",
+      "model": "A303SH-y"
     },
     {
       "manufacturer": "",
@@ -1410,6 +1440,12 @@
       "market_name": "AQUOS ケータイ SH-06G",
       "codename": "SH-06G",
       "model": "SH-06G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS-TVL23B",
+      "codename": "umeda",
+      "model": "AQUOS-TVL23B"
     },
     {
       "manufacturer": "",
@@ -1649,7 +1685,25 @@
       "manufacturer": "",
       "market_name": "FK1",
       "codename": "mongkok",
+      "model": "AQUOS-TVH23C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FK1",
+      "codename": "mongkok",
+      "model": "AQUOS-TVT23C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FK1",
+      "codename": "mongkok",
       "model": "AQUOS-TVX23C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FQ",
+      "codename": "sandiego",
+      "model": "AQUOS-TVE23A"
     },
     {
       "manufacturer": "",
@@ -2355,6 +2409,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP 2K TV",
+      "codename": "umeda",
+      "model": "SHARP 2K TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP A2 Lite",
       "codename": "SJ3",
       "model": "FS8026"
@@ -2460,6 +2520,18 @@
       "market_name": "Sharp",
       "codename": "ewha",
       "model": "AQUOS-TVE21B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "expo",
+      "model": "4K Sharp Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp",
+      "codename": "kaitak",
+      "model": "Sharp Google TV"
     },
     {
       "manufacturer": "",

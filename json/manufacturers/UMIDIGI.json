@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A15T",
+      "codename": "A15T",
+      "model": "PA2310GBB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A15T EEA",
+      "codename": "A15T",
+      "model": "PA2310GBB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -267,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Active T1 EEA",
+      "codename": "Active_T1",
+      "model": "MT09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BISON",
       "codename": "BISON",
       "model": "BISON"
@@ -390,6 +408,18 @@
       "market_name": "BISON X10S NFC",
       "codename": "BISON_X10S_NFC",
       "model": "RP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X20",
+      "codename": "BISON_X20",
+      "model": "PR4JBX20A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BISON X20 EEA",
+      "codename": "BISON_X20",
+      "model": "PR4JBX20A"
     },
     {
       "manufacturer": "",
@@ -600,6 +630,12 @@
       "market_name": "G3 Plus EEA",
       "codename": "G3_Plus",
       "model": "MP25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3_Tab_Ultra",
+      "codename": "G3_Tab_Ultra",
+      "model": "MT13"
     },
     {
       "manufacturer": "",
@@ -900,6 +936,18 @@
       "market_name": "UMIDIGI G5A EEA",
       "codename": "UMIDIGI_G5A",
       "model": "MP38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G5C",
+      "codename": "UMIDIGI_G5C",
+      "model": "MP39"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G5C EEA",
+      "codename": "UMIDIGI_G5C",
+      "model": "MP39"
     },
     {
       "manufacturer": "",

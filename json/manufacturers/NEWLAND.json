@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NLS-MT93",
+      "codename": "NLS-MT93",
+      "model": "NLS-MT93"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-MT95",
+      "codename": "NLS-MT95",
+      "model": "NLS-MT95"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NLS-NFT10",
       "codename": "NLS-NFT10-GL",
       "model": "NLS-NFT10"

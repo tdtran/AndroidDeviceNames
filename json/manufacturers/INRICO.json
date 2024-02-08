@@ -12,6 +12,12 @@
       "market_name": "IRC200EU",
       "codename": "IRC200EU",
       "model": "Intelligent_Multi-mode_Radio"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S350",
+      "codename": "S350",
+      "model": "S350"
     }
   ]
 }

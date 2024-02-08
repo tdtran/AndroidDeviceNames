@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "EVOPRO",
+    "market_name": "EVOPRO",
+    "codename": "SEI500EV",
+    "model": "EVOPRO"
+  },
+  {
     "manufacturer": "eSTREAM 4K",
     "market_name": "EVOPRO",
     "codename": "SEI500EV",

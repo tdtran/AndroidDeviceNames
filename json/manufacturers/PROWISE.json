@@ -1,0 +1,11 @@
+{
+  "manufacturer": "prowise",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Prowise Touchscreen Ultra",
+      "codename": "ifpd",
+      "model": "prowise"
+    }
+  ]
+}

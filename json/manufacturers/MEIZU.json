@@ -231,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Polestar Phone",
+      "codename": "PolestarPhone",
+      "model": "Polestar Phone"
+    },
+    {
+      "manufacturer": "",
       "market_name": "meizu 16Xs",
       "codename": "meizu16Xs",
       "model": "meizu 16Xs"
@@ -264,6 +270,18 @@
       "market_name": "meizu 20 Pro",
       "codename": "meizu20Pro",
       "model": "MEIZU 20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu 21",
+      "codename": "meizu21",
+      "model": "MEIZU 21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu 21 PRO",
+      "codename": "meizu21Pro",
+      "model": "MEIZU 21 Pro"
     },
     {
       "manufacturer": "",

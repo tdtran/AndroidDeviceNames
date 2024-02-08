@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1083",
+      "codename": "A1083",
+      "model": "A1083"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A720",
       "codename": "wing-inet",
       "model": "A720"

@@ -12,6 +12,24 @@
       "market_name": "AIM75-WIFI",
       "codename": "AIM75-WIFI",
       "model": "AIM75-WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DLT-V7310AP",
+      "codename": "dlt_v7310",
+      "model": "DLT-V7310AP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DLT-V7312AP",
+      "codename": "dlt_v7312",
+      "model": "DLT-V7312AP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DLT-V7312AP+",
+      "codename": "dlt_v7312plus",
+      "model": "DLT-V7312AP+"
     }
   ]
 }

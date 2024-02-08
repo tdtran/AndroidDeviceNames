@@ -18,6 +18,12 @@
     "model": "Decaview 4K Google TV"
   },
   {
+    "manufacturer": "Detco",
+    "market_name": "Detco 4K Google TV",
+    "codename": "keoneae",
+    "model": "Detco 4K Google TV"
+  },
+  {
     "manufacturer": "Digi",
     "market_name": "Digiking 4K Google TV",
     "codename": "keoneae",
@@ -96,6 +102,12 @@
     "model": "RCA 4K Google TV"
   },
   {
+    "manufacturer": "RCA",
+    "market_name": "RCA 4K Google TV-E",
+    "codename": "keoneae",
+    "model": "RCA 4K Google TV-E"
+  },
+  {
     "manufacturer": "SICON",
     "market_name": "SICON 4K Google TV",
     "codename": "keoneae",
@@ -142,6 +154,12 @@
     "market_name": "VU 4K Google TV",
     "codename": "keoneae",
     "model": "VU 4K Google TV"
+  },
+  {
+    "manufacturer": "imiia",
+    "market_name": "imiia 4K Google TV-Y",
+    "codename": "keoneae",
+    "model": "imiia 4K Google TV-Y"
   },
   {
     "manufacturer": "innos",

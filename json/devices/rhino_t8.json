@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Rhino",
+    "market_name": "RHINO T8",
+    "codename": "Rhino_T8",
+    "model": "T8"
+  },
+  {
+    "manufacturer": "Rhino",
     "market_name": "T8",
     "codename": "Rhino_T8",
     "model": "T8"

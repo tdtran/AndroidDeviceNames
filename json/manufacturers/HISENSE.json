@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "65MR6DE",
+      "codename": "huanghe",
+      "model": "HIDB 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "700T",
       "codename": "HSSDM660QC",
       "model": "HLTE700T"
@@ -1173,6 +1179,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HLTE243E",
+      "codename": "HLTE243E",
+      "model": "Hisense E33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE300E_ 02",
       "codename": "HS8937QC",
       "model": "HLTE300E"
@@ -1827,6 +1839,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense E33",
+      "codename": "HLTE243E_01",
+      "model": "Hisense E33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense E40",
       "codename": "HLTE229E",
       "model": "HLTE229E"
@@ -2003,6 +2021,12 @@
       "manufacturer": "",
       "market_name": "Hisense E70",
       "codename": "HLTE262E",
+      "model": "Hisense E70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E70",
+      "codename": "HLTE262E_01",
       "model": "Hisense E70"
     },
     {
@@ -2399,6 +2423,12 @@
       "manufacturer": "",
       "market_name": "Hisense U605",
       "codename": "HS7731ESP",
+      "model": "HWCD101E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U605",
+      "codename": "HS7731ESP",
       "model": "Hisense M50 Lite"
     },
     {
@@ -2441,6 +2471,24 @@
       "manufacturer": "",
       "market_name": "Hisense U70 Pro",
       "codename": "HLTE109E",
+      "model": "Hisense U70 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U70 Pro",
+      "codename": "HLTE109E_01",
+      "model": "Hisense U70 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U70 Pro",
+      "codename": "HLTE109E_02",
+      "model": "Hisense U70 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U70 Pro",
+      "codename": "HLTE109E_03",
       "model": "Hisense U70 Pro"
     },
     {
@@ -2506,6 +2554,12 @@
     {
       "manufacturer": "",
       "market_name": "Hisense U964",
+      "codename": "HLTE106E_01",
+      "model": "Hisense U965"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
       "codename": "HLTE106E_02",
       "model": "Hisense E32 Lite"
     },
@@ -2520,6 +2574,12 @@
       "market_name": "Hisense U964",
       "codename": "HLTE106E_02",
       "model": "Hisense U964"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HLTE106E_02",
+      "model": "Hisense U965"
     },
     {
       "manufacturer": "",
@@ -2555,7 +2615,19 @@
       "manufacturer": "",
       "market_name": "Hisense U964",
       "codename": "HS7731ESP",
+      "model": "Hisense U61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HS7731ESP",
       "model": "Hisense U70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U964",
+      "codename": "HS7731ESP",
+      "model": "Hisense U71"
     },
     {
       "manufacturer": "",
@@ -4188,6 +4260,12 @@
       "market_name": "e76mini",
       "codename": "HS8937QC",
       "model": "Hisense E76mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "emeishan",
+      "codename": "hirano",
+      "model": "SmartTV"
     },
     {
       "manufacturer": "",

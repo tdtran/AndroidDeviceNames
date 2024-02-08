@@ -4,5 +4,17 @@
     "market_name": "CP101P",
     "codename": "POS",
     "model": "CP101P"
+  },
+  {
+    "manufacturer": "POS Terminal",
+    "market_name": "ACT",
+    "codename": "POS",
+    "model": "pCloud"
+  },
+  {
+    "manufacturer": "POS Terminal",
+    "market_name": "MINT",
+    "codename": "POS",
+    "model": "pCloud"
   }
 ]

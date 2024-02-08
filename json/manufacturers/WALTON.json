@@ -39,6 +39,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEXG N71",
+      "codename": "NEXG_N71",
+      "model": "NEXG N71"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXG N71 Plus",
+      "codename": "NEXG_N71_Plus",
+      "model": "NEXG N71 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXG N8",
+      "codename": "NEXG_N8",
+      "model": "NEXG N8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Orbit M20",
       "codename": "OrbitM20",
       "model": "Orbit M20"
@@ -735,9 +753,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WALTON GSMART 4KTV FF",
+      "codename": "anaheim",
+      "model": "WALTON GSMART 4KTV FF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WAS2KA11",
+      "codename": "IAD",
+      "model": "WAS2KA11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Walton Primo X5",
       "codename": "Primo_X5",
       "model": "Walton Primo X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XANON X20",
+      "codename": "XANON_X20",
+      "model": "XANON X20"
     }
   ]
 }

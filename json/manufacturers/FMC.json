@@ -1,0 +1,17 @@
+{
+  "manufacturer": "FMC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Digital Experience",
+      "codename": "belford",
+      "model": "Infotainment-system"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digital Experience",
+      "codename": "belford",
+      "model": "SYNC"
+    }
+  ]
+}

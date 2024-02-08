@@ -13,6 +13,18 @@
   },
   {
     "manufacturer": "CAIXUN",
+    "market_name": "Caixun TV",
+    "codename": "nagata",
+    "model": "Caixun TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Dreamstar 2K SMART TV",
+    "codename": "nagata",
+    "model": "Dreamstar 2K SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
     "market_name": "Europe",
     "codename": "nagata",
     "model": "Fobem 2K SMART TV"
@@ -22,6 +34,12 @@
     "market_name": "MAXWELL SMART TV",
     "codename": "nagata",
     "model": "MAXWELL SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Newal 2K SMART TV",
+    "codename": "nagata",
+    "model": "Newal 2K SMART TV"
   },
   {
     "manufacturer": "Compaq",
@@ -42,10 +60,28 @@
     "model": "CDI SMART TV"
   },
   {
+    "manufacturer": "F\u0026U (Fandu)",
+    "market_name": "FU 2K SMART TV",
+    "codename": "nagata",
+    "model": "FU 2K SMART TV"
+  },
+  {
+    "manufacturer": "FUEGO",
+    "market_name": "FUEGO 2K SMART TV",
+    "codename": "nagata",
+    "model": "FUEGO 2K SMART TV"
+  },
+  {
     "manufacturer": "Grunkel",
     "market_name": "Europe",
     "codename": "nagata",
     "model": "GRUNKEL SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "BOLIVIA",
+    "codename": "nagata",
+    "model": "HYUNDAI SMART 2K TV"
   },
   {
     "manufacturer": "Hyundai",
@@ -60,10 +96,22 @@
     "model": "IMPEX evoQ 2K"
   },
   {
+    "manufacturer": "INFINITON",
+    "market_name": "INFINITON 2K SMART TV",
+    "codename": "nagata",
+    "model": "INFINITON 2K Smart TV"
+  },
+  {
     "manufacturer": "Invens",
     "market_name": "Spain",
     "codename": "nagata",
     "model": "INVES SMART TV"
+  },
+  {
+    "manufacturer": "Kodak",
+    "market_name": "SOUTH AMERICA",
+    "codename": "nagata",
+    "model": "KODAK 2K TV"
   },
   {
     "manufacturer": "Kogan",
@@ -96,6 +144,12 @@
     "model": "Profilo Smart TV"
   },
   {
+    "manufacturer": "Proscan",
+    "market_name": "PROSCAN 2K SMART TV",
+    "codename": "nagata",
+    "model": "PROSCAN 2K SMART TV"
+  },
+  {
     "manufacturer": "Qilive",
     "market_name": "Qilive SMART TV",
     "codename": "nagata",
@@ -121,9 +175,9 @@
   },
   {
     "manufacturer": "Smart-Tech TV",
-    "market_name": "Europe",
+    "market_name": "Contex TV",
     "codename": "nagata",
-    "model": "Apollo Premium2K TV"
+    "model": "Contex TV"
   },
   {
     "manufacturer": "Star-X",

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Sharp",
+    "market_name": "FQ",
+    "codename": "sandiego",
+    "model": "AQUOS-TVE23A"
+  },
+  {
+    "manufacturer": "Sharp",
     "market_name": "FV1",
     "codename": "sandiego",
     "model": "AQUOS-TVT23A"

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DNA Hubi Soundbox",
+      "codename": "m393vsb_dna",
+      "model": "DNA Hubi Soundbox"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DNA TV-hubi",
       "codename": "dctiw384",
       "model": "DNA Android TV"

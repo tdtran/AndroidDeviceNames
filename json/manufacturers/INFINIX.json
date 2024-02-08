@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 20 5G",
+      "codename": "Infinix-X666",
+      "model": "Infinix X666"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT 20 PLAY",
       "codename": "Infinix-X6825",
       "model": "Infinix X6825"
@@ -543,6 +549,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix HOT 40",
+      "codename": "Infinix-X6836",
+      "model": "Infinix X6836"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 40 Pro",
+      "codename": "Infinix-X6837",
+      "model": "Infinix X6837"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 40i",
+      "codename": "Infinix-X6528",
+      "model": "Infinix X6528"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 40i",
+      "codename": "Infinix-X6528B",
+      "model": "Infinix X6528B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix HOT 6X",
       "codename": "Infinix-X623",
       "model": "Infinix X623"
@@ -687,6 +717,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix NOTE 40",
+      "codename": "Infinix-X6853",
+      "model": "Infinix X6853"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 40 Pro",
+      "codename": "Infinix-X6850",
+      "model": "Infinix X6850"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix NOTE 5",
       "codename": "Infinix-X604_sprout",
       "model": "Infinix X604"
@@ -750,6 +792,30 @@
       "market_name": "Infinix SMART 8",
       "codename": "Infinix-X6525",
       "model": "Infinix X6525"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix SMART 8 HD",
+      "codename": "Infinix-X6525",
+      "model": "Infinix X6525"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix SMART 8 PRO",
+      "codename": "Infinix-X6525B",
+      "model": "Infinix X6525B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix SMART 8 Plus",
+      "codename": "Infinix-X6526",
+      "model": "Infinix X6526"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix SMART 8 Pro",
+      "codename": "Infinix-X6525B",
+      "model": "Infinix X6525B"
     },
     {
       "manufacturer": "",
@@ -870,12 +936,6 @@
       "market_name": "NOTE 12",
       "codename": "Infinix-X670",
       "model": "Infinix X670"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "NOTE 12 PRO",
-      "codename": "Infinix-X676B",
-      "model": "Infinix X676B"
     },
     {
       "manufacturer": "",
@@ -1167,6 +1227,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART 8 Plus",
+      "codename": "Infinix-X6526",
+      "model": "Infinix X6526"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART HD",
       "codename": "Infinix-X612",
       "model": "Infinix X612"
@@ -1176,6 +1242,12 @@
       "market_name": "SMART HD",
       "codename": "Infinix-X612B",
       "model": "Infinix X612B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMRAT 8 PRO",
+      "codename": "Infinix-X6525B",
+      "model": "Infinix X6525B"
     },
     {
       "manufacturer": "",

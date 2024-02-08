@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B866V2FI",
+      "codename": "B866V2Fi",
+      "model": "B866V2FI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HP2714",
       "codename": "HPH65",
       "model": "HP2714"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP46A",
+      "codename": "HP46A",
+      "model": "HP4633"
     },
     {
       "manufacturer": "",

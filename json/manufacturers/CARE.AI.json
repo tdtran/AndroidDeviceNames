@@ -6,6 +6,12 @@
       "market_name": "AIM H1",
       "codename": "AIM-H1",
       "model": "AIM H1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AMS-R2O",
+      "codename": "AMS_R2O",
+      "model": "AMS-R2O"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "abxylute",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "abxylute_one",
+      "codename": "abxylute_one",
+      "model": "abxylute_one"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "abxylute_one",
+      "codename": "abxylute_one",
+      "model": "abxylute_one_EEA"
+    }
+  ]
+}

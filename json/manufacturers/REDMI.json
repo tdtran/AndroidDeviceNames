@@ -285,6 +285,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 13C",
+      "codename": "gale",
+      "model": "23100RN82L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 13C",
+      "codename": "gale",
+      "model": "23106RN0DA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 13C",
+      "codename": "gale",
+      "model": "2311DRN14I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 13C",
+      "codename": "gust",
+      "model": "23108RN04Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 13C 5G",
+      "codename": "air",
+      "model": "23124RN87I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 6",
       "codename": "cereus",
       "model": "Redmi 6"
@@ -1029,27 +1059,81 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 13",
+      "codename": "sapphire",
+      "model": "23129RA5FL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13",
+      "codename": "sapphiren",
+      "model": "23124RA7EO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 13 5G",
       "codename": "gold",
       "model": "2312DRAABC"
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 13 5G",
+      "codename": "gold",
+      "model": "2312DRAABI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 5G",
+      "codename": "iron",
+      "model": "2312DRAABG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 13 Pro",
+      "codename": "emerald",
+      "model": "23117RA68G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro 5G",
       "codename": "garnet",
       "model": "2312CRAD3C"
     },
     {
       "manufacturer": "",
-      "market_name": "Redmi Note 13 Pro",
+      "market_name": "Redmi Note 13 Pro 5G",
       "codename": "garnet",
       "model": "2312DRA50C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro 5G",
+      "codename": "garnet",
+      "model": "2312DRA50G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro 5G",
+      "codename": "garnet",
+      "model": "2312DRA50I"
     },
     {
       "manufacturer": "",
       "market_name": "Redmi Note 13 Pro+",
       "codename": "zircon",
       "model": "23090RA98C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro+ 5G",
+      "codename": "zircon",
+      "model": "23090RA98G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro+ 5G",
+      "codename": "zircon",
+      "model": "23090RA98I"
     },
     {
       "manufacturer": "",

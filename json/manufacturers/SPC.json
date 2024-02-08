@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Discovery SE",
+      "codename": "Discovery_SE",
+      "model": "Discovery SE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EU、UK、AP",
       "codename": "martin",
       "model": "SPC Android TV"

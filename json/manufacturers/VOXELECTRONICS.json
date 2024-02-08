@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "VOXELECTRONICS",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VOXelectronics 2K Android TV",
       "codename": "lasalle",
       "model": "VOXelectronics 2K Android TV"

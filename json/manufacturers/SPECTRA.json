@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Spectra MobileMapper6",
+      "codename": "MobileMapper6",
+      "model": "MobileMapper6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAP-POS",
       "codename": "TAP-POS",
       "model": "SAH55"

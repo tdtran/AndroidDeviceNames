@@ -315,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA 2K Google TV-E",
+      "codename": "capitolhill",
+      "model": "RCA 2K Google TV-E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA 2K SMART TV",
       "codename": "nagata",
       "model": "RCA 2K SMART TV"
@@ -330,6 +336,12 @@
       "market_name": "RCA 4K Google TV",
       "codename": "keoneae",
       "model": "RCA 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA 4K Google TV-E",
+      "codename": "keoneae",
+      "model": "RCA 4K Google TV-E"
     },
     {
       "manufacturer": "",

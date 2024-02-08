@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P5_EEA",
+      "codename": "P5",
+      "model": "P5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T2",
       "codename": "T2",
       "model": "T2"

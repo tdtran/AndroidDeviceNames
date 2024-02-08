@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ARTRAN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ARTRAN _EI101F",
+      "codename": "ARTRAN_EI101F",
+      "model": "EI101F"
+    }
+  ]
+}

@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L55S",
+      "codename": "L55S",
+      "model": "LOGIC_L55S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L55SCLARO",
       "codename": "L55SCLARO",
       "model": "L55SCLARO"
@@ -66,6 +72,12 @@
       "market_name": "L66 LITE",
       "codename": "L66_LITE",
       "model": "L66 LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L66 PRO",
+      "codename": "L66_PRO",
+      "model": "LOGIC L66 PRO"
     },
     {
       "manufacturer": "",
@@ -138,6 +150,12 @@
       "market_name": "LOGIC_L65",
       "codename": "LOGIC_L65",
       "model": "LOGIC L65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_L66M",
+      "codename": "LOGIC_L66M",
+      "model": "LOGIC L66M"
     },
     {
       "manufacturer": "",

@@ -48,6 +48,12 @@
     "model": "OK Google TV"
   },
   {
+    "manufacturer": "Sharp",
+    "market_name": "Sharp",
+    "codename": "kaitak",
+    "model": "Sharp Google TV"
+  },
+  {
     "manufacturer": "Umax",
     "market_name": "UMAX",
     "codename": "kaitak",

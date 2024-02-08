@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A14",
+      "codename": "S6007LA",
+      "model": "S6007L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A15",
       "codename": "S6512LA",
       "model": "S6512L"
@@ -130,6 +136,12 @@
     {
       "manufacturer": "",
       "market_name": "A9L",
+      "codename": "S6303LAT_Go",
+      "model": "S6303L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A9L",
       "codename": "S6303LA_Go",
       "model": "S6303L"
     },
@@ -150,6 +162,12 @@
       "market_name": "B20",
       "codename": "N6501LA",
       "model": "N6501L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B30 Pro",
+      "codename": "S6702XA",
+      "model": "S6702X"
     },
     {
       "manufacturer": "",
@@ -258,6 +276,12 @@
       "market_name": "Tab 10",
       "codename": "T1001LA",
       "model": "T1001L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 10 Plus",
+      "codename": "T1005LAV1",
+      "model": "T1005L"
     },
     {
       "manufacturer": "",

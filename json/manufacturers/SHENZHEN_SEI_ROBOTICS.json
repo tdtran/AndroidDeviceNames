@@ -18,6 +18,12 @@
       "market_name": "SEI103V",
       "codename": "SEI103",
       "model": "ANDROID TV MEDIA BOX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sensa Box 4K",
+      "codename": "SEI700PTS",
+      "model": "Sensa Box 4K"
     }
   ]
 }

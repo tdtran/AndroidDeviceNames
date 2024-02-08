@@ -1,0 +1,11 @@
+{
+  "manufacturer": "aigo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A18",
+      "codename": "A18",
+      "model": "A18"
+    }
+  ]
+}

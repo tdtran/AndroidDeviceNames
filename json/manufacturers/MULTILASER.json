@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10 3G",
+      "codename": "ML_SO0Q_M10_3G",
+      "model": "M10_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10 4G",
       "codename": "ML-JI0A-M10-4G",
       "model": "M10-4G"
@@ -394,6 +400,12 @@
     {
       "manufacturer": "",
       "market_name": "M7 WIFI",
+      "codename": "ML_SO0S_M7_WIFI",
+      "model": "M7_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 WIFI",
       "codename": "ML_SO1E_M7_Wifi",
       "model": "M7_WIFI"
     },
@@ -677,6 +689,12 @@
       "manufacturer": "",
       "market_name": "M9_WIFI",
       "codename": "ML_JI0T_M9_WIFI",
+      "model": "M9_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9_WIFI",
+      "codename": "ML_JI0U_M9_WIFI",
       "model": "M9_WIFI"
     },
     {

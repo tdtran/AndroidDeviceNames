@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q6",
+      "codename": "Q6",
+      "model": "Q6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QTAB",
       "codename": "QTAB",
       "model": "QTAB"
@@ -108,6 +114,12 @@
       "market_name": "QTab8_LTE",
       "codename": "QTab8_LTE",
       "model": "QTab8_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTabPro",
+      "codename": "Qtab",
+      "model": "QTabPro"
     },
     {
       "manufacturer": "",

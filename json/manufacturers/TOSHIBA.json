@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "65Z870MS",
+      "codename": "hengshan",
+      "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A204",
       "codename": "tos14ast10",
       "model": "A204"
@@ -300,6 +306,18 @@
       "market_name": "STB10",
       "codename": "TOSPASB",
       "model": "TOSPASB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TD-E657TS",
+      "codename": "xinnong",
+      "model": "HIDB 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TD-E757TS",
+      "codename": "ligen",
+      "model": "HIDB 4K"
     },
     {
       "manufacturer": "",

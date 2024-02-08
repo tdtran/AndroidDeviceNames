@@ -143,6 +143,12 @@
       "manufacturer": "",
       "market_name": "JVC",
       "codename": "bruno",
+      "model": "JVC UK 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
+      "codename": "bruno",
       "model": "JVC2KAndroid TV"
     },
     {
@@ -357,9 +363,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JVC 4K Smart TV Plus",
+      "codename": "anaheim",
+      "model": "JVC 4K Smart TV Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JVC J20",
       "codename": "Cunda",
       "model": "J20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KR",
+      "codename": "expo",
+      "model": "Premium 4K GTV"
     },
     {
       "manufacturer": "",

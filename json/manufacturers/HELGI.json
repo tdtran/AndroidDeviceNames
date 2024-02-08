@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Helgi",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HXxx10",
+      "codename": "rk3588_t",
+      "model": "Helgi_HX10"
+    }
+  ]
+}

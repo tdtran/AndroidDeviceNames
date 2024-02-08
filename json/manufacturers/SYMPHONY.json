@@ -723,6 +723,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "innova20",
+      "codename": "innova20",
+      "model": "innova20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "roarV95",
       "codename": "roarV95",
       "model": "roarV95"

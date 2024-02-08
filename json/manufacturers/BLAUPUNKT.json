@@ -76,6 +76,12 @@
     {
       "manufacturer": "",
       "market_name": "BLAUPUNKT",
+      "codename": "lavender",
+      "model": "BLAUPUNKT 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAUPUNKT",
       "codename": "stanford",
       "model": "CSV2K"
     },
@@ -143,6 +149,12 @@
       "manufacturer": "",
       "market_name": "Blaupunkt",
       "codename": "ewha",
+      "model": "AQUOS-TVE19I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt",
+      "codename": "ewha",
       "model": "BLAU-TVE19I"
     },
     {
@@ -204,6 +216,12 @@
       "market_name": "Blaupunkt",
       "codename": "zhongshan",
       "model": "Blaupunkt 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaupunkt 2K Google TV",
+      "codename": "capitolhill",
+      "model": "Blaupunkt 2K Google TV"
     },
     {
       "manufacturer": "",

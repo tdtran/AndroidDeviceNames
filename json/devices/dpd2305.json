@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Vivo",
+    "market_name": "iQOO Pad Air",
+    "codename": "DPD2305",
+    "model": "iPA2451"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "vivo Pad Air",
     "codename": "DPD2305",
     "model": "PA2353"

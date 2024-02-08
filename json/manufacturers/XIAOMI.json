@@ -983,6 +983,12 @@
       "manufacturer": "",
       "market_name": "MiTV",
       "codename": "irobot",
+      "model": "MiTV-MOSR2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "irobot",
       "model": "MiTV-MOSR3"
     },
     {
@@ -1566,6 +1572,24 @@
       "market_name": "Xiaomi 13T Pro",
       "codename": "corot",
       "model": "A301XM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14",
+      "codename": "houji",
+      "model": "23127PN0CC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14 Pro",
+      "codename": "shennong",
+      "model": "23116PN5BC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14 Pro",
+      "codename": "shennong",
+      "model": "2311BPN23C"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,17 @@
     "market_name": "Redmi Note 13 Pro+",
     "codename": "zircon",
     "model": "23090RA98C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 13 Pro+ 5G",
+    "codename": "zircon",
+    "model": "23090RA98G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 13 Pro+ 5G",
+    "codename": "zircon",
+    "model": "23090RA98I"
   }
 ]

@@ -156,6 +156,12 @@
     "model": "SMART TV"
   },
   {
+    "manufacturer": "Ice",
+    "market_name": "ICE",
+    "codename": "stanford",
+    "model": "SMART TV"
+  },
+  {
     "manufacturer": "Indurama",
     "market_name": "INDURAMA",
     "codename": "stanford",
@@ -247,12 +253,6 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "ICE",
-    "codename": "stanford",
-    "model": "SMART TV"
-  },
-  {
-    "manufacturer": "KTCtv",
     "market_name": "INNOVA",
     "codename": "stanford",
     "model": "CSV2K"
@@ -283,7 +283,7 @@
   },
   {
     "manufacturer": "KTCtv",
-    "market_name": "POWER_GREEN",
+    "market_name": "RZTK",
     "codename": "stanford",
     "model": "2K SMART TV"
   },
@@ -418,6 +418,12 @@
     "market_name": "Philco",
     "codename": "stanford",
     "model": "PHILCO SMART"
+  },
+  {
+    "manufacturer": "Power Green",
+    "market_name": "POWER_GREEN",
+    "codename": "stanford",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "Prometheus",

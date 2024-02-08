@@ -4,5 +4,11 @@
     "market_name": "Gretzky",
     "codename": "TSA",
     "model": "Shaks G1"
+  },
+  {
+    "manufacturer": "Toyota",
+    "market_name": "Toyota",
+    "codename": "TSA",
+    "model": "OTT"
   }
 ]

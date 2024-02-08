@@ -700,8 +700,26 @@
     {
       "manufacturer": "",
       "market_name": "T40HD_EEA",
+      "codename": "T40HD_EEA",
+      "model": "T40HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40HD_EEA",
+      "codename": "T40HD_EEA",
+      "model": "T40HD_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40HD_EEA",
       "codename": "T40HD_T",
       "model": "T40HD_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40HD_ROW",
+      "codename": "T40HD_ROW",
+      "model": "T40HD"
     },
     {
       "manufacturer": "",
@@ -918,6 +936,12 @@
       "market_name": "T8",
       "codename": "T8",
       "model": "T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TLG01_EEA",
+      "codename": "TLG01_EEA",
+      "model": "TLG01_EEA"
     },
     {
       "manufacturer": "",

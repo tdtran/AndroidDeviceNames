@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Hybrid Stick",
+      "codename": "SEI730WP",
+      "model": "Hybrid Stick"
+    },
+    {
+      "manufacturer": "",
       "market_name": "waipu tv stick",
       "codename": "SEI700WP",
       "model": "waipu tv stick"

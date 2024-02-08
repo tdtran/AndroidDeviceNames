@@ -6,6 +6,12 @@
       "market_name": "Kids Tab 1",
       "codename": "KidsTab1_EEA",
       "model": "Kids Tab 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KidsTab3_EEA",
+      "codename": "KidsTab3_EEA",
+      "model": "KidsTab3_EEA"
     }
   ]
 }

@@ -1,14 +1,38 @@
 [
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO X6 5G",
+    "codename": "garnet",
+    "model": "23122PCD1G"
+  },
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO X6 5G",
+    "codename": "garnet",
+    "model": "23122PCD1I"
+  },
+  {
     "manufacturer": "Redmi",
-    "market_name": "Redmi Note 13 Pro",
+    "market_name": "Redmi Note 13 Pro 5G",
     "codename": "garnet",
     "model": "2312CRAD3C"
   },
   {
     "manufacturer": "Redmi",
-    "market_name": "Redmi Note 13 Pro",
+    "market_name": "Redmi Note 13 Pro 5G",
     "codename": "garnet",
     "model": "2312DRA50C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 13 Pro 5G",
+    "codename": "garnet",
+    "model": "2312DRA50G"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 13 Pro 5G",
+    "codename": "garnet",
+    "model": "2312DRA50I"
   }
 ]

@@ -18,6 +18,12 @@
       "market_name": "Saudi Arabia",
       "codename": "yeongdeungpo",
       "model": "ARRQW UHD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "longshan",
+      "model": "AI PONT"
     }
   ]
 }

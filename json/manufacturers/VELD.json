@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Veld",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Veld Board",
+      "codename": "Veld_Board",
+      "model": "SXX01G"
+    }
+  ]
+}

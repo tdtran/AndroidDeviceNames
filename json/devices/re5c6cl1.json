@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "realme",
+    "market_name": "RMX3782",
+    "codename": "RE5C6CL1",
+    "model": "RMX3782"
+  },
+  {
+    "manufacturer": "realme",
     "market_name": "realme 11 5G",
     "codename": "RE5C6CL1",
     "model": "RMX3780"
@@ -10,11 +16,5 @@
     "market_name": "realme 11x 5G",
     "codename": "RE5C6CL1",
     "model": "RMX3785"
-  },
-  {
-    "manufacturer": "realme",
-    "market_name": "realme narzo 60x 5G",
-    "codename": "RE5C6CL1",
-    "model": "RMX3782"
   }
 ]

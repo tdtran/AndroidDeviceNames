@@ -12,6 +12,18 @@
     "model": "Altus Android TV"
   },
   {
+    "manufacturer": "Arcelik",
+    "market_name": "Turkey",
+    "codename": "martin",
+    "model": "Arcelik Android TV"
+  },
+  {
+    "manufacturer": "Beko",
+    "market_name": "Turkey",
+    "codename": "martin",
+    "model": "Beko Android TV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "EU、UK、AP",
     "codename": "martin",
@@ -109,6 +121,12 @@
   },
   {
     "manufacturer": "EPIC",
+    "market_name": "EPIC 2K Android TV",
+    "codename": "martin",
+    "model": "EPIC 2K Android TV"
+  },
+  {
+    "manufacturer": "EPIC",
     "market_name": "martin",
     "codename": "martin",
     "model": "EPIC Android TV"
@@ -124,6 +142,12 @@
     "market_name": "EU、UK、AP",
     "codename": "martin",
     "model": "FandU Android TV"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Turkey",
+    "codename": "martin",
+    "model": "Grundig Android TV"
   },
   {
     "manufacturer": "Grunkel",

@@ -6,6 +6,12 @@
       "market_name": "Pixart_P20",
       "codename": "Pixart_P20",
       "model": "Pixart_P20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SZ10M68",
+      "codename": "SZ10M68",
+      "model": "SZ10M68"
     }
   ]
 }

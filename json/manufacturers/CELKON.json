@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C10STAR",
+      "codename": "C10STAR",
+      "model": "Celkon C10STAR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CliQ 2",
       "codename": "c707_ym_n_37m35",
       "model": "CliQ2"

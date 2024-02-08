@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Benin",
+      "codename": "H6681_Pro",
+      "model": "Moov Smart Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Chenoa",
       "codename": "Chenoa",
       "model": "Chenoa"
@@ -63,9 +69,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H5111",
+      "codename": "H5111",
+      "model": "H5111"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H5112",
+      "codename": "H5112",
+      "model": "H5112"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H6511",
       "codename": "H6511",
       "model": "H6511"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H6682",
+      "codename": "H6682",
+      "model": "H6682"
     },
     {
       "manufacturer": "",
@@ -90,6 +114,12 @@
       "market_name": "Hotah",
       "codename": "Hotah",
       "model": "Hotah"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKOSORA+",
+      "codename": "IKOSORA_Plus",
+      "model": "IKOSORA+"
     },
     {
       "manufacturer": "",
@@ -177,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MobiTab",
+      "codename": "WM26",
+      "model": "WM26"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MobiWire Halona",
       "codename": "Halona",
       "model": "Halona"
@@ -198,6 +234,12 @@
       "market_name": "MobiWire Kosumi",
       "codename": "Kosumi",
       "model": "Kosumi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mobiwire Verda",
+      "codename": "Verda",
+      "model": "Mobiwire Verda"
     },
     {
       "manufacturer": "",
@@ -312,6 +354,18 @@
       "market_name": "Telstra Lite Plus",
       "codename": "Telstra_Lite_Plus",
       "model": "Telstra Lite Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V Lite 2",
+      "codename": "V_Lite_2",
+      "model": "V Lite 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V Smart 2",
+      "codename": "V_Smart_2",
+      "model": "V Smart 2"
     },
     {
       "manufacturer": "",

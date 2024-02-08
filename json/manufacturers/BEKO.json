@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Beko Google TV OLED",
+      "codename": "wanchai",
+      "model": "Beko Google TV OLED"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Beko Google TV QLED",
+      "codename": "wanchai",
+      "model": "Beko Google TV QLED"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Beko Google TV UHD+",
       "codename": "wanchai",
       "model": "Beko Google TV UHD+"
@@ -36,6 +48,12 @@
       "market_name": "Beko UHD Android TV",
       "codename": "kunyang",
       "model": "Beko Android UHD TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "martin",
+      "model": "Beko Android TV"
     }
   ]
 }

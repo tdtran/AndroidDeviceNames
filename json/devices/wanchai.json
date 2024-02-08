@@ -7,6 +7,18 @@
   },
   {
     "manufacturer": "Arcelik",
+    "market_name": "Arcelik Google TV OLED",
+    "codename": "wanchai",
+    "model": "Arcelik Google TV OLED"
+  },
+  {
+    "manufacturer": "Arcelik",
+    "market_name": "Arcelik Google TV QLED",
+    "codename": "wanchai",
+    "model": "Arcelik Google TV QLED"
+  },
+  {
+    "manufacturer": "Arcelik",
     "market_name": "Arcelik Google TV UHD+",
     "codename": "wanchai",
     "model": "Arcelik Google TV UHD+"
@@ -19,6 +31,18 @@
   },
   {
     "manufacturer": "Beko",
+    "market_name": "Beko Google TV OLED",
+    "codename": "wanchai",
+    "model": "Beko Google TV OLED"
+  },
+  {
+    "manufacturer": "Beko",
+    "market_name": "Beko Google TV QLED",
+    "codename": "wanchai",
+    "model": "Beko Google TV QLED"
+  },
+  {
+    "manufacturer": "Beko",
     "market_name": "Beko Google TV UHD+",
     "codename": "wanchai",
     "model": "Beko Google TV UHD+"
@@ -28,6 +52,18 @@
     "market_name": "Grundig Google TV",
     "codename": "wanchai",
     "model": "Grundig Google TV"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Grundig Google TV OLED",
+    "codename": "wanchai",
+    "model": "Grundig Google TV OLED"
+  },
+  {
+    "manufacturer": "Grundig",
+    "market_name": "Grundig Google TV QLED",
+    "codename": "wanchai",
+    "model": "Grundig Google TV QLED"
   },
   {
     "manufacturer": "Grundig",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "POS Terminal",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ACT",
+      "codename": "POS",
+      "model": "pCloud"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MINT",
+      "codename": "POS",
+      "model": "pCloud"
+    }
+  ]
+}

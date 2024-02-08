@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K3S",
+      "codename": "K3S",
+      "model": "K3S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K8",
       "codename": "K8",
       "model": "K8"
@@ -24,6 +30,12 @@
       "market_name": "iData P1",
       "codename": "iData_P1",
       "model": "iData P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iData P1 mini",
+      "codename": "iData_P1_mini",
+      "model": "iData P1 mini"
     },
     {
       "manufacturer": "",

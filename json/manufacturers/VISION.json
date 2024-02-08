@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B866V2F",
+      "codename": "B866V2F",
+      "model": "B866V2F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bangladesh",
       "codename": "guandu",
       "model": "Vision Android TV"
@@ -59,6 +65,12 @@
       "manufacturer": "",
       "market_name": "VISION GSMART 4KTV FF",
       "codename": "SW6H",
+      "model": "VISION GSMART 4KTV FF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VISION GSMART 4KTV FF",
+      "codename": "anaheim",
       "model": "VISION GSMART 4KTV FF"
     },
     {

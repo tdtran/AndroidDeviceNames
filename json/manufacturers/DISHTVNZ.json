@@ -18,6 +18,12 @@
       "market_name": "SV11",
       "codename": "ICN",
       "model": "SV11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SV11HD",
+      "codename": "IAD",
+      "model": "SV11HD"
     }
   ]
 }

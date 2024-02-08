@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "DishTV-NZ",
+    "market_name": "SV11HD",
+    "codename": "IAD",
+    "model": "SV11HD"
+  },
+  {
+    "manufacturer": "Echolink",
+    "market_name": "ENOVA STICK",
+    "codename": "IAD",
+    "model": "ENOVA STICK"
+  },
+  {
+    "manufacturer": "Homatics",
+    "market_name": "Stick HD",
+    "codename": "IAD",
+    "model": "Stick HD"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Nokia Streaming Stick 800",
+    "codename": "IAD",
+    "model": "Nokia Streaming Stick 800"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "WAS2KA11",
+    "codename": "IAD",
+    "model": "WAS2KA11"
+  },
+  {
+    "manufacturer": "imiia",
+    "market_name": "imiia 2k stick",
+    "codename": "IAD",
+    "model": "imiia 2k stick"
+  }
+]

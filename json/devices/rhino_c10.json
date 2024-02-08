@@ -4,5 +4,11 @@
     "market_name": "C10",
     "codename": "Rhino_C10",
     "model": "C10"
+  },
+  {
+    "manufacturer": "Rhino",
+    "market_name": "RHINO C10",
+    "codename": "Rhino_C10",
+    "model": "C10"
   }
 ]

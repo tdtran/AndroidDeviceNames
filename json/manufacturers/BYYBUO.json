@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SmartPad_A10_EU",
+      "codename": "SmartPad_A10_EU",
+      "model": "SmartPad_A10_EU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartPad_A10_L",
       "codename": "SmartPad_A10_L",
       "model": "SmartPad_A10_L"

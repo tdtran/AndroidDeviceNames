@@ -10,5 +10,11 @@
     "market_name": "Thunder",
     "codename": "S350",
     "model": "Thunder"
+  },
+  {
+    "manufacturer": "Inrico",
+    "market_name": "S350",
+    "codename": "S350",
+    "model": "S350"
   }
 ]

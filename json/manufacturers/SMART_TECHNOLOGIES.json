@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AM60 series",
+      "codename": "komodo",
+      "model": "SMART AM60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AMG1",
       "codename": "komodo",
       "model": "AMG series"

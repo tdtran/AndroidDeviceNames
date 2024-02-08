@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ENTG1011",
+      "codename": "ENTG1011",
+      "model": "ENTG1011"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HW304_HW291",
       "codename": "HW304_HW291",
       "model": "HW304_HW291"

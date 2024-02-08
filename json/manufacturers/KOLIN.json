@@ -3,8 +3,20 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KOLIN",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "longshan",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart TV",
+      "codename": "redwood",
       "model": "AI PONT"
     }
   ]

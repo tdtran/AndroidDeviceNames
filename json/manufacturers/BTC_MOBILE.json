@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S5548",
+      "codename": "S5548",
+      "model": "S5548"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Touch",
       "codename": "Touch",
       "model": "Touch"

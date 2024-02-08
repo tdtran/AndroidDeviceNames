@@ -4,5 +4,11 @@
     "market_name": "Acer",
     "codename": "waiawa",
     "model": "DIX51R4KU"
+  },
+  {
+    "manufacturer": "Gangnam",
+    "market_name": "Gangnam",
+    "codename": "waiawa",
+    "model": "GNG51RU"
   }
 ]

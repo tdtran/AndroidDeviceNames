@@ -225,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ST102",
+      "codename": "ST102",
+      "model": "ST102"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sparkle V",
       "codename": "Sparkle_V_sprout",
       "model": "Sparkle V"
@@ -276,6 +282,12 @@
       "market_name": "Titanium_S9_Plus",
       "codename": "Karbonn_Titanium_S9_Plus",
       "model": "Titanium_S9_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X23",
+      "codename": "X23",
+      "model": "X23"
     }
   ]
 }

@@ -207,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C36_EEA",
+      "codename": "C36",
+      "model": "C36"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -744,6 +750,12 @@
       "market_name": "WP27_RU",
       "codename": "WP27",
       "model": "WP27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP30_Pro_EEA",
+      "codename": "WP30_Pro",
+      "model": "WP30 Pro"
     },
     {
       "manufacturer": "",

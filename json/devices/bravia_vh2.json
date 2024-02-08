@@ -3,6 +3,12 @@
     "manufacturer": "Sony",
     "market_name": "BRAVIA VH2",
     "codename": "BRAVIA_VH2",
+    "model": "BRAVIA 2K VH2"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "BRAVIA VH2",
+    "codename": "BRAVIA_VH2",
     "model": "BRAVIA 4K VH2"
   }
 ]

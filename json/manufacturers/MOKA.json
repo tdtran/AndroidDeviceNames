@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moka",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "POS_Device_Moka_Prime",
+      "codename": "POS_Device",
+      "model": "Moka_Prime"
+    }
+  ]
+}

@@ -24,6 +24,18 @@
       "market_name": "i-217D1",
       "codename": "YUL",
       "model": "i-217D1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "imiia 2k stick",
+      "codename": "IAD",
+      "model": "imiia 2k stick"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "imiia 4K Google TV-Y",
+      "codename": "keoneae",
+      "model": "imiia 4K Google TV-Y"
     }
   ]
 }

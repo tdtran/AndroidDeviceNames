@@ -6,6 +6,12 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "ARRQW",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "ASHER",
     "market_name": "Smart TV",
     "codename": "longshan",
@@ -282,10 +288,22 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "VIOMI",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "AI PONT"
+  },
+  {
     "manufacturer": "Vivax",
     "market_name": "Smart TV",
     "codename": "longshan",
     "model": "AI PONT"
+  },
+  {
+    "manufacturer": "Vivax",
+    "market_name": "Smart TV",
+    "codename": "longshan",
+    "model": "VIVAX TV"
   },
   {
     "manufacturer": "Vu Televisions",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AJI",
+      "codename": "AJI",
+      "model": "HPPR10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AP17",
       "codename": "AP17",
       "model": "AP17"
@@ -16,6 +22,12 @@
     {
       "manufacturer": "",
       "market_name": "Chilaca",
+      "codename": "HPPL60A",
+      "model": "HPPL60A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chilaca Plus",
       "codename": "HPPL60A",
       "model": "HPPL60A"
     },

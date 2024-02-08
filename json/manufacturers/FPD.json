@@ -1,0 +1,47 @@
+{
+  "manufacturer": "FPD",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FPD",
+      "codename": "hongkong",
+      "model": "EcoTV Pro A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPD",
+      "codename": "hongkong",
+      "model": "EcoTV Pro D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPD",
+      "codename": "hongkong",
+      "model": "EcoTV Pro I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPD",
+      "codename": "lavender",
+      "model": "EcoTV Plus D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPD",
+      "codename": "lavender",
+      "model": "EcoTV Plus I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPD",
+      "codename": "mountbaker",
+      "model": "EcoTV A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPD",
+      "codename": "mountbaker",
+      "model": "EcoTV D"
+    }
+  ]
+}

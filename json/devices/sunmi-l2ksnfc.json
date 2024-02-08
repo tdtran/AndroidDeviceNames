@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Sunmi",
+    "market_name": "L2Ks",
+    "codename": "SUNMI-L2KsNFC",
+    "model": "L2Ks_EDLA_GL"
+  },
+  {
+    "manufacturer": "Sunmi",
     "market_name": "Sunmi L2Ks",
     "codename": "SUNMI-L2KsNFC",
     "model": "L2Ks_EEA"

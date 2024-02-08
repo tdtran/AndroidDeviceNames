@@ -36,9 +36,21 @@
     "model": "JVCUS 4K TV"
   },
   {
+    "manufacturer": "JVC",
+    "market_name": "KR",
+    "codename": "expo",
+    "model": "Premium 4K GTV"
+  },
+  {
     "manufacturer": "MGS",
     "market_name": "MGS",
     "codename": "expo",
     "model": "4K MGS Google TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "Sharp",
+    "codename": "expo",
+    "model": "4K Sharp Google TV"
   }
 ]

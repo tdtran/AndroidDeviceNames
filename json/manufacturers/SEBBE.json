@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S22-EEA",
+      "codename": "S22-EEA",
+      "model": "S22-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S22-US",
+      "codename": "S22-US",
+      "model": "S22-US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S22_EEA",
       "codename": "S22_EEA",
       "model": "S22_EEA"

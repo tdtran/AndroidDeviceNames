@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L2H_EDLA_GL",
+      "codename": "SUNMI-L2HNFC",
+      "model": "L2H_EDLA_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L2Ks",
+      "codename": "SUNMI-L2KsNFC",
+      "model": "L2Ks_EDLA_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L2s_PRO",
+      "codename": "SUNMI-L2s_PRO",
+      "model": "L2s_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sunmi L2H",
       "codename": "SUNMI-L2HNFC",
       "model": "L2H_EEA"
@@ -63,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V2s",
+      "codename": "V2s",
+      "model": "V2s_EDLA_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2s",
+      "codename": "V2sNC",
+      "model": "V2sNC_EDLA_GL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V2sNC",
       "codename": "V2sNC",
       "model": "V2sNC_EEA"
@@ -87,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V2sPLUS",
+      "codename": "V2sPLUSNC",
+      "model": "V2sPLUSNC_EDLA_GL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V2sPLUSNC",
       "codename": "V2sPLUSNC",
       "model": "V2sPLUSNC_EEA"
@@ -108,6 +144,12 @@
       "market_name": "V2sPLUSNC",
       "codename": "V2sPLUSNC",
       "model": "V2sPLUSNC_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V3 MIX",
+      "codename": "V3_MIX",
+      "model": "V3_MIX_EDLA_GL"
     }
   ]
 }

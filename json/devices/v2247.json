@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Vivo",
+    "market_name": "Y27s",
+    "codename": "V2247",
+    "model": "V2322"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y27s",
+    "codename": "V2247",
+    "model": "V2335"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "Y36",
     "codename": "V2247",
     "model": "V2247"

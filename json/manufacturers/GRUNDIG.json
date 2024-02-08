@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grundig Google TV OLED",
+      "codename": "wanchai",
+      "model": "Grundig Google TV OLED"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grundig Google TV QLED",
+      "codename": "wanchai",
+      "model": "Grundig Google TV QLED"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grundig Google TV UHD+",
       "codename": "wanchai",
       "model": "Grundig Google TV UHD+"
@@ -60,6 +72,12 @@
       "market_name": "TC69CA2",
       "codename": "GTB801",
       "model": "GTB 801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turkey",
+      "codename": "martin",
+      "model": "Grundig Android TV"
     }
   ]
 }

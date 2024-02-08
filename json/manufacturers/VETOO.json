@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T4GB07",
+      "codename": "T4GB07",
+      "model": "T4GB07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T4GB10",
+      "codename": "T4GB10",
+      "model": "T4GB10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"

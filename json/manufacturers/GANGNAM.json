@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Gangnam",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GANGNAM",
+      "codename": "anglelake",
+      "model": "GNG41RF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gangnam",
+      "codename": "waiawa",
+      "model": "GNG51RU"
+    }
+  ]
+}

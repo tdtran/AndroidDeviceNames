@@ -3,6 +3,12 @@
     "manufacturer": "Hisense",
     "market_name": "Hisense U605",
     "codename": "HS7731ESP",
+    "model": "HWCD101E"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense U605",
+    "codename": "HS7731ESP",
     "model": "Hisense M50 Lite"
   },
   {
@@ -69,7 +75,19 @@
     "manufacturer": "Hisense",
     "market_name": "Hisense U964",
     "codename": "HS7731ESP",
+    "model": "Hisense U61"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense U964",
+    "codename": "HS7731ESP",
     "model": "Hisense U70"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense U964",
+    "codename": "HS7731ESP",
+    "model": "Hisense U71"
   },
   {
     "manufacturer": "Hisense",

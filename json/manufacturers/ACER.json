@@ -405,6 +405,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Acer_A60L",
+      "codename": "Acer_A60L",
+      "model": "A60L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Acer_A61L",
       "codename": "Acer_A61L",
       "model": "A61L"
@@ -540,6 +546,18 @@
       "market_name": "B3-A40FHD",
       "codename": "acer_asgardfhd",
       "model": "B3-A40FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Battlezone LTE",
+      "codename": "Battlezone_LTE",
+      "model": "M10-12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Battlezone LTE",
+      "codename": "Battlezone_LTE",
+      "model": "M10-12_EEA"
     },
     {
       "manufacturer": "",

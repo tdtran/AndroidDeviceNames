@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SWTV-22COL-4K",
+      "codename": "anaheim",
+      "model": "SWTV-22COL-4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWTV-22HK-4K NF",
       "codename": "anaheim",
       "model": "SWTV-22HK-4K NF"
@@ -186,6 +192,12 @@
       "market_name": "SWTV-22TGS-4K",
       "codename": "anaheim",
       "model": "SWTV-22TGS-4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWTV-22TW-4K",
+      "codename": "anaheim",
+      "model": "SWTV-22TW-4K"
     },
     {
       "manufacturer": "",

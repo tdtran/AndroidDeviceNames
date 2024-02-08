@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Vocal",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "v0",
+      "codename": "v0",
+      "model": "VOCAL V0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "v1",
+      "codename": "v1",
+      "model": "VOCAL V1"
+    }
+  ]
+}

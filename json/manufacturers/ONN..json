@@ -93,6 +93,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PM82T",
+      "codename": "PM82T",
+      "model": "PM82T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet Gen 4",
+      "codename": "100135923",
+      "model": "100135923"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet Gen 4",
+      "codename": "100135925",
+      "model": "100135925"
+    },
+    {
+      "manufacturer": "",
       "market_name": "onn. 4K Streaming Box",
       "codename": "YOC",
       "model": "onn. 4K Streaming Box"
@@ -102,6 +120,12 @@
       "market_name": "onn. 4k TV",
       "codename": "sti6140d360",
       "model": "sti6140d360"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "onn_2k_gtv",
+      "codename": "XNA",
+      "model": "onn. Full HD Streaming Device"
     }
   ]
 }

@@ -6,6 +6,12 @@
       "market_name": "Proximus TV",
       "codename": "uiw4020pxm",
       "model": "decoder"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Proximus TV",
+      "codename": "uiw4068pxm",
+      "model": "tvbox"
     }
   ]
 }

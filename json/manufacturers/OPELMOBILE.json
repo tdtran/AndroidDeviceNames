@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart55Q",
+      "codename": "OMS55Q23B",
+      "model": "Smart55Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart65Q",
       "codename": "OMS65Q23B",
       "model": "Smart65Q"

@@ -13,6 +13,12 @@
   },
   {
     "manufacturer": "CAIXUN",
+    "market_name": "Caixun TV",
+    "codename": "marina",
+    "model": "Caixun TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
     "market_name": "Columbia",
     "codename": "marina",
     "model": "Apollo Premium4K TV"
@@ -40,6 +46,12 @@
     "market_name": "MAXWELL SMART TV",
     "codename": "marina",
     "model": "MAXWELL SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
+    "market_name": "Newal 4K SMART TV",
+    "codename": "marina",
+    "model": "Newal 4K SMART TV"
   },
   {
     "manufacturer": "CAIXUN",
@@ -72,6 +84,18 @@
     "model": "Apollo Premium4K TV"
   },
   {
+    "manufacturer": "F\u0026U (Fandu)",
+    "market_name": "Greece",
+    "codename": "marina",
+    "model": "FU 4K SMART TV"
+  },
+  {
+    "manufacturer": "FUEGO",
+    "market_name": "FUEGO 4K SMART TV",
+    "codename": "marina",
+    "model": "FUEGO 4K SMART TV"
+  },
+  {
     "manufacturer": "Grunkel",
     "market_name": "GRUNKEL SMART TV",
     "codename": "marina",
@@ -94,6 +118,12 @@
     "market_name": "IMPEX evoQ 4K",
     "codename": "marina",
     "model": "IMPEX evoQ 4K"
+  },
+  {
+    "manufacturer": "INFINITON",
+    "market_name": "INITON 4K SMART TV",
+    "codename": "marina",
+    "model": "INFINITON 4K Smart TV"
   },
   {
     "manufacturer": "Inves",
@@ -130,6 +160,12 @@
     "market_name": "Thailand",
     "codename": "marina",
     "model": "Nano 4K SMART TV"
+  },
+  {
+    "manufacturer": "Nokia",
+    "market_name": "Nokia TV",
+    "codename": "marina",
+    "model": "Nokia TV"
   },
   {
     "manufacturer": "Profilo",

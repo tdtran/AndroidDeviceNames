@@ -19,6 +19,12 @@
   },
   {
     "manufacturer": "Haier",
+    "market_name": "Haier MatrixTV CN",
+    "codename": "deto",
+    "model": "Haier MatrixTV CN"
+  },
+  {
+    "manufacturer": "Haier",
     "market_name": "Haier MatrixTV CS",
     "codename": "deto",
     "model": "Haier MatrixTV CS"

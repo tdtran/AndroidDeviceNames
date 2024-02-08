@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Mobicell",
+    "market_name": "MX1",
+    "codename": "MX1",
+    "model": "MX1"
+  },
+  {
     "manufacturer": "beafon",
     "market_name": "MX1",
     "codename": "MX1",

@@ -4,5 +4,11 @@
     "market_name": "ULED",
     "codename": "hengshan",
     "model": "SmartTV 4K FFM"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "65Z870MS",
+    "codename": "hengshan",
+    "model": "SmartTV 4K FFM"
   }
 ]

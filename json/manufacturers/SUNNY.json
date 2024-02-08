@@ -30,6 +30,12 @@
       "market_name": "SN7032",
       "codename": "SN7032",
       "model": "SN7032"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUNNY 2K Google TV",
+      "codename": "capitolhill",
+      "model": "SUNNY 2K Google TV"
     }
   ]
 }

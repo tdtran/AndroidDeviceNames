@@ -6,6 +6,24 @@
     "model": "A15"
   },
   {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A15",
+    "codename": "a15",
+    "model": "SM-A155F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A15",
+    "codename": "a15",
+    "model": "SM-A155M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A15",
+    "codename": "a15",
+    "model": "SM-A155N"
+  },
+  {
     "manufacturer": "Vmobile",
     "market_name": "A15",
     "codename": "A15",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K1200UA",
+      "codename": "K1200UA",
+      "model": "K1200UA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1100UA",
       "codename": "uce4027cjh",
       "model": "T1100UA"

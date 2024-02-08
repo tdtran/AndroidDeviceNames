@@ -303,6 +303,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S19 Max Pro S Edge",
+      "codename": "S19MaxProSEdge",
+      "model": "S19 Max Pro S Edge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19 Max Pro S Zoom",
+      "codename": "S19_Max_Pro_S_Zoom",
+      "model": "S19 Max Pro S Zoom"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S23 Pro Max",
       "codename": "S23_Pro_Max",
       "model": "S23 Pro Max"

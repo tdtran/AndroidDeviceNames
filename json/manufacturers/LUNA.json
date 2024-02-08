@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LUNA V10",
+      "codename": "LUNA_V10",
+      "model": "LUNA V10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LUNA V6",
       "codename": "LUNA_V6",
       "model": "LUNA V6"
@@ -24,6 +30,12 @@
       "market_name": "LUNA V6 3GB",
       "codename": "LUNA_V6_3GB",
       "model": "LUNA V6 3GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LUNA V6 4GB",
+      "codename": "LUNA_V6_4GB",
+      "model": "LUNA V6 4GB"
     },
     {
       "manufacturer": "",

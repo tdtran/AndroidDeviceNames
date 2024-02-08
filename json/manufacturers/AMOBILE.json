@@ -6,6 +6,12 @@
       "market_name": "PD470",
       "codename": "PD470",
       "model": "PD470"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PD602",
+      "codename": "PD602",
+      "model": "PD602"
     }
   ]
 }

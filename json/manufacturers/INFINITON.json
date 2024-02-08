@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "INFINITON 2K SMART TV",
+      "codename": "nagata",
+      "model": "INFINITON 2K Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INITON 4K SMART TV",
+      "codename": "marina",
+      "model": "INFINITON 4K Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infiniton",
       "codename": "bruno",
       "model": "Infiniton2KAndroidTV"

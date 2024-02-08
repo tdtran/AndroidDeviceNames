@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CANDY Android TV FF Pro",
+      "codename": "daan",
+      "model": "CANDY Android TV FF Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CANDY Android TV PRO",
+      "codename": "daan",
+      "model": "CANDY Android TV PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CANDY MatrixTV BE",
       "codename": "jordan",
       "model": "CANDY MatrixTV BE"
@@ -585,6 +597,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier MatrixTV CN",
+      "codename": "deto",
+      "model": "Haier MatrixTV CN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Haier MatrixTV CS",
       "codename": "deto",
       "model": "Haier MatrixTV CS"
@@ -594,6 +612,18 @@
       "market_name": "Haier OLED TV AE",
       "codename": "irvine",
       "model": "Haier OLED TV AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier TV",
+      "codename": "SW6H",
+      "model": "Haier TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier TV FF",
+      "codename": "SW6H",
+      "model": "Haier TV FF"
     },
     {
       "manufacturer": "",
@@ -1020,6 +1050,12 @@
       "market_name": "TMK27A2",
       "codename": "TMK27A2",
       "model": "TMK27A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet_P20",
+      "codename": "Tablet_P20",
+      "model": "Tablet_P20"
     },
     {
       "manufacturer": "",

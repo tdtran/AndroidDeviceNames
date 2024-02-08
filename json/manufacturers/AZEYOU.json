@@ -78,6 +78,12 @@
       "market_name": "AT_701B",
       "codename": "AT_701B",
       "model": "AT_701B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M87QF6-4G",
+      "codename": "M87QF6-4G",
+      "model": "M87QF6-4G"
     }
   ]
 }

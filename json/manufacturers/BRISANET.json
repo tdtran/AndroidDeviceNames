@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Brisanet",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "brisaboxTV",
+      "codename": "IMTM4000RA",
+      "model": "IMTM4000RA"
+    }
+  ]
+}

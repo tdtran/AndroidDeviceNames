@@ -34,6 +34,12 @@
     {
       "manufacturer": "",
       "market_name": "SVISION",
+      "codename": "lavender",
+      "model": "SVISION 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SVISION",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     }

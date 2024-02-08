@@ -75,9 +75,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "benco S1 Max",
+      "codename": "AEOP518",
+      "model": "AEOP518"
+    },
+    {
+      "manufacturer": "",
       "market_name": "benco S1 Plus",
       "codename": "AEOP513",
       "model": "AEOP513"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco S1 Pro",
+      "codename": "AE9260",
+      "model": "AE9260"
     },
     {
       "manufacturer": "",
@@ -90,6 +102,12 @@
       "market_name": "benco V90",
       "codename": "AE9120",
       "model": "AE9120"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco V91",
+      "codename": "AE9310",
+      "model": "AE9310"
     },
     {
       "manufacturer": "",

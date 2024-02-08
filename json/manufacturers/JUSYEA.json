@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J5_EEA",
+      "codename": "J5_EEA",
+      "model": "J5_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J5_M",
       "codename": "J5_M",
       "model": "J5_M"
