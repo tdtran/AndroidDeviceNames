@@ -6,6 +6,12 @@
       "market_name": "NBP_65",
       "codename": "NBP_65",
       "model": "NBP-65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEWOO NBP-75",
+      "codename": "NBP-75",
+      "model": "NBP-75"
     }
   ]
 }

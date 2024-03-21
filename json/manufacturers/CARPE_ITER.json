@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Carpe_Iter",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Adventure Pad",
+      "codename": "CIAP1",
+      "model": "CIAP-01EU"
+    }
+  ]
+}

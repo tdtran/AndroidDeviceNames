@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ELECTROMAN",
+      "codename": "mountbaker",
+      "model": "Smart FHD TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Electroman",
       "codename": "hongkong",
       "model": "Smart UHD TV"

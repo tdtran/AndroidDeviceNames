@@ -240,6 +240,12 @@
     "model": "ATV R1"
   },
   {
+    "manufacturer": "SPJtv",
+    "market_name": "Android TV",
+    "codename": "R1",
+    "model": "ATV R1"
+  },
+  {
     "manufacturer": "Sanyo",
     "market_name": "Android TV",
     "codename": "R1",

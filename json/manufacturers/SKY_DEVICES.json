@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite A55Max",
+      "codename": "Elite_A55Max",
+      "model": "Elite A55Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite A6",
       "codename": "Elite_A6",
       "model": "Elite A6"

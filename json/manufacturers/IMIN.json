@@ -36,6 +36,12 @@
       "market_name": "Swift 2 Pro",
       "codename": "Swift2Pro",
       "model": "I23M02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swift2_GL",
+      "codename": "Swift2",
+      "model": "I23M01_GL"
     }
   ]
 }

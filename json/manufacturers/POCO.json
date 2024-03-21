@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO C61",
+      "codename": "blue",
+      "model": "2312BPC51H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO C65",
       "codename": "gale",
       "model": "2310FPCA4I"

@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAVERICK",
+      "codename": "MAVERICK",
+      "model": "MAVERICK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MOSCOW",
       "codename": "MOSCOW",
       "model": "MOSCOW"

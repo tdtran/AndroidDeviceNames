@@ -18,6 +18,12 @@
     "model": "Blaupunkt 2K Google TV"
   },
   {
+    "manufacturer": "Daiwa",
+    "market_name": "2K DATV",
+    "codename": "capitolhill",
+    "model": "Daiwa 2K Google TV"
+  },
+  {
     "manufacturer": "Decaview",
     "market_name": "Decaview 2K Google TV",
     "codename": "capitolhill",
@@ -66,10 +72,22 @@
     "model": "INNOVA 2K Google TV"
   },
   {
+    "manufacturer": "Ikon",
+    "market_name": "IKON 2K Google TV",
+    "codename": "capitolhill",
+    "model": "IKON 2K Google TV"
+  },
+  {
     "manufacturer": "KONKA",
     "market_name": "HK 2K Google TV",
     "codename": "capitolhill",
     "model": "HK 2K Google TV"
+  },
+  {
+    "manufacturer": "PROTON",
+    "market_name": "PROTON 2K Google TV",
+    "codename": "capitolhill",
+    "model": "PROTON 2K Google TV"
   },
   {
     "manufacturer": "RCA",
@@ -118,5 +136,11 @@
     "market_name": "innos 2K Google TV",
     "codename": "capitolhill",
     "model": "innos 2K Google TV"
+  },
+  {
+    "manufacturer": "innos",
+    "market_name": "innos 2K Google TV-A",
+    "codename": "capitolhill",
+    "model": "innos 2K Google TV-A"
   }
 ]

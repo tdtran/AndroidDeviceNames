@@ -1,0 +1,11 @@
+{
+  "manufacturer": "JTWORKS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "JTWORKS-IFPD",
+      "codename": "rk3588_t",
+      "model": "JTW"
+    }
+  ]
+}

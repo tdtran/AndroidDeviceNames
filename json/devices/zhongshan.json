@@ -253,6 +253,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "OZON",
+    "codename": "zhongshan",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "RZTK",
     "codename": "zhongshan",
     "model": "4K SMART TV"

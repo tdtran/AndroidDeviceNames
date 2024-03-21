@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A56",
+      "codename": "A56",
+      "model": "A56"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A5Pro",
       "codename": "A5Pro",
       "model": "A5Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A63",
+      "codename": "A63",
+      "model": "A63"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A65",
+      "codename": "A65",
+      "model": "A65"
     },
     {
       "manufacturer": "",

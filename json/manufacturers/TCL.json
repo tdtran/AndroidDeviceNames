@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G10",
+      "codename": "G10",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GO5c",
       "codename": "U3A_PLUS_4G",
       "model": "5033E"
@@ -1272,6 +1278,12 @@
       "market_name": "TCL TAB 8 Plus",
       "codename": "Luna_8_4G_VZW",
       "model": "9138S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8 SE",
+      "codename": "Luna_8_4G_ATT",
+      "model": "9136R"
     },
     {
       "manufacturer": "",

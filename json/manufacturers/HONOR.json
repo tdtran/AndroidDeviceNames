@@ -75,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 90 Smart",
+      "codename": "HNCLK-M1",
+      "model": "CLK-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 90 Smart",
+      "codename": "HNCLK-M1",
+      "model": "CLK-NX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Magic V2",
       "codename": "HNVER",
       "model": "VER-N49"
@@ -153,9 +165,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR Magic6 Pro",
+      "codename": "HNBVL",
+      "model": "BVL-N49"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Pad 8",
       "codename": "HNHEY-Q",
       "model": "HEY-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad 9",
+      "codename": "HNHEY2-Q",
+      "model": "HEY2-W09"
     },
     {
       "manufacturer": "",
@@ -315,6 +339,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR X7b 5G",
+      "codename": "HNCLK-M1",
+      "model": "CLK-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7b 5G",
+      "codename": "HNCLK-M1",
+      "model": "CLK-NX2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR X8",
       "codename": "HNTFY-Q",
       "model": "TFY-LX1"
@@ -414,6 +450,12 @@
       "market_name": "HONOR X9b 5G",
       "codename": "HNALI-Q",
       "model": "ALI-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PORSCHE DESIGN HONOR Magic V2 RSR",
+      "codename": "HNVER",
+      "model": "VER-N49DP"
     },
     {
       "manufacturer": "",

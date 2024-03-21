@@ -249,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DuraForce EX",
+      "codename": "KY23L-RG100",
+      "model": "KC-S703"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DuraForce PRO",
       "codename": "E6820",
       "model": "KYOCERA-E6820"

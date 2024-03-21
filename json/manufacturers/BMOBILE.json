@@ -915,6 +915,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL55",
+      "codename": "Bmobile_BL55_TG",
+      "model": "BL55_TG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL55_PRO_MV12",
       "codename": "Bmobile_BL55_PRO_MV12",
       "model": "BL55_PRO"

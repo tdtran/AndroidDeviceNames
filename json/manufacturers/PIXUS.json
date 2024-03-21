@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixus_Line",
+      "codename": "Pixus_Line",
+      "model": "Pixus_Line"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixus_Sprint",
       "codename": "Sprint",
       "model": "Pixus_Sprint"

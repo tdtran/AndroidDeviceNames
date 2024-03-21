@@ -4,5 +4,11 @@
     "market_name": "T3 Pro",
     "codename": "T3_Pro",
     "model": "T3 Pro"
+  },
+  {
+    "manufacturer": "iData",
+    "market_name": "iData T3 Pro",
+    "codename": "T3_Pro",
+    "model": "T3_Pro"
   }
 ]

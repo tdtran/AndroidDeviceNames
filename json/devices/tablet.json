@@ -37,9 +37,21 @@
   },
   {
     "manufacturer": "True",
+    "market_name": "20721400E_EEA",
+    "codename": "Tablet",
+    "model": "20721400E"
+  },
+  {
+    "manufacturer": "True",
     "market_name": "20725300",
     "codename": "Tablet",
     "model": "20725300"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20725300E_EEA",
+    "codename": "Tablet",
+    "model": "20725300E"
   },
   {
     "manufacturer": "True",
@@ -52,5 +64,11 @@
     "market_name": "20728200",
     "codename": "Tablet",
     "model": "20728200"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20728200E_EEA",
+    "codename": "Tablet",
+    "model": "20728200E"
   }
 ]

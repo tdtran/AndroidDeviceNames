@@ -291,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV5300 Plus",
+      "codename": "BV5300_Plus",
+      "model": "BV5300 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV5300 Pro",
       "codename": "BV5300_Pro",
       "model": "BV5300 Pro"
@@ -576,6 +582,12 @@
       "market_name": "BV9300",
       "codename": "BV9300",
       "model": "BV9300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV9300 Pro",
+      "codename": "BV9300_Pro",
+      "model": "BV9300 Pro"
     },
     {
       "manufacturer": "",

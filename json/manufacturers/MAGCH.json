@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M820",
+      "codename": "M820",
+      "model": "M820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M820-EEA",
+      "codename": "M820-EEA",
+      "model": "M820-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M821",
       "codename": "M821",
       "model": "M821"

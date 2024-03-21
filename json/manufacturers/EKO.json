@@ -40,6 +40,12 @@
     {
       "manufacturer": "",
       "market_name": "EKO",
+      "codename": "hongkong",
+      "model": "EKO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO",
       "codename": "kaitak",
       "model": "EKO Google TV"
     },
@@ -54,6 +60,12 @@
       "market_name": "EKO",
       "codename": "lavender",
       "model": "EKO 4K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EKO",
+      "codename": "mountbaker",
+      "model": "EKO 2K Android TV"
     },
     {
       "manufacturer": "",

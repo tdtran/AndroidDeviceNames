@@ -279,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INNO-HIT",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INNOVA",
       "codename": "hongkong",
       "model": "INNOVA GOOGLE TV 4K"
@@ -393,6 +399,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OZON",
+      "codename": "stanford",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OZON",
+      "codename": "zhongshan",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PHIMARK",
       "codename": "hongkong",
       "model": "4K SMART TV"
@@ -442,6 +460,12 @@
     {
       "manufacturer": "",
       "market_name": "REYNA",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROOMI",
       "codename": "hongkong",
       "model": "4K SMART TV"
     },
@@ -504,6 +528,12 @@
       "market_name": "STAR-TRACK",
       "codename": "lavender",
       "model": "STAR-TRACK 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SVISION",
+      "codename": "hongkong",
+      "model": "SVISION 4K Android TV"
     },
     {
       "manufacturer": "",

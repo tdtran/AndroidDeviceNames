@@ -117,6 +117,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA A40",
+      "codename": "VIA_A40",
+      "model": "VIA A40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA A40",
+      "codename": "VIA_M40",
+      "model": "VIA M40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA F30",
       "codename": "VIA_F30",
       "model": "VIA F30"
@@ -360,6 +372,12 @@
       "market_name": "VIA_T41",
       "codename": "VIA_T41",
       "model": "VIA_T41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_X40",
+      "codename": "VIA_X40",
+      "model": "VIA_X40"
     }
   ]
 }

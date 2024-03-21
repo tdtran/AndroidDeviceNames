@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CIAO",
+      "codename": "CIAO",
+      "model": "CIAO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ME10",
       "codename": "ME10",
       "model": "ME10"
@@ -30,6 +36,12 @@
       "market_name": "ME65",
       "codename": "ME65",
       "model": "ME65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ME74",
+      "codename": "ME74",
+      "model": "ME74"
     }
   ]
 }

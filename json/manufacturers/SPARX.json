@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Edge 20 Pro",
+      "codename": "Sparx_Edge_20_Pro",
+      "model": "Edge 20 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEO 5",
       "codename": "NEO5",
       "model": "NEO 5"
@@ -54,6 +60,12 @@
       "market_name": "Neo_X",
       "codename": "Neo_X",
       "model": "Neo X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_20",
+      "codename": "Note_20",
+      "model": "Note 20"
     },
     {
       "manufacturer": "",

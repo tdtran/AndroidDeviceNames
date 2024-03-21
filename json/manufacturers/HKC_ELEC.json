@@ -58,6 +58,12 @@
     {
       "manufacturer": "",
       "market_name": "Google TV",
+      "codename": "lakeside",
+      "model": "POLYTRON 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
       "codename": "nagai",
       "model": "2K COL Google TV"
     },

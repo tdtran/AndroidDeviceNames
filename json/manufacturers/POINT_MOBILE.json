@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PM84",
+      "codename": "PM84",
+      "model": "PM84"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PM85",
       "codename": "pm85",
       "model": "PM85"

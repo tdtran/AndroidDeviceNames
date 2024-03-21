@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DT66",
+      "codename": "DT66",
+      "model": "DT66"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P8100",
       "codename": "P8100",
       "model": "P8100"
@@ -66,6 +72,12 @@
       "market_name": "P8100P",
       "codename": "P8100P",
       "model": "P8100P 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8100P 5G",
+      "codename": "P8100P_5G",
+      "model": "P8100P_5G"
     },
     {
       "manufacturer": "",

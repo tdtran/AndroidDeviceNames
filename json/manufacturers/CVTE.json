@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CVTE SA12",
+      "codename": "rk3588_t",
+      "model": "SA12 series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "edu_v2",
       "codename": "rk3588_t",
       "model": "edu_v2"

@@ -657,6 +657,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G6_Tab",
+      "codename": "G6_Tab",
+      "model": "TG2404GBA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT02_EEA",
       "codename": "MT02_EEA",
       "model": "AblePad"
@@ -840,6 +846,12 @@
       "market_name": "UMIDIGI A15 RU",
       "codename": "UMIDIGI_A15",
       "model": "MP33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI A15 Ultra",
+      "codename": "A15_Ultra",
+      "model": "MP32"
     },
     {
       "manufacturer": "",

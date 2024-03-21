@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ProGLP",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SMIG_VI",
+      "codename": "SMIG_VI",
+      "model": "SMIG_VI"
+    }
+  ]
+}

@@ -36,6 +36,12 @@
       "market_name": "SUNNY 2K Google TV",
       "codename": "capitolhill",
       "model": "SUNNY 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUNNY 4K Google TV",
+      "codename": "keoneae",
+      "model": "SUNNY 4K Google TV"
     }
   ]
 }

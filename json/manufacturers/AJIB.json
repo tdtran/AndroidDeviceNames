@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ajib",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ajib X1",
+      "codename": "ajib_X1",
+      "model": "ajib X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ajib l1",
+      "codename": "ajib_l1",
+      "model": "ajib l1"
+    }
+  ]
+}

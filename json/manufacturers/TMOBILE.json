@@ -69,6 +69,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "REVVL 6x 5G",
+      "codename": "TorreyPines",
+      "model": "TMRV065G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 6x PRO 5G",
+      "codename": "SouthernDunes",
+      "model": "TMRV06P5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL TAB 5G",
+      "codename": "REVVLTAB5G",
+      "model": "TMRV5GTB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "REVVL V",
       "codename": "Newcastle",
       "model": "TMRVL4G"

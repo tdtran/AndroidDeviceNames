@@ -1,0 +1,11 @@
+{
+  "manufacturer": "UNITRADING",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UNITRADING-IFPD",
+      "codename": "rk3588_t",
+      "model": "UNIDEAS"
+    }
+  ]
+}

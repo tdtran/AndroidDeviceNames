@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VORTEX_K65",
+      "codename": "VORTEX_K65",
+      "model": "VORTEX K65"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vortex Z22",
       "codename": "Z22",
       "model": "Z22"

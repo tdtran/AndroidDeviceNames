@@ -9,7 +9,19 @@
     "manufacturer": "Zebra",
     "market_name": "HC50",
     "codename": "TC22",
+    "model": "HC50"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "HC50",
+    "codename": "TC22",
     "model": "TC22"
+  },
+  {
+    "manufacturer": "Zebra",
+    "market_name": "TC22",
+    "codename": "TC22",
+    "model": "HC50"
   },
   {
     "manufacturer": "Zebra",

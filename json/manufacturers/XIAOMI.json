@@ -1593,6 +1593,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi 14 Ultra",
+      "codename": "aurora",
+      "model": "Xiaomi for arm64"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi Civi",
       "codename": "mona",
       "model": "2109119BC"
@@ -1686,6 +1692,12 @@
       "market_name": "Xiaomi TV stick 4K",
       "codename": "soul",
       "model": "MiTV-AYFR0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Watch 2",
+      "codename": "axolotlaxie",
+      "model": "Xiaomi Watch 2"
     },
     {
       "manufacturer": "",

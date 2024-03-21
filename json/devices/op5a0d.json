@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Oppo",
+    "market_name": "A2m 5G",
+    "codename": "OP5A0D",
+    "model": "PJU110"
+  },
+  {
+    "manufacturer": "Oppo",
     "market_name": "A2x 5G",
     "codename": "OP5A0D",
     "model": "PJS110"

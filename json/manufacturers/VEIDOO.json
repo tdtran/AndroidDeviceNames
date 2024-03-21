@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VEIDOO_T30_PLUS\t",
+      "codename": "VEIDOO_T30_PLUS",
+      "model": "VEIDOO_T30_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VEIDOO_T40_EEA",
       "codename": "VEIDOO_T40_EEA",
       "model": "VEIDOO_T40_EEA"

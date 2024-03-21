@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P8000_Ultra_EEA",
+      "codename": "P8000_Ultra",
+      "model": "Titan P8000 Ultra Carbon"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S10 Tank 2020",
       "codename": "S10_Tank_2020",
       "model": "S10 Tank 2020"

@@ -24,6 +24,12 @@
       "market_name": "M5A",
       "codename": "M5A",
       "model": "2305003M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "2308005M"
     }
   ]
 }

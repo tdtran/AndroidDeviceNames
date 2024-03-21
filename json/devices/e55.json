@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Athesi",
+    "market_name": "E55",
+    "codename": "E55",
+    "model": "E55"
+  },
+  {
     "manufacturer": "Mobiwire",
     "market_name": "Altice E55",
     "codename": "E55",

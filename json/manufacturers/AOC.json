@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AOC",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AOC",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AOC Android TV",
       "codename": "PH0M_EA_T32",
       "model": "AOC Android TV"

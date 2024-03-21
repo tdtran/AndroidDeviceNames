@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HF550X",
+      "codename": "EF550",
+      "model": "HF550x"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RP350",
       "codename": "RP350",
       "model": "RP350"
@@ -120,6 +126,12 @@
       "market_name": "RT103",
       "codename": "RT103",
       "model": "RT103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S20",
+      "codename": "S20",
+      "model": "S20"
     },
     {
       "manufacturer": "",

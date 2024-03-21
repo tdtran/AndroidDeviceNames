@@ -237,6 +237,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay_50_Pro",
+      "codename": "T1030MAN",
+      "model": "iPlay_50_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay_60",
+      "codename": "T1102T",
+      "model": "iPlay_60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "kPad",
       "codename": "T1026",
       "model": "kPad"

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "MPORT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MPORT-IFPD",
+      "codename": "rk3588_t",
+      "model": "e_Smarter"
+    }
+  ]
+}

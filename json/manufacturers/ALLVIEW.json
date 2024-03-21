@@ -909,6 +909,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X10_Soul_Lite",
+      "codename": "X10_Soul_Lite",
+      "model": "X10_Soul_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X2 Soul Lite",
       "codename": "X2_Soul_Lite",
       "model": "X2_Soul_Lite"

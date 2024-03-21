@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "kualakai",
+      "model": "Infinix Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GT 10 Pro",
       "codename": "Infinix-X6739",
       "model": "Infinix X6739"
@@ -729,6 +735,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix NOTE 40 Pro 5G",
+      "codename": "Infinix-X6851",
+      "model": "Infinix X6851"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix NOTE 5",
       "codename": "Infinix-X604_sprout",
       "model": "Infinix X604"
@@ -1020,6 +1032,12 @@
       "market_name": "NOTE 4 Pro",
       "codename": "Infinix-X571",
       "model": "Infinix X571-LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE 40 Pro+ 5G",
+      "codename": "Infinix-X6851B",
+      "model": "Infinix X6851B"
     },
     {
       "manufacturer": "",

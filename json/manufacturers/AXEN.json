@@ -6,6 +6,12 @@
       "market_name": "AXEN 2K Google TV",
       "codename": "capitolhill",
       "model": "AXEN 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AXEN 4K Google TV",
+      "codename": "keoneae",
+      "model": "AXEN 4K Google TV"
     }
   ]
 }

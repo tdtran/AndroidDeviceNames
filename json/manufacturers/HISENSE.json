@@ -2031,6 +2031,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense E70 Pro",
+      "codename": "HLTE263E",
+      "model": "Hisense E70 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense E76MINIM",
       "codename": "HS8937QC",
       "model": "Hisense E76MINIM"
@@ -4380,6 +4386,12 @@
       "market_name": "lt971",
       "codename": "LT971",
       "model": "LT971"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lushan",
+      "codename": "lushan",
+      "model": "SmartTV 4K FFM"
     },
     {
       "manufacturer": "",

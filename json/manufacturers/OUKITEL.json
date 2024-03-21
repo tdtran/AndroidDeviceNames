@@ -195,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C32_Pro_EEA",
+      "codename": "C32_Pro",
+      "model": "C32 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C33_EEA",
       "codename": "C33",
       "model": "C33"
@@ -426,6 +432,18 @@
       "market_name": "OKT3",
       "codename": "OKT3",
       "model": "OKT3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT5_EEA",
+      "codename": "OT5",
+      "model": "OT5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT7_EEA",
+      "codename": "OT7",
+      "model": "OT7"
     },
     {
       "manufacturer": "",
@@ -756,6 +774,12 @@
       "market_name": "WP30_Pro_EEA",
       "codename": "WP30_Pro",
       "model": "WP30 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP36_EEA",
+      "codename": "WP36",
+      "model": "WP36"
     },
     {
       "manufacturer": "",

@@ -31,12 +31,6 @@
   },
   {
     "manufacturer": "CAIXUN",
-    "market_name": "Europe",
-    "codename": "marina",
-    "model": "Fobem 4K SMART TV"
-  },
-  {
-    "manufacturer": "CAIXUN",
     "market_name": "Korea",
     "codename": "marina",
     "model": "DWsummus 4K SMART TV"
@@ -94,6 +88,12 @@
     "market_name": "FUEGO 4K SMART TV",
     "codename": "marina",
     "model": "FUEGO 4K SMART TV"
+  },
+  {
+    "manufacturer": "Fobem",
+    "market_name": "Fobem 4K SMART TV",
+    "codename": "marina",
+    "model": "Fobem 4K SMART TV"
   },
   {
     "manufacturer": "Grunkel",
@@ -202,6 +202,12 @@
     "market_name": "Europe",
     "codename": "marina",
     "model": "STAR-X 4K SMART TV"
+  },
+  {
+    "manufacturer": "TOKYO",
+    "market_name": "Paraguay",
+    "codename": "marina",
+    "model": "TOKYO SMART 4K TV"
   },
   {
     "manufacturer": "Thomson",

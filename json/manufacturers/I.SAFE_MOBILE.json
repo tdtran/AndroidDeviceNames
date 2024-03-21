@@ -1,0 +1,29 @@
+{
+  "manufacturer": "i.safe MOBILE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IS330",
+      "codename": "IS330",
+      "model": "IS330"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IS530",
+      "codename": "IS530",
+      "model": "IS530"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IS540",
+      "codename": "IS540",
+      "model": "IS540"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IS930",
+      "codename": "IS930",
+      "model": "IS930"
+    }
+  ]
+}

@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B160V",
+      "codename": "B160V",
+      "model": "B160V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B3",
       "codename": "B301",
       "model": "B3"
@@ -844,6 +850,12 @@
     {
       "manufacturer": "",
       "market_name": "G33",
+      "codename": "G0892_GMOB",
+      "model": "G33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G33",
       "codename": "G0892_MXT",
       "model": "G33"
     },
@@ -1450,6 +1462,12 @@
     {
       "manufacturer": "",
       "market_name": "M10L PLUS",
+      "codename": "M0224",
+      "model": "M10L PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L PLUS",
       "codename": "M0224_ND",
       "model": "M10L PLUS"
     },
@@ -1462,7 +1480,31 @@
     {
       "manufacturer": "",
       "market_name": "M10L Pro",
+      "codename": "M0215",
+      "model": "M10L Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L Pro",
+      "codename": "M0215_MXT",
+      "model": "M10L Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L Pro",
       "codename": "M0215_ND",
+      "model": "M10L Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L Pro",
+      "codename": "M0215_NDSK",
+      "model": "M10L Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10L Pro",
+      "codename": "M0215_SYN",
       "model": "M10L Pro"
     },
     {
@@ -2292,6 +2334,12 @@
       "market_name": "VIVO XL",
       "codename": "BLU_VIVO_XL",
       "model": "VIVO XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View 5 Pro",
+      "codename": "B170D",
+      "model": "B170D"
     },
     {
       "manufacturer": "",

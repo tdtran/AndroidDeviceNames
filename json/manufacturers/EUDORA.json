@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E10Pro",
+      "codename": "E10Pro",
+      "model": "E10Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EudoraE65Pro",
+      "codename": "E65Pro",
+      "model": "E65 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R10 Pro",
       "codename": "R10_Pro",
       "model": "R10 Pro"

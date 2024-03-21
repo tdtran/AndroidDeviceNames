@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ALT(IN)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ODIN Kids Phone",
+      "codename": "odin",
+      "model": "AT-M130"
+    }
+  ]
+}

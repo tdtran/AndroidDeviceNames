@@ -6,10 +6,34 @@
     "model": "ASTEX 4K Google TV"
   },
   {
+    "manufacturer": "Axen",
+    "market_name": "AXEN 4K Google TV",
+    "codename": "keoneae",
+    "model": "AXEN 4K Google TV"
+  },
+  {
     "manufacturer": "Blaupunkt",
     "market_name": "Blaupunkt 4K Google TV",
     "codename": "keoneae",
     "model": "Blaupunkt 4K Google TV"
+  },
+  {
+    "manufacturer": "Daiwa",
+    "market_name": "4K DATV",
+    "codename": "keoneae",
+    "model": "4K DATV"
+  },
+  {
+    "manufacturer": "Daiwa",
+    "market_name": "4K DATV",
+    "codename": "keoneae",
+    "model": "Daiwa 4K Google TV"
+  },
+  {
+    "manufacturer": "Daiwa",
+    "market_name": "4K DATV-Z",
+    "codename": "keoneae",
+    "model": "Daiwa 4K Google TV-Z"
   },
   {
     "manufacturer": "Decaview",
@@ -58,6 +82,12 @@
     "market_name": "INNOVA 4K Google TV",
     "codename": "keoneae",
     "model": "INNOVA 4K Google TV"
+  },
+  {
+    "manufacturer": "Ikon",
+    "market_name": "IKON 4K Google TV",
+    "codename": "keoneae",
+    "model": "IKON 4K Google TV"
   },
   {
     "manufacturer": "KONKA",
@@ -144,6 +174,12 @@
     "model": "STREAM 4K Google TV"
   },
   {
+    "manufacturer": "Sunny",
+    "market_name": "SUNNY 4K Google TV",
+    "codename": "keoneae",
+    "model": "SUNNY 4K Google TV"
+  },
+  {
     "manufacturer": "TELSTAR",
     "market_name": "TELSTAR 4K Google TV",
     "codename": "keoneae",
@@ -154,6 +190,12 @@
     "market_name": "VU 4K Google TV",
     "codename": "keoneae",
     "model": "VU 4K Google TV"
+  },
+  {
+    "manufacturer": "imiia",
+    "market_name": "imiia 4K Google TV",
+    "codename": "keoneae",
+    "model": "imiia 4K Google TV"
   },
   {
     "manufacturer": "imiia",

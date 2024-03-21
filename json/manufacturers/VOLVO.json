@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EX30",
+      "codename": "habanero",
+      "model": "EX30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Volvo",
       "codename": "ihu_abl_car",
       "model": "Volvo"

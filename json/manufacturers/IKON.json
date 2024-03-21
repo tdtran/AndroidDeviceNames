@@ -54,6 +54,18 @@
       "market_name": "IKON",
       "codename": "IK-1028",
       "model": "IK-1028"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKON 2K Google TV",
+      "codename": "capitolhill",
+      "model": "IKON 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKON 4K Google TV",
+      "codename": "keoneae",
+      "model": "IKON 4K Google TV"
     }
   ]
 }

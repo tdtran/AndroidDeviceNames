@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "A1",
+    "market_name": "A1 Bulgaria B866V2F02",
+    "codename": "A1_B866V2F02",
+    "model": "B866V2F02"
+  },
+  {
+    "manufacturer": "A1",
     "market_name": "A1 Hrvatska B866V2F02",
     "codename": "A1_B866V2F02",
     "model": "B866V2F02"

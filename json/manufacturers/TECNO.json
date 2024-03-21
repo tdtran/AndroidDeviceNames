@@ -1419,6 +1419,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO CAMON 30",
+      "codename": "TECNO-CL6",
+      "model": "TECNO CL6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO CAMON 30",
+      "codename": "TECNO-CL6k",
+      "model": "TECNO CL6k"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO CAMON 30 Pro 5G",
+      "codename": "TECNO-CL8",
+      "model": "TECNO CL8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO CAMON iACE 2",
       "codename": "TECNO-KB2",
       "model": "TECNO KB2"
@@ -1647,6 +1665,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO POVA 6",
+      "codename": "TECNO-LI7",
+      "model": "TECNO LI7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POVA 6 Neo",
+      "codename": "TECNO-LI6",
+      "model": "TECNO LI6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO POVA 6 Pro 5G",
       "codename": "TECNO-LI9",
       "model": "TECNO LI9"
@@ -1764,6 +1794,12 @@
       "market_name": "TECNO SPARK 20 Pro+",
       "codename": "TECNO-KJ7",
       "model": "TECNO KJ7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 20 Pro+",
+      "codename": "TECNO-KJ7s",
+      "model": "TECNO KJ7s"
     },
     {
       "manufacturer": "",

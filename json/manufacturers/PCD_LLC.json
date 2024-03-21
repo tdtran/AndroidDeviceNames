@@ -12,6 +12,12 @@
       "market_name": "P41PR",
       "codename": "P41PR",
       "model": "P41PR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P65",
+      "codename": "P65",
+      "model": "P65"
     }
   ]
 }

@@ -6,6 +6,12 @@
       "market_name": "OpenR Link",
       "codename": "aivi2_full",
       "model": "AIVI2 FULL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OpenR Link",
+      "codename": "aivi2_r_full_dom",
+      "model": "AIVI2 R FULL DOM"
     }
   ]
 }

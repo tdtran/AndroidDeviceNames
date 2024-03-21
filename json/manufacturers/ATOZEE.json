@@ -84,6 +84,12 @@
       "market_name": "YQ10S_MAX",
       "codename": "YQ10S_MAX",
       "model": "YQ10S_MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ10S_PRO",
+      "codename": "YQ10S_PRO",
+      "model": "YQ10S_PRO"
     }
   ]
 }

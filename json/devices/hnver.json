@@ -4,5 +4,11 @@
     "market_name": "HONOR Magic V2",
     "codename": "HNVER",
     "model": "VER-N49"
+  },
+  {
+    "manufacturer": "Honor",
+    "market_name": "PORSCHE DESIGN HONOR Magic V2 RSR",
+    "codename": "HNVER",
+    "model": "VER-N49DP"
   }
 ]

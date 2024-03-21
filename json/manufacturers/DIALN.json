@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X10 Pulse",
+      "codename": "X10_Pulse",
+      "model": "X10 Pulse"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X10G",
       "codename": "X10G",
       "model": "X10G"

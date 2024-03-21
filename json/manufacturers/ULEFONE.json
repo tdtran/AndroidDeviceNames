@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor Pad 3 Pro",
+      "codename": "ArmorPad3Pro",
+      "model": "Armor Pad 3 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor Pad Lite",
       "codename": "ArmorPadLite",
       "model": "Armor Pad Lite"
@@ -618,6 +624,12 @@
       "market_name": "Power Armor 16 Pro",
       "codename": "PowerArmor16Pro",
       "model": "Power Armor 16 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Armor 16S",
+      "codename": "Power_Armor_16S",
+      "model": "Power Armor 16S"
     },
     {
       "manufacturer": "",

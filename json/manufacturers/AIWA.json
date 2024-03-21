@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A8_LTE",
+      "codename": "A8_LTE",
+      "model": "A8_LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AIWA",
       "codename": "lavender",
       "model": "4K SMART TV"

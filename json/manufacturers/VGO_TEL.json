@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOTE 24",
+      "codename": "NOTE_24",
+      "model": "NOTE 24"
+    },
+    {
+      "manufacturer": "",
       "market_name": "New 5",
       "codename": "NEW_5",
       "model": "NEW 5"

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Acepad",
+    "market_name": "A170",
+    "codename": "A170",
+    "model": "A170"
+  },
+  {
     "manufacturer": "INOI",
     "market_name": "INOI A72",
     "codename": "A170",

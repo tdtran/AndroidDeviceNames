@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SmartPad_E220",
+      "codename": "SmartPad_E220",
+      "model": "SmartPad_E220"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tibuta_MasterPad-E100",
       "codename": "Tibuta_MasterPad-E100",
       "model": "Tibuta_MasterPad-E100"

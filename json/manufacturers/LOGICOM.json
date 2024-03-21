@@ -351,6 +351,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L65T",
+      "codename": "LOGIC_L65T",
+      "model": "LOGIC L65T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L743",
       "codename": "L-EMENT743",
       "model": "L-EMENT743"

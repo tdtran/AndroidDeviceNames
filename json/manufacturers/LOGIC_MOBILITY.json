@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIC L63M",
+      "codename": "LOGIC_L63M",
+      "model": "L63M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIC L65 LITE",
       "codename": "LOGIC_L65_LITE",
       "model": "LOGIC L65 LITE"
@@ -150,6 +156,12 @@
       "market_name": "LOGIC_L65",
       "codename": "LOGIC_L65",
       "model": "LOGIC L65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_L66M",
+      "codename": "LOGIC_L66M",
+      "model": "L66M"
     },
     {
       "manufacturer": "",

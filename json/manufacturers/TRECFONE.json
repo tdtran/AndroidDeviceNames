@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Trecfone",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Trecfone_16 Pro Max",
+      "codename": "16_Pro_Max",
+      "model": "16 Pro Max"
+    }
+  ]
+}

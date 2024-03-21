@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10A",
+      "codename": "T10A",
+      "model": "T10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YK_P30",
       "codename": "YK_P30",
       "model": "YK_P30"

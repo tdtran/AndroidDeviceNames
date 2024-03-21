@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Inventus",
+    "market_name": "CT7",
+    "codename": "Aqua",
+    "model": "CT7"
+  },
+  {
     "manufacturer": "Plaisio",
     "market_name": "Aqua",
     "codename": "Aqua",

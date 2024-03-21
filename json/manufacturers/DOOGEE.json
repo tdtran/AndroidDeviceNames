@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N50S",
+      "codename": "1918D",
+      "model": "N50S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N60Pro",
       "codename": "1919",
       "model": "N60Pro"
@@ -132,6 +138,12 @@
       "market_name": "P3Mini Kid",
       "codename": "P3Mini_Kid",
       "model": "T20Mini Kid"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R08",
+      "codename": "PT3",
+      "model": "R08"
     },
     {
       "manufacturer": "",
@@ -234,6 +246,12 @@
       "market_name": "S41T",
       "codename": "M21T",
       "model": "S41Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S41T",
+      "codename": "M21TE",
+      "model": "S41T"
     },
     {
       "manufacturer": "",
@@ -552,6 +570,12 @@
       "market_name": "U10KID",
       "codename": "RK1KID",
       "model": "U10Kid"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U8 Kid",
+      "codename": "RK3KID",
+      "model": "U8 Kid"
     },
     {
       "manufacturer": "",

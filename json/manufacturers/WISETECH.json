@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P33",
+      "codename": "P33",
+      "model": "P33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tech_A1_Plus",
       "codename": "Tech_A1_Plus",
       "model": "Tech_A1_Plus"

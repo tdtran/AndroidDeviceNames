@@ -3,42 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "12",
-      "codename": "OP595DL1",
-      "model": "CPH2573"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "12",
-      "codename": "OP595DL1",
-      "model": "CPH2581"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "12",
-      "codename": "OP595DL1",
-      "model": "CPH2583"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "12R",
-      "codename": "OP5D35L1",
-      "model": "CPH2585"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "12R",
-      "codename": "OP5D35L1",
-      "model": "CPH2609"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "12R",
-      "codename": "OP5D35L1",
-      "model": "CPH2611"
-    },
-    {
-      "manufacturer": "",
       "market_name": "2",
       "codename": "OnePlus2",
       "model": "ONE A2003"
@@ -207,9 +171,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus 12",
+      "codename": "OP595DL1",
+      "model": "CPH2573"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 12",
+      "codename": "OP595DL1",
+      "model": "CPH2581"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 12",
+      "codename": "OP595DL1",
+      "model": "CPH2583"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 12R",
+      "codename": "OP5D35L1",
+      "model": "CPH2585"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus 12R",
       "codename": "OP5D35L1",
       "model": "CPH2609"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 12R",
+      "codename": "OP5D35L1",
+      "model": "CPH2611"
     },
     {
       "manufacturer": "",
@@ -735,6 +729,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Nord N30 SE 5G",
+      "codename": "OP5955L1",
+      "model": "CPH2605"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus Nord2 5G",
       "codename": "OP515BL1",
       "model": "DN2101"
@@ -750,6 +750,18 @@
       "market_name": "OnePlus Pad",
       "codename": "OP59BCL1",
       "model": "OPD2203"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Pad Go",
+      "codename": "OP5DA6L1",
+      "model": "OPD2304"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Watch 2",
+      "codename": "OPWWE231",
+      "model": "OPWWE231"
     },
     {
       "manufacturer": "",

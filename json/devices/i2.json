@@ -12,6 +12,12 @@
     "model": "iData i2"
   },
   {
+    "manufacturer": "iMACHINE",
+    "market_name": "iMachine i2",
+    "codename": "i2",
+    "model": "i2"
+  },
+  {
     "manufacturer": "iVOOMi",
     "market_name": "i2",
     "codename": "i2",

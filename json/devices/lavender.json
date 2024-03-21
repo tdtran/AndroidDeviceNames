@@ -18,6 +18,18 @@
     "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
+    "manufacturer": "Challenger",
+    "market_name": "CHALLENGER",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Daewoo",
+    "market_name": "DAEWOO",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "EKO",
     "market_name": "EKO",
     "codename": "lavender",
@@ -109,6 +121,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "INNO-HIT",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "INNOVA",
     "codename": "lavender",
     "model": "INNOVA GOOGLE TV 4K"
@@ -186,6 +204,12 @@
     "model": "MOTOROLA GOOGLE TV 4K"
   },
   {
+    "manufacturer": "Mtek",
+    "market_name": "MTEK",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "PEL (PAK)",
     "market_name": "PEL",
     "codename": "lavender",
@@ -196,6 +220,12 @@
     "market_name": "PHILIPS",
     "codename": "lavender",
     "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "PHILIPS",
+    "codename": "lavender",
+    "model": "4K SMART TV PH"
   },
   {
     "manufacturer": "QBell",
@@ -232,6 +262,12 @@
     "market_name": "SVISION",
     "codename": "lavender",
     "model": "SVISION 4K Android TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP",
+    "codename": "lavender",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "VOXelectronics",

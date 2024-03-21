@@ -4029,6 +4029,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Libero Flip",
+      "codename": "Z8888S",
+      "model": "A304ZT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Libero Flip",
+      "codename": "Z8888S",
+      "model": "XXXX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Light Tab 2",
       "codename": "v9plus",
       "model": "Light Tab 2"
@@ -7503,6 +7515,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z2351N",
+      "codename": "P720F08",
+      "model": "Z2351N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z3153V",
       "codename": "Z3153",
       "model": "Z3153V"
@@ -9918,6 +9936,12 @@
       "market_name": "nubia Blade A72",
       "codename": "Z6255",
       "model": "Z6255CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Neo 2 5G",
+      "codename": "P820F03",
+      "model": "Z2352N"
     },
     {
       "manufacturer": "",

@@ -261,6 +261,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 12 5G",
+      "codename": "river",
+      "model": "A401XM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 12C",
       "codename": "aether",
       "model": "22126RN91Y"
@@ -540,6 +546,24 @@
       "market_name": "Redmi A2+",
       "codename": "water",
       "model": "23028RNCAG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A3",
+      "codename": "blue",
+      "model": "23129RN51H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A3",
+      "codename": "blue",
+      "model": "23129RN51X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A3",
+      "codename": "blue",
+      "model": "2312CRNCCL"
     },
     {
       "manufacturer": "",

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iData T3 Pro",
+      "codename": "T3_Pro",
+      "model": "T3_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iData i2",
       "codename": "i2",
       "model": "iData i2"

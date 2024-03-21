@@ -1,0 +1,11 @@
+{
+  "manufacturer": "COMBUSTECH",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Customer need debug",
+      "codename": "rk3588_t",
+      "model": "COMBUS_IB"
+    }
+  ]
+}

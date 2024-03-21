@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NARZO 70 Pro 5G",
+      "codename": "RE5C86L1",
+      "model": "RMX3868"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RMX3268",
       "codename": "RED8D7",
       "model": "RMX3268"
@@ -48,6 +54,12 @@
       "market_name": "RMX3782",
       "codename": "RE5C6CL1",
       "model": "RMX3782"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX3834",
+      "codename": "RE5C9F",
+      "model": "RMX3834"
     },
     {
       "manufacturer": "",
@@ -225,9 +237,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme 12 5G",
+      "codename": "RE5C94L1",
+      "model": "RMX3999"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 12 Pro 5G",
+      "codename": "RE5C84L1",
+      "model": "RMX3842"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme 12 Pro+ 5G",
       "codename": "RE5C82L1",
       "model": "RMX3840"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 12+ 5G",
+      "codename": "RE5C86L1",
+      "model": "RMX3867"
     },
     {
       "manufacturer": "",
@@ -561,6 +591,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme C51s",
+      "codename": "RE5C51",
+      "model": "RMX3765"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme C53",
       "codename": "RE58C2",
       "model": "RMX3760"
@@ -678,6 +714,12 @@
       "market_name": "realme Narzo 30 Pro 5G",
       "codename": "RMX2117L1",
       "model": "RMX2117"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme Note 50",
+      "codename": "RE5C9F",
+      "model": "RMX3834"
     },
     {
       "manufacturer": "",
@@ -1014,6 +1056,18 @@
       "market_name": "真我11 Pro",
       "codename": "RE5869",
       "model": "RMX3770"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我12 Pro",
+      "codename": "RE5C3C",
+      "model": "RMX3843"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我12 Pro+",
+      "codename": "RE5C3B",
+      "model": "RMX3841"
     },
     {
       "manufacturer": "",

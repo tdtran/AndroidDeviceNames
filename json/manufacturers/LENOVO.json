@@ -2241,6 +2241,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Legion Tab",
+      "codename": "TB320FC",
+      "model": "TB320FC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Mirage Solo",
       "codename": "vega",
       "model": "VR-1541F"
@@ -2895,6 +2901,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab K11",
+      "codename": "TB330FUP",
+      "model": "TB330FUP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K11",
+      "codename": "TB330XUP",
+      "model": "TB330XUP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab K8",
       "codename": "TB-8506F",
       "model": "Lenovo TB-8506F"
@@ -3063,6 +3081,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M10a 5G",
+      "codename": "LET02",
+      "model": "LET02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab M11",
       "codename": "TB330FU",
       "model": "TB330FU"
@@ -3072,6 +3096,12 @@
       "market_name": "Lenovo Tab M11",
       "codename": "TB330XU",
       "model": "TB330XU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab M11",
+      "codename": "TB330XUP",
+      "model": "TB330XUP"
     },
     {
       "manufacturer": "",

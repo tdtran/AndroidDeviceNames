@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Fobem",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "2K SMART TV",
+      "codename": "nagata",
+      "model": "Fobem 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fobem 4K SMART TV",
+      "codename": "marina",
+      "model": "Fobem 4K SMART TV"
+    }
+  ]
+}

@@ -161,6 +161,12 @@
       "manufacturer": "",
       "market_name": "HC50",
       "codename": "TC22",
+      "model": "HC50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HC50",
+      "codename": "TC22",
       "model": "TC22"
     },
     {
@@ -270,6 +276,12 @@
       "market_name": "TC21",
       "codename": "TC21",
       "model": "TC21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC22",
+      "codename": "TC22",
+      "model": "HC50"
     },
     {
       "manufacturer": "",

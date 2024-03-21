@@ -1,0 +1,11 @@
+{
+  "manufacturer": "NURIBOM",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NRB-IFPD",
+      "codename": "rk3588_t",
+      "model": "MP_Series"
+    }
+  ]
+}

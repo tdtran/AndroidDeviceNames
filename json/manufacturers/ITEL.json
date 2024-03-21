@@ -831,6 +831,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel  A24 2023",
+      "codename": "itel-A507LX",
+      "model": "itel A507LX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel  A58 Lite",
       "codename": "itel-A631W-R2",
       "model": "itel A631W"

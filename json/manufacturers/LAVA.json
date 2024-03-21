@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blaze Curve",
+      "codename": "LXX505",
+      "model": "LAVA LXX505"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blaze Pro 5G",
       "codename": "LXX506",
       "model": "LAVA LXX506"
@@ -246,6 +252,12 @@
       "market_name": "Iris90",
       "codename": "iris90",
       "model": "iris90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVA AGNI 2 5G",
+      "codename": "LXX504",
+      "model": "LAVA LXX504"
     },
     {
       "manufacturer": "",
@@ -396,6 +408,12 @@
       "market_name": "R3 Prime",
       "codename": "iris90",
       "model": "iris90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Storm 5G",
+      "codename": "LXX508",
+      "model": "LAVA LXX508"
     },
     {
       "manufacturer": "",
@@ -678,6 +696,18 @@
       "market_name": "Y50",
       "codename": "AF9020",
       "model": "AF9020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YUVA 3",
+      "codename": "LZX415",
+      "model": "LZX415"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yuva 3 Pro",
+      "codename": "LZX414",
+      "model": "LAVA LZX414"
     },
     {
       "manufacturer": "",

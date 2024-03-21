@@ -18,6 +18,12 @@
     "model": "4K ELEXIA Google TV"
   },
   {
+    "manufacturer": "Element",
+    "market_name": "Element",
+    "codename": "expo",
+    "model": "ElementDeluxe4k"
+  },
+  {
     "manufacturer": "JVC",
     "market_name": "JVC",
     "codename": "expo",

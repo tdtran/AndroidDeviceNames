@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A170",
+      "codename": "A170",
+      "model": "A170"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX1",
       "codename": "AX1",
       "model": "AX1"

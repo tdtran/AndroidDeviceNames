@@ -16,5 +16,11 @@
     "market_name": "AMG1",
     "codename": "komodo",
     "model": "AMG series"
+  },
+  {
+    "manufacturer": "SMART Technologies",
+    "market_name": "SMART AMG series",
+    "codename": "komodo",
+    "model": "SMART AMG1"
   }
 ]

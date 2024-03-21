@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Daiwa",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "2K DATV",
+      "codename": "capitolhill",
+      "model": "Daiwa 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K DATV",
+      "codename": "keoneae",
+      "model": "4K DATV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K DATV",
+      "codename": "keoneae",
+      "model": "Daiwa 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K DATV-Z",
+      "codename": "keoneae",
+      "model": "Daiwa 4K Google TV-Z"
+    }
+  ]
+}

@@ -24,6 +24,12 @@
       "market_name": "EZpad_M11",
       "codename": "EZpad_M11",
       "model": "EZpad_M11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EZpad_M11_Pro",
+      "codename": "EZpad_M11_Pro",
+      "model": "EZpad M11 Pro"
     }
   ]
 }

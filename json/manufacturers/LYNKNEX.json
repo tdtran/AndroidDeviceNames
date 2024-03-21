@@ -6,6 +6,12 @@
       "market_name": "LYNKNEX PX5",
       "codename": "LYNKNEX-PX5",
       "model": "PX5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX5",
+      "codename": "LYNKNEX-PX5",
+      "model": "PX5"
     }
   ]
 }

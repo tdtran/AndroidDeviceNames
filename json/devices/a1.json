@@ -24,6 +24,12 @@
     "model": "A1"
   },
   {
+    "manufacturer": "Cubot",
+    "market_name": "A1_EEA",
+    "codename": "A1",
+    "model": "A1"
+  },
+  {
     "manufacturer": "Foxconn",
     "market_name": "",
     "codename": "A1",

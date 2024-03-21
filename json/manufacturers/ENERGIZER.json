@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H67G",
+      "codename": "H67G",
+      "model": "H67G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HARDCASEH500S",
       "codename": "HARDCASEH500S",
       "model": "HARDCASEH500S"
@@ -102,6 +108,12 @@
       "market_name": "U608S",
       "codename": "U608S",
       "model": "U608S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U683S",
+      "codename": "U683S",
+      "model": "U683S"
     },
     {
       "manufacturer": "",

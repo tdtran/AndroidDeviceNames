@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ALT(IN)",
+    "market_name": "ODIN Kids Phone",
+    "codename": "odin",
+    "model": "AT-M130"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "TCL TAB 10s",
     "codename": "Odin",

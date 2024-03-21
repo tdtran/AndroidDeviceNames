@@ -144,6 +144,18 @@
       "market_name": "S80_RU",
       "codename": "S80",
       "model": "S80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIGER 12",
+      "codename": "Tiger12",
+      "model": "TIGER 12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tiger 12",
+      "codename": "Tiger12",
+      "model": "TIGER 12"
     }
   ]
 }

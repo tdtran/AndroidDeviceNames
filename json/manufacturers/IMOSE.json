@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BAM III",
+      "codename": "BAM_III",
+      "model": "BAM III"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BAM-II",
       "codename": "BAM-II",
       "model": "BAM-II"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPOR",
+      "codename": "OPOR",
+      "model": "OPOR"
     },
     {
       "manufacturer": "",
@@ -18,6 +30,12 @@
       "market_name": "Omotab_2s",
       "codename": "Omotab_2s",
       "model": "Omotab 2s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SEMPE",
+      "codename": "SEMPE",
+      "model": "SEMPE"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "OMAX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "OMAX-IFPD",
+      "codename": "rk3588_t",
+      "model": "HANJI"
+    }
+  ]
+}

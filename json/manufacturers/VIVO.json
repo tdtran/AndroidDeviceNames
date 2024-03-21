@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T3 5G",
+      "codename": "V2334",
+      "model": "V2334"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U5x",
       "codename": "PD2180",
       "model": "V2180GA"
@@ -1665,6 +1671,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V30 Pro",
+      "codename": "V2319",
+      "model": "V2319"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V30 SE",
       "codename": "V2327",
       "model": "V2349"
@@ -1995,6 +2007,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y03",
+      "codename": "V2333",
+      "model": "V2332"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y03",
+      "codename": "V2333",
+      "model": "V2406"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y100",
       "codename": "PD2313",
       "model": "V2313A"
@@ -2088,6 +2112,12 @@
       "market_name": "Y17s",
       "codename": "V2310",
       "model": "V2331"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y18e",
+      "codename": "V2333",
+      "model": "V2350"
     },
     {
       "manufacturer": "",
@@ -2650,6 +2680,12 @@
     {
       "manufacturer": "",
       "market_name": "iQOO Neo9 Pro",
+      "codename": "I2304",
+      "model": "I2304"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO Neo9 Pro",
       "codename": "PD2339",
       "model": "V2339A"
     },
@@ -2766,6 +2802,12 @@
       "market_name": "iQOO Z8x",
       "codename": "PD2312",
       "model": "V2312A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO Z9 5G",
+      "codename": "I2302",
+      "model": "I2302"
     },
     {
       "manufacturer": "",

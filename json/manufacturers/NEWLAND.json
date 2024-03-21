@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "N950",
+      "codename": "SmartPOS",
+      "model": "N950"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NLS-MT6550-AM",
       "codename": "NLS-MT6550-AM",
       "model": "NLS-MT65"
@@ -81,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NLS-N7",
+      "codename": "NLS-N7",
+      "model": "NLS-N7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NLS-NFT10",
       "codename": "NLS-NFT10-GL",
       "model": "NLS-NFT10"
@@ -102,6 +114,12 @@
       "market_name": "Newland NLS-N7",
       "codename": "NLS-N7-GL",
       "model": "NLS-N7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Newland NLS-NQuire",
+      "codename": "NLS-NQuire",
+      "model": "NLS-NQuire"
     }
   ]
 }

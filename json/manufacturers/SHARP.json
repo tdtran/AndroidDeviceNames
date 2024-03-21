@@ -2392,6 +2392,18 @@
     {
       "manufacturer": "",
       "market_name": "SHARP",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP",
       "codename": "stanford",
       "model": "2K SMART TV"
     },

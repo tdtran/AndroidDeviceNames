@@ -40,6 +40,12 @@
     {
       "manufacturer": "",
       "market_name": "SVISION",
+      "codename": "mountbaker",
+      "model": "SVISION 2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SVISION",
       "codename": "zhongshan",
       "model": "4K SMART TV"
     }

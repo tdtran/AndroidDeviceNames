@@ -279,9 +279,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Maxwest ASTRO_65T",
+      "codename": "MX-A65T",
+      "model": "MX-A65T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NITRO 55M",
       "codename": "MX-N55MWW",
       "model": "MX-N55M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NITRO N6",
+      "codename": "MX-NN6",
+      "model": "NITRO N6"
     },
     {
       "manufacturer": "",

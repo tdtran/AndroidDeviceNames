@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E10P",
+      "codename": "E10P",
+      "model": "E10P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M1046W",
       "codename": "M1046W",
       "model": "M1046W"

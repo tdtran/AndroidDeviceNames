@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T13M4BK64LTE",
+      "codename": "TEO13M",
+      "model": "T13M4BK64LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEO 8",
       "codename": "TEO8LTE32",
       "model": "TEO8LTE"

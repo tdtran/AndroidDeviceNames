@@ -18,6 +18,12 @@
       "market_name": "Nothing Phone (2)",
       "codename": "Pong",
       "model": "AIN065"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nothing Phone (2a)",
+      "codename": "Pacman",
+      "model": "A142"
     }
   ]
 }

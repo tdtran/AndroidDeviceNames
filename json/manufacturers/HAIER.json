@@ -561,6 +561,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier MatrixTV AR",
+      "codename": "yongchun",
+      "model": "Haier MatrixTV AR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Haier MatrixTV AS",
       "codename": "irvine",
       "model": "Haier MatrixTV AS"

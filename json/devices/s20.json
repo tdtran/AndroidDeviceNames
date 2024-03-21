@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Bluebird",
+    "market_name": "S20",
+    "codename": "S20",
+    "model": "S20"
+  },
+  {
     "manufacturer": "Casper",
     "market_name": "S20",
     "codename": "S20",

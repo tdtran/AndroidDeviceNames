@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X63Pro",
+      "codename": "X_63_ProA",
+      "model": "X63Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X7",
       "codename": "X7",
       "model": "XMOBILE X7"

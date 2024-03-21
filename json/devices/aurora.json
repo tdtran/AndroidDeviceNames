@@ -4,5 +4,11 @@
     "market_name": "Pixel Watch 2",
     "codename": "aurora",
     "model": "Google Pixel Watch 2"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 14 Ultra",
+    "codename": "aurora",
+    "model": "Xiaomi for arm64"
   }
 ]

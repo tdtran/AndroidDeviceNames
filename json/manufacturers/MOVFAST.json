@@ -6,6 +6,18 @@
       "market_name": "Ranger2",
       "codename": "MFT1522",
       "model": "Ranger2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ranger2 Lite",
+      "codename": "MFT1621",
+      "model": "Ranger2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ranger2K",
+      "codename": "MFT1621",
+      "model": "Ranger2K"
     }
   ]
 }

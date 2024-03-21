@@ -831,6 +831,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP12s",
+      "codename": "CP12s",
+      "model": "CP12s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP3503L",
       "codename": "CP3503L",
       "model": "CP3503L"
@@ -990,6 +996,12 @@
       "market_name": "Cool 20 pro",
       "codename": "CP05",
       "model": "CP05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cool 20s 5G",
+      "codename": "CP07",
+      "model": "CP07"
     },
     {
       "manufacturer": "",
@@ -1488,6 +1500,12 @@
       "market_name": "coolpad COOL 20",
       "codename": "k69v1_64",
       "model": "CP03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad COOL 30i",
+      "codename": "CP12Q",
+      "model": "CP12Q"
     },
     {
       "manufacturer": "",

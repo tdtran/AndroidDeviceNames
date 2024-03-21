@@ -25,12 +25,6 @@
   },
   {
     "manufacturer": "CAIXUN",
-    "market_name": "Europe",
-    "codename": "nagata",
-    "model": "Fobem 2K SMART TV"
-  },
-  {
-    "manufacturer": "CAIXUN",
     "market_name": "MAXWELL SMART TV",
     "codename": "nagata",
     "model": "MAXWELL SMART TV"
@@ -70,6 +64,12 @@
     "market_name": "FUEGO 2K SMART TV",
     "codename": "nagata",
     "model": "FUEGO 2K SMART TV"
+  },
+  {
+    "manufacturer": "Fobem",
+    "market_name": "2K SMART TV",
+    "codename": "nagata",
+    "model": "Fobem 2K SMART TV"
   },
   {
     "manufacturer": "Grunkel",
@@ -118,6 +118,12 @@
     "market_name": "Kogan G5",
     "codename": "nagata",
     "model": "Kogan G5"
+  },
+  {
+    "manufacturer": "LEXA",
+    "market_name": "Uruguay",
+    "codename": "nagata",
+    "model": "LEXA SMART 2K TV"
   },
   {
     "manufacturer": "MULTYNET",
@@ -184,6 +190,12 @@
     "market_name": "STAR-X 2K SMART TV",
     "codename": "nagata",
     "model": "STAR-X 2K SMART TV"
+  },
+  {
+    "manufacturer": "TOKYO",
+    "market_name": "Paraguay",
+    "codename": "nagata",
+    "model": "TOKYO SMART 2K TV"
   },
   {
     "manufacturer": "Thomson",

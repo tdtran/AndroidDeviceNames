@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T13-EEA",
+      "codename": "T13-EEA",
+      "model": "T13-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T13-US",
+      "codename": "T13-US",
+      "model": "T13-US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T13_EEA",
       "codename": "T13_EEA",
       "model": "T13_EEA"

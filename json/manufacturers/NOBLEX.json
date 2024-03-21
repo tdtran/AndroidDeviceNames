@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B30",
+      "codename": "NOBLEX_B30",
+      "model": "B30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Go Action",
       "codename": "N551",
       "model": "N551"
@@ -39,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N52",
+      "codename": "NOBLEX_N52",
+      "model": "N52"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N601",
       "codename": "N601",
       "model": "N601"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N62",
+      "codename": "NOBLEX_N62",
+      "model": "N62"
     },
     {
       "manufacturer": "",

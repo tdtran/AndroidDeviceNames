@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ascon",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AT14",
+      "codename": "AT14",
+      "model": "AT14P464"
+    }
+  ]
+}

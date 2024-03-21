@@ -6,6 +6,12 @@
       "market_name": "V20",
       "codename": "V20",
       "model": "V20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30 RS",
+      "codename": "VILLAON-V30-RS",
+      "model": "VILLAON V6751L"
     }
   ]
 }

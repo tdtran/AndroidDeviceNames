@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "15 Pro Max",
+      "codename": "15_Pro_Max",
+      "model": "15 Pro Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AJI",
       "codename": "AJI",
       "model": "HPPR10A"
@@ -63,6 +69,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HPPH82A",
+      "codename": "HPPH82A",
+      "model": "HPPH82A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K82A",
+      "codename": "K82A",
+      "model": "K82A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KR10",
+      "codename": "KR10",
+      "model": "KR10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KT10",
       "codename": "KT10",
       "model": "KT10"
@@ -81,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROJO",
+      "codename": "ROJO",
+      "model": "HPPR20A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Serrano",
       "codename": "HPP-L55",
       "model": "HPP-L55"
@@ -90,6 +120,12 @@
       "market_name": "Serrano",
       "codename": "HPP-L55B",
       "model": "HPP-L55B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stylo 7plus",
+      "codename": "Stylo_7plus",
+      "model": "Stylo 7plus"
     },
     {
       "manufacturer": "",

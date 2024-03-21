@@ -689,6 +689,12 @@
       "manufacturer": "",
       "market_name": "ROG Phone 6D Ultimate",
       "codename": "ASUS_AI2203",
+      "model": "ASUS_AI2203_C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ROG Phone 6D Ultimate",
+      "codename": "ASUS_AI2203",
       "model": "ASUS_AI2203_D"
     },
     {
@@ -2280,6 +2286,12 @@
       "market_name": "Zenfone 10",
       "codename": "ASUS_AI2302",
       "model": "ASUS_AI2302"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zenfone 11 Ultra",
+      "codename": "ASUS_AI2401",
+      "model": "ASUS_AI2401_H"
     },
     {
       "manufacturer": "",

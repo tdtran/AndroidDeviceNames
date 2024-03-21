@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XR2",
+      "codename": "XR2",
+      "model": "XR2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XT100",
       "codename": "XT100",
       "model": "XT100"

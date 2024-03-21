@@ -1,0 +1,17 @@
+{
+  "manufacturer": "DMOAO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "D5-EEA",
+      "codename": "D5-EEA",
+      "model": "D5-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D5-US",
+      "codename": "D5-US",
+      "model": "D5-US"
+    }
+  ]
+}

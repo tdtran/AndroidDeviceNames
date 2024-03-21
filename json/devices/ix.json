@@ -4,5 +4,11 @@
     "market_name": "iX",
     "codename": "iX",
     "model": "iX"
+  },
+  {
+    "manufacturer": "Mobicell",
+    "market_name": "IX",
+    "codename": "IX",
+    "model": "IX"
   }
 ]

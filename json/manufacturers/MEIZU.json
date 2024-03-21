@@ -177,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEIZU 20 Inf.sat",
+      "codename": "meizu20Infsat",
+      "model": "MEIZU 20 Inf.sat"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Meizu 6T",
       "codename": "Meizu6T",
       "model": "Meizu 6T"

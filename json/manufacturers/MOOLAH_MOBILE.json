@@ -12,6 +12,12 @@
       "market_name": "T100",
       "codename": "T100",
       "model": "T100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10_Pro",
+      "codename": "T10_Pro",
+      "model": "T10_Pro"
     }
   ]
 }

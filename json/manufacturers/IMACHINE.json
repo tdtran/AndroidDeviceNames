@@ -6,6 +6,18 @@
       "market_name": "MobilePOSTerminal",
       "codename": "MobilePOSTerminal",
       "model": "AP12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iMachine AP12",
+      "codename": "AP12",
+      "model": "AP12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iMachine i2",
+      "codename": "i2",
+      "model": "i2"
     }
   ]
 }

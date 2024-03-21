@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LANDI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M20",
+      "codename": "M20",
+      "model": "M20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20SE",
+      "codename": "M20SE",
+      "model": "M20SE"
+    }
+  ]
+}

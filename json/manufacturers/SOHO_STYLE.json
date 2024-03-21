@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S65",
+      "codename": "S65",
+      "model": "S65"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SS5214G",
       "codename": "SS5214G",
       "model": "SS5214G"

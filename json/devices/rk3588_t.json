@@ -6,6 +6,18 @@
     "model": "ADOCEX650"
   },
   {
+    "manufacturer": "COMBUSTECH",
+    "market_name": "Customer need debug",
+    "codename": "rk3588_t",
+    "model": "COMBUS_IB"
+  },
+  {
+    "manufacturer": "CVTE",
+    "market_name": "CVTE SA12",
+    "codename": "rk3588_t",
+    "model": "SA12 series"
+  },
+  {
     "manufacturer": "CVTE",
     "market_name": "edu_v2",
     "codename": "rk3588_t",
@@ -36,10 +48,40 @@
     "model": "Helgi_HX10"
   },
   {
+    "manufacturer": "JTWORKS",
+    "market_name": "JTWORKS-IFPD",
+    "codename": "rk3588_t",
+    "model": "JTW"
+  },
+  {
+    "manufacturer": "MPORT",
+    "market_name": "MPORT-IFPD",
+    "codename": "rk3588_t",
+    "model": "e_Smarter"
+  },
+  {
+    "manufacturer": "NURIBOM",
+    "market_name": "NRB-IFPD",
+    "codename": "rk3588_t",
+    "model": "MP_Series"
+  },
+  {
     "manufacturer": "Newline",
     "market_name": "Q23",
     "codename": "rk3588_t",
     "model": "Q23"
+  },
+  {
+    "manufacturer": "OMAX",
+    "market_name": "OMAX-IFPD",
+    "codename": "rk3588_t",
+    "model": "HANJI"
+  },
+  {
+    "manufacturer": "OneScreen",
+    "market_name": "OneScreen T7",
+    "codename": "rk3588_t",
+    "model": "T7"
   },
   {
     "manufacturer": "Synetech",
@@ -48,9 +90,21 @@
     "model": "Synetech_T35"
   },
   {
+    "manufacturer": "UNITRADING",
+    "market_name": "UNITRADING-IFPD",
+    "codename": "rk3588_t",
+    "model": "UNIDEAS"
+  },
+  {
     "manufacturer": "V7",
     "market_name": "IFPXX03-V7PRO",
     "codename": "rk3588_t",
     "model": "IFPO3V7PRO"
+  },
+  {
+    "manufacturer": "VECT",
+    "market_name": "VECT-IFPD",
+    "codename": "rk3588_t",
+    "model": "UIT"
   }
 ]

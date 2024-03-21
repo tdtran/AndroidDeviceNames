@@ -1,26 +1,20 @@
 [
   {
     "manufacturer": "OnePlus",
-    "market_name": "12R",
+    "market_name": "OnePlus 12R",
     "codename": "OP5D35L1",
     "model": "CPH2585"
-  },
-  {
-    "manufacturer": "OnePlus",
-    "market_name": "12R",
-    "codename": "OP5D35L1",
-    "model": "CPH2609"
-  },
-  {
-    "manufacturer": "OnePlus",
-    "market_name": "12R",
-    "codename": "OP5D35L1",
-    "model": "CPH2611"
   },
   {
     "manufacturer": "OnePlus",
     "market_name": "OnePlus 12R",
     "codename": "OP5D35L1",
     "model": "CPH2609"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 12R",
+    "codename": "OP5D35L1",
+    "model": "CPH2611"
   }
 ]

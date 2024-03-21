@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "AOC",
+    "market_name": "AOC",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
     "manufacturer": "Aiwa",
     "market_name": "Aiwa",
     "codename": "mountbaker",
@@ -10,6 +16,12 @@
     "market_name": "Aiwa",
     "codename": "mountbaker",
     "model": "AIWA 2K SMART TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BLAUPUNKT",
+    "codename": "mountbaker",
+    "model": "BLAUPUNKT 2K TV"
   },
   {
     "manufacturer": "Blaupunkt",
@@ -36,6 +48,18 @@
     "model": "2K SMART TV"
   },
   {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "mountbaker",
+    "model": "EKO 2K Android TV"
+  },
+  {
+    "manufacturer": "Electroman",
+    "market_name": "ELECTROMAN",
+    "codename": "mountbaker",
+    "model": "Smart FHD TV"
+  },
+  {
     "manufacturer": "FPD",
     "market_name": "FPD",
     "codename": "mountbaker",
@@ -46,6 +70,12 @@
     "market_name": "FPD",
     "codename": "mountbaker",
     "model": "EcoTV D"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "mountbaker",
+    "model": "EcoTV I"
   },
   {
     "manufacturer": "Indurama",
@@ -252,6 +282,30 @@
     "model": "MOTOROLA GOOGLE TV NA"
   },
   {
+    "manufacturer": "PEL (PAK)",
+    "market_name": "PEL",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "PHILIPS",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "PHILIPS",
+    "codename": "mountbaker",
+    "model": "2K SMART TV PH"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "QBELL",
+    "codename": "mountbaker",
+    "model": "QBELL 2K Android TV"
+  },
+  {
     "manufacturer": "RCA",
     "market_name": "RCA",
     "codename": "mountbaker",
@@ -262,6 +316,12 @@
     "market_name": "RANGS",
     "codename": "mountbaker",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "S Vision",
+    "market_name": "SVISION",
+    "codename": "mountbaker",
+    "model": "SVISION 2K Android TV"
   },
   {
     "manufacturer": "SAELITE",
@@ -276,6 +336,12 @@
     "model": "2K SMART TV"
   },
   {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
     "manufacturer": "Silo",
     "market_name": "SILO",
     "codename": "mountbaker",
@@ -284,6 +350,12 @@
   {
     "manufacturer": "Siragon",
     "market_name": "Siragon",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Soneview",
+    "market_name": "SONEVIEW",
     "codename": "mountbaker",
     "model": "2K SMART TV"
   }

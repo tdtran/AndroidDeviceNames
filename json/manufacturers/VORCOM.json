@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "QuartzLITE",
+      "codename": "QuartzLITE",
+      "model": "QuartzLITE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S12_classic",
       "codename": "S12_classic",
       "model": "S12_classic"

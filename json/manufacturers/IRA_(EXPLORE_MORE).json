@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IRA explore more",
+      "codename": "IRA_BHARATAB_1021",
+      "model": "IRA_BHARATAB_1021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IRA801",
       "codename": "IRA801",
       "model": "IRA801"
@@ -12,6 +18,12 @@
       "market_name": "IRABIO",
       "codename": "IRABIO",
       "model": "IRABIO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRADUO_PRO",
+      "codename": "IRA_DUO_PRO",
+      "model": "IRA_DUO_PRO"
     },
     {
       "manufacturer": "",

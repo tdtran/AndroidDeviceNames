@@ -1,0 +1,17 @@
+{
+  "manufacturer": "TOKYO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Paraguay",
+      "codename": "marina",
+      "model": "TOKYO SMART 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Paraguay",
+      "codename": "nagata",
+      "model": "TOKYO SMART 2K TV"
+    }
+  ]
+}

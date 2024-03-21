@@ -1,19 +1,7 @@
 [
   {
-    "manufacturer": "FUSE4K",
-    "market_name": "FUSE 4K",
-    "codename": "SEI700L",
-    "model": "FUSE 4K"
-  },
-  {
-    "manufacturer": "LLA",
-    "market_name": "Gasobi region",
-    "codename": "SEI700L",
-    "model": "FUSE 4K"
-  },
-  {
-    "manufacturer": "LLA",
-    "market_name": "Panama",
+    "manufacturer": "EVO FUSE 4K",
+    "market_name": "EVO FUSE 4K",
     "codename": "SEI700L",
     "model": "FUSE 4K"
   }

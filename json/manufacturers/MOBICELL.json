@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EPIC MAX",
+      "codename": "EPIC_MAX",
+      "model": "EPIC MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EPIC PRO 1",
       "codename": "EPIC_PRO_1",
       "model": "EPIC PRO_1"
@@ -204,6 +210,12 @@
       "market_name": "EPIC_2",
       "codename": "EPIC_2",
       "model": "EPIC_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F50",
+      "codename": "F50",
+      "model": "F50"
     },
     {
       "manufacturer": "",
@@ -309,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IX",
+      "codename": "IX",
+      "model": "IX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IX PRO",
       "codename": "IX_PRO",
       "model": "IX PRO"
@@ -372,6 +390,12 @@
       "market_name": "MX2",
       "codename": "PX12",
       "model": "MX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MX2 PLUS",
+      "codename": "MX2_PLUS",
+      "model": "MX2 PLUS"
     },
     {
       "manufacturer": "",
@@ -537,6 +561,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R6_PLUS",
+      "codename": "R6_PLUS",
+      "model": "R6 PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R7",
       "codename": "R7",
       "model": "R7"
@@ -636,6 +666,12 @@
       "market_name": "RX PRO",
       "codename": "RX_PRO",
       "model": "RX PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX Plus",
+      "codename": "RX_Plus",
+      "model": "RX Plus"
     },
     {
       "manufacturer": "",

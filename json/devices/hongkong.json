@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "AOC",
+    "market_name": "AOC",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Aiwa",
     "market_name": "Aiwa",
     "codename": "hongkong",
@@ -10,6 +16,12 @@
     "market_name": "BLAUPUNKT",
     "codename": "hongkong",
     "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BLAUPUNKT",
+    "codename": "hongkong",
+    "model": "BLAUPUNKT 4K TV"
   },
   {
     "manufacturer": "Blaupunkt",
@@ -28,6 +40,12 @@
     "market_name": "DAHUA",
     "codename": "hongkong",
     "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "EKO",
+    "market_name": "EKO",
+    "codename": "hongkong",
+    "model": "EKO 4K Android TV"
   },
   {
     "manufacturer": "Electroman",
@@ -217,9 +235,21 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "ROOMI",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "SA",
     "codename": "hongkong",
     "model": "EcoTV Plus"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "SVISION",
+    "codename": "hongkong",
+    "model": "SVISION 4K Android TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -298,6 +328,30 @@
     "market_name": "Motorola",
     "codename": "hongkong",
     "model": "MOTOROLA GOOGLE TV 4K ATSC"
+  },
+  {
+    "manufacturer": "NIKAI_PRO",
+    "market_name": "NIKAI_PRO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "PHILIPS",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "PHILIPS",
+    "codename": "hongkong",
+    "model": "4K SMART TV PH"
+  },
+  {
+    "manufacturer": "QBell",
+    "market_name": "QBELL",
+    "codename": "hongkong",
+    "model": "QBELL 4K Android TV"
   },
   {
     "manufacturer": "RCA",

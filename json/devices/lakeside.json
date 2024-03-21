@@ -22,5 +22,11 @@
     "market_name": "Google TV",
     "codename": "lakeside",
     "model": "4K US Google TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "Google TV",
+    "codename": "lakeside",
+    "model": "POLYTRON 4K"
   }
 ]

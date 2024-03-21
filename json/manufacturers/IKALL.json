@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "I KALL Z13",
+      "codename": "I_KALL_Z13",
+      "model": "Z13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IKALL",
       "codename": "IKALL",
       "model": "IKALL"
@@ -24,6 +30,12 @@
       "market_name": "N5",
       "codename": "N5",
       "model": "N5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S3",
+      "codename": "S3",
+      "model": "S3"
     }
   ]
 }

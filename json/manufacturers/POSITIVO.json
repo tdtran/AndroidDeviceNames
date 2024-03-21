@@ -279,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T3010D",
+      "codename": "T3010D",
+      "model": "Vision Tab 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T701 TV",
       "codename": "T701",
       "model": "T701"

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Nissan",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NissanConnect",
+      "codename": "aivi2_b",
+      "model": "AIVI2 B"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P15",
+      "codename": "M10T2_P15",
+      "model": "P15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMY_17_M07R6_EEA",
       "codename": "SMY-17-M07R6",
       "model": "SMY-17-M07R6"

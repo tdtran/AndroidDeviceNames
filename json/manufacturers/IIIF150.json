@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B2 Pro",
+      "codename": "B2_Pro",
+      "model": "B2 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B2 Ultra",
       "codename": "B2_Ultra",
       "model": "B2 Ultra"

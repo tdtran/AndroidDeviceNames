@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Deutsche Telekom",
+    "market_name": "T Phone Pro (2023)",
+    "codename": "Tiger",
+    "model": "T Phone Pro (2023)"
+  },
+  {
     "manufacturer": "Vertex",
     "market_name": "Impress Tiger",
     "codename": "Tiger",

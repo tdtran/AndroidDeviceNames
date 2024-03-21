@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 12E",
+      "codename": "Note_12E_EEA",
+      "model": "Note 12E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 15 EEA",
       "codename": "Note_15",
       "model": "Note 15"

@@ -4,5 +4,11 @@
     "market_name": "EF550",
     "codename": "EF550",
     "model": "EF550"
+  },
+  {
+    "manufacturer": "Bluebird",
+    "market_name": "HF550X",
+    "codename": "EF550",
+    "model": "HF550x"
   }
 ]

@@ -16,6 +16,12 @@
     {
       "manufacturer": "",
       "market_name": "Element",
+      "codename": "expo",
+      "model": "ElementDeluxe4k"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Element",
       "codename": "kaitak",
       "model": "ElementPlatiumTV"
     },

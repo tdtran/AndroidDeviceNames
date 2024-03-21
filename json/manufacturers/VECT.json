@@ -1,0 +1,11 @@
+{
+  "manufacturer": "VECT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VECT-IFPD",
+      "codename": "rk3588_t",
+      "model": "UIT"
+    }
+  ]
+}

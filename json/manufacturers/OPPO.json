@@ -183,6 +183,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A2 5G",
+      "codename": "OP5647",
+      "model": "PJB110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A2m 5G",
+      "codename": "OP5A0D",
+      "model": "PJU110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A2x 5G",
       "codename": "OP5A0D",
       "model": "PJS110"
@@ -642,6 +654,12 @@
       "market_name": "A59",
       "codename": "A59",
       "model": "OPPO A59s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A59 5G",
+      "codename": "OP5AD5L1",
+      "model": "CPH2617"
     },
     {
       "manufacturer": "",
@@ -1899,6 +1917,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO A18",
+      "codename": "OP575DL1",
+      "model": "CPH2591"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO A33",
       "codename": "OP4EEA",
       "model": "CPH2137"
@@ -1908,6 +1932,12 @@
       "market_name": "OPPO A35",
       "codename": "OP4E7B",
       "model": "PEFM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO A38",
+      "codename": "OP5759L1",
+      "model": "CPH2579"
     },
     {
       "manufacturer": "",
@@ -1992,6 +2022,18 @@
       "market_name": "OPPO Pad Air",
       "codename": "OP5225",
       "model": "OPD2102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Pad Neo",
+      "codename": "OP5DA3L1",
+      "model": "OPD2302"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Pad Neo",
+      "codename": "OP5DA3L1",
+      "model": "OPD2303"
     },
     {
       "manufacturer": "",
@@ -2130,6 +2172,12 @@
       "market_name": "OPPO Watch",
       "codename": "orca",
       "model": "OPPO Watch"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Watch X",
+      "codename": "OWWE231",
+      "model": "OWWE231"
     },
     {
       "manufacturer": "",

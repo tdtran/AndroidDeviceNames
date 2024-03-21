@@ -42,6 +42,18 @@
       "market_name": "CM91_EEA",
       "codename": "CM91_EEA",
       "model": "CM91_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P1100",
+      "codename": "P1100",
+      "model": "P1100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P1150",
+      "codename": "P1150",
+      "model": "P1150"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ZIOVO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Z118-EEA",
+      "codename": "Z118-EEA",
+      "model": "Z118-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z118-US",
+      "codename": "Z118-US",
+      "model": "Z118-US"
+    }
+  ]
+}

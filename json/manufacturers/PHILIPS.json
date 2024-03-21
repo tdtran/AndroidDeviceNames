@@ -136,8 +136,38 @@
     {
       "manufacturer": "",
       "market_name": "PHILIPS",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS",
+      "codename": "hongkong",
+      "model": "4K SMART TV PH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS",
       "codename": "lavender",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS",
+      "codename": "lavender",
+      "model": "4K SMART TV PH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS",
+      "codename": "mountbaker",
+      "model": "2K SMART TV PH"
     },
     {
       "manufacturer": "",

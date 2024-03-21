@@ -25,6 +25,30 @@
   },
   {
     "manufacturer": "Spectralink",
+    "market_name": "Versity 9540",
+    "codename": "Versity",
+    "model": "Versity 9540"
+  },
+  {
+    "manufacturer": "Spectralink",
+    "market_name": "Versity 9553",
+    "codename": "Versity",
+    "model": "Versity 9553"
+  },
+  {
+    "manufacturer": "Spectralink",
+    "market_name": "Versity 9640",
+    "codename": "Versity",
+    "model": "Versity 9640"
+  },
+  {
+    "manufacturer": "Spectralink",
+    "market_name": "Versity 9653",
+    "codename": "Versity",
+    "model": "Versity 9653"
+  },
+  {
+    "manufacturer": "Spectralink",
     "market_name": "Versity 9740",
     "codename": "Versity",
     "model": "Versity 9740"
