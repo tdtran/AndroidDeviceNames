@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A50",
+      "codename": "A50",
+      "model": "A50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A60_EEA",
+      "codename": "A60_EEA",
+      "model": "A60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K19",
       "codename": "K19",
       "model": "K19"

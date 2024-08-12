@@ -513,9 +513,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z42_pro",
+      "codename": "Z42_pro",
+      "model": "Z42 pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z45",
       "codename": "Z45",
       "model": "Symphony Z45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z55",
+      "codename": "Z55",
+      "model": "Z55"
     },
     {
       "manufacturer": "",
@@ -537,6 +549,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z70",
+      "codename": "Z70",
+      "model": "Z70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZVII",
       "codename": "ZVII",
       "model": "ZVII"
@@ -546,6 +564,18 @@
       "market_name": "ZVIII",
       "codename": "ZVIII",
       "model": "ZVIII"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "helio_30",
+      "codename": "helio_30",
+      "model": "helio 30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "helio_80",
+      "codename": "helio_80",
+      "model": "helio 80"
     },
     {
       "manufacturer": "",
@@ -699,6 +729,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i96",
+      "codename": "i96",
+      "model": "i96"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i97",
       "codename": "i97",
       "model": "i97"
@@ -726,6 +762,12 @@
       "market_name": "innova20",
       "codename": "innova20",
       "model": "innova20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "innova30",
+      "codename": "innova30",
+      "model": "innova30"
     },
     {
       "manufacturer": "",

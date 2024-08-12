@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT_8501",
+      "codename": "LT_8501",
+      "model": "LT_8501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT_9701",
       "codename": "LT_9701",
       "model": "LT_9701"
@@ -30,6 +36,12 @@
       "market_name": "LT_9902",
       "codename": "LT_9902",
       "model": "LT_9902"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_9906",
+      "codename": "LT_9906",
+      "model": "LT_9906"
     },
     {
       "manufacturer": "",

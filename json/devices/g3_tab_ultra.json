@@ -4,5 +4,11 @@
     "market_name": "G3_Tab_Ultra",
     "codename": "G3_Tab_Ultra",
     "model": "MT13"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "G3_Tab_Ultra_EEA",
+    "codename": "G3_Tab_Ultra",
+    "model": "MT13"
   }
 ]

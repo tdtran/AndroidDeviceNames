@@ -6,6 +6,12 @@
     "model": "AIWA TV"
   },
   {
+    "manufacturer": "Aiwa",
+    "market_name": "AIWA TV",
+    "codename": "SW6H",
+    "model": "AIWA UHD SMART TV"
+  },
+  {
     "manufacturer": "Akai",
     "market_name": "AKAI 4K SMART TV",
     "codename": "SW6H",

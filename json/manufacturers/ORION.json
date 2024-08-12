@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Doshisha 2K Smart TV",
+      "codename": "umeda",
+      "model": "Doshisha 2K Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "longshan",
       "model": "AI PONT"

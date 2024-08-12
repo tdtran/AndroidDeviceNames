@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Amigo7Y",
+      "codename": "Amigo7Y",
+      "model": "Amigo 7Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DFN-Amigo7x",
       "codename": "Amigo7x3",
       "model": "DFN-Amigo7x"

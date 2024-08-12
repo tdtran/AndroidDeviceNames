@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P55",
+      "codename": "P55",
+      "model": "P55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tech_A1_Plus",
       "codename": "Tech_A1_Plus",
       "model": "Tech_A1_Plus"

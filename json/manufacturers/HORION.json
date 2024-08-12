@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Horion",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IFPD",
+      "codename": "65W72B",
+      "model": "W72B"
+    }
+  ]
+}

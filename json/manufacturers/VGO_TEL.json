@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NEW 10",
+      "codename": "NEW_10",
+      "model": "NEW 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEW 11",
       "codename": "Smartphone",
       "model": "NEW 11"
@@ -18,6 +24,12 @@
       "market_name": "NEW 24",
       "codename": "NEW_24",
       "model": "NEW 24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEW 25",
+      "codename": "NEW_25",
+      "model": "NEW 25"
     },
     {
       "manufacturer": "",

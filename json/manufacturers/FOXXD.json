@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10U",
+      "codename": "A10U",
+      "model": "A10U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A2023",
       "codename": "A2023",
       "model": "A2023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A55",
+      "codename": "A55",
+      "model": "A55"
     },
     {
       "manufacturer": "",
@@ -21,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A62",
+      "codename": "A62",
+      "model": "A62"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A63",
       "codename": "A63",
       "model": "A63"
@@ -30,6 +48,24 @@
       "market_name": "A65",
       "codename": "A65",
       "model": "A65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A65M",
+      "codename": "A65M",
+      "model": "A65M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A65Plus",
+      "codename": "A65Plus",
+      "model": "A65Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6_Plus",
+      "codename": "A6_Plus",
+      "model": "A6 Plus"
     },
     {
       "manufacturer": "",
@@ -84,6 +120,12 @@
       "market_name": "T8A",
       "codename": "T8A",
       "model": "T8A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8B",
+      "codename": "T8B",
+      "model": "T8B"
     },
     {
       "manufacturer": "",

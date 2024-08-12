@@ -1,0 +1,11 @@
+{
+  "manufacturer": "KJ_Board",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KJG IR13",
+      "codename": "KJG_IR13",
+      "model": "KJG_Series"
+    }
+  ]
+}

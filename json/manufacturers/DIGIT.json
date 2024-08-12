@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Digit Chrome",
+      "codename": "Digit_Chrome",
+      "model": "Digit Chrome"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DigitPad10",
       "codename": "DigitPad10",
       "model": "DigitPad10"

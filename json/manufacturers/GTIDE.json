@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H2R",
+      "codename": "H2R",
+      "model": "H2R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Klap_S1",
       "codename": "Klap_S1",
       "model": "Klap_S1"

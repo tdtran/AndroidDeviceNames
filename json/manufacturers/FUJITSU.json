@@ -435,6 +435,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INTERACTIVE_PANEL",
+      "codename": "rk3588_t",
+      "model": "IWxx2_DX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M02",
       "codename": "M02",
       "model": "M02"

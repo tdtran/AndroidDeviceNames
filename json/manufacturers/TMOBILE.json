@@ -81,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "REVVL 7",
+      "codename": "CypressPoint",
+      "model": "TMRV075G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REVVL 7 Pro",
+      "codename": "Pinehurst",
+      "model": "TMRV07P5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "REVVL TAB 5G",
       "codename": "REVVLTAB5G",
       "model": "TMRV5GTB"

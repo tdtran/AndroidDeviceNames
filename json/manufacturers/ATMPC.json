@@ -1,0 +1,29 @@
+{
+  "manufacturer": "ATMPC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A9_EEA",
+      "codename": "A9",
+      "model": "A9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IT-801B",
+      "codename": "IT-801B",
+      "model": "IT-801B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IT_701A",
+      "codename": "IT_701A",
+      "model": "IT_701A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IT_701A_EEA",
+      "codename": "IT_701A_EEA",
+      "model": "IT_701A"
+    }
+  ]
+}

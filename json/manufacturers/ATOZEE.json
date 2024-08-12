@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT11K",
+      "codename": "AT11K",
+      "model": "AT11K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT12K",
+      "codename": "AT12K",
+      "model": "AT12K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT70K",
       "codename": "AT70K",
       "model": "AT70K"
@@ -63,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10",
+      "codename": "P10",
+      "model": "P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P12",
+      "codename": "P12",
+      "model": "P12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P70W",
       "codename": "P70W",
       "model": "P70W"
@@ -90,6 +114,12 @@
       "market_name": "YQ10S_PRO",
       "codename": "YQ10S_PRO",
       "model": "YQ10S_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZB10S",
+      "codename": "ZB10S",
+      "model": "ZB10S"
     }
   ]
 }

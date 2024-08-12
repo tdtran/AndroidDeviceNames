@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "KTC",
+    "market_name": "SD_GM01",
+    "codename": "Capricorn",
+    "model": "Eco Smart Display"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "Mi 5s",
     "codename": "capricorn",

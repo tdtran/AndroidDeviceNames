@@ -135,6 +135,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A15_Pro",
+      "codename": "A15_Pro",
+      "model": "PA3NB15PA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A15_Pro_5G",
+      "codename": "A15_Pro_5G",
+      "model": "MP36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A15_Pro_5G_EEA",
+      "codename": "A15_Pro_5G",
+      "model": "MP36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A15_Pro_EEA",
+      "codename": "A15_Pro",
+      "model": "PA3NB15PA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A15_Tab_EEA",
+      "codename": "A15_Tab_EEA",
+      "model": "MT08"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "A3",
       "model": "A3"
@@ -591,6 +621,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G1_Tab_Mini",
+      "codename": "G1_Tab_Mini",
+      "model": "TG3DBG1MA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1_Tab_Mini_EEA",
+      "codename": "G1_Tab_Mini_EEA",
+      "model": "TG3DBG1MA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1_Tab_Mini_GO",
+      "codename": "G1_Tab_Mini_GO",
+      "model": "TG3DBG1MA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1_Tab_Mini_Kids",
+      "codename": "G1_Tab_Mini_Kids",
+      "model": "TG3DBG1MA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1_Tab_Mini_Kids_EEA",
+      "codename": "G1_Tab_Mini_Kids_EEA",
+      "model": "TG3DBG1MA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G2",
       "codename": "UMIDIGI_G2",
       "model": "MP21"
@@ -639,6 +699,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G3_Tab_Ultra_EEA",
+      "codename": "G3_Tab_Ultra",
+      "model": "MT13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G5 Mecha",
       "codename": "G5_Mecha",
       "model": "RP08"
@@ -657,9 +723,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G5_Tab",
+      "codename": "G5_Tab",
+      "model": "MT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5_Tab_EEA",
+      "codename": "G5_Tab_EEA",
+      "model": "MT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5_Tab_Kids",
+      "codename": "G5_Tab_Kids",
+      "model": "MT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G5_Tab_Kids_EEA",
+      "codename": "G5_Tab_Kids_EEA",
+      "model": "MT16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G6_Tab",
       "codename": "G6_Tab",
       "model": "TG2404GBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G6_Tab_EEA",
+      "codename": "G6_Tab_EEA",
+      "model": "TG2404GBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7_Tab_EEA",
+      "codename": "G7_Tab",
+      "model": "TG4FBG7TA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7_Tab_Mini",
+      "codename": "G7_Tab_Mini",
+      "model": "TG2405GBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7_Tab_Mini_EEA",
+      "codename": "G7_Tab_Mini_EEA",
+      "model": "TG2405GBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7_Tab_Pro",
+      "codename": "G7_Tab_Pro",
+      "model": "TG2403GBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9 Tab",
+      "codename": "G9_Tab",
+      "model": "TG4FBG9TA"
     },
     {
       "manufacturer": "",
@@ -795,6 +921,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Qin3ultra",
+      "codename": "Qin3ultra",
+      "model": "Qin3ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S2PRO",
       "codename": "S2_PRO",
       "model": "S2_PRO"
@@ -864,6 +996,12 @@
       "market_name": "UMIDIGI A15C EEA",
       "codename": "UMIDIGI_A15C",
       "model": "MP34"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI A16 Pro",
+      "codename": "A16_Pro",
+      "model": "PA3NB16PB"
     },
     {
       "manufacturer": "",
@@ -960,6 +1098,42 @@
       "market_name": "UMIDIGI G5C EEA",
       "codename": "UMIDIGI_G5C",
       "model": "MP39"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G6",
+      "codename": "G6",
+      "model": "PG2311GBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G6 5G",
+      "codename": "G6_5G",
+      "model": "PG2309GBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G7",
+      "codename": "G7",
+      "model": "PG3NBG7YA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G7_5G",
+      "codename": "G7_5G",
+      "model": "PG3NBG7YB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G7_EEA",
+      "codename": "G7",
+      "model": "PG3NBG7YA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G9 5G",
+      "codename": "G9_5G",
+      "model": "UMIDIGI G9 5G"
     },
     {
       "manufacturer": "",

@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D3_EEA",
+      "codename": "D3_EEA",
+      "model": "D3_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D5-EEA",
       "codename": "D5-EEA",
       "model": "D5-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D5-T-EEA",
+      "codename": "D5-T-EEA",
+      "model": "D5-T-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D5-T-US",
+      "codename": "D5-T-US",
+      "model": "D5-T-US"
     },
     {
       "manufacturer": "",

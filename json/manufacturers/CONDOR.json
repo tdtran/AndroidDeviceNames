@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GT60 PRO",
+      "codename": "GT60_PRO",
+      "model": "GT60 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Griffe G5",
       "codename": "PHQ520",
       "model": "Griffe G5"
@@ -258,6 +264,12 @@
       "market_name": "Infinity_i5",
       "codename": "Infinity_i5",
       "model": "Infinity_i5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOVA60",
+      "codename": "NOVA60",
+      "model": "NOVA60"
     },
     {
       "manufacturer": "",
@@ -552,6 +564,18 @@
       "market_name": "SP638",
       "codename": "SP638",
       "model": "Plume L3 Smart"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP659",
+      "codename": "NOVA60_i",
+      "model": "NOVA60 i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP661",
+      "codename": "GT60",
+      "model": "GT60"
     },
     {
       "manufacturer": "",

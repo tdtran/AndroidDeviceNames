@@ -19,9 +19,21 @@
   },
   {
     "manufacturer": "Miramage",
+    "market_name": "Miramage Smart Display",
+    "codename": "beaudry",
+    "model": "Miramage Smart Display"
+  },
+  {
+    "manufacturer": "Miramage",
     "market_name": "TV3223HDA11SMARTG",
     "codename": "beaudry",
     "model": "Miramage AndroidTV"
+  },
+  {
+    "manufacturer": "SCHNEIDER",
+    "market_name": "SCHNEIDER AndroidTV",
+    "codename": "beaudry",
+    "model": "SCHNEIDER AndroidTV"
   },
   {
     "manufacturer": "Seleco",

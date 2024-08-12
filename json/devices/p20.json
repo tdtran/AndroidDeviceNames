@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "HAOVM",
+    "market_name": "P20",
+    "codename": "P20",
+    "model": "P20"
+  },
+  {
     "manufacturer": "Haier",
     "market_name": "P20",
     "codename": "P20",

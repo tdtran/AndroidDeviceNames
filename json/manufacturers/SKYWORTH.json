@@ -51,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Leap-L1",
+      "codename": "BOS",
+      "model": "TV Stick"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Leap-S2",
       "codename": "YYT",
       "model": "4K Google TV Stick"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Leap-S4",
+      "codename": "YYC",
+      "model": "4K Android TV Box"
     },
     {
       "manufacturer": "",

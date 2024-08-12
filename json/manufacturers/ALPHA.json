@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alpha S6",
+      "codename": "Alpha_S6",
+      "model": "Alpha S6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8T",
       "codename": "ikebukuro",
       "model": "AI PONT"

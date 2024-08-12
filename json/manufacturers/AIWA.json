@@ -16,6 +16,12 @@
     {
       "manufacturer": "",
       "market_name": "AIWA",
+      "codename": "hongkong",
+      "model": "AIWA 4K GOOGLE TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIWA",
       "codename": "lavender",
       "model": "4K SMART TV"
     },
@@ -42,6 +48,12 @@
       "market_name": "AIWA TV",
       "codename": "SW6H",
       "model": "AIWA TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AIWA TV",
+      "codename": "SW6H",
+      "model": "AIWA UHD SMART TV"
     },
     {
       "manufacturer": "",
@@ -171,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JA3-TBA0802",
+      "codename": "JA3-TBA0802",
+      "model": "JA3-TBA0802"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JA3-TBA1005",
       "codename": "JA3-TBA1005",
       "model": "JA3-TBA1005"
@@ -180,6 +198,12 @@
       "market_name": "JA3-TBA1007",
       "codename": "JA3-TBA1007",
       "model": "JA3-TBA1007"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JA4-TBA1008",
+      "codename": "JA4-TBA1008",
+      "model": "JA4-TBA1008"
     },
     {
       "manufacturer": "",
@@ -246,6 +270,12 @@
       "market_name": "TAB-1103",
       "codename": "TAB-1103",
       "model": "TAB-1103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TABLETAWTH801",
+      "codename": "TABLETAWTH801",
+      "model": "AWTH801"
     },
     {
       "manufacturer": "",

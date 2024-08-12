@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MVT_1001",
+      "codename": "MVT_1001",
+      "model": "MVT-1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MVT_1001",
+      "codename": "MVT_1001",
+      "model": "MVT_1001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VisioTab_10",
       "codename": "VisioTab_10",
       "model": "VisioTab 10"

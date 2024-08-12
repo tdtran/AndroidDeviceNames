@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "2-IN-1_Tablet_PC",
+      "codename": "PT10EduPad21",
+      "model": "PT10EduPad21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PT116LPREduPad",
+      "codename": "Laptop",
+      "model": "PT116LPREduPad"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PT7EduPad",
       "codename": "PT7EduPad",
       "model": "PT7EduPad"

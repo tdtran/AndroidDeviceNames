@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SCHNEIDER AndroidTV",
+      "codename": "beaudry",
+      "model": "SCHNEIDER AndroidTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wave 3",
       "codename": "Wave_3",
       "model": "Wave 3"

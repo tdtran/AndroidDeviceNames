@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DT1 Lite",
+      "codename": "DT1_Lite",
+      "model": "DT1 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT1_Lite",
+      "codename": "DT1_Lite",
+      "model": "DT1 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT2",
+      "codename": "DT2",
+      "model": "DT2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F101",
       "codename": "F101",
       "model": "F101"
@@ -12,6 +30,12 @@
       "market_name": "F101",
       "codename": "F101_P",
       "model": "F101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F101 P",
+      "codename": "F101_P",
+      "model": "F101 P"
     },
     {
       "manufacturer": "",
@@ -30,6 +54,30 @@
       "market_name": "F102 ROW",
       "codename": "F102",
       "model": "F102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F105",
+      "codename": "F105",
+      "model": "F105"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F106 Pro EEA",
+      "codename": "F106_Pro",
+      "model": "F106 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F106 Pro ROW",
+      "codename": "F106_Pro",
+      "model": "F106 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 11",
+      "codename": "Tab_11",
+      "model": "Tab 11"
     }
   ]
 }

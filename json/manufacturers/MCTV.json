@@ -1,0 +1,11 @@
+{
+  "manufacturer": "MCTV",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MCIFPD",
+      "codename": "rk3588_t",
+      "model": "MCIFPD"
+    }
+  ]
+}

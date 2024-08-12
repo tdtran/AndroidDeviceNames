@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JTouch Series 13",
+      "codename": "D011",
+      "model": "JTouch_Series_13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LE5039",
       "codename": "BX2",
       "model": "LE5039"

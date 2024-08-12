@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "2E (ERC)",
+    "market_name": "2E 2K Google TV",
+    "codename": "capitolhill",
+    "model": "2E 2K Google TV"
+  },
+  {
     "manufacturer": "ASTEX",
     "market_name": "ASTEX 2K Google TV",
     "codename": "capitolhill",
@@ -16,6 +22,12 @@
     "market_name": "Blaupunkt 2K Google TV",
     "codename": "capitolhill",
     "model": "Blaupunkt 2K Google TV"
+  },
+  {
+    "manufacturer": "Daiwa",
+    "market_name": "2K DATV",
+    "codename": "capitolhill",
+    "model": "2K DATV"
   },
   {
     "manufacturer": "Daiwa",
@@ -82,6 +94,12 @@
     "market_name": "HK 2K Google TV",
     "codename": "capitolhill",
     "model": "HK 2K Google TV"
+  },
+  {
+    "manufacturer": "Kruger\u0026Matz",
+    "market_name": "KM 2K TV",
+    "codename": "capitolhill",
+    "model": "KM 2K TV"
   },
   {
     "manufacturer": "PROTON",

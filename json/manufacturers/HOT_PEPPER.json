@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HPPH88C",
+      "codename": "Cascabel",
+      "model": "HPPH88C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K82A",
       "codename": "K82A",
       "model": "K82A"
@@ -96,6 +102,12 @@
       "market_name": "KT10_EEA",
       "codename": "KT10_EEA",
       "model": "KT10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panca",
+      "codename": "HPPL63A",
+      "model": "HPPL63A"
     },
     {
       "manufacturer": "",

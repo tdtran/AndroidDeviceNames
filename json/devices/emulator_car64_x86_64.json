@@ -1,0 +1,14 @@
+[
+  {
+    "manufacturer": "Google",
+    "market_name": "Google Automotive Emulator",
+    "codename": "emulator_car64_x86_64",
+    "model": "Android SDK built for x86_64"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Google Automotive Emulator",
+    "codename": "emulator_car64_x86_64",
+    "model": "Car on x86_64 emulator"
+  }
+]

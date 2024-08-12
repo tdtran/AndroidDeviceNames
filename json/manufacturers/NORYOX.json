@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Noryox",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Handheld_POS",
+      "codename": "Handheld_POS",
+      "model": "NB55"
+    }
+  ]
+}

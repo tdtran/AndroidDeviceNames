@@ -9,6 +9,18 @@
     "manufacturer": "Xiaomi",
     "market_name": "Xiaomi 14 Ultra",
     "codename": "aurora",
+    "model": "24030PN60G"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 14 Ultra",
+    "codename": "aurora",
+    "model": "24031PN0DC"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi 14 Ultra",
+    "codename": "aurora",
     "model": "Xiaomi for arm64"
   }
 ]

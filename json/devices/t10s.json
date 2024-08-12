@@ -4,5 +4,17 @@
     "market_name": "T10S",
     "codename": "T10S",
     "model": "T10S"
+  },
+  {
+    "manufacturer": "SGIN",
+    "market_name": "T10S",
+    "codename": "T10S",
+    "model": "T10S"
+  },
+  {
+    "manufacturer": "SGIN",
+    "market_name": "T10S_EEA",
+    "codename": "T10S",
+    "model": "T10S"
   }
 ]

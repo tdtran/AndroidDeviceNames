@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixus_Arena",
+      "codename": "Pixus_Arena",
+      "model": "Pixus_Arena"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixus_Blast",
       "codename": "Pixus_Blast",
       "model": "Pixus_Blast"
@@ -57,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixus_Titan",
+      "codename": "Pixus_Titan",
+      "model": "Pixus_Titan"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixus_Touch_7_3G",
       "codename": "Pixus_Touch_7_3G",
       "model": "Pixus_Touch_7_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixus_Wing",
+      "codename": "Pixus_Wing",
+      "model": "Pixus_Wing"
     }
   ]
 }

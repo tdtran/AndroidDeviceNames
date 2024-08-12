@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB1012",
+      "codename": "TAB1012",
+      "model": "TAB1012"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB1081",
       "codename": "TAB1081",
       "model": "TAB1081"

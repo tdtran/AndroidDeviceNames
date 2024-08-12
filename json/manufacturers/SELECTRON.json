@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T101G",
+      "codename": "T101G",
+      "model": "T101G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T856G",
       "codename": "T856G",
       "model": "T856G"

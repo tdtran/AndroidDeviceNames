@@ -15,6 +15,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G10",
+      "codename": "T1_2",
+      "model": "G10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G11",
+      "codename": "P4_2",
+      "model": "G11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G20",
+      "codename": "P1TE",
+      "model": "G20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G8",
+      "codename": "RK3_2",
+      "model": "G8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G8 Kid",
+      "codename": "RK3KID_2",
+      "model": "G8 Kid"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P1",
       "codename": "P1",
       "model": "P1"
@@ -48,6 +78,48 @@
       "market_name": "P4_Pro",
       "codename": "P4_Pro",
       "model": "P4_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Play 10 Pro",
+      "codename": "P3_Mini_TE",
+      "model": "Play 10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Play 11",
+      "codename": "P3F",
+      "model": "Play 11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Play 11 Pro",
+      "codename": "P3_2",
+      "model": "Play 11 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10",
+      "codename": "P3A",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10 Plus",
+      "codename": "P3AE",
+      "model": "Y10 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10 Pro",
+      "codename": "P3D_3",
+      "model": "Y10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10 Ultra",
+      "codename": "P3AS",
+      "model": "Y10 Ultra"
     }
   ]
 }

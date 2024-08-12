@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC69CA2",
       "codename": "GTB801",
       "model": "GTB 801"

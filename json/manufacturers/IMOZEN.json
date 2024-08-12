@@ -1,0 +1,17 @@
+{
+  "manufacturer": "imozen",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TC605AN",
+      "codename": "TC605",
+      "model": "TC605"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC605AW",
+      "codename": "TC605",
+      "model": "TC605"
+    }
+  ]
+}

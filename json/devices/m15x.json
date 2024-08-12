@@ -1,7 +1,7 @@
 [
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy M15 5G",
+    "market_name": "Galaxy F15 5G",
     "codename": "m15x",
     "model": "SM-E156B"
   },
@@ -10,5 +10,11 @@
     "market_name": "Galaxy M15 5G",
     "codename": "m15x",
     "model": "SM-M156B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Wide7",
+    "codename": "m15x",
+    "model": "SM-M156S"
   }
 ]

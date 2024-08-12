@@ -18,6 +18,12 @@
       "market_name": "BS801",
       "codename": "BS801_EEA",
       "model": "BS801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E108GCM",
+      "codename": "E108GCM",
+      "model": "E108GCM"
     }
   ]
 }

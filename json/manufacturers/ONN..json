@@ -117,6 +117,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "onn. 11  Tablet Pro",
+      "codename": "onn11TabletPro",
+      "model": "100146660"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "onn. 12 Tablet  Pro",
+      "codename": "onn12TabletPro",
+      "model": "100146663"
+    },
+    {
+      "manufacturer": "",
       "market_name": "onn. 4K Streaming Box",
       "codename": "YOC",
       "model": "onn. 4K Streaming Box"
@@ -129,9 +141,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "onn_2k_gtv",
+      "market_name": "onn. Full HD Streaming Device",
       "codename": "XNA",
       "model": "onn. Full HD Streaming Device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "onn. Streaming Device 4K pro",
+      "codename": "SNA",
+      "model": "onn. Streaming Device 4K pro"
     }
   ]
 }

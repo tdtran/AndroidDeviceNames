@@ -4,5 +4,11 @@
     "market_name": "A302ZT",
     "codename": "Z6561S",
     "model": "A302ZT"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Z6561J",
+    "codename": "Z6561S",
+    "model": "Z6561J"
   }
 ]

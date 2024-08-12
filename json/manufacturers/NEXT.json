@@ -18,6 +18,12 @@
       "market_name": "NEXT",
       "codename": "zhongshan",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Start-4K",
+      "codename": "YDA",
+      "model": "4K Google TV Box"
     }
   ]
 }

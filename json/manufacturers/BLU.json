@@ -225,6 +225,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BOLD K10",
+      "codename": "K0110",
+      "model": "BOLD K10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BOLD K50",
+      "codename": "K0130",
+      "model": "BOLD K50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BOLD M7",
       "codename": "M0100WW",
       "model": "BOLD M7"
@@ -466,6 +478,12 @@
     {
       "manufacturer": "",
       "market_name": "C5L Max",
+      "codename": "C0175_IW",
+      "model": "C5L Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5L Max",
       "codename": "C0176",
       "model": "C5L Max"
     },
@@ -621,6 +639,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C9",
+      "codename": "C0230",
+      "model": "C9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D10",
       "codename": "D10",
       "model": "D10"
@@ -771,6 +795,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E15",
+      "codename": "E0010",
+      "model": "E15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E20",
       "codename": "E20",
       "model": "E20"
@@ -879,6 +909,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G34",
+      "codename": "G1070",
+      "model": "G34"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G40",
       "codename": "G0730WW",
       "model": "G40"
@@ -894,6 +930,12 @@
       "market_name": "G43",
       "codename": "G0950",
       "model": "G43"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G44",
+      "codename": "G0970",
+      "model": "G44"
     },
     {
       "manufacturer": "",
@@ -1089,6 +1131,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G64",
+      "codename": "G1010",
+      "model": "G64"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G64L",
+      "codename": "G0990",
+      "model": "G64L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G70",
       "codename": "G0151WW",
       "model": "G70"
@@ -1143,6 +1197,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G74",
+      "codename": "G1030",
+      "model": "G74"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G8",
       "codename": "G0160LL",
       "model": "G8"
@@ -1152,6 +1212,12 @@
       "market_name": "G8",
       "codename": "G0170",
       "model": "G8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G84",
+      "codename": "G1050",
+      "model": "G84"
     },
     {
       "manufacturer": "",
@@ -1335,6 +1401,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J5",
+      "codename": "J0210",
+      "model": "J5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J6L",
       "codename": "J0110",
       "model": "J6L"
@@ -1380,6 +1452,12 @@
       "market_name": "J9L",
       "codename": "J0092WW",
       "model": "J9L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K10",
+      "codename": "K0110",
+      "model": "K10"
     },
     {
       "manufacturer": "",

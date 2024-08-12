@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AVALON",
+      "codename": "AVALON",
+      "model": "AVALON"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QuartzLITE",
       "codename": "QuartzLITE",
       "model": "QuartzLITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QuartzPRO",
+      "codename": "QuartzPRO",
+      "model": "QuartzPRO"
     },
     {
       "manufacturer": "",
@@ -60,6 +72,12 @@
       "market_name": "SXPro-P40",
       "codename": "SXPro-P40",
       "model": "SXPro-P40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRAPAD",
+      "codename": "ULTRAPAD",
+      "model": "ULTRAPAD"
     }
   ]
 }

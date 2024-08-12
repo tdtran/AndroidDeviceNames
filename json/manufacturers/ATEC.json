@@ -6,6 +6,12 @@
       "market_name": "APD3",
       "codename": "APD3",
       "model": "APD3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ATEC GRANDE",
+      "codename": "ATEC_IWB",
+      "model": "A8GC"
     }
   ]
 }

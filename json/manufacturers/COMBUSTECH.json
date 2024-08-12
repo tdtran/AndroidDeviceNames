@@ -3,7 +3,7 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Customer need debug",
+      "market_name": "COMBUSTECH-IFPD",
       "codename": "rk3588_t",
       "model": "COMBUS_IB"
     }

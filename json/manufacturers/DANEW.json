@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D809ProPlus",
+      "codename": "D809ProPlus",
+      "model": "D809ProPlus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DSlide 710",
       "codename": "Dslide710",
       "model": "Dslide710"
@@ -150,6 +156,12 @@
       "market_name": "Dslide_1020M",
       "codename": "Dslide_1020M",
       "model": "Dslide_1020M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dslide_1020Pro_EEA",
+      "codename": "Dslide_1020Pro",
+      "model": "Dslide_1020Pro"
     },
     {
       "manufacturer": "",

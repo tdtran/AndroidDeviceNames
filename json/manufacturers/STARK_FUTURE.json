@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ARKENSTONE",
+      "codename": "ARKENSTONE",
+      "model": "ARKENSTONE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VARG",
       "codename": "VARG",
       "model": "VARG"

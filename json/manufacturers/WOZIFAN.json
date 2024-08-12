@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "W10_EEA",
+      "codename": "W10_EEA",
+      "model": "W10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W10_US",
+      "codename": "W10_US",
+      "model": "W10_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W500 _EEA",
       "codename": "W500_EEA",
       "model": "W500_EEA"

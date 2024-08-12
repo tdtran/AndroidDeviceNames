@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q10_T_EEA",
+      "codename": "Q10_T_EEA",
+      "model": "Q10_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q10_T_US",
+      "codename": "Q10_T_US",
+      "model": "Q10_T_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q3-EEA",
       "codename": "Q3-EEA",
       "model": "Q3-EEA"

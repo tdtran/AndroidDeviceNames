@@ -165,6 +165,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Orange Nola XL",
+      "codename": "Nola-ultra",
+      "model": "Orange Nola XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orange Nola fun 3",
+      "codename": "Nola_fun_3",
+      "model": "Orange Nola fun 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Orange Nola play",
       "codename": "Nola_play",
       "model": "Orange Nola play"
@@ -288,6 +300,12 @@
       "market_name": "Roya",
       "codename": "Alto45",
       "model": "Orange Roya"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sanza plus",
+      "codename": "Sanza_plus",
+      "model": "Orange Sanza plus"
     },
     {
       "manufacturer": "",

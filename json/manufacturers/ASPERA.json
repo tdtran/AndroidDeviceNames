@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Buzz",
+      "codename": "Buzz",
+      "model": "Buzz"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GEM",
       "codename": "GEM",
       "model": "GEM"

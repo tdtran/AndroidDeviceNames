@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D3 MINI",
+      "codename": "D3MINI",
+      "model": "D3 MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D3 PRO",
+      "codename": "D3_PRO",
+      "model": "D3 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L2H_EDLA_GL",
       "codename": "SUNMI-L2HNFC",
       "model": "L2H_EDLA_GL"
@@ -78,6 +90,18 @@
       "market_name": "Sunmi V2s",
       "codename": "V2s",
       "model": "V2s_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3 PRO",
+      "codename": "T3_PRO",
+      "model": "T3 Pro Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3 PRO MAX",
+      "codename": "T3_PRO",
+      "model": "T3 Pro Max"
     },
     {
       "manufacturer": "",

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DS_BD4_Pro",
+      "codename": "DS_BD4_Pro",
+      "model": "DS-BD4 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DS_CL1",
       "codename": "DS_CL1",
       "model": "DS-CL1"
@@ -42,6 +48,18 @@
       "market_name": "DS_CL2_Pro",
       "codename": "DS_CL2_Pro",
       "model": "DS-CL2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS_CL4_Lite_C",
+      "codename": "DS_CL4_Lite",
+      "model": "DS-CL4 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS_CL4_Pro",
+      "codename": "DS_CL4_Pro",
+      "model": "DS-CL4 Pro"
     }
   ]
 }

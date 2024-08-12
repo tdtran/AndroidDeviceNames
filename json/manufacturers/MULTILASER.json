@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DI01_M7_WIFI",
+      "codename": "DI01_M7_WIFI",
+      "model": "DI01_M7_WIFI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Discovery",
       "codename": "Discovery",
       "model": "Discovery"
@@ -192,6 +198,12 @@
       "market_name": "M10 4G PRO",
       "codename": "ML_SO1G_M10_4G_PRO",
       "model": "M10_4G_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10 4G T1",
+      "codename": "ML_SO5C_M10_4G_T1",
+      "model": "M10_4G_T1"
     },
     {
       "manufacturer": "",
@@ -622,6 +634,12 @@
     {
       "manufacturer": "",
       "market_name": "M8 4G",
+      "codename": "ML_SO0V_M8_4G",
+      "model": "M8_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8 4G",
       "codename": "ML_SO1J_M8_4G",
       "model": "M8_4G"
     },
@@ -659,6 +677,12 @@
       "manufacturer": "",
       "market_name": "M9 WIFI",
       "codename": "ML_JI0E_M9_WIFI",
+      "model": "M9_WIFI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9 WIFI",
+      "codename": "ML_SO0W_M9_WIFI",
       "model": "M9_WIFI"
     },
     {

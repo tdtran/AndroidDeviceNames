@@ -15,6 +15,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 200",
+      "codename": "HNELI",
+      "model": "ELI-AN00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 200",
+      "codename": "HNELIX",
+      "model": "ELI-NX9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 200 Pro",
+      "codename": "HNELP",
+      "model": "ELP-AN00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 200 Pro",
+      "codename": "HNELPX",
+      "model": "ELP-NX9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR 50",
       "codename": "HNNTH",
       "model": "NTH-NX9"
@@ -179,6 +203,12 @@
       "manufacturer": "",
       "market_name": "HONOR Pad 9",
       "codename": "HNHEY2-Q",
+      "model": "HEY2-N09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad 9",
+      "codename": "HNHEY2-Q",
       "model": "HEY2-W09"
     },
     {
@@ -285,6 +315,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR X6b",
+      "codename": "HNJDY-M1",
+      "model": "JDY-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6b",
+      "codename": "HNJDY-M1",
+      "model": "JDY-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6b",
+      "codename": "HNJDY-M1",
+      "model": "JDY-LX3P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6b Plus",
+      "codename": "HNJDY-M1",
+      "model": "JDY-LX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR X7",
       "codename": "HNCMA-Q",
       "model": "CMA-LX1"
@@ -318,6 +372,12 @@
       "market_name": "HONOR X7a",
       "codename": "HNRKY-M1",
       "model": "RKY-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7b",
+      "codename": "",
+      "model": "CLK-LX1"
     },
     {
       "manufacturer": "",
@@ -453,15 +513,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Honor 200 Lite",
+      "codename": "HNLLY-M1",
+      "model": "LLY-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 200 Lite",
+      "codename": "HNLLY-M1",
+      "model": "LLY-NX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor X9b 5G",
+      "codename": "HNALI-Q",
+      "model": "ALI-NX3P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PORSCHE DESIGN HONOR Magic V2 RSR",
       "codename": "HNVER",
       "model": "VER-N49DP"
     },
     {
       "manufacturer": "",
+      "market_name": "PORSCHE DESIGN HONOR Magic6",
+      "codename": "HNBVL",
+      "model": "BVL-N59"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PORSCHE DESIGN HONOR Magic6 RSR",
+      "codename": "HNBVL",
+      "model": "BVL-AN20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RBN-NX1",
       "codename": "HNRBN-Q",
       "model": "RBN-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "荣耀V Purse",
+      "codename": "HNVCA-Q",
+      "model": "VCA-AN00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "荣耀平板MagicPad2",
+      "codename": "HNROD2-Q",
+      "model": "ROD2-W09"
     }
   ]
 }

@@ -213,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N13",
+      "codename": "S6514LA",
+      "model": "S6514L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N4L",
       "codename": "N4L",
       "model": "N4L"
@@ -354,6 +360,12 @@
       "market_name": "X6mini",
       "codename": "S5704LE",
       "model": "S5704L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7 Plus",
+      "codename": "S6601LA",
+      "model": "S6601L"
     },
     {
       "manufacturer": "",

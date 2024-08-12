@@ -27,15 +27,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K102_A",
+      "codename": "K102_A",
+      "model": "K102_A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K103",
       "codename": "K103",
       "model": "K103"
     },
     {
       "manufacturer": "",
+      "market_name": "K103A",
+      "codename": "K103A",
+      "model": "K103A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K4",
       "codename": "K4",
       "model": "K4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K80",
+      "codename": "K80",
+      "model": "K80"
     },
     {
       "manufacturer": "",
@@ -63,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V10M",
+      "codename": "V10M",
+      "model": "V10M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10S",
       "codename": "V10S",
       "model": "V10S"
@@ -78,6 +102,12 @@
       "market_name": "V11",
       "codename": "V11",
       "model": "V11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V8",
+      "codename": "V8_A",
+      "model": "V8"
     },
     {
       "manufacturer": "",

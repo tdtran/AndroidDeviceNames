@@ -114,6 +114,12 @@
       "market_name": "PM90",
       "codename": "pm90",
       "model": "PM90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PM95",
+      "codename": "PM95",
+      "model": "PM95"
     }
   ]
 }

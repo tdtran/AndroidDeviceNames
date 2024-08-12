@@ -66,6 +66,12 @@
       "market_name": "IKON 4K Google TV",
       "codename": "keoneae",
       "model": "IKON 4K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IK_WA024",
+      "codename": "IK_WA024",
+      "model": "IK_WA024"
     }
   ]
 }

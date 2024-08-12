@@ -25,6 +25,12 @@
   },
   {
     "manufacturer": "CAIXUN",
+    "market_name": "Dreamstar 4K SMART TV",
+    "codename": "marina",
+    "model": "Dreamstar 4K SMART TV"
+  },
+  {
+    "manufacturer": "CAIXUN",
     "market_name": "EXPRESS",
     "codename": "marina",
     "model": "Apollo Premium4K TV"
@@ -40,12 +46,6 @@
     "market_name": "MAXWELL SMART TV",
     "codename": "marina",
     "model": "MAXWELL SMART TV"
-  },
-  {
-    "manufacturer": "CAIXUN",
-    "market_name": "Newal 4K SMART TV",
-    "codename": "marina",
-    "model": "Newal 4K SMART TV"
   },
   {
     "manufacturer": "CAIXUN",
@@ -160,6 +160,12 @@
     "market_name": "Thailand",
     "codename": "marina",
     "model": "Nano 4K SMART TV"
+  },
+  {
+    "manufacturer": "Newal",
+    "market_name": "Newal 4K SMART TV",
+    "codename": "marina",
+    "model": "Newal 4K SMART TV"
   },
   {
     "manufacturer": "Nokia",

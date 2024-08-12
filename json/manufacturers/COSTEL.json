@@ -1,0 +1,11 @@
+{
+  "manufacturer": "COSTEL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M16",
+      "codename": "M16",
+      "model": "M16"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Pulsaris",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Fresh",
+      "codename": "Fresh",
+      "model": "Fresh"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pluma",
+      "codename": "Pluma",
+      "model": "Pluma"
+    }
+  ]
+}

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bears",
+      "codename": "Bears",
+      "model": "Bears"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PROTON_AMBER_HD",
       "codename": "Proton_Amber_HD",
       "model": "Proton_Amber_HD"
@@ -18,6 +24,18 @@
       "market_name": "PRO_BOOK",
       "codename": "PRO_BOOK",
       "model": "PRO_BOOK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Probook_E_L-10",
+      "codename": "Probook_E_L-10",
+      "model": "Probook_E_L-10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Probook_E_M-10",
+      "codename": "Probook_E_M-10",
+      "model": "Probook_E_M-10"
     },
     {
       "manufacturer": "",
@@ -96,6 +114,12 @@
       "market_name": "X_ViewTablet10",
       "codename": "X_ViewTablet10",
       "model": "X-ViewTablet"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xview_tablet_7",
+      "codename": "Xview_tablet_7",
+      "model": "Xview_tablet_7"
     }
   ]
 }

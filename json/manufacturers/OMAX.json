@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "7PAN",
+      "codename": "7PAN",
+      "model": "7PAN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OMAX-IFPD",
       "codename": "rk3588_t",
       "model": "HANJI"

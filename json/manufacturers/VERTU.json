@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "METAFLIP",
+      "codename": "VTL-202302",
+      "model": "VTL-202302"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Signature Touch",
       "codename": "odin",
       "model": "Signature Touch"

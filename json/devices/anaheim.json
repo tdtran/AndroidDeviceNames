@@ -12,6 +12,12 @@
     "model": "JVC 4K Smart TV Plus"
   },
   {
+    "manufacturer": "JVC",
+    "market_name": "JVC G24 TV",
+    "codename": "anaheim",
+    "model": "JVC G24 TV"
+  },
+  {
     "manufacturer": "PRISMPLUS",
     "market_name": "4K Smart TV Plus",
     "codename": "anaheim",
@@ -43,6 +49,12 @@
   },
   {
     "manufacturer": "SWTV",
+    "market_name": "SWTV-22HK-4K",
+    "codename": "anaheim",
+    "model": "SWTV-22HK-4K"
+  },
+  {
+    "manufacturer": "SWTV",
     "market_name": "SWTV-22HK-4K NF",
     "codename": "anaheim",
     "model": "SWTV-22HK-4K NF"
@@ -70,6 +82,30 @@
     "market_name": "SWTV-22TW-4K",
     "codename": "anaheim",
     "model": "SWTV-22TW-4K"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP 4K TV",
+    "codename": "anaheim",
+    "model": "SHARP 4K TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP 4K TVH",
+    "codename": "anaheim",
+    "model": "SHARP 4K TVH"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP 4K TVT",
+    "codename": "anaheim",
+    "model": "SHARP 4K TV"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "SHARP 4K TVT",
+    "codename": "anaheim",
+    "model": "SHARP 4K TVT"
   },
   {
     "manufacturer": "Singer",

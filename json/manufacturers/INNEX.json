@@ -1,0 +1,11 @@
+{
+  "manufacturer": "innex",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Meeting_hub_EU",
+      "codename": "EU_3588",
+      "model": "EU"
+    }
+  ]
+}

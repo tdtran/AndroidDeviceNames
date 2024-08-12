@@ -34,6 +34,18 @@
     {
       "manufacturer": "",
       "market_name": "Google TV",
+      "codename": "burbank",
+      "model": "4K PA Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
+      "codename": "kannai",
+      "model": "2K JP Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
       "codename": "lakeside",
       "model": "4K COL Google TV"
     },
@@ -84,6 +96,12 @@
       "market_name": "Google TV",
       "codename": "nagai",
       "model": "2K US Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
+      "codename": "nagai",
+      "model": "POLYTRON 2K"
     },
     {
       "manufacturer": "",

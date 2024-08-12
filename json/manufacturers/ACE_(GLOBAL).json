@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AS0124",
+      "codename": "BUZZ_5_Lite",
+      "model": "BUZZ 5 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS0224",
+      "codename": "BUZZ_5_Prime",
+      "model": "BUZZ 5 Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS0324",
+      "codename": "BUZZ_5_Note",
+      "model": "BUZZ 5 Note"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS0623",
       "codename": "BUZZ_4_Note",
       "model": "BUZZ 4 Note"
@@ -36,6 +54,12 @@
       "market_name": "BUZZ 4 Ultra",
       "codename": "BUZZ_4_Ultra",
       "model": "BUZZ 4 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 5 Ultra",
+      "codename": "BUZZ_5_Ultra",
+      "model": "BUZZ 5 Ultra"
     },
     {
       "manufacturer": "",

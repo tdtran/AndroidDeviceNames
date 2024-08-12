@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEIZU 21 Note",
+      "codename": "Meizu21Note",
+      "model": "MEIZU 21 Note"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Meizu 6T",
       "codename": "Meizu6T",
       "model": "Meizu 6T"

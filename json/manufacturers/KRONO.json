@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NET_X2",
+      "codename": "NET_X2",
+      "model": "NET_X2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Net_Max_Go",
       "codename": "Net_Max_Go",
       "model": "Net_Max_Go"

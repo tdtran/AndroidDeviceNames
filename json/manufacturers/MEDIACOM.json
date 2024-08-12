@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AZIMUT_4",
+      "codename": "AZIMUT_4",
+      "model": "AZIMUT_4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G5M",
       "codename": "M-PPxG5M",
       "model": "M-PPxG5M"

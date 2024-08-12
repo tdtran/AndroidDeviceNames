@@ -909,6 +909,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X10_Soul_EEA",
+      "codename": "X10_Soul",
+      "model": "X10_Soul"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X10_Soul_Lite",
       "codename": "X10_Soul_Lite",
       "model": "X10_Soul_Lite"
@@ -960,6 +966,12 @@
       "market_name": "X2 Soul Xtreme",
       "codename": "X2_Soul_Xtreme",
       "model": "X2_Soul_Xtreme"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X20_Soul_EEA",
+      "codename": "X20_Soul",
+      "model": "X20_Soul"
     },
     {
       "manufacturer": "",

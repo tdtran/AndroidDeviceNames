@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M50",
+      "codename": "M50",
+      "model": "M50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "T10",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T50_2023",
       "codename": "T50_2023",
       "model": "T50_2023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T60PRO",
+      "codename": "T60PRO_ROW",
+      "model": "T60PRO_ROW"
     },
     {
       "manufacturer": "",

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M65",
+      "codename": "M65P",
+      "model": "M65P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS5314G",
       "codename": "MS5314G",
       "model": "MS5314G"
@@ -72,6 +78,18 @@
       "market_name": "MS5614G",
       "codename": "MS5614G",
       "model": "MS5614G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS650G",
+      "codename": "MS650G",
+      "model": "MS650G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SM4T",
+      "codename": "SM4T",
+      "model": "SM4T"
     },
     {
       "manufacturer": "",

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "REDMAGIC 9",
+    "codename": "NX769J",
+    "model": "NX769J"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "REDMAGIC 9 Pro",
     "codename": "NX769J",
     "model": "NX769J"

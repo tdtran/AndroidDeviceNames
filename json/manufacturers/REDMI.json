@@ -291,6 +291,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 13",
+      "codename": "moon",
+      "model": "24040RN64Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 13 5G",
+      "codename": "breeze",
+      "model": "2406ERN9CI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 13C",
       "codename": "gale",
       "model": "23100RN82L"
@@ -318,6 +330,12 @@
       "market_name": "Redmi 13C 5G",
       "codename": "air",
       "model": "23124RN87I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 13C 5G",
+      "codename": "atmos",
+      "model": "23124RN87G"
     },
     {
       "manufacturer": "",
@@ -567,6 +585,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi A3x",
+      "codename": "klein",
+      "model": "24044RN32L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A3x",
+      "codename": "klein",
+      "model": "24048RN6CG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi A3x",
+      "codename": "klein",
+      "model": "24048RN6CI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi K20",
       "codename": "davinci",
       "model": "Mi 9T"
@@ -711,6 +747,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi K70",
+      "codename": "vermeer",
+      "model": "23113RKC6C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K70 Pro",
+      "codename": "manet",
+      "model": "23117RK66C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K70 Ultra",
+      "codename": "rothko",
+      "model": "2407FRK8EC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi K70E",
+      "codename": "duchamp",
+      "model": "2311DRK48C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 10",
       "codename": "camellia",
       "model": "M2103K19C"
@@ -773,6 +833,12 @@
       "manufacturer": "",
       "market_name": "Redmi Note 10S",
       "codename": "maltose",
+      "model": "M2101K7BL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 10S",
+      "codename": "rosemary",
       "model": "M2101K7BL"
     },
     {
@@ -1120,6 +1186,12 @@
     {
       "manufacturer": "",
       "market_name": "Redmi Note 13 Pro 5G",
+      "codename": "XIG05",
+      "model": "XIG05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro 5G",
       "codename": "garnet",
       "model": "2312CRAD3C"
     },
@@ -1158,6 +1230,18 @@
       "market_name": "Redmi Note 13 Pro+ 5G",
       "codename": "zircon",
       "model": "23090RA98I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13 Pro+ 5G",
+      "codename": "zircon",
+      "model": "24040RA98R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Note 13R",
+      "codename": "breeze",
+      "model": "2406ERN9CC"
     },
     {
       "manufacturer": "",
@@ -1317,6 +1401,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Pad Pro",
+      "codename": "dizi",
+      "model": "2405CRPFDC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad Pro",
+      "codename": "dizi",
+      "model": "2405CRPFDG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad Pro",
+      "codename": "dizi",
+      "model": "2405CRPFDI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad Pro 5G",
+      "codename": "ruan",
+      "model": "24074RPD2C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad SE",
+      "codename": "xun",
+      "model": "23073RPBFC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Pad SE",
       "codename": "xun",
       "model": "23073RPBFG"
@@ -1326,6 +1440,12 @@
       "market_name": "Redmi Pad SE",
       "codename": "xun",
       "model": "23073RPBFL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Turbo 3",
+      "codename": "peridot",
+      "model": "24069RA21C"
     },
     {
       "manufacturer": "",

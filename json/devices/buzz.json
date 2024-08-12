@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Aspera",
+    "market_name": "Buzz",
+    "codename": "Buzz",
+    "model": "Buzz"
+  },
+  {
     "manufacturer": "HTC",
     "market_name": "Wildfire",
     "codename": "buzz",

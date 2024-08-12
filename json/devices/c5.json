@@ -6,6 +6,24 @@
     "model": "C5"
   },
   {
+    "manufacturer": "CHAINWAY",
+    "market_name": "C5_EEA",
+    "codename": "C5",
+    "model": "C5"
+  },
+  {
+    "manufacturer": "CHAINWAY",
+    "market_name": "C5_GL",
+    "codename": "C5",
+    "model": "C5"
+  },
+  {
+    "manufacturer": "COLORROOM",
+    "market_name": "C5",
+    "codename": "C5",
+    "model": "C5"
+  },
+  {
     "manufacturer": "CORN",
     "market_name": "C5",
     "codename": "C5",

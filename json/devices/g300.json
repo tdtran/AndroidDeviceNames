@@ -4,5 +4,11 @@
     "market_name": "GM10",
     "codename": "G300",
     "model": "G300"
+  },
+  {
+    "manufacturer": "Nomu",
+    "market_name": "G300",
+    "codename": "G300",
+    "model": "G300"
   }
 ]

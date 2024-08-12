@@ -1083,6 +1083,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT101FHD2WF_EEA",
+      "codename": "act101fhd2wf",
+      "model": "ARCHOS T101 FHD2 WIFI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alba 10",
       "codename": "ac101cplv3",
       "model": "ALBA 10 TABLET"

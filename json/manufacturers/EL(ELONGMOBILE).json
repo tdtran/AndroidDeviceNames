@@ -1,0 +1,17 @@
+{
+  "manufacturer": "EL(elongmobile)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Pad-S11",
+      "codename": "Pad-S11",
+      "model": "Pad-S11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_S7",
+      "codename": "Pad_S7",
+      "model": "Pad_S7"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M6 Plus 5G",
+    "codename": "breeze",
+    "model": "24066PC95I"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 13 5G",
+    "codename": "breeze",
+    "model": "2406ERN9CI"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 13R",
+    "codename": "breeze",
+    "model": "2406ERN9CC"
+  }
+]

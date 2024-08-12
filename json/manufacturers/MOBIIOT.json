@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MobiGo",
+      "codename": "WM19",
+      "model": "WM19"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MobiGo 2+",
       "codename": "MobiGo2P",
       "model": "MobiGo2P"
@@ -30,6 +36,12 @@
       "market_name": "MobiGo 2+ Pro",
       "codename": "MobiGo2PP",
       "model": "MobiGo2PP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MobiPrint 5",
+      "codename": "MP5",
+      "model": "MP5"
     },
     {
       "manufacturer": "",

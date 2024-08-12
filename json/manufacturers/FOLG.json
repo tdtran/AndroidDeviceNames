@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FOLG_Tab_10s",
+      "codename": "FOLG_Tab_10s",
+      "model": "S20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KS20",
       "codename": "KS20",
       "model": "KidS Prime 1"

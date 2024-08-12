@@ -5,6 +5,12 @@
       "manufacturer": "",
       "market_name": "2K DATV",
       "codename": "capitolhill",
+      "model": "2K DATV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "2K DATV",
+      "codename": "capitolhill",
       "model": "Daiwa 2K Google TV"
     },
     {
@@ -23,7 +29,25 @@
       "manufacturer": "",
       "market_name": "4K DATV-Z",
       "codename": "keoneae",
+      "model": "4K DATV-Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4K DATV-Z",
+      "codename": "keoneae",
       "model": "Daiwa 4K Google TV-Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAIWA",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAIWA",
+      "codename": "mountbaker",
+      "model": "DAIWA 2K SMART TV"
     }
   ]
 }

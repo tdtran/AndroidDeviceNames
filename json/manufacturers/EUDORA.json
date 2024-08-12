@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E62 Plus",
+      "codename": "E62Plus",
+      "model": "E62 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EudoraE65Pro",
       "codename": "E65Pro",
       "model": "E65 Pro"

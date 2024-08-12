@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Fitbit",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Fitbit Ace LTE",
+      "codename": "p11",
+      "model": "Fitbit Ace LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fitbit Ace LTE",
+      "codename": "p11",
+      "model": "P11"
+    }
+  ]
+}

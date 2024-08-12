@@ -291,6 +291,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI_A14",
+      "codename": "INOI_A14",
+      "model": "A140"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_A14E",
+      "codename": "INOI_A14",
+      "model": "A140"
+    },
+    {
+      "manufacturer": "",
       "market_name": "easyphone",
       "codename": "easyphone",
       "model": "INOI easyphone"
@@ -300,6 +312,18 @@
       "market_name": "inoiPad",
       "codename": "inoiPad",
       "model": "inoiPad 2+32 Wi-Fi+3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "inoiPad_Pro",
+      "codename": "inoiPad_Pro",
+      "model": "inoiPad Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "inoiPad_Pro",
+      "codename": "inoiPad_Pro",
+      "model": "inoiPad_Pro"
     },
     {
       "manufacturer": "",

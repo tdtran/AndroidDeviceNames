@@ -6,6 +6,12 @@
       "market_name": "Smart TV",
       "codename": "redwood",
       "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TLPAD001",
+      "codename": "TLPAD001",
+      "model": "TLPAD001"
     }
   ]
 }

@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GA8N2",
+      "codename": "GA8N2",
+      "model": "GA8N2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA",
       "codename": "stanford",
       "model": "SMART TV"
@@ -114,6 +120,42 @@
       "market_name": "GK133",
       "codename": "GK133",
       "model": "GK133"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133M3",
+      "codename": "GK133M3",
+      "model": "GK133M3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133N3",
+      "codename": "GK133N3",
+      "model": "GK133N3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133S3",
+      "codename": "GK133S3",
+      "model": "GK133S3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133T3",
+      "codename": "GK133T3",
+      "model": "GK133T3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133V3",
+      "codename": "GK133V3",
+      "model": "GK133V3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK523A24",
+      "codename": "GK523A24",
+      "model": "GK523A24"
     },
     {
       "manufacturer": "",
@@ -216,6 +258,12 @@
       "market_name": "GTVR10S",
       "codename": "GTVR10S",
       "model": "GTVR10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GVLTE13",
+      "codename": "GVLTE13",
+      "model": "GVLTE"
     },
     {
       "manufacturer": "",

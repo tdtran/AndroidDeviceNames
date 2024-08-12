@@ -12,6 +12,12 @@
       "market_name": "Nova_Phab_M9",
       "codename": "Nova_Phab_M9",
       "model": "Nova_Phab_M9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "sooka-TV-v1",
+      "codename": "sooka-TV_v1",
+      "model": "sooka-TV-v1"
     }
   ]
 }

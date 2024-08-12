@@ -267,6 +267,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V51",
+      "codename": "V51",
+      "model": "V51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V8",
       "codename": "V8",
       "model": "V8"

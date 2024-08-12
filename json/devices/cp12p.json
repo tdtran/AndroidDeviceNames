@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Coolpad",
+    "market_name": "CP12P",
+    "codename": "CP12p",
+    "model": "CP12p"
+  },
+  {
+    "manufacturer": "Coolpad",
     "market_name": "CP12p_S0",
     "codename": "CP12p",
     "model": "CP12p"

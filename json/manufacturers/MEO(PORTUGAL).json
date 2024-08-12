@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEOBox 4K VSB",
+      "codename": "VSB3918-MEO",
+      "model": "MEOBox 4K (VSB3918)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MEOBox 4K v2",
       "codename": "DIW377-MEO",
       "model": "MEO TV Box 4K (DIW377)"

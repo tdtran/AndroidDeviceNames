@@ -10,5 +10,11 @@
     "market_name": "RT10A",
     "codename": "TA60A-L1-C",
     "model": "TA60A"
+  },
+  {
+    "manufacturer": "Honeywell",
+    "market_name": "RT60A",
+    "codename": "TA60A-L1-C",
+    "model": "TA60A"
   }
 ]

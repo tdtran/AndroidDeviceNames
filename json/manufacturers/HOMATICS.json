@@ -45,12 +45,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Nova",
-      "codename": "YYZ",
-      "model": "Nova"
-    },
-    {
-      "manufacturer": "",
       "market_name": "SEI600HM",
       "codename": "HND",
       "model": "Box Q"
@@ -60,6 +54,12 @@
       "market_name": "SEI700HMG",
       "codename": "SEI700HMG",
       "model": "Dongle 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stick 4K",
+      "codename": "YZF",
+      "model": "Stick 4K"
     },
     {
       "manufacturer": "",

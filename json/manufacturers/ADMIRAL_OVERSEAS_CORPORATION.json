@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Admiral",
+      "codename": "anglelake",
+      "model": "ADS41F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Admiral",
+      "codename": "waiawa",
+      "model": "ADS51U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C7",
       "codename": "C7",
       "model": "C7"

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "55QMP",
+      "codename": "hengshan",
+      "model": "VU TV FFM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android TV",
       "codename": "longshan",
       "model": "AI PONT"

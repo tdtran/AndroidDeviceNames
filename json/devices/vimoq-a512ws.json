@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "VIMOQ",
+    "market_name": "A18",
+    "codename": "VIMOQ-A512WS",
+    "model": "VIMOQ A512WS"
+  },
+  {
+    "manufacturer": "VIMOQ",
     "market_name": "itel A18",
     "codename": "VIMOQ-A512WS",
     "model": "VIMOQ A512WS"

@@ -9,9 +9,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V20 SE",
+      "codename": "VILLAON_V20_SE",
+      "model": "VILLAON V501W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V30 RS",
       "codename": "VILLAON-V30-RS",
       "model": "VILLAON V6751L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VILLAON V30",
+      "codename": "V30",
+      "model": "VILLAON V30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VILLAON V30",
+      "codename": "VILLAON-V30",
+      "model": "VILLAON V30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VILLAON_V20_S",
+      "codename": "VILLAON_V20_SE",
+      "model": "VILLAON V501W"
     }
   ]
 }

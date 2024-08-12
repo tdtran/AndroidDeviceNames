@@ -93,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M100",
+      "codename": "M100",
+      "model": "M100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M100C",
+      "codename": "M100C",
+      "model": "M100C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50",
       "codename": "M50",
       "model": "M50"

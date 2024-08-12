@@ -39,6 +39,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT1016BBK",
+      "codename": "AT1016BBK",
+      "model": "T50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1016E",
+      "codename": "AT1016E",
+      "model": "T50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT1016U",
+      "codename": "AT1016U",
+      "model": "Tab6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT1031E",
       "codename": "AT1031E",
       "model": "AT1031E"

@@ -30,12 +30,6 @@
     "model": "MAXWELL SMART TV"
   },
   {
-    "manufacturer": "CAIXUN",
-    "market_name": "Newal 2K SMART TV",
-    "codename": "nagata",
-    "model": "Newal 2K SMART TV"
-  },
-  {
     "manufacturer": "Compaq",
     "market_name": "COMPAQ SMART TV",
     "codename": "nagata",
@@ -136,6 +130,12 @@
     "market_name": "Thailand",
     "codename": "nagata",
     "model": "Nano 2K SMART TV"
+  },
+  {
+    "manufacturer": "Newal",
+    "market_name": "Newal 2K SMART TV",
+    "codename": "nagata",
+    "model": "Newal 2K SMART TV"
   },
   {
     "manufacturer": "Nokia",

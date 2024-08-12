@@ -1,8 +1,20 @@
 [
   {
     "manufacturer": "Mobiwire",
+    "market_name": "Awadjidjè",
+    "codename": "H5111",
+    "model": "Awadjidje"
+  },
+  {
+    "manufacturer": "Mobiwire",
     "market_name": "H5111",
     "codename": "H5111",
     "model": "H5111"
+  },
+  {
+    "manufacturer": "Mobiwire",
+    "market_name": "H5111",
+    "codename": "H5111",
+    "model": "Kicka 6 Plus 4G"
   }
 ]

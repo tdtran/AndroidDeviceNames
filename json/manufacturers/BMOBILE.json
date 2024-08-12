@@ -1162,6 +1162,12 @@
     {
       "manufacturer": "",
       "market_name": "Ultra",
+      "codename": "Bmobile_ULTRA",
+      "model": "ULTRA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra",
       "codename": "Bmobile_ULTRA_TG07",
       "model": "ULTRA"
     },

@@ -4,5 +4,11 @@
     "market_name": "ZTE Blade V50 Vita",
     "codename": "P606F09",
     "model": "ZTE 8550"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "nubia V50 Vita",
+    "codename": "P606F09",
+    "model": "nubia 8550"
   }
 ]

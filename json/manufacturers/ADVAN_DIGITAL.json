@@ -315,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB_A8_PLUS",
+      "codename": "ADVAN_TAB_A8_PLUS",
+      "model": "8004"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X7 Max",
       "codename": "X7_Max",
       "model": "7301"

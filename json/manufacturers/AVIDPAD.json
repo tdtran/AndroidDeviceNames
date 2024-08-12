@@ -1,0 +1,23 @@
+{
+  "manufacturer": "AvidPad",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A30",
+      "codename": "A30",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A30PRO",
+      "codename": "A30PRO",
+      "model": "A30PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S30",
+      "codename": "S30",
+      "model": "S30"
+    }
+  ]
+}

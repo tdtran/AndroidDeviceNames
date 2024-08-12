@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T618",
+      "codename": "T618",
+      "model": "T618"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TB02",
       "codename": "TB02",
       "model": "TB02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB02_E",
+      "codename": "TB02_E",
+      "model": "TB02_E"
     }
   ]
 }

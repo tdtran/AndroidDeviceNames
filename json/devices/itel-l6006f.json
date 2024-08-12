@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "itel  A48",
+    "codename": "itel-L6006F",
+    "model": "itel L6006F"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel L6006F",
     "codename": "itel-L6006F",
     "model": "itel L6006F"

@@ -771,6 +771,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A06",
+      "codename": "a06",
+      "model": "SM-A065F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A06",
+      "codename": "a06",
+      "model": "SM-A065M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A10",
       "codename": "a10",
       "model": "SM-A105F"
@@ -2614,6 +2626,18 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy A55 5G",
+      "codename": "SC-53E",
+      "model": "SC-53E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A55 5G",
+      "codename": "SCG27",
+      "model": "SCG27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A55 5G",
       "codename": "a55x",
       "model": "SM-A5560"
     },
@@ -3897,6 +3921,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Buddy3",
+      "codename": "a15x",
+      "model": "SM-A156L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy C5",
       "codename": "c5ltechn",
       "model": "SM-C5000"
@@ -3924,6 +3954,12 @@
       "market_name": "Galaxy C5 Pro",
       "codename": "c5proltechn",
       "model": "SM-C5018"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy C55 5G",
+      "codename": "m55xq",
+      "model": "SM-C5560"
     },
     {
       "manufacturer": "",
@@ -4629,6 +4665,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy F15 5G",
+      "codename": "m15x",
+      "model": "SM-E156B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy F22",
       "codename": "f22",
       "model": "SM-E225F"
@@ -4668,6 +4710,12 @@
       "market_name": "Galaxy F54 5G",
       "codename": "m54x",
       "model": "SM-E546B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy F55 5G",
+      "codename": "m55xq",
+      "model": "SM-E556B"
     },
     {
       "manufacturer": "",
@@ -7085,12 +7133,6 @@
       "manufacturer": "",
       "market_name": "Galaxy M15 5G",
       "codename": "m15x",
-      "model": "SM-E156B"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy M15 5G",
-      "codename": "m15x",
       "model": "SM-M156B"
     },
     {
@@ -7245,6 +7287,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy M35 5G",
+      "codename": "m35x",
+      "model": "SM-M356B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy M40",
       "codename": "m40",
       "model": "SM-M405F"
@@ -7284,18 +7332,6 @@
       "market_name": "Galaxy M54 5G",
       "codename": "m54x",
       "model": "SM-M546B"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy M55 5G",
-      "codename": "m55xq",
-      "model": "SM-C5560"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy M55 5G",
-      "codename": "m55xq",
-      "model": "SM-E556B"
     },
     {
       "manufacturer": "",
@@ -11170,8 +11206,26 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S24",
+      "codename": "SC-51E",
+      "model": "SC-51E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S24",
+      "codename": "SCG25",
+      "model": "SCG25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S24",
       "codename": "e1q",
       "model": "SM-S9210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S24",
+      "codename": "e1q",
+      "model": "SM-S921Q"
     },
     {
       "manufacturer": "",
@@ -11206,6 +11260,18 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S24 Ultra",
+      "codename": "SC-52E",
+      "model": "SC-52E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S24 Ultra",
+      "codename": "SCG26",
+      "model": "SCG26"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S24 Ultra",
       "codename": "e3q",
       "model": "SM-S9280"
     },
@@ -11220,6 +11286,12 @@
       "market_name": "Galaxy S24 Ultra",
       "codename": "e3q",
       "model": "SM-S928N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S24 Ultra",
+      "codename": "e3q",
+      "model": "SM-S928Q"
     },
     {
       "manufacturer": "",
@@ -15142,6 +15214,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab S6 Lite",
+      "codename": "gta4xlswifi",
+      "model": "SM-P620"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S6 Lite",
       "codename": "gta4xlve",
       "model": "SM-P619"
     },
@@ -16503,6 +16581,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Watch FE",
+      "codename": "lucky7bs",
+      "model": "SM-R861"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch Ultra",
+      "codename": "projectx2ul",
+      "model": "SM-L7050"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch Ultra",
+      "codename": "projectx2ul",
+      "model": "SM-L705F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch Ultra",
+      "codename": "projectx2ul",
+      "model": "SM-L705N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch Ultra",
+      "codename": "projectx2ul",
+      "model": "SM-L705U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Watch4",
       "codename": "freshbl",
       "model": "SM-R870"
@@ -16791,6 +16899,60 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7bl",
+      "model": "SM-L310"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7bs",
+      "model": "SM-L300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7ul",
+      "model": "SM-L3150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7ul",
+      "model": "SM-L315F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7ul",
+      "model": "SM-L315N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7ul",
+      "model": "SM-L315U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7us",
+      "model": "SM-L305F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7us",
+      "model": "SM-L305N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch7",
+      "codename": "fresh7us",
+      "model": "SM-L305U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Wide",
       "codename": "on7nlteskt",
       "model": "SM-G600S"
@@ -16818,6 +16980,12 @@
       "market_name": "Galaxy Wide5",
       "codename": "f42x",
       "model": "SM-E426S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Wide7",
+      "codename": "m15x",
+      "model": "SM-M156S"
     },
     {
       "manufacturer": "",
@@ -17499,6 +17667,60 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "SC-54E",
+      "model": "SC-54E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "SCG29",
+      "model": "SCG29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "b6q",
+      "model": "SM-F7410"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "b6q",
+      "model": "SM-F741B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "b6q",
+      "model": "SM-F741N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "b6q",
+      "model": "SM-F741Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "b6q",
+      "model": "SM-F741U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "b6q",
+      "model": "SM-F741U1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Flip6",
+      "codename": "b6q",
+      "model": "SM-F741W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Z Fold2 5G",
       "codename": "f2q",
       "model": "SM-F9160"
@@ -17688,6 +17910,60 @@
       "market_name": "Galaxy Z Fold5",
       "codename": "q5q",
       "model": "SM-F946W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "SC-55E",
+      "model": "SC-55E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "SCG28",
+      "model": "SCG28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "q6q",
+      "model": "SM-F9560"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "q6q",
+      "model": "SM-F956B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "q6q",
+      "model": "SM-F956N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "q6q",
+      "model": "SM-F956Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "q6q",
+      "model": "SM-F956U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "q6q",
+      "model": "SM-F956U1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Z Fold6",
+      "codename": "q6q",
+      "model": "SM-F956W"
     },
     {
       "manufacturer": "",

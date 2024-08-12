@@ -72,6 +72,12 @@
       "market_name": "CS45XA_EEA",
       "codename": "CS45XA_EEA",
       "model": "CS45XA_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ORSY_Controller",
+      "codename": "ORSY_Controller",
+      "model": "ORSY_Controller"
     }
   ]
 }

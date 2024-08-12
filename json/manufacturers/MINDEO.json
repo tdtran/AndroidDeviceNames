@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M50_EEA",
+      "codename": "M50_EEA",
+      "model": "M50_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS8389",
       "codename": "MS8389",
       "model": "MS8389"

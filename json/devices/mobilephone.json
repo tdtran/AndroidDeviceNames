@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Ipro",
+    "market_name": "Amber5S_Pro",
+    "codename": "Mobilephone",
+    "model": "Amber5S_Pro"
+  },
+  {
+    "manufacturer": "Ipro",
     "market_name": "Y300",
     "codename": "Mobilephone",
     "model": "Y300"

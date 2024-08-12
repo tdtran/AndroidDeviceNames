@@ -22,5 +22,11 @@
     "market_name": "LUNA_G6",
     "codename": "G6",
     "model": "LUNA G6"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "UMIDIGI G6",
+    "codename": "G6",
+    "model": "PG2311GBA"
   }
 ]

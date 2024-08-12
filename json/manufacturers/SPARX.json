@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Edge 20",
+      "codename": "Edge_20",
+      "model": "Edge 20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Edge 20 Pro",
       "codename": "Sparx_Edge_20_Pro",
       "model": "Edge 20 Pro"
@@ -12,6 +18,12 @@
       "market_name": "NEO 5",
       "codename": "NEO5",
       "model": "NEO 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEO 9",
+      "codename": "Sparx_NEO_9",
+      "model": "Sparx NEO 9"
     },
     {
       "manufacturer": "",
@@ -60,6 +72,12 @@
       "market_name": "Neo_X",
       "codename": "Neo_X",
       "model": "Neo X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 12",
+      "codename": "Note_12",
+      "model": "Note 12"
     },
     {
       "manufacturer": "",
@@ -120,6 +138,54 @@
       "market_name": "Sparx Neo 8 Pro",
       "codename": "Neo_8_Pro",
       "model": "Sparx Neo 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sparx Ultra 8i",
+      "codename": "Ultra_8i",
+      "model": "Ultra 8i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra 11",
+      "codename": "Ultra_11",
+      "model": "Ultra 11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra 8",
+      "codename": "Ultra8",
+      "model": "Ultra 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra 8",
+      "codename": "Ultra_8",
+      "model": "Ultra 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra 8 Pro",
+      "codename": "Ultra8Pro",
+      "model": "Ultra 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra 8 Pro",
+      "codename": "Ultra_8_Pro",
+      "model": "Ultra 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V5",
+      "codename": "Sparx_V5",
+      "model": "Sparx V5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V7",
+      "codename": "Sparx_V7",
+      "model": "V7"
     }
   ]
 }

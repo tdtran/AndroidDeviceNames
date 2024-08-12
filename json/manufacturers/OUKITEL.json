@@ -219,6 +219,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C36_T_EEA",
+      "codename": "C36",
+      "model": "C36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C37_EEA",
+      "codename": "C37",
+      "model": "C37"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C38_EEA",
+      "codename": "C38",
+      "model": "C 38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C38_EEA",
+      "codename": "C38",
+      "model": "C38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C50_EEA",
+      "codename": "C50",
+      "model": "C50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C51_EEA",
+      "codename": "C51",
+      "model": "C51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -258,6 +294,12 @@
       "market_name": "Coosea",
       "codename": "K3",
       "model": "K3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Customer need debug",
+      "codename": "WP32_Pro",
+      "model": "WP32 Pro"
     },
     {
       "manufacturer": "",
@@ -435,9 +477,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OT11",
+      "codename": "OT11",
+      "model": "OT11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT11_ROW",
+      "codename": "OT11",
+      "model": "OT11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OT5_EEA",
       "codename": "OT5",
       "model": "OT5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT5_S_EEA",
+      "codename": "OT5_S",
+      "model": "OT5 S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT6_EEA",
+      "codename": "OT6",
+      "model": "OT6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT6_Kids_EEA",
+      "codename": "OT6_Kids",
+      "model": "OT6 Kids"
     },
     {
       "manufacturer": "",
@@ -447,7 +519,19 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OT8_EEA",
+      "codename": "OT8",
+      "model": "OT8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P07_EEA",
+      "codename": "P07",
+      "model": "RT7 TITAN 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P07_NFC_EEA",
       "codename": "P07",
       "model": "RT7 TITAN 5G"
     },
@@ -477,6 +561,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RT3_T",
+      "codename": "RT3",
+      "model": "RT3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT3_T_EEA",
+      "codename": "RT3",
+      "model": "RT3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RT5_EEA",
       "codename": "RT5",
       "model": "RT5"
@@ -486,6 +582,24 @@
       "market_name": "RT6_EEA",
       "codename": "RT6",
       "model": "RT6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT6_NFC_EEA",
+      "codename": "RT6",
+      "model": "RT6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT7_TITAN_EEA",
+      "codename": "RT7_TITAN",
+      "model": "RT7 TITAN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT8_EEA",
+      "codename": "RT8",
+      "model": "RT8"
     },
     {
       "manufacturer": "",
@@ -777,9 +891,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP32_EEA",
+      "codename": "WP32",
+      "model": "WP32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP33_Pro_EEA",
+      "codename": "WP33_Pro",
+      "model": "WP33 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP33_Pro_U_EEA",
+      "codename": "WP33_Pro",
+      "model": "WP33 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP35_EEA",
+      "codename": "WP35",
+      "model": "WP35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP36_EEA",
       "codename": "WP36",
       "model": "WP36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP38_EEA",
+      "codename": "WP38",
+      "model": "WP38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP39_EEA",
+      "codename": "WP39",
+      "model": "WP39"
     },
     {
       "manufacturer": "",
@@ -798,6 +948,18 @@
       "market_name": "WP5000",
       "codename": "WP5000",
       "model": "WP5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP50_EEA",
+      "codename": "WP50",
+      "model": "WP50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP52_EEA",
+      "codename": "WP52",
+      "model": "WP52"
     },
     {
       "manufacturer": "",

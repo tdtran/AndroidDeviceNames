@@ -1,0 +1,11 @@
+{
+  "manufacturer": "UBOS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UTAB",
+      "codename": "UTAB",
+      "model": "UTAB"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "UKD30",
+      "codename": "UKD30",
+      "model": "UKD30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZIDS701",
       "codename": "ZIDS701",
       "model": "ZIDS701"

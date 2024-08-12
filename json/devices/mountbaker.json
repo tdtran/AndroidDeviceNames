@@ -42,10 +42,34 @@
     "model": "2K SMART TV"
   },
   {
+    "manufacturer": "Daewoo",
+    "market_name": "DAEWOO",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Daewoo",
+    "market_name": "DAEWOO",
+    "codename": "mountbaker",
+    "model": "DAEWOO SMART TV"
+  },
+  {
     "manufacturer": "Dahua",
     "market_name": "DAHUA",
     "codename": "mountbaker",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Daiwa",
+    "market_name": "DAIWA",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Daiwa",
+    "market_name": "DAIWA",
+    "codename": "mountbaker",
+    "model": "DAIWA 2K SMART TV"
   },
   {
     "manufacturer": "EKO",
@@ -58,6 +82,12 @@
     "market_name": "ELECTROMAN",
     "codename": "mountbaker",
     "model": "Smart FHD TV"
+  },
+  {
+    "manufacturer": "Englaon",
+    "market_name": "ENGLAON",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "FPD",
@@ -76,6 +106,12 @@
     "market_name": "FPD",
     "codename": "mountbaker",
     "model": "EcoTV I"
+  },
+  {
+    "manufacturer": "Graetz",
+    "market_name": "GRAETZ",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "Indurama",
@@ -102,8 +138,20 @@
     "model": "JVC 2K ISDB TV"
   },
   {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "mountbaker",
+    "model": "JVC 2K TV"
+  },
+  {
     "manufacturer": "Jam",
     "market_name": "JAM",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTC",
+    "market_name": "KTC",
     "codename": "mountbaker",
     "model": "2K SMART TV"
   },
@@ -163,6 +211,24 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "IBG",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "IHOME",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "INNO-HIT",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "INNOVA",
     "codename": "mountbaker",
     "model": "INNOVA GOOGLE TV"
@@ -172,6 +238,12 @@
     "market_name": "NAKAMICHI",
     "codename": "mountbaker",
     "model": "NAKAMICHI GOOGLE TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "NEXUS",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -211,6 +283,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "VIOTTO",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "VOXELECTRONICS",
     "codename": "mountbaker",
     "model": "2K SMART TV"
@@ -235,6 +313,12 @@
   },
   {
     "manufacturer": "Kenwood",
+    "market_name": "KENWOOD",
+    "codename": "mountbaker",
+    "model": "KENWOOD 2K TV"
+  },
+  {
+    "manufacturer": "Kenwood",
     "market_name": "Kenwood",
     "codename": "mountbaker",
     "model": "KENWOOD ATSC 2K TV"
@@ -252,8 +336,20 @@
     "model": "KENWOOD ISDB 2K TV"
   },
   {
+    "manufacturer": "Kiowa",
+    "market_name": "KIOWA",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
     "manufacturer": "LUCOMS",
     "market_name": "LUCOMS",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "MAG",
+    "market_name": "MAG",
     "codename": "mountbaker",
     "model": "2K SMART TV"
   },
@@ -271,6 +367,12 @@
   },
   {
     "manufacturer": "Motorola",
+    "market_name": "MOTOROLA",
+    "codename": "mountbaker",
+    "model": "MOTOROLA GOOGLE TV 2K"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "Motorola",
     "codename": "mountbaker",
     "model": "MOTOROLA GOOGLE TV"
@@ -280,6 +382,12 @@
     "market_name": "Motorola",
     "codename": "mountbaker",
     "model": "MOTOROLA GOOGLE TV NA"
+  },
+  {
+    "manufacturer": "Mtek",
+    "market_name": "MTEK",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "PEL (PAK)",

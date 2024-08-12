@@ -30,6 +30,12 @@
     "model": "Element2KAndroidTV"
   },
   {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "bruno",
+    "model": "HYUNDAI2KAndroidTV"
+  },
+  {
     "manufacturer": "INFINITON",
     "market_name": "Infiniton",
     "codename": "bruno",

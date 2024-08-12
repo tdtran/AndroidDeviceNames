@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Black 1",
+      "codename": "Black_1",
+      "model": "Black 1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Black G",
       "codename": "Black_G",
       "model": "Black G"

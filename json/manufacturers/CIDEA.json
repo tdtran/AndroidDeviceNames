@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P100",
+      "codename": "P100",
+      "model": "P100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P1100",
       "codename": "P1100",
       "model": "P1100"
@@ -54,6 +60,24 @@
       "market_name": "P1150",
       "codename": "P1150",
       "model": "P1150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P1300",
+      "codename": "P1300",
+      "model": "P1300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P1350",
+      "codename": "P1350",
+      "model": "P1350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P150",
+      "codename": "P150",
+      "model": "P150"
     }
   ]
 }

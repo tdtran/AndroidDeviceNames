@@ -1,0 +1,17 @@
+{
+  "manufacturer": "EGOBOO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EB101",
+      "codename": "EB101",
+      "model": "EB101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EB104",
+      "codename": "EB104",
+      "model": "EB104"
+    }
+  ]
+}

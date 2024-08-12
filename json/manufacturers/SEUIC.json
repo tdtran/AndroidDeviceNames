@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AUTOIDQ9",
+      "codename": "D360",
+      "model": "AUTOIDQ9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AUTOIDQ9G",
       "codename": "d550",
       "model": "AUTOID Q9"
@@ -72,6 +78,12 @@
       "market_name": "CRUISE2 5G",
       "codename": "d740",
       "model": "CRUISE2 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CRUISE2 5GA",
+      "codename": "d740p",
+      "model": "CRUISE2 5GA"
     },
     {
       "manufacturer": "",

@@ -6,6 +6,18 @@
     "model": "DIX51R4KU"
   },
   {
+    "manufacturer": "Acer",
+    "market_name": "acerpure",
+    "codename": "waiawa",
+    "model": "DAC51U"
+  },
+  {
+    "manufacturer": "Admiral Overseas Corporation",
+    "market_name": "Admiral",
+    "codename": "waiawa",
+    "model": "ADS51U"
+  },
+  {
     "manufacturer": "Gangnam",
     "market_name": "Gangnam",
     "codename": "waiawa",

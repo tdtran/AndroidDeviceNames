@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "itel A60S",
+    "codename": "itel-A662LM",
+    "model": "itel A662LM"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel A60s",
     "codename": "itel-A662LM",
     "model": "itel A662LM"

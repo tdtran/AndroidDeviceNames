@@ -1,0 +1,17 @@
+{
+  "manufacturer": "MTN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "G56",
+      "codename": "G56",
+      "model": "G56"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5012",
+      "codename": "S5012",
+      "model": "S5012"
+    }
+  ]
+}

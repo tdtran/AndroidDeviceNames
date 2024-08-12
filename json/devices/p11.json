@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Acer",
+    "market_name": "P11",
+    "codename": "P11",
+    "model": "P11-11"
+  },
+  {
     "manufacturer": "DEXP",
     "market_name": "P11",
     "codename": "P11",
@@ -12,6 +18,18 @@
     "model": "P11"
   },
   {
+    "manufacturer": "Fitbit",
+    "market_name": "Fitbit Ace LTE",
+    "codename": "p11",
+    "model": "Fitbit Ace LTE"
+  },
+  {
+    "manufacturer": "Fitbit",
+    "market_name": "Fitbit Ace LTE",
+    "codename": "p11",
+    "model": "P11"
+  },
+  {
     "manufacturer": "Haier",
     "market_name": "Power P11",
     "codename": "P11",
@@ -19,6 +37,12 @@
   },
   {
     "manufacturer": "Hyjoy",
+    "market_name": "P11",
+    "codename": "P11",
+    "model": "P11"
+  },
+  {
+    "manufacturer": "Mobicel",
     "market_name": "P11",
     "codename": "P11",
     "model": "P11"

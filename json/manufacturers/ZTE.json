@@ -1239,6 +1239,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "5G UG Phone U23",
+      "codename": "P720F02",
+      "model": "ZTE 7160N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "901ZT",
       "codename": "P450A01",
       "model": "901ZT"
@@ -5145,6 +5151,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optus X Pro 5G",
+      "codename": "P720F02",
+      "model": "A73 Pro 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optus X Tap 3",
+      "codename": "P606F10",
+      "model": "P660"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Orange Hi 4G",
       "codename": "Orange_Hi_4G",
       "model": "Orange Hi 4G"
@@ -5592,6 +5610,12 @@
       "market_name": "REDMAGIC 7Pro",
       "codename": "NX709J-UN",
       "model": "NX709J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REDMAGIC 9",
+      "codename": "NX769J",
+      "model": "NX769J"
     },
     {
       "manufacturer": "",
@@ -6282,6 +6306,12 @@
       "market_name": "TURKCELL T80",
       "codename": "P840F14",
       "model": "TURKCELL T80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV Stick 4K",
+      "codename": "YEV",
+      "model": "TV Stick 4K"
     },
     {
       "manufacturer": "",
@@ -7521,6 +7551,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z2359",
+      "codename": "P606F13",
+      "model": "Z2359"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z2450",
+      "codename": "P963F65",
+      "model": "Z2450"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z3153V",
       "codename": "Z3153",
       "model": "Z3153V"
@@ -7656,6 +7698,12 @@
       "market_name": "Z6530V",
       "codename": "Z6530",
       "model": "Z6530V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z6561J",
+      "codename": "Z6561S",
+      "model": "Z6561J"
     },
     {
       "manufacturer": "",
@@ -8709,6 +8757,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Axon 60",
+      "codename": "P616F02",
+      "model": "Z2356"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Axon 60 Lite",
+      "codename": "P606F10",
+      "model": "Z2350"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE B2017",
       "codename": "msm8952_64",
       "model": "ZTE B2017"
@@ -9171,6 +9231,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade A35 Core",
+      "codename": "P963F10",
+      "model": "ZTE Blade A35 Core"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A35 Lite",
+      "codename": "P963F10",
+      "model": "ZTE Blade A35 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade A3v",
       "codename": "Z5157",
       "model": "Z5157V"
@@ -9399,6 +9471,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade A75 5G",
+      "codename": "P720F09",
+      "model": "Z2357N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A75 5G S",
+      "codename": "P720F09",
+      "model": "Z2357N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade A7s",
       "codename": "P662F02",
       "model": "ZTE Blade A7s"
@@ -9561,6 +9645,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade V50 Design",
+      "codename": "P606F08",
+      "model": "nubia 8050"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade V50 Design 5G",
       "codename": "P720F03",
       "model": "ZTE 8150N"
@@ -9570,6 +9660,18 @@
       "market_name": "ZTE Blade V50 Vita",
       "codename": "P606F09",
       "model": "ZTE 8550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V60 Design",
+      "codename": "P606F10",
+      "model": "Z2350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V60 Vita",
+      "codename": "P606F10",
+      "model": "Z2350"
     },
     {
       "manufacturer": "",
@@ -9933,9 +10035,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nubia 8046",
+      "codename": "P616F01",
+      "model": "nubia 8046"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nubia Blade A72",
       "codename": "Z6255",
       "model": "Z6255CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Flip 5G",
+      "codename": "P745F01",
+      "model": "NX724J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Flip 5G",
+      "codename": "Z8888S",
+      "model": "NX724J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Flip 5G S",
+      "codename": "P745F01",
+      "model": "NX724J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Music",
+      "codename": "P963F11",
+      "model": "Z2353"
     },
     {
       "manufacturer": "",
@@ -9963,6 +10095,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nubia V50 Vita",
+      "codename": "P606F09",
+      "model": "nubia 8550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia V60",
+      "codename": "P616F02",
+      "model": "Z2356"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia V60 Design",
+      "codename": "P606F10",
+      "model": "Z2350"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nubia Z5",
       "codename": "NX501",
       "model": "nubia Z5"
@@ -9983,6 +10133,12 @@
       "manufacturer": "",
       "market_name": "nubia Z60 Ultra",
       "codename": "PQ83A01",
+      "model": "NX721J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Z60 Ultra",
+      "codename": "PQ83F01",
       "model": "NX721J"
     },
     {

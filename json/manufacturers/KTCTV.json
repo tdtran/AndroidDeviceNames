@@ -118,6 +118,12 @@
     {
       "manufacturer": "",
       "market_name": "DANILUX",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DANILUX",
       "codename": "mountbaker",
       "model": "2K SMART TV"
     },
@@ -273,7 +279,43 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IBG",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IBG",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IHOME",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IHOME",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IMMER",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INCLO",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNO-HIT",
       "codename": "hongkong",
       "model": "4K SMART TV"
     },
@@ -282,6 +324,12 @@
       "market_name": "INNO-HIT",
       "codename": "lavender",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INNO-HIT",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
@@ -396,6 +444,18 @@
       "market_name": "NAKAMICHI",
       "codename": "zhongshan",
       "model": "CSV4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXUS",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXUS",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
@@ -549,6 +609,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "THEUHD",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TRIBOSS",
       "codename": "mountbaker",
       "model": "2K SMART TV"
@@ -562,6 +628,30 @@
     {
       "manufacturer": "",
       "market_name": "VEIRA",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMEEL",
+      "codename": "lavender",
+      "model": "VIMEEL GOOGLE TV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIOTTO",
+      "codename": "lavender",
+      "model": "4K SMART ISDB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIOTTO",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIOTTO",
       "codename": "mountbaker",
       "model": "2K SMART TV"
     },

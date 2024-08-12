@@ -1,0 +1,17 @@
+{
+  "manufacturer": "QCELL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Qsmart",
+      "codename": "QSmart",
+      "model": "QSmart"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qsmart",
+      "codename": "QSmart_Plus",
+      "model": "QSmart Plus"
+    }
+  ]
+}

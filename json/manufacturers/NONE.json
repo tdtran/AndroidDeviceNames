@@ -12,6 +12,18 @@
       "market_name": "NpadS",
       "codename": "NpadS",
       "model": "NpadS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Npad_mini",
+      "codename": "Npad_mini",
+      "model": "TAB011"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Npadplus",
+      "codename": "Npadplus",
+      "model": "Npadplus"
     }
   ]
 }

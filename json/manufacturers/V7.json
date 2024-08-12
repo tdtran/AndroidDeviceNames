@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BUV7TBLT10A",
+      "codename": "BUV7TBLT10A",
+      "model": "BUV7TBLT10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IFPXX03-V7PRO",
       "codename": "rk3588_t",
       "model": "IFPO3V7PRO"

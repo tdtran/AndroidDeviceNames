@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D105_EEA",
+      "codename": "D105_EEA",
+      "model": "D105_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D106_EEA",
       "codename": "D106_EEA",
       "model": "D106_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D109_EEA",
+      "codename": "D109_EEA",
+      "model": "D109_EEA"
     },
     {
       "manufacturer": "",

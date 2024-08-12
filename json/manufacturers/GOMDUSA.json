@@ -1,0 +1,17 @@
+{
+  "manufacturer": "GOMDUSA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "X23",
+      "codename": "X23",
+      "model": "X23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X23_Pro",
+      "codename": "X23_Pro",
+      "model": "X23_Pro"
+    }
+  ]
+}

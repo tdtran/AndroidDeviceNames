@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "V01",
+      "codename": "V01",
+      "model": "VOCAL V01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V0Core",
+      "codename": "V0Core",
+      "model": "VOCAL V0Core"
+    },
+    {
+      "manufacturer": "",
       "market_name": "v0",
       "codename": "v0",
       "model": "VOCAL V0"

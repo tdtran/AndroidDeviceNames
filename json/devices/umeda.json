@@ -78,6 +78,12 @@
     "model": "ok 2K TV"
   },
   {
+    "manufacturer": "ORION",
+    "market_name": "Doshisha 2K Smart TV",
+    "codename": "umeda",
+    "model": "Doshisha 2K Smart TV"
+  },
+  {
     "manufacturer": "PRISMPLUS",
     "market_name": "PrismPlus 2KA",
     "codename": "umeda",
@@ -112,6 +118,12 @@
     "market_name": "SHARP 2K TV",
     "codename": "umeda",
     "model": "SHARP 2K TV"
+  },
+  {
+    "manufacturer": "Syinix",
+    "market_name": "Glory TV",
+    "codename": "umeda",
+    "model": "Glory TV"
   },
   {
     "manufacturer": "TORNADO",

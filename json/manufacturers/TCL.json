@@ -333,6 +333,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL",
+      "codename": "Scarab_Pro_TF",
+      "model": "T510D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 10 5G",
       "codename": "Seattle",
       "model": "T790B"
@@ -849,9 +855,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL 50 5G",
+      "codename": "Dragonfly",
+      "model": "T613K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 50 5G",
+      "codename": "Dragonfly",
+      "model": "T613P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 50 SE",
+      "codename": "Ladybird",
+      "model": "T611B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 50 XL 5G",
+      "codename": "Goldfinch_TMO",
+      "model": "T702W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 50 XL NXTPAPER 5G",
+      "codename": "Goldfinch_Pro_CS",
+      "model": "T702M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 501",
+      "codename": "Bee_One",
+      "model": "T433D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 501",
+      "codename": "Bee_One",
+      "model": "T433E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL 502",
       "codename": "Rio_CAN",
       "model": "T432J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 505",
+      "codename": "Ant",
+      "model": "T509A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 505",
+      "codename": "Ant",
+      "model": "T509K"
     },
     {
       "manufacturer": "",
@@ -1155,6 +1215,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL TAB 10 NXTPAPER 5G",
+      "codename": "Optimus_5G_VZW",
+      "model": "9199S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL TAB 10 SMART",
       "codename": "Aquaman_10_4G",
       "model": "8094T"
@@ -1283,6 +1349,12 @@
       "manufacturer": "",
       "market_name": "TCL TAB 8 SE",
       "codename": "Luna_8_4G_ATT",
+      "model": "9136K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 8 SE",
+      "codename": "Luna_8_4G_ATT",
       "model": "9136R"
     },
     {
@@ -1326,12 +1398,6 @@
       "market_name": "TCL TAB10 Gen2",
       "codename": "Gaia",
       "model": "8496G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TCL TAB10 Gen2 LTE",
-      "codename": "Gaia",
-      "model": "8196G"
     },
     {
       "manufacturer": "",

@@ -114,6 +114,12 @@
       "market_name": "TAB_918_PRO_4G",
       "codename": "TAB_918_PRO_4G",
       "model": "TAB_918_PRO_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_920_PLUS_4G",
+      "codename": "TAB_920_PLUS_4G",
+      "model": "TAB_920_PLUS_4G"
     }
   ]
 }

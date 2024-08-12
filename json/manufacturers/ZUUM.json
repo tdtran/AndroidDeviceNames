@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AURA Z1",
+      "codename": "Aura_Z1",
+      "model": "AURA Z1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aura M1",
       "codename": "Aura_M1",
       "model": "AURA M1"
@@ -135,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hidra Max",
+      "codename": "Hidra_Max",
+      "model": "Hidra Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hidra Plus",
       "codename": "Hidra_Plus",
       "model": "Hidra Plus"
@@ -195,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOVA_10",
+      "codename": "NOVA_10",
+      "model": "NOVA_10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ONIX",
       "codename": "ONIX",
       "model": "ONIX"
@@ -216,6 +234,12 @@
       "market_name": "ROCKET III",
       "codename": "ROCKET_III",
       "model": "ROCKET III"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SENS_CURVE",
+      "codename": "SENS_CURVE",
+      "model": "SENS CURVE"
     },
     {
       "manufacturer": "",

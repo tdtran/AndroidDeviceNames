@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M-764",
+      "codename": "M-764",
+      "model": "M-764"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MM-35_EEA",
+      "codename": "MM-35_EEA",
+      "model": "MM-35_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MM10A",
       "codename": "MM10A",
       "model": "MM10A"

@@ -21,6 +21,78 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L10_A01_EEA",
+      "codename": "L10_A01_EEA",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_A02",
+      "codename": "L10_A02",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_A02_EEA",
+      "codename": "L10_A02_EEA",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_A03",
+      "codename": "L10_A03",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_A03_EEA",
+      "codename": "L10_A03_EEA",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T05",
+      "codename": "L10_T05",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T05_EEA",
+      "codename": "L10_T05_EEA",
+      "model": "L10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T06",
+      "codename": "L10_T06",
+      "model": "L10_T06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T06_EEA",
+      "codename": "L10_T06_EEA",
+      "model": "L10_T06_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T08",
+      "codename": "L10_T08",
+      "model": "L10_T08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T08_EEA",
+      "codename": "L10_T08_EEA",
+      "model": "L10_T08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T10",
+      "codename": "L10_T10",
+      "model": "L10_T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7",
       "codename": "M7",
       "model": "M7"

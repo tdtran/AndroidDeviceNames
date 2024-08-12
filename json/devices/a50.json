@@ -130,5 +130,11 @@
     "market_name": "Galaxy A50",
     "codename": "a50",
     "model": "SM-S506DL"
+  },
+  {
+    "manufacturer": "Wintouch",
+    "market_name": "A50",
+    "codename": "A50",
+    "model": "A50"
   }
 ]

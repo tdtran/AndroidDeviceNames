@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CON_102",
+      "codename": "CON_102",
+      "model": "CON_102"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KST070CH_D",
       "codename": "KST070CH_D",
       "model": "KST070CH_D"

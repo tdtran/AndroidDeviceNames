@@ -63,6 +63,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AGM_PAD_P2",
+      "codename": "AGM_PAD_P2",
+      "model": "AGM_PAD_P2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_PAD_T1",
+      "codename": "AGM_PAD_T1",
+      "model": "AGM_PAD_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android_Rugged",
+      "codename": "Android_Rugged",
+      "model": "Android_Rugged"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Android_Tablet",
       "codename": "Android_Tablet",
       "model": "Android_Tablet"

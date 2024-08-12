@@ -12,6 +12,12 @@
       "market_name": "AMS-R2O",
       "codename": "AMS_R2O",
       "model": "AMS-R2O"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AMS_R2C",
+      "codename": "AMS_R2C",
+      "model": "AMS-R2C"
     }
   ]
 }

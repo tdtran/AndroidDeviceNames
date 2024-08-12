@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F3A",
+      "codename": "F3A",
+      "model": "F3A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F5",
+      "codename": "Fpad5",
+      "model": "F5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fpad1",
       "codename": "Fpad1",
       "model": "F1"
@@ -60,6 +72,24 @@
       "market_name": "Hpad2",
       "codename": "Hpad2",
       "model": "H2A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L1",
+      "codename": "L1",
+      "model": "L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L1",
+      "codename": "L1",
+      "model": "Lpad1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W5A",
+      "codename": "W5A",
+      "model": "W5A"
     },
     {
       "manufacturer": "",

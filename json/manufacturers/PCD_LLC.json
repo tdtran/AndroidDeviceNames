@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Bengal Max",
+      "codename": "Bengal_Max_iW",
+      "model": "Bengal Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bengal_Max",
       "codename": "Bengal_Max",
       "model": "Bengal Max"
@@ -12,6 +18,12 @@
       "market_name": "P41PR",
       "codename": "P41PR",
       "model": "P41PR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P62",
+      "codename": "P62",
+      "model": "P62"
     },
     {
       "manufacturer": "",

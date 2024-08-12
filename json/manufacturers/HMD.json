@@ -1,0 +1,71 @@
+{
+  "manufacturer": "HMD",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HMD Aura",
+      "codename": "RCK",
+      "model": "HMD Aura"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD Pulse",
+      "codename": "LGD",
+      "model": "HMD Pulse"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD Pulse Pro",
+      "codename": "LGR",
+      "model": "HMD Pulse Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD Pulse+",
+      "codename": "LGP",
+      "model": "HMD Pulse Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD Skyline",
+      "codename": "TCT",
+      "model": "HMD Skyline"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD Skyline Business Edition",
+      "codename": "TCT",
+      "model": "HMD Skyline Business Edition"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD T21",
+      "codename": "AGTAH",
+      "model": "HMD T21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD T21",
+      "codename": "AGTH",
+      "model": "HMD T21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD XR21",
+      "codename": "SNT",
+      "model": "HMD XR21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-KOPA X2",
+      "codename": "LGD",
+      "model": "M-KOPA X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-KOPA X20",
+      "codename": "LGR",
+      "model": "M-KOPA X20"
+    }
+  ]
+}

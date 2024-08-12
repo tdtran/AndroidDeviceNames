@@ -1,0 +1,35 @@
+{
+  "manufacturer": "HISORL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P80-EEA",
+      "codename": "P80-EEA",
+      "model": "P80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80-ROW",
+      "codename": "P80-ROW",
+      "model": "P80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10P",
+      "codename": "T10P",
+      "model": "T10P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB10_EEA",
+      "codename": "TAB10_EEA",
+      "model": "TAB10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_10",
+      "codename": "TAB_10",
+      "model": "TAB_10"
+    }
+  ]
+}

@@ -4,5 +4,11 @@
     "market_name": "M-SP10MXHA",
     "codename": "SmartPad",
     "model": "M-SP10MXHA"
+  },
+  {
+    "manufacturer": "enGo",
+    "market_name": "SmartPad",
+    "codename": "SmartPad",
+    "model": "SmartPad_01"
   }
 ]

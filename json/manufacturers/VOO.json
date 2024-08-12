@@ -6,6 +6,12 @@
       "market_name": "DV8220",
       "codename": "DV8220",
       "model": "DV8220"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOO Box",
+      "codename": "SEI700TMM",
+      "model": "VOO Box"
     }
   ]
 }

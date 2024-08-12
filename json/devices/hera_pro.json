@@ -4,5 +4,17 @@
     "market_name": "N672",
     "codename": "hera_pro",
     "model": "N672"
+  },
+  {
+    "manufacturer": "MiTAC",
+    "market_name": "hera_pro",
+    "codename": "hera_pro",
+    "model": "N672"
+  },
+  {
+    "manufacturer": "MiTAC",
+    "market_name": "hera_pro_eea",
+    "codename": "hera_pro",
+    "model": "N672"
   }
 ]

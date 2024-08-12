@@ -2391,6 +2391,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC A101 Plus",
+      "codename": "HTC_A101_Plus",
+      "model": "HTC A101 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC A102",
       "codename": "HTC_A102",
       "model": "HTC A102"
@@ -2418,6 +2424,18 @@
       "market_name": "HTC A105 Plus",
       "codename": "HTC_A105_Plus",
       "model": "HTC A105 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC AT01",
+      "codename": "HTC_AT01",
+      "model": "HTC AT01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC AT01 Plus",
+      "codename": "HTC_AT01_Plus",
+      "model": "HTC AT01 Plus"
     },
     {
       "manufacturer": "",
@@ -4296,6 +4314,18 @@
       "market_name": "Wildfire E3 lite",
       "codename": "Wildfire_E3_lite",
       "model": "Wildfire E3 lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E4",
+      "codename": "Wildfire_E4",
+      "model": "Wildfire E4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E6",
+      "codename": "Wildfire_E6",
+      "model": "Wildfire E6"
     },
     {
       "manufacturer": "",

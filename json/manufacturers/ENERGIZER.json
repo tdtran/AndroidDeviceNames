@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U652S",
+      "codename": "U652S",
+      "model": "U652S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U683S",
       "codename": "U683S",
       "model": "U683S"

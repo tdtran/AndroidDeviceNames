@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E6mini",
+      "codename": "E6mini",
+      "model": "E6mini"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Emporia SMART 3",
       "codename": "S3",
       "model": "S3"

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EID-1400",
+      "codename": "EID-1400",
+      "model": "EID-1400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EID_1061",
+      "codename": "EID_1061",
+      "model": "EID-1061"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EID_9000",
+      "codename": "EID_9000",
+      "model": "EID-9000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EM749/748",
       "codename": "EM749_748",
       "model": "EM749_748"

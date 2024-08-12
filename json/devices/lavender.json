@@ -9,6 +9,12 @@
     "manufacturer": "Blaupunkt",
     "market_name": "BLAUPUNKT",
     "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Blaupunkt",
+    "market_name": "BLAUPUNKT",
+    "codename": "lavender",
     "model": "BLAUPUNKT 4K TV"
   },
   {
@@ -39,6 +45,12 @@
     "manufacturer": "FPD",
     "market_name": "FPD",
     "codename": "lavender",
+    "model": "EcoTV Plus C"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "lavender",
     "model": "EcoTV Plus D"
   },
   {
@@ -46,6 +58,24 @@
     "market_name": "FPD",
     "codename": "lavender",
     "model": "EcoTV Plus I"
+  },
+  {
+    "manufacturer": "Graetz",
+    "market_name": "GRAETZ",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "lavender",
+    "model": "4K SMART COL TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "lavender",
+    "model": "4K SMART ISDB TV"
   },
   {
     "manufacturer": "Indurama",
@@ -103,6 +133,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "DANILUX",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "DIGGIO",
     "codename": "lavender",
     "model": "DIGGIO GOOGLE TV 4K"
@@ -118,6 +154,12 @@
     "market_name": "Global",
     "codename": "lavender",
     "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "IBG",
+    "codename": "lavender",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -142,6 +184,12 @@
     "market_name": "NAKAMICHI",
     "codename": "lavender",
     "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "NEXUS",
+    "codename": "lavender",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -175,6 +223,24 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "VIMEEL",
+    "codename": "lavender",
+    "model": "VIMEEL GOOGLE TV 4K"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "VIOTTO",
+    "codename": "lavender",
+    "model": "4K SMART ISDB TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "VIOTTO",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "WYBOR",
     "codename": "lavender",
     "model": "4K SMART TV"
@@ -190,6 +256,12 @@
     "market_name": "Kenwood",
     "codename": "lavender",
     "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+    "manufacturer": "Kiowa",
+    "market_name": "KIOWA",
+    "codename": "lavender",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "MAG",
@@ -266,6 +338,18 @@
   {
     "manufacturer": "Sharp",
     "market_name": "SHARP",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Siragon",
+    "market_name": "SIRAGON",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Soneview",
+    "market_name": "SONEVIEW",
     "codename": "lavender",
     "model": "4K SMART TV"
   },

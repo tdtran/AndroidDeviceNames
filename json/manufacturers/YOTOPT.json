@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y121-EEA",
+      "codename": "Y121-EEA",
+      "model": "Y121-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y3-EEA",
       "codename": "Y3-EEA",
       "model": "Y3-EEA"

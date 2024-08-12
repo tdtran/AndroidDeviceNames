@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LEAP-S3+",
+      "codename": "YDA",
+      "model": "4K Google TV Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Origin_679",
       "codename": "Origin_679",
       "model": "Origin_679"
@@ -150,6 +156,12 @@
       "market_name": "T13M4BK64LTE",
       "codename": "TEO13M",
       "model": "T13M4BK64LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T240G",
+      "codename": "YXQ",
+      "model": "Thomson 240G"
     },
     {
       "manufacturer": "",
@@ -246,6 +258,12 @@
       "market_name": "TLink 455",
       "codename": "TLINK455",
       "model": "TLINK455"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thomson 140G",
+      "codename": "YZF",
+      "model": "Thomson 140G"
     },
     {
       "manufacturer": "",

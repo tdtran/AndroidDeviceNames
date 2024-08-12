@@ -105,6 +105,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO F6",
+      "codename": "peridot",
+      "model": "24069PC21G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO F6",
+      "codename": "peridot",
+      "model": "24069PC21I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO F6 Pro",
+      "codename": "vermeer",
+      "model": "23113RKC6G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO M2",
       "codename": "shiva",
       "model": "M2004J19PI"
@@ -189,6 +207,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO M6",
+      "codename": "moon",
+      "model": "2404APC5FG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M6 Plus 5G",
+      "codename": "breeze",
+      "model": "24066PC95I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO M6 Pro",
       "codename": "emerald",
       "model": "2312FPCA6G"
@@ -249,6 +279,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO X5 Pro 5G",
+      "codename": "redwood",
+      "model": "22101320G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X5 Pro 5G\t",
+      "codename": "redwoodin",
+      "model": "22101320I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO X6 5G",
       "codename": "garnet",
       "model": "23122PCD1G"
@@ -258,6 +300,18 @@
       "market_name": "POCO X6 5G",
       "codename": "garnet",
       "model": "23122PCD1I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X6 Pro 5G",
+      "codename": "duchamp",
+      "model": "2311DRK48G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO X6 Pro 5G",
+      "codename": "duchamp",
+      "model": "2311DRK48I"
     }
   ]
 }

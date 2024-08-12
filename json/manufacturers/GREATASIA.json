@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TK-P86",
+      "codename": "TK-P86",
+      "model": "TK-P86"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z8",
       "codename": "Z8",
       "model": "Z8"

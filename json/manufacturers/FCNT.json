@@ -60,6 +60,36 @@
       "market_name": "arrows We FCG01",
       "codename": "FCG01",
       "model": "FCG01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We2 F-52E",
+      "codename": "F52E",
+      "model": "F-52E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We2 FCG02",
+      "codename": "FCG02",
+      "model": "FCG02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We2 M07",
+      "codename": "M07",
+      "model": "M07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We2 Plus F-51E",
+      "codename": "F51E",
+      "model": "F-51E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We2 Plus M06",
+      "codename": "M06",
+      "model": "M06"
     }
   ]
 }

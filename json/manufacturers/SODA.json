@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROCK_30",
+      "codename": "ROCK_30",
+      "model": "ROCK 30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "s2",
       "codename": "soda_CSW1802",
       "model": "soda S2"

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Allnet",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "PrimeOne",
+      "codename": "PrimeOne",
+      "model": "PrimeOne"
+    }
+  ]
+}

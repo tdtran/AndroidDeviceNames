@@ -15,6 +15,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F9S",
+      "codename": "F9S",
+      "model": "F9S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F9S",
+      "codename": "F9S_EEA",
+      "model": "F9S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FreeYondA5",
+      "codename": "FreeYondA5",
+      "model": "A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FreeYondA5_RU",
+      "codename": "FreeYondA5",
+      "model": "A5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FreeYondP6",
+      "codename": "FreeYondP6",
+      "model": "FreeYond P6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FreeYondP6",
+      "codename": "FreeYondP6",
+      "model": "FreeYondP6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FreeYondP6",
+      "codename": "FreeYondP6",
+      "model": "P6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FreeYondP6_RU",
+      "codename": "FreeYondP6",
+      "model": "P6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M5",
       "codename": "M5",
       "model": "M5"

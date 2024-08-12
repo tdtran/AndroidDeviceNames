@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "AAUW",
+    "market_name": "T10",
+    "codename": "T10",
+    "model": "T10"
+  },
+  {
     "manufacturer": "Altice",
     "market_name": "T10",
     "codename": "T10",

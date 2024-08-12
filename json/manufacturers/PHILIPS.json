@@ -171,6 +171,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PHILIPS S6210",
+      "codename": "PHILIPS-S6210",
+      "model": "PHILIPS S6210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS S6310",
+      "codename": "PHILIPS-S6310",
+      "model": "PHILIPS S6310"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS S7710",
+      "codename": "PHILIPS-S7710",
+      "model": "PHILIPS S7710"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PHILIPS TV",
       "codename": "cocina",
       "model": "PHILIPS TV"
@@ -387,6 +405,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philips Google TV TB3",
+      "codename": "PH1M_WW_9687",
+      "model": "Philips Google TV TB3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philips S257",
       "codename": "S257",
       "model": "Philips S257"
@@ -456,6 +480,12 @@
       "market_name": "Philips S562Z",
       "codename": "S562Z",
       "model": "Philips S562Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips S6206",
+      "codename": "S6206",
+      "model": "S6206"
     },
     {
       "manufacturer": "",
@@ -732,6 +762,12 @@
       "market_name": "Xenium V377",
       "codename": "Philips_V377",
       "model": "Philips V377"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "whitefield",
+      "codename": "whitefield",
+      "model": "R8G"
     }
   ]
 }

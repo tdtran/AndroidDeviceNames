@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QSmart Ultra",
+      "codename": "Ultra",
+      "model": "Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QSmart X10",
       "codename": "X10",
       "model": "QSmart X10"
@@ -84,6 +90,12 @@
       "market_name": "Rocket_Lite",
       "codename": "Rocket_Lite",
       "model": "Rocket Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 8",
+      "codename": "Smart_8",
+      "model": "Smart 8"
     },
     {
       "manufacturer": "",

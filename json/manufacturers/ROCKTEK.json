@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Gretzky",
-      "codename": "TSA",
-      "model": "TVDongle"
-    },
-    {
-      "manufacturer": "",
       "market_name": "RT-G1",
       "codename": "RTBox",
       "model": "RT-G1"

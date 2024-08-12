@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IB6001",
+      "codename": "IB6001",
+      "model": "IB6001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IBRIT_I5",
       "codename": "i5",
       "model": "IBRIT_I5"

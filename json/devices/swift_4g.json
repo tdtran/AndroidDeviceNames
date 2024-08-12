@@ -4,5 +4,11 @@
     "market_name": "Swift 4G",
     "codename": "Swift_4G",
     "model": "Swift 4G"
+  },
+  {
+    "manufacturer": "Stylo",
+    "market_name": "SWIFT_4G",
+    "codename": "SWIFT_4G",
+    "model": "SWIFT_4G"
   }
 ]

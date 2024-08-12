@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LG_Electronics",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TR3DK",
+      "codename": "TR3DK",
+      "model": "TR3DK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TR3PN",
+      "codename": "rk3588_t",
+      "model": "TR3PN"
+    }
+  ]
+}

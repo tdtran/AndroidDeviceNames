@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "7_PREMIUM_PRO",
+      "codename": "7_PREMIUM_PRO",
+      "model": "7_PREMIUM_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALFA 10RC",
       "codename": "ALFA_10RC",
       "model": "ALFA_10RC"
@@ -42,6 +48,12 @@
       "market_name": "ALFA_10BT",
       "codename": "ALFA_10BT",
       "model": "ALFA_10BT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA_10BT_V2",
+      "codename": "ALFA_10BT_V2",
+      "model": "ALFA_10BT_V2"
     },
     {
       "manufacturer": "",

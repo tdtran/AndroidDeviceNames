@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cidea",
+    "market_name": "P100",
+    "codename": "P100",
+    "model": "P100"
+  },
+  {
     "manufacturer": "Panasonic",
     "market_name": "Panasonic P100",
     "codename": "P100",

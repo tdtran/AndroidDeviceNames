@@ -1,7 +1,37 @@
 [
   {
+    "manufacturer": "COOCAA",
+    "market_name": "ATBOX001 THE ULTRA",
+    "codename": "YDA",
+    "model": "4K Google TV Box"
+  },
+  {
+    "manufacturer": "Mecool",
+    "market_name": "KM7 PLUS",
+    "codename": "YDA",
+    "model": "4K Google TV Box"
+  },
+  {
+    "manufacturer": "Next",
+    "market_name": "Start-4K",
+    "codename": "YDA",
+    "model": "4K Google TV Box"
+  },
+  {
+    "manufacturer": "QVWI",
+    "market_name": "Leap-S3",
+    "codename": "YDA",
+    "model": "4K Google TV Box"
+  },
+  {
     "manufacturer": "Strong",
     "market_name": "Leap-S3",
+    "codename": "YDA",
+    "model": "4K Google TV Box"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "LEAP-S3+",
     "codename": "YDA",
     "model": "4K Google TV Box"
   }

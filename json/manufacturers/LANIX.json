@@ -567,6 +567,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RX7V4",
+      "codename": "RX7V4",
+      "model": "RX7V4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RX7_v3",
       "codename": "RX7_v3",
       "model": "RX7_v3"

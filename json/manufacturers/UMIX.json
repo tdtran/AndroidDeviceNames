@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP151",
+      "codename": "SP151",
+      "model": "SP151"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vinci M",
       "codename": "UMIX_VINCI_M",
       "model": "UMIX VINCI M"

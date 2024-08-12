@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Customer need debug",
+      "codename": "NEXG_N9",
+      "model": "NEXG N9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EXPRESS",
       "codename": "guandu",
       "model": "WALTON Android TV"
@@ -51,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEXG N72",
+      "codename": "NEXG_N72",
+      "model": "NEXG N72"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEXG N73",
       "codename": "NEXG_N73",
       "model": "NEXG N73"
@@ -63,9 +75,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEXG N9",
+      "codename": "NEXG_N9",
+      "model": "NEXG N9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEXG_N25",
       "codename": "NEXG_N25",
       "model": "NEXG N25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ORBIT Y12",
+      "codename": "ORBIT_Y12",
+      "model": "ORBIT Y12"
     },
     {
       "manufacturer": "",

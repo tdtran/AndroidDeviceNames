@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ISCS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "QA3O_M110",
+      "codename": "QA3O_M110",
+      "model": "QA3O_M110"
+    }
+  ]
+}

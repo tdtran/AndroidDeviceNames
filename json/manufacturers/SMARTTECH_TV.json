@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "Contex TV",
+      "codename": "cottongreen",
+      "model": "Contex TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Contex TV",
       "codename": "nagata",
       "model": "Contex TV"
     },

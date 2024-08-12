@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "W4001S",
+    "codename": "itel-W4001S",
+    "model": "itel W4001S"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel V41",
     "codename": "itel-W4001S",
     "model": "itel W4001S"

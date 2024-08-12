@@ -45,6 +45,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELITE 1",
+      "codename": "ELITE_1",
+      "model": "ELITE 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FLAT 1C",
+      "codename": "FLAT1C",
+      "model": "FLAT 1C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MODERN 8",
+      "codename": "MODERN_8",
+      "model": "MODERN 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PILOT 2",
+      "codename": "PILOT_2",
+      "model": "PILOT 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pad 15",
       "codename": "Pad15",
       "model": "Pad 15"
@@ -57,9 +81,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pad 15",
+      "codename": "Pad15_RU",
+      "model": "Pad 15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 16",
+      "codename": "Pad16",
+      "model": "Pad 16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 18",
+      "codename": "Pad18",
+      "model": "Pad 18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 5",
+      "codename": "Pad_5",
+      "model": "Pad 5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 5 Kids",
+      "codename": "Pad_5_Kids",
+      "model": "Pad 5 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 7",
+      "codename": "Pad_7",
+      "model": "Pad 7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pad 70",
       "codename": "Pad70_NEU",
       "model": "Pad 70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 70 WiFi",
+      "codename": "Pad_70_WiFi",
+      "model": "Pad 70 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 80 WiFi",
+      "codename": "Pad_80_WiFi",
+      "model": "Pad 80 WiFi"
     },
     {
       "manufacturer": "",
@@ -147,9 +219,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TIGER 10",
+      "codename": "Tiger10",
+      "model": "TIGER 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIGER 12",
       "codename": "Tiger12",
       "model": "TIGER 12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tiger 10",
+      "codename": "Tiger10",
+      "model": "TIGER 10"
     },
     {
       "manufacturer": "",

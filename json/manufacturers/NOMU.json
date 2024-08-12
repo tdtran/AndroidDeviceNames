@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G300",
+      "codename": "G300",
+      "model": "G300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G500",
+      "codename": "G500",
+      "model": "G500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G510",
+      "codename": "G510",
+      "model": "G510"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8",
       "codename": "M8",
       "model": "M8"

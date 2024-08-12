@@ -18,6 +18,12 @@
       "market_name": "WB55860W",
       "codename": "WB55860W",
       "model": "WB55860W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z Pro Series",
+      "codename": "Z24",
+      "model": "24ZPro"
     }
   ]
 }

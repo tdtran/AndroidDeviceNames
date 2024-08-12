@@ -4,5 +4,11 @@
     "market_name": "HSD0001",
     "codename": "Reader",
     "model": "HannsNote2"
+  },
+  {
+    "manufacturer": "HannSpree",
+    "market_name": "HSD0001A",
+    "codename": "Reader",
+    "model": "HannsNote2"
   }
 ]

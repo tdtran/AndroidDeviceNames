@@ -10,5 +10,23 @@
     "market_name": "KLE-H0",
     "codename": "klein",
     "model": "SHARK KLE-H0"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi A3x",
+    "codename": "klein",
+    "model": "24044RN32L"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi A3x",
+    "codename": "klein",
+    "model": "24048RN6CG"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi A3x",
+    "codename": "klein",
+    "model": "24048RN6CI"
   }
 ]

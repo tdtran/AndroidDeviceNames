@@ -268,6 +268,12 @@
     {
       "manufacturer": "",
       "market_name": "JVC",
+      "codename": "mountbaker",
+      "model": "JVC 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
       "codename": "seocho",
       "model": "JVC 4K Android TV"
     },
@@ -372,6 +378,12 @@
       "market_name": "JVC 4K Smart TV Plus",
       "codename": "anaheim",
       "model": "JVC 4K Smart TV Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC G24 TV",
+      "codename": "anaheim",
+      "model": "JVC G24 TV"
     },
     {
       "manufacturer": "",

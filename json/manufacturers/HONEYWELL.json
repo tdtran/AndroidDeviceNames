@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CK67",
+      "codename": "CK67",
+      "model": "CK67"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CK75",
       "codename": "CK75",
       "model": "CX75 AC0"
@@ -222,6 +228,12 @@
       "market_name": "CT30XP",
       "codename": "CT30P",
       "model": "CT30P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT37",
+      "codename": "CT37",
+      "model": "CT37"
     },
     {
       "manufacturer": "",
@@ -622,6 +634,12 @@
     {
       "manufacturer": "",
       "market_name": "RT10A",
+      "codename": "TA60A-L1-C",
+      "model": "TA60A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT60A",
       "codename": "TA60A-L1-C",
       "model": "TA60A"
     },

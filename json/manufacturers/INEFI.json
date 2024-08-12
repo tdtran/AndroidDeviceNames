@@ -1,0 +1,11 @@
+{
+  "manufacturer": "inefi",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SlimPOS319",
+      "codename": "SlimPOS319",
+      "model": "SlimPOS319"
+    }
+  ]
+}

@@ -6,6 +6,12 @@
       "market_name": "NissanConnect",
       "codename": "aivi2_b",
       "model": "AIVI2 B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NissanConnect",
+      "codename": "aivi2_n_full",
+      "model": "AIVI2_N_FULL"
     }
   ]
 }

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "realme",
+    "market_name": "NARZO 70 5G",
+    "codename": "RE5C86L1",
+    "model": "RMX3869"
+  },
+  {
+    "manufacturer": "realme",
     "market_name": "NARZO 70 Pro 5G",
     "codename": "RE5C86L1",
     "model": "RMX3868"
@@ -10,5 +16,11 @@
     "market_name": "realme 12+ 5G",
     "codename": "RE5C86L1",
     "model": "RMX3867"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "realme P1 5G",
+    "codename": "RE5C86L1",
+    "model": "RMX3870"
   }
 ]

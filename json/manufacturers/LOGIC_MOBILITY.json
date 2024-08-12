@@ -81,9 +81,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L66M",
+      "codename": "LOGIC_L66M",
+      "model": "L66M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L68",
       "codename": "LOGIC_L68",
       "model": "LOGIC L68"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L68 Ultra",
+      "codename": "L68_Ultra",
+      "model": "L68_Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC  L55V  PLUS",
+      "codename": "LOGIC_L55V_PLUS",
+      "model": "LOGIC L55V PLUS"
     },
     {
       "manufacturer": "",
@@ -147,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIC_L5M",
+      "codename": "LOGIC_L5M",
+      "model": "LOGIC_L5M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIC_L60",
       "codename": "LOGIC_L60",
       "model": "LOGIC L60"
@@ -168,6 +192,12 @@
       "market_name": "LOGIC_L66M",
       "codename": "LOGIC_L66M",
       "model": "LOGIC L66M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_T10M",
+      "codename": "LOGIC_T10M",
+      "model": "LOGIC T10M"
     },
     {
       "manufacturer": "",

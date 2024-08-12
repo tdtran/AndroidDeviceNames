@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D105",
+      "codename": "D105",
+      "model": "D105"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D105_EEA",
+      "codename": "D105_EEA",
+      "model": "D105_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D106",
       "codename": "D106",
       "model": "D106"

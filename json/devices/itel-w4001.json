@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "itel AC13",
+    "codename": "itel-W4001",
+    "model": "itel W4001"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel W4001",
     "codename": "itel-W4001",
     "model": "itel W4001"

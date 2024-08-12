@@ -52,5 +52,11 @@
     "market_name": "LG Tribute 2™",
     "codename": "c50",
     "model": "LGLS665"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "C50_EEA",
+    "codename": "C50",
+    "model": "C50"
   }
 ]

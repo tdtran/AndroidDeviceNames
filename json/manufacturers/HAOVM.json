@@ -33,6 +33,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10_2024",
+      "codename": "P10_2024",
+      "model": "P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10_Pro",
+      "codename": "P10_Pro",
+      "model": "P10_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20",
+      "codename": "P20",
+      "model": "P20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P8",
       "codename": "HP8",
       "model": "P8"

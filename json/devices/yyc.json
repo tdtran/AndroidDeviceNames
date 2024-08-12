@@ -1,7 +1,25 @@
 [
   {
+    "manufacturer": "BOXY",
+    "market_name": "BOXY",
+    "codename": "YYC",
+    "model": "4K Android TV Box"
+  },
+  {
     "manufacturer": "Mecool",
     "market_name": "KM2 PLUS",
+    "codename": "YYC",
+    "model": "4K Android TV Box"
+  },
+  {
+    "manufacturer": "Skyworth",
+    "market_name": "Leap-S4",
+    "codename": "YYC",
+    "model": "4K Android TV Box"
+  },
+  {
+    "manufacturer": "Strong",
+    "market_name": "HP4423",
     "codename": "YYC",
     "model": "4K Android TV Box"
   }

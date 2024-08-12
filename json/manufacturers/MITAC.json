@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "hera_pro",
+      "codename": "hera_pro",
+      "model": "N672"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hera_pro_eea",
+      "codename": "hera_pro",
+      "model": "N672"
+    },
+    {
+      "manufacturer": "",
       "market_name": "phaeton",
       "codename": "phaeton",
       "model": "N722"

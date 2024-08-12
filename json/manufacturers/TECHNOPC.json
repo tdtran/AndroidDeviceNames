@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TM-T10SA-V2",
+      "codename": "TM-T10SA-V2",
+      "model": "TM-T10SA-V2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UP10S43LA",
       "codename": "Technopc_UP10S43LA",
       "model": "UP10S43LA"

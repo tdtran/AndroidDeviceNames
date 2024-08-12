@@ -1,0 +1,11 @@
+{
+  "manufacturer": "incar",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E38_RU",
+      "codename": "E38",
+      "model": "E38"
+    }
+  ]
+}

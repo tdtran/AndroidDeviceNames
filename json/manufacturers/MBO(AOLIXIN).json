@@ -1,0 +1,11 @@
+{
+  "manufacturer": "MBO(Aolixin)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "16A Pro",
+      "codename": "16A_Pro",
+      "model": "16A_Pro"
+    }
+  ]
+}

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ADOC",
+    "market_name": "D40",
+    "codename": "D40",
+    "model": "D40"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "TCL D40 DUAL",
     "codename": "D40",

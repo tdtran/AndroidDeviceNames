@@ -4,5 +4,11 @@
     "market_name": "F101",
     "codename": "F101_P",
     "model": "F101"
+  },
+  {
+    "manufacturer": "FOSSiBOT",
+    "market_name": "F101 P",
+    "codename": "F101_P",
+    "model": "F101 P"
   }
 ]

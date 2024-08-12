@@ -1,0 +1,11 @@
+{
+  "manufacturer": "enGo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SmartPad",
+      "codename": "SmartPad",
+      "model": "SmartPad_01"
+    }
+  ]
+}

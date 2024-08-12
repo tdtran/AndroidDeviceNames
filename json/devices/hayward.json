@@ -13,6 +13,12 @@
   },
   {
     "manufacturer": "Toshiba",
+    "market_name": "ToshibaTV",
+    "codename": "hayward",
+    "model": "ToshibaTV"
+  },
+  {
+    "manufacturer": "Toshiba",
     "market_name": "huashan_emT",
     "codename": "hayward",
     "model": "Toshiba TV"

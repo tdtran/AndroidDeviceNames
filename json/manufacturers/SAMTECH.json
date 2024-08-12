@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MID_M1023",
+      "codename": "MID_M1023",
+      "model": "MID_M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_M1023_EEA",
+      "codename": "MID_M1023_EEA",
+      "model": "MID_M10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T3G_04",
       "codename": "T3G_04",
       "model": "T3G_04"

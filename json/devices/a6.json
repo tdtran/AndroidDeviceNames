@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "CHOFSLIA",
+    "market_name": "A6",
+    "codename": "A6",
+    "model": "A6"
+  },
+  {
+    "manufacturer": "CHOFSLIA",
+    "market_name": "A6_EEA",
+    "codename": "A6",
+    "model": "A6"
+  },
+  {
     "manufacturer": "Haier",
     "market_name": "Alpha A6",
     "codename": "A6",

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "iiyama",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TEXX14MIS-B2AG",
+      "codename": "rk3588_t",
+      "model": "TEXX14MIS-B2AG"
+    }
+  ]
+}

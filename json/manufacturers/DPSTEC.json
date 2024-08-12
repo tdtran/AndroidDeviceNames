@@ -1,0 +1,11 @@
+{
+  "manufacturer": "DPSTec",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DTB",
+      "codename": "DTB",
+      "model": "DTB"
+    }
+  ]
+}

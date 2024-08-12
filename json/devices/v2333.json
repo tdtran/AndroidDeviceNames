@@ -13,8 +13,26 @@
   },
   {
     "manufacturer": "Vivo",
+    "market_name": "Y18",
+    "codename": "V2333",
+    "model": "V2333"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y18",
+    "codename": "V2333",
+    "model": "V2345"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "Y18e",
     "codename": "V2333",
     "model": "V2350"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y18s",
+    "codename": "V2333",
+    "model": "V2410"
   }
 ]

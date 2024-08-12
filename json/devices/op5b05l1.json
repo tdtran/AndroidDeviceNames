@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A3 5G",
+    "codename": "OP5B05L1",
+    "model": "A402OP"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A3 Pro 5G",
+    "codename": "OP5B05L1",
+    "model": "CPH2665"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A3 Pro/A3/A80 5G",
+    "codename": "OP5B05L1",
+    "model": "CPH2639"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A80 5G",
+    "codename": "OP5B05L1",
+    "model": "CPH2639"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "K12x 5G",
+    "codename": "OP5B05L1",
+    "model": "CPH2667"
+  }
+]

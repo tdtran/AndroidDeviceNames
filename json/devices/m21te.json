@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Doogee",
+    "market_name": "S41",
+    "codename": "M21TE",
+    "model": "S41T"
+  },
+  {
+    "manufacturer": "Doogee",
     "market_name": "S41T",
     "codename": "M21TE",
     "model": "S41T"

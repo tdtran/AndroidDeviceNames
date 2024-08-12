@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TS-M704G",
+      "codename": "TS-M704G",
+      "model": "TS-M704G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TS_M103A",
       "codename": "TS_M103A",
       "model": "TS_M103A"

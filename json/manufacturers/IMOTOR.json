@@ -1,0 +1,11 @@
+{
+  "manufacturer": "IMOTOR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TP Serials",
+      "codename": "auto_rk_t60",
+      "model": "IMTOS Pro"
+    }
+  ]
+}

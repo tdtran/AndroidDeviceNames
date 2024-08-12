@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Air2_Pro_EEA",
+      "codename": "Air2_Pro",
+      "model": "Air2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Air3_EEA",
+      "codename": "Air3",
+      "model": "Air3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B1",
       "codename": "B1",
       "model": "B1"
@@ -54,6 +66,12 @@
       "market_name": "B2 Ultra",
       "codename": "B2_Ultra",
       "model": "B2 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B3_EEA",
+      "codename": "B3",
+      "model": "B3"
     },
     {
       "manufacturer": "",

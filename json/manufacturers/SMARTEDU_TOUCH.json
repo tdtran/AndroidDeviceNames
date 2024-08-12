@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Smartedu_Touch",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "WTC Series",
+      "codename": "WTC_Pro",
+      "model": "Smartedu_WTC_Series"
+    }
+  ]
+}

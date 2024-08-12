@@ -1,0 +1,11 @@
+{
+  "manufacturer": "VIVITEK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NovoTouch",
+      "codename": "rk3588_t",
+      "model": "EK4"
+    }
+  ]
+}

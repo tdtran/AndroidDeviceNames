@@ -4,5 +4,17 @@
     "market_name": "G7",
     "codename": "G7",
     "model": "G7"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "UMIDIGI G7",
+    "codename": "G7",
+    "model": "PG3NBG7YA"
+  },
+  {
+    "manufacturer": "Umidigi",
+    "market_name": "UMIDIGI G7_EEA",
+    "codename": "G7",
+    "model": "PG3NBG7YA"
   }
 ]

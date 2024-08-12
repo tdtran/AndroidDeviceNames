@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Crane 1",
+      "codename": "Crane1",
+      "model": "Crane1-21_27_32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Crane1",
+      "codename": "Crane1",
+      "model": "Crane1-16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D4 Pro",
       "codename": "D4Pro",
       "model": "I23D01"
@@ -33,15 +45,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Swift 2 Pro",
-      "codename": "Swift2Pro",
-      "model": "I23M02"
+      "market_name": "Swift 1 Pro",
+      "codename": "Swift1Pro",
+      "model": "I23M03"
     },
     {
       "manufacturer": "",
-      "market_name": "Swift2_GL",
+      "market_name": "Swift 2",
       "codename": "Swift2",
       "model": "I23M01_GL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swift 2 Pro",
+      "codename": "Swift2Pro",
+      "model": "I23M02"
     }
   ]
 }

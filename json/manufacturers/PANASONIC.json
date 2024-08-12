@@ -1497,6 +1497,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SPU-A06L-LWG",
+      "codename": "SPU-A06L-LWG",
+      "model": "SPU-A06L-LWG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPU-A07-LSG",
+      "codename": "SPU-A07-LSG",
+      "model": "SPU-A07-LSG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SV-ME1000",
       "codename": "K1",
       "model": "Panasonic SV-ME1000"

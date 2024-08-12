@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P18",
+      "codename": "P18",
+      "model": "P18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T5",
       "codename": "T05",
       "model": "T5"

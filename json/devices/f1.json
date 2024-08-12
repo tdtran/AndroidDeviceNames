@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Doogee",
+    "market_name": "F10",
+    "codename": "F1",
+    "model": "F10"
+  },
+  {
     "manufacturer": "G-Tab",
     "market_name": "F1",
     "codename": "F1",

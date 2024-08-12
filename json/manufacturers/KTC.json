@@ -24,6 +24,18 @@
       "market_name": "EcoTVISDB",
       "codename": "lavender",
       "model": "EcoTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KTC",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SD_GM01",
+      "codename": "Capricorn",
+      "model": "Eco Smart Display"
     }
   ]
 }

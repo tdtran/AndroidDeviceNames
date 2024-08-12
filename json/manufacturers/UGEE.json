@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ugee",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UT1Lite_NOEEA",
+      "codename": "ugeeUT1Lite_NOEEA",
+      "model": "UT2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UT2",
+      "codename": "ugeeUT1Lite_EEA",
+      "model": "UT2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UT2",
+      "codename": "ugeeUT1Lite_RU",
+      "model": "UT2"
+    }
+  ]
+}

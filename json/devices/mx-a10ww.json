@@ -4,5 +4,11 @@
     "market_name": "ASTRO_10",
     "codename": "MX-A10WW",
     "model": "MX-A10"
+  },
+  {
+    "manufacturer": "Maxwest",
+    "market_name": "ASTRO_10_A",
+    "codename": "MX-A10WW",
+    "model": "MX-A10"
   }
 ]

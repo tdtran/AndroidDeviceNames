@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CORE_X",
+      "codename": "CORE_X",
+      "model": "CORE_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20",
+      "codename": "XsmartMate20",
+      "model": "Mate 20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mate_10",
       "codename": "Mate_10",
       "model": "Mate 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nova 10",
+      "codename": "Xsmart_Nova_10",
+      "model": "Nova_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nova_8",
+      "codename": "Xsmart_Nova_8",
+      "model": "Xsmart Nova 8"
     }
   ]
 }

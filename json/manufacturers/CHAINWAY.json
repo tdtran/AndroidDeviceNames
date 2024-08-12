@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C5_EEA",
+      "codename": "C5",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5_GL",
+      "codename": "C5",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C60",
       "codename": "C60",
       "model": "C60"

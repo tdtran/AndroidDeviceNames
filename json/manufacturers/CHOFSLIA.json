@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CHOFSLIA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A6",
+      "codename": "A6",
+      "model": "A6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6_EEA",
+      "codename": "A6",
+      "model": "A6"
+    }
+  ]
+}

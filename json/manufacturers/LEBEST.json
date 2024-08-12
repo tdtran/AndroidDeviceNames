@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LeBest L2",
+      "codename": "L2",
+      "model": "L2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S1",
       "codename": "S1",
       "model": "S1"

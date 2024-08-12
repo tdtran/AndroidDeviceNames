@@ -825,6 +825,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP12P",
+      "codename": "CP12p",
+      "model": "CP12p"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP12p_S0",
       "codename": "CP12p",
       "model": "CP12p"
@@ -1506,6 +1512,12 @@
       "market_name": "coolpad COOL 30i",
       "codename": "CP12Q",
       "model": "CP12Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad CP12s",
+      "codename": "CP12s",
+      "model": "CP12s"
     },
     {
       "manufacturer": "",

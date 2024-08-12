@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D40",
+      "codename": "D40",
+      "model": "D40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M3",
       "codename": "M3",
       "model": "M3"

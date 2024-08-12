@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Odea",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A10_EEA",
+      "codename": "A10_EEA",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10_ROW",
+      "codename": "A10_ROW",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11_EEA",
+      "codename": "S11_EEA",
+      "model": "S11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11_ROW",
+      "codename": "S11_ROW",
+      "model": "S11"
+    }
+  ]
+}

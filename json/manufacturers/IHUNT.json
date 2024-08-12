@@ -87,6 +87,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P11000 Pro",
+      "codename": "P11000_Pro",
+      "model": "P11000 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P22000 Ultra",
+      "codename": "P22000_Ultra",
+      "model": "P22000 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P25000 Pro",
+      "codename": "P25000_Pro",
+      "model": "iHunt Titan P25000 Xtreme"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P32000_Ultra_EEA",
+      "codename": "P32000_Ultra",
+      "model": "Strong Tablet P32000 Ultra 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P8000_Ultra_EEA",
       "codename": "P8000_Ultra",
       "model": "Titan P8000 Ultra Carbon"
@@ -150,6 +174,12 @@
       "market_name": "Strong Tablet P15000 Pro",
       "codename": "Tablet_P15000",
       "model": "Strong Tablet P15000 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Strong Tablet P15000 Ultra",
+      "codename": "P15000_Ultra",
+      "model": "Strong Tablet P15000 Ultra"
     },
     {
       "manufacturer": "",
@@ -282,6 +312,12 @@
       "market_name": "iHunt_Note_Ultra",
       "codename": "iHunt_Note_Ultra",
       "model": "iHunt Note Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt_P15000_EEA",
+      "codename": "iHunt_P15000",
+      "model": "iHunt Titan P15000 Ultra"
     },
     {
       "manufacturer": "",

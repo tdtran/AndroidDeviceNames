@@ -1581,6 +1581,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi 14",
+      "codename": "houji",
+      "model": "23127PN0CG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14 Civi",
+      "codename": "chenfeng",
+      "model": "24053PY09I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi 14 Pro",
       "codename": "shennong",
       "model": "23116PN5BC"
@@ -1590,6 +1602,18 @@
       "market_name": "Xiaomi 14 Pro",
       "codename": "shennong",
       "model": "2311BPN23C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14 Ultra",
+      "codename": "aurora",
+      "model": "24030PN60G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14 Ultra",
+      "codename": "aurora",
+      "model": "24031PN0DC"
     },
     {
       "manufacturer": "",
@@ -1611,6 +1635,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi Civi 4",
+      "codename": "chenfeng",
+      "model": "24053PY09C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi MIX Flip",
+      "codename": "ruyi",
+      "model": "2405CPX3DC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi MIX Flip",
+      "codename": "ruyi",
+      "model": "2405CPX3DG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi MIX Fold",
       "codename": "cetus",
       "model": "M2011J18C"
@@ -1626,6 +1668,12 @@
       "market_name": "Xiaomi MIX Fold 3",
       "codename": "babylon",
       "model": "2308CPXD0C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi MIX Fold 4",
+      "codename": "goku",
+      "model": "Xiaomi for arm64"
     },
     {
       "manufacturer": "",
@@ -1680,6 +1728,12 @@
       "market_name": "Xiaomi Pad 6 Max 14",
       "codename": "yudi",
       "model": "2307BRPDCC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 6S Pro 12.4",
+      "codename": "sheng",
+      "model": "24018RPACG"
     },
     {
       "manufacturer": "",

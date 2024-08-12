@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Agile TV",
+      "codename": "uzw4060mm",
+      "model": "AgileTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elisa Elamus",
       "codename": "uzw4026ele",
       "model": "Elisa Elamus"

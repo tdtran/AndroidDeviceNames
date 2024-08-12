@@ -177,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blaze X 5G",
+      "codename": "LXX513",
+      "model": "LXX513"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ERA 1X",
       "codename": "era1X",
       "model": "era1X"
@@ -264,6 +270,12 @@
       "market_name": "LAVA AGNI 5G",
       "codename": "LXX501",
       "model": "LAVA LXX501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LAVA LZX414",
+      "codename": "LZX414",
+      "model": "LAVA LZX414"
     },
     {
       "manufacturer": "",
@@ -699,15 +711,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "YUVA 2 PRO",
+      "codename": "LZX408",
+      "model": "LAVA LZX408"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YUVA 3",
       "codename": "LZX415",
       "model": "LZX415"
     },
     {
       "manufacturer": "",
-      "market_name": "Yuva 3 Pro",
-      "codename": "LZX414",
-      "model": "LAVA LZX414"
+      "market_name": "Yuva 5G",
+      "codename": "LXX510",
+      "model": "LAVA LXX510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yuva Star",
+      "codename": "LZG409",
+      "model": "LAVA LZG409"
     },
     {
       "manufacturer": "",

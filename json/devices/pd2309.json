@@ -4,5 +4,11 @@
     "market_name": "X100",
     "codename": "PD2309",
     "model": "V2309A"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "X100s",
+    "codename": "PD2309",
+    "model": "V2359A"
   }
 ]

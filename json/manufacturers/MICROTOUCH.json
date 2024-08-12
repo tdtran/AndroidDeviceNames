@@ -6,6 +6,18 @@
       "market_name": "IDC_Series",
       "codename": "IDC_Series",
       "model": "IDC_Series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M1_IC0_N702",
+      "codename": "MACH_10",
+      "model": "MACH_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M1_IC1_N700_4G",
+      "codename": "IDC_Series_4G",
+      "model": "IDC_Series_4G"
     }
   ]
 }

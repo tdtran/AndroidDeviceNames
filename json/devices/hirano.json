@@ -1,8 +1,26 @@
 [
   {
     "manufacturer": "Hisense",
+    "market_name": "Emeishanph",
+    "codename": "hirano",
+    "model": "Hisense TV"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense TV HK",
+    "codename": "hirano",
+    "model": "Hisense TV HK"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "emeishan",
     "codename": "hirano",
     "model": "SmartTV"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "TOSHIBA TV",
+    "codename": "hirano",
+    "model": "TOSHIBA TV"
   }
 ]

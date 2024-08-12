@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A52 Pro",
+      "codename": "A52Pro",
+      "model": "A52 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A52 Pro",
+      "codename": "A52Pro",
+      "model": "A52 Pro(6+128GB)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A53",
       "codename": "A53",
       "model": "A53"
@@ -219,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL8000",
+      "codename": "BL8000",
+      "model": "BL8000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL8800",
       "codename": "BL8800",
       "model": "BL8800"
@@ -231,6 +249,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL9000",
+      "codename": "BL9000",
+      "model": "BL9000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL9000 Pro",
+      "codename": "BL9000_Pro",
+      "model": "BL9000 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV4000",
       "codename": "BV4000",
       "model": "BV4000"
@@ -240,6 +270,12 @@
       "market_name": "BV4000Pro_RU",
       "codename": "BV4000Pro",
       "model": "BV4000Pro-RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV4800",
+      "codename": "BV4800",
+      "model": "BV4800"
     },
     {
       "manufacturer": "",
@@ -519,6 +555,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV8100",
+      "codename": "BV8100",
+      "model": "BV8100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV8800",
       "codename": "BV8800",
       "model": "BV8800"
@@ -528,6 +570,12 @@
       "market_name": "BV8900",
       "codename": "BV8900",
       "model": "BV8900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV8900 Pro",
+      "codename": "BV8900_Pro",
+      "model": "BV8900 Pro"
     },
     {
       "manufacturer": "",
@@ -723,9 +771,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "COLOR 8",
+      "codename": "COLOR_8",
+      "model": "COLOR 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E7S",
       "codename": "E7s",
       "model": "E7s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HERO 10",
+      "codename": "HERO10",
+      "model": "HERO 10"
     },
     {
       "manufacturer": "",
@@ -735,9 +795,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEGA 1",
+      "codename": "MEGA_1",
+      "model": "MEGA 1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N6000",
       "codename": "N6000",
       "model": "N6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N6000 SE",
+      "codename": "N6000_SE",
+      "model": "N6000 SE"
     },
     {
       "manufacturer": "",
@@ -762,6 +834,12 @@
       "market_name": "P6000",
       "codename": "P6000",
       "model": "P6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PILOT 2",
+      "codename": "PILOT_2",
+      "model": "PILOT 2"
     },
     {
       "manufacturer": "",
@@ -801,6 +879,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARK 8",
+      "codename": "Shark8",
+      "model": "SHARK 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SOLID-4G3",
       "codename": "SOLID_4G3",
       "model": "SOLID_4G3"
@@ -810,6 +894,12 @@
       "market_name": "SOLID_4_G2",
       "codename": "SOLID_4_G2",
       "model": "SOLID 4 G2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Shark 8",
+      "codename": "Shark8",
+      "model": "SHARK 8"
     },
     {
       "manufacturer": "",
@@ -843,9 +933,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 16 Pro",
+      "codename": "Tab16_Pro",
+      "model": "Tab 16 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 16_Pro",
+      "codename": "Tab16_Pro",
+      "model": "Tab 16 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 18",
+      "codename": "Tab18",
+      "model": "Tab 18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 3 Kids",
       "codename": "Tab3Kids",
       "model": "Tab 3 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 50 Kids",
+      "codename": "Tab50Kids",
+      "model": "Tab 50 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 50 Kids",
+      "codename": "Tab50Kids_TUR",
+      "model": "Tab 50 Kids"
     },
     {
       "manufacturer": "",
@@ -862,13 +982,37 @@
     {
       "manufacturer": "",
       "market_name": "Tab 60 Kids",
+      "codename": "Tab60Kids",
+      "model": "Tab 60 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 60 Kids",
       "codename": "Tab60Kids_EEA",
       "model": "Tab 60 Kids"
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 60 Kids",
+      "codename": "Tab60Kids_RU",
+      "model": "Tab 60 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 60 WiFi",
+      "codename": "Tab_60_WiFi",
+      "model": "Tab 60 WiFi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 70 WiFi",
       "codename": "Tab70WiFi",
+      "model": "Tab 70 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 70 WiFi",
+      "codename": "Tab_70_WiFi_14",
       "model": "Tab 70 WiFi"
     },
     {
@@ -900,6 +1044,24 @@
       "market_name": "Tab 80",
       "codename": "Tab80_RU",
       "model": "Tab 80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 80 Kids",
+      "codename": "Tab_80_Kids",
+      "model": "Tab 80 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 9 WiFi",
+      "codename": "Tab_9_WiFi",
+      "model": "Tab 9 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab 90",
+      "codename": "Tab_90",
+      "model": "Tab 90"
     },
     {
       "manufacturer": "",
@@ -1230,6 +1392,18 @@
       "market_name": "Tab_7_WiFi_NEU",
       "codename": "Tab_7_WiFi_NEU",
       "model": "Tab 7 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_90_WiFi_NEU",
+      "codename": "Tab_90_WiFi",
+      "model": "Tab 90 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WAVE 6C",
+      "codename": "WAVE6C",
+      "model": "WAVE 6C"
     }
   ]
 }

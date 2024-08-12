@@ -24,6 +24,12 @@
     "model": "T7A6N"
   },
   {
+    "manufacturer": "PIXPEAK",
+    "market_name": "Tablet",
+    "codename": "Tablet",
+    "model": "P7-EEA"
+  },
+  {
     "manufacturer": "Sunny",
     "market_name": "SN10064",
     "codename": "TABLET",
@@ -43,6 +49,12 @@
   },
   {
     "manufacturer": "True",
+    "market_name": "20721400R",
+    "codename": "Tablet",
+    "model": "20721400R"
+  },
+  {
+    "manufacturer": "True",
     "market_name": "20725300",
     "codename": "Tablet",
     "model": "20725300"
@@ -52,6 +64,12 @@
     "market_name": "20725300E_EEA",
     "codename": "Tablet",
     "model": "20725300E"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20725300R",
+    "codename": "Tablet",
+    "model": "20725300R"
   },
   {
     "manufacturer": "True",
@@ -70,5 +88,11 @@
     "market_name": "20728200E_EEA",
     "codename": "Tablet",
     "model": "20728200E"
+  },
+  {
+    "manufacturer": "True",
+    "market_name": "20728200R",
+    "codename": "Tablet",
+    "model": "20728200R"
   }
 ]

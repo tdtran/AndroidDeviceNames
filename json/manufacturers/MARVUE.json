@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M15",
+      "codename": "M15",
+      "model": "M15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8",
       "codename": "M8",
       "model": "M8"

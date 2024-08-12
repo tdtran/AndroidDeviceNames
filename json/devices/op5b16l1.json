@@ -1,0 +1,38 @@
+[
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A3",
+    "codename": "OP5B16L1",
+    "model": "CPH2669"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A3x",
+    "codename": "OP5B16L1",
+    "model": "CPH2641"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A3x/A20",
+    "codename": "OP5B16L1",
+    "model": "CPH2641"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A40/A3/A40m",
+    "codename": "OP5B16L1",
+    "model": "CPH2669"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A40/A40m",
+    "codename": "OP5B16L1",
+    "model": "CPH2669"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A60",
+    "codename": "OP5B16L1",
+    "model": "CPH3669"
+  }
+]

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KidsPad10X",
+      "codename": "KidsPad10X",
+      "model": "KidsPad10X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KidsPad_7",
       "codename": "KidsPad_7",
       "model": "KidsPad_7"

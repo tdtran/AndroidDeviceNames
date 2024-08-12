@@ -4,5 +4,29 @@
     "market_name": "lushan",
     "codename": "lushan",
     "model": "SmartTV 4K FFM"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "lushan-NF",
+    "codename": "lushan",
+    "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "Polytron",
+    "market_name": "POLYTRON4K",
+    "codename": "lushan",
+    "model": "POLYTRON4K"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "lushan-Toshiba",
+    "codename": "lushan",
+    "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "Toshiba",
+    "market_name": "lushan-Toshiba-FFM",
+    "codename": "lushan",
+    "model": "SmartTV 4K FFM"
   }
 ]

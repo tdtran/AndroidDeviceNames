@@ -2913,6 +2913,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab K11 Plus",
+      "codename": "TB352FU",
+      "model": "TB352FU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab K11e",
+      "codename": "TB330XUP",
+      "model": "TB330XUP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab K8",
       "codename": "TB-8506F",
       "model": "Lenovo TB-8506F"
@@ -3336,6 +3348,12 @@
       "market_name": "Lenovo Tab P12 Pro",
       "codename": "Q706Z",
       "model": "Lenovo TB-Q706Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab Plus",
+      "codename": "TB351FU",
+      "model": "TB351FU"
     },
     {
       "manufacturer": "",

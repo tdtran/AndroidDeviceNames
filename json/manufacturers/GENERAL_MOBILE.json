@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GM 24",
+      "codename": "G319",
+      "model": "G319"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 24 Pro",
       "codename": "G514",
       "model": "G514"

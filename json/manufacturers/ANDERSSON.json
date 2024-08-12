@@ -30,6 +30,12 @@
       "market_name": "TBX10",
       "codename": "TBX10",
       "model": "TBX10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TBX11",
+      "codename": "TBX11",
+      "model": "TBX11"
     }
   ]
 }

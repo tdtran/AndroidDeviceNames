@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ASTREX",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "VegaPro",
+      "codename": "VegaPro",
+      "model": "VegaPro"
+    }
+  ]
+}

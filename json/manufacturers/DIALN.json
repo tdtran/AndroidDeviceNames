@@ -15,6 +15,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G68",
+      "codename": "G68",
+      "model": "G68"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEO2024",
+      "codename": "NEO2024",
+      "model": "NEO2024"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOVA2024",
+      "codename": "NOVA2024",
+      "model": "NOVA2024"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neo",
       "codename": "Neo",
       "model": "Neo"
@@ -93,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X62S",
+      "codename": "X62S",
+      "model": "X62S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X65",
       "codename": "X65",
       "model": "X65"
@@ -114,6 +138,12 @@
       "market_name": "X65",
       "codename": "X65C",
       "model": "X65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X68",
+      "codename": "X68",
+      "model": "X68"
     },
     {
       "manufacturer": "",

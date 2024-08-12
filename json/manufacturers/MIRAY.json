@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TM4G_1006",
+      "codename": "TM4G_1006",
+      "model": "TM4G_1006"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TPM4G_105",
       "codename": "TPM4G_105",
       "model": "TPM4G_105"

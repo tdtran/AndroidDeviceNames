@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hi10_XPro_Pad",
+      "codename": "Hi10_XPro_Pad",
+      "model": "Hi10_XPro_Pad"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hi9",
       "codename": "Hi9",
       "model": "Hi9"
@@ -24,6 +30,12 @@
       "market_name": "Hi9Pro",
       "codename": "Hi9Pro",
       "model": "Hi9Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPad 11",
+      "codename": "HiPad_11",
+      "model": "HiPad 11"
     },
     {
       "manufacturer": "",
@@ -111,9 +123,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HiPad_11_EEA",
+      "codename": "HiPad_11",
+      "model": "HiPad 11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HiPad_Pro",
       "codename": "CH108Q",
       "model": "HiPad Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPad_X",
+      "codename": "HiPad_X",
+      "model": "HiPad X"
     },
     {
       "manufacturer": "",
@@ -137,6 +161,12 @@
       "manufacturer": "",
       "market_name": "HiPad_XPro_RU",
       "codename": "HiPad_XPro",
+      "model": "HiPad XPro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HiPad_Xpro_Pad",
+      "codename": "HiPad_Xpro_Pad",
       "model": "HiPad XPro"
     },
     {

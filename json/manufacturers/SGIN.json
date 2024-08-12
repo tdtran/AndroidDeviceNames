@@ -54,6 +54,42 @@
       "market_name": "SGIN_X10_EEA",
       "codename": "SGIN_X10_EEA",
       "model": "SGIN_X10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10S",
+      "codename": "T10S",
+      "model": "T10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10S_EEA",
+      "codename": "T10S",
+      "model": "T10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12S_EEA",
+      "codename": "T12S_EEA",
+      "model": "T12S_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12S_ROW",
+      "codename": "T12S_ROW",
+      "model": "T12S_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12_EEA",
+      "codename": "T12_EEA",
+      "model": "T12_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12_ROW",
+      "codename": "T12_ROW",
+      "model": "T12_ROW"
     }
   ]
 }

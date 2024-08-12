@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA AE2",
+      "codename": "BRAVIA_AE2",
+      "model": "BRAVIA 4K AE2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA Smart Stick",
       "codename": "NSZGU1",
       "model": "NSZ-GU1"
@@ -306,6 +312,12 @@
       "market_name": "NWZ-ZX1",
       "codename": "icx1240",
       "model": "WALKMAN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PDT-FP1",
+      "codename": "PDT-FP1",
+      "model": "PDT-FP1"
     },
     {
       "manufacturer": "",
@@ -561,6 +573,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xperia 1 VI",
+      "codename": "A401SO",
+      "model": "A401SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 VI",
+      "codename": "SO-51E",
+      "model": "SO-51E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 VI",
+      "codename": "SOG13",
+      "model": "SOG13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 VI",
+      "codename": "XQ-EC44",
+      "model": "XQ-EC44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 VI",
+      "codename": "XQ-EC54",
+      "model": "XQ-EC54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 VI",
+      "codename": "XQ-EC72",
+      "model": "XQ-EC72"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xperia 10",
       "codename": "I3113",
       "model": "I3113"
@@ -744,6 +792,42 @@
       "market_name": "Xperia 10 V",
       "codename": "XQ-DC72",
       "model": "XQ-DC72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 VI",
+      "codename": "A402SO",
+      "model": "A402SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 VI",
+      "codename": "SO-52E",
+      "model": "SO-52E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 VI",
+      "codename": "SOG14",
+      "model": "SOG14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 VI",
+      "codename": "XQ-ES44",
+      "model": "XQ-ES44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 VI",
+      "codename": "XQ-ES54",
+      "model": "XQ-ES54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 10 VI",
+      "codename": "XQ-ES72",
+      "model": "XQ-ES72"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Kids20",
+      "codename": "Kids20",
+      "model": "Kids20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kids20A14",
+      "codename": "Kids20A14",
+      "model": "Kids20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kids20A14_EEA",
+      "codename": "Kids20A14_EEA",
+      "model": "Kids20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kids20_EEA",
+      "codename": "Kids20_EEA",
+      "model": "Kids20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kids_10",
       "codename": "Kids_10",
       "model": "Kids_10"
@@ -21,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kids_10_ver14",
+      "codename": "Kids_10_ver14",
+      "model": "Kids 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kids_10_ver14_EEA",
+      "codename": "Kids_10_ver14_EEA",
+      "model": "Kids 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kids_8",
       "codename": "Kids_8",
       "model": "Kids_8"
@@ -33,15 +69,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P60Pro",
+      "codename": "P60Pro",
+      "model": "P60_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P60_Pro",
       "codename": "P60_Pro",
       "model": "PlimPad_P60_Pro"
     },
     {
       "manufacturer": "",
+      "market_name": "P70_14",
+      "codename": "P70_14",
+      "model": "P70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P70_14_EEA",
+      "codename": "P70_14_EEA",
+      "model": "P70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P8",
       "codename": "P8",
       "model": "P8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8ProA14",
+      "codename": "P8ProA14",
+      "model": "P8Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8ProA14_EEA",
+      "codename": "P8ProA14_EEA",
+      "model": "P8Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8Pro_EEA",
+      "codename": "P8Pro_EEA",
+      "model": "P8Pro"
     },
     {
       "manufacturer": "",

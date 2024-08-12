@@ -4,5 +4,11 @@
     "market_name": "CP12s",
     "codename": "CP12s",
     "model": "CP12s"
+  },
+  {
+    "manufacturer": "Coolpad",
+    "market_name": "coolpad CP12s",
+    "codename": "CP12s",
+    "model": "CP12s"
   }
 ]

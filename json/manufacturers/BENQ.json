@@ -237,6 +237,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RE04N1_series",
+      "codename": "RE04N1_series",
+      "model": "RE04N1_series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RE04N_series",
+      "codename": "RE04N_series",
+      "model": "RE04N_series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RE04_series",
+      "codename": "RE04_series",
+      "model": "RE04_series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RM6504",
       "codename": "RM6504",
       "model": "RM6504"

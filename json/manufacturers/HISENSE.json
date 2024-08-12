@@ -867,6 +867,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Emeishanph",
+      "codename": "hirano",
+      "model": "Hisense TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F10",
       "codename": "HS6737MT",
       "model": "BM001"
@@ -2331,6 +2337,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense TV HK",
+      "codename": "hirano",
+      "model": "Hisense TV HK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense U3 2021",
       "codename": "HLTE100E_20",
       "model": "Hisense U3 2021"
@@ -2430,6 +2442,12 @@
       "market_name": "Hisense U605",
       "codename": "HS7731ESP",
       "model": "HWCD101E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U605",
+      "codename": "HS7731ESP",
+      "model": "HWCD102E"
     },
     {
       "manufacturer": "",
@@ -3861,6 +3879,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SmartLaser 4K",
+      "codename": "hengshan",
+      "model": "SmartLaser 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartTV 4K",
+      "codename": "hengshan",
+      "model": "SmartTV 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SoundTab MA-317",
       "codename": "rk3028a",
       "model": "Hisense SoundTab MA-317"
@@ -4392,6 +4422,18 @@
       "market_name": "lushan",
       "codename": "lushan",
       "model": "SmartTV 4K FFM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lushan-NF",
+      "codename": "lushan",
+      "model": "SmartTV 4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "qingshan_hisense",
+      "codename": "moeraki",
+      "model": "HJ4KAndroidTV"
     },
     {
       "manufacturer": "",

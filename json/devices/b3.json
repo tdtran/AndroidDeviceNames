@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "IIIF150",
+    "market_name": "B3_EEA",
+    "codename": "B3",
+    "model": "B3"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "LG G Pad III 8.0",
     "codename": "b3",

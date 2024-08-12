@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TWIFIB07",
+      "codename": "TWIFIB07",
+      "model": "TWIFIB07"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"

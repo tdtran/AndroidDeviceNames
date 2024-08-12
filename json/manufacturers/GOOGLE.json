@@ -111,6 +111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Google Automotive Emulator",
+      "codename": "emulator_car64_x86_64",
+      "model": "Android SDK built for x86_64"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google Automotive Emulator",
+      "codename": "emulator_car64_x86_64",
+      "model": "Car on x86_64 emulator"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Google Play Games on PC",
       "codename": "vsoc_kiwi_x86_64",
       "model": "HPE device"
@@ -210,6 +222,12 @@
       "market_name": "Intel Kaby Lake U Chromebook",
       "codename": "nami_cheets",
       "model": "nami"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intel Meteorlake-U Chromebook",
+      "codename": "rex_cheets",
+      "model": "rex"
     },
     {
       "manufacturer": "",
@@ -396,6 +414,12 @@
       "market_name": "Pixel 8 Pro",
       "codename": "husky",
       "model": "Pixel 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 8a",
+      "codename": "akita",
+      "model": "Pixel 8a"
     },
     {
       "manufacturer": "",

@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID",
+      "codename": "MID",
+      "model": "MID"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MR768",
       "codename": "MR768",
       "model": "MR768"

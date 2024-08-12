@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IM-H261",
+      "codename": "IM-H261",
+      "model": "IM-H261"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IMH101",
       "codename": "IMH101",
       "model": "IMH101"

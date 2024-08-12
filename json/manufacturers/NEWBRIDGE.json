@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NBTB101b",
+      "codename": "NBTB101b",
+      "model": "NBTB101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NBTB102",
       "codename": "NBTB102",
       "model": "NBTB102"

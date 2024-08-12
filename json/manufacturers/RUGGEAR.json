@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RG880",
+      "codename": "RG880",
+      "model": "RG880"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RG910",
       "codename": "RG910",
       "model": "RG910"
@@ -144,6 +150,12 @@
       "market_name": "RG935",
       "codename": "RG935",
       "model": "RG935"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG940",
+      "codename": "RG940",
+      "model": "RG940"
     },
     {
       "manufacturer": "",

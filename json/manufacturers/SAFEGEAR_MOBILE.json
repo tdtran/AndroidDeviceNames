@@ -1,0 +1,11 @@
+{
+  "manufacturer": "SafeGear_Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SG390",
+      "codename": "SG390",
+      "model": "SG390"
+    }
+  ]
+}

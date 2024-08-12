@@ -42,6 +42,12 @@
       "market_name": "Hammer Explorer Pro",
       "codename": "Hammer_Expl_Pro",
       "model": "Hammer_Explorer_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer_Iron_Va_EEA",
+      "codename": "HS2401x",
+      "model": "Iron Va"
     }
   ]
 }

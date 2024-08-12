@@ -16,5 +16,11 @@
     "market_name": "HONOR X9b 5G",
     "codename": "HNALI-Q",
     "model": "ALI-NX1"
+  },
+  {
+    "manufacturer": "Honor",
+    "market_name": "Honor X9b 5G",
+    "codename": "HNALI-Q",
+    "model": "ALI-NX3P"
   }
 ]

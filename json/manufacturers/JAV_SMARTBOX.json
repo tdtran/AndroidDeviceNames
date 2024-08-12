@@ -1,0 +1,11 @@
+{
+  "manufacturer": "JAV Smart-box",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Smart-box",
+      "codename": "rk3588_t",
+      "model": "BOX_1"
+    }
+  ]
+}

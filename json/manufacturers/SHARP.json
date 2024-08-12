@@ -129,6 +129,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C**GP1/GS1/GQ1/GN1",
+      "codename": "tcmar1uj",
+      "model": "AQUOS-4KTVJ23-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "4T-C**GP2/GQ2/GN2",
+      "codename": "tcmar1uj",
+      "model": "AQUOS-4KTVJ23-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C50AG1T",
       "codename": "LCD_50FOCAG1T",
       "model": "LCD_50FOCAG1T"
@@ -789,6 +801,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R9",
+      "codename": "Orga",
+      "model": "A401SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R9",
+      "codename": "Orga",
+      "model": "SH-M28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R9",
+      "codename": "SH-51E",
+      "model": "SH-51E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -1335,6 +1365,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS wish4",
+      "codename": "SH-52E",
+      "model": "SD0L4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish4",
+      "codename": "SH-52E",
+      "model": "SH-52E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish4",
+      "codename": "SX4",
+      "model": "A402SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish4",
+      "codename": "SX4",
+      "model": "SH-M27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish4",
+      "codename": "SX4",
+      "model": "SM0L4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS zero",
       "codename": "SG801SH",
       "model": "801SH"
@@ -1464,6 +1524,12 @@
       "market_name": "BASIO active",
       "codename": "DQO",
       "model": "SHG09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BASIO active2",
+      "codename": "ZKO",
+      "model": "SHG12"
     },
     {
       "manufacturer": "",
@@ -1650,6 +1716,12 @@
       "market_name": "EQ3/DN5",
       "codename": "banqiao",
       "model": "AQUOS-TVE21A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EU",
+      "codename": "sindang",
+      "model": "AQUOS-TVE19A"
     },
     {
       "manufacturer": "",
@@ -2181,6 +2253,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Leitz Phone 3",
+      "codename": "KamilleL",
+      "model": "LP-03"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Leitz Phone1",
       "codename": "JudauL",
       "model": "LP-01"
@@ -2424,6 +2502,30 @@
       "market_name": "SHARP 2K TV",
       "codename": "umeda",
       "model": "SHARP 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP 4K TV",
+      "codename": "anaheim",
+      "model": "SHARP 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP 4K TVH",
+      "codename": "anaheim",
+      "model": "SHARP 4K TVH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP 4K TVT",
+      "codename": "anaheim",
+      "model": "SHARP 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP 4K TVT",
+      "codename": "anaheim",
+      "model": "SHARP 4K TVT"
     },
     {
       "manufacturer": "",
@@ -2748,6 +2850,12 @@
       "market_name": "シンプルスマホ６",
       "codename": "Levil",
       "model": "A201SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "シンプルスマホ７",
+      "codename": "Levil5",
+      "model": "A404SH"
     },
     {
       "manufacturer": "",

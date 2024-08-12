@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Firehawk",
+      "codename": "ToughDroid_Pro",
+      "model": "FT-810"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ToughDroid",
       "codename": "ToughDroid",
       "model": "ToughDroid"

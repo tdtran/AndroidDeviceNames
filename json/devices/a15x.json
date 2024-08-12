@@ -46,5 +46,11 @@
     "market_name": "Galaxy A15 5G",
     "codename": "a15x",
     "model": "SM-S156V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Buddy3",
+    "codename": "a15x",
+    "model": "SM-A156L"
   }
 ]

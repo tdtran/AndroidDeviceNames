@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eagle_806_EEA",
+      "codename": "KM08061",
+      "model": "Eagle_806"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Eagle_807",
       "codename": "KM0807",
       "model": "Eagle_807"
@@ -153,6 +159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FLOW_11_EEA",
+      "codename": "FLOW_11",
+      "model": "FLOW 11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FLOW_11_NF_EEA",
+      "codename": "FLOW_11",
+      "model": "FLOW 11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flow_7S_EEA",
       "codename": "Flow_7S",
       "model": "Flow 7S"
@@ -162,6 +180,18 @@
       "market_name": "Flow_9_EEA",
       "codename": "Flow_9",
       "model": "Flow 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM 2K TV",
+      "codename": "capitolhill",
+      "model": "KM 2K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM 4K TV",
+      "codename": "keoneae",
+      "model": "KM 4K TV"
     },
     {
       "manufacturer": "",

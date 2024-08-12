@@ -30,6 +30,12 @@
       "market_name": "SmartabS4",
       "codename": "SmartabS4",
       "model": "SmartabS4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartabX8",
+      "codename": "SmartabX8",
+      "model": "SmartabX8"
     }
   ]
 }

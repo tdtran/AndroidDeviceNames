@@ -3,15 +3,45 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Armor C1s",
+      "codename": "Armor_C1s",
+      "model": "Armor C1s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor H1s",
+      "codename": "Armor_H1s",
+      "model": "Armor H1s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor I1 Slim",
       "codename": "Armor_I1_Slim",
       "model": "Armor I1 Slim"
     },
     {
       "manufacturer": "",
+      "market_name": "Armor I1w",
+      "codename": "Armor_I1w",
+      "model": "Armor I1w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_C1w_RU",
+      "codename": "Armor_C1w",
+      "model": "Armor_C1w"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_P1s",
       "codename": "Armor_P1s",
       "model": "Armor P1s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E10",
+      "codename": "E10",
+      "model": "E10"
     },
     {
       "manufacturer": "",
@@ -54,6 +84,12 @@
       "market_name": "Kenshi KP11",
       "codename": "KP11",
       "model": "KP11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "O8",
+      "codename": "O8",
+      "model": "O8"
     }
   ]
 }

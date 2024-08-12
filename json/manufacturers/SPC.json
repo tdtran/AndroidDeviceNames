@@ -75,6 +75,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GRAVITY_4",
+      "codename": "GRAVITY_4",
+      "model": "GRAVITY_4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_4_PLUS",
+      "codename": "GRAVITY_4_PLUS",
+      "model": "GRAVITY_4_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_5_EEA",
+      "codename": "GRAVITY_5_EEA",
+      "model": "GRAVITY_5_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_5_PRO",
+      "codename": "GRAVITY_5_PRO",
+      "model": "GRAVITY 5 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GRAVITY_5_SE_EEA",
       "codename": "GRAVITY_5_SE_EEA",
       "model": "GRAVITY 5 SE"

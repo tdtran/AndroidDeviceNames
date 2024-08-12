@@ -3,9 +3,87 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C3_EEA",
+      "codename": "C3_EEA",
+      "model": "C3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C3_Pro_EEA",
+      "codename": "C3_Pro_EEA",
+      "model": "C3_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C3_Pro_ROW",
+      "codename": "C3_Pro_ROW",
+      "model": "C3_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C3_ROW",
+      "codename": "C3_ROW",
+      "model": "C3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5",
+      "codename": "C5",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5_EEA",
+      "codename": "C5_EEA",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5_EEA",
+      "codename": "C5_EEA",
+      "model": "C5_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K07-pro",
+      "codename": "K07-pro_EEA",
+      "model": "K07-pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K07-pro_EEA",
+      "codename": "K07-pro_EEA",
+      "model": "K07-pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K10C",
+      "codename": "K10C",
+      "model": "K10C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K10C_EEA",
+      "codename": "K10C",
+      "model": "K10C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K12",
       "codename": "K12",
       "model": "K12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K12-EEA",
+      "codename": "K12-EEA",
+      "model": "K12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K12-EEA",
+      "codename": "K12-EEA",
+      "model": "K12-ROW"
     }
   ]
 }

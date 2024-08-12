@@ -4,5 +4,11 @@
     "market_name": "RT6_EEA",
     "codename": "RT6",
     "model": "RT6"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "RT6_NFC_EEA",
+    "codename": "RT6",
+    "model": "RT6"
   }
 ]

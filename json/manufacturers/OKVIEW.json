@@ -1,0 +1,11 @@
+{
+  "manufacturer": "OKView",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IFP",
+      "codename": "rk3588_t",
+      "model": "IFP"
+    }
+  ]
+}

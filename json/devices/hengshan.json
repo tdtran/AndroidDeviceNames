@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Hisense",
+    "market_name": "SmartLaser 4K",
+    "codename": "hengshan",
+    "model": "SmartLaser 4K"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "SmartTV 4K",
+    "codename": "hengshan",
+    "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "ULED",
     "codename": "hengshan",
     "model": "SmartTV 4K FFM"
@@ -10,5 +22,11 @@
     "market_name": "65Z870MS",
     "codename": "hengshan",
     "model": "SmartTV 4K FFM"
+  },
+  {
+    "manufacturer": "Vu Televisions",
+    "market_name": "55QMP",
+    "codename": "hengshan",
+    "model": "VU TV FFM"
   }
 ]

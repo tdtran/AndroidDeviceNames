@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Clevertouch LUX Mini",
+      "codename": "rk3588_t",
+      "model": "LUX_Mini_Module"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IMPACT Lux",
       "codename": "rk3588_t",
       "model": "Impact_Lux_Display"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UX Pro Edge",
+      "codename": "rk3588_t",
+      "model": "UX_Pro_Edge_Display"
     }
   ]
 }

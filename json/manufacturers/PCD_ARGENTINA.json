@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P65",
+      "codename": "P65_CA",
+      "model": "P65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P65",
+      "codename": "P65_CA",
+      "model": "P65R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PCD508",
       "codename": "PCD508",
       "model": "PCD508"

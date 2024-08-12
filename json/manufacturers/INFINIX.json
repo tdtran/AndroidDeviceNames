@@ -27,15 +27,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "APAC",
-      "codename": "kualakai",
-      "model": "Infinix Google TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "GT 10 Pro",
       "codename": "Infinix-X6739",
       "model": "Infinix X6739"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GT 20 Pro",
+      "codename": "Infinix-X6871",
+      "model": "Infinix X6871"
     },
     {
       "manufacturer": "",
@@ -429,6 +429,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix Google TV",
+      "codename": "kualakai",
+      "model": "Infinix Google TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix HOT 10 Lite",
       "codename": "Infinix-X657B",
       "model": "Infinix X657B"
@@ -729,6 +735,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix NOTE 40 5G",
+      "codename": "Infinix-X6852",
+      "model": "Infinix X6852"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix NOTE 40 Pro",
       "codename": "Infinix-X6850",
       "model": "Infinix X6850"
@@ -738,6 +750,18 @@
       "market_name": "Infinix NOTE 40 Pro 5G",
       "codename": "Infinix-X6851",
       "model": "Infinix X6851"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 40S",
+      "codename": "Infinix-X6850B",
+      "model": "Infinix X6850B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 40X 5G",
+      "codename": "Infinix-X6838",
+      "model": "Infinix X6838"
     },
     {
       "manufacturer": "",
@@ -807,6 +831,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinix SMART 8",
+      "codename": "Infinix-X6525D",
+      "model": "Infinix X6525D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix SMART 8 HD",
       "codename": "Infinix-X6525",
       "model": "Infinix X6525"
@@ -870,6 +900,18 @@
       "market_name": "Infinix ZERO 30",
       "codename": "Infinix-X6731B",
       "model": "Infinix X6731B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix ZERO 40",
+      "codename": "Infinix-X6860",
+      "model": "Infinix X6860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix ZERO 40 5G",
+      "codename": "Infinix-X6861",
+      "model": "Infinix X6861"
     },
     {
       "manufacturer": "",
@@ -1584,6 +1626,18 @@
       "market_name": "X600",
       "codename": "INFINIX-X600-H533-5M",
       "model": "Infinix-X600-LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XPAD",
+      "codename": "Infinix-X1101",
+      "model": "Infinix X1101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XPAD",
+      "codename": "Infinix-X1101B",
+      "model": "Infinix X1101B"
     },
     {
       "manufacturer": "",

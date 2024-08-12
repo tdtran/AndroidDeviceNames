@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMARTJ5-M",
+      "codename": "SMARTJ5-M",
+      "model": "SMARTJ5-M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMARTKIDS",
       "codename": "SMARTKIDS",
       "model": "SMARTKIDS"
@@ -51,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart55R",
+      "codename": "Smart55R",
+      "model": "OMS55R24B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart65Q",
       "codename": "OMS65Q23B",
       "model": "Smart65Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart65R",
+      "codename": "OMS65R24B",
+      "model": "Smart65R"
     },
     {
       "manufacturer": "",
@@ -66,6 +84,12 @@
       "market_name": "SmartX1",
       "codename": "SmartX1",
       "model": "OpelMobile_SmartX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartX65",
+      "codename": "OMSX6524B",
+      "model": "SmartX65"
     },
     {
       "manufacturer": "",

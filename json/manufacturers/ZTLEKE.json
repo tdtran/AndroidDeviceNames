@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ZTLEKE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P10MAX",
+      "codename": "P10MAX",
+      "model": "P10MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8Plus",
+      "codename": "S8Plus",
+      "model": "S8Plus"
+    }
+  ]
+}

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HSD0001A",
+      "codename": "Reader",
+      "model": "HannsNote2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HSG1279",
       "codename": "HANNSpad",
       "model": "HSG1279"

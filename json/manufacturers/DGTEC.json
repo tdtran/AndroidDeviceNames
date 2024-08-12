@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DG101HSTB",
+      "codename": "DG101HSTB",
+      "model": "DG101HSTB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DG101TBIPS",
       "codename": "DG101TBIPS",
       "model": "DG101TBIPS"

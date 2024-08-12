@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "StarBoard",
+    "market_name": "TE_QS",
+    "codename": "TE_QS",
+    "model": "TE_QS"
+  },
+  {
     "manufacturer": "iBoard",
     "market_name": "IFPD",
     "codename": "TE_QS",

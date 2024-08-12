@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Graetz",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GRAETZ",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAETZ",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    }
+  ]
+}

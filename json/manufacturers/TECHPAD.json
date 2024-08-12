@@ -243,6 +243,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X9",
+      "codename": "X9_PLUS",
+      "model": "X9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z10",
+      "codename": "Z10",
+      "model": "Z10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i700",
       "codename": "i700",
       "model": "Tech Pad i700"

@@ -1,0 +1,77 @@
+{
+  "manufacturer": "Aermoo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CM08",
+      "codename": "PT3_2",
+      "model": "CM08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM10",
+      "codename": "PT1E_2",
+      "model": "CM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CM20",
+      "codename": "PT2_1",
+      "model": "CM20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DF10",
+      "codename": "M22PE",
+      "model": "DF10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DF10 Pro",
+      "codename": "M22G_2",
+      "model": "DF10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PF10",
+      "codename": "M23HE_2",
+      "model": "PF10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PF10 Pro",
+      "codename": "M23HT_2",
+      "model": "PF10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PF20",
+      "codename": "ZN133SE",
+      "model": "PF 20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PF20 Pro",
+      "codename": "ZN133TE",
+      "model": "PF20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG Mini",
+      "codename": "ZN137E",
+      "model": "RG Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG10",
+      "codename": "F1_2",
+      "model": "RG10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG10S",
+      "codename": "F1C_2",
+      "model": "RG10S"
+    }
+  ]
+}

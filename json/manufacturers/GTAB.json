@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PAD10",
+      "codename": "PAD10",
+      "model": "PAD10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PL1000B",
       "codename": "S30",
       "model": "S30"
@@ -267,6 +273,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S50-pro",
+      "codename": "S50-pro",
+      "model": "S50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S8",
       "codename": "S8",
       "model": "S8"
@@ -288,6 +300,24 @@
       "market_name": "S8X",
       "codename": "S8X",
       "model": "S8X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "T10_1",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T11_1",
+      "codename": "T11_1",
+      "model": "T11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T11_1",
+      "codename": "T11_1",
+      "model": "T11_1"
     }
   ]
 }

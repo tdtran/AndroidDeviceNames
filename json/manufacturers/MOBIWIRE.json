@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Awadjidjè",
+      "codename": "H5111",
+      "model": "Awadjidje"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Benin",
       "codename": "H6681_Pro",
       "model": "Moov Smart Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Celtiis Smart 1",
+      "codename": "H5032U",
+      "model": "Smart 1"
     },
     {
       "manufacturer": "",
@@ -72,6 +84,30 @@
       "market_name": "H5111",
       "codename": "H5111",
       "model": "H5111"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H5111",
+      "codename": "H5111",
+      "model": "Kicka 6 Plus 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H5111L",
+      "codename": "H5111L",
+      "model": "H5111L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H5111L",
+      "codename": "H5111L",
+      "model": "IKOSORA+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H5111L_common",
+      "codename": "H5111L",
+      "model": "H5111L_MTN"
     },
     {
       "manufacturer": "",
@@ -255,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S26",
+      "codename": "H5112",
+      "model": "S26"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S4040",
       "codename": "S4040",
       "model": "S4040"
@@ -300,6 +342,12 @@
       "market_name": "Smart E11",
       "codename": "Smart_E11_1",
       "model": "SmartE11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart E25",
+      "codename": "Smart_E25",
+      "model": "Smart E25"
     },
     {
       "manufacturer": "",
@@ -360,6 +408,12 @@
       "market_name": "V Lite 2",
       "codename": "V_Lite_2",
       "model": "V Lite 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V Pro 2 4G",
+      "codename": "V_Pro_2",
+      "model": "V Pro 2"
     },
     {
       "manufacturer": "",

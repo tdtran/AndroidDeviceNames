@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dreamstar 4K SMART TV",
+      "codename": "marina",
+      "model": "Dreamstar 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EXPRESS",
       "codename": "marina",
       "model": "Apollo Premium4K TV"
@@ -108,18 +114,6 @@
       "market_name": "Mexico",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Newal 2K SMART TV",
-      "codename": "nagata",
-      "model": "Newal 2K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Newal 4K SMART TV",
-      "codename": "marina",
-      "model": "Newal 4K SMART TV"
     },
     {
       "manufacturer": "",

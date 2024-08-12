@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E109GCM",
+      "codename": "E109GCM",
+      "model": "E109GCM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P80",
       "codename": "P80",
       "model": "P80"

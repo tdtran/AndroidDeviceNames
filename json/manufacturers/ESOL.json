@@ -12,6 +12,12 @@
       "market_name": "HCB_5186",
       "codename": "Interactive_White_Board",
       "model": "HCB_5186"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HCB_52series",
+      "codename": "Interactive_White_Board",
+      "model": "HCB_52series"
     }
   ]
 }

@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z118-T-EEA",
+      "codename": "Z118-T-EEA",
+      "model": "Z118-T-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z118-T-US",
+      "codename": "Z118-T-US",
+      "model": "Z118-T-US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z118-US",
       "codename": "Z118-US",
       "model": "Z118-US"

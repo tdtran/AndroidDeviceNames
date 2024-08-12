@@ -42,6 +42,12 @@
       "market_name": "T737PRO",
       "codename": "T737PRO",
       "model": "T737PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T787-4G",
+      "codename": "T787-4G",
+      "model": "T787-4G"
     }
   ]
 }

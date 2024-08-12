@@ -111,6 +111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite 63Pro",
+      "codename": "Elite_63Pro",
+      "model": "Elite 63Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite 65Pro",
+      "codename": "Elite_65Pro",
+      "model": "Elite 65Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite 6Max",
       "codename": "Elite_6Max",
       "model": "Elite 6Max"
@@ -160,8 +172,38 @@
     {
       "manufacturer": "",
       "market_name": "Elite A63Max",
+      "codename": "Elite_A63B_Max_B",
+      "model": "Elite A63Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A63Max",
+      "codename": "Elite_A63CMaxC",
+      "model": "Elite A63Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A63Max",
       "codename": "Elite_A63MUS",
       "model": "Elite A63Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A63Max",
+      "codename": "Elite_A63_A_MaxA",
+      "model": "Elite A63Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A63Max",
+      "codename": "Elite_A63_D_Max_D",
+      "model": "Elite A63Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite A63Mxca",
+      "codename": "Elite_A63Mxca",
+      "model": "Elite A63Mxca"
     },
     {
       "manufacturer": "",

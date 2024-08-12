@@ -6,6 +6,18 @@
       "market_name": "D08",
       "codename": "D08",
       "model": "D08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D9",
+      "codename": "D9",
+      "model": "D9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SM1",
+      "codename": "SM1",
+      "model": "SM1"
     }
   ]
 }

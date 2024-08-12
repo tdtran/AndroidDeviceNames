@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Stream Dongle",
+      "codename": "DV6113Z-KST",
+      "model": "Streaming Dongle"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Telenor Mediahubb",
       "codename": "vip5702w_tn",
       "model": "Telenor Mediahubb"

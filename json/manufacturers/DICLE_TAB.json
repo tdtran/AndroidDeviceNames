@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dicle Tab XPAD",
+      "codename": "Dicle_Tab_XPAD",
+      "model": "U1101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dicle_Tab_Active",
       "codename": "Active",
       "model": "Active"

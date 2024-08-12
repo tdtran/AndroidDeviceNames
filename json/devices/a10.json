@@ -30,7 +30,25 @@
     "model": "A10"
   },
   {
+    "manufacturer": "Caxilysh",
+    "market_name": "A10",
+    "codename": "A10",
+    "model": "A10"
+  },
+  {
+    "manufacturer": "Caxilysh",
+    "market_name": "A10_EEA",
+    "codename": "A10",
+    "model": "A10"
+  },
+  {
     "manufacturer": "Concord",
+    "market_name": "A10",
+    "codename": "A10",
+    "model": "A10"
+  },
+  {
+    "manufacturer": "Cubot",
     "market_name": "A10",
     "codename": "A10",
     "model": "A10"
@@ -88,5 +106,11 @@
     "market_name": "Galaxy A10",
     "codename": "a10",
     "model": "SM-A105N"
+  },
+  {
+    "manufacturer": "iYOU",
+    "market_name": "A10",
+    "codename": "A10",
+    "model": "A10"
   }
 ]

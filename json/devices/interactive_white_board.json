@@ -6,9 +6,27 @@
     "model": "HCB_5186"
   },
   {
+    "manufacturer": "ESOL",
+    "market_name": "HCB_52series",
+    "codename": "Interactive_White_Board",
+    "model": "HCB_52series"
+  },
+  {
     "manufacturer": "HORIZON",
     "market_name": "ID65HZA3B1_C",
     "codename": "Interactive_White_Board",
     "model": "ID65HZA3B1_C"
+  },
+  {
+    "manufacturer": "HORIZON",
+    "market_name": "ID75HZA3B1_C",
+    "codename": "Interactive_White_Board",
+    "model": "ID75HZA3B1_C"
+  },
+  {
+    "manufacturer": "HORIZON",
+    "market_name": "ID86HZA3B1_C",
+    "codename": "Interactive_White_Board",
+    "model": "ID86HZA3B1_C"
   }
 ]

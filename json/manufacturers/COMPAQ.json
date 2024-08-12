@@ -87,15 +87,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q5 PRO",
+      "codename": "Q5_PRO",
+      "model": "Q5_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q6",
       "codename": "Q6",
       "model": "Q6"
     },
     {
       "manufacturer": "",
+      "market_name": "QT10",
+      "codename": "Compaq_QT10",
+      "model": "QT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QTAB",
       "codename": "QTAB",
       "model": "QTAB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTAB10_1",
+      "codename": "QTAB10_1",
+      "model": "QTAB10.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTAB10_1",
+      "codename": "QTAB10_1",
+      "model": "QTAB10_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTAB10_PLUS",
+      "codename": "QTAB10_PLUS",
+      "model": "QTAB10_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTAB8",
+      "codename": "QTAB8",
+      "model": "QTAB8"
     },
     {
       "manufacturer": "",
@@ -114,6 +150,12 @@
       "market_name": "QTab8_LTE",
       "codename": "QTab8_LTE",
       "model": "QTab8_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QTabPro",
+      "codename": "QTabPro",
+      "model": "QTabPro"
     },
     {
       "manufacturer": "",

@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Star10_Pro",
+      "codename": "Star10_Pro",
+      "model": "Star10_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Star7_3G",
       "codename": "Star7_3G",
       "model": "Star7 3G"
@@ -144,6 +150,12 @@
       "market_name": "Star8_3G",
       "codename": "Star8_3G",
       "model": "Star8_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star9_Pro",
+      "codename": "Star9_Pro",
+      "model": "Star9_Pro"
     },
     {
       "manufacturer": "",

@@ -4,5 +4,11 @@
     "market_name": "C37",
     "codename": "C37",
     "model": "C37"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "C37_EEA",
+    "codename": "C37",
+    "model": "C37"
   }
 ]

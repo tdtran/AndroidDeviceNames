@@ -537,6 +537,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Ace 3V",
+      "codename": "OP5CFBL1",
+      "model": "PJF110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus Ace 竞速版",
       "codename": "OP5911",
       "model": "PGZ110"
@@ -579,6 +585,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Nord 4",
+      "codename": "OP5E93L1",
+      "model": "CPH2661"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord 4",
+      "codename": "OP5E93L1",
+      "model": "CPH2663"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus Nord CE 2",
       "codename": "OP555BL1",
       "model": "IV2201"
@@ -618,6 +636,12 @@
       "market_name": "OnePlus Nord CE 5G",
       "codename": "OnePlusNordCE",
       "model": "EB2103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Nord CE4",
+      "codename": "OP5D3FL1",
+      "model": "CPH2613"
     },
     {
       "manufacturer": "",
@@ -765,6 +789,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Watch 2R",
+      "codename": "OPWWE234",
+      "model": "OPWWE234"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus2",
       "codename": "OnePlus2",
       "model": "ONE A2003"
@@ -813,6 +843,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Oneplus Ace 2 Pro",
+      "codename": "OP5943L1",
+      "model": "PJA110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Oneplus Ace 3 Pro",
+      "codename": "OP5D06L1",
+      "model": "PJX110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Oneplus_Dosa_IN",
       "codename": "Oneplus_Dosa_IN",
       "model": "Oneplus_Dosa_IN"
@@ -840,6 +882,12 @@
       "market_name": "Y Series",
       "codename": "shibuya",
       "model": "Y Series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "一加平板Pro",
+      "codename": "OP5D77L1",
+      "model": "OPD2404"
     }
   ]
 }

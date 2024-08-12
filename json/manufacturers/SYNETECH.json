@@ -6,6 +6,12 @@
       "market_name": "Synetech Elite Taurus",
       "codename": "rk3588_t",
       "model": "Synetech_T35"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Synetech_Elite_Taurus",
+      "codename": "rk3588_t",
+      "model": "Synetech_T35"
     }
   ]
 }

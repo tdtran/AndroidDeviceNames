@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Aiwa",
+    "market_name": "AIWA",
+    "codename": "hongkong",
+    "model": "AIWA 4K GOOGLE TV"
+  },
+  {
+    "manufacturer": "Aiwa",
     "market_name": "Aiwa",
     "codename": "hongkong",
     "model": "4K SMART TV"
@@ -76,6 +82,24 @@
     "market_name": "FPD",
     "codename": "hongkong",
     "model": "EcoTV Pro I"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "hongkong",
+    "model": "4K SMART ATSC TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "hongkong",
+    "model": "4K SMART COL TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "hongkong",
+    "model": "4K SMART ISDB TV"
   },
   {
     "manufacturer": "Indurama",
@@ -193,7 +217,25 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "IHOME",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "IMMER",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "INCLO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "INNO-HIT",
     "codename": "hongkong",
     "model": "4K SMART TV"
   },
@@ -250,6 +292,12 @@
     "market_name": "SVISION",
     "codename": "hongkong",
     "model": "SVISION 4K Android TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "THEUHD",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "KTCtv",
@@ -330,6 +378,12 @@
     "model": "MOTOROLA GOOGLE TV 4K ATSC"
   },
   {
+    "manufacturer": "Mtek",
+    "market_name": "MTEK",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "NIKAI_PRO",
     "market_name": "NIKAI_PRO",
     "codename": "hongkong",
@@ -386,6 +440,12 @@
   {
     "manufacturer": "Siragon",
     "market_name": "Siragon",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Soneview",
+    "market_name": "SONEVIEW",
     "codename": "hongkong",
     "model": "4K SMART TV"
   },

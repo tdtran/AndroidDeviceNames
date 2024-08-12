@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T Phone 2",
+      "codename": "PUMA",
+      "model": "T Phone 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T Phone 2 Pro",
+      "codename": "CHEETAH",
+      "model": "T Phone 2 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T Phone Pro",
       "codename": "Lion",
       "model": "T Phone Pro"

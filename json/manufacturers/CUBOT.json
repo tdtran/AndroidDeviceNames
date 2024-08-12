@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10",
+      "codename": "A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1_EEA",
       "codename": "A1",
       "model": "A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20",
+      "codename": "A20",
+      "model": "A20"
     },
     {
       "manufacturer": "",
@@ -183,9 +195,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG ACE 3",
+      "codename": "KINGKONG_ACE_3",
+      "model": "KINGKONG ACE 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG CS",
       "codename": "KING_KONG_CS",
       "model": "KING KONG CS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG ES",
+      "codename": "KINGKONG_ES",
+      "model": "KINGKONG_ES"
     },
     {
       "manufacturer": "",
@@ -216,6 +240,12 @@
       "market_name": "KINGKONG STAR",
       "codename": "KINGKONG_STAR",
       "model": "KINGKONG STAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG X",
+      "codename": "KINGKONG_X",
+      "model": "KINGKONG X"
     },
     {
       "manufacturer": "",
@@ -252,6 +282,12 @@
       "market_name": "MAX 3",
       "codename": "MAX_3",
       "model": "MAX 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAX 5",
+      "codename": "MAX_5",
+      "model": "MAX 5"
     },
     {
       "manufacturer": "",
@@ -486,6 +522,12 @@
       "market_name": "X70",
       "codename": "X70",
       "model": "X70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X90",
+      "codename": "X90",
+      "model": "X90"
     },
     {
       "manufacturer": "",

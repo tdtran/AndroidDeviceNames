@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PAD-A7",
+      "codename": "Rugged_Tablet-A7",
+      "model": "PAD-A7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ST11-A5",
       "codename": "ST11-A5",
       "model": "ST11-A5"

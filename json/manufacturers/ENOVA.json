@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N50E",
+      "codename": "N50",
+      "model": "N50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAE08N10",
       "codename": "TAE08N10",
       "model": "TAE08N10"

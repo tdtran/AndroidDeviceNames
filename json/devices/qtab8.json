@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Compaq",
+    "market_name": "QTAB8",
+    "codename": "QTAB8",
+    "model": "QTAB8"
+  },
+  {
+    "manufacturer": "Compaq",
     "market_name": "QTab8",
     "codename": "QTab8",
     "model": "QTab8"

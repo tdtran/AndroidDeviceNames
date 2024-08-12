@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ATMPC",
+    "market_name": "A9_EEA",
+    "codename": "A9",
+    "model": "A9"
+  },
+  {
     "manufacturer": "Acer",
     "market_name": "CloudMobile S500",
     "codename": "a9",
@@ -19,6 +25,12 @@
   },
   {
     "manufacturer": "Kenxinda",
+    "market_name": "A9",
+    "codename": "A9",
+    "model": "A9"
+  },
+  {
+    "manufacturer": "MUJENYZ",
     "market_name": "A9",
     "codename": "A9",
     "model": "A9"

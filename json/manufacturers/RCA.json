@@ -249,6 +249,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RATM30846",
+      "codename": "RATM30846",
+      "model": "RATM30846"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RATM3144B",
+      "codename": "RATM3144B",
+      "model": "RATM3144B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RATR30824",
       "codename": "RATR30824",
       "model": "RATR30824"
@@ -444,6 +456,18 @@
       "market_name": "RCA Reno Max",
       "codename": "RCA_Reno_Max",
       "model": "Reno Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA TV 2K-A",
+      "codename": "lasalle",
+      "model": "RCA TV 2K-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA TV 4K G",
+      "codename": "keoneae",
+      "model": "RCA TV 4K G"
     },
     {
       "manufacturer": "",
@@ -762,6 +786,12 @@
       "market_name": "Smart TV",
       "codename": "ueno",
       "model": "2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_Pro",
+      "codename": "Tab_Pro",
+      "model": "Tab_Pro"
     },
     {
       "manufacturer": "",

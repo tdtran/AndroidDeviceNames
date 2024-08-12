@@ -4,5 +4,17 @@
     "market_name": "Nokia 1 Plus",
     "codename": "ANT",
     "model": "Nokia 1 Plus"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 505",
+    "codename": "Ant",
+    "model": "T509A"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 505",
+    "codename": "Ant",
+    "model": "T509K"
   }
 ]

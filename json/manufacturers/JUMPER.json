@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EZpad_M10_HD",
+      "codename": "EZpad_M10_HD",
+      "model": "EZpad M10 HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EZpad_M11",
       "codename": "EZpad_M11",
       "model": "EZpad_M11"
@@ -30,6 +36,12 @@
       "market_name": "EZpad_M11_Pro",
       "codename": "EZpad_M11_Pro",
       "model": "EZpad M11 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z1",
+      "codename": "Z1",
+      "model": "Z1"
     }
   ]
 }

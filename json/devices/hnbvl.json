@@ -10,5 +10,17 @@
     "market_name": "HONOR Magic6 Pro",
     "codename": "HNBVL",
     "model": "BVL-N49"
+  },
+  {
+    "manufacturer": "Honor",
+    "market_name": "PORSCHE DESIGN HONOR Magic6",
+    "codename": "HNBVL",
+    "model": "BVL-N59"
+  },
+  {
+    "manufacturer": "Honor",
+    "market_name": "PORSCHE DESIGN HONOR Magic6 RSR",
+    "codename": "HNBVL",
+    "model": "BVL-AN20"
   }
 ]

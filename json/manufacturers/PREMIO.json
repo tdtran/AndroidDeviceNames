@@ -153,6 +153,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S55",
+      "codename": "S55",
+      "model": "S55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S56",
+      "codename": "S56",
+      "model": "S56"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S57",
+      "codename": "S57",
+      "model": "S57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S70",
       "codename": "S70",
       "model": "S70"
@@ -255,6 +273,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S94",
+      "codename": "S94",
+      "model": "S94"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "T1",
       "model": "T1"
@@ -270,6 +294,12 @@
       "market_name": "TAB8",
       "codename": "TAB8",
       "model": "TAB8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_8.1",
+      "codename": "TAB_8_1",
+      "model": "TAB 8.1"
     },
     {
       "manufacturer": "",
@@ -300,6 +330,12 @@
       "market_name": "X76",
       "codename": "X76",
       "model": "X76"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X77",
+      "codename": "X77",
+      "model": "X77"
     },
     {
       "manufacturer": "",
@@ -366,6 +402,12 @@
       "market_name": "X91",
       "codename": "X91",
       "model": "X91"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X97",
+      "codename": "X97",
+      "model": "X97"
     }
   ]
 }

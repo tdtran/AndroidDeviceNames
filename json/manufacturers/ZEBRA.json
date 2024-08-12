@@ -225,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MC9450",
+      "codename": "MC9450",
+      "model": "MC9450"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PS20 (Personal Shopper)",
       "codename": "PS20JB",
       "model": "PS20J"
@@ -339,6 +345,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC53E",
+      "codename": "TC53E",
+      "model": "TC53E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC55",
       "codename": "TC55",
       "model": "TC55"
@@ -357,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC58E",
+      "codename": "TC58E",
+      "model": "TC58E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC70x",
       "codename": "TC70x",
       "model": "TC70x"
@@ -365,6 +383,12 @@
       "manufacturer": "",
       "market_name": "TC73",
       "codename": "TC73",
+      "model": "TC73"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC73",
+      "codename": "TC73T",
       "model": "TC73"
     },
     {
@@ -383,6 +407,12 @@
       "manufacturer": "",
       "market_name": "TC78",
       "codename": "TC78",
+      "model": "TC78"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC78",
+      "codename": "TC78T",
       "model": "TC78"
     },
     {

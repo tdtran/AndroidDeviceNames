@@ -1,0 +1,11 @@
+{
+  "manufacturer": "STARTMOBIS",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "START24",
+      "codename": "START24",
+      "model": "START24"
+    }
+  ]
+}

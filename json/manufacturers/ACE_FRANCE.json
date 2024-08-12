@@ -57,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BUZZ 5 Pro",
+      "codename": "BUZZ_5_Pro",
+      "model": "BUZZ 5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 5 Pro PLUS",
+      "codename": "BUZZ_5_Pro_PLUS",
+      "model": "BUZZ 5 Pro PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BUZZ_1_Lite",
       "codename": "BUZZ_1_Lite",
       "model": "BUZZ 1 Lite"

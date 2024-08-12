@@ -1,0 +1,17 @@
+{
+  "manufacturer": "2E (ERC)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "2E 2K Google TV",
+      "codename": "capitolhill",
+      "model": "2E 2K Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "2E 4K Google TV",
+      "codename": "keoneae",
+      "model": "2E 4K Google TV"
+    }
+  ]
+}

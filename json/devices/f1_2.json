@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Aermoo",
+    "market_name": "RG10",
+    "codename": "F1_2",
+    "model": "RG10"
+  },
+  {
     "manufacturer": "G-Tab",
     "market_name": "F1_2",
     "codename": "F1_2",

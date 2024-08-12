@@ -6,6 +6,18 @@
       "market_name": "GOOGLE EDLA CERTIFIED SLOT-IN OPS",
       "codename": "i3COMPUTER-A01-OPS",
       "model": "i3COMPUTER-A01-OPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i3SIXTY-3",
+      "codename": "i3SIXTY-3",
+      "model": "i3SIXTY-3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i3TOUCH-X3",
+      "codename": "i3TOUCH-X3",
+      "model": "i3TOUCH-X3"
     }
   ]
 }

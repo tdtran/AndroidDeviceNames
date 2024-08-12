@@ -7,7 +7,7 @@
   },
   {
     "manufacturer": "COMBUSTECH",
-    "market_name": "Customer need debug",
+    "market_name": "COMBUSTECH-IFPD",
     "codename": "rk3588_t",
     "model": "COMBUS_IB"
   },
@@ -18,10 +18,10 @@
     "model": "SA12 series"
   },
   {
-    "manufacturer": "CVTE",
-    "market_name": "edu_v2",
+    "manufacturer": "ClearTouch",
+    "market_name": "NEXT_TDED",
     "codename": "rk3588_t",
-    "model": "edu_v2"
+    "model": "CTI_NEXT_TDED_S10"
   },
   {
     "manufacturer": "ClearTouch",
@@ -31,9 +31,27 @@
   },
   {
     "manufacturer": "Clevertouch",
+    "market_name": "Clevertouch LUX Mini",
+    "codename": "rk3588_t",
+    "model": "LUX_Mini_Module"
+  },
+  {
+    "manufacturer": "Clevertouch",
     "market_name": "IMPACT Lux",
     "codename": "rk3588_t",
     "model": "Impact_Lux_Display"
+  },
+  {
+    "manufacturer": "Clevertouch",
+    "market_name": "UX Pro Edge",
+    "codename": "rk3588_t",
+    "model": "UX_Pro_Edge_Display"
+  },
+  {
+    "manufacturer": "DeepHub",
+    "market_name": "DeepHub Ultimate",
+    "codename": "rk3588_t",
+    "model": "MC480-U"
   },
   {
     "manufacturer": "ESOL",
@@ -42,16 +60,40 @@
     "model": "CCBEK"
   },
   {
+    "manufacturer": "Fujitsu",
+    "market_name": "INTERACTIVE_PANEL",
+    "codename": "rk3588_t",
+    "model": "IWxx2_DX"
+  },
+  {
     "manufacturer": "Helgi",
     "market_name": "HXxx10",
     "codename": "rk3588_t",
     "model": "Helgi_HX10"
   },
   {
+    "manufacturer": "JAV Smart-box",
+    "market_name": "Smart-box",
+    "codename": "rk3588_t",
+    "model": "BOX_1"
+  },
+  {
     "manufacturer": "JTWORKS",
     "market_name": "JTWORKS-IFPD",
     "codename": "rk3588_t",
     "model": "JTW"
+  },
+  {
+    "manufacturer": "LG_Electronics",
+    "market_name": "TR3PN",
+    "codename": "rk3588_t",
+    "model": "TR3PN"
+  },
+  {
+    "manufacturer": "MCTV",
+    "market_name": "MCIFPD",
+    "codename": "rk3588_t",
+    "model": "MCIFPD"
   },
   {
     "manufacturer": "MPORT",
@@ -72,6 +114,12 @@
     "model": "Q23"
   },
   {
+    "manufacturer": "OKView",
+    "market_name": "IFP",
+    "codename": "rk3588_t",
+    "model": "IFP"
+  },
+  {
     "manufacturer": "OMAX",
     "market_name": "OMAX-IFPD",
     "codename": "rk3588_t",
@@ -84,8 +132,20 @@
     "model": "T7"
   },
   {
+    "manufacturer": "Optoma",
+    "market_name": "IFP5Gen3",
+    "codename": "rk3588_t",
+    "model": "UXXSRK"
+  },
+  {
     "manufacturer": "Synetech",
     "market_name": "Synetech Elite Taurus",
+    "codename": "rk3588_t",
+    "model": "Synetech_T35"
+  },
+  {
+    "manufacturer": "Synetech",
+    "market_name": "Synetech_Elite_Taurus",
     "codename": "rk3588_t",
     "model": "Synetech_T35"
   },
@@ -106,5 +166,17 @@
     "market_name": "VECT-IFPD",
     "codename": "rk3588_t",
     "model": "UIT"
+  },
+  {
+    "manufacturer": "VIVITEK",
+    "market_name": "NovoTouch",
+    "codename": "rk3588_t",
+    "model": "EK4"
+  },
+  {
+    "manufacturer": "iiyama",
+    "market_name": "TEXX14MIS-B2AG",
+    "codename": "rk3588_t",
+    "model": "TEXX14MIS-B2AG"
   }
 ]

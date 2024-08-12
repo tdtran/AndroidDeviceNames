@@ -18,6 +18,12 @@
     "model": "X11"
   },
   {
+    "manufacturer": "PicassoTab",
+    "market_name": "PicassoTab_X11",
+    "codename": "X11",
+    "model": "PicassoTab X11"
+  },
+  {
     "manufacturer": "Techpad",
     "market_name": "X11",
     "codename": "X11",

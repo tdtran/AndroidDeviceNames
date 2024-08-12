@@ -6,6 +6,18 @@
       "market_name": "Starboard Solution Inc",
       "codename": "TE_YL",
       "model": "TE_YL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE_QS",
+      "codename": "TE_QS",
+      "model": "TE_QS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YL",
+      "codename": "YL",
+      "model": "YL"
     }
   ]
 }

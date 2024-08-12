@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Newal",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Newal 2K SMART TV",
+      "codename": "nagata",
+      "model": "Newal 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Newal 4K SMART TV",
+      "codename": "marina",
+      "model": "Newal 4K SMART TV"
+    }
+  ]
+}

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TGO_TB1001_4RO",
+      "codename": "TGO_TB1001_4RO",
+      "model": "TGO_TB1001_4RO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TGO_TB780i",
       "codename": "TGO_TB780i",
       "model": "TGO_TB780i"

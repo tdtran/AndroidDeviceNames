@@ -1,8 +1,14 @@
 [
   {
     "manufacturer": "Infinix",
-    "market_name": "APAC",
+    "market_name": "Infinix Google TV",
     "codename": "kualakai",
     "model": "Infinix Google TV"
+  },
+  {
+    "manufacturer": "PANORAMA",
+    "market_name": "Smart TV",
+    "codename": "kualakai",
+    "model": "Smart TV"
   }
 ]

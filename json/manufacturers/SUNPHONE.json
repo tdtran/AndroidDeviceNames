@@ -1,0 +1,11 @@
+{
+  "manufacturer": "SUNPHONE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "L4",
+      "codename": "L4",
+      "model": "L3"
+    }
+  ]
+}

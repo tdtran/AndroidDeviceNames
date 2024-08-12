@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A131",
+      "codename": "A131",
+      "model": "A131"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A140",
       "codename": "A140",
       "model": "A140"
@@ -30,6 +36,12 @@
       "market_name": "A145",
       "codename": "A145",
       "model": "A145"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A150",
+      "codename": "A150",
+      "model": "A150"
     },
     {
       "manufacturer": "",

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Glory TV",
+      "codename": "umeda",
+      "model": "Glory TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "longshan",
       "model": "AI PONT"

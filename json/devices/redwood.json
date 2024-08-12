@@ -6,6 +6,18 @@
     "model": "AI PONT"
   },
   {
+    "manufacturer": "ANEXA",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "ANEXA Android TV"
+  },
+  {
+    "manufacturer": "ARTEQLED",
+    "market_name": "Smart TV",
+    "codename": "redwood",
+    "model": "ARTEQLED Android TV"
+  },
+  {
     "manufacturer": "ASHER",
     "market_name": "Smart TV",
     "codename": "redwood",
@@ -220,6 +232,12 @@
     "market_name": "Smart TV",
     "codename": "redwood",
     "model": "AI PONT"
+  },
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO X5 Pro 5G",
+    "codename": "redwood",
+    "model": "22101320G"
   },
   {
     "manufacturer": "Polaroid",

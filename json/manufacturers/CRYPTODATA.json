@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HidR_EVO",
+      "codename": "HidR_EVO",
+      "model": "EVO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hidr S1 PRO",
       "codename": "Hidr_S1_PRO",
       "model": "Hidr_S1_PRO"

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Mobicel",
+    "market_name": "F41",
+    "codename": "F41",
+    "model": "F41"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy F41",
     "codename": "f41",

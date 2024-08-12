@@ -159,9 +159,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor Pad 4 Ultra",
+      "codename": "GQ3121AF1",
+      "model": "Armor Pad 4 Ultra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor Pad Lite",
       "codename": "ArmorPadLite",
       "model": "Armor Pad Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor Pad Pro",
+      "codename": "ArmorPadPro",
+      "model": "Armor Pad Pro"
     },
     {
       "manufacturer": "",
@@ -288,6 +300,12 @@
       "market_name": "Armor6",
       "codename": "Armor_6",
       "model": "Armor_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ArmorPad3Pro_EEA",
+      "codename": "ArmorPad3Pro",
+      "model": "Armor Pad 3 Pro"
     },
     {
       "manufacturer": "",
@@ -498,6 +516,12 @@
       "market_name": "Note 17 Pro",
       "codename": "Note_17_Pro",
       "model": "Note 17 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 18 Ultra",
+      "codename": "Note_18_Ultra",
+      "model": "Note 18 Ultra"
     },
     {
       "manufacturer": "",
@@ -762,6 +786,12 @@
       "market_name": "T2",
       "codename": "T2",
       "model": "T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab A11 Pro",
+      "codename": "UF1103",
+      "model": "Tab A11 Pro"
     },
     {
       "manufacturer": "",

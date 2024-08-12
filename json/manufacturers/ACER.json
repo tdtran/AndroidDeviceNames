@@ -159,6 +159,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACER ALTOS EZA",
+      "codename": "AKREI13",
+      "model": "ACER_ALTOS_EZA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACER ALTOS EZBA",
+      "codename": "AKMEI14",
+      "model": "ACER_ALTOS_EZBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ACER_ALTOS_EZB",
+      "codename": "AKMEI14",
+      "model": "ACER_ALTOS_EZB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ACTAB1021_A",
       "codename": "ACTAB1021_A",
       "model": "ACTAB1021_A"
@@ -231,9 +249,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AS10L",
+      "codename": "AS10L",
+      "model": "AS10L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS10W",
       "codename": "AS10W",
       "model": "AS10W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS10WF",
+      "codename": "AS10WF",
+      "model": "AS10WF"
     },
     {
       "manufacturer": "",
@@ -339,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Acer Iconia T10-21M",
+      "codename": "Acer_Iconia_T10-21M",
+      "model": "Acer_Iconia_T10-21M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Acer One 10 T4-129L",
       "codename": "AcerO10T4129L",
       "model": "Acer One 10 T4-129L"
@@ -432,6 +468,12 @@
       "market_name": "Acer_one_8_T2",
       "codename": "Acer_one_8_T2",
       "model": "Acer_one_8_T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acerpure",
+      "codename": "anglelake",
+      "model": "DAC41F"
     },
     {
       "manufacturer": "",
@@ -1323,6 +1365,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11-11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Picasso",
       "codename": "picasso",
       "model": "A501"
@@ -1416,6 +1464,12 @@
       "market_name": "Z120",
       "codename": "Z2",
       "model": "Z120"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "acerpure",
+      "codename": "waiawa",
+      "model": "DAC51U"
     }
   ]
 }

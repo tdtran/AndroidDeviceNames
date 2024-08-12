@@ -30,6 +30,12 @@
       "market_name": "SMART Board MX Series (V5)",
       "codename": "groundhog",
       "model": "SMART Board MX Series (V5)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART Board® RX Series",
+      "codename": "groundhog",
+      "model": "SMART Board Interactive Display"
     }
   ]
 }

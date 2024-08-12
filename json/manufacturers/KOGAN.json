@@ -57,6 +57,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KATB10128WPA",
+      "codename": "KATB10128WPA",
+      "model": "KATB10128WPA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KATB1064WGRY",
+      "codename": "KATB1064WGRY",
+      "model": "KATB1064WGRY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KATB21064CPA",
+      "codename": "KATB21064CPA",
+      "model": "KATB21064CPA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kogan 4K Android TV",
       "codename": "SW4H",
       "model": "Kogan 4K Android TV"

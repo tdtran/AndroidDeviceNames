@@ -36,6 +36,12 @@
     "model": "R4"
   },
   {
+    "manufacturer": "Arcelik",
+    "market_name": "R4",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
     "manufacturer": "Artel",
     "market_name": "R4",
     "codename": "R4",
@@ -43,6 +49,12 @@
   },
   {
     "manufacturer": "BLACKLINE",
+    "market_name": "R4",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "Beko",
     "market_name": "R4",
     "codename": "R4",
     "model": "R4"
@@ -108,6 +120,12 @@
     "model": "R4"
   },
   {
+    "manufacturer": "Grundig",
+    "market_name": "R4",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
     "manufacturer": "Home Planet",
     "market_name": "R4",
     "codename": "R4",
@@ -133,6 +151,12 @@
   },
   {
     "manufacturer": "Kalley",
+    "market_name": "R4",
+    "codename": "R4",
+    "model": "R4"
+  },
+  {
+    "manufacturer": "MASTERTECH",
     "market_name": "R4",
     "codename": "R4",
     "model": "R4"

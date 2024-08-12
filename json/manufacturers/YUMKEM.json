@@ -24,6 +24,12 @@
       "market_name": "U320",
       "codename": "U320",
       "model": "U320"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U320-EEA",
+      "codename": "U320-EEA",
+      "model": "U320-EEA"
     }
   ]
 }

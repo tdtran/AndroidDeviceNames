@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Caxilysh",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A10",
+      "codename": "A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10_EEA",
+      "codename": "A10",
+      "model": "A10"
+    }
+  ]
+}

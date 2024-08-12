@@ -6,6 +6,12 @@
       "market_name": "OrderGo5_EEA",
       "codename": "OrderGo5",
       "model": "OrderGo5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OrderGo_6_TR",
+      "codename": "OrderGo_6",
+      "model": "OrderGo 6"
     }
   ]
 }

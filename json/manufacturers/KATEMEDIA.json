@@ -1,0 +1,17 @@
+{
+  "manufacturer": "KateMedia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KT-2-EEA",
+      "codename": "KT-2-EEA",
+      "model": "KT-2-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KT-2-other",
+      "codename": "KT-2-other",
+      "model": "KT-2-other"
+    }
+  ]
+}

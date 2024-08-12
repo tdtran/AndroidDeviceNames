@@ -12,9 +12,21 @@
     "model": "MOON"
   },
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO M6",
+    "codename": "moon",
+    "model": "2404APC5FG"
+  },
+  {
     "manufacturer": "Pantech",
     "market_name": "Crossover",
     "codename": "moon",
     "model": "PantechP8000"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 13",
+    "codename": "moon",
+    "model": "24040RN64Y"
   }
 ]

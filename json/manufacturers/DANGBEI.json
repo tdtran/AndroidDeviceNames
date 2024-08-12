@@ -6,6 +6,12 @@
       "market_name": "DBOD02",
       "codename": "himalaya",
       "model": "DBOD02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DBPADGO1",
+      "codename": "DBPADGO1",
+      "model": "DBPADGO1"
     }
   ]
 }

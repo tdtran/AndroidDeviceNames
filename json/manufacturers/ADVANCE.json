@@ -327,6 +327,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TR8990",
+      "codename": "TR8990",
+      "model": "TR8990"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tablet_Advance",
       "codename": "Tablet_adv_v1",
       "model": "ADVANCE"

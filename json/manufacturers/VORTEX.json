@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A24",
+      "codename": "A24",
+      "model": "A24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B55",
+      "codename": "B55",
+      "model": "B55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Beat 8",
       "codename": "BEAT8",
       "model": "BEAT 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C24",
+      "codename": "C24",
+      "model": "C24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CG65_Pro",
+      "codename": "CG65_Pro",
+      "model": "CG65 Pro"
     },
     {
       "manufacturer": "",
@@ -39,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HD67",
+      "codename": "HD67",
+      "model": "HD67"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MUV",
       "codename": "MUV",
       "model": "MUV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PG65",
+      "codename": "PG65",
+      "model": "PG65"
     },
     {
       "manufacturer": "",
@@ -57,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T101",
+      "codename": "T101",
+      "model": "T101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10M_Pro",
       "codename": "T10M_Pro",
       "model": "T10M_Pro"
@@ -66,6 +108,12 @@
       "market_name": "T10U",
       "codename": "T10U",
       "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8",
+      "codename": "T8",
+      "model": "T8"
     },
     {
       "manufacturer": "",
@@ -99,9 +147,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V65",
+      "codename": "V65",
+      "model": "V65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VORTEX BTAB10",
+      "codename": "BTAB10",
+      "model": "BTAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VORTEX BTAB8U",
+      "codename": "VORTEX_BTAB8U",
+      "model": "VORTEX BTAB8U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VORTEX CM62",
       "codename": "CM62",
       "model": "VORTEX CM62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VORTEX HD65 Choice",
+      "codename": "VORTEX_HD65_Choice",
+      "model": "VORTEX HD65 Choice"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VORTEX_HD55_Choice",
+      "codename": "VORTEX_HD55_Choice",
+      "model": "VORTEX_HD55_Choice"
     },
     {
       "manufacturer": "",
@@ -126,6 +204,18 @@
       "market_name": "VortexV20",
       "codename": "VortexV20",
       "model": "V20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZG55",
+      "codename": "ZG55",
+      "model": "ZG55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZG65 Pro",
+      "codename": "ZG65_Pro",
+      "model": "ZG65 Pro"
     }
   ]
 }

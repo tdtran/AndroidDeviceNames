@@ -10,5 +10,17 @@
     "market_name": "D10",
     "codename": "D10",
     "model": "D10"
+  },
+  {
+    "manufacturer": "ZOFYWNAS",
+    "market_name": "D10",
+    "codename": "D10",
+    "model": "D10"
+  },
+  {
+    "manufacturer": "ZOFYWNAS",
+    "market_name": "D10_EEA",
+    "codename": "D10",
+    "model": "D10"
   }
 ]

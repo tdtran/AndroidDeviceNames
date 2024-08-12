@@ -484,6 +484,42 @@
     {
       "manufacturer": "",
       "market_name": "HYUNDAI",
+      "codename": "bruno",
+      "model": "HYUNDAI2KAndroidTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
+      "codename": "hongkong",
+      "model": "4K SMART ATSC TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
+      "codename": "hongkong",
+      "model": "4K SMART COL TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
+      "codename": "hongkong",
+      "model": "4K SMART ISDB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
+      "codename": "lavender",
+      "model": "4K SMART COL TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
+      "codename": "lavender",
+      "model": "4K SMART ISDB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
       "codename": "stanford",
       "model": "2K SMART TV"
     },
@@ -654,6 +690,12 @@
       "market_name": "Hyundai Koral_7XL",
       "codename": "HT0701L16",
       "model": "HT0701L16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai Smartboard",
+      "codename": "HDIT_IFPD",
+      "model": "HDP"
     },
     {
       "manufacturer": "",

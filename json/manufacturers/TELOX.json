@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BN500",
+      "codename": "BN500",
+      "model": "BN500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TE620G",
       "codename": "TE620G",
       "model": "TE620G"

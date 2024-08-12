@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Oppo",
+    "market_name": "F25 Pro 5G",
+    "codename": "OP5A0BL1",
+    "model": "CPH2603"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "Reno11 A",
+    "codename": "OP5A0BL1",
+    "model": "A401OP"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "Reno11 F 5G",
+    "codename": "OP5A0BL1",
+    "model": "CPH2603"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "Reno11 F 5G/Reno11 A",
+    "codename": "OP5A0BL1",
+    "model": "CPH2603"
+  }
+]

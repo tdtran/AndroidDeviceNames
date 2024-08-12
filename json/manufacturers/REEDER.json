@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M11_Pro_Max",
+      "codename": "M11_Pro_Max",
+      "model": "M11_Pro_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7 Plus",
       "codename": "reeder_M7Plus",
       "model": "M7Plus"
@@ -300,6 +306,12 @@
       "market_name": "S19 Max Pro S",
       "codename": "S19_Max_Pro_S",
       "model": "S19 Max Pro S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19 Max Pro S 108 MP",
+      "codename": "S19_Max_Pro_S_108_MP",
+      "model": "S19 Max Pro S 108 MP"
     },
     {
       "manufacturer": "",

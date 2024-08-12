@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JR-J10A",
+      "codename": "JR-J10A",
+      "model": "JR-J10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JR-J71",
       "codename": "JR-J71",
       "model": "JR-J71"

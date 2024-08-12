@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AEOP519",
+      "codename": "AEOP519",
+      "model": "AEOP519"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AF9010_F",
       "codename": "AF9010_F",
       "model": "AF9010_F"
@@ -108,6 +114,12 @@
       "market_name": "benco V91",
       "codename": "AE9310",
       "model": "AE9310"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "benco V92",
+      "codename": "AEOP517",
+      "model": "AEOP517"
     },
     {
       "manufacturer": "",

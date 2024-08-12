@@ -1,0 +1,11 @@
+{
+  "manufacturer": "DeepHub",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DeepHub Ultimate",
+      "codename": "rk3588_t",
+      "model": "MC480-U"
+    }
+  ]
+}

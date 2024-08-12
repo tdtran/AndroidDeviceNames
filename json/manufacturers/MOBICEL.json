@@ -1,0 +1,77 @@
+{
+  "manufacturer": "Mobicel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F40",
+      "codename": "F40",
+      "model": "F40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F41",
+      "codename": "F41",
+      "model": "F41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F50",
+      "codename": "F50",
+      "model": "F50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IX PLUS",
+      "codename": "IX_PLUS",
+      "model": "IX_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MX3 PLUS",
+      "codename": "MX3_PLUS",
+      "model": "MX3 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiPAD",
+      "codename": "MiPAD",
+      "model": "MiPAD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P5",
+      "codename": "P5",
+      "model": "P5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX",
+      "codename": "RX",
+      "model": "RX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX21",
+      "codename": "VX21",
+      "model": "VX21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X6",
+      "codename": "X6",
+      "model": "X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z4",
+      "codename": "Z4",
+      "model": "Z4"
+    }
+  ]
+}

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HP4423",
+      "codename": "YYC",
+      "model": "4K Android TV Box"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LEAP-S1",
       "codename": "LAS",
       "model": "LEAP-S1"
@@ -36,6 +42,12 @@
       "market_name": "SRT41",
       "codename": "YYT",
       "model": "4K Google TV Stick"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SRT420",
+      "codename": "ZRH",
+      "model": "4K Hybrid STB"
     },
     {
       "manufacturer": "",

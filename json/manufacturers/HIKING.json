@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A45",
+      "codename": "A45",
+      "model": "A45"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A46",
       "codename": "A46",
       "model": "A46"

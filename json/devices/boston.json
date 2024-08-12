@@ -12,6 +12,18 @@
     "model": "Orange_Boston"
   },
   {
+    "manufacturer": "Motorola",
+    "market_name": "moto g stylus 5G - 2024",
+    "codename": "boston",
+    "model": "moto g stylus 5G - 2023"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g stylus 5G - 2024",
+    "codename": "boston",
+    "model": "moto g stylus 5G - 2024"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "TCL 10 Plus",
     "codename": "Boston",

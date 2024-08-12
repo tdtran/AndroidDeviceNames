@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NARZO 70 5G",
+      "codename": "RE5C86L1",
+      "model": "RMX3869"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NARZO 70 Pro 5G",
       "codename": "RE5C86L1",
       "model": "RMX3868"
@@ -60,6 +66,36 @@
       "market_name": "RMX3834",
       "codename": "RE5C9F",
       "model": "RMX3834"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX3871",
+      "codename": "RE6063L1",
+      "model": "RMX3871"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX3933",
+      "codename": "RE6054",
+      "model": "RMX3933"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX3939",
+      "codename": "RE6054",
+      "model": "RMX3939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX3997",
+      "codename": "RE5C9AL1",
+      "model": "RMX3997"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX3998",
+      "codename": "RE5C94L1",
+      "model": "RMX3998"
     },
     {
       "manufacturer": "",
@@ -237,9 +273,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme 12",
+      "codename": "RE6063L1",
+      "model": "RMX3871"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme 12 5G",
       "codename": "RE5C94L1",
       "model": "RMX3999"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 12 Lite",
+      "codename": "RE5C91L1",
+      "model": "RMX3890"
     },
     {
       "manufacturer": "",
@@ -258,6 +306,24 @@
       "market_name": "realme 12+ 5G",
       "codename": "RE5C86L1",
       "model": "RMX3867"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 12x 5G",
+      "codename": "RE5C9AL1",
+      "model": "RMX3997"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 13 Pro 5G",
+      "codename": "RE5CA3L1",
+      "model": "RMX3990"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 13 Pro+ 5G",
+      "codename": "RE5CA3L1",
+      "model": "RMX3921"
     },
     {
       "manufacturer": "",
@@ -615,6 +681,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme C61",
+      "codename": "RE6054",
+      "model": "RMX3930"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C63",
+      "codename": "RE6054",
+      "model": "RMX3939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C65",
+      "codename": "RE5C42",
+      "model": "RMX3910"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme C67",
       "codename": "RE5C91L1",
       "model": "RMX3890"
@@ -636,6 +720,18 @@
       "market_name": "realme GT 5G",
       "codename": "RMX2202L1",
       "model": "RMX2202"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme GT 6",
+      "codename": "RE5CA6L1",
+      "model": "RMX3851"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme GT 6T",
+      "codename": "RE606FL1",
+      "model": "RMX3853"
     },
     {
       "manufacturer": "",
@@ -720,6 +816,18 @@
       "market_name": "realme Note 50",
       "codename": "RE5C9F",
       "model": "RMX3834"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme P1 5G",
+      "codename": "RE5C86L1",
+      "model": "RMX3870"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme P1 Pro 5G",
+      "codename": "RE5C84L1",
+      "model": "RMX3844"
     },
     {
       "manufacturer": "",
@@ -987,6 +1095,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme note 50",
+      "codename": "RE5C9F",
+      "model": "RMX3834"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme pad",
       "codename": "RE54C1L1",
       "model": "RMP2102"
@@ -1059,6 +1173,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "真我12",
+      "codename": "RE5C3F",
+      "model": "RMX3992"
+    },
+    {
+      "manufacturer": "",
       "market_name": "真我12 Pro",
       "codename": "RE5C3C",
       "model": "RMX3843"
@@ -1068,6 +1188,12 @@
       "market_name": "真我12 Pro+",
       "codename": "RE5C3B",
       "model": "RMX3841"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我12x",
+      "codename": "RE5C3F",
+      "model": "RMX3993"
     },
     {
       "manufacturer": "",
@@ -1092,6 +1218,24 @@
       "market_name": "真我GT Neo",
       "codename": "RMX3031CN",
       "model": "RMX3031"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我GT Neo6",
+      "codename": "RE5C46L1",
+      "model": "RMX3852"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我GT Neo6 SE",
+      "codename": "RE5C39L1",
+      "model": "RMX3850"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我GT6",
+      "codename": "RE5C4FL1",
+      "model": "RMX3800"
     },
     {
       "manufacturer": "",
@@ -1134,6 +1278,18 @@
       "market_name": "真我V50s",
       "codename": "RE5C34",
       "model": "RMX3781"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我V60",
+      "codename": "RE5C44",
+      "model": "RMX3995"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我V60s",
+      "codename": "RE5C44",
+      "model": "RMX3996"
     }
   ]
 }

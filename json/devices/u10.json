@@ -4,5 +4,11 @@
     "market_name": "U10",
     "codename": "U10",
     "model": "U10"
+  },
+  {
+    "manufacturer": "UAUU",
+    "market_name": "U10_RU",
+    "codename": "U10",
+    "model": "U10"
   }
 ]

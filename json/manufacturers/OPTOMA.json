@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Optoma",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IFP5Gen3",
+      "codename": "rk3588_t",
+      "model": "UXXSRK"
+    }
+  ]
+}

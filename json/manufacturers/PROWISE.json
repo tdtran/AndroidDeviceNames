@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Prowise Touchscreen Ten",
+      "codename": "ifpd",
+      "model": "prowise"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Prowise Touchscreen Ultra",
       "codename": "ifpd",
       "model": "prowise"

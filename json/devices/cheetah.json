@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Deutsche Telekom",
+    "market_name": "T Phone 2 Pro",
+    "codename": "CHEETAH",
+    "model": "T Phone 2 Pro"
+  },
+  {
     "manufacturer": "Google",
     "market_name": "Pixel 7 Pro",
     "codename": "cheetah",

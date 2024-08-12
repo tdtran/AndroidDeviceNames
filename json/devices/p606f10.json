@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Optus X Tap 3",
+    "codename": "P606F10",
+    "model": "P660"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Axon 60 Lite",
+    "codename": "P606F10",
+    "model": "Z2350"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade V60 Design",
+    "codename": "P606F10",
+    "model": "Z2350"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade V60 Vita",
+    "codename": "P606F10",
+    "model": "Z2350"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "nubia V60 Design",
+    "codename": "P606F10",
+    "model": "Z2350"
+  }
+]

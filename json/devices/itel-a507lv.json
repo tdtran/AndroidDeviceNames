@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "itel V52 lite",
+    "codename": "itel-A507LV",
+    "model": "itel A507LV"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel V52LTE",
     "codename": "itel-A507LV",
     "model": "itel A507LV"

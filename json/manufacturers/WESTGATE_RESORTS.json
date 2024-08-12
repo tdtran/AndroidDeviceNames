@@ -12,6 +12,12 @@
       "market_name": "T803",
       "codename": "T803",
       "model": "T803"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T805",
+      "codename": "T805",
+      "model": "T805"
     }
   ]
 }

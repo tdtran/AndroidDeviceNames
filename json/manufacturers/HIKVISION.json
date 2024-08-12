@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DS-MDT202",
+      "codename": "DS-MDT202",
+      "model": "DS-MDT202"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DS-MDT301",
       "codename": "DS-MDT301",
       "model": "DS-MDT301"

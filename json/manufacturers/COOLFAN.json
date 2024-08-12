@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C107",
+      "codename": "C107",
+      "model": "C107"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C107_EEA",
+      "codename": "C107",
+      "model": "C107"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OC106",
       "codename": "OC106",
       "model": "OC106"

@@ -12,6 +12,18 @@
       "market_name": "M2M-3T",
       "codename": "M2M-3T",
       "model": "M2M-3T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4",
+      "codename": "R4",
+      "model": "R4"
     }
   ]
 }

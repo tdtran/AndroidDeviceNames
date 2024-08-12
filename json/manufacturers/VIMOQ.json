@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A18",
+      "codename": "VIMOQ-A512WS",
+      "model": "VIMOQ A512WS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A662LS",
       "codename": "VIMOQ-A662LS",
       "model": "VIMOQ A662LS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SE668S",
+      "codename": "VIMOQ-P662LO",
+      "model": "VIMOQ P662LO"
     },
     {
       "manufacturer": "",
@@ -15,9 +27,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIMOQ A20 Core",
+      "codename": "VIMOQ-A632WS",
+      "model": "VIMOQ A632WS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ A40",
+      "codename": "Nola-ultra",
+      "model": "Orange Nola ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ A40",
+      "codename": "VIMOQ-A662LMO",
+      "model": "VIMOQ A662LMO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ A40",
+      "codename": "VIMOQ-A662LMS",
+      "model": "VIMOQ A662LMS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ A40",
+      "codename": "VIMOQ-A662LO",
+      "model": "VIMOQ A662LO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIMOQ A40",
       "codename": "VIMOQ-A662LS",
       "model": "VIMOQ A662LS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ A49 Play",
+      "codename": "VIMOQ-A631LO",
+      "model": "VIMOQ A631LO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ A49 Play",
+      "codename": "VIMOQ-A631LS",
+      "model": "VIMOQ A631LS"
     },
     {
       "manufacturer": "",
@@ -36,6 +90,12 @@
       "market_name": "VIMOQ Vision 3",
       "codename": "VIMOQ-S661LS",
       "model": "VIMOQ S661LS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIMOQ-A661WS",
+      "codename": "VIMOQ-A661WS",
+      "model": "VIMOQ A661WS"
     },
     {
       "manufacturer": "",

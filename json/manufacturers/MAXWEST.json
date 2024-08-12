@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ASTRO_10_A",
+      "codename": "MX-A10WW",
+      "model": "MX-A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ASTRO_8",
       "codename": "MX-AA8WW01",
       "model": "MX-A8"
@@ -219,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GRAVITY_G65",
+      "codename": "MX-GG65",
+      "model": "MX-GG65"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gravity _55_ GO",
       "codename": "Gravity_55_GO",
       "model": "Gravity_55_GO"
@@ -279,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MX-N63",
+      "codename": "MX-N63",
+      "model": "MX-N63"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Maxwest ASTRO_65T",
       "codename": "MX-A65T",
       "model": "MX-A65T"
@@ -294,6 +312,12 @@
       "market_name": "NITRO N6",
       "codename": "MX-NN6",
       "model": "NITRO N6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NITRO_55S",
+      "codename": "MX-N55S",
+      "model": "MX-N55S"
     },
     {
       "manufacturer": "",

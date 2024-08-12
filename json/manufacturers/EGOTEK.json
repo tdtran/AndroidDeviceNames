@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AK10",
+      "codename": "AK10",
+      "model": "AK10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EGO1003",
+      "codename": "EGO1003",
+      "model": "EGO1003"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mars8",
       "codename": "Mars8",
       "model": "Mars8"

@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TANK MINI 1",
+      "codename": "TANK_MINI_1",
+      "model": "TANK MINI 1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TANK2",
       "codename": "TANK2",
       "model": "TANK2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TANK2pro",
+      "codename": "TANK2PRO",
+      "model": "TANK 2 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TANK3",
+      "codename": "TANK3",
+      "model": "TANK 3"
     }
   ]
 }

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cyber 15",
+      "codename": "Cyber_15",
+      "model": "Cyber 15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cyber 7",
       "codename": "Cyber_7",
       "model": "Cyber 7"
@@ -66,6 +72,12 @@
       "market_name": "HOT 6",
       "codename": "HOT_6",
       "model": "HOT 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyper 7 Pro",
+      "codename": "Hyper_7_Pro",
+      "model": "Hyper 7 Pro"
     },
     {
       "manufacturer": "",
@@ -162,6 +174,12 @@
       "market_name": "Note 15 EEA",
       "codename": "Note_15",
       "model": "Note 15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 11",
+      "codename": "Pad_11_EEA",
+      "model": "Pad 11"
     },
     {
       "manufacturer": "",
@@ -276,6 +294,12 @@
       "market_name": "W10 Pro",
       "codename": "W10_Pro",
       "model": "W10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W11",
+      "codename": "W11",
+      "model": "W11"
     }
   ]
 }

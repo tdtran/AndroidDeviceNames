@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elio",
+      "codename": "Elio",
+      "model": "Elio"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FIVE",
       "codename": "FIVE_EEA",
       "model": "FIVE"
@@ -78,6 +84,12 @@
       "market_name": "Five Pro",
       "codename": "Five_Pro",
       "model": "Five Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Five Pro 32",
+      "codename": "Five_Pro_32",
+      "model": "Five Pro 32"
     },
     {
       "manufacturer": "",
@@ -975,6 +987,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab_XL_14",
+      "codename": "Tab_XL_14",
+      "model": "Tab_XL_14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Touch Tablet CT730",
       "codename": "CT730",
       "model": "CT730"
@@ -996,6 +1014,12 @@
       "market_name": "Volt-R",
       "codename": "Volt-R",
       "model": "Volt-R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wave 2",
+      "codename": "Wave_2",
+      "model": "Wave 2"
     },
     {
       "manufacturer": "",

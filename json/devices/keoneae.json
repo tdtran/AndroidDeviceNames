@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "2E (ERC)",
+    "market_name": "2E 4K Google TV",
+    "codename": "keoneae",
+    "model": "2E 4K Google TV"
+  },
+  {
     "manufacturer": "ASTEX",
     "market_name": "ASTEX 4K Google TV",
     "codename": "keoneae",
@@ -33,6 +39,12 @@
     "manufacturer": "Daiwa",
     "market_name": "4K DATV-Z",
     "codename": "keoneae",
+    "model": "4K DATV-Z"
+  },
+  {
+    "manufacturer": "Daiwa",
+    "market_name": "4K DATV-Z",
+    "codename": "keoneae",
     "model": "Daiwa 4K Google TV-Z"
   },
   {
@@ -52,6 +64,12 @@
     "market_name": "Digiking 4K Google TV",
     "codename": "keoneae",
     "model": "Digiking 4K Google TV"
+  },
+  {
+    "manufacturer": "DigiKing",
+    "market_name": "Digiking 4K Google TV-A",
+    "codename": "keoneae",
+    "model": "Digiking 4K Google TV-A"
   },
   {
     "manufacturer": "Dyon",
@@ -76,6 +94,12 @@
     "market_name": "imarflex 4K Google TV",
     "codename": "keoneae",
     "model": "imarflex 4K Google TV"
+  },
+  {
+    "manufacturer": "IMARFLEX",
+    "market_name": "imarflex 4K Google TV-A",
+    "codename": "keoneae",
+    "model": "imarflex 4K Google TV-A"
   },
   {
     "manufacturer": "INNOVA",
@@ -109,6 +133,12 @@
   },
   {
     "manufacturer": "KONKA",
+    "market_name": "HK 4K Google TV-D",
+    "codename": "keoneae",
+    "model": "HK 4K Google TV-D"
+  },
+  {
+    "manufacturer": "KONKA",
     "market_name": "HYUNDAI 4K Google TV-E",
     "codename": "keoneae",
     "model": "HYUNDAI 4K Google TV-E"
@@ -118,6 +148,12 @@
     "market_name": "KONKA 4K Google TV",
     "codename": "keoneae",
     "model": "HK 4K Google TV"
+  },
+  {
+    "manufacturer": "Kruger\u0026Matz",
+    "market_name": "KM 4K TV",
+    "codename": "keoneae",
+    "model": "KM 4K TV"
   },
   {
     "manufacturer": "PROTON",
@@ -136,6 +172,12 @@
     "market_name": "RCA 4K Google TV-E",
     "codename": "keoneae",
     "model": "RCA 4K Google TV-E"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA TV 4K G",
+    "codename": "keoneae",
+    "model": "RCA TV 4K G"
   },
   {
     "manufacturer": "SICON",

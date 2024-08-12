@@ -3,6 +3,42 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "N02",
+      "codename": "N02",
+      "model": "N02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N02_A",
+      "codename": "N02_A",
+      "model": "N02_A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N02_ProA",
+      "codename": "N02_ProA",
+      "model": "N02_ProA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P60Pro",
+      "codename": "P60Pro",
+      "model": "P60Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q16",
+      "codename": "Q16",
+      "model": "Q16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R15_EEA",
+      "codename": "R15_EEA",
+      "model": "R15_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T702",
       "codename": "T702",
       "model": "T702"
@@ -78,6 +114,12 @@
       "market_name": "TAB_M10",
       "codename": "TAB_M10",
       "model": "TAB_M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_M10_EEA",
+      "codename": "TAB_M10_EEA",
+      "model": "TAB_M10_EEA"
     },
     {
       "manufacturer": "",

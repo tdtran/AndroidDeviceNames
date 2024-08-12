@@ -4,5 +4,29 @@
     "market_name": "T Phone Pro",
     "codename": "Lion",
     "model": "T Phone Pro"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g04",
+    "codename": "lion",
+    "model": "lion"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g04",
+    "codename": "lion",
+    "model": "moto g04"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g04s",
+    "codename": "lion",
+    "model": "moto g04"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g04s",
+    "codename": "lion",
+    "model": "moto g04s"
   }
 ]

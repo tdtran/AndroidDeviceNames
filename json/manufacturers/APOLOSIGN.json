@@ -9,15 +9,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EM101B",
+      "codename": "EM101B",
+      "model": "EM101B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EM101B_EEA",
+      "codename": "EM101B_EEA",
+      "model": "EM101B_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EM103A",
       "codename": "EM103A",
       "model": "EM103A"
     },
     {
       "manufacturer": "",
+      "market_name": "EM103B_EEA",
+      "codename": "EP103B_EEA",
+      "model": "EP103B_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EP103B",
+      "codename": "EP103B",
+      "model": "EP103B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EP1095T",
+      "codename": "EP1095T",
+      "model": "EP1095T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K109A",
       "codename": "K109A",
       "model": "K109A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K109_Pro",
+      "codename": "K109_Pro",
+      "model": "K109_Pro"
     },
     {
       "manufacturer": "",

@@ -132,6 +132,18 @@
     "model": "RCA 2K Android TV"
   },
   {
+    "manufacturer": "RCA",
+    "market_name": "RCA TV 2K-A",
+    "codename": "lasalle",
+    "model": "RCA TV 2K-A"
+  },
+  {
+    "manufacturer": "Rindo",
+    "market_name": "RINDO 2K Android TV",
+    "codename": "lasalle",
+    "model": "RINDO 2K Android TV"
+  },
+  {
     "manufacturer": "SYLVOX",
     "market_name": "Smart TV 2K",
     "codename": "lasalle",

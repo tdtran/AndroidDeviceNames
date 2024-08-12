@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ADT-R10TME",
+      "codename": "ADT-R10TME",
+      "model": "ADT-R10TME"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ADT1012L",
       "codename": "ADT1012L",
       "model": "ADT1012L"

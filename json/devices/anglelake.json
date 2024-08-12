@@ -6,6 +6,18 @@
     "model": "DIX41RKF"
   },
   {
+    "manufacturer": "Acer",
+    "market_name": "Acerpure",
+    "codename": "anglelake",
+    "model": "DAC41F"
+  },
+  {
+    "manufacturer": "Admiral Overseas Corporation",
+    "market_name": "Admiral",
+    "codename": "anglelake",
+    "model": "ADS41F"
+  },
+  {
     "manufacturer": "Gangnam",
     "market_name": "GANGNAM",
     "codename": "anglelake",
