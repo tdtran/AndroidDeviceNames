@@ -15,6 +15,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A11_EEA",
+      "codename": "A11_EEA",
+      "model": "A11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11_ROW",
+      "codename": "A11_ROW",
+      "model": "A11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A12_EEA",
+      "codename": "A12_EEA",
+      "model": "A12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A12_ROW",
+      "codename": "A12_ROW",
+      "model": "A12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A12_RUS",
+      "codename": "A12_RUS",
+      "model": "A12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S11_EEA",
       "codename": "S11_EEA",
       "model": "S11"

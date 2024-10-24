@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R4 GT",
+      "codename": "R4_GT",
+      "model": "R4 GT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rocky 2",
       "codename": "Rocky_2",
       "model": "Rocky 2"

@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G518",
+      "codename": "G518",
+      "model": "G518"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM 20",
       "codename": "G301",
       "model": "G301"
@@ -210,6 +216,12 @@
       "market_name": "GM 9 Pro",
       "codename": "GM9PRO_sprout",
       "model": "GM 9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM Era 50",
+      "codename": "G318",
+      "model": "G318"
     },
     {
       "manufacturer": "",

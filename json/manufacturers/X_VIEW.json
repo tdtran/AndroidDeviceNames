@@ -1,0 +1,17 @@
+{
+  "manufacturer": "X_View",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Protab10",
+      "codename": "Protab10",
+      "model": "Protab10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_View_Q7",
+      "codename": "X_View_Q7",
+      "model": "X_View_Q7"
+    }
+  ]
+}

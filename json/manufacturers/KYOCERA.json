@@ -165,6 +165,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGNO SX4",
+      "codename": "KY24L-ST200",
+      "model": "KC-S305"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO SX4 Wi-Fi",
+      "codename": "KY24L-ST300",
+      "model": "KC-S205"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGNO T",
       "codename": "302KC",
       "model": "302KC"
@@ -174,6 +186,12 @@
       "market_name": "DIGNO Tab",
       "codename": "KYT34",
       "model": "KYT34"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO Tab2 5G",
+      "codename": "KY24L-TB100",
+      "model": "KYT35"
     },
     {
       "manufacturer": "",
@@ -246,6 +264,18 @@
       "market_name": "DuraForce EX",
       "codename": "KY-51D",
       "model": "KY-51D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DuraForce EX",
+      "codename": "KY23L-RG100",
+      "model": "A301KC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DuraForce EX",
+      "codename": "KY23L-RG100",
+      "model": "KC-S603"
     },
     {
       "manufacturer": "",

@@ -225,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C36_U_EEA",
+      "codename": "C36",
+      "model": "C36"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C37_EEA",
       "codename": "C37",
       "model": "C37"
@@ -252,6 +258,30 @@
       "market_name": "C51_EEA",
       "codename": "C51",
       "model": "C51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C53",
+      "codename": "C53",
+      "model": "C53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C57_S_EEA",
+      "codename": "C57_S",
+      "model": "C57 S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C58_EEA",
+      "codename": "C58",
+      "model": "C58"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C58_Pro_EEA",
+      "codename": "C58_Pro",
+      "model": "C58 Pro"
     },
     {
       "manufacturer": "",
@@ -300,6 +330,18 @@
       "market_name": "Customer need debug",
       "codename": "WP32_Pro",
       "model": "WP32 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1_EEA",
+      "codename": "G1",
+      "model": "G1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2-EEA",
+      "codename": "G2",
+      "model": "G2"
     },
     {
       "manufacturer": "",
@@ -489,6 +531,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OT12_EEA",
+      "codename": "OT12",
+      "model": "OT12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT12_ROW",
+      "codename": "OT12",
+      "model": "OT12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT15_EEA",
+      "codename": "OT15",
+      "model": "OT15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OT5_EEA",
       "codename": "OT5",
       "model": "OT5"
@@ -525,6 +585,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OT8_ROW",
+      "codename": "OT8",
+      "model": "OT8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OT9",
+      "codename": "OT9",
+      "model": "OT9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OUKITEL_P1_EEA",
+      "codename": "OUKITEL_P1",
+      "model": "P1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P07_EEA",
       "codename": "P07",
       "model": "RT7 TITAN 5G"
@@ -552,6 +630,12 @@
       "market_name": "RT2_EEA",
       "codename": "RT2",
       "model": "RT2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT3_Pro_EEA",
+      "codename": "RT3_Pro",
+      "model": "RT3 Pro"
     },
     {
       "manufacturer": "",
@@ -600,6 +684,12 @@
       "market_name": "RT8_EEA",
       "codename": "RT8",
       "model": "RT8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RT9_EEA",
+      "codename": "RT9",
+      "model": "RT9"
     },
     {
       "manufacturer": "",
@@ -885,6 +975,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP28_E_EEA",
+      "codename": "WP28_E",
+      "model": "WP28 E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP28_S_EEA",
+      "codename": "WP28_S",
+      "model": "WP28 S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP30_Pro_EEA",
       "codename": "WP30_Pro",
       "model": "WP30 Pro"
@@ -894,6 +996,12 @@
       "market_name": "WP32_EEA",
       "codename": "WP32",
       "model": "WP32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP32_Pro_U_EEA",
+      "codename": "WP32_Pro_U",
+      "model": "WP32_Pro"
     },
     {
       "manufacturer": "",
@@ -918,6 +1026,12 @@
       "market_name": "WP36_EEA",
       "codename": "WP36",
       "model": "WP36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP36_Pro_EEA",
+      "codename": "WP36_Pro",
+      "model": "WP36 Pro"
     },
     {
       "manufacturer": "",

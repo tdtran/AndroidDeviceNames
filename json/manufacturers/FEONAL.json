@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "D115",
+      "codename": "D115",
+      "model": "D115"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D118_EEA",
       "codename": "D118_EEA",
       "model": "D118_EEA"

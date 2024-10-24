@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7_EEA",
+      "codename": "M7_EEA",
+      "model": "M7_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7_M",
       "codename": "M7_M",
       "model": "M7_M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7_US",
+      "codename": "M7_US",
+      "model": "M7_US"
     },
     {
       "manufacturer": "",

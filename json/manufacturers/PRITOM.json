@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tUSA",
+      "codename": "L8_B03_Kids",
+      "model": "L8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1AZ2P_eea",
       "codename": "1AZ2P_eea",
       "model": "1AZ2P_eea"
@@ -207,6 +213,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L8_B03",
+      "codename": "L8_B03",
+      "model": "L8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8_B03_EEA",
+      "codename": "L8_B03_EEA",
+      "model": "L8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L8_C01",
       "codename": "L8_C01",
       "model": "L8_C01"
@@ -239,6 +257,12 @@
       "manufacturer": "",
       "market_name": "L8_PRO",
       "codename": "L8_PRO",
+      "model": "L8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8_PRO_EEA",
+      "codename": "L8_PRO_EEA",
       "model": "L8"
     },
     {
@@ -395,6 +419,30 @@
       "manufacturer": "",
       "market_name": "M10_C05",
       "codename": "M10_C05",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_C05_EEA",
+      "codename": "M10_C05_EEA",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_C05_Kids",
+      "codename": "M10_C05_Kids",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_C05_Kids_EEA",
+      "codename": "M10_C05_Kids_EEA",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_C06_Kids",
+      "codename": "M10_C06_Kids",
       "model": "M10"
     },
     {

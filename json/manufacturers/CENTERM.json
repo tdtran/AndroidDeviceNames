@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Centerm",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CTA Q7",
+      "codename": "SmartPOS",
+      "model": "CTA Q7"
+    }
+  ]
+}

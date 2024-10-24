@@ -9,15 +9,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NpadQ",
+      "codename": "NpadQ",
+      "model": "NpadQ"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NpadS",
       "codename": "NpadS",
       "model": "NpadS"
     },
     {
       "manufacturer": "",
+      "market_name": "NpadS1",
+      "codename": "NpadS1",
+      "model": "Npad S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NpadSE",
+      "codename": "NpadSE",
+      "model": "NpadSE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NpadY",
+      "codename": "NpadY",
+      "model": "Npad Y1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NpadY",
+      "codename": "NpadY",
+      "model": "NpadY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NpadY1",
+      "codename": "NpadY1",
+      "model": "NpadY1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Npad_mini",
       "codename": "Npad_mini",
       "model": "TAB011"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Npad_ultra",
+      "codename": "Npad_ultra",
+      "model": "TAB012"
     },
     {
       "manufacturer": "",

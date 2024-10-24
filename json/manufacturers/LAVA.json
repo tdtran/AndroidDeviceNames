@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Agni 3",
+      "codename": "LXX518",
+      "model": "LXX518"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aura Plus",
       "codename": "Lava_Aura_Plus",
       "model": "Aura_Plus"
@@ -150,6 +156,12 @@
       "market_name": "BLAZE",
       "codename": "LZX403",
       "model": "LAVA Blaze"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLAZE 3 5G",
+      "codename": "LXX511",
+      "model": "LXX511"
     },
     {
       "manufacturer": "",

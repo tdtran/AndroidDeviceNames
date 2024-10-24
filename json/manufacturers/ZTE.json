@@ -1245,6 +1245,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "5G UG Phone U25",
+      "codename": "P720F09_U",
+      "model": "5G UG Phone U25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "901ZT",
       "codename": "P450A01",
       "model": "901ZT"
@@ -1356,6 +1362,18 @@
       "market_name": "A303ZT",
       "codename": "Z6576S",
       "model": "A303ZT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A402ZT",
+      "codename": "Z5501S",
+      "model": "A402ZT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A403ZT",
+      "codename": "Z6701S",
+      "model": "A403ZT"
     },
     {
       "manufacturer": "",
@@ -5163,6 +5181,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optus X-Total",
+      "codename": "P963F65",
+      "model": "P656"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Orange Hi 4G",
       "codename": "Orange_Hi_4G",
       "model": "Orange Hi 4G"
@@ -6318,6 +6342,12 @@
       "market_name": "Telenor Touch Plus",
       "codename": "blade2",
       "model": "Telenor Touch Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telstra T-Elite 5G",
+      "codename": "P720F09",
+      "model": "A75 Pro 5G"
     },
     {
       "manufacturer": "",
@@ -7560,6 +7590,24 @@
       "market_name": "Z2450",
       "codename": "P963F65",
       "model": "Z2450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z2453",
+      "codename": "P963F95",
+      "model": "Z2453"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z2453",
+      "codename": "P963F95_A",
+      "model": "Z2453"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z2459",
+      "codename": "P616F05",
+      "model": "Z2459"
     },
     {
       "manufacturer": "",
@@ -9675,6 +9723,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade V70 Design",
+      "codename": "P606F17",
+      "model": "Z2458"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade V770",
       "codename": "P852F52",
       "model": "ZTE Blade V770"
@@ -9700,6 +9754,12 @@
     {
       "manufacturer": "",
       "market_name": "ZTE Blade X10 II",
+      "codename": "P616T03C",
+      "model": "YURATAB YT110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade X10 II",
       "codename": "P616T03_AC",
       "model": "ZTE T1006"
     },
@@ -9720,6 +9780,18 @@
       "market_name": "ZTE Blade X10s",
       "codename": "P963T01C",
       "model": "ZTE T1002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade X8 II",
+      "codename": "P616T02C",
+      "model": "ZTE T0805"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade X8 II",
+      "codename": "P616T02_BC",
+      "model": "YURATAB YT108"
     },
     {
       "manufacturer": "",
@@ -10041,7 +10113,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "nubia Blade A72",
+      "market_name": "nubia A75",
       "codename": "Z6255",
       "model": "Z6255CA"
     },
@@ -10113,6 +10185,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nubia V70 Design",
+      "codename": "P606F17",
+      "model": "Z2458"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nubia Z5",
       "codename": "NX501",
       "model": "nubia Z5"
@@ -10143,6 +10221,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nubia Z60S Pro",
+      "codename": "PQ82A04",
+      "model": "NX725J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "sapphire lte",
       "codename": "sapphire4g",
       "model": "Z3001S"
@@ -10164,6 +10248,12 @@
       "market_name": "tmn smart a7",
       "codename": "sailboat",
       "model": "tmn smart a7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "zBOX 2",
+      "codename": "YMA",
+      "model": "zBOX 2"
     },
     {
       "manufacturer": "",

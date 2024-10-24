@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART_L11",
+      "codename": "SMART_L11",
+      "model": "SMART L11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART_L206",
       "codename": "SMART_L206",
       "model": "SMART_L206"
@@ -129,9 +135,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART_W30_EEA",
+      "codename": "SMART_W30_EEA",
+      "model": "SMART_W30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_W31_EEA",
+      "codename": "SMART_W31_EEA",
+      "model": "SMART_W31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_W32",
+      "codename": "SMART_W32",
+      "model": "SMART W32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_W84_EEA",
+      "codename": "SMART_W84_EEA",
+      "model": "SMART_W84"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART_W8X",
       "codename": "SMART_W8X",
       "model": "SMART_W8X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_W8_Kids",
+      "codename": "SMART_W8_Kids",
+      "model": "SMART W8 Kids"
     }
   ]
 }

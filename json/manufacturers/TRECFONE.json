@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "17 Pro Max",
+      "codename": "17_Pro_Max",
+      "model": "17_Pro_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20",
+      "codename": "T20",
+      "model": "T20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Trecfone_16 Pro Max",
       "codename": "16_Pro_Max",
       "model": "16 Pro Max"

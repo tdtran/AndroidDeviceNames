@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C80",
+      "codename": "C80",
+      "model": "C80"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS10L_PRO",
       "codename": "CS10L_PRO",
       "model": "CS10L_PRO"
@@ -12,6 +18,12 @@
       "market_name": "N101A",
       "codename": "N101A",
       "model": "N101A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N101B",
+      "codename": "N101B",
+      "model": "N101B"
     }
   ]
 }

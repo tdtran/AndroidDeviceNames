@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "MARVUE",
+    "market_name": "M8_Pro",
+    "codename": "M8_Pro",
+    "model": "M8_Pro"
+  },
+  {
     "manufacturer": "Vernee",
     "market_name": "M8 Pro",
     "codename": "M8_Pro",

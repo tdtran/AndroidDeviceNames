@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "ZTE Blade X8 II",
+    "codename": "P616T02C",
+    "model": "ZTE T0805"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE_Blade_X8_II_Pro",
     "codename": "P616T02C",
     "model": "ZTE_T0805"

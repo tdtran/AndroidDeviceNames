@@ -1,0 +1,53 @@
+{
+  "manufacturer": "Dghrti",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TAB20_EEA",
+      "codename": "TAB20_EEA",
+      "model": "TAB20_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB20_US",
+      "codename": "TAB20_US",
+      "model": "TAB20_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB30_EEA",
+      "codename": "TAB30_EEA",
+      "model": "TAB30_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB30_US",
+      "codename": "TAB30_US",
+      "model": "TAB30_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB50_EEA",
+      "codename": "TAB50_EEA",
+      "model": "TAB50_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB50_US",
+      "codename": "TAB50_US",
+      "model": "TAB50_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB8_EEA",
+      "codename": "TAB8_EEA",
+      "model": "TAB8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB8_US",
+      "codename": "TAB8_US",
+      "model": "TAB8_US"
+    }
+  ]
+}

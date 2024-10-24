@@ -1,0 +1,11 @@
+{
+  "manufacturer": "predia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Odin Groep",
+      "codename": "rk3588_t",
+      "model": "general_en_bytello_edla"
+    }
+  ]
+}

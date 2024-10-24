@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Logic Mobility",
+    "market_name": "LOGIC L66M",
+    "codename": "LOGIC_L66M",
+    "model": "L66M"
+  },
+  {
+    "manufacturer": "Logic Mobility",
     "market_name": "LOGIC_L66M",
     "codename": "LOGIC_L66M",
     "model": "L66M"

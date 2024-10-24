@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CUBTAB_1001",
+      "codename": "CUBTAB_1001",
+      "model": "CUBTAB_1001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CreaPad_1002A",
       "codename": "CreaPad_1002A",
       "model": "CreaPad_1002A"
@@ -90,6 +96,24 @@
       "market_name": "Funtab_1001_EEA",
       "codename": "Funtab_1001_EEA",
       "model": "Funtab_1001_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Funtab_1002_EEA",
+      "codename": "Funtab_1002_EEA",
+      "model": "Funtab_1002_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Funtab_1003_EEA",
+      "codename": "Funtab_1003_EEA",
+      "model": "Funtab_1003_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Funtab_1003_US",
+      "codename": "Funtab_1003_US",
+      "model": "Funtab_1003_US"
     },
     {
       "manufacturer": "",

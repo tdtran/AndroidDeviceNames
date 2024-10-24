@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bitel B866V2FAS",
+      "codename": "B866V2FAS_Bitel",
+      "model": "Bitel B866V2FAS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50",
       "codename": "M50",
       "model": "M50"

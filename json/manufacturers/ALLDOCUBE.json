@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay 60 Pad Pro",
+      "codename": "T1201",
+      "model": "T1201"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay 8 Pro",
       "codename": "T806MH",
       "model": "T806MH"
@@ -204,6 +210,18 @@
       "market_name": "iPlay50_SE",
       "codename": "iPlay50_SE",
       "model": "iPlay50_SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay60_S",
+      "codename": "U1033",
+      "model": "iPlay60_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iPlay60_mini_Turbo",
+      "codename": "U812",
+      "model": "iPlay60 mini Turbo"
     },
     {
       "manufacturer": "",

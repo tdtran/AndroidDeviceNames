@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L10-T02-EEA",
+      "codename": "L10-T02-EEA",
+      "model": "L10-T02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10-T02-EEA",
+      "codename": "L10-T02-EEA",
+      "model": "L10-T02-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L10_A01",
       "codename": "L10_A01",
       "model": "L10"
@@ -90,6 +102,12 @@
       "market_name": "L10_T10",
       "codename": "L10_T10",
       "model": "L10_T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L10_T10_EEA",
+      "codename": "L10_T10_EEA",
+      "model": "L10_T10_EEA"
     },
     {
       "manufacturer": "",

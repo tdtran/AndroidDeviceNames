@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "BESTTAB",
+    "market_name": "A20_EEA",
+    "codename": "A20",
+    "model": "A20"
+  },
+  {
+    "manufacturer": "BESTTAB",
+    "market_name": "A20_NEU",
+    "codename": "A20",
+    "model": "A20"
+  },
+  {
     "manufacturer": "Blackview",
     "market_name": "A20",
     "codename": "A20",
@@ -67,6 +79,12 @@
   },
   {
     "manufacturer": "TVB",
+    "market_name": "A20",
+    "codename": "A20",
+    "model": "A20"
+  },
+  {
+    "manufacturer": "Wintouch",
     "market_name": "A20",
     "codename": "A20",
     "model": "A20"

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wave_i101MC",
+      "codename": "Wave_i101MC",
+      "model": "Wave_i101MC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wave_i101u",
       "codename": "Wave_i101u",
       "model": "Wave_i101u"

@@ -1,0 +1,53 @@
+{
+  "manufacturer": "SKYEGG",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K11_EEA",
+      "codename": "K11_EEA",
+      "model": "K11_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K11_US",
+      "codename": "K11_US",
+      "model": "K11_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K13_EEA",
+      "codename": "K13_EEA",
+      "model": "K13_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K13_US",
+      "codename": "K13_US",
+      "model": "K13_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K15_EEA",
+      "codename": "K15_EEA",
+      "model": "K15_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K15_US",
+      "codename": "K15_US",
+      "model": "K15_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2_S_EEA",
+      "codename": "X2_EEA",
+      "model": "X2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2_S_US",
+      "codename": "X2_US",
+      "model": "X2_US"
+    }
+  ]
+}

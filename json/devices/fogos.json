@@ -16,5 +16,17 @@
     "market_name": "moto g34 5G",
     "codename": "fogos",
     "model": "moto g53 5G"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g45 5G",
+    "codename": "fogos",
+    "model": "moto g34 5GP"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "moto g45 5G",
+    "codename": "fogos",
+    "model": "moto g45 5G"
   }
 ]

@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T15_EEA",
+      "codename": "T15_EEA",
+      "model": "T15_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T15_US",
+      "codename": "T15_US",
+      "model": "T15_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T15_U_EEA",
       "codename": "T15_U_EEA",
       "model": "T15_U_EEA"
@@ -102,6 +114,18 @@
       "market_name": "X2_EEA",
       "codename": "X2_EEA",
       "model": "X2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2_T_EEA",
+      "codename": "X2_T_EEA",
+      "model": "X2_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2_T_US",
+      "codename": "X2_T_US",
+      "model": "X2_T_US"
     },
     {
       "manufacturer": "",

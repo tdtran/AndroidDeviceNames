@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BMA-AI100",
+      "codename": "BMA-AI100",
+      "model": "BMA-AI100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PlayZ",
       "codename": "BIP-EB100",
       "model": "BIP-EB100"

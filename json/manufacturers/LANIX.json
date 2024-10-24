@@ -567,6 +567,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RX10v8",
+      "codename": "RX10v8",
+      "model": "RX10v8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX10v9",
+      "codename": "RX10v9",
+      "model": "RX10v9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RX7V4",
       "codename": "RX7V4",
       "model": "RX7V4"

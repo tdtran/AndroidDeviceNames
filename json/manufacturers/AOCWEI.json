@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X300_EEA_T",
+      "codename": "X300_EEA_T",
+      "model": "X300_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X300_T",
+      "codename": "X300_T",
+      "model": "X300_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X500_EEA",
       "codename": "X500_EEA",
       "model": "X500_EEA"
@@ -36,6 +48,18 @@
       "market_name": "X700_EEA",
       "codename": "X700_EEA",
       "model": "X700_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X800_EEA",
+      "codename": "X800_EEA",
+      "model": "X800_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X800_US",
+      "codename": "X800_US",
+      "model": "X800_US"
     },
     {
       "manufacturer": "",

@@ -126,6 +126,12 @@
       "market_name": "HK-MH501",
       "codename": "HK-MH501",
       "model": "HK-MH501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIDS_1",
+      "codename": "KIDS_1",
+      "model": "KIDS_1"
     }
   ]
 }

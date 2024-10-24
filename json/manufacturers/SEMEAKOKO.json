@@ -15,6 +15,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S-764-EEA",
+      "codename": "S-764-EEA",
+      "model": "S-764-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10A",
+      "codename": "S10A",
+      "model": "S10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS-35",
+      "codename": "SS-35",
+      "model": "SS-35"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS-35_EEA",
+      "codename": "SS-35_EEA",
+      "model": "SS-35_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS-P30",
+      "codename": "SS-P30",
+      "model": "SS-P30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS-P30_EEA",
+      "codename": "SS-P30_EEA",
+      "model": "SS-P30_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SS1010",
       "codename": "SS1010",
       "model": "SS1010"

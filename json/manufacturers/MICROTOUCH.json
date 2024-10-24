@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M1_IC0_N702_MP",
+      "codename": "MACH_MP",
+      "model": "MACH_MP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M1_IC1_N700_4G",
       "codename": "IDC_Series_4G",
       "model": "IDC_Series_4G"

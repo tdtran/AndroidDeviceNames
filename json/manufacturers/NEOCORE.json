@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NEOCORE-E2S",
+      "codename": "NEOCORE-E2S",
+      "model": "NEOCORE-E2S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEOCORE_E2",
       "codename": "NEOCORE_E2",
       "model": "NEOCORE_E2"

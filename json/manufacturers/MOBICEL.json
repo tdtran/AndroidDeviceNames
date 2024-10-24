@@ -33,15 +33,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mercury",
+      "codename": "Mercury",
+      "model": "Mercury"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MiPAD",
       "codename": "MiPAD",
       "model": "MiPAD"
     },
     {
       "manufacturer": "",
+      "market_name": "Mobicel Mercury",
+      "codename": "Mobicel_Mercury",
+      "model": "Mobicel Mercury"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P11",
       "codename": "P11",
       "model": "P11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P12",
+      "codename": "P12",
+      "model": "P12"
     },
     {
       "manufacturer": "",
@@ -57,9 +75,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart Tab 10 4G",
+      "codename": "Smart_Tab_10",
+      "model": "Smart Tab 10 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VX21",
       "codename": "VX21",
       "model": "VX21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodacom Smart Tab 8",
+      "codename": "Smart_Tab_8",
+      "model": "Vodacom Smart Tab 8"
     },
     {
       "manufacturer": "",

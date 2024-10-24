@@ -165,15 +165,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 12",
+      "codename": "Note_12_2024",
+      "model": "Note 12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 12E",
       "codename": "Note_12E_EEA",
       "model": "Note 12E"
     },
     {
       "manufacturer": "",
+      "market_name": "Note 13 Max",
+      "codename": "Note_13_Max",
+      "model": "Note 13 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 15",
+      "codename": "Note_15",
+      "model": "Note 15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 15 EEA",
       "codename": "Note_15",
       "model": "Note 15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 15 Pro",
+      "codename": "Note_15_Pro",
+      "model": "Note 15 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note _12 _EF",
+      "codename": "Note_12_EF",
+      "model": "Note 12 EF"
     },
     {
       "manufacturer": "",
@@ -276,6 +306,18 @@
       "market_name": "TAB R6 Ultra",
       "codename": "TAB_R6_Ultra",
       "model": "TAB R6 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB R8",
+      "codename": "TAB_R8",
+      "model": "TAB R8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB R9 Pro EEA",
+      "codename": "TAB_R9_Pro",
+      "model": "TAB R9 Pro"
     },
     {
       "manufacturer": "",

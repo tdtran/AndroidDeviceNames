@@ -4,5 +4,17 @@
     "market_name": "Sparx Neo 8 Plus",
     "codename": "Neo_8_Plus",
     "model": "Sparx Neo 8 Plus"
+  },
+  {
+    "manufacturer": "SparX",
+    "market_name": "Sparx Neo 8i",
+    "codename": "Neo_8_Plus",
+    "model": "Sparx Neo 8i"
+  },
+  {
+    "manufacturer": "SparX",
+    "market_name": "Sparx Neo 9i",
+    "codename": "Neo_8_Plus",
+    "model": "Sparx Neo 9i"
   }
 ]

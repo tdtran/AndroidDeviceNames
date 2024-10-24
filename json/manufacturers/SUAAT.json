@@ -1,0 +1,65 @@
+{
+  "manufacturer": "SUAAT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "G2_S_EEA",
+      "codename": "G2_EEA",
+      "model": "G2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2_S_US",
+      "codename": "G2_US",
+      "model": "G2_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10_U_EEA",
+      "codename": "S10_U_EEA",
+      "model": "S10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10_U_EEA",
+      "codename": "S10_U_EEA",
+      "model": "S10_U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10_U_US",
+      "codename": "S10_U_US",
+      "model": "S10_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10_U_US",
+      "codename": "S10_U_US",
+      "model": "S10_U_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S3_EEA",
+      "codename": "S3_EEA",
+      "model": "S3_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S3_US",
+      "codename": "S3_US",
+      "model": "S3_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6_EEA",
+      "codename": "S6_EEA",
+      "model": "S6_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6_US",
+      "codename": "S6_US",
+      "model": "S6_US"
+    }
+  ]
+}

@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X68",
+      "codename": "X68B",
+      "model": "X68"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X8G",
       "codename": "X8G",
       "model": "X8G"

@@ -6,6 +6,12 @@
       "market_name": "Poland",
       "codename": "DTC974x",
       "model": "DTC974x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Poland",
+      "codename": "DTC974y",
+      "model": "DTC9740"
     }
   ]
 }

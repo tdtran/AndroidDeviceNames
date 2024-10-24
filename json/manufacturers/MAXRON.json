@@ -1,0 +1,17 @@
+{
+  "manufacturer": "MAXRON",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MXPAD",
+      "codename": "MXPAD",
+      "model": "MXPAD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MXULTRA",
+      "codename": "MXULTRA",
+      "model": "MXULTRA"
+    }
+  ]
+}

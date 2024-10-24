@@ -435,9 +435,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WT5400",
+      "codename": "WT5400",
+      "model": "WT5400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WT6000",
       "codename": "WT6000",
       "model": "WT6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WT6400",
+      "codename": "WT6400",
+      "model": "WT6400"
     },
     {
       "manufacturer": "",

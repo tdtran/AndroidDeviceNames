@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "COLORROOM",
+    "market_name": "C2",
+    "codename": "C2",
+    "model": "C2"
+  },
+  {
     "manufacturer": "HOMTOM",
     "market_name": "C2",
     "codename": "C2",

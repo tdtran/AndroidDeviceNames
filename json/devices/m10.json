@@ -60,6 +60,12 @@
     "model": "M10"
   },
   {
+    "manufacturer": "Telpo",
+    "market_name": "M10",
+    "codename": "M10",
+    "model": "M10 for arm64"
+  },
+  {
     "manufacturer": "UAUU",
     "market_name": "M10",
     "codename": "M10",

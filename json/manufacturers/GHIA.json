@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GK133D24",
+      "codename": "GK133D24",
+      "model": "GK133D24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133M24",
+      "codename": "GK133M24",
+      "model": "GK133M24"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GK133M3",
       "codename": "GK133M3",
       "model": "GK133M3"
@@ -135,6 +147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GK133P24",
+      "codename": "GK133P24",
+      "model": "GK133P24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133S24",
+      "codename": "GK133S24",
+      "model": "GK133S24"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GK133S3",
       "codename": "GK133S3",
       "model": "GK133S3"
@@ -144,6 +168,12 @@
       "market_name": "GK133T3",
       "codename": "GK133T3",
       "model": "GK133T3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GK133U24",
+      "codename": "GK133U24",
+      "model": "GK133U24"
     },
     {
       "manufacturer": "",
@@ -162,6 +192,12 @@
       "market_name": "GPND133",
       "codename": "GPND133",
       "model": "GPND133"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GPND133V4",
+      "codename": "GPND133V4",
+      "model": "GPND133V4"
     },
     {
       "manufacturer": "",

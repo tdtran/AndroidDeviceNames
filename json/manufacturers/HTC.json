@@ -4323,9 +4323,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wildfire E5",
+      "codename": "Wildfire_E5",
+      "model": "Wildfire E5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E5 Plus",
+      "codename": "Wildfire_E5_Plus",
+      "model": "Wildfire E5 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wildfire E6",
       "codename": "Wildfire_E6",
       "model": "Wildfire E6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E6 Plus",
+      "codename": "Wildfire_E6_Plus",
+      "model": "Wildfire E6 Plus"
     },
     {
       "manufacturer": "",
@@ -4410,6 +4428,12 @@
       "market_name": "desire x",
       "codename": "protou",
       "model": "HTC Desire X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "enodugls_02401",
+      "codename": "htc_enodugls",
+      "model": "HTC U24 pro"
     },
     {
       "manufacturer": "",

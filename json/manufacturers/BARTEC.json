@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BARTEC SC9EX1 Smartscanner",
+      "codename": "SC9EX1",
+      "model": "SC9EX1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BARTEC SP9EX1 Smartphone",
       "codename": "SP9EX1",
       "model": "SP9EX1"

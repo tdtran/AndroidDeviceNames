@@ -6,6 +6,18 @@
       "market_name": "ARTRAN _EI101F",
       "codename": "ARTRAN_EI101F",
       "model": "EI101F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AZ101F",
+      "codename": "AZ101F",
+      "model": "AZ101F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IB101F_Pro",
+      "codename": "IB101F_Pro",
+      "model": "IB101F Pro"
     }
   ]
 }

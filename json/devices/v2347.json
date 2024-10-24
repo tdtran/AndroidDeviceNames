@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Vivo",
+    "market_name": "T3 Ultra",
+    "codename": "V2347",
+    "model": "V2426"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "V40 Pro",
     "codename": "V2347",
     "model": "V2347"

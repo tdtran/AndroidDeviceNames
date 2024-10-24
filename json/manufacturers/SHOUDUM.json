@@ -1,0 +1,17 @@
+{
+  "manufacturer": "shoudum",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "X50",
+      "codename": "X50",
+      "model": "X50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_50",
+      "codename": "X_50",
+      "model": "X_50"
+    }
+  ]
+}

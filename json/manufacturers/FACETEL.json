@@ -93,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q7_EEA",
+      "codename": "Q7_EEA",
+      "model": "Q7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q7_US",
+      "codename": "Q7_US",
+      "model": "Q7_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W3_T_EEA",
       "codename": "W3_T_EEA",
       "model": "3W_EEA"

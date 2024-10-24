@@ -6,6 +6,12 @@
     "model": "CipherLab RS30"
   },
   {
+    "manufacturer": "Mobicel",
+    "market_name": "Mercury",
+    "codename": "Mercury",
+    "model": "Mercury"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "",
     "codename": "mercury",

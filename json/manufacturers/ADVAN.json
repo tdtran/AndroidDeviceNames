@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VX NEO",
+      "codename": "ADVAN_VX_NEO",
+      "model": "1013"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VX_LITE",
       "codename": "ADVAN_TAB_VX_LITE",
       "model": "1013"

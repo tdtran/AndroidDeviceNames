@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT-E6707",
+      "codename": "LT_Mobile_E6707",
+      "model": "LT-E6707"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT_6217",
       "codename": "LT_6217",
       "model": "LT_6217"
@@ -45,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT_mobile_C60",
+      "codename": "LT_mobile_C60",
+      "model": "LT C60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT_mobile_S22",
       "codename": "LT_mobile_S22",
       "model": "S22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_mobile_S33",
+      "codename": "LT_mobile_S33",
+      "model": "LT S33"
     }
   ]
 }

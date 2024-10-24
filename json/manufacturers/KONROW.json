@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K-TAB801",
+      "codename": "K-TAB801",
+      "model": "K-TAB801"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KONROW",
       "codename": "KONROW_701X",
       "model": "KONROW_701X"
@@ -186,6 +192,12 @@
       "market_name": "Smartfive",
       "codename": "KONROW_Smartfive",
       "model": "Smartfive"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TOUCH55PLUS",
+      "codename": "TOUCH55PLUS",
+      "model": "KONROW"
     }
   ]
 }

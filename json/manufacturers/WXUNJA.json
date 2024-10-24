@@ -1,0 +1,17 @@
+{
+  "manufacturer": "WXUNJA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E10_EEA",
+      "codename": "E10",
+      "model": "E10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E10_ROW",
+      "codename": "E10",
+      "model": "E10"
+    }
+  ]
+}

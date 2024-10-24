@@ -6,6 +6,12 @@
     "model": "P50"
   },
   {
+    "manufacturer": "HISORL",
+    "market_name": "\tP50",
+    "codename": "P50",
+    "model": "P50"
+  },
+  {
     "manufacturer": "PCD Argentina",
     "market_name": "P50",
     "codename": "P50",
@@ -16,5 +22,17 @@
     "market_name": "P50",
     "codename": "P50",
     "model": "P50"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P50_EEA",
+    "codename": "P50",
+    "model": "P50_EEA"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P50_ROW",
+    "codename": "P50",
+    "model": "P50_ROW"
   }
 ]

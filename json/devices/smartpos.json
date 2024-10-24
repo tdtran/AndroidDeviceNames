@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Centerm",
+    "market_name": "CTA Q7",
+    "codename": "SmartPOS",
+    "model": "CTA Q7"
+  },
+  {
     "manufacturer": "Newland",
     "market_name": "N950",
     "codename": "SmartPOS",

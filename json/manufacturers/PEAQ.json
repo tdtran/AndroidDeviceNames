@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PET-10380-H628S",
+      "codename": "PET-10380-H628S",
+      "model": "PET-10380-H628S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PET-1081-H232S",
       "codename": "PET-1081-H232S",
       "model": "PET 1081-H232S"
@@ -72,6 +78,24 @@
       "market_name": "PET-882-H232S",
       "codename": "PET-882-H232S",
       "model": "PET-882-H232S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET_10180_H464S",
+      "codename": "PET_10180_H464S",
+      "model": "PET_10180_H464S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET_11080-F628S",
+      "codename": "PET_11080-F628S",
+      "model": "PET_11080-F628S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PET_11080_H428S",
+      "codename": "PET_11080_H428S",
+      "model": "PET_11080_H428S"
     },
     {
       "manufacturer": "",

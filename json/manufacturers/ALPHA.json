@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALPHA 4K",
+      "codename": "lushan",
+      "model": "ALPHA 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alpha 43G7NUA",
       "codename": "samseong",
       "model": "AI PONT"

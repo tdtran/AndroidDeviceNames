@@ -855,6 +855,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F5",
+      "codename": "F0090",
+      "model": "F5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F91 5G",
       "codename": "F0030UU",
       "model": "F91 5G"
@@ -1074,6 +1080,12 @@
       "market_name": "G53",
       "codename": "G0851",
       "model": "G53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G54",
+      "codename": "E0010",
+      "model": "G54"
     },
     {
       "manufacturer": "",
@@ -1398,6 +1410,18 @@
       "market_name": "J10L",
       "codename": "J0150",
       "model": "J10L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J12",
+      "codename": "J0100",
+      "model": "J12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J12",
+      "codename": "J0230",
+      "model": "J12"
     },
     {
       "manufacturer": "",

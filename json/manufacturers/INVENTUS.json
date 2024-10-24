@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CT1",
+      "codename": "Beige",
+      "model": "CT1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT7",
       "codename": "Aqua",
       "model": "CT7"

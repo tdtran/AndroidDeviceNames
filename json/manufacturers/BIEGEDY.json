@@ -1,0 +1,71 @@
+{
+  "manufacturer": "Biegedy",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "B21_EEA",
+      "codename": "B21_EEA",
+      "model": "B21_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B21_US",
+      "codename": "B21_US",
+      "model": "B21_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B22_EEA",
+      "codename": "B22_EEA",
+      "model": "B22_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B22_US",
+      "codename": "B22_US",
+      "model": "B22_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B23_US",
+      "codename": "B23_US",
+      "model": "B23_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B23_U_EEA",
+      "codename": "B23_U_EEA",
+      "model": "B23_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B23_U_EEA",
+      "codename": "B23_U_EEA",
+      "model": "B23_U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B23_U_US",
+      "codename": "B23_U_US",
+      "model": "B23_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B23_U_US",
+      "codename": "B23_U_US",
+      "model": "B23_U_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B29_EEA",
+      "codename": "B29_EEA",
+      "model": "B29_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B29_US",
+      "codename": "B29_US",
+      "model": "B29_US"
+    }
+  ]
+}

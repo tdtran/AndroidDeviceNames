@@ -489,6 +489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite P55Pro",
+      "codename": "Elite_P55Pro",
+      "model": "Elite P55Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite R55",
       "codename": "Elite_R55",
       "model": "Elite R55"
@@ -666,6 +672,12 @@
       "market_name": "Elite_Q55",
       "codename": "Elite_Q55",
       "model": "Elite_Q55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_T10_PRO",
+      "codename": "Elite_T10_PRO",
+      "model": "Elite T10 PRO"
     },
     {
       "manufacturer": "",

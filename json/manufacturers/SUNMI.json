@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K2",
+      "codename": "K2",
+      "model": "K2_A13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L2H_EDLA_GL",
       "codename": "SUNMI-L2HNFC",
       "model": "L2H_EDLA_GL"
@@ -95,6 +101,12 @@
       "manufacturer": "",
       "market_name": "T3 PRO",
       "codename": "T3_PRO",
+      "model": "T3 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3 PRO",
+      "codename": "T3_PRO",
       "model": "T3 Pro Max"
     },
     {
@@ -168,6 +180,12 @@
       "market_name": "V2sPLUSNC",
       "codename": "V2sPLUSNC",
       "model": "V2sPLUSNC_TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V3",
+      "codename": "V3",
+      "model": "V3"
     },
     {
       "manufacturer": "",

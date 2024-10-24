@@ -111,6 +111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DAMASCO",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAMASCO",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DANILUX",
       "codename": "hongkong",
       "model": "4K SMART TV"
@@ -508,6 +520,12 @@
     {
       "manufacturer": "",
       "market_name": "QRIOM",
+      "codename": "minami",
+      "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QRIOM",
       "codename": "mountbaker",
       "model": "2K SMART TV"
     },
@@ -521,6 +539,12 @@
       "manufacturer": "",
       "market_name": "REYNA",
       "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REYNA",
+      "codename": "lavender",
       "model": "4K SMART TV"
     },
     {
@@ -639,6 +663,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIMEEL",
+      "codename": "mountbaker",
+      "model": "VIMEEL GOOGLE TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIOTTO",
       "codename": "lavender",
       "model": "4K SMART ISDB TV"
@@ -648,6 +678,12 @@
       "market_name": "VIOTTO",
       "codename": "lavender",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIOTTO",
+      "codename": "mountbaker",
+      "model": "2K SMART ISDB TV"
     },
     {
       "manufacturer": "",

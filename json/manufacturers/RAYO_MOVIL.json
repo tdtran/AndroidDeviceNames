@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ATLAS 2",
+      "codename": "ATLAS_2",
+      "model": "ATLAS 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Atlas",
       "codename": "Atlas",
       "model": "Atlas"

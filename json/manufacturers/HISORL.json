@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tP50",
+      "codename": "P50",
+      "model": "P50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P80-EEA",
       "codename": "P80-EEA",
       "model": "P80"
@@ -21,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T901_EEA",
+      "codename": "T901_EEA",
+      "model": "T901"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T901_ROW",
+      "codename": "T901_ROW",
+      "model": "T901"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB10_EEA",
       "codename": "TAB10_EEA",
       "model": "TAB10_EEA"
@@ -30,6 +48,24 @@
       "market_name": "TAB_10",
       "codename": "TAB_10",
       "model": "TAB_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB02_EEA",
+      "codename": "TB02_EEA",
+      "model": "TB02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB02_ROW",
+      "codename": "TB02_ROW",
+      "model": "TB02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y101P",
+      "codename": "Y101P",
+      "model": "Y101P"
     }
   ]
 }

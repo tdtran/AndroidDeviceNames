@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MO-T3",
+      "codename": "MO-T3",
+      "model": "MO-T3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MOT102",
       "codename": "MOT102",
       "model": "MOT102"

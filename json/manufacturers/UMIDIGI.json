@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A15_Tab",
+      "codename": "A15_Tab",
+      "model": "MT08"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A15_Tab_EEA",
       "codename": "A15_Tab_EEA",
       "model": "MT08"
@@ -615,8 +621,26 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G1_Tab",
+      "codename": "G1_Tab",
+      "model": "MT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1_Tab_EEA",
+      "codename": "G1_Tab_EEA",
+      "model": "MT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G1_Tab_Kids",
       "codename": "G1_Tab_Kids",
+      "model": "MT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1_Tab_Kids_EEA",
+      "codename": "G1_Tab_Kids_EEA",
       "model": "MT10"
     },
     {
@@ -663,8 +687,26 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G2_Tab",
+      "codename": "G2_Tab",
+      "model": "MT11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2_Tab_EEA",
+      "codename": "G2_Tab_EEA",
+      "model": "MT11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G2_Tab_Kids",
       "codename": "G2_Tab_Kids",
+      "model": "MT11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2_Tab_Kids_EEA",
+      "codename": "G2_Tab_Kids_EEA",
       "model": "MT11"
     },
     {
@@ -759,6 +801,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G7_Tab",
+      "codename": "G7_Tab",
+      "model": "TG4FBG7TA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G7_Tab_EEA",
       "codename": "G7_Tab",
       "model": "TG4FBG7TA"
@@ -785,6 +833,12 @@
       "manufacturer": "",
       "market_name": "G9 Tab",
       "codename": "G9_Tab",
+      "model": "TG4FBG9TA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9 Tab",
+      "codename": "G9_Tab_EEA",
       "model": "TG4FBG9TA"
     },
     {
@@ -1134,6 +1188,18 @@
       "market_name": "UMIDIGI G9 5G",
       "codename": "G9_5G",
       "model": "UMIDIGI G9 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G9A",
+      "codename": "G9A",
+      "model": "UMIDIGI G9A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI G9T",
+      "codename": "G9T",
+      "model": "UMIDIGI G9T"
     },
     {
       "manufacturer": "",

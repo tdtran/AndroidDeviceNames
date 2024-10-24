@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IS880",
+      "codename": "IS880",
+      "model": "IS880"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS910.1",
       "codename": "IS910_1",
       "model": "IS910_1"

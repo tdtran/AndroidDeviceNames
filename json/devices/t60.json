@@ -6,6 +6,12 @@
     "model": "onetouch T60"
   },
   {
+    "manufacturer": "Teclast",
+    "market_name": "T60",
+    "codename": "T60",
+    "model": "T60"
+  },
+  {
     "manufacturer": "UAUU",
     "market_name": "T60",
     "codename": "T60",

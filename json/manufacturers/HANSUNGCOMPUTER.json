@@ -1,0 +1,11 @@
+{
+  "manufacturer": "HANSUNGCOMPUTER",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HSC-IFPD",
+      "codename": "rk3588_t",
+      "model": "HSN_Series"
+    }
+  ]
+}

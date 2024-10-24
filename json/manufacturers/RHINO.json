@@ -21,9 +21,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RHINO C6",
+      "codename": "novax",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO C6D",
+      "codename": "novad",
+      "model": "C6D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO C6R",
+      "codename": "novar",
+      "model": "C6R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RHINO M10p",
       "codename": "Rhino_M10p",
       "model": "M10p"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RHINO PACE",
+      "codename": "pace",
+      "model": "PACE A1"
     },
     {
       "manufacturer": "",
@@ -57,9 +81,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T100",
+      "codename": "scoutxlx",
+      "model": "T100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5SE",
+      "codename": "Rhino_T5SE",
+      "model": "T5SE-001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T8",
       "codename": "Rhino_T8",
       "model": "T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T80",
+      "codename": "scoutx",
+      "model": "T80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "scoutp",
+      "codename": "scoutx",
+      "model": "T80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "scoutpxl",
+      "codename": "scoutxlx",
+      "model": "T100"
     }
   ]
 }

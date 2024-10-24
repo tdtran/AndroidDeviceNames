@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "COOLMINTT NIU",
+      "codename": "COOLMINTT_NIU",
+      "model": "COOLMINTT NIU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COOLMINTT_RIVAL_3",
+      "codename": "COOLMINTT_RIVAL_3",
+      "model": "COOLMINTT RIVAL 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COOLMINTT_X7",
       "codename": "COOLMINTT_X7",
       "model": "COOLMINTT X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COOLMINTT_X9",
+      "codename": "COOLMINTT_X9",
+      "model": "COOLMINTT X9"
     },
     {
       "manufacturer": "",
@@ -99,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MINTT_T11",
+      "codename": "MINTT_T11",
+      "model": "MINTT_T11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MinttM3",
       "codename": "Mintt_M3",
       "model": "Mintt M3"
@@ -120,6 +144,18 @@
       "market_name": "Mintt_Tab_T1",
       "codename": "Mintt_Tab_T1",
       "model": "Mintt_Tab_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rival_2",
+      "codename": "CoolMintt_Rival_2",
+      "model": "CoolMintt Rival 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3",
+      "codename": "T3",
+      "model": "T3"
     },
     {
       "manufacturer": "",

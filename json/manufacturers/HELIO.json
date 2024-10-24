@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "helio 40",
+      "codename": "helio_40",
+      "model": "helio 40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "helio 50",
       "codename": "helio_50",
       "model": "helio 50"

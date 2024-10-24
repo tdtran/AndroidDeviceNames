@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ALT.mive",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Kids Phone",
+      "codename": "odin",
+      "model": "AT-M130"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Style Folder",
+      "codename": "thor",
+      "model": "AT-M120"
+    }
+  ]
+}

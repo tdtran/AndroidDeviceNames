@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S21",
+      "codename": "S21",
+      "model": "S21_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S21_EEA",
+      "codename": "S21_EEA",
+      "model": "S21_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S22-EEA",
       "codename": "S22-EEA",
       "model": "S22-EEA"
@@ -69,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S23_T_EEA",
+      "codename": "S23_T_EEA",
+      "model": "S23_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S23_T_US",
+      "codename": "S23_T_US",
+      "model": "S23_T_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S23_US",
       "codename": "S23_US",
       "model": "S23_US"
@@ -78,6 +102,12 @@
       "market_name": "S23_US_B",
       "codename": "S23_US_B",
       "model": "S23_US_B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S23_U_EEA",
+      "codename": "S23_U_EEA",
+      "model": "S23_U_EEA"
     },
     {
       "manufacturer": "",

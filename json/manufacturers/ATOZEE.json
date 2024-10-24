@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A30MAX",
+      "codename": "A30MAX",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A30MAX_EEA",
+      "codename": "A30MAX_EEA",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT10",
       "codename": "AT10",
       "model": "AT10"
@@ -57,6 +69,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP10S",
+      "codename": "CP10S",
+      "model": "CP10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP20S",
+      "codename": "CP20S",
+      "model": "CP20S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP20_GOLD",
+      "codename": "CP20_GOLD",
+      "model": "CP20_GOLD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP20_MAX",
       "codename": "CP20_MAX",
       "model": "CP20_MAX"
@@ -72,6 +102,36 @@
       "market_name": "CP30",
       "codename": "CP30",
       "model": "CP30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP31",
+      "codename": "CP31",
+      "model": "CP31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP80",
+      "codename": "CP80",
+      "model": "CP80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP80KS",
+      "codename": "CP80KS",
+      "model": "CP80KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP81",
+      "codename": "CP81",
+      "model": "CP81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NV10S",
+      "codename": "NV10S",
+      "model": "NV10S"
     },
     {
       "manufacturer": "",
@@ -99,6 +159,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P81M",
+      "codename": "P81M",
+      "model": "P81M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P81W",
+      "codename": "P81W",
+      "model": "P81W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q2SK",
+      "codename": "Q2SK",
+      "model": "Q2SK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YQ10SK",
+      "codename": "YQ10SK",
+      "model": "YQ10SK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YQ10S_Gold",
       "codename": "YQ10S_Gold",
       "model": "YQ10S_Gold"
@@ -120,6 +204,12 @@
       "market_name": "ZB10S",
       "codename": "ZB10S",
       "model": "ZB10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZB11S",
+      "codename": "ZB11S",
+      "model": "ZB11S"
     }
   ]
 }

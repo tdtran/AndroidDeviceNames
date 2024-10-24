@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Origin_1010_EEA",
+      "codename": "Origin_1010",
+      "model": "Origin_1010"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Origin_679",
       "codename": "Origin_679",
       "model": "Origin_679"
@@ -177,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TEO10-KID2BL32",
+      "codename": "TEO10-KID2BL32",
+      "model": "TEO10-KID2BL32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEO104G",
       "codename": "TEO104G",
       "model": "TEO104G"
@@ -231,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TEOX10-MT8SL128LTE",
+      "codename": "TEOX10-MT8SL128LTE",
+      "model": "TEOX10-MT8SL128LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEOX102",
       "codename": "TEOX102",
       "model": "TEOX102"
@@ -240,6 +258,12 @@
       "market_name": "TEOX103",
       "codename": "TEOX103",
       "model": "TEOX103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "THOMSON GS-SMART",
+      "codename": "anaheim",
+      "model": "THOMSON GS-SMART"
     },
     {
       "manufacturer": "",

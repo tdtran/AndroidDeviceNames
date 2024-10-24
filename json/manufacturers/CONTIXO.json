@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1-64G",
+      "codename": "A1-64G",
+      "model": "A1-64G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CONTIXO_V8",
       "codename": "CONTIXO-V8",
       "model": "V8"
@@ -54,6 +60,12 @@
       "market_name": "K80",
       "codename": "K80",
       "model": "K80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K81",
+      "codename": "K81",
+      "model": "K81"
     },
     {
       "manufacturer": "",

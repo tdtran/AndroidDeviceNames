@@ -24,6 +24,12 @@
     "model": "G GuardTV"
   },
   {
+    "manufacturer": "G-Guard",
+    "market_name": "G GuardTV",
+    "codename": "shibuya",
+    "model": "GGuardTV"
+  },
+  {
     "manufacturer": "Itel",
     "market_name": "itel TV",
     "codename": "shibuya",

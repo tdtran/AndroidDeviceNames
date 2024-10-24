@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B30",
+      "codename": "S6702XA",
+      "model": "S6702X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B30 Pro",
       "codename": "S6702XA",
       "model": "S6702X"
@@ -210,6 +216,24 @@
       "market_name": "M6",
       "codename": "S6503LE",
       "model": "S6503L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N10",
+      "codename": "S6603LA",
+      "model": "S6603L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N10 Plus",
+      "codename": "S6704LA",
+      "model": "S6704L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N12",
+      "codename": "S6008LA",
+      "model": "S6008L"
     },
     {
       "manufacturer": "",
@@ -327,6 +351,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X10 5G",
+      "codename": "S6707XA",
+      "model": "S6707X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X4",
       "codename": "X4",
       "model": "X4"
@@ -360,6 +390,12 @@
       "market_name": "X6mini",
       "codename": "S5704LE",
       "model": "S5704L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7",
+      "codename": "S6006LA",
+      "model": "S6006L"
     },
     {
       "manufacturer": "",

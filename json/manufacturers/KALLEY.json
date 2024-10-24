@@ -45,6 +45,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Black G3",
+      "codename": "Black_G3",
+      "model": "Black G3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Black_5",
+      "codename": "Black_5",
+      "model": "Black_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Black_5C",
+      "codename": "Black_5",
+      "model": "Black_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Black_E",
+      "codename": "Black_E",
+      "model": "Black_E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Black_G_2",
       "codename": "Black_G_2",
       "model": "Black_G_2"

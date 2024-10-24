@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APEX_A10",
+      "codename": "NEOTab_A10",
+      "model": "NEOTab_A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MT-734G",
       "codename": "MT-734G",
       "model": "MT-734G"

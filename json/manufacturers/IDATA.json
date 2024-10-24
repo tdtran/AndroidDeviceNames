@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iData K3 Pro",
+      "codename": "K3Pro",
+      "model": "K3Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iData P1",
       "codename": "iData_P1",
       "model": "iData P1"

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DS_CL4_Lite",
+      "codename": "DS_CL4_Lite",
+      "model": "DS-CL4 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DS_CL4_Lite_C",
       "codename": "DS_CL4_Lite",
       "model": "DS-CL4 Lite"

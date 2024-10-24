@@ -507,6 +507,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myPhone_N23_Plus_5G_EEA",
+      "codename": "MS2402x",
+      "model": "myPhone N23 Plus 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone_N23_Plus_EEA",
+      "codename": "MS2401x",
+      "model": "myPhone N23 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myPhone_Pocket_2",
       "codename": "myPhone_Pocket_2",
       "model": "Pocket_2"

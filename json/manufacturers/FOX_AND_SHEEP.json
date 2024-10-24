@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Fox_and_Sheep",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Kidstablet1",
+      "codename": "Kidstablet1",
+      "model": "Kidstablet_231"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KidstabletOne",
+      "codename": "KidstabletOne",
+      "model": "KidstabletOne"
+    }
+  ]
+}

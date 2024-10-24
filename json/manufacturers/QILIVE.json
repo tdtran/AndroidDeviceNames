@@ -135,9 +135,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "QT2308BK",
+      "codename": "QT2308BK",
+      "model": "QT2308BK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QT23109BP",
       "codename": "QT23109BP",
       "model": "QT23109BP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QT24101B",
+      "codename": "QT24101B",
+      "model": "QT24101B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QT24105BP",
+      "codename": "QT24105BP",
+      "model": "QT24105BP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QT24109B",
+      "codename": "QT24109B",
+      "model": "QT24109B"
     },
     {
       "manufacturer": "",

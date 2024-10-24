@@ -63,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C77W",
+      "codename": "C77W",
+      "model": "C77W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C77W_EEA",
+      "codename": "C77W_EEA",
+      "model": "C77W_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C80W",
       "codename": "C80W",
       "model": "C80W"
@@ -90,6 +102,18 @@
       "market_name": "C84W",
       "codename": "C84W",
       "model": "C84W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C86W",
+      "codename": "C86W",
+      "model": "C86W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C86W_EEA",
+      "codename": "C86W_EEA",
+      "model": "C86W_EEA"
     },
     {
       "manufacturer": "",
@@ -165,6 +189,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P16-C",
+      "codename": "P16-C",
+      "model": "P16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P16-C",
+      "codename": "P16-C",
+      "model": "P16-C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P20L",
       "codename": "P20L",
       "model": "P20L"
@@ -177,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P25L",
+      "codename": "P25L",
+      "model": "P25L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P25W",
       "codename": "P25W",
       "model": "P25W"
@@ -186,6 +228,42 @@
       "market_name": "P25W_EEA",
       "codename": "P25W_EEA",
       "model": "P25W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P35W",
+      "codename": "P35W",
+      "model": "P35W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P35W_EEA",
+      "codename": "P35W_EEA",
+      "model": "P35W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P38W",
+      "codename": "P38W",
+      "model": "P38W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P38W_EEA",
+      "codename": "P38W_EEA",
+      "model": "P38W_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50L",
+      "codename": "P50L",
+      "model": "P50L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50L_EEA",
+      "codename": "P50L_EEA",
+      "model": "P50L_EEA"
     },
     {
       "manufacturer": "",
@@ -204,6 +282,12 @@
       "market_name": "P83L",
       "codename": "P83L",
       "model": "P83L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S18",
+      "codename": "S18",
+      "model": "S18"
     },
     {
       "manufacturer": "",

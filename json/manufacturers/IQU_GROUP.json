@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IQUSMARTEASYT8W",
+      "codename": "IQUSMARTEASYT8W",
+      "model": "IQU SMARTEasy T8w"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IQU_T10_4G",
       "codename": "IQU_T10_4G",
       "model": "IQU T10 4G"

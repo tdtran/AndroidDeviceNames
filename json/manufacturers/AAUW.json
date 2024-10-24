@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M50_NEW",
+      "codename": "M50_NEW",
+      "model": "M50_NEW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M60_NEW",
+      "codename": "M60_NEW",
+      "model": "M60_NEW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10",
       "codename": "T10",
       "model": "T10"

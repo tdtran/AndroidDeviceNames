@@ -21,9 +21,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "W10_T_EEA",
+      "codename": "W10_T_EEA",
+      "model": "W10_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W10_T_US",
+      "codename": "W10_T_US",
+      "model": "W10_T_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W10_US",
       "codename": "W10_US",
       "model": "W10_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W11_EEA",
+      "codename": "W11_EEA",
+      "model": "W11_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W11_US",
+      "codename": "W11_US",
+      "model": "W11_US"
     },
     {
       "manufacturer": "",

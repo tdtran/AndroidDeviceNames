@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A6_EEA",
+      "codename": "A6_EEA",
+      "model": "A6_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6_US",
+      "codename": "A6_US",
+      "model": "A6_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9-EEA",
       "codename": "A9-EEA",
       "model": "A9-EEA"
@@ -36,6 +48,18 @@
       "market_name": "A9_US",
       "codename": "A9_US",
       "model": "A9_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_A8_EEA_T",
+      "codename": "TAB_A8_EEA_T",
+      "model": "TAB_A8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_A8_T",
+      "codename": "TAB_A8_T",
+      "model": "TAB_A8_US"
     },
     {
       "manufacturer": "",

@@ -102,6 +102,12 @@
       "market_name": "X668_64GB",
       "codename": "X668_64GB",
       "model": "X668_64GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YKIDS_100_EEA",
+      "codename": "TKIDS_100_EEA",
+      "model": "TKIDS_100"
     }
   ]
 }

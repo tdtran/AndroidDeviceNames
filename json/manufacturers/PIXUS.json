@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixus_Falcon",
+      "codename": "Pixus_Falcon",
+      "model": "Pixus_Falcon"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixus_Folio",
       "codename": "Pixus_Folio",
       "model": "Pixus_Folio"

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pad6",
+      "codename": "Pad6",
+      "model": "Pad6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARK KSR-A0",
       "codename": "kaiser",
       "model": "SHARK KSR-A0"

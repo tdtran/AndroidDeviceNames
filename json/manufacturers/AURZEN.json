@@ -6,6 +6,12 @@
       "market_name": "TB-AS100A",
       "codename": "TB-AS100A",
       "model": "TB-AS100A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB-AS110A",
+      "codename": "TB-AS110A",
+      "model": "TB-AS110A"
     }
   ]
 }

@@ -339,6 +339,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi 14C",
+      "codename": "lake",
+      "model": "2409BRN2CY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 14C",
+      "codename": "pond",
+      "model": "2409BRN2CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 14C",
+      "codename": "pond",
+      "model": "2409BRN2CL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi 6",
       "codename": "cereus",
       "model": "Redmi 6"
@@ -1245,6 +1263,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 14 Pro+",
+      "codename": "amethyst",
+      "model": "24115RA8EC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 7",
       "codename": "lavender",
       "model": "Redmi Note 7"
@@ -1440,6 +1464,24 @@
       "market_name": "Redmi Pad SE",
       "codename": "xun",
       "model": "23073RPBFL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad SE 4G",
+      "codename": "spark",
+      "model": "24076RP19I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad SE 8.7",
+      "codename": "flare",
+      "model": "24075RP89G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Pad SE 8.7 4G",
+      "codename": "spark",
+      "model": "24076RP19G"
     },
     {
       "manufacturer": "",

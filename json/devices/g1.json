@@ -30,6 +30,18 @@
     "model": "G1"
   },
   {
+    "manufacturer": "KWUMSY",
+    "market_name": "G1",
+    "codename": "G1",
+    "model": "G1"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "G1_EEA",
+    "codename": "G1",
+    "model": "G1"
+  },
+  {
     "manufacturer": "X-Age",
     "market_name": "G1",
     "codename": "G1",

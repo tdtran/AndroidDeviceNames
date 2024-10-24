@@ -36,6 +36,12 @@
       "market_name": "SD_GM01",
       "codename": "Capricorn",
       "model": "Eco Smart Display"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W83B-LANGO3576",
+      "codename": "W83B-F2-RK3576",
+      "model": "W83B-F2-RK3576"
     }
   ]
 }

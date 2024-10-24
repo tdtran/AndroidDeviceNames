@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Nuu",
+    "market_name": "B30",
+    "codename": "S6702XA",
+    "model": "S6702X"
+  },
+  {
+    "manufacturer": "Nuu",
     "market_name": "B30 Pro",
     "codename": "S6702XA",
     "model": "S6702X"

@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I10Pro_LTE",
+      "codename": "I10Pro_LTE",
+      "model": "I10Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I10Pro_LTE_EEA",
+      "codename": "I10Pro_LTE_EEA",
+      "model": "I10Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I10_EEA",
       "codename": "I10_EEA",
       "model": "I10_EEA"
@@ -39,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I10_Plus_LTE",
+      "codename": "I10_Plus_LTE",
+      "model": "I10_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I10_Plus_LTE_EEA",
+      "codename": "I10_Plus_LTE_EEA",
+      "model": "I10_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I10_Pro_EEA",
       "codename": "I10_Pro_EEA",
       "model": "I10_Pro"
@@ -60,6 +84,12 @@
       "market_name": "I10_Pro_ROW",
       "codename": "I10_Pro_ROW",
       "model": "I10_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I10_S_Pro",
+      "codename": "I10_S_Pro",
+      "model": "I10_S_Pro"
     },
     {
       "manufacturer": "",
@@ -99,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I11_Plus_LTE",
+      "codename": "I11_Plus_LTE",
+      "model": "I11_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I11_Plus_LTE_EEA",
       "codename": "I11_Plus_LTE_EEA",
       "model": "I11_Plus"
@@ -114,6 +150,18 @@
       "market_name": "I11_Power_LTE",
       "codename": "I11_Power_LTE",
       "model": "I11_Power_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I11_S",
+      "codename": "I11_S",
+      "model": "I11_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I8",
+      "codename": "I8",
+      "model": "I8"
     },
     {
       "manufacturer": "",

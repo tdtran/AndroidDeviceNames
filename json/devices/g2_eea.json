@@ -4,5 +4,11 @@
     "market_name": "G2_EEA",
     "codename": "G2_EEA",
     "model": "G2_EEA"
+  },
+  {
+    "manufacturer": "SUAAT",
+    "market_name": "G2_S_EEA",
+    "codename": "G2_EEA",
+    "model": "G2_EEA"
   }
 ]

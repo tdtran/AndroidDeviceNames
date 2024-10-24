@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "APEX_5G",
+      "codename": "APEX_5G",
+      "model": "APEX_5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ARCTIC",
       "codename": "ARCTIC",
       "model": "ARCTIC"
@@ -54,6 +60,12 @@
       "market_name": "ATLAS",
       "codename": "DVK83",
       "model": "ATLAS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AURORA",
+      "codename": "AURORA",
+      "model": "AURORA"
     },
     {
       "manufacturer": "",
@@ -168,6 +180,12 @@
       "market_name": "MAVERICK",
       "codename": "MAVERICK",
       "model": "MAVERICK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIRAGE",
+      "codename": "MIRAGE",
+      "model": "MIRAGE"
     },
     {
       "manufacturer": "",
@@ -345,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SIRIUS_TAB_8",
+      "codename": "SIRIUS_TAB_8",
+      "model": "SIRIUS TAB 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STEP_UP",
       "codename": "STEP_UP",
       "model": "STEP_UP"
@@ -432,6 +456,12 @@
       "market_name": "V",
       "codename": "V",
       "model": "V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VERTIGO",
+      "codename": "VERTIGO",
+      "model": "VERTIGO"
     },
     {
       "manufacturer": "",

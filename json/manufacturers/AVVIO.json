@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A680",
+      "codename": "A680",
+      "model": "aiworks"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Avvio 4GO",
       "codename": "Avvio_4GO",
       "model": "Avvio_4GO"

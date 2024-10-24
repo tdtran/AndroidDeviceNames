@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F102-T618-EEA",
+      "codename": "F102-T618-EEA",
+      "model": "F102-T618-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P31-F102-T606-EEA",
+      "codename": "P31-F102-T606",
+      "model": "P31-F102-T606-EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEC-M1310",
       "codename": "TEC-M1310",
       "model": "TEC-M1310"

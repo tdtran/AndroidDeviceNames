@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LIFEPHONE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HERO",
+      "codename": "LIFEPHONE_HERO",
+      "model": "HERO"
+    }
+  ]
+}

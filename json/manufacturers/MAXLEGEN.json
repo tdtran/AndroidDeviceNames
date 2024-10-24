@@ -1,0 +1,17 @@
+{
+  "manufacturer": "MAXLEGEN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M621",
+      "codename": "M621",
+      "model": "M621"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M621-EEA",
+      "codename": "M621-EEA",
+      "model": "M621-EEA"
+    }
+  ]
+}

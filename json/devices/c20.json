@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "COLORROOM",
+    "market_name": "C20",
+    "codename": "C20",
+    "model": "C20_ROW"
+  },
+  {
+    "manufacturer": "COLORROOM",
+    "market_name": "C20_EEA",
+    "codename": "C20",
+    "model": "C20"
+  },
+  {
     "manufacturer": "Cubot",
     "market_name": "C20",
     "codename": "C20",

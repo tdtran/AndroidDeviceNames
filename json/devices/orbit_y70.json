@@ -4,5 +4,11 @@
     "market_name": "ORBIT Y70",
     "codename": "ORBIT_Y70",
     "model": "ORBIT Y70"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "ORBIT Y70c",
+    "codename": "ORBIT_Y70",
+    "model": "ORBIT Y70c"
   }
 ]

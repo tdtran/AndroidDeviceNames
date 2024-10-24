@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DAYTONA_G8",
+      "codename": "BL_9UEEP_104",
+      "model": "DAYTONA_G8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INTERLAGOS-T32",
       "codename": "INTERLAGOS-T32",
       "model": "INTERLAGOS-T32"
@@ -87,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MONZA-T5",
+      "codename": "MONZA-T5",
+      "model": "MONZA-T5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MONZA-T7",
       "codename": "MONZA-T7",
       "model": "MONZA-T7"
@@ -126,6 +138,12 @@
       "market_name": "SILVERSTONE-T18",
       "codename": "SILVERSTONE-T18",
       "model": "BL.9UEEP.210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Silverstone-T10X",
+      "codename": "Silverstone-T10X",
+      "model": "Silverstone-T10X"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "EJBOARD",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EJ_IFPD",
+      "codename": "rk3588_t",
+      "model": "EP_Series"
+    }
+  ]
+}

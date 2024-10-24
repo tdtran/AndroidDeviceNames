@@ -1,0 +1,11 @@
+{
+  "manufacturer": "DreamPos",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LeoPos7_EEA",
+      "codename": "LeoPos7_EEA",
+      "model": "DreamPos"
+    }
+  ]
+}

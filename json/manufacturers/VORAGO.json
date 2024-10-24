@@ -24,6 +24,12 @@
       "market_name": "PAD-7-V6",
       "codename": "PAD-7-V6",
       "model": "PAD-7-V6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PAD-8",
+      "codename": "PAD-8",
+      "model": "PAD-8"
     }
   ]
 }

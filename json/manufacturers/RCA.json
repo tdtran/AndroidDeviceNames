@@ -255,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RATM31046",
+      "codename": "RATM31046",
+      "model": "RATM31046"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RATM3144B",
       "codename": "RATM3144B",
       "model": "RATM3144B"
@@ -276,6 +282,12 @@
       "market_name": "RC10T3G21",
       "codename": "RC10T3G21",
       "model": "RC10T3G21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RC10TB",
+      "codename": "RC10TB",
+      "model": "RC10TB"
     },
     {
       "manufacturer": "",
@@ -786,6 +798,18 @@
       "market_name": "Smart TV",
       "codename": "ueno",
       "model": "2K Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_One",
+      "codename": "TAB_One",
+      "model": "TAB_One"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_One_Plus",
+      "codename": "TAB_One_Plus",
+      "model": "TAB_One_Plus"
     },
     {
       "manufacturer": "",

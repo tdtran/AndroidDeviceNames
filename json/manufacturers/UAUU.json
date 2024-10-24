@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T30Pro",
+      "codename": "T30Pro",
+      "model": "T30Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T60",
       "codename": "T60",
       "model": "T60"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "Telstra T-Elite 5G",
+    "codename": "P720F09",
+    "model": "A75 Pro 5G"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE Blade A75 5G",
     "codename": "P720F09",
     "model": "Z2357N"

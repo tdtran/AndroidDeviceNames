@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neon_Smarta_2",
+      "codename": "Neon_Smarta_2",
+      "model": "Neon Smarta 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SFCSTB2LITE",
       "codename": "SFCSTB2LITE",
       "model": "SFCSTB2LITE"
@@ -84,6 +90,12 @@
       "market_name": "Safaricom ET Kimem",
       "codename": "Safaricom_ET_Kimem",
       "model": "Safaricom ET Kimem"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sajipro",
+      "codename": "Sajipro",
+      "model": "Sajipro"
     }
   ]
 }

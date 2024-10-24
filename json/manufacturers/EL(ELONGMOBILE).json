@@ -12,6 +12,12 @@
       "market_name": "Pad_S7",
       "codename": "Pad_S7",
       "model": "Pad_S7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_S8",
+      "codename": "Pad_S8",
+      "model": "Pad_S8"
     }
   ]
 }

@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alfa_11_BT",
+      "codename": "Alfa_11_BT",
+      "model": "Alfa 11 BT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EMEA",
       "codename": "ALFA_7RS",
       "model": "ALFA 7RS"

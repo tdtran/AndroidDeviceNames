@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer Blade Va 5G EEA",
+      "codename": "HS2402",
+      "model": "Hammer Blade Va 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Construction",
       "codename": "Hammer_Construction",
       "model": "Hammer_Construction"
@@ -42,6 +48,18 @@
       "market_name": "Hammer Explorer Pro",
       "codename": "Hammer_Expl_Pro",
       "model": "Hammer_Explorer_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer_Construction_2_5G_EEA",
+      "codename": "HS2403x",
+      "model": "Hammer_Construction_2_5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer_Construction_2_Thermal_5G_EEA",
+      "codename": "HS2404x",
+      "model": "Hammer_Construction_2_Thermal_5G"
     },
     {
       "manufacturer": "",

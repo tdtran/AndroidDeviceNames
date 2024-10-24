@@ -16,5 +16,17 @@
     "market_name": "C11",
     "codename": "C11",
     "model": "C11"
+  },
+  {
+    "manufacturer": "UGRIHACH",
+    "market_name": "C11",
+    "codename": "C11",
+    "model": "C11"
+  },
+  {
+    "manufacturer": "UGRIHACH",
+    "market_name": "C11_EEA",
+    "codename": "C11",
+    "model": "C11"
   }
 ]

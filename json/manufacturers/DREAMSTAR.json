@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Dreamstar 2K SMART TV",
+      "codename": "nagata",
+      "model": "Dreamstar 2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dreamstar 4K SMART TV",
+      "codename": "marina",
+      "model": "Dreamstar 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nova",
       "codename": "YYZ",
       "model": "Nova"

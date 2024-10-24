@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P10S_EEA",
+      "codename": "P10S",
+      "model": "P10S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P10X",
       "codename": "P10X",
       "model": "P10X"

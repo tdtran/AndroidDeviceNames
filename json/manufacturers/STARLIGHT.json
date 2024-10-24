@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Alpha 100",
+      "codename": "Alpha_100",
+      "model": "Alpha 100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alpha 200",
+      "codename": "Alpha_200",
+      "model": "Alpha 200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C_Note",
       "codename": "C_Note",
       "model": "C_Note"

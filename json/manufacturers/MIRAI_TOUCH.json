@@ -6,6 +6,12 @@
       "market_name": "IFP MIRAI TOUCH",
       "codename": "PE3S_Series",
       "model": "PE3S_Series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MXXCE3XE",
+      "codename": "rk3588_t",
+      "model": "MXXCE3XE"
     }
   ]
 }

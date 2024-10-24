@@ -11,6 +11,12 @@
       "manufacturer": "",
       "market_name": "IFPXX03-V7PRO",
       "codename": "rk3588_t",
+      "model": "IFP03V7PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IFPXX03-V7PRO",
+      "codename": "rk3588_t",
       "model": "IFPO3V7PRO"
     },
     {

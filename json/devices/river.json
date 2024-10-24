@@ -28,5 +28,11 @@
     "market_name": "Redmi 12 5G",
     "codename": "river",
     "model": "A401XM"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV",
+    "codename": "river",
+    "model": "MiTV-MZTU0"
   }
 ]

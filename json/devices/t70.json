@@ -4,5 +4,11 @@
     "market_name": "Panasonic T70",
     "codename": "T70",
     "model": "Panasonic T70"
+  },
+  {
+    "manufacturer": "Veidoo",
+    "market_name": "T70",
+    "codename": "T70",
+    "model": "T70"
   }
 ]

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Amino",
+    "market_name": "Amigo 7Y EspialTV",
+    "codename": "Amigo7Y",
+    "model": "Amigo 7Y EspialTV"
+  },
+  {
+    "manufacturer": "Amino",
     "market_name": "Amigo7Y",
     "codename": "Amigo7Y",
     "model": "Amigo 7Y"

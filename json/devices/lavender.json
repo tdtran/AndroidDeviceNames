@@ -133,6 +133,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "DAMASCO",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "DANILUX",
     "codename": "lavender",
     "model": "4K SMART TV"
@@ -200,6 +206,12 @@
   {
     "manufacturer": "KTCtv",
     "market_name": "QRIOM",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "REYNA",
     "codename": "lavender",
     "model": "4K SMART TV"
   },

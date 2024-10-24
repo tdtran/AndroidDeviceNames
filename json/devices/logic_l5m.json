@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Logic Mobility",
+    "market_name": "LOGIC L44",
+    "codename": "LOGIC_L5M",
+    "model": "LOGIC L44"
+  },
+  {
+    "manufacturer": "Logic Mobility",
     "market_name": "LOGIC_L5M",
     "codename": "LOGIC_L5M",
     "model": "LOGIC_L5M"

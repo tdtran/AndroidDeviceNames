@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Alpha",
+    "market_name": "ALPHA 4K",
+    "codename": "lushan",
+    "model": "ALPHA 4K"
+  },
+  {
     "manufacturer": "Hisense",
     "market_name": "lushan",
     "codename": "lushan",
@@ -10,6 +16,12 @@
     "market_name": "lushan-NF",
     "codename": "lushan",
     "model": "SmartTV 4K"
+  },
+  {
+    "manufacturer": "Panavox",
+    "market_name": "Panavox Android TV",
+    "codename": "lushan",
+    "model": "Panavox Android TV"
   },
   {
     "manufacturer": "Polytron",
@@ -28,5 +40,11 @@
     "market_name": "lushan-Toshiba-FFM",
     "codename": "lushan",
     "model": "SmartTV 4K FFM"
+  },
+  {
+    "manufacturer": "Vu Televisions",
+    "market_name": "VU 4K",
+    "codename": "lushan",
+    "model": "VU 4K"
   }
 ]

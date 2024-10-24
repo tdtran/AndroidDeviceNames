@@ -291,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iHunt Titan P10000 Pro",
+      "codename": "P10000_Pro",
+      "model": "iHunt Titan P10000 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iHuntLike12PRO",
       "codename": "iHuntLike12PRO",
       "model": "iHunt Like 12 PRO"

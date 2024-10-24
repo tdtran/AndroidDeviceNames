@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Polestar",
+      "codename": "moose",
+      "model": "Polestar"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Polestar Emu",
       "codename": "ihu_emulator",
       "model": "Polestar 2"

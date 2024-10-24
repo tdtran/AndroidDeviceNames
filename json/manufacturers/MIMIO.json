@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Mimio",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MimioPro-G XX5",
+      "codename": "rk3588_t",
+      "model": "MimioProG5"
+    }
+  ]
+}

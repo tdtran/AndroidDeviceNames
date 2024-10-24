@@ -24,6 +24,12 @@
       "market_name": "N8_KIDS",
       "codename": "N8_KIDS",
       "model": "N8 KIDS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N8_Plus",
+      "codename": "N8_Plus",
+      "model": "N8_Plus"
     }
   ]
 }

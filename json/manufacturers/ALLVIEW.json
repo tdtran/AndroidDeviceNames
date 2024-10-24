@@ -909,6 +909,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Viva_Play_804_EEA",
+      "codename": "Viva_Play_804",
+      "model": "Viva_Play_804"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X10_Soul_EEA",
       "codename": "X10_Soul",
       "model": "X10_Soul"

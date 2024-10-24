@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T221",
+      "codename": "T221",
+      "model": "T221"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T26",
       "codename": "T26",
       "model": "T26"

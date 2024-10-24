@@ -43,6 +43,12 @@
   },
   {
     "manufacturer": "SWTV",
+    "market_name": "SWTV-22AE-4K NF",
+    "codename": "anaheim",
+    "model": "SWTV-22AE-4K NF"
+  },
+  {
+    "manufacturer": "SWTV",
     "market_name": "SWTV-22COL-4K",
     "codename": "anaheim",
     "model": "SWTV-22COL-4K"
@@ -112,6 +118,24 @@
     "market_name": "Singer 4K GSMART TV FF",
     "codename": "anaheim",
     "model": "Singer 4K GSMART TV FF"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "TESLA 4K GSMART TV",
+    "codename": "anaheim",
+    "model": "TESLA 4K GSMART TV"
+  },
+  {
+    "manufacturer": "Tesla",
+    "market_name": "TESLA 4K SMART TV FF",
+    "codename": "anaheim",
+    "model": "TESLA 4K SMART TV FF"
+  },
+  {
+    "manufacturer": "Thomson",
+    "market_name": "THOMSON GS-SMART",
+    "codename": "anaheim",
+    "model": "THOMSON GS-SMART"
   },
   {
     "manufacturer": "Vision",

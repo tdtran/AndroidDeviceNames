@@ -1,0 +1,17 @@
+{
+  "manufacturer": "AVACOM",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AVT015",
+      "codename": "AVT015",
+      "model": "AVT015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AVT016",
+      "codename": "AVT016",
+      "model": "AVT016"
+    }
+  ]
+}

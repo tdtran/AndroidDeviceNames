@@ -6,6 +6,12 @@
       "market_name": "TD-TP010G-2",
       "codename": "TD-TP010G-2",
       "model": "TD-TP010G-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WS-T01",
+      "codename": "WS-T01",
+      "model": "WS-T01"
     }
   ]
 }

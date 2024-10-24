@@ -1,0 +1,47 @@
+{
+  "manufacturer": "Rebecco",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K30_EEA",
+      "codename": "K30_EEA",
+      "model": "K30_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K30_ROW",
+      "codename": "K30_ROW",
+      "model": "K30_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K50_EEA",
+      "codename": "K50_EEA",
+      "model": "K50_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K50_ROW",
+      "codename": "K50_ROW",
+      "model": "K50_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K70_EEA",
+      "codename": "K70_EEA",
+      "model": "K70_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K70_ROW",
+      "codename": "K70_ROW",
+      "model": "K70_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K70i_EEA",
+      "codename": "K70i_EEA",
+      "model": "K70i_EEA"
+    }
+  ]
+}

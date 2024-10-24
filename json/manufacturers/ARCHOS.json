@@ -1089,6 +1089,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AWACT80HDWF_EEA",
+      "codename": "act80hdwf",
+      "model": "ARCHOS T80 HD WIFI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alba 10",
       "codename": "ac101cplv3",
       "model": "ALBA 10 TABLET"
@@ -1989,9 +1995,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SPAC101SOXUL_EEA",
+      "codename": "ac101soxul",
+      "model": "ARCHOS 101S Oxygen Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPACT101FHD4G",
+      "codename": "ACT101FHD4G",
+      "model": "ARCHOS T101 FHD 4G ULTRA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPACT101HD24G_EEA",
+      "codename": "act101hd24g",
+      "model": "ARCHOS T101 HD2 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPACT105FHD4G_EEA",
+      "codename": "act105fhd4g",
+      "model": "ARCHOS T105 FHD 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPACT105FHDWFUL_EEA",
+      "codename": "act105fhdwful",
+      "model": "ARCHOS T105FHD WIFI ULTRA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SPAT101FHDW_EEA",
       "codename": "at101fhdw",
       "model": "ARCHOS T101 FHD WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPAZA101SOXUL_EEA",
+      "codename": "aza101soxul",
+      "model": "Tikeasy 10d"
     },
     {
       "manufacturer": "",

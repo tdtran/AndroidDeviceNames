@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G10XM",
+      "codename": "G10XM",
+      "model": "G10XM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G10_2IN1_GEN2",
+      "codename": "G10_2IN1_GEN2",
+      "model": "G10_2IN1_GEN2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HW304_HW291",
       "codename": "HW304_HW291",
       "model": "HW304_HW291"

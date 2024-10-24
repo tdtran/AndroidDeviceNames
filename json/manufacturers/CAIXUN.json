@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Amstrong",
+      "codename": "cottongreen",
+      "model": "Amstrong"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Apollo Premium TV",
       "codename": "nagata",
       "model": "Apollo Premium TV"
@@ -18,6 +24,12 @@
       "market_name": "Australian/EU",
       "codename": "yeongdeungpo",
       "model": "AiPlus4K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAIXUN SMART TV",
+      "codename": "marina",
+      "model": "CAIXUN SMART TV"
     },
     {
       "manufacturer": "",
@@ -51,33 +63,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Dreamstar 2K SMART TV",
-      "codename": "nagata",
-      "model": "Dreamstar 2K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Dreamstar 4K SMART TV",
-      "codename": "marina",
-      "model": "Dreamstar 4K SMART TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "EXPRESS",
-      "codename": "marina",
-      "model": "Apollo Premium4K TV"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Europe",
       "codename": "martin",
       "model": "Caixun Android TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Europe",
-      "codename": "martin",
-      "model": "SE 2K Android Monitor"
     },
     {
       "manufacturer": "",

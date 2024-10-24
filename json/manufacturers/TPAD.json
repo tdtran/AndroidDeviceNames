@@ -6,6 +6,18 @@
       "market_name": "T255",
       "codename": "T255",
       "model": "T255"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPAD-F45A",
+      "codename": "Tpad-F45A",
+      "model": "Tpad-F45A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPAD-T30B_EEA",
+      "codename": "TPAD-T30B",
+      "model": "TPAD-T30B"
     }
   ]
 }

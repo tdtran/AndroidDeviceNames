@@ -285,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A671L-OP",
+      "codename": "itel-A671L",
+      "model": "itel A671L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A70",
       "codename": "itel-A665L",
       "model": "itel A665L"
@@ -468,6 +474,12 @@
       "market_name": "P65",
       "codename": "itel-P671L",
       "model": "itel P671L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P65",
+      "codename": "itel-P671LN",
+      "model": "itel P671LN"
     },
     {
       "manufacturer": "",
@@ -1102,6 +1114,12 @@
     {
       "manufacturer": "",
       "market_name": "itel A24 Pro",
+      "codename": "itel-A507LSU",
+      "model": "itel A507LSU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A24 Pro",
       "codename": "itel-A511LP2",
       "model": "itel A511LP"
     },
@@ -1389,6 +1407,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel AC51",
+      "codename": "itel-A507LMU",
+      "model": "itel A507LMU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel AC60",
       "codename": "itel-L6004L",
       "model": "itel L6004L"
@@ -1521,6 +1545,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel P65",
+      "codename": "itel-P671LN",
+      "model": "itel P671LN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel P65C",
       "codename": "itel-P666L",
       "model": "itel P666L"
@@ -1608,6 +1638,18 @@
       "market_name": "itel S24",
       "codename": "itel-S667LN",
       "model": "itel S667LN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel S25",
+      "codename": "itel-S685LN",
+      "model": "itel S685LN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel S25 Ultra",
+      "codename": "itel-S686LN",
+      "model": "itel S686LN"
     },
     {
       "manufacturer": "",

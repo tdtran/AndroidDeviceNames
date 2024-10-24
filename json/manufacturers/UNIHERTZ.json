@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jelly Max",
+      "codename": "Jelly_Max",
+      "model": "Jelly Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jelly Star",
       "codename": "Jelly_Star",
       "model": "Jelly Star"

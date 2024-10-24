@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G10_T_EEA",
+      "codename": "G10_T_EEA",
+      "model": "G10_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G10_T_US",
+      "codename": "G10_T_US",
+      "model": "G10_T_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G10_US",
       "codename": "G10_US",
       "model": "G10_US"
@@ -33,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G2_T_EEA",
+      "codename": "G2_T_EEA",
+      "model": "G2_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2_T_US",
+      "codename": "G2_T_US",
+      "model": "G2_T_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G2_U_EEA",
       "codename": "G2_U_EEA",
       "model": "G2_U_EEA"
@@ -54,6 +78,18 @@
       "market_name": "G3",
       "codename": "G3",
       "model": "G3_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3-EEA",
+      "codename": "G3-EEA",
+      "model": "G3-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3-US",
+      "codename": "G3-US",
+      "model": "G3-US"
     },
     {
       "manufacturer": "",
@@ -90,6 +126,42 @@
       "market_name": "G7_EEA",
       "codename": "G7_EEA",
       "model": "G7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7_EEA_T",
+      "codename": "G7_EEA_T",
+      "model": "G7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G7_T",
+      "codename": "G7_T",
+      "model": "G7_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9_EEA",
+      "codename": "G9_EEA",
+      "model": "G9_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9_US",
+      "codename": "G9_US",
+      "model": "G9_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9_U_EEA",
+      "codename": "G9_U_EEA",
+      "model": "G9_U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G9_U_US",
+      "codename": "G9_U_US",
+      "model": "G9_U_US"
     }
   ]
 }

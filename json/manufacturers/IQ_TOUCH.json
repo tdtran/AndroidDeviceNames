@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IFP",
+      "codename": "rk3588_t",
+      "model": "IFP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIATABQX1040",
       "codename": "VIATABQX1040",
       "model": "VIATABQX1040"

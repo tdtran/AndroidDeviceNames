@@ -6,6 +6,12 @@
     "model": "ADOCEX650"
   },
   {
+    "manufacturer": "Adesa",
+    "market_name": "AD33",
+    "codename": "rk3588_t",
+    "model": "Adesa_AD33"
+  },
+  {
     "manufacturer": "COMBUSTECH",
     "market_name": "COMBUSTECH-IFPD",
     "codename": "rk3588_t",
@@ -33,6 +39,12 @@
     "manufacturer": "Clevertouch",
     "market_name": "Clevertouch LUX Mini",
     "codename": "rk3588_t",
+    "model": "LUX_Mini"
+  },
+  {
+    "manufacturer": "Clevertouch",
+    "market_name": "Clevertouch LUX Mini",
+    "codename": "rk3588_t",
     "model": "LUX_Mini_Module"
   },
   {
@@ -54,6 +66,12 @@
     "model": "MC480-U"
   },
   {
+    "manufacturer": "EJBOARD",
+    "market_name": "EJ_IFPD",
+    "codename": "rk3588_t",
+    "model": "EP_Series"
+  },
+  {
     "manufacturer": "ESOL",
     "market_name": "CCBEK",
     "codename": "rk3588_t",
@@ -66,10 +84,22 @@
     "model": "IWxx2_DX"
   },
   {
+    "manufacturer": "HANSUNGCOMPUTER",
+    "market_name": "HSC-IFPD",
+    "codename": "rk3588_t",
+    "model": "HSN_Series"
+  },
+  {
     "manufacturer": "Helgi",
     "market_name": "HXxx10",
     "codename": "rk3588_t",
     "model": "Helgi_HX10"
+  },
+  {
+    "manufacturer": "IQ Touch",
+    "market_name": "IFP",
+    "codename": "rk3588_t",
+    "model": "IFP"
   },
   {
     "manufacturer": "JAV Smart-box",
@@ -90,16 +120,34 @@
     "model": "TR3PN"
   },
   {
+    "manufacturer": "MAXHUB",
+    "market_name": "U30",
+    "codename": "rk3588_t",
+    "model": "U30"
+  },
+  {
     "manufacturer": "MCTV",
     "market_name": "MCIFPD",
     "codename": "rk3588_t",
     "model": "MCIFPD"
   },
   {
+    "manufacturer": "MIRAI_TOUCH",
+    "market_name": "MXXCE3XE",
+    "codename": "rk3588_t",
+    "model": "MXXCE3XE"
+  },
+  {
     "manufacturer": "MPORT",
     "market_name": "MPORT-IFPD",
     "codename": "rk3588_t",
     "model": "e_Smarter"
+  },
+  {
+    "manufacturer": "Mimio",
+    "market_name": "MimioPro-G XX5",
+    "codename": "rk3588_t",
+    "model": "MimioProG5"
   },
   {
     "manufacturer": "NURIBOM",
@@ -159,6 +207,12 @@
     "manufacturer": "V7",
     "market_name": "IFPXX03-V7PRO",
     "codename": "rk3588_t",
+    "model": "IFP03V7PRO"
+  },
+  {
+    "manufacturer": "V7",
+    "market_name": "IFPXX03-V7PRO",
+    "codename": "rk3588_t",
     "model": "IFPO3V7PRO"
   },
   {
@@ -174,9 +228,21 @@
     "model": "EK4"
   },
   {
+    "manufacturer": "heinekingmedia",
+    "market_name": "Digitale_Tafel",
+    "codename": "rk3588_t",
+    "model": "DTA13C10HM"
+  },
+  {
     "manufacturer": "iiyama",
     "market_name": "TEXX14MIS-B2AG",
     "codename": "rk3588_t",
     "model": "TEXX14MIS-B2AG"
+  },
+  {
+    "manufacturer": "predia",
+    "market_name": "Odin Groep",
+    "codename": "rk3588_t",
+    "model": "general_en_bytello_edla"
   }
 ]

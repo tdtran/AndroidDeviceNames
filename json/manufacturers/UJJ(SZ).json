@@ -1,0 +1,53 @@
+{
+  "manufacturer": "UJJ(SZ)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "U3_EEA",
+      "codename": "U3_EEA",
+      "model": "U3_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U3_US",
+      "codename": "U3_US",
+      "model": "U3_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6_EEA",
+      "codename": "U6_EEA",
+      "model": "U6_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6_US",
+      "codename": "U6_US",
+      "model": "U6_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U7_EEA",
+      "codename": "U7_EEA",
+      "model": "U7_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U7_US",
+      "codename": "U7_US",
+      "model": "U7_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U8_EEA",
+      "codename": "U8_EEA",
+      "model": "U8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U8_US",
+      "codename": "U8_US",
+      "model": "U8_US"
+    }
+  ]
+}

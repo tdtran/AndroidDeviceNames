@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P8Pro",
+      "codename": "P8Pro",
+      "model": "P8Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P8ProA14",
       "codename": "P8ProA14",
       "model": "P8Pro"

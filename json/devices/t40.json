@@ -22,5 +22,11 @@
     "market_name": "T40",
     "codename": "T40",
     "model": "T40"
+  },
+  {
+    "manufacturer": "Wiko",
+    "market_name": "WIKO T40",
+    "codename": "T40",
+    "model": "ArkF-AF00"
   }
 ]

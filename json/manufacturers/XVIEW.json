@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FTB13",
+      "codename": "FTB13",
+      "model": "FTB13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kids10",
+      "codename": "Kids10",
+      "model": "Kids10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PROTON_AMBER_HD",
       "codename": "Proton_Amber_HD",
       "model": "Proton_Amber_HD"
@@ -111,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XRB15",
+      "codename": "XRB15",
+      "model": "XRB15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X_ViewTablet10",
       "codename": "X_ViewTablet10",
       "model": "X-ViewTablet"
@@ -120,6 +138,18 @@
       "market_name": "Xview_tablet_7",
       "codename": "Xview_tablet_7",
       "model": "Xview_tablet_7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZPB17",
+      "codename": "ZPB17",
+      "model": "ZPB17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZPB18",
+      "codename": "ZPB18",
+      "model": "ZPB18"
     }
   ]
 }

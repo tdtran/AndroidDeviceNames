@@ -24,6 +24,12 @@
     "model": "CONQUEST S21"
   },
   {
+    "manufacturer": "SEBBE",
+    "market_name": "S21",
+    "codename": "S21",
+    "model": "S21_US"
+  },
+  {
     "manufacturer": "Vankyo",
     "market_name": "S21",
     "codename": "S21",

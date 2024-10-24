@@ -33,9 +33,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blade GT",
+      "codename": "M24C",
+      "model": "Blade GT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade GT Pro",
+      "codename": "M24C",
+      "model": "Blade GT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade10",
+      "codename": "F1CK",
+      "model": "Blade10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade10 Max",
+      "codename": "F1P",
+      "model": "Blade10 Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blade10 Pro",
       "codename": "F1C",
       "model": "Blade10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade10 Ultra",
+      "codename": "F1CT",
+      "model": "Blade10 Ultra"
     },
     {
       "manufacturer": "",
@@ -66,6 +96,12 @@
       "market_name": "Fire_6_Power",
       "codename": "F1S",
       "model": "F10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fire_6_Power",
+      "codename": "F1S",
+      "model": "Fire 6 Power"
     },
     {
       "manufacturer": "",
@@ -186,6 +222,12 @@
       "market_name": "N55",
       "codename": "1928",
       "model": "N55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N55 Plus",
+      "codename": "1928Y",
+      "model": "N55 Plus"
     },
     {
       "manufacturer": "",
@@ -318,6 +360,12 @@
       "market_name": "S120",
       "codename": "M22C",
       "model": "S punk"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S200",
+      "codename": "M24P",
+      "model": "S200"
     },
     {
       "manufacturer": "",
@@ -795,6 +843,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T30Pro",
+      "codename": "P3Pro",
+      "model": "T35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T30S",
       "codename": "P3D",
       "model": "T30S"
@@ -810,6 +864,18 @@
       "market_name": "T30Ultra",
       "codename": "P3",
       "model": "T30Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40",
+      "codename": "P3_Plus",
+      "model": "T40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T40 Pro",
+      "codename": "P2TH",
+      "model": "T40 Pro"
     },
     {
       "manufacturer": "",
@@ -909,6 +975,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V Max Pro",
+      "codename": "M23HC_1",
+      "model": "V Max Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"
@@ -978,6 +1050,12 @@
       "market_name": "V40",
       "codename": "ZN138N",
       "model": "V40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V40 Pro",
+      "codename": "ZN138P",
+      "model": "V40 Pro"
     },
     {
       "manufacturer": "",

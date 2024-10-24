@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Ipro",
+    "market_name": "Amber5S_Pro",
+    "codename": "Mobilephone",
+    "model": "Y200"
+  },
+  {
+    "manufacturer": "Ipro",
     "market_name": "Y300",
     "codename": "Mobilephone",
     "model": "Y300"

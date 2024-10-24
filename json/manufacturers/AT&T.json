@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT\u0026T Motivate® Pro 5G",
+      "codename": "SN509A",
+      "model": "SN509A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT\u0026T Motivate™ 2",
       "codename": "EA211002",
       "model": "EA211002"
@@ -36,6 +42,12 @@
       "market_name": "AT\u0026T RADIANT™ Max 5G",
       "codename": "EA211001",
       "model": "EA211001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT\u0026T Verge™",
+      "codename": "SL219A",
+      "model": "SL219A"
     },
     {
       "manufacturer": "",

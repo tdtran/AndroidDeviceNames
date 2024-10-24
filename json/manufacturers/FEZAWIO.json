@@ -1,0 +1,35 @@
+{
+  "manufacturer": "fezawio",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F10_EEA",
+      "codename": "F10_EEA",
+      "model": "F10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10_US",
+      "codename": "F10_US",
+      "model": "F10_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11_EEA",
+      "codename": "F11_EEA",
+      "model": "F11_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11_US",
+      "codename": "F11_US",
+      "model": "F11_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F8_EEA",
+      "codename": "F8_EEA",
+      "model": "F8_EEA"
+    }
+  ]
+}

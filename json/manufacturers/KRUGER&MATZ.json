@@ -195,6 +195,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KM0708",
+      "codename": "KM0708",
+      "model": "KM0708"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM0808",
+      "codename": "KM0808",
+      "model": "KM0808"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM1008",
+      "codename": "KM1008",
+      "model": "KM1008"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM1066",
       "codename": "EAGLE_1066",
       "model": "KM1066"
@@ -240,6 +258,18 @@
       "market_name": "LIVE 7S",
       "codename": "LIVE_7S",
       "model": "LIVE 7S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIVE_11_EEA",
+      "codename": "LIVE_11",
+      "model": "LIVE 11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LIVE_11_NN_EEA",
+      "codename": "LIVE_11",
+      "model": "LIVE 11"
     },
     {
       "manufacturer": "",

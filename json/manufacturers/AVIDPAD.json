@@ -18,6 +18,24 @@
       "market_name": "S30",
       "codename": "S30",
       "model": "S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60",
+      "codename": "S60",
+      "model": "S60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S80",
+      "codename": "S80",
+      "model": "S80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S90",
+      "codename": "S90",
+      "model": "S90"
     }
   ]
 }

@@ -4,5 +4,11 @@
     "market_name": "TCL 50 SE",
     "codename": "Ladybird",
     "model": "T611B"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "MiTV",
+    "codename": "ladybird",
+    "model": "MiTV-MOEU0"
   }
 ]

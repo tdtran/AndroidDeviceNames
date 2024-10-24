@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G GuardTV",
+      "codename": "shibuya",
+      "model": "GGuardTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "fushan_Guard",
       "codename": "hamamatsucho",
       "model": "Smart TV"

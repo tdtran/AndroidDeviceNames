@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel 9 Pro XL",
+    "codename": "komodo",
+    "model": "Pixel 9 Pro XL"
+  },
+  {
     "manufacturer": "SMART Technologies",
     "market_name": "AM60 series",
     "codename": "komodo",

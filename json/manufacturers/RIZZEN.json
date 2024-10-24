@@ -24,6 +24,12 @@
       "market_name": "X1",
       "codename": "X1",
       "model": "X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1x",
+      "codename": "X1x",
+      "model": "X1x"
     }
   ]
 }

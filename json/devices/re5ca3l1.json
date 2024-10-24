@@ -3,6 +3,12 @@
     "manufacturer": "realme",
     "market_name": "realme 13 Pro 5G",
     "codename": "RE5CA3L1",
+    "model": "RMX3988"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "realme 13 Pro 5G",
+    "codename": "RE5CA3L1",
     "model": "RMX3990"
   },
   {
@@ -10,5 +16,11 @@
     "market_name": "realme 13 Pro+ 5G",
     "codename": "RE5CA3L1",
     "model": "RMX3921"
+  },
+  {
+    "manufacturer": "realme",
+    "market_name": "realme P2 Pro 5G",
+    "codename": "RE5CA3L1",
+    "model": "RMX3987"
   }
 ]

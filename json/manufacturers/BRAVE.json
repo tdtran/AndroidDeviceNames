@@ -36,6 +36,24 @@
       "market_name": "EX10SL4",
       "codename": "EXCEED",
       "model": "EX10SL4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2Max",
+      "codename": "T2Max",
+      "model": "T2Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2Pro",
+      "codename": "T2Pro",
+      "model": "T2Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2lite",
+      "codename": "T2lite",
+      "model": "T2lite"
     }
   ]
 }

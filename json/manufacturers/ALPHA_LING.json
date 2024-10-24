@@ -12,6 +12,12 @@
       "market_name": "A97GT_Pro",
       "codename": "A97GT_Pro",
       "model": "A97GT_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10SU_PLUS",
+      "codename": "P10SU_PLUS",
+      "model": "P10SU_PLUS"
     }
   ]
 }

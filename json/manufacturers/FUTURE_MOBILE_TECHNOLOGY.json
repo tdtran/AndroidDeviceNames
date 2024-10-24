@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP80K",
+      "codename": "CP80K",
+      "model": "CP80K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DRONE",
       "codename": "FMT-NM7108-01",
       "model": "FMT-NM7108-01"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Hotwav",
+    "market_name": "Note 15",
+    "codename": "Note_15",
+    "model": "Note 15"
+  },
+  {
+    "manufacturer": "Hotwav",
     "market_name": "Note 15 EEA",
     "codename": "Note_15",
     "model": "Note 15"

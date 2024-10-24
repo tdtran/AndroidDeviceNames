@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Opel Smart60R",
+      "codename": "OMS60R24B",
+      "model": "Smart60R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rugged60Q",
       "codename": "OMR60Q23O",
       "model": "Rugged60Q"

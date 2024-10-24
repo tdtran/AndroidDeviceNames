@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FLAT 2",
+      "codename": "FLAT_2",
+      "model": "FLAT 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MODERN 8",
       "codename": "MODERN_8",
       "model": "MODERN 8"
@@ -132,6 +138,12 @@
       "market_name": "Pad 80 WiFi",
       "codename": "Pad_80_WiFi",
       "model": "Pad 80 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad 90",
+      "codename": "Pad_90",
+      "model": "Pad 90"
     },
     {
       "manufacturer": "",
@@ -219,6 +231,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Spider8_EEA",
+      "codename": "Spider8",
+      "model": "Spider 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Spider8_NEU",
+      "codename": "Spider8",
+      "model": "Spider 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Spider8_RU",
+      "codename": "Spider8",
+      "model": "Spider 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIGER 10",
       "codename": "Tiger10",
       "model": "TIGER 10"
@@ -228,6 +258,12 @@
       "market_name": "TIGER 12",
       "codename": "Tiger12",
       "model": "TIGER 12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIGER 13",
+      "codename": "TIGER_13",
+      "model": "TIGER 13"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "SVITOO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P08",
+      "codename": "P08",
+      "model": "P08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10_pro",
+      "codename": "P10",
+      "model": "P10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SVITOO_P10",
+      "codename": "SVITOO_P10",
+      "model": "P10"
+    }
+  ]
+}

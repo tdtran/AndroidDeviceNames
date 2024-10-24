@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CLOVERTEK",
+    "market_name": "G65",
+    "codename": "G65",
+    "model": "G65"
+  },
+  {
     "manufacturer": "DIALN",
     "market_name": "G65",
     "codename": "G65",

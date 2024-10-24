@@ -1,8 +1,20 @@
 [
   {
+    "manufacturer": "BenQ",
+    "market_name": "GV50",
+    "codename": "himalaya",
+    "model": "BenQGV01"
+  },
+  {
     "manufacturer": "Dangbei",
     "market_name": "DBOD02",
     "codename": "himalaya",
     "model": "DBOD02"
+  },
+  {
+    "manufacturer": "Epson",
+    "market_name": "HB35",
+    "codename": "himalaya",
+    "model": "HB35"
   }
 ]

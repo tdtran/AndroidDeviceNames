@@ -652,6 +652,12 @@
     {
       "manufacturer": "",
       "market_name": "Nokia C300",
+      "codename": "ORO",
+      "model": "Nokia C300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia C300",
       "codename": "ORT",
       "model": "N155DL"
     },

@@ -1095,6 +1095,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WIKO T40",
+      "codename": "T40",
+      "model": "ArkF-AF00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WIKO VOIX",
       "codename": "U616AT",
       "model": "U616AT"

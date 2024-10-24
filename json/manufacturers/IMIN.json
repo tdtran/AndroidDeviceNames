@@ -27,6 +27,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Falcon 2",
+      "codename": "Falcon2",
+      "model": "I24T01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Falcon 2",
+      "codename": "Falcon2",
+      "model": "I24T02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lark1",
+      "codename": "Lark1",
+      "model": "I24P01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Swan 1 Pro",
       "codename": "Swan1Pro",
       "model": "I23D02"
@@ -48,6 +66,12 @@
       "market_name": "Swift 1 Pro",
       "codename": "Swift1Pro",
       "model": "I23M03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swift 2",
+      "codename": "Swift2",
+      "model": "I23M01_EEA"
     },
     {
       "manufacturer": "",

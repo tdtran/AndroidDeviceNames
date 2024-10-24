@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HBook-Pro",
+      "codename": "HBook-Pro",
+      "model": "HBook-Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTB801",
       "codename": "HTB801",
       "model": "HTB801"

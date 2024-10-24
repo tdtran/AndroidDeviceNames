@@ -1,0 +1,29 @@
+{
+  "manufacturer": "BWJBSW",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KT802_EEA",
+      "codename": "KT802_EEA",
+      "model": "KT802_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KT802_US",
+      "codename": "KT802_US",
+      "model": "KT802_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QZ1095W",
+      "codename": "QZ1095W",
+      "model": "QZ1095W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QZ1095W_EEA",
+      "codename": "QZ1095W_EEA",
+      "model": "QZ1095W_EEA"
+    }
+  ]
+}

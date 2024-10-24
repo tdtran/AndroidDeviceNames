@@ -87,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP_7250",
+      "codename": "SP_7250",
+      "model": "SP_7250"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP_7275",
+      "codename": "SP_7275",
+      "model": "SP_7275"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Siragon",
       "codename": "hongkong",
       "model": "4K SMART TV"

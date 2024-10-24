@@ -3,9 +3,45 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D5",
+      "codename": "D5",
+      "model": "D5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E3",
+      "codename": "E3",
+      "model": "E3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "redbeatA2",
       "codename": "redbeatA2",
       "model": "redbeatA2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "redbeatC1",
+      "codename": "redbeatC1",
+      "model": "C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "redbeatC1",
+      "codename": "redbeatC1",
+      "model": "redbeatC1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "redbeatM2",
+      "codename": "redbeatM2",
+      "model": "M2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "redbeatM2",
+      "codename": "redbeatM2",
+      "model": "redbeatM2"
     }
   ]
 }

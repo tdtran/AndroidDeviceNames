@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A3 5G",
+      "codename": "OP5EA7L1",
+      "model": "CPH2693"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3 Pro 5G",
       "codename": "OP59FB",
       "model": "PJY110"
@@ -231,7 +237,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "A3 Pro/A3/A80 5G",
+      "market_name": "A3 Pro 5G/A3 5G/A80 5G",
       "codename": "OP5B05L1",
       "model": "CPH2639"
     },
@@ -396,6 +402,12 @@
       "market_name": "A39tm",
       "codename": "A39",
       "model": "OPPO A39tm"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A3i 5G",
+      "codename": "OP5DDF",
+      "model": "PKL110"
     },
     {
       "manufacturer": "",
@@ -699,6 +711,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A57",
+      "codename": "OP571F",
+      "model": "CPH2387"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A57",
+      "codename": "OP571F",
+      "model": "CPH2407"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A57s/A77",
       "codename": "OP5353L1",
       "model": "CPH2385"
@@ -774,6 +798,12 @@
       "market_name": "A60",
       "codename": "OP5B16L1",
       "model": "CPH3669"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A60 5G",
+      "codename": "OP5EA7L1",
+      "model": "CPH2683"
     },
     {
       "manufacturer": "",
@@ -1926,6 +1956,12 @@
       "market_name": "K12 5G",
       "codename": "OP5A15L1",
       "model": "PJR110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K12 Plus",
+      "codename": "OP5DFDL1",
+      "model": "PKS110"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HMD Fusion",
+      "codename": "NHK",
+      "model": "HMD Fusion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HMD Fusion Business Edition",
+      "codename": "NHK",
+      "model": "HMD Fusion Business Edition"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HMD Pulse",
       "codename": "LGD",
       "model": "HMD Pulse"

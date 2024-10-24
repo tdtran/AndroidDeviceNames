@@ -4,5 +4,11 @@
     "market_name": "T104G",
     "codename": "T104G",
     "model": "T104G"
+  },
+  {
+    "manufacturer": "Datamini",
+    "market_name": "T104G_T618",
+    "codename": "T104G",
+    "model": "T104G"
   }
 ]

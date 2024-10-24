@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Google TV Streamer",
+      "codename": "kirkwood",
+      "model": "Google TV Streamer"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Intel Alder Lake Chromebook",
       "codename": "brya_cheets",
       "model": "brya"
@@ -258,6 +264,12 @@
       "market_name": "Mediatek MT8186 Tablet",
       "codename": "staryu_cheets",
       "model": "staryu"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mediatek MT8188G Detachable",
+      "codename": "geralt_cheets",
+      "model": "geralt"
     },
     {
       "manufacturer": "",
@@ -423,6 +435,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pixel 9",
+      "codename": "tokay",
+      "model": "Pixel 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 9 Pro",
+      "codename": "caiman",
+      "model": "Pixel 9 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 9 Pro Fold",
+      "codename": "comet",
+      "model": "Pixel 9 Pro Fold"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 9 Pro XL",
+      "codename": "komodo",
+      "model": "Pixel 9 Pro XL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixel C",
       "codename": "dragon",
       "model": "Pixel C"
@@ -486,6 +522,30 @@
       "market_name": "Pixel XL",
       "codename": "marlin",
       "model": "Pixel XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel watch 3",
+      "codename": "helios",
+      "model": "Pixel Watch 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel watch 3",
+      "codename": "luna",
+      "model": "Pixel Watch 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel watch 3",
+      "codename": "selene",
+      "model": "Pixel Watch 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel watch 3",
+      "codename": "sol",
+      "model": "Pixel Watch 3"
     },
     {
       "manufacturer": "",

@@ -16,5 +16,11 @@
     "market_name": "Samsung Interactive Display",
     "codename": "SAMSUNG_INTERACTIVE_DISPLAY",
     "model": "WA86D"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Samsung WAF",
+    "codename": "SAMSUNG_INTERACTIVE_DISPLAY",
+    "model": "WAF"
   }
 ]

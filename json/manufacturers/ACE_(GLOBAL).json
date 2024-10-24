@@ -63,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BUZZ 6 Prime",
+      "codename": "BUZZ_6_Prime",
+      "model": "BUZZ 6 Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 6 Pro PLUS",
+      "codename": "BUZZ_6_Pro_PLUS",
+      "model": "BUZZ 6 Pro PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CLEVER 3",
       "codename": "CLEVER_3",
       "model": "CLEVER 3"

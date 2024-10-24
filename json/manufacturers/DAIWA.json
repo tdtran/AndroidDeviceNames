@@ -40,6 +40,12 @@
     {
       "manufacturer": "",
       "market_name": "DAIWA",
+      "codename": "hongkong",
+      "model": "4K DVB SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAIWA",
       "codename": "mountbaker",
       "model": "2K SMART TV"
     },

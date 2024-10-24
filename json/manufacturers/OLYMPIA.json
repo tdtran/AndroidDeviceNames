@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEO_Mini",
+      "codename": "NEO_Mini",
+      "model": "NEO_Mini"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TREK",
       "codename": "TREK",
       "model": "TREK"

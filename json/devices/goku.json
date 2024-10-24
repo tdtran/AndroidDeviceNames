@@ -3,6 +3,12 @@
     "manufacturer": "Xiaomi",
     "market_name": "Xiaomi MIX Fold 4",
     "codename": "goku",
+    "model": "24072PX77C"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Xiaomi MIX Fold 4",
+    "codename": "goku",
     "model": "Xiaomi for arm64"
   }
 ]

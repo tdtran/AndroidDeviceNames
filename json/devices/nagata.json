@@ -19,12 +19,6 @@
   },
   {
     "manufacturer": "CAIXUN",
-    "market_name": "Dreamstar 2K SMART TV",
-    "codename": "nagata",
-    "model": "Dreamstar 2K SMART TV"
-  },
-  {
-    "manufacturer": "CAIXUN",
     "market_name": "MAXWELL SMART TV",
     "codename": "nagata",
     "model": "MAXWELL SMART TV"
@@ -46,6 +40,12 @@
     "market_name": "CDI SMART TV",
     "codename": "nagata",
     "model": "CDI SMART TV"
+  },
+  {
+    "manufacturer": "Dreamstar",
+    "market_name": "Dreamstar 2K SMART TV",
+    "codename": "nagata",
+    "model": "Dreamstar 2K SMART TV"
   },
   {
     "manufacturer": "F\u0026U (Fandu)",

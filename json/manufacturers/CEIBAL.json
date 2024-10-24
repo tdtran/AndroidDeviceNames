@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alfard",
+      "codename": "Alfard",
+      "model": "Alfard"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BETELGEUSE",
       "codename": "BETELGEUSE",
       "model": "BETELGEUSE"

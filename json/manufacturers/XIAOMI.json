@@ -1000,6 +1000,12 @@
     {
       "manufacturer": "",
       "market_name": "MiTV",
+      "codename": "ladybird",
+      "model": "MiTV-MOEU0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
       "codename": "machuca",
       "model": "MiTV-MSSP3"
     },
@@ -1026,6 +1032,12 @@
       "market_name": "MiTV",
       "codename": "rango",
       "model": "MiTV-AXFR1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MiTV",
+      "codename": "river",
+      "model": "MiTV-MZTU0"
     },
     {
       "manufacturer": "",
@@ -1623,6 +1635,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xiaomi 14T",
+      "codename": "degas",
+      "model": "2406APNFAG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14T Pro",
+      "codename": "rothko",
+      "model": "2407FPN8EG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xiaomi Civi",
       "codename": "mona",
       "model": "2109119BC"
@@ -1668,6 +1692,12 @@
       "market_name": "Xiaomi MIX Fold 3",
       "codename": "babylon",
       "model": "2308CPXD0C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi MIX Fold 4",
+      "codename": "goku",
+      "model": "24072PX77C"
     },
     {
       "manufacturer": "",

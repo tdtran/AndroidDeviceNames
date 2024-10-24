@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "FOSSiBOT",
+    "market_name": "S1",
+    "codename": "S1",
+    "model": "S1"
+  },
+  {
     "manufacturer": "Invens",
     "market_name": "S1",
     "codename": "S1",

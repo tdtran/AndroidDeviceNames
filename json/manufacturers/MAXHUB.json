@@ -1,0 +1,11 @@
+{
+  "manufacturer": "MAXHUB",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "U30",
+      "codename": "rk3588_t",
+      "model": "U30"
+    }
+  ]
+}

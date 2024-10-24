@@ -5,6 +5,12 @@
       "manufacturer": "",
       "market_name": "Clevertouch LUX Mini",
       "codename": "rk3588_t",
+      "model": "LUX_Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Clevertouch LUX Mini",
+      "codename": "rk3588_t",
       "model": "LUX_Mini_Module"
     },
     {

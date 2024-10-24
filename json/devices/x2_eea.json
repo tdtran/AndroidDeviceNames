@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "SKYEGG",
+    "market_name": "X2_S_EEA",
+    "codename": "X2_EEA",
+    "model": "X2_EEA"
+  },
+  {
     "manufacturer": "YesTeL",
     "market_name": "X2_EEA",
     "codename": "X2_EEA",

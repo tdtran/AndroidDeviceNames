@@ -579,6 +579,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP662",
+      "codename": "NOVA_70SE",
+      "model": "NOVA 70SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP663",
+      "codename": "NOVA_70i",
+      "model": "NOVA 70i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP664",
+      "codename": "NOVA_70",
+      "model": "NOVA 70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "redwood",
       "model": "AI PONT"

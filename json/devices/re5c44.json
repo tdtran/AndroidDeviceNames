@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "realme",
+    "market_name": "真我13",
+    "codename": "RE5C44",
+    "model": "RMX3952"
+  },
+  {
+    "manufacturer": "realme",
     "market_name": "真我V60",
     "codename": "RE5C44",
     "model": "RMX3995"

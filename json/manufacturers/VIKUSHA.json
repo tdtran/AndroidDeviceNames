@@ -42,6 +42,12 @@
       "market_name": "VZ-30",
       "codename": "VZ-30",
       "model": "VZ-30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VZ-30Pro",
+      "codename": "VZ-30Pro",
+      "model": "VZ-30"
     }
   ]
 }

@@ -87,9 +87,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 25 Pro+",
+      "codename": "GQ5007AF2",
+      "model": "Armor 25T Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 25T 4G",
+      "codename": "GQ5007TF1",
+      "model": "Armor 25T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 26 Ultra",
       "codename": "Armor_26_Ultra",
       "model": "Armor 26 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 27 Pro",
+      "codename": "GQ5008AF3",
+      "model": "Armor 27 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 27 Pro",
+      "codename": "GQ5010AH1",
+      "model": "Armor Mini 20T Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 27T Pro",
+      "codename": "GQ5008AF2",
+      "model": "Armor 27T Pro"
     },
     {
       "manufacturer": "",
@@ -141,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor Mini 20 Pro",
+      "codename": "GQ5010AH2",
+      "model": "Armor Mini 20 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor Pad",
       "codename": "Armor_Pad",
       "model": "Armor Pad"
@@ -150,6 +186,12 @@
       "market_name": "Armor Pad 2",
       "codename": "Armor_Pad_2",
       "model": "Armor Pad 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor Pad 2",
+      "codename": "Armor_Pad_2",
+      "model": "UTAB A2"
     },
     {
       "manufacturer": "",
@@ -432,6 +474,18 @@
       "market_name": "Armor_X9",
       "codename": "Armor_X9",
       "model": "Armor X9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GQ5007AF2",
+      "codename": "GQ5007AF2",
+      "model": "Armor 25T Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GQ5008AF3",
+      "codename": "GQ5008AF3",
+      "model": "Armor 27 Pro"
     },
     {
       "manufacturer": "",
@@ -789,6 +843,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab A11",
+      "codename": "UF1103A",
+      "model": "Tab A11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab A11 Pro",
       "codename": "UF1103",
       "model": "Tab A11 Pro"
@@ -822,6 +882,12 @@
       "market_name": "Tab R8 5G",
       "codename": "Tab_R8_5G",
       "model": "Tab R8 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab W10",
+      "codename": "UF1001_1",
+      "model": "Tab W10"
     },
     {
       "manufacturer": "",

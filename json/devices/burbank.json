@@ -3,6 +3,18 @@
     "manufacturer": "HKC Elec",
     "market_name": "Google TV",
     "codename": "burbank",
+    "model": "4K KR Google TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "Google TV",
+    "codename": "burbank",
     "model": "4K PA Google TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "Google TV",
+    "codename": "burbank",
+    "model": "4K SA Google TV"
   }
 ]

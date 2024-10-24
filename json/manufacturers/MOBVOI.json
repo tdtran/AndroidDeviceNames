@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TicWatch Atlas;TicWatch Pro 5;TicWatch Pro 5 Enduro",
+      "codename": "dace",
+      "model": "TicWatch Pro 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TicWatch C2",
       "codename": "skipjack",
       "model": "TicWatch C2"
@@ -96,12 +102,6 @@
       "market_name": "TicWatch Pro 4G",
       "codename": "catshark",
       "model": "TicWatch Pro 4G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TicWatch Pro 5;TicWatch Pro 5 Enduro",
-      "codename": "dace",
-      "model": "TicWatch Pro 5"
     },
     {
       "manufacturer": "",

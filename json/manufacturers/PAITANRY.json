@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CH10",
+      "codename": "CH10",
+      "model": "CH10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CH10PRO",
+      "codename": "CH10PRO",
+      "model": "CH10_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R16",
       "codename": "R16",
       "model": "R16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R16-PRO",
+      "codename": "R16-PRO",
+      "model": "R16 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSK10",
+      "codename": "SSK10",
+      "model": "SSK10"
     }
   ]
 }

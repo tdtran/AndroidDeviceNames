@@ -4,5 +4,11 @@
     "market_name": "E20",
     "codename": "E20",
     "model": "E20"
+  },
+  {
+    "manufacturer": "COLORROOM",
+    "market_name": "E20_EEA",
+    "codename": "E20",
+    "model": "E20"
   }
 ]

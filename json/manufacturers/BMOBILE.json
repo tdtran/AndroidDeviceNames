@@ -927,6 +927,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL55_TG06",
+      "codename": "Bmobile_BL55_TG06",
+      "model": "BL55_TG06"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL60",
       "codename": "Bmobile_BL60",
       "model": "BL60"
@@ -1035,6 +1041,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BM65 Pro",
+      "codename": "Bmobile_BM65Pro_TG05",
+      "model": "BM65Pro_TG05"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bella",
       "codename": "Bella",
       "model": "Bella"
@@ -1140,6 +1152,18 @@
       "market_name": "FUN 4",
       "codename": "Bmobile_FUN_4_2018",
       "model": "FUN 4 2018"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOVUS65",
+      "codename": "Bmobile_NOVUS65_TG06",
+      "model": "NOVUS65_TG06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOVUS65",
+      "codename": "Bmobile_NOVUS65_TG07",
+      "model": "NOVUS65_TG07"
     },
     {
       "manufacturer": "",

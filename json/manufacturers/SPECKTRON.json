@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Specktron",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CDX",
+      "codename": "CDX",
+      "model": "CDX"
+    }
+  ]
+}

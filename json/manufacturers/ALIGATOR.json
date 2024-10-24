@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aligator_S6600",
+      "codename": "Aligator_S6600",
+      "model": "Aligator_S6600"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RX460",
       "codename": "RX460",
       "model": "RX460"

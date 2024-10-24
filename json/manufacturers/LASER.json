@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID_1099IPS_V13",
+      "codename": "MID_1099IPS_V13",
+      "model": "MID_1099IPS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID_785",
       "codename": "MID_785",
       "model": "MID_785"
@@ -131,6 +137,12 @@
       "manufacturer": "",
       "market_name": "MID_799IPS",
       "codename": "MID_799IPS",
+      "model": "MID_799IPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID_799IPS_V13",
+      "codename": "MID_799IPS_V13",
       "model": "MID_799IPS"
     },
     {

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel watch 3",
+    "codename": "selene",
+    "model": "Pixel Watch 3"
+  },
+  {
     "manufacturer": "Radger",
     "market_name": "Redmi 10 Prime",
     "codename": "selene",

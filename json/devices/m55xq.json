@@ -22,5 +22,11 @@
     "market_name": "Galaxy M55 5G",
     "codename": "m55xq",
     "model": "SM-M556E"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M55s 5G",
+    "codename": "m55xq",
+    "model": "SM-M558B"
   }
 ]

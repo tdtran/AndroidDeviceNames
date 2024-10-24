@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Clover",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "G11",
+      "codename": "G11",
+      "model": "G11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G11A",
+      "codename": "G11A",
+      "model": "G11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KD101",
+      "codename": "KD101",
+      "model": "KD101"
+    }
+  ]
+}

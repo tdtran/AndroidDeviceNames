@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NP6070",
+      "codename": "NP6070",
+      "model": "NP6070"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PR5860",
       "codename": "PR5860",
       "model": "PR5860"
@@ -180,6 +186,12 @@
       "market_name": "SP5702",
       "codename": "SP5702",
       "model": "SP5702"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP5705",
+      "codename": "SP5705",
+      "model": "SP5705"
     },
     {
       "manufacturer": "",

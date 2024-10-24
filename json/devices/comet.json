@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel 9 Pro Fold",
+    "codename": "comet",
+    "model": "Pixel 9 Pro Fold"
+  },
+  {
     "manufacturer": "MAZE",
     "market_name": "Comet",
     "codename": "Comet",

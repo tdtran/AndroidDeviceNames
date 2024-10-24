@@ -12,6 +12,12 @@
       "market_name": "OneScreen T7",
       "codename": "rk3588_t",
       "model": "T7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wandr_W1",
+      "codename": "Wandr",
+      "model": "OneScreen Wandr"
     }
   ]
 }

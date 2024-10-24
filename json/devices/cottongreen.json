@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "CAIXUN",
+    "market_name": "Amstrong",
+    "codename": "cottongreen",
+    "model": "Amstrong"
+  },
+  {
+    "manufacturer": "CAIXUN",
     "market_name": "Sgamer",
     "codename": "cottongreen",
     "model": "Sgamer"
@@ -22,5 +28,11 @@
     "market_name": "Contex TV",
     "codename": "cottongreen",
     "model": "Contex TV"
+  },
+  {
+    "manufacturer": "Smart-Tech TV",
+    "market_name": "EU",
+    "codename": "cottongreen",
+    "model": "Gameplay"
   }
 ]

@@ -63,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G27",
+      "codename": "G27",
+      "model": "G27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G27 Lite",
+      "codename": "G27_Lite",
+      "model": "G27 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G50",
       "codename": "G50",
       "model": "G50"

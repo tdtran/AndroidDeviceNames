@@ -1,0 +1,77 @@
+{
+  "manufacturer": "JUEDUR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "R500 EEA",
+      "codename": "R500_EEA",
+      "model": "R500_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R500 US",
+      "codename": "R500_US",
+      "model": "R500_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R700_EEA",
+      "codename": "R700_EEA",
+      "model": "R700_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R700_US",
+      "codename": "R700_US",
+      "model": "R700_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R800_EEA",
+      "codename": "R800_EEA",
+      "model": "R800_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R800_US",
+      "codename": "R800_US",
+      "model": "R800_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R800_U_EEA",
+      "codename": "R800_U_EEA",
+      "model": "R800_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R800_U_EEA",
+      "codename": "R800_U_EEA",
+      "model": "R800_U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R800_U_US",
+      "codename": "R800_U_US",
+      "model": "R800_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R800_U_US",
+      "codename": "R800_U_US",
+      "model": "R800_U_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R900_EEA",
+      "codename": "R900_EEA",
+      "model": "R900_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R900_US",
+      "codename": "R900_US",
+      "model": "R900_US"
+    }
+  ]
+}

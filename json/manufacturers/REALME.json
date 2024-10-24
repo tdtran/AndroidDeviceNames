@@ -315,6 +315,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme 13 5G",
+      "codename": "RE6070L1",
+      "model": "RMX3951"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 13 Pro 5G",
+      "codename": "RE5CA3L1",
+      "model": "RMX3988"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme 13 Pro 5G",
       "codename": "RE5CA3L1",
       "model": "RMX3990"
@@ -324,6 +336,12 @@
       "market_name": "realme 13 Pro+ 5G",
       "codename": "RE5CA3L1",
       "model": "RMX3921"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 13+ 5G",
+      "codename": "RE6066L1",
+      "model": "RMX5000"
     },
     {
       "manufacturer": "",
@@ -693,6 +711,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme C63 5G",
+      "codename": "RE6070L1",
+      "model": "RMX3950"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme C65",
       "codename": "RE5C42",
       "model": "RMX3910"
@@ -807,6 +831,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "realme NARZO 70 Turbo 5G",
+      "codename": "RE6066L1",
+      "model": "RMX5003"
+    },
+    {
+      "manufacturer": "",
       "market_name": "realme Narzo 30 Pro 5G",
       "codename": "RMX2117L1",
       "model": "RMX2117"
@@ -828,6 +858,12 @@
       "market_name": "realme P1 Pro 5G",
       "codename": "RE5C84L1",
       "model": "RMX3844"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme P2 Pro 5G",
+      "codename": "RE5CA3L1",
+      "model": "RMX3987"
     },
     {
       "manufacturer": "",
@@ -1194,6 +1230,30 @@
       "market_name": "真我12x",
       "codename": "RE5C3F",
       "model": "RMX3993"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我13",
+      "codename": "RE5C44",
+      "model": "RMX3952"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我13 Pro",
+      "codename": "RE601EL1",
+      "model": "RMX5002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我13 Pro+",
+      "codename": "RE5C49L1",
+      "model": "RMX3920"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "真我13 Pro至尊版",
+      "codename": "RE5C49L1",
+      "model": "RMX3989"
     },
     {
       "manufacturer": "",

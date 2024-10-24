@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IM-L101",
+      "codename": "IM-L101",
+      "model": "IM-L101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IMH101",
       "codename": "IMH101",
       "model": "IMH101"

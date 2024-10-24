@@ -6,6 +6,12 @@
       "market_name": "IFPD",
       "codename": "65W72B",
       "model": "W72B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6APro",
+      "codename": "M6APro",
+      "model": "M6APro"
     }
   ]
 }

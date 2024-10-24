@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "AvidPad",
+    "market_name": "S90",
+    "codename": "S90",
+    "model": "S90"
+  },
+  {
     "manufacturer": "Dixon",
     "market_name": "S90",
     "codename": "S90",

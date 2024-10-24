@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IFP3Gen3",
+      "codename": "SXXSRK",
+      "model": "SXXSRK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IFP5Gen3",
       "codename": "rk3588_t",
       "model": "UXXSRK"

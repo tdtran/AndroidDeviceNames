@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SD_ODMGM02",
+      "codename": "TouchView_Companion",
+      "model": "TouchView Companion"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TVULTRA98_G5",
       "codename": "TVULTRA98_G5",
       "model": "TVULTRA98_G5"

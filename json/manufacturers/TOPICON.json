@@ -6,6 +6,18 @@
       "market_name": "Topicon MDT1060",
       "codename": "mdt1060",
       "model": "mdt1060"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mdt865_gms",
+      "codename": "mdt865",
+      "model": "mdt865"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mdt865_row",
+      "codename": "mdt865",
+      "model": "mdt865"
     }
   ]
 }

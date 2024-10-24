@@ -4,5 +4,11 @@
     "market_name": "moto g(7) plus",
     "codename": "lake",
     "model": "XT1965-6"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi 14C",
+    "codename": "lake",
+    "model": "2409BRN2CY"
   }
 ]

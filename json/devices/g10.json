@@ -30,6 +30,12 @@
     "model": "Smart TV"
   },
   {
+    "manufacturer": "TCL",
+    "market_name": "G10_4K_US",
+    "codename": "G10",
+    "model": "Smart TV Pro"
+  },
+  {
     "manufacturer": "iMuz",
     "market_name": "G10",
     "codename": "G10",

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "REDTONE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RTSP-A124ML",
+      "codename": "RTSP-A124ML",
+      "model": "RTSP-A124ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RTSP-A258HM",
+      "codename": "RTSP-A258HM",
+      "model": "RTSP-A258HM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RTSP-A64B",
+      "codename": "RTSP-A64B",
+      "model": "RTSP-A64B"
+    }
+  ]
+}

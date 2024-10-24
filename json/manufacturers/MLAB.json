@@ -27,6 +27,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "9342",
+      "codename": "9342",
+      "model": "9342"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "9343",
+      "codename": "9343",
+      "model": "9343"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "9344",
+      "codename": "9344",
+      "model": "9344"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MB4",
       "codename": "MB4",
       "model": "MB4"
@@ -102,6 +120,12 @@
       "market_name": "MLAB_TABLET_KID",
       "codename": "MLAB_TABLET_KID",
       "model": "MLAB_TABLET_KID"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio_Phone_10",
+      "codename": "Studio_Phone_10",
+      "model": "MLAB_9339"
     }
   ]
 }

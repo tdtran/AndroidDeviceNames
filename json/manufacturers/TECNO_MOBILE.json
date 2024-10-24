@@ -69,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO Mobile SPARK 30 Pro",
+      "codename": "TECNO-Mobile-KL7",
+      "model": "TECNO Mobile KL7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO SPARK 10",
       "codename": "TECNO-Mobile-KI5q",
       "model": "TECNO Mobile KI5q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30 5G",
+      "codename": "TECNO-Mobile-KL8",
+      "model": "TECNO Mobile KL8"
     }
   ]
 }

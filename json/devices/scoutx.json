@@ -1,0 +1,14 @@
+[
+  {
+    "manufacturer": "Rhino",
+    "market_name": "T80",
+    "codename": "scoutx",
+    "model": "T80"
+  },
+  {
+    "manufacturer": "Rhino",
+    "market_name": "scoutp",
+    "codename": "scoutx",
+    "model": "T80"
+  }
+]

@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EZY_EEA",
+      "codename": "EZY",
+      "model": "EZY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elio",
       "codename": "Elio",
       "model": "Elio"
@@ -423,6 +429,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIKIDS7",
+      "codename": "LOGIKIDS7",
+      "model": "LOGIKIDS7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIKIDS_11P",
+      "codename": "LOGIKIDS_11P",
+      "model": "LOGIKIDS_11P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIKIDS_5",
       "codename": "LOGIKIDS_5_Rev2_AF",
       "model": "LOGIKIDS_5"
@@ -687,6 +705,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Le Link",
+      "codename": "Le_Link",
+      "model": "Le Link"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Le Must",
       "codename": "LeMust",
       "model": "Le Must"
@@ -921,6 +945,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RIOPAD_7",
+      "codename": "RIOPAD_7",
+      "model": "RIOPAD_7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S1052",
       "codename": "S1052",
       "model": "S1052"
@@ -975,6 +1005,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB134",
+      "codename": "TAB134",
+      "model": "TAB134"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB76",
       "codename": "TAB76",
       "model": "TAB76"
@@ -984,6 +1020,24 @@
       "market_name": "TABLINK104",
       "codename": "Tab_Link_104",
       "model": "Tab Link 104"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TABXL_14",
+      "codename": "TABXL_14",
+      "model": "Tab_XL_14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_STAND_PRO_2",
+      "codename": "TAB_STAND_PRO_2",
+      "model": "TAB_STAND_PRO_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_Stand_Pro",
+      "codename": "Tab_Stand_Pro",
+      "model": "Tab_Stand_Pro"
     },
     {
       "manufacturer": "",
@@ -1017,9 +1071,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WAVE  2s",
+      "codename": "WAVE_2s",
+      "model": "WAVE 2s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wave 2",
       "codename": "Wave_2",
       "model": "Wave 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yuno",
+      "codename": "Yuno",
+      "model": "Yuno"
     },
     {
       "manufacturer": "",

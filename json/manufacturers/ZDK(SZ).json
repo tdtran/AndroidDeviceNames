@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ZDK(SZ)",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ZDKMP-T30A_ROW",
+      "codename": "ZDKMP-T30A",
+      "model": "ZDKMP-T30A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZDKMP-T30B_ROW",
+      "codename": "ZDKMP-T30B",
+      "model": "ZDKMP-T30B"
+    }
+  ]
+}

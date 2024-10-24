@@ -63,6 +63,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RAVOZ_V7",
+      "codename": "RAVOZ_V7",
+      "model": "RAVOZ V7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RAVOZ_V8",
+      "codename": "RAVOZ_V8",
+      "model": "RAVOZ V8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RAVOZ_V9",
+      "codename": "RAVOZ_V9",
+      "model": "RAVOZ V9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RAVOZ_Z3_Lite",
       "codename": "RAVOZ_Z3_Lite",
       "model": "RAVOZ Z3 Lite"

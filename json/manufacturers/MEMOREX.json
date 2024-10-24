@@ -24,6 +24,12 @@
       "market_name": "MTAB-09541AB",
       "codename": "MTAB-09541AB",
       "model": "MTAB-09541AB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MTAB_PRO_2600",
+      "codename": "MTAB_PRO_2600",
+      "model": "MTAB_PRO_2600"
     }
   ]
 }

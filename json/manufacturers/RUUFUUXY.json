@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Ruufuuxy",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "R16Max",
+      "codename": "R16Max",
+      "model": "R16Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R16Plus",
+      "codename": "R16Plus",
+      "model": "R16Plus"
+    }
+  ]
+}

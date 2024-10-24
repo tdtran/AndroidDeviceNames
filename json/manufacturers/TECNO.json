@@ -1473,9 +1473,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO CAMON 30S",
+      "codename": "TECNO-CLA5",
+      "model": "TECNO CLA5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO CAMON 30S Pro",
       "codename": "TECNO-CLA6",
       "model": "TECNO CLA6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO CAMON 30T",
+      "codename": "TECNO-Mobile-CLA6",
+      "model": "TECNO Mobile CLA6"
     },
     {
       "manufacturer": "",
@@ -1509,6 +1521,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO MegaPad 11",
+      "codename": "TECNO-T1101",
+      "model": "TECNO T1101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO Mobile SPARK 20 Pro",
       "codename": "TECNO-Mobile-KJ6",
       "model": "TECNO Mobile KJ6"
@@ -1533,9 +1551,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO Mobile SPARK Go 1",
+      "codename": "TECNO-Mobile-KL4",
+      "model": "TECNO Mobile KL4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO P904",
       "codename": "TECNO-P904",
       "model": "TECNO P904"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO PHANTOM V Flip2 5G",
+      "codename": "TECNO-AE11",
+      "model": "TECNO AE11"
     },
     {
       "manufacturer": "",
@@ -1548,6 +1578,12 @@
       "market_name": "TECNO PHANTOM V Fold2 5G",
       "codename": "TECNO-AE10",
       "model": "TECNO AE10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO PHANTOM V2 Flip 5G",
+      "codename": "TECNO-AE11",
+      "model": "TECNO AE11"
     },
     {
       "manufacturer": "",
@@ -1671,6 +1707,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO POP 9 5G",
+      "codename": "TECNO-KL8h",
+      "model": "TECNO KL8h"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO POP X5",
       "codename": "TECNO-L6502S",
       "model": "TECNO L6502S"
@@ -1728,6 +1770,12 @@
       "market_name": "TECNO POVA 6 Neo",
       "codename": "TECNO-LI6",
       "model": "TECNO LI6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO POVA 6 Neo 5G",
+      "codename": "TECNO-KL8",
+      "model": "TECNO KL8"
     },
     {
       "manufacturer": "",
@@ -1872,6 +1920,48 @@
       "market_name": "TECNO SPARK 20C",
       "codename": "TECNO-BG7n",
       "model": "TECNO BG7n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30",
+      "codename": "TECNO-KL6",
+      "model": "TECNO KL6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30 5G",
+      "codename": "TECNO-KL8",
+      "model": "TECNO KL8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30 5G",
+      "codename": "TECNO-KL8s",
+      "model": "TECNO KL8s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30 Pro",
+      "codename": "TECNO-KL7",
+      "model": "TECNO KL7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30C",
+      "codename": "TECNO-KL5n",
+      "model": "TECNO KL5n"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30C",
+      "codename": "TECNO-KL5s",
+      "model": "TECNO KL5s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO SPARK 30C 5G",
+      "codename": "TECNO-KL8h",
+      "model": "TECNO KL8h"
     },
     {
       "manufacturer": "",

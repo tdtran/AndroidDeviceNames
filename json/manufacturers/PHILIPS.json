@@ -387,6 +387,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philips Google TV TA5",
+      "codename": "PH1M_WW_9972",
+      "model": "Philips Google TV TA5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philips Google TV TA6",
       "codename": "kujo",
       "model": "Philips Google TV TA6"
@@ -582,6 +588,12 @@
       "market_name": "S395",
       "codename": "S395",
       "model": "Philips S395"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6122",
+      "codename": "S6122",
+      "model": "S6122"
     },
     {
       "manufacturer": "",

@@ -255,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VISION E1 Series",
+      "codename": "VISION_E1_Series",
+      "model": "VISION_E1_Series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "sp6",
       "codename": "SP6",
       "model": "SP6"

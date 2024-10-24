@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR 200 Smart",
+      "codename": "HNALT-Q1",
+      "model": "ALT-NX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR 200 Smart",
+      "codename": "HNALT-Q2",
+      "model": "ALT-NX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR 50",
       "codename": "HNNTH",
       "model": "NTH-NX9"
@@ -114,6 +126,12 @@
       "market_name": "HONOR Magic V2",
       "codename": "HNVER",
       "model": "VER-N49"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic V3",
+      "codename": "HNFCPX",
+      "model": "FCP-N49"
     },
     {
       "manufacturer": "",
@@ -195,6 +213,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR MagicPad2",
+      "codename": "HNROD2-Q",
+      "model": "ROD2-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR MagicPad2",
+      "codename": "HNROD2-Q1",
+      "model": "ROD2-W09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR Pad 8",
       "codename": "HNHEY-Q",
       "model": "HEY-W09"
@@ -228,6 +258,24 @@
       "market_name": "HONOR Pad X8 Lite",
       "codename": "HNAGM",
       "model": "AGM-W09HN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad X8a",
+      "codename": "HNNDL-Q",
+      "model": "NDL-L03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad X8a",
+      "codename": "HNNDL-Q",
+      "model": "NDL-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Pad X8a",
+      "codename": "HNNDL-Q",
+      "model": "NDL-W09"
     },
     {
       "manufacturer": "",
@@ -276,6 +324,24 @@
       "market_name": "HONOR X5 Plus",
       "codename": "HNWDY-M",
       "model": "WOD-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5b",
+      "codename": "HNGFY-M",
+      "model": "GFY-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5b",
+      "codename": "HNGFY-M",
+      "model": "GFY-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X5b Plus",
+      "codename": "HNGFY-M",
+      "model": "GFY-LX2P"
     },
     {
       "manufacturer": "",
@@ -330,6 +396,12 @@
       "market_name": "HONOR X6b",
       "codename": "HNJDY-M1",
       "model": "JDY-LX3P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X6b 5G",
+      "codename": "HNALT-Q2",
+      "model": "ALT-NX3"
     },
     {
       "manufacturer": "",
@@ -408,6 +480,30 @@
       "market_name": "HONOR X7b 5G",
       "codename": "HNCLK-M1",
       "model": "CLK-NX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7c",
+      "codename": "HNALT-QL",
+      "model": "ALT-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7c",
+      "codename": "HNALT-QL",
+      "model": "ALT-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7c",
+      "codename": "HNALT-QL",
+      "model": "ALT-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR X7c 5G",
+      "codename": "HNALT-Q1",
+      "model": "ALT-NX1"
     },
     {
       "manufacturer": "",
@@ -561,9 +657,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "荣耀平板MagicPad2",
+      "market_name": "荣耀X60",
+      "codename": "HNBRC-M",
+      "model": "BRC-AN00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "荣耀X60 PRO",
+      "codename": "HNBRP-Q",
+      "model": "BRP-AN00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "荣耀X60 PRO",
+      "codename": "HNBRP-Q",
+      "model": "BRP-AN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "荣耀平板GT PRO",
       "codename": "HNROD2-Q",
-      "model": "ROD2-W09"
+      "model": "ROD2-W69"
     }
   ]
 }

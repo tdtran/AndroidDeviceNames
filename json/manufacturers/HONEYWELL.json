@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CK62",
+      "codename": "CK62",
+      "model": "CK62"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CK65",
       "codename": "CK65-L0-C",
       "model": "CK65"

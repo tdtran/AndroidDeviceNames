@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FF-P30",
+      "codename": "FF-P30",
+      "model": "FF-P30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M-764",
       "codename": "M-764",
       "model": "M-764"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M-764-EEA",
+      "codename": "M-764-EEA",
+      "model": "M-764-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10A",
+      "codename": "M10A",
+      "model": "M10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MM-35",
+      "codename": "MM-35",
+      "model": "MM-35"
     },
     {
       "manufacturer": "",
@@ -18,6 +42,12 @@
       "market_name": "MM10A",
       "codename": "MM10A",
       "model": "MM10A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "YY-P30",
+      "codename": "YY-P30",
+      "model": "YY-P30"
     }
   ]
 }

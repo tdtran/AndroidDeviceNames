@@ -309,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NITRO G55",
+      "codename": "MX-G55",
+      "model": "NITRO_G55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NITRO N6",
       "codename": "MX-NN6",
       "model": "NITRO N6"

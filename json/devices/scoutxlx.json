@@ -1,0 +1,14 @@
+[
+  {
+    "manufacturer": "Rhino",
+    "market_name": "T100",
+    "codename": "scoutxlx",
+    "model": "T100"
+  },
+  {
+    "manufacturer": "Rhino",
+    "market_name": "scoutpxl",
+    "codename": "scoutxlx",
+    "model": "T100"
+  }
+]

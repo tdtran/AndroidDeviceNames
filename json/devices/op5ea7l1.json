@@ -1,8 +1,20 @@
 [
   {
     "manufacturer": "Oppo",
+    "market_name": "A3 5G",
+    "codename": "OP5EA7L1",
+    "model": "CPH2693"
+  },
+  {
+    "manufacturer": "Oppo",
     "market_name": "A3x 5G",
     "codename": "OP5EA7L1",
     "model": "CPH2681"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A60 5G",
+    "codename": "OP5EA7L1",
+    "model": "CPH2683"
   }
 ]

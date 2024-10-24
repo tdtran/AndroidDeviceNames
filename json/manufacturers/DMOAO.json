@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D11_EEA",
+      "codename": "D11_EEA",
+      "model": "D11_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D2_EEA",
+      "codename": "D2_EEA",
+      "model": "D2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D2_US",
+      "codename": "D2_US",
+      "model": "D2_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D3_EEA",
       "codename": "D3_EEA",
       "model": "D3_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D3_US",
+      "codename": "D3_US",
+      "model": "D3_US"
     },
     {
       "manufacturer": "",
@@ -30,6 +54,42 @@
       "market_name": "D5-US",
       "codename": "D5-US",
       "model": "D5-US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D5_EEA",
+      "codename": "D5_EEA",
+      "model": "D5_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D5_US",
+      "codename": "D5_US",
+      "model": "D5_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D6_EEA",
+      "codename": "D6_EEA",
+      "model": "D6_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D6_US",
+      "codename": "D6_US",
+      "model": "D6_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DMOAO_D2_EEA",
+      "codename": "DMOAO_D2_EEA",
+      "model": "DMOAO_D2_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DMOAO_D2_US",
+      "codename": "DMOAO_D2_US",
+      "model": "DMOAO_D2_US"
     }
   ]
 }

@@ -6,6 +6,12 @@
     "model": "Luna"
   },
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel watch 3",
+    "codename": "luna",
+    "model": "Pixel Watch 3"
+  },
+  {
     "manufacturer": "IRIS_OHYAMA",
     "market_name": "TE082M2",
     "codename": "Luna",

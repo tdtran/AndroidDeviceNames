@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SENRAISE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H10",
+      "codename": "H10",
+      "model": "H10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H10_EEA",
+      "codename": "H10",
+      "model": "H10"
+    }
+  ]
+}

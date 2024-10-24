@@ -843,6 +843,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP15",
+      "codename": "CP32",
+      "model": "CP32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CP32",
+      "codename": "CP32",
+      "model": "CP32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP3503L",
       "codename": "CP3503L",
       "model": "CP3503L"
@@ -1509,9 +1521,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "coolpad COOL 30 Play",
+      "codename": "CP36t",
+      "model": "CP36t"
+    },
+    {
+      "manufacturer": "",
       "market_name": "coolpad COOL 30i",
       "codename": "CP12Q",
       "model": "CP12Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad CP12",
+      "codename": "CP12",
+      "model": "CP12"
     },
     {
       "manufacturer": "",

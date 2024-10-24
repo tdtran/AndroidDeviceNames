@@ -6,6 +6,12 @@
     "model": "Google Pixel Watch 2"
   },
   {
+    "manufacturer": "Stylo",
+    "market_name": "AURORA",
+    "codename": "AURORA",
+    "model": "AURORA"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "Xiaomi 14 Ultra",
     "codename": "aurora",

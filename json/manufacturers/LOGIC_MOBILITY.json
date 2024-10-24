@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G1L",
+      "codename": "LOGIC_G1L",
+      "model": "G1L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L4T",
       "codename": "L4T",
       "model": "L4T"
@@ -105,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LOGIC L44",
+      "codename": "LOGIC_L5M",
+      "model": "LOGIC L44"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIC L50T",
       "codename": "LOGIC_L50T",
       "model": "LOGIC L50T"
@@ -132,6 +144,12 @@
       "market_name": "LOGIC L65 LITE",
       "codename": "LOGIC_L65_LITE",
       "model": "LOGIC L65 LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC L66M",
+      "codename": "LOGIC_L66M",
+      "model": "L66M"
     },
     {
       "manufacturer": "",

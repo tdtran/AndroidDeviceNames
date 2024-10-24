@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VU 4K",
+      "codename": "lushan",
+      "model": "VU 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VU 4K Google TV",
       "codename": "keoneae",
       "model": "VU 4K Google TV"

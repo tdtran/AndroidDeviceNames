@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M3PC10",
+      "codename": "M3PC10",
+      "model": "M3PC10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M3SL10",
       "codename": "M3SL10",
       "model": "M3SL10"
@@ -114,6 +120,12 @@
       "market_name": "M3UL20X_EEA",
       "codename": "M3UL20X",
       "model": "M3UL20X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3US30",
+      "codename": "M3US30",
+      "model": "M3US30"
     }
   ]
 }

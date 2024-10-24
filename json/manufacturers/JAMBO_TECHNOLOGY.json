@@ -6,6 +6,12 @@
       "market_name": "JamboPhone",
       "codename": "JP1",
       "model": "JP1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JamboPhone2",
+      "codename": "JP2",
+      "model": "JP2"
     }
   ]
 }

@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Spider8_EEA",
+    "codename": "Spider8",
+    "model": "Spider 8"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Spider8_NEU",
+    "codename": "Spider8",
+    "model": "Spider 8"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Spider8_RU",
+    "codename": "Spider8",
+    "model": "Spider 8"
+  }
+]

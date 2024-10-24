@@ -1,0 +1,17 @@
+{
+  "manufacturer": "CATCHTABLE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AZ101FC",
+      "codename": "AZ101FC",
+      "model": "AZ101FC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AZ101FCN",
+      "codename": "AZ101FCN",
+      "model": "AZ101FCN"
+    }
+  ]
+}

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nova",
+      "codename": "Nova",
+      "model": "Nova"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1700Q",
       "codename": "T1700Q",
       "model": "T1700Q"

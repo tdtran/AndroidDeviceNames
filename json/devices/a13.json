@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Jeazans",
+    "market_name": "A13",
+    "codename": "A13",
+    "model": "A13"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "Galaxy A13",
     "codename": "a13",

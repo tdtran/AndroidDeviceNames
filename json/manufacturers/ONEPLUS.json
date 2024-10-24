@@ -645,6 +645,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus Nord CE4 Lite 5G",
+      "codename": "OP5D49L1",
+      "model": "CPH2619"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus Nord N10 5G",
       "codename": "OnePlusN10",
       "model": "BE2026"
@@ -852,6 +858,18 @@
       "market_name": "Oneplus Ace 3 Pro",
       "codename": "OP5D06L1",
       "model": "PJX110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Oneplus Nord CE4 Lite 5G",
+      "codename": "OP5D49L1",
+      "model": "CPH2621"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Oneplus Pad2",
+      "codename": "OP5DAAL1",
+      "model": "OPD2403"
     },
     {
       "manufacturer": "",

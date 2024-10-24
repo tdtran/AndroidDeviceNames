@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "BMAX",
+    "market_name": "I8",
+    "codename": "I8",
+    "model": "I8"
+  },
+  {
     "manufacturer": "Tech 4u",
     "market_name": "I8",
     "codename": "I8",

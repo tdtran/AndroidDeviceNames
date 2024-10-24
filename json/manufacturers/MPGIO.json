@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAT10421",
+      "codename": "MAT10421",
+      "model": "MAT10421"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAT80211B",
       "codename": "MAT80211B",
       "model": "MAT80211B"

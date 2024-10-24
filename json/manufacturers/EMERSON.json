@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EID_1050",
+      "codename": "EID_1050",
+      "model": "EID-1050"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EID_1061",
       "codename": "EID_1061",
       "model": "EID-1061"

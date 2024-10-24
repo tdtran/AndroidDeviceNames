@@ -40,5 +40,11 @@
     "market_name": "Galaxy Z Flip6",
     "codename": "b6q",
     "model": "SM-F741W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "心系天下 三星 W25 Flip",
+    "codename": "b6q",
+    "model": "SM-W7025"
   }
 ]

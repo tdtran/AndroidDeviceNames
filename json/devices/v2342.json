@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Vivo",
+    "market_name": "V40 Lite",
+    "codename": "V2342",
+    "model": "V2424"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "V40 SE",
     "codename": "V2342",
     "model": "V2342"

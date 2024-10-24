@@ -705,6 +705,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-6861L",
+      "codename": "BQ6861L",
+      "model": "BQ-6861L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-6868L",
       "codename": "BQru-6868L",
       "model": "BQru-6868L"

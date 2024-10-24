@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A131_14",
+      "codename": "A131_14",
+      "model": "A131_14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A140",
       "codename": "A140",
       "model": "A140"
@@ -45,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A150_14",
+      "codename": "A150_14",
+      "model": "A150_14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A170",
       "codename": "A170",
       "model": "A170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A171_14",
+      "codename": "A171_14",
+      "model": "A171_14"
     },
     {
       "manufacturer": "",

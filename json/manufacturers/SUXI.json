@@ -6,6 +6,12 @@
       "market_name": "T700",
       "codename": "T700",
       "model": "T700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T900",
+      "codename": "T900",
+      "model": "T900"
     }
   ]
 }

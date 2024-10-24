@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel watch 3",
+    "codename": "helios",
+    "model": "Pixel Watch 3"
+  },
+  {
     "manufacturer": "Huskee",
     "market_name": "HELIOS",
     "codename": "HELIOS",

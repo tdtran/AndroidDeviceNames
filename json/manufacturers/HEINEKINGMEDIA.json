@@ -1,0 +1,11 @@
+{
+  "manufacturer": "heinekingmedia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Digitale_Tafel",
+      "codename": "rk3588_t",
+      "model": "DTA13C10HM"
+    }
+  ]
+}

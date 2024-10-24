@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J6_US",
+      "codename": "J6_US",
+      "model": "J6_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "J8",
       "codename": "J8",
       "model": "J8"
@@ -60,6 +66,30 @@
       "market_name": "J8_EEA",
       "codename": "J8_EEA",
       "model": "J8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J8_EEA_T",
+      "codename": "J8_EEA_T",
+      "model": "J8_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J8_T",
+      "codename": "J8_T",
+      "model": "J8_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J9_EEA",
+      "codename": "J9_EEA",
+      "model": "J9_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J9_US",
+      "codename": "J9_US",
+      "model": "J9_US"
     }
   ]
 }

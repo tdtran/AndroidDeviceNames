@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Armor C1 Max",
+      "codename": "Armor_C1_Max",
+      "model": "Armor C1 Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor C1s",
       "codename": "Armor_C1s",
       "model": "Armor C1s"
@@ -24,6 +30,18 @@
       "market_name": "Armor I1w",
       "codename": "Armor_I1w",
       "model": "Armor I1w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor P1 Pro",
+      "codename": "Armor_P1_Pro",
+      "model": "Armor P1 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor V1s",
+      "codename": "Armor_V1s",
+      "model": "Armor V1s"
     },
     {
       "manufacturer": "",
@@ -63,15 +81,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H14",
+      "codename": "H14",
+      "model": "H14"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H21",
       "codename": "H21",
       "model": "H21"
     },
     {
       "manufacturer": "",
+      "market_name": "H34",
+      "codename": "H34",
+      "model": "H34"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H38",
       "codename": "H38",
       "model": "H38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H44",
+      "codename": "H44",
+      "model": "H44"
     },
     {
       "manufacturer": "",
@@ -90,6 +126,18 @@
       "market_name": "O8",
       "codename": "O8",
       "model": "O8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_Lite_E48",
+      "codename": "Pad_Lite_E48",
+      "model": "Pad Lite E48"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_Lite_E58",
+      "codename": "Pad_Lite_E58",
+      "model": "Pad Lite E58"
     }
   ]
 }

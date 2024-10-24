@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Adesa",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AD33",
+      "codename": "rk3588_t",
+      "model": "Adesa_AD33"
+    }
+  ]
+}

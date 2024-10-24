@@ -40,5 +40,11 @@
     "market_name": "Galaxy A21",
     "codename": "a21",
     "model": "SM-S215DL"
+  },
+  {
+    "manufacturer": "THTF",
+    "market_name": "A21",
+    "codename": "A21",
+    "model": "A21"
   }
 ]

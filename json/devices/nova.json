@@ -12,6 +12,12 @@
     "model": "Nova"
   },
   {
+    "manufacturer": "Prixton",
+    "market_name": "Nova",
+    "codename": "Nova",
+    "model": "Nova"
+  },
+  {
     "manufacturer": "Rhino",
     "market_name": "RHINO C6",
     "codename": "nova",

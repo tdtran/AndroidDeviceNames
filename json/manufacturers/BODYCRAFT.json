@@ -1,0 +1,11 @@
+{
+  "manufacturer": "BODYCRAFT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M1_IC0_N702_BC",
+      "codename": "CONNECT_22",
+      "model": "CONNECT_22"
+    }
+  ]
+}

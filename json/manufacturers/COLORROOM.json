@@ -3,6 +3,42 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C1",
+      "codename": "C1",
+      "model": "C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C10_EEA",
+      "codename": "C10_EEA",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C10_ROW",
+      "codename": "C10_ROW",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C2",
+      "codename": "C2",
+      "model": "C2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20",
+      "codename": "C20",
+      "model": "C20_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20_EEA",
+      "codename": "C20",
+      "model": "C20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C3_EEA",
       "codename": "C3_EEA",
       "model": "C3"
@@ -45,6 +81,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E20_EEA",
+      "codename": "E20",
+      "model": "E20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E20_ROW",
+      "codename": "E20_ROW",
+      "model": "E20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E30_EEA",
+      "codename": "E30_EEA",
+      "model": "E30_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E30_ROW",
+      "codename": "E30",
+      "model": "E30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K07-pro",
       "codename": "K07-pro_EEA",
       "model": "K07-pro"
@@ -54,6 +114,18 @@
       "market_name": "K07-pro_EEA",
       "codename": "K07-pro_EEA",
       "model": "K07-pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K08",
+      "codename": "K08",
+      "model": "K08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K10",
+      "codename": "K10",
+      "model": "K10"
     },
     {
       "manufacturer": "",
@@ -84,6 +156,12 @@
       "market_name": "K12-EEA",
       "codename": "K12-EEA",
       "model": "K12-ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K12E",
+      "codename": "K12E",
+      "model": "K12E"
     }
   ]
 }

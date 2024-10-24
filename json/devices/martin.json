@@ -63,12 +63,6 @@
     "manufacturer": "CAIXUN",
     "market_name": "Europe",
     "codename": "martin",
-    "model": "SE 2K Android Monitor"
-  },
-  {
-    "manufacturer": "CAIXUN",
-    "market_name": "Europe",
-    "codename": "martin",
     "model": "Smarttech Android Monitor"
   },
   {
@@ -130,6 +124,12 @@
     "market_name": "martin",
     "codename": "martin",
     "model": "EPIC Android TV"
+  },
+  {
+    "manufacturer": "EQUINOXE",
+    "market_name": "Europe",
+    "codename": "martin",
+    "model": "SE 2K Android Monitor"
   },
   {
     "manufacturer": "Estar",

@@ -16,5 +16,11 @@
     "market_name": "Galaxy A55 5G",
     "codename": "a55x",
     "model": "SM-A556E"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Quantum5",
+    "codename": "a55x",
+    "model": "SM-A556S"
   }
 ]

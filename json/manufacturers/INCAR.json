@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "\tTL65611S01",
+      "codename": "TL65611S01",
+      "model": "TL65611S01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E38_RU",
       "codename": "E38",
       "model": "E38"

@@ -327,6 +327,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S19_Max_2_128GB",
+      "codename": "S19_Max_2_128GB",
+      "model": "S19 Max 2/128GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S19 Max Pro S Zoom",
       "codename": "S19_Max_Pro_S_Zoom",
       "model": "S19 Max Pro S Zoom"
@@ -336,6 +342,18 @@
       "market_name": "S23 Pro Max",
       "codename": "S23_Pro_Max",
       "model": "S23 Pro Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S53",
+      "codename": "S53",
+      "model": "S53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S71",
+      "codename": "S71",
+      "model": "S71"
     },
     {
       "manufacturer": "",

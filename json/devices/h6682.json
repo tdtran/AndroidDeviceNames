@@ -4,5 +4,11 @@
     "market_name": "H6682",
     "codename": "H6682",
     "model": "H6682"
+  },
+  {
+    "manufacturer": "Mobiwire",
+    "market_name": "H6682_VDC_TZ",
+    "codename": "H6682",
+    "model": "H6682_VDC_TZ"
   }
 ]

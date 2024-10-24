@@ -615,6 +615,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Haier MatrixTV DE",
+      "codename": "omonia",
+      "model": "Haier MatrixTV DE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Haier MatrixTV EE",
+      "codename": "omonia",
+      "model": "Haier MatrixTV EE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Haier OLED TV AE",
       "codename": "irvine",
       "model": "Haier OLED TV AE"

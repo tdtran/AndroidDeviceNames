@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TIOK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S32",
+      "codename": "S32",
+      "model": "S32"
+    }
+  ]
+}

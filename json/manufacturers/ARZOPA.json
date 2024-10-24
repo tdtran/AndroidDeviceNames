@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P1",
+      "codename": "ARZOPA_P1",
+      "model": "ARZOPA P1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P1S",
       "codename": "P1S",
       "model": "P1S"

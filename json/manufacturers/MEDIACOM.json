@@ -201,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M-SP10KID",
+      "codename": "M-SP10KID",
+      "model": "SmartKid10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M-SP10MXHA",
       "codename": "SmartPad",
       "model": "M-SP10MXHA"
@@ -279,15 +285,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M-SP8GY",
+      "codename": "M-SP8GY",
+      "model": "SmartPad iyo8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M-SP8HXAH",
       "codename": "M-SP8HXAH",
       "model": "M-SP8HXAH"
     },
     {
       "manufacturer": "",
+      "market_name": "M-SP8KID",
+      "codename": "M-SP8KID",
+      "model": "M-SP8KID"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M-SP8MXA",
       "codename": "SP8MXA",
       "model": "M-SP8MXA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP1AZ4_L",
+      "codename": "SP1AZ4_L",
+      "model": "AZIMUT_4_LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP1AZ4_P",
+      "codename": "SP1AZ4_P",
+      "model": "AZIMUT_4_PRO"
     }
   ]
 }

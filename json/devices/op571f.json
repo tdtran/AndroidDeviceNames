@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Oppo",
+    "market_name": "A57",
+    "codename": "OP571F",
+    "model": "CPH2387"
+  },
+  {
+    "manufacturer": "Oppo",
+    "market_name": "A57",
+    "codename": "OP571F",
+    "model": "CPH2407"
+  },
+  {
+    "manufacturer": "Oppo",
     "market_name": "CPH2387",
     "codename": "OP571F",
     "model": "CPH2387"

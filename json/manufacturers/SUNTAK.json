@@ -1,0 +1,17 @@
+{
+  "manufacturer": "SUNTAK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "MOJO",
+      "codename": "MOJO",
+      "model": "MOJO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOX  2",
+      "codename": "MOX_2",
+      "model": "MOX_2"
+    }
+  ]
+}

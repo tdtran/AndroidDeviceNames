@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "FOXXD",
+    "market_name": "T10A",
+    "codename": "T10A",
+    "model": "T10A"
+  },
+  {
     "manufacturer": "Hoozo",
     "market_name": "T10A",
     "codename": "T10A",

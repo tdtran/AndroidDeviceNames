@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "V10E-LTE",
+      "codename": "V10E-LTE",
+      "model": "V10E-LTE-464"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V12E-LTE",
       "codename": "V12E-LTE",
       "model": "V12E-LTE-8128"

@@ -3,9 +3,75 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P60_EEA",
+      "codename": "P60_EEA",
+      "model": "P60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P60_ROW",
+      "codename": "P60_ROW",
+      "model": "P60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10P",
+      "codename": "T10P",
+      "model": "T10P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10P_EEA",
+      "codename": "T10P_EEA",
+      "model": "T10P_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10P_ROW",
+      "codename": "T10P_ROW",
+      "model": "T10P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T618",
       "codename": "T618",
       "model": "T618"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T618_WIFI",
+      "codename": "T618_WIFI",
+      "model": "T618"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T618_WIFI_EEA",
+      "codename": "T618_WIFI_EEA",
+      "model": "T618"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T88",
+      "codename": "T88",
+      "model": "T88"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB10",
+      "codename": "TAB10",
+      "model": "TAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB10_EEA",
+      "codename": "TAB10_EEA",
+      "model": "TAB10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB10_ROW",
+      "codename": "TAB10_ROW",
+      "model": "TAB10"
     },
     {
       "manufacturer": "",
@@ -18,6 +84,12 @@
       "market_name": "TB02_E",
       "codename": "TB02_E",
       "model": "TB02_E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB02_ROW",
+      "codename": "TB02_ROW",
+      "model": "TB02"
     }
   ]
 }

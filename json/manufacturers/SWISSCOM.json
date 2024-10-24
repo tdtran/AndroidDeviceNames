@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IP1800",
+      "codename": "IP1800",
+      "model": "IP1800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TV-Box5",
       "codename": "IP2300",
       "model": "IP2300"

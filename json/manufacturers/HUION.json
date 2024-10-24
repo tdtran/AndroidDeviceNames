@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Huion",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KamvasSlate10",
+      "codename": "KamvasSlate10",
+      "model": "KamvasSlate10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KamvasSlate10_EEA",
+      "codename": "KamvasSlate10_EEA",
+      "model": "KamvasSlate10_EEA"
+    }
+  ]
+}

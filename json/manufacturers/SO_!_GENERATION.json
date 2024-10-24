@@ -12,6 +12,12 @@
       "market_name": "T8116",
       "codename": "T8116",
       "model": "T8116"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8133_EEA",
+      "codename": "T8133_EEA",
+      "model": "T8133"
     }
   ]
 }

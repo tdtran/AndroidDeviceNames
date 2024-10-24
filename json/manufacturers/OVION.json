@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "V20_PRO_TR",
+      "codename": "V20_PRO",
+      "model": "V20 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V30 Ultra",
       "codename": "V30_Ultra",
       "model": "V30 Ultra"

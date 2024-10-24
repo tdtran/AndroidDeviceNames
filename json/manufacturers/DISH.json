@@ -69,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SN339D",
+      "codename": "SN339D",
+      "model": "SN339D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SV10",
       "codename": "HiCast",
       "model": "SV10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Summit 5G",
+      "codename": "SN339D-SMT",
+      "model": "SN339D-SMT"
     },
     {
       "manufacturer": "",

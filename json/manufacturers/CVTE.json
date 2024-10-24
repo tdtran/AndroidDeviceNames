@@ -6,6 +6,12 @@
       "market_name": "CVTE SA12",
       "codename": "rk3588_t",
       "model": "SA12 series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mensa_an64",
+      "codename": "mensa",
+      "model": "mensa"
     }
   ]
 }

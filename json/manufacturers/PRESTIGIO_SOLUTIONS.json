@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PSTA111",
+      "codename": "HP80A33L",
+      "model": "PSTA111"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Virtuoso PSTA101",
       "codename": "HE10A3L",
       "model": "PSTA101"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IB-75UED01B",
+      "codename": "IB-75UED01B",
+      "model": "IB-75UED01B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LUCA Tablet TM152",
       "codename": "TM152M4",
       "model": "TM152"
@@ -33,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TE08D1M64",
+      "codename": "TE08D1M64",
+      "model": "TE08D1M64"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE08D2M64",
+      "codename": "TE08D2M64",
+      "model": "TE08D2M64"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TE101N1",
       "codename": "Aquaman_10_Smart_WIFI",
       "model": "TE101"
@@ -48,6 +66,24 @@
       "market_name": "TE103M3",
       "codename": "TE103M3",
       "model": "TE103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE10D1M64",
+      "codename": "TE10D1M64",
+      "model": "TE10D1M64"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TE10D2M64",
+      "codename": "TE10D2M64",
+      "model": "TE10D2M64"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM153M6",
+      "codename": "TM153M6",
+      "model": "TM153"
     }
   ]
 }

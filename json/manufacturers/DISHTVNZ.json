@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A7080",
+      "codename": "SEI730BSVU",
+      "model": "A7080"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SV10",
       "codename": "HiCast",
       "model": "SV10"

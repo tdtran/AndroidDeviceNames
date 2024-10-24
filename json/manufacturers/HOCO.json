@@ -1,0 +1,41 @@
+{
+  "manufacturer": "hoco",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "hoco_HI10",
+      "codename": "hoco_HI10",
+      "model": "A523 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hoco_HI10",
+      "codename": "hoco_HI10",
+      "model": "K108"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hoco_HI10",
+      "codename": "hoco_HI10",
+      "model": "hoco_HI10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hoco_HI10_EEA",
+      "codename": "hoco_HI10_EEA",
+      "model": "hoco_HI10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hoco_HI11",
+      "codename": "hoco_HI11",
+      "model": "hoco_HI11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hoco_HI12",
+      "codename": "hoco_HI12",
+      "model": "hoco_HI12"
+    }
+  ]
+}

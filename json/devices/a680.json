@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Avvio",
+    "market_name": "A680",
+    "codename": "A680",
+    "model": "aiworks"
+  },
+  {
     "manufacturer": "Lenovo",
     "market_name": "A680",
     "codename": "A680",

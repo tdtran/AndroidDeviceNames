@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RS10",
+      "codename": "RS10",
+      "model": "RS10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RS30",
       "codename": "Mercury",
       "model": "CipherLab RS30"

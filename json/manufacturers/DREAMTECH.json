@@ -6,6 +6,18 @@
       "market_name": "STARPAD",
       "codename": "STARPAD",
       "model": "STARPAD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STARPAD_PLUS",
+      "codename": "STARPAD_PLUS",
+      "model": "STARPAD PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOLTA_X",
+      "codename": "VOLTA_X",
+      "model": "VOLTA X"
     }
   ]
 }

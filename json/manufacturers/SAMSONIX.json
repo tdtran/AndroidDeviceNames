@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Samsonix",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A1250",
+      "codename": "A1250",
+      "model": "A1250"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W12",
+      "codename": "W12",
+      "model": "W12"
+    }
+  ]
+}

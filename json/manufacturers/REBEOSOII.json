@@ -6,6 +6,18 @@
       "market_name": "C11",
       "codename": "C11",
       "model": "C11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G11",
+      "codename": "G11",
+      "model": "G11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P31",
+      "codename": "P31",
+      "model": "P31"
     }
   ]
 }

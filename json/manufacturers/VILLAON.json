@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V40",
+      "codename": "VILLAON-V40",
+      "model": "VILLAON V651W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V40s",
+      "codename": "VILLAON-V40s",
+      "model": "VILLAON V651L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VILLAON V30",
       "codename": "V30",
       "model": "VILLAON V30"

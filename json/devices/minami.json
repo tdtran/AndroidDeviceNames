@@ -4,5 +4,11 @@
     "market_name": "Leading Smart TV",
     "codename": "minami",
     "model": "EcoTV J"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "QRIOM",
+    "codename": "minami",
+    "model": "2K SMART TV"
   }
 ]

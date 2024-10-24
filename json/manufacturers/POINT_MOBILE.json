@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PM352",
+      "codename": "PM352",
+      "model": "PM352"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PM45",
       "codename": "pm45",
       "model": "PM45"

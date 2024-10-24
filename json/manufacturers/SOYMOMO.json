@@ -66,6 +66,12 @@
       "market_name": "SoyMomo_Pro_V2",
       "codename": "SoyMomo_Pro_V2",
       "model": "SoyMomo_Pro_V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SoyMomo_Pro_V2_24",
+      "codename": "SoyMomo_Pro_V2_24",
+      "model": "SoyMomo_Pro_V2_24"
     }
   ]
 }

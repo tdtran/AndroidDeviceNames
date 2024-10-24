@@ -10,5 +10,17 @@
     "market_name": "Galaxy A05",
     "codename": "a05m",
     "model": "SM-A055M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy F05",
+    "codename": "a05m",
+    "model": "SM-E055F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy M05",
+    "codename": "a05m",
+    "model": "SM-M055F"
   }
 ]

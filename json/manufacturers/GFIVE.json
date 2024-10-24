@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note_25",
+      "codename": "Note_25",
+      "model": "Note_25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_25_ULTRA",
+      "codename": "Note_25_ULTRA",
+      "model": "Note_25_ULTRA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRESIDENT_GOLD_10",
       "codename": "PRESIDENT_GOLD_10",
       "model": "PRESIDENT_GOLD_10"
@@ -18,6 +30,12 @@
       "market_name": "PRESIDENT_GOLD_9",
       "codename": "PRESIDENT_GOLD_9",
       "model": "PRESIDENT_GOLD_9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRO_16",
+      "codename": "PRO_16",
+      "model": "PRO_16"
     },
     {
       "manufacturer": "",

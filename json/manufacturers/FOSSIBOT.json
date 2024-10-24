@@ -75,9 +75,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F109",
+      "codename": "F109",
+      "model": "F109"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S1",
+      "codename": "S1",
+      "model": "S1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 11",
       "codename": "Tab_11",
       "model": "Tab 11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_12",
+      "codename": "Tab_12",
+      "model": "Tab 12"
     }
   ]
 }

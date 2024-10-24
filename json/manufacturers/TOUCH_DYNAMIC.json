@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TOUCH_DYNAMIC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Nexus",
+      "codename": "Nexus",
+      "model": "Nexus"
+    }
+  ]
+}

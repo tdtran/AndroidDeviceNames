@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Hyper_Max_Power",
+      "codename": "Hyper_Max_Power",
+      "model": "Hyper_Max_Power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IDEA",
       "codename": "IDEA",
       "model": "IDEA"

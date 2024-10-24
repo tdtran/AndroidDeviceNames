@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ALPHA_LING",
+    "market_name": "P10SU_PLUS",
+    "codename": "P10SU_PLUS",
+    "model": "P10SU_PLUS"
+  },
+  {
     "manufacturer": "amulet7",
     "market_name": "P10SU_Plus",
     "codename": "P10SU_Plus",

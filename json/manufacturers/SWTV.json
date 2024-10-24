@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SWTV-22AE-4K NF",
+      "codename": "anaheim",
+      "model": "SWTV-22AE-4K NF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWTV-22AE-FHD",
       "codename": "umeda",
       "model": "SWTV-22AE-FHD"

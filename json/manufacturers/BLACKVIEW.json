@@ -219,6 +219,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Active8_EEA",
+      "codename": "Active8",
+      "model": "Active 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active8_NEU",
+      "codename": "Active8",
+      "model": "Active 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active8_RU",
+      "codename": "Active8",
+      "model": "Active 8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL5000",
       "codename": "BL5000",
       "model": "BL5000"
@@ -276,6 +294,12 @@
       "market_name": "BV4800",
       "codename": "BV4800",
       "model": "BV4800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV4800 Pro",
+      "codename": "BV4800Pro",
+      "model": "BV4800 Pro"
     },
     {
       "manufacturer": "",
@@ -453,6 +477,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV6200 Pro",
+      "codename": "BV6200_Pro_14",
+      "model": "BV6200 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV6300",
       "codename": "BV6300",
       "model": "BV6300"
@@ -540,6 +570,12 @@
       "market_name": "BV7200",
       "codename": "BV7200",
       "model": "BV7200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV7300",
+      "codename": "BV7300",
+      "model": "BV7300"
     },
     {
       "manufacturer": "",
@@ -885,6 +921,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARK 9",
+      "codename": "SHARK_9",
+      "model": "SHARK 9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SOLID-4G3",
       "codename": "SOLID_4G3",
       "model": "SOLID_4G3"
@@ -999,6 +1041,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab 60 Pro",
+      "codename": "Tab_60_Pro",
+      "model": "Tab 60 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab 60 WiFi",
       "codename": "Tab_60_WiFi",
       "model": "Tab 60 WiFi"
@@ -1062,6 +1110,18 @@
       "market_name": "Tab 90",
       "codename": "Tab_90",
       "model": "Tab 90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab A5 Kids",
+      "codename": "Tab_A5_Kids",
+      "model": "Tab A5 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab A6 Kids",
+      "codename": "Tab_A6_Kids",
+      "model": "Tab A6 Kids"
     },
     {
       "manufacturer": "",
@@ -1404,6 +1464,12 @@
       "market_name": "WAVE 6C",
       "codename": "WAVE6C",
       "model": "WAVE 6C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WAVE 8C",
+      "codename": "WAVE_8C",
+      "model": "WAVE 8C"
     }
   ]
 }

@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C**GL1/GJ1/GJ2",
+      "codename": "awaroa",
+      "model": "AQUOS-4KTVJ24-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C**GP1/GS1/GQ1/GN1",
       "codename": "tcmar1uj",
       "model": "AQUOS-4KTVJ23-1"
@@ -1366,6 +1372,12 @@
     {
       "manufacturer": "",
       "market_name": "AQUOS wish4",
+      "codename": "JUD",
+      "model": "SHG13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish4",
       "codename": "SH-52E",
       "model": "SD0L4"
     },
@@ -1380,6 +1392,12 @@
       "market_name": "AQUOS wish4",
       "codename": "SX4",
       "model": "A402SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS wish4",
+      "codename": "SX4",
+      "model": "A403SH"
     },
     {
       "manufacturer": "",

@@ -45,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T50",
+      "codename": "T50_EEA",
+      "model": "T50_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T7",
       "codename": "T7",
       "model": "T7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T70",
+      "codename": "T70",
+      "model": "T70"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Lunnen",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TL42810L01",
+      "codename": "TL42810L01",
+      "model": "TL42810L01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TL4648S01",
+      "codename": "TL4648S01",
+      "model": "TL4648S01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TL62810G01",
+      "codename": "TL62810G01",
+      "model": "TL62810G01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TL85611B01",
+      "codename": "TL85611B01",
+      "model": "Lunnen Ground 11"
+    }
+  ]
+}

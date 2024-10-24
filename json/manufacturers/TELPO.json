@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10",
+      "codename": "M10",
+      "model": "M10 for arm64"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M1K",
       "codename": "M1K",
       "model": "M1K"

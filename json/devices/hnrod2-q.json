@@ -1,8 +1,14 @@
 [
   {
     "manufacturer": "Honor",
-    "market_name": "荣耀平板MagicPad2",
+    "market_name": "HONOR MagicPad2",
     "codename": "HNROD2-Q",
     "model": "ROD2-W09"
+  },
+  {
+    "manufacturer": "Honor",
+    "market_name": "荣耀平板GT PRO",
+    "codename": "HNROD2-Q",
+    "model": "ROD2-W69"
   }
 ]

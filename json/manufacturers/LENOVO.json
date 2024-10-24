@@ -2157,6 +2157,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Idea Tab Pro",
+      "codename": "TB373FU",
+      "model": "TB373FU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo K11",
       "codename": "L38082",
       "model": "Lenovo L38082"
@@ -2385,12 +2391,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Lenovo TAB",
-      "codename": "TB-8803F",
-      "model": "Lenovo TB-8803F"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Lenovo TAB 10",
       "codename": "TB-X103F",
       "model": "Lenovo TB-X103F"
@@ -2604,6 +2604,12 @@
       "market_name": "Lenovo TAB3 8 Plus",
       "codename": "TB-8703X",
       "model": "Lenovo TB-8703X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo TAB3 8 Plus",
+      "codename": "TB-8803F",
+      "model": "Lenovo TB-8803F"
     },
     {
       "manufacturer": "",

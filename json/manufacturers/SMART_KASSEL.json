@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SK-5503AR",
+      "codename": "SK-5503AR",
+      "model": "SK-5503AR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SK3403",
       "codename": "SK3403",
       "model": "SK3403"
@@ -18,6 +24,18 @@
       "market_name": "SK3404",
       "codename": "SK3404",
       "model": "SK3404"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SK3405",
+      "codename": "SK3405",
+      "model": "SK3405"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SK3501",
+      "codename": "SK3501",
+      "model": "SK3501"
     },
     {
       "manufacturer": "",

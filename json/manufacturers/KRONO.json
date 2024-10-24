@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KIDS_COLORS_PLUS",
+      "codename": "KIDS_COLORS_PLUS",
+      "model": "KIDS_COLORS_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MATRIX PRO",
       "codename": "MATRIX_PRO",
       "model": "MATRIX_PRO"
@@ -87,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NET_Y",
+      "codename": "NET_Y",
+      "model": "NET_Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Net_Max_Go",
       "codename": "Net_Max_Go",
       "model": "Net_Max_Go"
@@ -96,6 +108,12 @@
       "market_name": "SKY",
       "codename": "SKY",
       "model": "SKY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TOUCH55",
+      "codename": "TOUCH55",
+      "model": "KONROW"
     },
     {
       "manufacturer": "",

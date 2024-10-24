@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ASTREX",
+    "market_name": "Victory",
+    "codename": "Victory",
+    "model": "Victory"
+  },
+  {
     "manufacturer": "Samsung",
     "market_name": "三星 W21 5G",
     "codename": "victory",

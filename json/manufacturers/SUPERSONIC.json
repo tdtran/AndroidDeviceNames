@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SC_779KT",
+      "codename": "SC_779KT",
+      "model": "SC-779KT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart TV",
       "codename": "kanda",
       "model": "SUPERSONIC 2K Smart TV"

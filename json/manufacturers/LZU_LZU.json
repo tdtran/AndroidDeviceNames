@@ -1,0 +1,17 @@
+{
+  "manufacturer": "LZU_lzu",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "D113",
+      "codename": "D113",
+      "model": "D113"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D113_EEA",
+      "codename": "D113_EEA",
+      "model": "D113_EEA"
+    }
+  ]
+}

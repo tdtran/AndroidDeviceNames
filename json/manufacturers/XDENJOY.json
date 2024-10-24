@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "XDDGM10",
+      "codename": "XDDGM10",
+      "model": "XDDGM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XDDGM11BS",
+      "codename": "XDDGM11BS",
+      "model": "XDDGM11BS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XDDGM99PM",
       "codename": "XDDGM99PM",
       "model": "XDDGM99PM"

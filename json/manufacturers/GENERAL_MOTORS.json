@@ -18,6 +18,12 @@
       "market_name": "VCU",
       "codename": "aegean",
       "model": "aegean"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VCU",
+      "codename": "burmese",
+      "model": "burmese"
     }
   ]
 }

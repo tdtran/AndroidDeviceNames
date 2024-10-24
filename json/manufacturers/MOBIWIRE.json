@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H6682_VDC_TZ",
+      "codename": "H6682",
+      "model": "H6682_VDC_TZ"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H6821",
       "codename": "H6821",
       "model": "H6821"
@@ -468,6 +474,12 @@
       "market_name": "Vodafone Smart 4G",
       "codename": "Vodafone_Smart",
       "model": "Vodafone Smart 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Éɖjròmi",
+      "codename": "Edjromi",
+      "model": "Edjromi"
     }
   ]
 }

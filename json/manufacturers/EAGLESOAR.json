@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E-764-EEA",
+      "codename": "E-764-EEA",
+      "model": "E-764-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E10A_EEA",
+      "codename": "E10A_EEA",
+      "model": "E10A_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EE-35_EEA",
+      "codename": "EE-35_EEA",
+      "model": "EE-35_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EE-P30_EEA",
+      "codename": "EE-P30_EEA",
+      "model": "EE-P30_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EE1010_EEA",
       "codename": "EE1010_EEA",
       "model": "EE1010_EEA"

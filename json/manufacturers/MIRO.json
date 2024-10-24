@@ -1,0 +1,23 @@
+{
+  "manufacturer": "MIRO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Miro A67",
+      "codename": "Miro_A67",
+      "model": "Miro A67"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Miro C67",
+      "codename": "Miro_C67",
+      "model": "Miro C67"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Miro S67",
+      "codename": "Miro_S67",
+      "model": "Miro S67"
+    }
+  ]
+}

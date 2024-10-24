@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LeoPad20",
+      "codename": "LeoPad20",
+      "model": "LeoPad20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Libra PAD",
       "codename": "Libra_PAD",
       "model": "Libra PAD"

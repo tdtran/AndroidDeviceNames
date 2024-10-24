@@ -96,6 +96,18 @@
       "market_name": "meanIT_X6",
       "codename": "meanIT_X6",
       "model": "meanIT_X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meanit_K28_EEA",
+      "codename": "meanit_K28_EEA",
+      "model": "meanit K28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meanit_X50_EEA",
+      "codename": "meanit_X50_EEA",
+      "model": "meanit X50"
     }
   ]
 }

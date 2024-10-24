@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HB35",
+      "codename": "himalaya",
+      "model": "HB35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Projector",
       "codename": "sti6200d101",
       "model": "Projector"

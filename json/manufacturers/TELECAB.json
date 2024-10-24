@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TELECAB",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "B866V2FA",
+      "codename": "B866V2FA_TELECAB",
+      "model": "B866V2FA"
+    }
+  ]
+}

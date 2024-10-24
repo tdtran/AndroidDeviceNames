@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A14",
+      "codename": "INOI_A14",
+      "model": "A140"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A150",
       "codename": "A150",
       "model": "A150"
@@ -300,6 +306,12 @@
       "market_name": "INOI_A14E",
       "codename": "INOI_A14",
       "model": "A140"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T107_Plus",
+      "codename": "T107_Plus",
+      "model": "inoiPad Pro"
     },
     {
       "manufacturer": "",

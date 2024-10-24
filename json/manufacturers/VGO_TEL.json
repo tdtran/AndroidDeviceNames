@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Flex_2",
+      "codename": "Flex_2",
+      "model": "Flex 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEW 10",
       "codename": "NEW_10",
       "model": "NEW 10"
@@ -33,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEW 26",
+      "codename": "NEW_26",
+      "model": "NEW 26"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEW 7",
       "codename": "NEW_7",
       "model": "NEW 7"
@@ -48,6 +60,12 @@
       "market_name": "NOTE 24",
       "codename": "NOTE_24",
       "model": "NOTE 24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE_23_V02",
+      "codename": "NOTE_23",
+      "model": "NOTE 23"
     },
     {
       "manufacturer": "",
@@ -78,6 +96,12 @@
       "market_name": "Ocean9L",
       "codename": "Ocean9L",
       "model": "Ocean9L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART 8",
+      "codename": "SMART_8",
+      "model": "SMART 8"
     },
     {
       "manufacturer": "",

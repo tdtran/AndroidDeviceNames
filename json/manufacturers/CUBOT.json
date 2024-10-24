@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A30",
+      "codename": "A30",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C20",
       "codename": "C20",
       "model": "C20"
@@ -195,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG ACE 2",
+      "codename": "KINGKONG_ACE_2",
+      "model": "KINGKONG ACE 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG ACE 3",
       "codename": "KINGKONG_ACE_3",
       "model": "KINGKONG ACE 3"
@@ -237,9 +249,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KINGKONG POWER 3",
+      "codename": "KINGKONG_POWER_3",
+      "model": "KINGKONG POWER 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINGKONG STAR",
       "codename": "KINGKONG_STAR",
       "model": "KINGKONG STAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KINGKONG STAR 2",
+      "codename": "KINGKONG_STAR_2",
+      "model": "KINGKONG STAR 2"
     },
     {
       "manufacturer": "",
@@ -474,6 +498,12 @@
       "market_name": "TAB KINGKONG",
       "codename": "TAB_KINGKONG",
       "model": "TAB KINGKONG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB KINGKONG 2",
+      "codename": "TAB_KINGKONG_2",
+      "model": "TAB KINGKONG 2"
     },
     {
       "manufacturer": "",

@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C24L",
+      "codename": "C24L",
+      "model": "C24L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CG65_Pro",
       "codename": "CG65_Pro",
       "model": "CG65 Pro"
@@ -36,6 +42,12 @@
       "market_name": "G8",
       "codename": "G8",
       "model": "G8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HD55",
+      "codename": "HD55",
+      "model": "HD55"
     },
     {
       "manufacturer": "",
@@ -57,9 +69,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HD62",
+      "codename": "HD62",
+      "model": "HD62"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HD65",
       "codename": "HD65",
       "model": "HD65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HD65_PLUS",
+      "codename": "HD65_PLUS",
+      "model": "HD65_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HD65_Select",
+      "codename": "HD65_Select",
+      "model": "HD65_Select"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HD65_Ultra",
+      "codename": "HD65_Ultra",
+      "model": "HD65_Ultra"
     },
     {
       "manufacturer": "",
@@ -189,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Vortex N55",
+      "codename": "N55",
+      "model": "N55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vortex Z22",
       "codename": "Z22",
       "model": "Z22"
@@ -204,6 +246,12 @@
       "market_name": "VortexV20",
       "codename": "VortexV20",
       "model": "V20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z67",
+      "codename": "Z67",
+      "model": "Z67"
     },
     {
       "manufacturer": "",

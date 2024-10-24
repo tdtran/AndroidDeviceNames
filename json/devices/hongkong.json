@@ -48,6 +48,12 @@
     "model": "4K SMART TV"
   },
   {
+    "manufacturer": "Daiwa",
+    "market_name": "DAIWA",
+    "codename": "hongkong",
+    "model": "4K DVB SMART TV"
+  },
+  {
     "manufacturer": "EKO",
     "market_name": "EKO",
     "codename": "hongkong",

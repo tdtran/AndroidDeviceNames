@@ -4,5 +4,11 @@
     "market_name": "P10S",
     "codename": "P10S",
     "model": "P10S"
+  },
+  {
+    "manufacturer": "Wainyok",
+    "market_name": "P10S_EEA",
+    "codename": "P10S",
+    "model": "P10S"
   }
 ]

@@ -69,9 +69,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AGM_PAD_P2W_EEA",
+      "codename": "AGM_PAD_P2_ACTIVE",
+      "model": "AGM_PAD_P2W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AGM_PAD_T1",
       "codename": "AGM_PAD_T1",
       "model": "AGM_PAD_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_PAD_T1_WIFI",
+      "codename": "AGM_PAD_T1_WIFI",
+      "model": "AGM_PAD_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_X6",
+      "codename": "AGM_X6_EEA",
+      "model": "AGM_X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_X6",
+      "codename": "AGM_X6_ROW",
+      "model": "AGM_X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_X6",
+      "codename": "AGM_X6_RU",
+      "model": "AGM_X6"
     },
     {
       "manufacturer": "",

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Logicom",
+    "market_name": "Le Link",
+    "codename": "Le_Link",
+    "model": "Le Link"
+  },
+  {
+    "manufacturer": "Logicom",
     "market_name": "Le_Link",
     "codename": "Le_Link",
     "model": "Le Link"

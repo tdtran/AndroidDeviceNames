@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "CWOWDEFU",
+    "market_name": "S18",
+    "codename": "S18",
+    "model": "S18"
+  },
+  {
+    "manufacturer": "CWOWDEFU",
     "market_name": "S18 EEA",
     "codename": "S18",
     "model": "S18"

@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "W5",
+      "codename": "W5",
+      "model": "W5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W5A",
       "codename": "W5A",
       "model": "W5A"

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EM101C",
+      "codename": "EM101C",
+      "model": "EM101C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EM101C_EEA",
+      "codename": "EM101C_EEA",
+      "model": "EM101C_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EM103A",
       "codename": "EM103A",
       "model": "EM103A"
@@ -42,6 +54,18 @@
       "market_name": "EP1095T",
       "codename": "EP1095T",
       "model": "EP1095T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EP1095T_EEA",
+      "codename": "EP1095T",
+      "model": "EP1095T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EP1095T_EEA",
+      "codename": "EP1095T",
+      "model": "EP1095T_EEA"
     },
     {
       "manufacturer": "",

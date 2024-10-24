@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AEOP520",
+      "codename": "AEOP520",
+      "model": "AEOP520"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AF9010_F",
       "codename": "AF9010_F",
       "model": "AF9010_F"

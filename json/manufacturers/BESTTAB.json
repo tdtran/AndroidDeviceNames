@@ -1,0 +1,29 @@
+{
+  "manufacturer": "BESTTAB",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A10_EEA",
+      "codename": "A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10_NEU",
+      "codename": "A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20_EEA",
+      "codename": "A20",
+      "model": "A20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A20_NEU",
+      "codename": "A20",
+      "model": "A20"
+    }
+  ]
+}

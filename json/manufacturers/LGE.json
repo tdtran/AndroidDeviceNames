@@ -5505,6 +5505,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Ultra Tab",
+      "codename": "solemiolt",
+      "model": "10AWM20S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG V35 ThinQ",
       "codename": "judyp",
       "model": "LM-V350"

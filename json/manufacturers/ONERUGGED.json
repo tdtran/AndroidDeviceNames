@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M10X",
+      "codename": "M10X",
+      "model": "M10X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10XE",
       "codename": "M10XE",
       "model": "M10XE"
@@ -15,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M19TE",
+      "codename": "M19TE",
+      "model": "M19TE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M86X",
       "codename": "M86X",
       "model": "M86X"
@@ -24,6 +36,12 @@
       "market_name": "M86XE",
       "codename": "M86XE",
       "model": "M86XE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M89T",
+      "codename": "M89T",
+      "model": "M89T"
     },
     {
       "manufacturer": "",

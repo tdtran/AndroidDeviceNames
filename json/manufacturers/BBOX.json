@@ -4,6 +4,12 @@
     {
       "manufacturer": "",
       "market_name": "bbox",
+      "codename": "IMTM741",
+      "model": "IMTM741"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "bbox",
       "codename": "bbox-M752A",
       "model": "bbox-M752A"
     }

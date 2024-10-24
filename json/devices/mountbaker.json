@@ -36,6 +36,12 @@
     "model": "BLAUPUNKT GOOGLE TV"
   },
   {
+    "manufacturer": "Challenger",
+    "market_name": "CHALLENGER",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
     "manufacturer": "DIJITSU",
     "market_name": "DIJITSU",
     "codename": "mountbaker",
@@ -99,6 +105,12 @@
     "manufacturer": "FPD",
     "market_name": "FPD",
     "codename": "mountbaker",
+    "model": "EcoTV C"
+  },
+  {
+    "manufacturer": "FPD",
+    "market_name": "FPD",
+    "codename": "mountbaker",
     "model": "EcoTV D"
   },
   {
@@ -110,6 +122,12 @@
   {
     "manufacturer": "Graetz",
     "market_name": "GRAETZ",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
     "codename": "mountbaker",
     "model": "2K SMART TV"
   },
@@ -164,6 +182,12 @@
   {
     "manufacturer": "KTCtv",
     "market_name": "COLORVIEW",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAMASCO",
     "codename": "mountbaker",
     "model": "2K SMART TV"
   },
@@ -280,6 +304,18 @@
     "market_name": "VEIRA",
     "codename": "mountbaker",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "VIMEEL",
+    "codename": "mountbaker",
+    "model": "VIMEEL GOOGLE TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "VIOTTO",
+    "codename": "mountbaker",
+    "model": "2K SMART ISDB TV"
   },
   {
     "manufacturer": "KTCtv",

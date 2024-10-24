@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Vivo",
+    "market_name": "Y100+",
+    "codename": "PD2354",
+    "model": "V2354A"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "Y200i",
     "codename": "PD2354",
     "model": "V2354A"

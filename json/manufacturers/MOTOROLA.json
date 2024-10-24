@@ -2349,6 +2349,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ThinkPhone 25 by motorola",
+      "codename": "vienna",
+      "model": "ThinkPhone 25 by motorola"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ThinkPhone by Motorola",
       "codename": "bronco",
       "model": "ThinkPhone by motorola"
@@ -3525,6 +3531,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g35 5G",
+      "codename": "manila",
+      "model": "moto g35 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g40 fusion",
       "codename": "hanoip",
       "model": "moto g(40) fusion"
@@ -3552,6 +3564,18 @@
       "market_name": "moto g42",
       "codename": "hawao",
       "model": "moto g42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g45 5G",
+      "codename": "fogos",
+      "model": "moto g34 5GP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g45 5G",
+      "codename": "fogos",
+      "model": "moto g45 5G"
     },
     {
       "manufacturer": "",
@@ -3651,6 +3675,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g55 5G",
+      "codename": "taipei",
+      "model": "moto g54 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g55 5G",
+      "codename": "taipei",
+      "model": "moto g55 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g6 play",
       "codename": "jeter",
       "model": "Moto G Play"
@@ -3747,6 +3783,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g75 5G",
+      "codename": "sorap",
+      "model": "moto g75 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g82 5G",
       "codename": "rhodep",
       "model": "XT2169-2"
@@ -3780,6 +3822,12 @@
       "market_name": "moto g84 5G",
       "codename": "bangkk",
       "model": "moto g84 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g85 5G",
+      "codename": "malmo",
+      "model": "XT2427-4"
     },
     {
       "manufacturer": "",
@@ -4053,6 +4101,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "motorola edge 50",
+      "codename": "tank",
+      "model": "motorola edge 50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 50",
+      "codename": "tank",
+      "model": "motorola razr 40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola edge 50 fusion",
       "codename": "cusco",
       "model": "moto g stylus 5G - 2023"
@@ -4074,6 +4134,12 @@
       "market_name": "motorola edge 50 fusion",
       "codename": "cuscoi",
       "model": "motorola edge 50 fusion"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola edge 50 neo",
+      "codename": "vienna",
+      "model": "motorola edge 50 neo"
     },
     {
       "manufacturer": "",

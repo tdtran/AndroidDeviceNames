@@ -6,6 +6,12 @@
     "model": "w5"
   },
   {
+    "manufacturer": "HEADWOLF",
+    "market_name": "W5",
+    "codename": "W5",
+    "model": "W5"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "L70",
     "codename": "w5",

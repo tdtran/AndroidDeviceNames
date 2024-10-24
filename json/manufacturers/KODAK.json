@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KD10112TB",
+      "codename": "KD10112TB",
+      "model": "KD10112TB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KODAK",
       "codename": "bruno",
       "model": "KODAK2KAndroidTV"

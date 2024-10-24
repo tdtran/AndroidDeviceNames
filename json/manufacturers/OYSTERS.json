@@ -12,6 +12,12 @@
       "market_name": "T72HMs 3G",
       "codename": "T72HM3G",
       "model": "T72HMs_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Universal Phone 1",
+      "codename": "Universal_Phone_1",
+      "model": "UBS1"
     }
   ]
 }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MID-1015T",
+      "codename": "MID-1015T",
+      "model": "MID-1015T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID-1016T",
+      "codename": "MID-1016T",
+      "model": "MID-1016T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID736-737",
       "codename": "MID736-737",
       "model": "MID736-737"

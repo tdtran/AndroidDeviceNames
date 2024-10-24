@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DISCOVERY_2_EEA",
+      "codename": "DISCOVERY_2",
+      "model": "DISCOVERY_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DISCOVERY_2_ME_EEA",
+      "codename": "DISCOVERY_2_ME",
+      "model": "DISCOVERY_2_ME"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Discovery",
       "codename": "Discovery",
       "model": "Discovery"
@@ -174,6 +186,18 @@
       "market_name": "US",
       "codename": "martin",
       "model": "SPC Android Monitor"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WUUM S",
+      "codename": "Discovery",
+      "model": "Discovery"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WUUM_S_PRO_EEA",
+      "codename": "DISCOVERY_2",
+      "model": "WUUM S PRO"
     }
   ]
 }

@@ -6,6 +6,12 @@
     "model": "K10"
   },
   {
+    "manufacturer": "COLORROOM",
+    "market_name": "K10",
+    "codename": "K10",
+    "model": "K10"
+  },
+  {
     "manufacturer": "FATARUS",
     "market_name": "K10",
     "codename": "K10",
@@ -31,6 +37,12 @@
   },
   {
     "manufacturer": "Surfans",
+    "market_name": "K10",
+    "codename": "K10",
+    "model": "K10"
+  },
+  {
+    "manufacturer": "okulaku",
     "market_name": "K10",
     "codename": "K10",
     "model": "K10"

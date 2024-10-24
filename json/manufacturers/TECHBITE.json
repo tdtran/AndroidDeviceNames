@@ -12,6 +12,12 @@
       "market_name": "SmartBoard 10 LTE",
       "codename": "SmartBoard_10_LTE",
       "model": "SmartBoard_10_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smartboard_III_12_EEA",
+      "codename": "TT2401x",
+      "model": "Smartboard III 12"
     }
   ]
 }

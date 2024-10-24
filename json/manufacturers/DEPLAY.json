@@ -21,9 +21,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E101GCM",
+      "codename": "E101GCM",
+      "model": "E101GCM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E108GCM",
       "codename": "E108GCM",
       "model": "E108GCM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LITE4_EEA",
+      "codename": "LITE4_EEA",
+      "model": "LITE4_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRO4",
+      "codename": "PRO4",
+      "model": "PRO4"
     }
   ]
 }

@@ -12,6 +12,12 @@
       "market_name": "Fobem 4K SMART TV",
       "codename": "marina",
       "model": "Fobem 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PayTab_PT10",
+      "codename": "PayTab_PT10",
+      "model": "PayTab_PT10"
     }
   ]
 }

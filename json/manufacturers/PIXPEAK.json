@@ -6,6 +6,18 @@
       "market_name": "Tablet",
       "codename": "Tablet",
       "model": "P7-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U921",
+      "codename": "U921",
+      "model": "U921"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U921-EEA",
+      "codename": "U921-EEA",
+      "model": "U921-EEA"
     }
   ]
 }

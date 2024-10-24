@@ -12,6 +12,18 @@
     "model": "H10"
   },
   {
+    "manufacturer": "SENRAISE",
+    "market_name": "H10",
+    "codename": "H10",
+    "model": "H10"
+  },
+  {
+    "manufacturer": "SENRAISE",
+    "market_name": "H10_EEA",
+    "codename": "H10",
+    "model": "H10"
+  },
+  {
     "manufacturer": "Winnovo",
     "market_name": "H10",
     "codename": "H10",

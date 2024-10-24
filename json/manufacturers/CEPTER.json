@@ -1,0 +1,35 @@
+{
+  "manufacturer": "CEPTER",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CEPTER-TAB-10L",
+      "codename": "CEPTER-TAB-10L",
+      "model": "CEPTERTAB10L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CEPTER-TAB-10S",
+      "codename": "CEPTER-TAB-10S",
+      "model": "CEPTERTAB10S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CEPTERTAB101",
+      "codename": "CEPTERTAB101",
+      "model": "CEPTERTAB101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CEPTERTAB1095",
+      "codename": "CEPTERTAB1095",
+      "model": "CEPTERTAB1095"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CEPTERTAB10E",
+      "codename": "CEPTERTAB10E",
+      "model": "CEPTERTAB10E"
+    }
+  ]
+}

@@ -6,6 +6,12 @@
       "market_name": "VegaPro",
       "codename": "VegaPro",
       "model": "VegaPro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Victory",
+      "codename": "Victory",
+      "model": "Victory"
     }
   ]
 }

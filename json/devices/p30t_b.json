@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P30T_EEA",
+    "codename": "P30T_B",
+    "model": "P30T"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P30T_ROW",
+    "codename": "P30T_B",
+    "model": "P30T"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P30T_ROW",
+    "codename": "P30T_B",
+    "model": "P30T_ROW"
+  }
+]

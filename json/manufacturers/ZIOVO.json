@@ -21,9 +21,105 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z118-U-EEA",
+      "codename": "Z118-U-EEA",
+      "model": "Z118-U-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z118-U-EEA",
+      "codename": "Z118-U-EEA",
+      "model": "Z118_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z118-U-US",
+      "codename": "Z118-U-US",
+      "model": "Z118-U-US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z118-U-US",
+      "codename": "Z118-U-US",
+      "model": "Z118_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z118-US",
       "codename": "Z118-US",
       "model": "Z118-US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z128_EEA",
+      "codename": "Z128_EEA",
+      "model": "Z128_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z128_T_EEA",
+      "codename": "Z128_T_EEA",
+      "model": "Z128_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z128_T_EEA",
+      "codename": "Z128_T_EEA",
+      "model": "Z128_T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z128_T_US",
+      "codename": "Z128_T_US",
+      "model": "Z128_T_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z128_T_US",
+      "codename": "Z128_T_US",
+      "model": "Z128_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z128_US",
+      "codename": "Z128_US",
+      "model": "Z128_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z138_EEA",
+      "codename": "Z138_EEA",
+      "model": "Z138_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z138_US",
+      "codename": "Z138_US",
+      "model": "Z138_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z168_EEA",
+      "codename": "Z168_EEA",
+      "model": "Z168_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z168_US",
+      "codename": "Z168_US",
+      "model": "Z168_US"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z168_U_EEA",
+      "codename": "Z168_U_EEA",
+      "model": "Z168_U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z168_U_US",
+      "codename": "Z168_U_US",
+      "model": "Z168_U_US"
     }
   ]
 }

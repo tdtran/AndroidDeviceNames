@@ -279,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 50 Pro+",
+      "codename": "Infinix-X6880",
+      "model": "Infinix X6880"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT 6",
       "codename": "Infinix-X606",
       "model": "Infinix X606"
@@ -582,6 +588,48 @@
       "market_name": "Infinix HOT 40i",
       "codename": "Infinix-X6528B",
       "model": "Infinix X6528B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 50",
+      "codename": "Infinix-X6882",
+      "model": "Infinix X6882"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 50",
+      "codename": "Infinix-X6882B",
+      "model": "Infinix X6882B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 50 5G",
+      "codename": "Infinix-X6720",
+      "model": "Infinix X6720"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 50 5G",
+      "codename": "Infinix-X6720B",
+      "model": "Infinix X6720B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 50 Pro",
+      "codename": "Infinix-X6881",
+      "model": "Infinix X6881"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 50i",
+      "codename": "Infinix-X6531",
+      "model": "Infinix X6531"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 50i",
+      "codename": "Infinix-X6531B",
+      "model": "Infinix X6531B"
     },
     {
       "manufacturer": "",
@@ -1293,6 +1341,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART 9",
+      "codename": "Infinix-X6532",
+      "model": "Infinix X6532"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART HD",
       "codename": "Infinix-X612",
       "model": "Infinix X612"
@@ -1662,6 +1716,12 @@
       "market_name": "ZERO 5G 2023",
       "codename": "Infinix-X6815D",
       "model": "Infinix X6815D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZERO Flip",
+      "codename": "Infinix-X6962",
+      "model": "Infinix X6962"
     },
     {
       "manufacturer": "",

@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Logic Instrument Fieldbook N101G2",
+      "codename": "lifbn101g2",
+      "model": "Logic Instrument Fieldbook N101G2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Logic Instrument Fieldbook N80",
       "codename": "lifbn80",
       "model": "Logic Instrument Fieldbook N80"

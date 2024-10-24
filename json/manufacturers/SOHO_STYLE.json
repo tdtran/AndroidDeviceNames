@@ -66,6 +66,12 @@
       "market_name": "SS5539G",
       "codename": "SS5539G",
       "model": "SS5539G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS650G",
+      "codename": "SS650G",
+      "model": "SS650G"
     }
   ]
 }

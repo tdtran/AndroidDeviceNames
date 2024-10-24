@@ -12,6 +12,12 @@
     "model": "G2"
   },
   {
+    "manufacturer": "Bosii",
+    "market_name": "Touch-Screen-Monitor",
+    "codename": "G2",
+    "model": "G2"
+  },
+  {
     "manufacturer": "EKINOX",
     "market_name": "G2",
     "codename": "G2",
@@ -20,6 +26,12 @@
   {
     "manufacturer": "Geecoo",
     "market_name": "G2",
+    "codename": "G2",
+    "model": "G2"
+  },
+  {
+    "manufacturer": "KEFEYA",
+    "market_name": "Touch-Screen-Monitor",
     "codename": "G2",
     "model": "G2"
   },
@@ -112,6 +124,18 @@
     "market_name": "LGL22",
     "codename": "g2",
     "model": "LGL22"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "G2-EEA",
+    "codename": "G2",
+    "model": "G2"
+  },
+  {
+    "manufacturer": "TEAMGEE",
+    "market_name": "Touch-Screen-Monitor",
+    "codename": "G2",
+    "model": "G2"
   },
   {
     "manufacturer": "X-Age",

@@ -12,6 +12,12 @@
       "market_name": "BW819E_SK",
       "codename": "BW819E_SK_EEA",
       "model": "BW819E_SK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB_TEN",
+      "codename": "TAB_TEN",
+      "model": "GLOBALSEC TAB TEN"
     }
   ]
 }

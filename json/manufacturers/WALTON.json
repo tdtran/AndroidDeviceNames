@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEXG N74",
+      "codename": "NEXG_N74",
+      "model": "NEXG N74"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEXG N8",
       "codename": "NEXG_N8",
       "model": "NEXG N8"
@@ -96,6 +102,12 @@
       "market_name": "ORBIT Y70",
       "codename": "ORBIT_Y70",
       "model": "ORBIT Y70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ORBIT Y70c",
+      "codename": "ORBIT_Y70",
+      "model": "ORBIT Y70c"
     },
     {
       "manufacturer": "",
@@ -807,6 +819,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Walpad10HProMax",
+      "codename": "Walpad10HProMax",
+      "model": "Walpad10HProMax"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Walton Primo X5",
       "codename": "Primo_X5",
       "model": "Walton Primo X5"
@@ -816,6 +834,12 @@
       "market_name": "XANON X20",
       "codename": "XANON_X20",
       "model": "XANON X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XANON_X90",
+      "codename": "XANON_X90",
+      "model": "XANON X90"
     }
   ]
 }

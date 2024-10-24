@@ -3,6 +3,12 @@
     "manufacturer": "iMin",
     "market_name": "Swift 2",
     "codename": "Swift2",
+    "model": "I23M01_EEA"
+  },
+  {
+    "manufacturer": "iMin",
+    "market_name": "Swift 2",
+    "codename": "Swift2",
     "model": "I23M01_GL"
   }
 ]

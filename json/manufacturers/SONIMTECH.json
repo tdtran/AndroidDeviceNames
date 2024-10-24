@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XP Pro 5G",
+      "codename": "X800",
+      "model": "X800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XP10",
       "codename": "XP9900",
       "model": "XP9900"

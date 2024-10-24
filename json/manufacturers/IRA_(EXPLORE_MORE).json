@@ -45,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IRA_T1029",
+      "codename": "IRA_T1029",
+      "model": "IRA_T1029"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IRA_W801",
       "codename": "IRA_W801",
       "model": "IRA_W801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1015",
+      "codename": "T1015",
+      "model": "IRA_T1015"
     },
     {
       "manufacturer": "",

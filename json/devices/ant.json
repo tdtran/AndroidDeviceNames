@@ -16,5 +16,11 @@
     "market_name": "TCL 505",
     "codename": "Ant",
     "model": "T509K"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL 505 S",
+    "codename": "Ant",
+    "model": "T509A"
   }
 ]

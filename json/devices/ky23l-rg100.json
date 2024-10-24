@@ -3,6 +3,18 @@
     "manufacturer": "Kyocera",
     "market_name": "DuraForce EX",
     "codename": "KY23L-RG100",
+    "model": "A301KC"
+  },
+  {
+    "manufacturer": "Kyocera",
+    "market_name": "DuraForce EX",
+    "codename": "KY23L-RG100",
+    "model": "KC-S603"
+  },
+  {
+    "manufacturer": "Kyocera",
+    "market_name": "DuraForce EX",
+    "codename": "KY23L-RG100",
     "model": "KC-S703"
   }
 ]
