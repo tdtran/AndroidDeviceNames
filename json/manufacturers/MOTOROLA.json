@@ -3405,6 +3405,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g05",
+      "codename": "lamul",
+      "model": "lamu_g"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g05",
+      "codename": "lamul",
+      "model": "moto g05"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g10 power",
       "codename": "capri",
       "model": "moto g(10) power"
@@ -3432,6 +3444,18 @@
       "market_name": "moto g14",
       "codename": "cancun",
       "model": "moto g14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g15",
+      "codename": "lamu",
+      "model": "lamu_g"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g15",
+      "codename": "lamu",
+      "model": "moto g15"
     },
     {
       "manufacturer": "",
@@ -4476,6 +4500,18 @@
       "market_name": "motorola razr 50 ultra",
       "codename": "arcfox",
       "model": "motorola razr 50 ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 50d M-51E",
+      "codename": "M-51E",
+      "model": "M-51E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr 50s",
+      "codename": "aito",
+      "model": "motorola razr 50s"
     },
     {
       "manufacturer": "",

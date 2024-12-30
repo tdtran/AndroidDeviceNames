@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ALPHAWOLF",
+    "market_name": "L3",
+    "codename": "L3",
+    "model": "L3"
+  },
+  {
     "manufacturer": "Centric",
     "market_name": "Centric L3",
     "codename": "L3",

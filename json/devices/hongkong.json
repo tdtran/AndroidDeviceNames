@@ -42,10 +42,22 @@
     "model": "4K SMART TV"
   },
   {
+    "manufacturer": "Daewoo",
+    "market_name": "DAEWOO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Dahua",
     "market_name": "DAHUA",
     "codename": "hongkong",
     "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Dahua",
+    "market_name": "DAHUA",
+    "codename": "hongkong",
+    "model": "EcoTV Plus A"
   },
   {
     "manufacturer": "Daiwa",
@@ -90,6 +102,12 @@
     "model": "EcoTV Pro I"
   },
   {
+    "manufacturer": "Graetz",
+    "market_name": "GRAETZ",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "Hyundai",
     "market_name": "HYUNDAI",
     "codename": "hongkong",
@@ -106,6 +124,12 @@
     "market_name": "HYUNDAI",
     "codename": "hongkong",
     "model": "4K SMART ISDB TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "hongkong",
+    "model": "HYUNDAI 4K SMART TV"
   },
   {
     "manufacturer": "Indurama",
@@ -138,6 +162,12 @@
     "model": "4K SMART TV"
   },
   {
+    "manufacturer": "KTC",
+    "market_name": "KTC",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
     "manufacturer": "KTCtv",
     "market_name": "AKAI",
     "codename": "hongkong",
@@ -163,7 +193,19 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "DAMASCO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "DANILUX",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DEC",
     "codename": "hongkong",
     "model": "4K SMART TV"
   },
@@ -218,6 +260,12 @@
   {
     "manufacturer": "KTCtv",
     "market_name": "HARMON-TEC",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "IBG",
     "codename": "hongkong",
     "model": "4K SMART TV"
   },
@@ -307,6 +355,18 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "VIOTTO",
+    "codename": "hongkong",
+    "model": "4K SMART ISDB TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "VIOTTO",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "VOXELECTRONICS",
     "codename": "hongkong",
     "model": "4K SMART TV"
@@ -346,6 +406,12 @@
     "market_name": "Kenwood",
     "codename": "hongkong",
     "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+    "manufacturer": "Kiowa",
+    "market_name": "KIOWA",
+    "codename": "hongkong",
+    "model": "4K SMART TV"
   },
   {
     "manufacturer": "Kolin",

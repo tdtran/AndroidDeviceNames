@@ -28,5 +28,17 @@
     "market_name": "Y100",
     "codename": "V2342",
     "model": "V2412"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y200",
+    "codename": "V2342",
+    "model": "V2424"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "Y200",
+    "codename": "V2342",
+    "model": "V2425"
   }
 ]

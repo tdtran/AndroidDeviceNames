@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L231",
+      "codename": "L231",
+      "model": "L231"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L231-EEA",
       "codename": "L231-EEA",
       "model": "L231-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L251",
+      "codename": "L251",
+      "model": "L251"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L251-EEA",
+      "codename": "L251-EEA",
+      "model": "L251-EEA"
     }
   ]
 }

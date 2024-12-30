@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XP400",
+      "codename": "X400",
+      "model": "X400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XP6",
       "codename": "XP6700",
       "model": "Ex-Handy 209"

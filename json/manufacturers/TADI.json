@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TADI",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TADI_TOUCH_1_SERIES",
+      "codename": "TADI_TOUCH_1",
+      "model": "TADI_TOUCH_1"
+    }
+  ]
+}

@@ -621,6 +621,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Vision Tab 7",
+      "codename": "T307F",
+      "model": "T307F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X400",
       "codename": "X400",
       "model": "X400"

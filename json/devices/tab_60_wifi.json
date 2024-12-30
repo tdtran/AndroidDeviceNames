@@ -4,5 +4,11 @@
     "market_name": "Tab 60 WiFi",
     "codename": "Tab_60_WiFi",
     "model": "Tab 60 WiFi"
+  },
+  {
+    "manufacturer": "Blackview",
+    "market_name": "Tab_60_WiFi_EEA",
+    "codename": "Tab_60_WiFi",
+    "model": "Tab 60 WiFi"
   }
 ]

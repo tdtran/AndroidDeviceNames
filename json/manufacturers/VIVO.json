@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S20 Pro",
+      "codename": "PD2430",
+      "model": "V2430A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T1",
       "codename": "V2154",
       "model": "V2153"
@@ -1629,6 +1635,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V2426A",
+      "codename": "PD2426",
+      "model": "V2426A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V25",
       "codename": "V2202",
       "model": "V2202"
@@ -1974,6 +1986,12 @@
       "market_name": "X200 Pro",
       "codename": "PD2405",
       "model": "V2405A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X200 Pro",
+      "codename": "V2413",
+      "model": "V2413"
     },
     {
       "manufacturer": "",
@@ -2394,6 +2412,18 @@
       "market_name": "Y18t",
       "codename": "V2344",
       "model": "V2408"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y200",
+      "codename": "V2342",
+      "model": "V2424"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y200",
+      "codename": "V2342",
+      "model": "V2425"
     },
     {
       "manufacturer": "",
@@ -2967,6 +2997,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iQOO 13",
+      "codename": "I2401",
+      "model": "I2401"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO 13",
+      "codename": "PD2408",
+      "model": "V2408A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQOO 9 Pro",
       "codename": "2022",
       "model": "I2022"
@@ -2982,6 +3024,12 @@
       "market_name": "iQOO 9T",
       "codename": "I2201",
       "model": "I2201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQOO Neo10",
+      "codename": "PD2425",
+      "model": "V2425A"
     },
     {
       "manufacturer": "",
@@ -3978,6 +4026,12 @@
       "market_name": "vivo Y28",
       "codename": "Y28",
       "model": "vivo Y28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Y29 5G",
+      "codename": "V2420",
+      "model": "V2420"
     },
     {
       "manufacturer": "",

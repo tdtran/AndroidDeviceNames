@@ -1185,6 +1185,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A16",
+      "codename": "a16",
+      "model": "SM-A165F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A16",
+      "codename": "a16",
+      "model": "SM-A165N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A16 5G",
       "codename": "a16x",
       "model": "SM-A1660"
@@ -1218,6 +1230,12 @@
       "market_name": "Galaxy A16 5G",
       "codename": "a16x",
       "model": "SM-A166U1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A16 5G",
+      "codename": "a16x",
+      "model": "SM-A166W"
     },
     {
       "manufacturer": "",
@@ -11332,6 +11350,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S24 FE",
+      "codename": "SCG30",
+      "model": "SCG30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S24 FE",
       "codename": "r12s",
       "model": "SM-S7210"
     },
@@ -16756,6 +16780,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Watch Ultra",
+      "codename": "projectx2bl",
+      "model": "SM-L700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Watch Ultra",
       "codename": "projectx2ul",
       "model": "SM-L7050"
     },
@@ -17889,6 +17919,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Z Fold Special Edition",
+      "codename": "q6aq",
+      "model": "SM-F958N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Z Fold2 5G",
       "codename": "f2q",
       "model": "SM-F9160"
@@ -18480,6 +18516,12 @@
       "market_name": "心系天下 三星 W23 Flip",
       "codename": "e4q",
       "model": "SM-W7023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "心系天下 三星 W25",
+      "codename": "q6aq",
+      "model": "SM-W9025"
     },
     {
       "manufacturer": "",

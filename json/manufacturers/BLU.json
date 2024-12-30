@@ -921,6 +921,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G35",
+      "codename": "G1110",
+      "model": "G35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G40",
       "codename": "G0730WW",
       "model": "G40"

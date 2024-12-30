@@ -30,6 +30,12 @@
     "model": "S20"
   },
   {
+    "manufacturer": "leaderhub",
+    "market_name": "S20",
+    "codename": "S20",
+    "model": "S20C"
+  },
+  {
     "manufacturer": "xTouch",
     "market_name": "S20",
     "codename": "S20",

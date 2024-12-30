@@ -4,5 +4,11 @@
     "market_name": "TCL TAB 11 FE",
     "codename": "Ares_11_WIFI",
     "model": "9465X"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL TAB 11 Gen2",
+    "codename": "Ares_11_WIFI",
+    "model": "9465X"
   }
 ]

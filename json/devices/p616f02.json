@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "ZTE Blade V60",
+    "codename": "P616F02",
+    "model": "Z2356"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "nubia V60",
     "codename": "P616F02",
     "model": "Z2356"

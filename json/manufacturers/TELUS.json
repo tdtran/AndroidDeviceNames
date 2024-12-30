@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TELUSTV-24S",
+      "codename": "SER2024TLU",
+      "model": "TELUSTV-24S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UIW4020TLU",
       "codename": "uiw4020tlu",
       "model": "UIW4020TLU"

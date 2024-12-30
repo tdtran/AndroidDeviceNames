@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEXG N26",
+      "codename": "NEXG_N26",
+      "model": "NEXG N26"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEXG N71",
       "codename": "NEXG_N71",
       "model": "NEXG N71"
@@ -789,6 +795,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WALPAD_9G",
+      "codename": "WALPAD_9G",
+      "model": "WALPAD_9G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WALTON GSMART 2KTV",
       "codename": "umeda",
       "model": "WALTON GSMART 2KTV"
@@ -834,6 +846,12 @@
       "market_name": "XANON X20",
       "codename": "XANON_X20",
       "model": "XANON X20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XANON X21",
+      "codename": "XANON_X21",
+      "model": "XANON X21"
     },
     {
       "manufacturer": "",

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Doogee",
+    "market_name": "T36",
+    "codename": "P7",
+    "model": "T36"
+  },
+  {
     "manufacturer": "Lava",
     "market_name": "P7",
     "codename": "P7",

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Up_Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Mover_Edition",
+      "codename": "Mover_Edition",
+      "model": "Up_Mobile_Mover_Edition"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mover_Edition_EEA",
+      "codename": "Mover_Edition",
+      "model": "Up_Mobile_Mover_Edition"
+    }
+  ]
+}

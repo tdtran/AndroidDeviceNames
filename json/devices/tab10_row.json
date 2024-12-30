@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "HISORL",
+    "market_name": "TAB10_ROW",
+    "codename": "TAB10_ROW",
+    "model": "TAB10_ROW"
+  },
+  {
     "manufacturer": "Relndoo",
     "market_name": "TAB10_ROW",
     "codename": "TAB10_ROW",

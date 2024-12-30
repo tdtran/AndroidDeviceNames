@@ -1203,6 +1203,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HLTE243E",
+      "codename": "HLTE243E",
+      "model": "Hisense U43"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE300E_ 02",
       "codename": "HS8937QC",
       "model": "HLTE300E"
@@ -2532,6 +2538,12 @@
       "market_name": "Hisense U70 Pro",
       "codename": "HLTE109E",
       "model": "Hisense Y81 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U70 Pro",
+      "codename": "HLTE109E_01",
+      "model": "Hisense U53"
     },
     {
       "manufacturer": "",

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CHAINWAY",
+    "market_name": "P100",
+    "codename": "P100",
+    "model": "P100"
+  },
+  {
     "manufacturer": "Cidea",
     "market_name": "P100",
     "codename": "P100",

@@ -183,7 +183,19 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G08_4K_US_NF",
+      "codename": "G08",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G10",
+      "codename": "G10",
+      "model": "Smart TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G10_4K_GB_NF",
       "codename": "G10",
       "model": "Smart TV"
     },
@@ -874,6 +886,12 @@
     {
       "manufacturer": "",
       "market_name": "TCL 50 LE",
+      "codename": "Scarab_Pro_NA_OM",
+      "model": "T510WS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL 50 LE",
       "codename": "Scarab_Pro_VZW",
       "model": "T510SP"
     },
@@ -1342,6 +1360,18 @@
     {
       "manufacturer": "",
       "market_name": "TCL TAB 11 FE",
+      "codename": "Ares_11_WIFI",
+      "model": "9465X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 11 FE LTE",
+      "codename": "Ares_11_4G",
+      "model": "9465G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL TAB 11 Gen2",
       "codename": "Ares_11_WIFI",
       "model": "9465X"
     },

@@ -4,5 +4,11 @@
     "market_name": "Stellar-M6",
     "codename": "L768",
     "model": "Stellar-M6"
+  },
+  {
+    "manufacturer": "Crosscall",
+    "market_name": "Stellar-M6E",
+    "codename": "L768",
+    "model": "Stellar-M6E"
   }
 ]

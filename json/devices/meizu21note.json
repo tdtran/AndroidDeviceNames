@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Meizu",
+    "market_name": "LynkCo Phone Note",
+    "codename": "Meizu21Note",
+    "model": "LynkCo Phone Note"
+  },
+  {
+    "manufacturer": "Meizu",
     "market_name": "MEIZU 21 Note",
     "codename": "Meizu21Note",
     "model": "MEIZU 21 Note"

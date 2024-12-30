@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NGamer",
+      "codename": "cottongreen",
+      "model": "NGamer"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nitro",
       "codename": "Nitro",
       "model": "Nitro"

@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POCO C61",
+      "codename": "blue",
+      "model": "2312BPC51X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POCO C65",
       "codename": "gale",
       "model": "2310FPCA4I"
@@ -54,6 +60,12 @@
       "market_name": "POCO C65",
       "codename": "gust",
       "model": "2310FPCA4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO C75",
+      "codename": "lake",
+      "model": "2410FPCC5G"
     },
     {
       "manufacturer": "",
@@ -228,6 +240,12 @@
       "market_name": "POCO M6 Pro 5G",
       "codename": "sky",
       "model": "23076PC4BI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO M7 Pro 5G",
+      "codename": "beryl",
+      "model": "2409FPCC4I"
     },
     {
       "manufacturer": "",

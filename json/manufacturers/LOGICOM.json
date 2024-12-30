@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AERO",
+      "codename": "AERO_EEA",
+      "model": "AERO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B bot 50",
       "codename": "BBOT50",
       "model": "B BOT 50"
@@ -990,6 +996,18 @@
       "market_name": "S952",
       "codename": "S952",
       "model": "S952"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SENSE",
+      "codename": "SENSE_EEA",
+      "model": "SENSE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART PRO",
+      "codename": "SMART_PRO_EEA",
+      "model": "SMART PRO"
     },
     {
       "manufacturer": "",

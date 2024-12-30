@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iPlay60_mini_Pro",
+      "codename": "iPlay60_mini_Pro",
+      "model": "iPlay60_mini_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iPlay60_mini_Turbo",
       "codename": "U812",
       "model": "iPlay60 mini Turbo"

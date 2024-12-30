@@ -6,6 +6,12 @@
       "market_name": "GTX_JACULUS",
       "codename": "GTX_JACULUS",
       "model": "GTX_JACULUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GTX_JACULUS_01",
+      "codename": "GTX_JACULUS_01",
+      "model": "GTX_JACULUS_01"
     }
   ]
 }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G15",
+      "codename": "G15",
+      "model": "G15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G15_EEA",
+      "codename": "G15",
+      "model": "G15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OC101",
       "codename": "OC101",
       "model": "OC101"

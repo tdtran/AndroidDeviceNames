@@ -1,0 +1,11 @@
+{
+  "manufacturer": "ELEVIA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Elevia E1",
+      "codename": "EL-E110",
+      "model": "EL-E110"
+    }
+  ]
+}

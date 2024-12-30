@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FlowBox-Z3",
+      "codename": "B866V2F_FLOW",
+      "model": "FlowBox-Z3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FlowSoundBox",
       "codename": "m393gena_teco",
       "model": "FlowSoundBox"

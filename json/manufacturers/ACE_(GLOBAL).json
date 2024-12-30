@@ -63,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BUZZ 6 Flip",
+      "codename": "BUZZ_6_Flip",
+      "model": "BUZZ 6 Flip"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BUZZ 6 Prime",
       "codename": "BUZZ_6_Prime",
       "model": "BUZZ 6 Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 6 Prime PLUS",
+      "codename": "BUZZ_6_Prime_PLUS",
+      "model": "BUZZ 6 Prime PLUS"
     },
     {
       "manufacturer": "",

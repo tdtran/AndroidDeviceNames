@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "AWOW",
+    "market_name": "P11_EEA",
+    "codename": "P11_EEA",
+    "model": "P11_EEA"
+  },
+  {
     "manufacturer": "Hyjoy",
     "market_name": "P11_EEA ",
     "codename": "P11_EEA",

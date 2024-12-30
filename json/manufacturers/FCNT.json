@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A401FC",
+      "codename": "A401FC",
+      "model": "A401FC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AW02",
       "codename": "AW02",
       "model": "AW02"
@@ -12,6 +18,18 @@
       "market_name": "F-52B",
       "codename": "F52B",
       "model": "F-52B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-53E",
+      "codename": "F53E",
+      "model": "F-53E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MR01",
+      "codename": "MR01",
+      "model": "MR01"
     },
     {
       "manufacturer": "",
@@ -60,6 +78,12 @@
       "market_name": "arrows We FCG01",
       "codename": "FCG01",
       "model": "FCG01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows We2 A402FC",
+      "codename": "A402FC",
+      "model": "A402FC"
     },
     {
       "manufacturer": "",

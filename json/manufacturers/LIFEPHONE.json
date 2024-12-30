@@ -6,6 +6,12 @@
       "market_name": "HERO",
       "codename": "LIFEPHONE_HERO",
       "model": "HERO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IDOL",
+      "codename": "LIFEPHONE_IDOL",
+      "model": "IDOL"
     }
   ]
 }

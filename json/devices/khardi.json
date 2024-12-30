@@ -1,0 +1,44 @@
+[
+  {
+    "manufacturer": "EcoStar",
+    "market_name": "ECOSTAR",
+    "codename": "khardi",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Element",
+    "market_name": "ELEMENT",
+    "codename": "khardi",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "JVC",
+    "market_name": "JVC",
+    "codename": "khardi",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "DAMASCO",
+    "codename": "khardi",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "LUMIO",
+    "codename": "khardi",
+    "model": "LUMIO VISION"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "RANCON",
+    "codename": "khardi",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "PHILIPS",
+    "codename": "khardi",
+    "model": "4K SMART ISDB TV"
+  }
+]

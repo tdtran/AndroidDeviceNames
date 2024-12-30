@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "Asus",
+    "market_name": "ROG Phone 9",
+    "codename": "ASUSAI2501",
+    "model": "ASUSAI2501A"
+  },
+  {
+    "manufacturer": "Asus",
+    "market_name": "ROG Phone 9",
+    "codename": "ASUSAI2501",
+    "model": "ASUSAI2501B"
+  },
+  {
+    "manufacturer": "Asus",
+    "market_name": "ROG Phone 9 Pro",
+    "codename": "ASUSAI2501",
+    "model": "ASUSAI2501A"
+  },
+  {
+    "manufacturer": "Asus",
+    "market_name": "ROG Phone 9 Pro",
+    "codename": "ASUSAI2501",
+    "model": "ASUSAI2501C"
+  }
+]

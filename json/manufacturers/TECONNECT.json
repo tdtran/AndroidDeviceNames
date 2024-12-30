@@ -1,0 +1,11 @@
+{
+  "manufacturer": "TEConnect",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TEC_Board",
+      "codename": "rk3588_t",
+      "model": "CA-ET"
+    }
+  ]
+}

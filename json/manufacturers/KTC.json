@@ -28,6 +28,12 @@
     {
       "manufacturer": "",
       "market_name": "KTC",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KTC",
       "codename": "mountbaker",
       "model": "2K SMART TV"
     },

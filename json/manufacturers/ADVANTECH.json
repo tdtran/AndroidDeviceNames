@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AIM-75",
+      "codename": "AIM75-LTE",
+      "model": "AIM-75"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AIM75-LTE",
       "codename": "AIM75-LTE",
       "model": "AIM75-LTE"

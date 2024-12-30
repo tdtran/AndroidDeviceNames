@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Blackview",
+    "market_name": "Tab_90_WiFi_EEA",
+    "codename": "Tab_90_WiFi",
+    "model": "Tab 90 WiFi"
+  },
+  {
+    "manufacturer": "Blackview",
     "market_name": "Tab_90_WiFi_NEU",
     "codename": "Tab_90_WiFi",
     "model": "Tab 90 WiFi"

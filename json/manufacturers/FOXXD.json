@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A65U",
+      "codename": "A65U",
+      "model": "A65U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A6_Plus",
       "codename": "A6_Plus",
       "model": "A6 Plus"
@@ -90,6 +96,18 @@
       "market_name": "FOXXD C65",
       "codename": "FOXXD_C65",
       "model": "FOXXD C65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FOXXD HTH C67",
+      "codename": "HTH_C67",
+      "model": "FOXXD HTH C67"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FOXXD HTH S67",
+      "codename": "HTH_S67",
+      "model": "FOXXD HTH S67"
     },
     {
       "manufacturer": "",

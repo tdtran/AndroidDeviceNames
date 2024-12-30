@@ -328,6 +328,12 @@
     {
       "manufacturer": "",
       "market_name": "RCA",
+      "codename": "mountbaker",
+      "model": "RCA SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA",
       "codename": "seocho",
       "model": "RCA 4K Android TV"
     },

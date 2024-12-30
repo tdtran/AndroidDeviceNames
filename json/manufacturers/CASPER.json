@@ -159,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA L50",
+      "codename": "VIA_L50",
+      "model": "VIA L50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA M3",
       "codename": "CASPER_VIA_M3",
       "model": "CASPER_VIA_M3"
@@ -186,6 +192,12 @@
       "market_name": "VIA P3",
       "codename": "VIA_P3",
       "model": "VIA_P3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA S50",
+      "codename": "VIA_S50",
+      "model": "VIA S50"
     },
     {
       "manufacturer": "",

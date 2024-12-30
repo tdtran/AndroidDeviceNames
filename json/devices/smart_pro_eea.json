@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Logicom",
+    "market_name": "SMART PRO",
+    "codename": "SMART_PRO_EEA",
+    "model": "SMART PRO"
+  },
+  {
     "manufacturer": "SPC",
     "market_name": "SMART_PRO",
     "codename": "SMART_PRO_EEA",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C58_ARG",
+      "codename": "C58_ARG",
+      "model": "C58"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P40",
       "codename": "P40",
       "model": "P40"

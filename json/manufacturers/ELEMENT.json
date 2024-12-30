@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELEMENT",
+      "codename": "khardi",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Element",
       "codename": "bruno",
       "model": "Element2KAndroidTV"

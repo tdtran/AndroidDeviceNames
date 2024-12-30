@@ -1,0 +1,11 @@
+{
+  "manufacturer": "NEWORK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Interactive Smart Display",
+      "codename": "NewBoard",
+      "model": "NB_XXE1D_AM_W"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FP2901",
+      "codename": "FP2901",
+      "model": "FP2901"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tablet_FP",
       "codename": "FP290101",
       "model": "FP290101"

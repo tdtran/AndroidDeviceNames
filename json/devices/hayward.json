@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Alpha",
+    "market_name": "ALPHA 2K",
+    "codename": "hayward",
+    "model": "ALPHA 2K"
+  },
+  {
     "manufacturer": "Motorola",
     "market_name": "MotorolaTV",
     "codename": "hayward",

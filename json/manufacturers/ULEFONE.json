@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 22",
+      "codename": "GQ3115TF5",
+      "model": "Armor 22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 23 Ultra",
       "codename": "Armor_23_Ultra",
       "model": "Armor 23 Ultra"
@@ -105,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 27",
+      "codename": "GQ5008TF2",
+      "model": "Armor 27"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 27 Pro",
       "codename": "GQ5008AF3",
       "model": "Armor 27 Pro"
@@ -114,6 +126,12 @@
       "market_name": "Armor 27 Pro",
       "codename": "GQ5010AH1",
       "model": "Armor Mini 20T Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor 27T",
+      "codename": "GQ5008TF1",
+      "model": "Armor 27T"
     },
     {
       "manufacturer": "",
@@ -168,6 +186,12 @@
       "market_name": "Armor 9E",
       "codename": "Armor_9E",
       "model": "Armor 9E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor Mini 20",
+      "codename": "GQ5010TH1",
+      "model": "Armor Mini 20"
     },
     {
       "manufacturer": "",
@@ -261,9 +285,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor X13",
+      "codename": "GQ3117SH2_MTN",
+      "model": "Armor X13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor X2",
       "codename": "Armor_X2",
       "model": "Armor_X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X31 Pro",
+      "codename": "GQ5015AH1",
+      "model": "Armor X31 Pro"
     },
     {
       "manufacturer": "",
@@ -573,9 +609,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 18 Pro",
+      "codename": "GQ5009TH1",
+      "model": "Note 18 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Note 18 Ultra",
       "codename": "Note_18_Ultra",
       "model": "Note 18 Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 19",
+      "codename": "GQ3290BH1",
+      "model": "Note 19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 19Pro",
+      "codename": "GQ3291SH1",
+      "model": "Note 21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 20Pro",
+      "codename": "GQ3289SH1",
+      "model": "Note 20 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note 21",
+      "codename": "GQ3291SH1",
+      "model": "Note 21"
     },
     {
       "manufacturer": "",

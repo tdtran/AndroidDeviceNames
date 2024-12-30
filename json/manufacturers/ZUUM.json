@@ -345,6 +345,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STELLAR_M6",
+      "codename": "STELLAR_M6",
+      "model": "STELLAR M6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STELLAR_P8",
       "codename": "STELLAR_P8",
       "model": "STELLAR P8"

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C108",
+      "codename": "C108",
+      "model": "C108"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C108_EEA",
+      "codename": "C108",
+      "model": "C108"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TP1003",
       "codename": "TP1003",
       "model": "TP1003"

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M8100",
+      "codename": "M8100",
+      "model": "M8100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8100_EEA",
+      "codename": "M8100",
+      "model": "M8100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M9200",
       "codename": "M9200",
       "model": "M9200"

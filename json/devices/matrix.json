@@ -6,6 +6,12 @@
     "model": "Matrix"
   },
   {
+    "manufacturer": "Stylo",
+    "market_name": "MATRIX",
+    "codename": "MATRIX",
+    "model": "MATRIX"
+  },
+  {
     "manufacturer": "Xiaomi",
     "market_name": "MiTV4C",
     "codename": "matrix",

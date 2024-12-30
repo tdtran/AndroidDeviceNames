@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor H2s",
+      "codename": "Armor_H2s",
+      "model": "Armor H2s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor I1 Slim",
       "codename": "Armor_I1_Slim",
       "model": "Armor I1 Slim"
@@ -39,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor P1w",
+      "codename": "Armor_P1w",
+      "model": "Armor P1w"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor V1s",
       "codename": "Armor_V1s",
       "model": "Armor V1s"
@@ -48,6 +60,18 @@
       "market_name": "Armor_C1w_RU",
       "codename": "Armor_C1w",
       "model": "Armor_C1w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_H1w",
+      "codename": "Armor_H1w",
+      "model": "Armor_H1w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_I2w",
+      "codename": "Armor_I2w",
+      "model": "Armor I2w"
     },
     {
       "manufacturer": "",
@@ -87,9 +111,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H15",
+      "codename": "H15",
+      "model": "H15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H16",
+      "codename": "H16",
+      "model": "H16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H21",
       "codename": "H21",
       "model": "H21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H24",
+      "codename": "H24",
+      "model": "H24"
     },
     {
       "manufacturer": "",

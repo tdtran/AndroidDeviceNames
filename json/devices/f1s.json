@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Doogee",
+    "market_name": "Fire 6 Power",
+    "codename": "F1S",
+    "model": "Fire 6 Power"
+  },
+  {
+    "manufacturer": "Doogee",
     "market_name": "Fire_6_Power",
     "codename": "F1S",
     "model": "F10 Pro"

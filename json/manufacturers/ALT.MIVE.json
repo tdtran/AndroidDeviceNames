@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kids Phone 2",
+      "codename": "odin2",
+      "model": "AT-M150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Style Folder",
       "codename": "thor",
       "model": "AT-M120"

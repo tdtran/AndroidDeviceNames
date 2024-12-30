@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Pad_50_Kids_EEA",
+    "codename": "Pad_50_Kids",
+    "model": "Pad 50 Kids"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Pad_50_Kids_NEU",
+    "codename": "Pad_50_Kids",
+    "model": "Pad 50 Kids"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Pad_50_Kids_RU",
+    "codename": "Pad_50_Kids",
+    "model": "Pad 50 Kids"
+  }
+]

@@ -1197,9 +1197,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "UMIDIGI G9C",
+      "codename": "G9C",
+      "model": "UMIDIGI G9C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UMIDIGI G9T",
       "codename": "G9T",
       "model": "UMIDIGI G9T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMIDIGI Note 100A",
+      "codename": "Note_100A",
+      "model": "UMIDIGI Note 100A"
     },
     {
       "manufacturer": "",

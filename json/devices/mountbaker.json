@@ -66,6 +66,12 @@
     "model": "2K SMART TV"
   },
   {
+    "manufacturer": "Dahua",
+    "market_name": "DAHUA",
+    "codename": "mountbaker",
+    "model": "EcoTV FHD"
+  },
+  {
     "manufacturer": "Daiwa",
     "market_name": "DAIWA",
     "codename": "mountbaker",
@@ -82,6 +88,12 @@
     "market_name": "EKO",
     "codename": "mountbaker",
     "model": "EKO 2K Android TV"
+  },
+  {
+    "manufacturer": "EcoStar",
+    "market_name": "ECOSTAR",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
   },
   {
     "manufacturer": "Electroman",
@@ -130,6 +142,12 @@
     "market_name": "HYUNDAI",
     "codename": "mountbaker",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "mountbaker",
+    "model": "HYUNDAI 2K SMART TV"
   },
   {
     "manufacturer": "Indurama",
@@ -259,6 +277,12 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "MULTISMART",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "NAKAMICHI",
     "codename": "mountbaker",
     "model": "NAKAMICHI GOOGLE TV"
@@ -348,6 +372,12 @@
     "model": "2K SMART TV"
   },
   {
+    "manufacturer": "KTCtv",
+    "market_name": "ZITRO",
+    "codename": "mountbaker",
+    "model": "2K SMART TV"
+  },
+  {
     "manufacturer": "Kenwood",
     "market_name": "KENWOOD",
     "codename": "mountbaker",
@@ -388,6 +418,12 @@
     "market_name": "MAG",
     "codename": "mountbaker",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "MASTERTECH",
+    "market_name": "MASTERTECH",
+    "codename": "mountbaker",
+    "model": "MASTERTECH GOOGLE TV"
   },
   {
     "manufacturer": "Mango",
@@ -454,6 +490,12 @@
     "market_name": "RCA",
     "codename": "mountbaker",
     "model": "2K SMART TV"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA",
+    "codename": "mountbaker",
+    "model": "RCA SMART TV"
   },
   {
     "manufacturer": "Rangs",

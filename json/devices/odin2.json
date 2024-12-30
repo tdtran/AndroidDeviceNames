@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ALT.mive",
+    "market_name": "Kids Phone 2",
+    "codename": "odin2",
+    "model": "AT-M150"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "TAB 10s 2022",
     "codename": "Odin2",

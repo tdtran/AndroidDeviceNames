@@ -4,5 +4,11 @@
     "market_name": "Grandstream WP856",
     "codename": "WP856",
     "model": "WP856"
+  },
+  {
+    "manufacturer": "Grandstream",
+    "market_name": "WP856",
+    "codename": "WP856",
+    "model": "WP856"
   }
 ]

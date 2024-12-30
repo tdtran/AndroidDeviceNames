@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Avtek",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TS_8_1_Mate_G",
+      "codename": "MTK9679",
+      "model": "TS_8_1_Mate_G"
+    }
+  ]
+}

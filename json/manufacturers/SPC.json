@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L80W",
+      "codename": "L80W",
+      "model": "L80W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIGHTYEAR-2",
       "codename": "LIGHTYEAR-2",
       "model": "LIGHTYEAR 2"

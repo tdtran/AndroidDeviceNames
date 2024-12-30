@@ -129,6 +129,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI A75 Elegance",
+      "codename": "INOI_A75_Elegance",
+      "model": "A750"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI Flip",
+      "codename": "INOI_Flip",
+      "model": "A880"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI Note 12",
       "codename": "A180",
       "model": "A180"

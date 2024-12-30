@@ -12,6 +12,12 @@
       "market_name": "TLPAD001",
       "codename": "TLPAD001",
       "model": "TLPAD001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TLPAD002",
+      "codename": "TLPAD002",
+      "model": "TLPAD002"
     }
   ]
 }

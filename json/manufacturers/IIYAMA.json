@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TEXX13A",
+      "codename": "TEXX13A",
+      "model": "TEXX13A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEXX14MIS-B2AG",
       "codename": "rk3588_t",
       "model": "TEXX14MIS-B2AG"

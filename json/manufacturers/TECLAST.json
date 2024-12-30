@@ -195,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M50-ROW",
+      "codename": "M50-ROW",
+      "model": "M50-ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50HD_EEA",
       "codename": "M50HD_EEA",
       "model": "M50HD"
@@ -246,6 +252,18 @@
       "market_name": "M50Mini_ROW",
       "codename": "M50Mini_ROW",
       "model": "M50Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50Plus_EEA",
+      "codename": "M50Plus_EEA",
+      "model": "M50Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50Plus_ROW",
+      "codename": "M50Plus_ROW",
+      "model": "M50Plus"
     },
     {
       "manufacturer": "",
@@ -580,6 +598,12 @@
     {
       "manufacturer": "",
       "market_name": "P30T_EEA",
+      "codename": "P30T_B",
+      "model": "P30T_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30T_EEA",
       "codename": "P30T_EEA",
       "model": "P30T"
     },
@@ -628,6 +652,12 @@
     {
       "manufacturer": "",
       "market_name": "P30_EEA",
+      "codename": "P30_B",
+      "model": "P30_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30_EEA",
       "codename": "P30_EEA",
       "model": "P30"
     },
@@ -646,8 +676,20 @@
     {
       "manufacturer": "",
       "market_name": "P30_ROW",
+      "codename": "P30",
+      "model": "P30_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30_ROW",
       "codename": "P30_B",
       "model": "P30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P30_ROW",
+      "codename": "P30_B",
+      "model": "P30_ROW"
     },
     {
       "manufacturer": "",
@@ -717,9 +759,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P50Ai_EEA",
+      "codename": "P50Ai",
+      "model": "P50Ai_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50Ai_ROW",
+      "codename": "P50Ai",
+      "model": "P50Ai_ROW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50Case",
+      "codename": "P50Case",
+      "model": "N868"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P50Case",
       "codename": "P50Case",
       "model": "P50Case"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50Case_EEA",
+      "codename": "P50Case",
+      "model": "P50Case"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P50Case_EEA",
+      "codename": "P50Case",
+      "model": "P50Case_EEA"
     },
     {
       "manufacturer": "",
@@ -1320,6 +1392,18 @@
       "market_name": "T60-ROW",
       "codename": "T60-ROW",
       "model": "T60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T60Ai_EEA",
+      "codename": "T60Ai",
+      "model": "T60Ai_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T60Ai_ROW",
+      "codename": "T60Ai",
+      "model": "T60Ai_ROW"
     },
     {
       "manufacturer": "",

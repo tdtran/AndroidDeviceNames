@@ -4,5 +4,11 @@
     "market_name": "Google TV",
     "codename": "kannai",
     "model": "2K JP Google TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "HKC TV",
+    "codename": "kannai",
+    "model": "2K JP Google TV"
   }
 ]

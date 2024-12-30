@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "DS-D5C",
-      "codename": "DS_D5C65RB_A",
-      "model": "DS_D5C65RB_A"
-    },
-    {
-      "manufacturer": "",
       "market_name": "DS-MDT202",
       "codename": "DS-MDT202",
       "model": "DS-MDT202"
@@ -18,6 +12,12 @@
       "market_name": "DS-MDT301",
       "codename": "DS-MDT301",
       "model": "DS-MDT301"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DS_D5C75RB_A",
+      "codename": "DS_D5C65RB_A",
+      "model": "DS_D5C65RB_A"
     }
   ]
 }

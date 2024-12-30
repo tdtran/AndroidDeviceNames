@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A30",
+      "codename": "A30",
+      "model": "A30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A40",
+      "codename": "A40",
+      "model": "A40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E101",
+      "codename": "E101",
+      "model": "E101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartPad_E220",
       "codename": "SmartPad_E220",
       "model": "SmartPad_E220"

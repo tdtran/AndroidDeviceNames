@@ -112,6 +112,18 @@
     {
       "manufacturer": "",
       "market_name": "DAMASCO",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAMASCO",
+      "codename": "khardi",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAMASCO",
       "codename": "lavender",
       "model": "4K SMART TV"
     },
@@ -138,6 +150,12 @@
       "market_name": "DANILUX",
       "codename": "mountbaker",
       "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEC",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -292,6 +310,12 @@
     {
       "manufacturer": "",
       "market_name": "IBG",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IBG",
       "codename": "lavender",
       "model": "4K SMART TV"
     },
@@ -405,6 +429,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LUMIO",
+      "codename": "khardi",
+      "model": "LUMIO VISION"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Leading Smart TV",
       "codename": "minami",
       "model": "EcoTV J"
@@ -414,6 +444,24 @@
       "market_name": "LikeMe",
       "codename": "zhongshan",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MITSUKI",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MULTISMART",
+      "codename": "lavender",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MULTISMART",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",
@@ -528,6 +576,12 @@
       "market_name": "QRIOM",
       "codename": "mountbaker",
       "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RANCON",
+      "codename": "khardi",
+      "model": "4K SMART TV"
     },
     {
       "manufacturer": "",
@@ -670,6 +724,18 @@
     {
       "manufacturer": "",
       "market_name": "VIOTTO",
+      "codename": "hongkong",
+      "model": "4K SMART ISDB TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIOTTO",
+      "codename": "hongkong",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIOTTO",
       "codename": "lavender",
       "model": "4K SMART ISDB TV"
     },
@@ -768,6 +834,12 @@
       "market_name": "YARA",
       "codename": "hongkong",
       "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZITRO",
+      "codename": "mountbaker",
+      "model": "2K SMART TV"
     },
     {
       "manufacturer": "",

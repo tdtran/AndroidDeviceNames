@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Kyocera",
+    "market_name": "DIGNO BX3",
+    "codename": "KY24L-ST100",
+    "model": "A401KC"
+  },
+  {
+    "manufacturer": "Kyocera",
+    "market_name": "DIGNO BX3 Plus",
+    "codename": "KY24L-ST100",
+    "model": "A403KC"
+  },
+  {
+    "manufacturer": "Kyocera",
+    "market_name": "DIGNO BX3 カメラレス",
+    "codename": "KY24L-ST100",
+    "model": "A402KC"
+  }
+]

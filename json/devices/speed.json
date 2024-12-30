@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "CongoTelecom",
+    "market_name": "Speed",
+    "codename": "Speed",
+    "model": "Speed"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "N9130",
     "codename": "speed",

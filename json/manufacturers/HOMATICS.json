@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Global",
+      "codename": "YQX",
+      "model": "Dongle G 4K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kickpi",
       "codename": "YYZ",
       "model": "KP1"

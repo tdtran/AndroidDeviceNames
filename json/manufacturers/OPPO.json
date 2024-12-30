@@ -531,6 +531,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A5 Pro 5G",
+      "codename": "OP5DF3",
+      "model": "PKP110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A51",
       "codename": "A51",
       "model": "A51"
@@ -1935,6 +1941,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Find X8",
+      "codename": "OP5A3DL1",
+      "model": "PKB110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X8",
+      "codename": "OP5AA5L1",
+      "model": "CPH2651"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X8 Pro",
+      "codename": "OP5A41L1",
+      "model": "PKC110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X8 Pro",
+      "codename": "OP5AB0L1",
+      "model": "CPH2659"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Find X8 Pro 卫星通信版",
+      "codename": "OP5A41L1",
+      "model": "PKC130"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Find5",
       "codename": "FIND5",
       "model": "X909"
@@ -2139,6 +2175,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OPPO A60 5G/ A3 5G",
+      "codename": "OP5EA7L1",
+      "model": "CPH2683"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OPPO A74 5G",
       "codename": "OP4F39L1",
       "model": "CPH2197"
@@ -2190,6 +2232,12 @@
       "market_name": "OPPO Pad 2",
       "codename": "OP59BBL1",
       "model": "OPD2202"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OPPO Pad 3 Pro",
+      "codename": "OP5D76L1",
+      "model": "OPD2401"
     },
     {
       "manufacturer": "",
@@ -3552,6 +3600,36 @@
       "market_name": "Reno12 Pro 5G",
       "codename": "OP5AE1L1",
       "model": "CPH2629"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno13",
+      "codename": "OP5DD7L1",
+      "model": "PKM110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno13 5G",
+      "codename": "OP5E9EL1",
+      "model": "CPH2689"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno13 F",
+      "codename": "OP5ECBL1",
+      "model": "CPH2701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno13 Pro",
+      "codename": "OP5DD5L1",
+      "model": "PKK110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Reno13 Pro 5G",
+      "codename": "OP5EC5L1",
+      "model": "CPH2697"
     },
     {
       "manufacturer": "",

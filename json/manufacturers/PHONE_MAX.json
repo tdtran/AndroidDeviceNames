@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P20 Pro",
+      "codename": "P20_Pro",
+      "model": "P20 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R4 GT",
       "codename": "R4_GT",
       "model": "R4 GT"

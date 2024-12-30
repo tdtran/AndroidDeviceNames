@@ -30,6 +30,12 @@
       "market_name": "IT_701A_EEA",
       "codename": "IT_701A_EEA",
       "model": "IT_701A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IT_801B",
+      "codename": "IT_801B",
+      "model": "IT_801B"
     }
   ]
 }

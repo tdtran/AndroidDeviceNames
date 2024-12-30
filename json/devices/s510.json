@@ -4,5 +4,11 @@
     "market_name": "Slim",
     "codename": "S510",
     "model": "Positivo Slim"
+  },
+  {
+    "manufacturer": "WEROCK",
+    "market_name": "WEROCK Rocktab S510",
+    "codename": "S510",
+    "model": "Rocktab S510"
   }
 ]

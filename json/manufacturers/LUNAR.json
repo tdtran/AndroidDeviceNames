@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LUNAR",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Lunar Eclipse L1",
+      "codename": "Lunar_Eclipse_L1",
+      "model": "Eclipse L1"
+    }
+  ]
+}

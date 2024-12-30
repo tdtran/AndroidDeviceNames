@@ -28,5 +28,11 @@
     "market_name": "motorola razr 50",
     "codename": "aito",
     "model": "motorola razr 50"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "motorola razr 50s",
+    "codename": "aito",
+    "model": "motorola razr 50s"
   }
 ]

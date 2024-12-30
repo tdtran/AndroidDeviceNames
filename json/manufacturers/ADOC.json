@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ADOC  D18",
+      "codename": "ADOC_D18",
+      "model": "ADOC D18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ADOC EX650",
       "codename": "rk3588_t",
       "model": "ADOCEX650"

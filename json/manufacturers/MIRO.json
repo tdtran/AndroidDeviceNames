@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "A1",
+      "model": "MIRO A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Miro A67",
       "codename": "Miro_A67",
       "model": "Miro A67"

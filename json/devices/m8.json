@@ -30,6 +30,12 @@
     "model": "M8"
   },
   {
+    "manufacturer": "Telpo",
+    "market_name": "M8",
+    "codename": "M8",
+    "model": "M8 for arm64"
+  },
+  {
     "manufacturer": "Winnovo",
     "market_name": "M8_EEA",
     "codename": "M8",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PIC10GS13",
+      "codename": "PIC10GS13",
+      "model": "PIC10GS13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PIC10GS8",
       "codename": "PIC10GS8",
       "model": "PIC10GS8"
@@ -18,6 +24,12 @@
       "market_name": "PIC7GS10-A",
       "codename": "PIC7GS10-A",
       "model": "PIC7GS10-A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PIC7GS13",
+      "codename": "PIC7GS13",
+      "model": "PIC7GS13"
     },
     {
       "manufacturer": "",

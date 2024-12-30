@@ -207,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OnePlus 13",
+      "codename": "OP5D0DL1",
+      "model": "PJZ110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OnePlus 6",
       "codename": "OnePlus6",
       "model": "ONEPLUS A6000"
@@ -540,6 +546,18 @@
       "market_name": "OnePlus Ace 3V",
       "codename": "OP5CFBL1",
       "model": "PJF110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Ace 5",
+      "codename": "OP5D2BL1",
+      "model": "PKG110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus Ace 5 Pro",
+      "codename": "OP60EBL1",
+      "model": "PKR110"
     },
     {
       "manufacturer": "",

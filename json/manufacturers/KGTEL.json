@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hello 10 Pro 4G",
+      "codename": "Hello_10_Pro_4G",
+      "model": "Hello 10 Pro 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R10",
       "codename": "R10A",
       "model": "R10"

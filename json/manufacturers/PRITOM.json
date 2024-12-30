@@ -369,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10_B06",
+      "codename": "M10_B06",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10_C01",
       "codename": "M10_C01",
       "model": "M10_C01"
@@ -443,6 +449,12 @@
       "manufacturer": "",
       "market_name": "M10_C06_Kids",
       "codename": "M10_C06_Kids",
+      "model": "M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10_C06_Kids_EEA",
+      "codename": "M10_C06_Kids_EEA",
       "model": "M10"
     },
     {

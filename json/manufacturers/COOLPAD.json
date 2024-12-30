@@ -855,6 +855,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CP32t",
+      "codename": "CP32t",
+      "model": "CP32t"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CP3503L",
       "codename": "CP3503L",
       "model": "CP3503L"
@@ -1104,6 +1110,12 @@
       "market_name": "Coolpad C1-U02",
       "codename": "C103",
       "model": "C1-U02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Coolpad C16",
+      "codename": "K11",
+      "model": "K11"
     },
     {
       "manufacturer": "",
@@ -1359,6 +1371,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MOBODO MOBO K1",
+      "codename": "MOBOK1",
+      "model": "MOBOK1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mtag 353",
       "codename": "msm7627a_ea92_mts",
       "model": "Mtag 353"
@@ -1437,6 +1455,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X20",
+      "codename": "X20",
+      "model": "X20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y72-921",
       "codename": "Y72-921",
       "model": "Coolpad Y72-921"
@@ -1512,6 +1536,12 @@
       "market_name": "coolpad 5651",
       "codename": "CP12p",
       "model": "CP12p"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "coolpad C16 s",
+      "codename": "K12",
+      "model": "K12"
     },
     {
       "manufacturer": "",

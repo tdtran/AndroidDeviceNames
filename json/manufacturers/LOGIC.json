@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LOGIC",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HX_Series",
+      "codename": "MTK9679",
+      "model": "Logic_LT_IRXXHX"
+    }
+  ]
+}

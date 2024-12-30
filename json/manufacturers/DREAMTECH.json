@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DTECH10",
+      "codename": "DTECH10",
+      "model": "DTECH10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STARPAD",
       "codename": "STARPAD",
       "model": "STARPAD"

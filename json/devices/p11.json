@@ -6,6 +6,24 @@
     "model": "P11-11"
   },
   {
+    "manufacturer": "Acer",
+    "market_name": "P11",
+    "codename": "P11",
+    "model": "P11-11_EEA"
+  },
+  {
+    "manufacturer": "Acer",
+    "market_name": "P11",
+    "codename": "P11",
+    "model": "P11-11_EEA_CUS1"
+  },
+  {
+    "manufacturer": "Acer",
+    "market_name": "P11",
+    "codename": "P11",
+    "model": "P11-11_PAPAP_CUS1"
+  },
+  {
     "manufacturer": "DEXP",
     "market_name": "P11",
     "codename": "P11",
@@ -56,6 +74,12 @@
   {
     "manufacturer": "SVITOO",
     "market_name": "P11",
+    "codename": "P11",
+    "model": "P11"
+  },
+  {
+    "manufacturer": "SVITOO",
+    "market_name": "P11_pro",
     "codename": "P11",
     "model": "P11"
   },

@@ -16,5 +16,11 @@
     "market_name": "HB35",
     "codename": "himalaya",
     "model": "HB35"
+  },
+  {
+    "manufacturer": "GOODEE",
+    "market_name": "GD500Plus",
+    "codename": "himalaya",
+    "model": "GD500Plus"
   }
 ]

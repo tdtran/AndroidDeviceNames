@@ -75,9 +75,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neon Ultra 2",
+      "codename": "Neon_Ultra_2",
+      "model": "Neon Ultra 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neon_Smarta_2",
       "codename": "Neon_Smarta_2",
       "model": "Neon Smarta 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neon_Smarta_2",
+      "codename": "Neon_Smarta_2",
+      "model": "Neon Smarta 2 H"
     },
     {
       "manufacturer": "",

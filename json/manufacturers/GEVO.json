@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Gevo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "V10",
+      "codename": "Gevo_V10",
+      "model": "V10"
+    }
+  ]
+}

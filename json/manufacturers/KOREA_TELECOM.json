@@ -48,6 +48,12 @@
       "market_name": "MAR4510C",
       "codename": "MAR4510C",
       "model": "MAR4510C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAU4800D",
+      "codename": "mau4800d",
+      "model": "MAU4800D"
     }
   ]
 }

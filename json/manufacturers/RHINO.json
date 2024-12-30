@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RHINO T105",
+      "codename": "stratos",
+      "model": "T105"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RHINO T5se",
       "codename": "atom",
       "model": "T5se"

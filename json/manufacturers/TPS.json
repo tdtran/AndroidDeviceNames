@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KF7",
+      "codename": "KF7",
+      "model": "KF7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MTC 982o",
       "codename": "MTC_982O",
       "model": "MTC_982O"

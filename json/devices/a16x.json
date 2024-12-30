@@ -39,6 +39,12 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy A16 5G",
     "codename": "a16x",
+    "model": "SM-A166W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A16 5G",
+    "codename": "a16x",
     "model": "SM-S166V"
   }
 ]

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S30-Pro",
+      "codename": "S30-Pro",
+      "model": "S30-Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "pad6_EEA",
       "codename": "pad6_EEA",
       "model": "pad6_EEA"

@@ -220,6 +220,12 @@
     {
       "manufacturer": "",
       "market_name": "JVC",
+      "codename": "khardi",
+      "model": "4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JVC",
       "codename": "komagome",
       "model": "EU 2K Android TV"
     },

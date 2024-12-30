@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Mobilebase DS50",
+      "codename": "DS50",
+      "model": "DS50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mobilebase DS6",
       "codename": "ds6",
       "model": "DS6"

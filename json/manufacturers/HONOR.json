@@ -213,6 +213,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR Magic7 Lite",
+      "codename": "HNBRP-Q1",
+      "model": "BRP-NX1M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR Magic7 Lite",
+      "codename": "HNBRP-Q1",
+      "model": "BRP-NX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HONOR MagicPad2",
       "codename": "HNROD2-Q",
       "model": "ROD2-W09"
@@ -609,6 +621,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR X9c",
+      "codename": "HNBRP-Q1",
+      "model": "BRP-NX1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Honor 200 Lite",
       "codename": "HNLLY-M1",
       "model": "LLY-NX1"
@@ -624,6 +642,12 @@
       "market_name": "Honor X9b 5G",
       "codename": "HNALI-Q",
       "model": "ALI-NX3P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor X9c Smart",
+      "codename": "HNBRC-M1",
+      "model": "BRC-NX1"
     },
     {
       "manufacturer": "",
@@ -678,6 +702,18 @@
       "market_name": "荣耀平板GT PRO",
       "codename": "HNROD2-Q",
       "model": "ROD2-W69"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "荣耀平板V9",
+      "codename": "HNROL-M",
+      "model": "ROL-W00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "荣耀平板V9",
+      "codename": "HNROL-M",
+      "model": "ROL-W10"
     }
   ]
 }

@@ -507,6 +507,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB_70",
+      "codename": "TAB_70",
+      "model": "TAB_70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X19",
       "codename": "X19",
       "model": "X19"

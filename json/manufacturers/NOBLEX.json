@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TN11A6128",
+      "codename": "TN11A6128",
+      "model": "TN11A6128"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X7500",
       "codename": "songshan",
       "model": "SmartTV 4K"

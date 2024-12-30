@@ -31,6 +31,12 @@
   },
   {
     "manufacturer": "TCL",
+    "market_name": "G10_4K_GB_NF",
+    "codename": "G10",
+    "model": "Smart TV"
+  },
+  {
+    "manufacturer": "TCL",
     "market_name": "G10_4K_US",
     "codename": "G10",
     "model": "Smart TV Pro"

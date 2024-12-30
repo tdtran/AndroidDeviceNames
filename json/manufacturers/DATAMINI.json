@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T115G",
+      "codename": "T115G",
+      "model": "T115G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T74G",
       "codename": "T74G",
       "model": "T74G"
@@ -53,6 +59,12 @@
       "manufacturer": "",
       "market_name": "T84G",
       "codename": "T84G_T310",
+      "model": "T84G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T84G_T310A14",
+      "codename": "T84G_T310A14",
       "model": "T84G"
     },
     {

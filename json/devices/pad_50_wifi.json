@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Pad_50_WiFi_EEA",
+    "codename": "Pad_50_WiFi",
+    "model": "Pad 50 WiFi"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Pad_50_WiFi_NEU",
+    "codename": "Pad_50_WiFi",
+    "model": "Pad 50 WiFi"
+  },
+  {
+    "manufacturer": "OSCAL",
+    "market_name": "Pad_50_WiFi_RU",
+    "codename": "Pad_50_WiFi",
+    "model": "Pad 50 WiFi"
+  }
+]

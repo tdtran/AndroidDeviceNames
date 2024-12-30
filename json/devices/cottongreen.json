@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Beko",
+    "market_name": "Beko UHD pro TV",
+    "codename": "cottongreen",
+    "model": "Beko UHD pro TV"
+  },
+  {
     "manufacturer": "CAIXUN",
     "market_name": "Amstrong",
     "codename": "cottongreen",
@@ -22,6 +28,12 @@
     "market_name": "Kogan G7",
     "codename": "cottongreen",
     "model": "Kogan G7"
+  },
+  {
+    "manufacturer": "Sansui",
+    "market_name": "NGamer",
+    "codename": "cottongreen",
+    "model": "NGamer"
   },
   {
     "manufacturer": "Smart-Tech TV",

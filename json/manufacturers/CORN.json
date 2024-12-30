@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Coco10_Ultra_4G",
+      "codename": "Coco10_Ultra_4G",
+      "model": "Coco10_Ultra_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G60",
       "codename": "G60",
       "model": "G60"

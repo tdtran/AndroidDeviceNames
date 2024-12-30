@@ -7,8 +7,20 @@
   },
   {
     "manufacturer": "Teclast",
+    "market_name": "P30_EEA",
+    "codename": "P30_B",
+    "model": "P30_EEA"
+  },
+  {
+    "manufacturer": "Teclast",
     "market_name": "P30_ROW",
     "codename": "P30_B",
     "model": "P30"
+  },
+  {
+    "manufacturer": "Teclast",
+    "market_name": "P30_ROW",
+    "codename": "P30_B",
+    "model": "P30_ROW"
   }
 ]

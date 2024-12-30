@@ -141,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T11 Pro",
+      "codename": "T11_Pro",
+      "model": "T11 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VLE5",
       "codename": "VLE5",
       "model": "VLE5"

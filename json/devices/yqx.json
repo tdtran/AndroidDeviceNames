@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Homatics",
+    "market_name": "Global",
+    "codename": "YQX",
+    "model": "Dongle G 4K"
+  },
+  {
     "manufacturer": "Walton",
     "market_name": "G 4K TV Dongle",
     "codename": "YQX",

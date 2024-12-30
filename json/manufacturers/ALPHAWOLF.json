@@ -1,0 +1,17 @@
+{
+  "manufacturer": "ALPHAWOLF",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "L2",
+      "codename": "L2",
+      "model": "L2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L3",
+      "codename": "L3",
+      "model": "L3"
+    }
+  ]
+}

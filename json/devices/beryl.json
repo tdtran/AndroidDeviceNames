@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "POCO",
+    "market_name": "POCO M7 Pro 5G",
+    "codename": "beryl",
+    "model": "2409FPCC4I"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 14 5G",
+    "codename": "beryl",
+    "model": "24094RAD4C"
+  },
+  {
+    "manufacturer": "Redmi",
+    "market_name": "Redmi Note 14 5G",
+    "codename": "beryl",
+    "model": "24094RAD4I"
+  }
+]

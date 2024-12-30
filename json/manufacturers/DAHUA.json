@@ -10,8 +10,20 @@
     {
       "manufacturer": "",
       "market_name": "DAHUA",
+      "codename": "hongkong",
+      "model": "EcoTV Plus A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
       "codename": "mountbaker",
       "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DAHUA",
+      "codename": "mountbaker",
+      "model": "EcoTV FHD"
     },
     {
       "manufacturer": "",

@@ -36,6 +36,12 @@
       "market_name": "F880",
       "codename": "F880",
       "model": "F880"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M95",
+      "codename": "M95",
+      "model": "M95"
     }
   ]
 }

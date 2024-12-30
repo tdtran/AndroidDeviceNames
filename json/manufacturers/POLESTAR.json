@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "Polestar",
+      "codename": "jalapeno",
+      "model": "PS4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Polestar",
       "codename": "moose",
       "model": "Polestar"
     },

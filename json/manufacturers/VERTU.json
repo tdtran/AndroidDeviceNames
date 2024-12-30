@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "METAVERTU 2",
+      "codename": "VTL-202301",
+      "model": "VTL-202301"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Signature Touch",
       "codename": "odin",
       "model": "Signature Touch"

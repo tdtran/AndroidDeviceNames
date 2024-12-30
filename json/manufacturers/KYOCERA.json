@@ -123,6 +123,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGNO BX3",
+      "codename": "KY24L-ST100",
+      "model": "A401KC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO BX3 Plus",
+      "codename": "KY24L-ST100",
+      "model": "A403KC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGNO BX3 カメラレス",
+      "codename": "KY24L-ST100",
+      "model": "A402KC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGNO Dual",
       "codename": "WX04K",
       "model": "WX04K"

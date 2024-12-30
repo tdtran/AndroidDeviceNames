@@ -1,0 +1,11 @@
+{
+  "manufacturer": "EVOTA",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "EVOTA_EP",
+      "codename": "MTK9679",
+      "model": "EVOTA_EP"
+    }
+  ]
+}

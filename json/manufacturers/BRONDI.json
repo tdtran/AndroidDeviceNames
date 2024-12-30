@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AMICO_VERO_4G_EEA",
+      "codename": "AMICO_VERO_4G",
+      "model": "AMICO_VERO_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MIDNIGHT_SKY_EEA",
       "codename": "MIDNIGHT_SKY_EEA",
       "model": "MIDNIGHT_SKY"

@@ -117,9 +117,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A10M1",
+      "codename": "acer_A10M1",
+      "model": "A10-21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10M1",
+      "codename": "acer_A10M1",
+      "model": "A10-21_CUS1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10M1",
+      "codename": "acer_A10M1",
+      "model": "A10-21_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A110",
       "codename": "a110",
       "model": "A110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11M1",
+      "codename": "acer_A11M1",
+      "model": "A11-11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11M1",
+      "codename": "acer_A11M1",
+      "model": "A11-11_EEA"
     },
     {
       "manufacturer": "",
@@ -156,6 +186,18 @@
       "market_name": "A3-A40",
       "codename": "acer_jetfirefhd",
       "model": "A3-A40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A8M1",
+      "codename": "acer_A8M1",
+      "model": "A8-11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A8M1",
+      "codename": "acer_A8M1",
+      "model": "A8-11_EEA"
     },
     {
       "manufacturer": "",
@@ -348,6 +390,12 @@
       "market_name": "Acer",
       "codename": "waiawa",
       "model": "DIX51R4KU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Acer Acerpure",
+      "codename": "Acerone_Liquid",
+      "model": "Acerone Liquid S272E4"
     },
     {
       "manufacturer": "",
@@ -597,6 +645,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Battlezone",
+      "codename": "Battlezone",
+      "model": "M10-11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Battlezone LTE",
       "codename": "Battlezone_LTE",
       "model": "M10-12"
@@ -768,6 +822,12 @@
       "market_name": "E380",
       "codename": "acer_e3n",
       "model": "E380"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Frontier",
+      "codename": "Frontier",
+      "model": "P10-11"
     },
     {
       "manufacturer": "",
@@ -1365,9 +1425,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10M2",
+      "codename": "acer_P10M2",
+      "model": "P10-21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P11",
       "codename": "P11",
       "model": "P11-11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11-11_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11-11_EEA_CUS1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11-11_PAPAP_CUS1"
     },
     {
       "manufacturer": "",
@@ -1437,9 +1521,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tattoo",
+      "codename": "Tattoo",
+      "model": "A10-11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ultimo",
       "codename": "Ultimo",
       "model": "EUT310A-11A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V10M2",
+      "codename": "acer_V10M2",
+      "model": "V10-21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V11M1",
+      "codename": "acer_V11M1",
+      "model": "V11-11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V11M1",
+      "codename": "acer_V11M1",
+      "model": "V11-11_EEA"
     },
     {
       "manufacturer": "",
@@ -1452,6 +1560,12 @@
       "market_name": "Walle",
       "codename": "Walle",
       "model": "ET-108-11AR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X12M1",
+      "codename": "acer_X12M1",
+      "model": "X12-11"
     },
     {
       "manufacturer": "",

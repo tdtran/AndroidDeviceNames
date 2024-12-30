@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "ALPHAWOLF",
+    "market_name": "L2",
+    "codename": "L2",
+    "model": "L2"
+  },
+  {
     "manufacturer": "LeBest",
     "market_name": "LeBest L2",
     "codename": "L2",

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Celero5G SC",
+      "codename": "SN339D",
+      "model": "SN339D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EVOLVE",
       "codename": "dish_cable_bcm",
       "model": "SH960C-DS"
@@ -66,12 +72,6 @@
       "market_name": "SL201D",
       "codename": "SL201D",
       "model": "SL201D"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SN339D",
-      "codename": "SN339D",
-      "model": "SN339D"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "OB-A98",
+      "codename": "OB-A98",
+      "model": "OB-A98"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OB-P10",
+      "codename": "OB-P10",
+      "model": "OB-P10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TANK MINI 1",
       "codename": "TANK_MINI_1",
       "model": "TANK MINI 1"

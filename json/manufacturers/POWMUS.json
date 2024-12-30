@@ -6,6 +6,12 @@
       "market_name": "L211-EEA",
       "codename": "L211-EEA",
       "model": "L211-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L30",
+      "codename": "L30",
+      "model": "L30"
     }
   ]
 }

@@ -195,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Active 10 Pro",
+      "codename": "Active_10_Pro",
+      "model": "Active 10 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Active 6",
       "codename": "Active6",
       "model": "Active 6"
@@ -471,6 +477,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV6200 Plus",
+      "codename": "BV6200_Plus",
+      "model": "BV6200 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV6200 Pro",
       "codename": "BV6200Pro",
       "model": "BV6200 Pro"
@@ -594,6 +606,12 @@
       "market_name": "BV8100",
       "codename": "BV8100",
       "model": "BV8100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV8200",
+      "codename": "BV8200",
+      "model": "BV8200"
     },
     {
       "manufacturer": "",
@@ -837,6 +855,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MEGA 2",
+      "codename": "MEGA_2",
+      "model": "MEGA 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N6000",
       "codename": "N6000",
       "model": "N6000"
@@ -870,6 +894,12 @@
       "market_name": "P6000",
       "codename": "P6000",
       "model": "P6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P6000Plus",
+      "codename": "P6000Plus",
+      "model": "P6000Plus"
     },
     {
       "manufacturer": "",
@@ -1431,6 +1461,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab_30_Kids_EEA",
+      "codename": "Tab_30_Kids",
+      "model": "Tab 30 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_30_Kids_NEU",
+      "codename": "Tab_30_Kids",
+      "model": "Tab 30 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_30_WiFi_EEA",
+      "codename": "Tab_30_WIFI",
+      "model": "Tab 30 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_30_WiFi_NEU",
+      "codename": "Tab_30_WIFI",
+      "model": "Tab 30 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_30_WiFi_RU",
+      "codename": "Tab_30_WIFI",
+      "model": "Tab 30 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_60_WiFi_EEA",
+      "codename": "Tab_60_WiFi",
+      "model": "Tab 60 WiFi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab_7_EEA",
       "codename": "Tab_7_EEA",
       "model": "Tab 7"
@@ -1455,6 +1521,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tab_90_WiFi_EEA",
+      "codename": "Tab_90_WiFi",
+      "model": "Tab 90 WiFi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab_90_WiFi_NEU",
       "codename": "Tab_90_WiFi",
       "model": "Tab 90 WiFi"
@@ -1464,6 +1536,12 @@
       "market_name": "WAVE 6C",
       "codename": "WAVE6C",
       "model": "WAVE 6C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WAVE 8",
+      "codename": "WAVE_8",
+      "model": "WAVE 8"
     },
     {
       "manufacturer": "",

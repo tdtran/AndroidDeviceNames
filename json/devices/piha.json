@@ -4,5 +4,11 @@
     "market_name": "Google TV",
     "codename": "piha",
     "model": "4K JP ACAS Google TV"
+  },
+  {
+    "manufacturer": "HKC Elec",
+    "market_name": "Google TV",
+    "codename": "piha",
+    "model": "4K JP BCAS Google TV"
   }
 ]

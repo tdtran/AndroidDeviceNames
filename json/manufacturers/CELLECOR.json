@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S3pro",
+      "codename": "S3pro",
+      "model": "S3pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S4",
       "codename": "S4",
       "model": "S4"

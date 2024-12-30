@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LynkCo Phone Note",
+      "codename": "Meizu21Note",
+      "model": "LynkCo Phone Note"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M15",
       "codename": "M15",
       "model": "M15"

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AGM_H_MAX",
+      "codename": "AGM_H_MAX",
+      "model": "AGM_H_MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AGM_Note_N1",
       "codename": "AGM_Note_N1",
       "model": "AGM_Note_N1"
@@ -84,6 +90,12 @@
       "market_name": "AGM_PAD_T1_WIFI",
       "codename": "AGM_PAD_T1_WIFI",
       "model": "AGM_PAD_T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM_PAD_T2",
+      "codename": "AGM_PAD_T2",
+      "model": "AGM_PAD_T2"
     },
     {
       "manufacturer": "",

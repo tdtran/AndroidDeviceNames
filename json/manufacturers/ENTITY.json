@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ENTITY_G10",
+      "codename": "ENTITY_G102IN1HARDKB",
+      "model": "ENTITY_G102IN1HARDKB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G10XM",
       "codename": "G10XM",
       "model": "G10XM"

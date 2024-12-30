@@ -225,12 +225,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "N10 Plus",
-      "codename": "S6704LA",
-      "model": "S6704L"
-    },
-    {
-      "manufacturer": "",
       "market_name": "N12",
       "codename": "S6008LA",
       "model": "S6008L"
@@ -240,6 +234,18 @@
       "market_name": "N13",
       "codename": "S6514LA",
       "model": "S6514L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N20",
+      "codename": "S6603LA",
+      "model": "S6603L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N30",
+      "codename": "S6704LA",
+      "model": "S6704L"
     },
     {
       "manufacturer": "",

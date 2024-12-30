@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB10_ROW",
+      "codename": "TAB10_ROW",
+      "model": "TAB10_ROW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB_10",
       "codename": "TAB_10",
       "model": "TAB_10"

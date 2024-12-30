@@ -18,6 +18,12 @@
       "market_name": "STB-6252C",
       "codename": "STB6252C",
       "model": "STB-6252C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VSB-3918",
+      "codename": "vsb3918_apac",
+      "model": "VSB-3918"
     }
   ]
 }

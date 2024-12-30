@@ -78,6 +78,12 @@
     "model": "4K SMART ISDB TV"
   },
   {
+    "manufacturer": "Hyundai",
+    "market_name": "HYUNDAI",
+    "codename": "lavender",
+    "model": "HYUNDAI 4K SMART TV"
+  },
+  {
     "manufacturer": "Indurama",
     "market_name": "Indurama",
     "codename": "lavender",
@@ -187,6 +193,18 @@
   },
   {
     "manufacturer": "KTCtv",
+    "market_name": "MITSUKI",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
+    "market_name": "MULTISMART",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "KTCtv",
     "market_name": "NAKAMICHI",
     "codename": "lavender",
     "model": "NAKAMICHI GOOGLE TV 4K"
@@ -278,6 +296,18 @@
   {
     "manufacturer": "MAG",
     "market_name": "MAG",
+    "codename": "lavender",
+    "model": "4K SMART TV"
+  },
+  {
+    "manufacturer": "MASTERTECH",
+    "market_name": "MASTERTECH",
+    "codename": "lavender",
+    "model": "MASTERTECH GOOGLE TV"
+  },
+  {
+    "manufacturer": "Master-G",
+    "market_name": "MASTER-G",
     "codename": "lavender",
     "model": "4K SMART TV"
   },

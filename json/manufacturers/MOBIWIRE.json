@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CHAT",
+      "codename": "CHAT",
+      "model": "CHAT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Celtiis Smart 1",
       "codename": "H5032U",
       "model": "Smart 1"
@@ -94,6 +100,12 @@
     {
       "manufacturer": "",
       "market_name": "H5111L",
+      "codename": "Giyafa",
+      "model": "Giyafa"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H5111L",
       "codename": "H5111L",
       "model": "H5111L"
     },
@@ -102,6 +114,12 @@
       "market_name": "H5111L",
       "codename": "H5111L",
       "model": "IKOSORA+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H5111L",
+      "codename": "H5111L_Mascom",
+      "model": "H5111L_Mascom"
     },
     {
       "manufacturer": "",
@@ -384,6 +402,12 @@
       "market_name": "Smart P24",
       "codename": "Smart_P24",
       "model": "Smart_P24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart V25",
+      "codename": "Smart_V25",
+      "model": "Smart V25"
     },
     {
       "manufacturer": "",

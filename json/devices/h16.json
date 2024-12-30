@@ -4,5 +4,11 @@
     "market_name": "Unit Assy AVN",
     "codename": "h16",
     "model": "SiRFSoC Android"
+  },
+  {
+    "manufacturer": "KENSHI",
+    "market_name": "H16",
+    "codename": "H16",
+    "model": "H16"
   }
 ]

@@ -345,6 +345,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S23 Pro Max 256GB",
+      "codename": "S23_Pro_Max_256GB",
+      "model": "S23 Pro Max 256GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S53",
       "codename": "S53",
       "model": "S53"

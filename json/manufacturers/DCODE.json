@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DS-CL4",
+      "codename": "DS_CL4",
+      "model": "DS-CL4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DS-X1",
       "codename": "DS-X1",
       "model": "DS-X1"

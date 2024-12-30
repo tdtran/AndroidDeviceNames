@@ -1,0 +1,11 @@
+{
+  "manufacturer": "CongoTelecom",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Speed",
+      "codename": "Speed",
+      "model": "Speed"
+    }
+  ]
+}

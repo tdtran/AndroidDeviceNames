@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q524",
+      "codename": "Q524",
+      "model": "Q524"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q624",
       "codename": "Q624",
       "model": "Q624"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q624H",
+      "codename": "Q624H",
+      "model": "Q624H"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "WEROCK",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "RockscanA260",
+      "codename": "RockscanA260",
+      "model": "A260"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RockscanA265",
+      "codename": "RockscanA265",
+      "model": "A265"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WEROCK Rocktab S508",
+      "codename": "S508",
+      "model": "Rocktab S508"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WEROCK Rocktab S510",
+      "codename": "S510",
+      "model": "Rocktab S510"
+    }
+  ]
+}

@@ -1636,6 +1636,12 @@
     {
       "manufacturer": "",
       "market_name": "Xiaomi 14T",
+      "codename": "XIG07",
+      "model": "XIG07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 14T",
       "codename": "degas",
       "model": "2406APNFAG"
     },
@@ -1644,6 +1650,18 @@
       "market_name": "Xiaomi 14T Pro",
       "codename": "rothko",
       "model": "2407FPN8EG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 15",
+      "codename": "dada",
+      "model": "24129PN74C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi 15 Pro",
+      "codename": "haotian",
+      "model": "2410DPN6CC"
     },
     {
       "manufacturer": "",
@@ -1764,6 +1782,18 @@
       "market_name": "Xiaomi Pad 6S Pro 12.4",
       "codename": "sheng",
       "model": "24018RPACG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 7",
+      "codename": "uke",
+      "model": "2410CRP4CC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xiaomi Pad 7 Pro",
+      "codename": "muyu",
+      "model": "24091RPADC"
     },
     {
       "manufacturer": "",

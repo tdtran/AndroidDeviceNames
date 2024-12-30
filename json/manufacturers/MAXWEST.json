@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ASTRO 6T",
+      "codename": "MX-A6T",
+      "model": "MX-A6T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ASTRO A64",
       "codename": "MX-A64",
       "model": "MX-A64"
@@ -222,6 +228,18 @@
       "market_name": "GRAVITY G6",
       "codename": "GRAVITY_G6",
       "model": "MX-GG6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_G64",
+      "codename": "MX-GG128WW",
+      "model": "GRAVITY G64"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY_G64",
+      "codename": "MX-GG64WW",
+      "model": "GRAVITY G64"
     },
     {
       "manufacturer": "",

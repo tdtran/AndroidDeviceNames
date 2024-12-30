@@ -45,6 +45,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MP1T",
+      "codename": "MP1T",
+      "model": "MP1T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MP1TE",
+      "codename": "MP1TE",
+      "model": "MP1TE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MPC10T",
       "codename": "MPC10T",
       "model": "MPC10T"
@@ -54,6 +66,30 @@
       "market_name": "MPC80T",
       "codename": "MPC80T",
       "model": "MPC80T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT1E",
+      "codename": "MT1E",
+      "model": "MT1E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT1MAX",
+      "codename": "MT1MAX",
+      "model": "MT1MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT1MAXE",
+      "codename": "MT1MAXE",
+      "model": "MT1MAXE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MT1N",
+      "codename": "MT1N",
+      "model": "MT1N"
     }
   ]
 }

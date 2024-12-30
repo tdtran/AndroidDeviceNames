@@ -567,6 +567,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Prime_H201_LTE_EEA",
+      "codename": "Prime_H201_LTE",
+      "model": "Prime_H201_LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1 Viper E",
       "codename": "V1_Viper_E",
       "model": "V1_Viper_E"

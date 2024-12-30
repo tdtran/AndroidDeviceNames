@@ -24,6 +24,12 @@
       "market_name": "M1K",
       "codename": "M1K",
       "model": "M1K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M8",
+      "codename": "M8",
+      "model": "M8 for arm64"
     }
   ]
 }

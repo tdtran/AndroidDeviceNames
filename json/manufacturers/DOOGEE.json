@@ -93,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fire 6 Power",
+      "codename": "F1S",
+      "model": "Fire 6 Power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fire_6",
+      "codename": "F1SE",
+      "model": "Fire 6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fire_6_Power",
       "codename": "F1S",
       "model": "F10 Pro"
@@ -237,6 +249,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N55S",
+      "codename": "1928S",
+      "model": "N55S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N56",
       "codename": "1928E",
       "model": "N56"
@@ -321,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S punk Pro",
+      "codename": "M22CT",
+      "model": "S Punk Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S100",
       "codename": "M22",
       "model": "S100"
@@ -357,6 +381,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S119",
+      "codename": "F2PS",
+      "model": "S119"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S120",
       "codename": "M22C",
       "model": "S punk"
@@ -366,6 +396,12 @@
       "market_name": "S200",
       "codename": "M24P",
       "model": "S200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S200 X",
+      "codename": "M24PT",
+      "model": "S200 X"
     },
     {
       "manufacturer": "",
@@ -867,6 +903,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T36",
+      "codename": "P7",
+      "model": "T36"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T40",
       "codename": "P3_Plus",
       "model": "T40"
@@ -912,6 +954,12 @@
       "market_name": "U10KID",
       "codename": "RK1KID",
       "model": "U10Kid"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U11",
+      "codename": "T2",
+      "model": "U11"
     },
     {
       "manufacturer": "",
@@ -1049,6 +1097,12 @@
       "manufacturer": "",
       "market_name": "V40",
       "codename": "ZN138N",
+      "model": "V40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V40",
+      "codename": "ZN138PE",
       "model": "V40"
     },
     {

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IWB",
+      "codename": "rk3588_t",
+      "model": "siwxxf1x"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LUCMOS",
       "codename": "hongkong",
       "model": "4K SMART TV"

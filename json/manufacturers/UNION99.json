@@ -1,0 +1,17 @@
+{
+  "manufacturer": "UNION99",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "UNION99_ZL833",
+      "codename": "UNION99_ZL833",
+      "model": "ZL833"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZLQ9",
+      "codename": "ZLQ9",
+      "model": "ZLQ9"
+    }
+  ]
+}

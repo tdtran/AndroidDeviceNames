@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Blus_Sea_S25_Plus",
+      "codename": "Blus_Sea_S25_Plus",
+      "model": "Blus_Sea_S25_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D68S",
       "codename": "D68S",
       "model": "D68S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Universe_S24_Plus",
+      "codename": "Universe_S24_Plus",
+      "model": "Universe_S24_Plus"
     }
   ]
 }

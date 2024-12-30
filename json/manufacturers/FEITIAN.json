@@ -12,6 +12,12 @@
       "market_name": "F100_EEA",
       "codename": "F100",
       "model": "F100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F310 P",
+      "codename": "F310P",
+      "model": "F310P"
     }
   ]
 }

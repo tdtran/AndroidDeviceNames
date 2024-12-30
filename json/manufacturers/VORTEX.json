@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CB68",
+      "codename": "CB68",
+      "model": "CB68"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CG65_Pro",
       "codename": "CG65_Pro",
       "model": "CG65 Pro"
@@ -102,6 +108,12 @@
       "market_name": "HD67",
       "codename": "HD67",
       "model": "HD67"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J24",
+      "codename": "J24",
+      "model": "J24"
     },
     {
       "manufacturer": "",

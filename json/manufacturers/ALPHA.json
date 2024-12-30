@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALPHA 2K",
+      "codename": "hayward",
+      "model": "ALPHA 2K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALPHA 4K",
       "codename": "lushan",
       "model": "ALPHA 4K"

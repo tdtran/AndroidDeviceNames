@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RT-402",
+      "codename": "RT_402",
+      "model": "SYCO RT_402"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SYCO RS-404",
+      "codename": "GQ3112SH3",
+      "model": "SYCO RS-404"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SYCO_RS-441",
       "codename": "SYCO_RS-441",
       "model": "SYCO RS-441"

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "GUIDE_SAMJUNG",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GSJ",
+      "codename": "rk3588_i",
+      "model": "GSJ"
+    }
+  ]
+}

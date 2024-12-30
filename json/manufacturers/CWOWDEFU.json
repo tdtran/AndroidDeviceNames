@@ -294,6 +294,12 @@
       "market_name": "S18 EEA",
       "codename": "S18",
       "model": "S18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S28",
+      "codename": "S28",
+      "model": "S28"
     }
   ]
 }

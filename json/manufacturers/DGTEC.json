@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DG101SVCB",
+      "codename": "DG101SVCB",
+      "model": "DG101SVCB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DG101TBIPS",
       "codename": "DG101TBIPS",
       "model": "DG101TBIPS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DG101TBLS",
+      "codename": "DG101TBLS",
+      "model": "DG101TBLS"
     },
     {
       "manufacturer": "",

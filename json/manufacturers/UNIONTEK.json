@@ -1,0 +1,17 @@
+{
+  "manufacturer": "UnionTek",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S65",
+      "codename": "S65",
+      "model": "S65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S65L",
+      "codename": "S65L",
+      "model": "S65L"
+    }
+  ]
+}

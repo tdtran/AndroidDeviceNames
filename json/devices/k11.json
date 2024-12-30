@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Coolpad",
+    "market_name": "Coolpad C16",
+    "codename": "K11",
+    "model": "K11"
+  },
+  {
     "manufacturer": "DEXP",
     "market_name": "K11",
     "codename": "K11",

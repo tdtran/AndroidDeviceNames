@@ -1,0 +1,11 @@
+{
+  "manufacturer": "JAV Smartboard",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Flagship model",
+      "codename": "rk3588_t",
+      "model": "LEDxxH16S"
+    }
+  ]
+}

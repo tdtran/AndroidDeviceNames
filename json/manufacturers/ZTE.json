@@ -1377,6 +1377,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A404ZT",
+      "codename": "Z8900S",
+      "model": "A404ZT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A880",
       "codename": "ZTE-A880",
       "model": "ZTE A880"
@@ -4659,6 +4665,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NP03J",
+      "codename": "PQ83P01",
+      "model": "NP03J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NX402",
       "codename": "NX40X",
       "model": "NX402"
@@ -5622,6 +5634,12 @@
       "market_name": "RED MAGIC 5G",
       "codename": "NX659J",
       "model": "NX659J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REDMAGIC 10 Pro",
+      "codename": "NX789J",
+      "model": "NX789J"
     },
     {
       "manufacturer": "",
@@ -9711,6 +9729,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade V60",
+      "codename": "P616F02",
+      "model": "Z2356"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade V60 Design",
       "codename": "P606F10",
       "model": "Z2350"
@@ -9726,6 +9750,12 @@
       "market_name": "ZTE Blade V70 Design",
       "codename": "P606F17",
       "model": "Z2458"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V70 Max",
+      "codename": "P606F19",
+      "model": "Z2467"
     },
     {
       "manufacturer": "",
@@ -9822,6 +9852,12 @@
       "market_name": "ZTE Fanfare 3",
       "codename": "kelly",
       "model": "Z852"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Focus",
+      "codename": "P616F03",
+      "model": "Z2455"
     },
     {
       "manufacturer": "",
@@ -10137,9 +10173,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nubia Focus 2 5G",
+      "codename": "P720F11",
+      "model": "Z2462N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Focus 5G",
+      "codename": "P720F09",
+      "model": "Focus 5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Focus 5G",
+      "codename": "P720F09",
+      "model": "Z2357N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nubia Music",
       "codename": "P963F11",
       "model": "Z2353"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Music 2",
+      "codename": "P606F18",
+      "model": "Z2460"
     },
     {
       "manufacturer": "",
@@ -10158,6 +10218,12 @@
       "market_name": "nubia Pad 3D",
       "codename": "LumePad",
       "model": "LPD-20W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Pad 3D II",
+      "codename": "K68",
+      "model": "NP02J"
     },
     {
       "manufacturer": "",
@@ -10224,6 +10290,12 @@
       "market_name": "nubia Z60S Pro",
       "codename": "PQ82A04",
       "model": "NX725J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nubia Z70 Ultra",
+      "codename": "PQ84A01",
+      "model": "NX733J"
     },
     {
       "manufacturer": "",

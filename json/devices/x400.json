@@ -16,5 +16,11 @@
     "market_name": "X400",
     "codename": "X400",
     "model": "X400"
+  },
+  {
+    "manufacturer": "Sonimtech",
+    "market_name": "XP400",
+    "codename": "X400",
+    "model": "X400"
   }
 ]

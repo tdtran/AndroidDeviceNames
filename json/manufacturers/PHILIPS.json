@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OmniTab 1",
+      "codename": "T8010",
+      "model": "T8010"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PHILIPS",
       "codename": "TLE722G",
       "model": "TLE722G"
@@ -144,6 +150,12 @@
       "market_name": "PHILIPS",
       "codename": "hongkong",
       "model": "4K SMART TV PH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHILIPS",
+      "codename": "khardi",
+      "model": "4K SMART ISDB TV"
     },
     {
       "manufacturer": "",
@@ -594,6 +606,12 @@
       "market_name": "S6122",
       "codename": "S6122",
       "model": "S6122"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6133S",
+      "codename": "S6133S",
+      "model": "S6133S"
     },
     {
       "manufacturer": "",

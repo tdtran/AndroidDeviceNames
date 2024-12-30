@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E65",
+      "codename": "E65",
+      "model": "E65"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E6A",
       "codename": "E6A",
       "model": "E6A"

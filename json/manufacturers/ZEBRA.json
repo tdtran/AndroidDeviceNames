@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EM45",
+      "codename": "EM45",
+      "model": "EM45"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ET40",
       "codename": "ET40L",
       "model": "ET40"
@@ -171,6 +177,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KC50 Android™ Kiosk computers",
+      "codename": "KC50L",
+      "model": "KC50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KC50 Android™ Kiosk computers",
+      "codename": "KC50S",
+      "model": "KC50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MC18",
       "codename": "MC18",
       "model": "MC18N0"
@@ -207,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MC3400",
+      "codename": "MC3400",
+      "model": "MC3400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MC36",
       "codename": "cardhu",
       "model": "MC36"
@@ -240,6 +264,12 @@
       "market_name": "PS20(Personal Shopper)",
       "codename": "PS20JP",
       "model": "PS20J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PS30J",
+      "codename": "PS30Jx",
+      "model": "PS30J"
     },
     {
       "manufacturer": "",

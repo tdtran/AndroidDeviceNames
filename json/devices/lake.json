@@ -6,6 +6,12 @@
     "model": "XT1965-6"
   },
   {
+    "manufacturer": "POCO",
+    "market_name": "POCO C75",
+    "codename": "lake",
+    "model": "2410FPCC5G"
+  },
+  {
     "manufacturer": "Redmi",
     "market_name": "Redmi 14C",
     "codename": "lake",

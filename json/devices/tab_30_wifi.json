@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Blackview",
+    "market_name": "Tab_30_WiFi_EEA",
+    "codename": "Tab_30_WIFI",
+    "model": "Tab 30 WiFi"
+  },
+  {
+    "manufacturer": "Blackview",
+    "market_name": "Tab_30_WiFi_NEU",
+    "codename": "Tab_30_WIFI",
+    "model": "Tab 30 WiFi"
+  },
+  {
+    "manufacturer": "Blackview",
+    "market_name": "Tab_30_WiFi_RU",
+    "codename": "Tab_30_WIFI",
+    "model": "Tab 30 WiFi"
+  }
+]

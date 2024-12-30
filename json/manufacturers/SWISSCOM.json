@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IP2000",
+      "codename": "IP2000",
+      "model": "IP2000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TV-Box5",
       "codename": "IP2300",
       "model": "IP2300"

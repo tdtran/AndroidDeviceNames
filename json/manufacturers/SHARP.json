@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2T-C**GF1/GF2",
+      "codename": "shonandai",
+      "model": "AQUOS-2KTVJ24-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "2T-C12AF",
       "codename": "taurus_2tcxxaf",
       "model": "2T-C12AF"
@@ -825,6 +831,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R9 pro",
+      "codename": "Mikazuki",
+      "model": "SH-M30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R9 pro",
+      "codename": "SH-54E",
+      "model": "SH-54E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -1284,6 +1302,42 @@
       "market_name": "AQUOS sense8",
       "codename": "XIJ",
       "model": "SHG11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense9",
+      "codename": "Naze",
+      "model": "A405SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense9",
+      "codename": "Naze",
+      "model": "SH-M29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense9",
+      "codename": "RCL",
+      "model": "RCL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense9",
+      "codename": "RCL",
+      "model": "SHG14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense9",
+      "codename": "SH-53E",
+      "model": "SD0C4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense9",
+      "codename": "SH-53E",
+      "model": "SH-53E"
     },
     {
       "manufacturer": "",

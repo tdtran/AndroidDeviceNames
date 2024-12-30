@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X50US",
+      "codename": "X50US",
+      "model": "X50US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X_50",
       "codename": "X_50",
       "model": "X_50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_50_EEA",
+      "codename": "X_50_EEA",
+      "model": "X_50_EEA"
     }
   ]
 }

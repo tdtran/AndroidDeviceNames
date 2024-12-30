@@ -508,6 +508,12 @@
     {
       "manufacturer": "",
       "market_name": "HYUNDAI",
+      "codename": "hongkong",
+      "model": "HYUNDAI 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
       "codename": "lavender",
       "model": "4K SMART COL TV"
     },
@@ -520,8 +526,20 @@
     {
       "manufacturer": "",
       "market_name": "HYUNDAI",
+      "codename": "lavender",
+      "model": "HYUNDAI 4K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
       "codename": "mountbaker",
       "model": "2K SMART TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYUNDAI",
+      "codename": "mountbaker",
+      "model": "HYUNDAI 2K SMART TV"
     },
     {
       "manufacturer": "",

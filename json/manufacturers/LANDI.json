@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C20Pro",
+      "codename": "AN-LFC",
+      "model": "C20Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20ProSE",
+      "codename": "AN-LFC",
+      "model": "C20ProSE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M20",
       "codename": "M20",
       "model": "M20"

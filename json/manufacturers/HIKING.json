@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A43",
+      "codename": "A43",
+      "model": "A43"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A44",
       "codename": "A44",
       "model": "A44"
@@ -132,6 +138,18 @@
       "market_name": "KIDS_1",
       "codename": "KIDS_1",
       "model": "KIDS_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rugged S2",
+      "codename": "Rugged_S2",
+      "model": "Rugged S2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rugged_S1",
+      "codename": "Rugged_S1",
+      "model": "Rugged S1"
     }
   ]
 }

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ESOL_Board",
+      "codename": "rk3588_t",
+      "model": "HCB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HCB_5186",
       "codename": "Interactive_White_Board",
       "model": "HCB_5186"

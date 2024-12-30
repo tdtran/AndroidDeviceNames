@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A10_EEA",
+      "codename": "A10_EEA",
+      "model": "A10_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A10_ROW",
       "codename": "A10_ROW",
       "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10_ROW",
+      "codename": "A10_ROW",
+      "model": "A10_ROW"
     },
     {
       "manufacturer": "",

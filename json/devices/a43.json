@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Hiking",
+    "market_name": "A43",
+    "codename": "A43",
+    "model": "A43"
+  },
+  {
     "manufacturer": "Trident",
     "market_name": "A43",
     "codename": "A43",

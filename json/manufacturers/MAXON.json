@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MAXON_MX70PRO",
+      "codename": "Acer_AC50",
+      "model": "MX70 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MX50",
       "codename": "Maxon_MX50",
       "model": "MX50"

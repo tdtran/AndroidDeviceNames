@@ -114,6 +114,12 @@
       "market_name": "P200",
       "codename": "P200",
       "model": "P200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R1036",
+      "codename": "R1036",
+      "model": "R1036"
     }
   ]
 }

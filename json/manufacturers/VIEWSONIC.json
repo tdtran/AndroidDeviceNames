@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IN02 series",
+      "codename": "IN02_series",
+      "model": "IN02_series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q5",
       "codename": "Q5",
       "model": "Viewphone Q5"

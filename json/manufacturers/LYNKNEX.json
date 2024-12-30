@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PX350",
+      "codename": "PX350",
+      "model": "PX350"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PX5",
       "codename": "LYNKNEX-PX5",
       "model": "PX5"

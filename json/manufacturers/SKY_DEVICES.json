@@ -118,7 +118,19 @@
     {
       "manufacturer": "",
       "market_name": "Elite 65Pro",
+      "codename": "Elite65_Pro",
+      "model": "Elite 65Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite 65Pro",
       "codename": "Elite_65Pro",
+      "model": "Elite 65Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite 65Pro",
+      "codename": "Elite_65_Pro",
       "model": "Elite 65Pro"
     },
     {
@@ -678,6 +690,12 @@
       "market_name": "Elite_T10_PRO",
       "codename": "Elite_T10_PRO",
       "model": "Elite T10 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite_T11_Max",
+      "codename": "Elite_T11_Max",
+      "model": "Elite T11 Max"
     },
     {
       "manufacturer": "",

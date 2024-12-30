@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T10P_A",
+      "codename": "T10P_A",
+      "model": "T10P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T10P_EEA",
       "codename": "T10P_EEA",
       "model": "T10P_EEA"

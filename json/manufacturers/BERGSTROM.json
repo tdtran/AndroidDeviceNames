@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "666770",
+      "codename": "666770",
+      "model": "666770"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H634_BLK",
       "codename": "H634_BLK",
       "model": "H634 BLK"

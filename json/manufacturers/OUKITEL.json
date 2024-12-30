@@ -255,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C50_ROW",
+      "codename": "C50",
+      "model": "C50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C51_EEA",
       "codename": "C51",
       "model": "C51"
@@ -264,6 +270,12 @@
       "market_name": "C53",
       "codename": "C53",
       "model": "C53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C57_Pro_EEA",
+      "codename": "C57_Pro",
+      "model": "C57 Pro"
     },
     {
       "manufacturer": "",
@@ -1023,6 +1035,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WP35_S_EEA",
+      "codename": "WP35_S",
+      "model": "WP35 S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WP36_EEA",
       "codename": "WP36",
       "model": "WP36"
@@ -1032,6 +1050,12 @@
       "market_name": "WP36_Pro_EEA",
       "codename": "WP36_Pro",
       "model": "WP36 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP36_U_EEA",
+      "codename": "OUKITEL_WP36",
+      "model": "WP36"
     },
     {
       "manufacturer": "",

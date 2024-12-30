@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tech-A1",
+      "codename": "Tech-A1",
+      "model": "Tech A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tech_A1_Plus",
       "codename": "Tech_A1_Plus",
       "model": "Tech_A1_Plus"

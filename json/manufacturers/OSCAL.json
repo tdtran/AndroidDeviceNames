@@ -63,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FLAT 2C",
+      "codename": "FLAT_2C",
+      "model": "FLAT 2C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MODERN 8",
       "codename": "MODERN_8",
       "model": "MODERN 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PILOT 1",
+      "codename": "PILOT_1",
+      "model": "PILOT 1"
     },
     {
       "manufacturer": "",
@@ -192,6 +204,42 @@
       "market_name": "Pad_10_RU",
       "codename": "Pad_10_RU",
       "model": "Pad 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_50_Kids_EEA",
+      "codename": "Pad_50_Kids",
+      "model": "Pad 50 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_50_Kids_NEU",
+      "codename": "Pad_50_Kids",
+      "model": "Pad 50 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_50_Kids_RU",
+      "codename": "Pad_50_Kids",
+      "model": "Pad 50 Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_50_WiFi_EEA",
+      "codename": "Pad_50_WiFi",
+      "model": "Pad 50 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_50_WiFi_NEU",
+      "codename": "Pad_50_WiFi",
+      "model": "Pad 50 WiFi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pad_50_WiFi_RU",
+      "codename": "Pad_50_WiFi",
+      "model": "Pad 50 WiFi"
     },
     {
       "manufacturer": "",

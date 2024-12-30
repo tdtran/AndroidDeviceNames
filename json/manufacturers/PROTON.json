@@ -30,6 +30,12 @@
       "market_name": "PROTON Google TV",
       "codename": "bandra",
       "model": "PROTON Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Proton_X10_Pro",
+      "codename": "Proton_X10_Pro",
+      "model": "X10 Pro"
     }
   ]
 }

@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P11_pro",
+      "codename": "P11",
+      "model": "P11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SVITOO_P10",
       "codename": "SVITOO_P10",
       "model": "P10"

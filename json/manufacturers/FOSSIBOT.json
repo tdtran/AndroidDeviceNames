@@ -75,15 +75,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F106 ROW",
+      "codename": "F106",
+      "model": "F106"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F109",
       "codename": "F109",
       "model": "F109"
     },
     {
       "manufacturer": "",
+      "market_name": "F112 Pro",
+      "codename": "F112_Pro",
+      "model": "F112 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S1",
       "codename": "S1",
       "model": "S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S2",
+      "codename": "FOSSiBOT_S2",
+      "model": "S2"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10_EU",
+      "codename": "A10_EU",
+      "model": "A10_EU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10_L",
+      "codename": "A10_L",
+      "model": "A10_L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BYYBUO_SmartPad_A10",
       "codename": "BYYBUO_SmartPad_A10",
       "model": "BYYBUO_SmartPad_A10"

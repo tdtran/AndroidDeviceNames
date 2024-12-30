@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10Pro",
+      "codename": "A10Pro",
+      "model": "A10Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A10_premium",
       "codename": "A10_premium",
       "model": "A10_premium"

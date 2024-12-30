@@ -177,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MATRIX",
+      "codename": "MATRIX",
+      "model": "MATRIX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAVERICK",
       "codename": "MAVERICK",
       "model": "MAVERICK"
@@ -369,6 +375,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SOLAR",
+      "codename": "SOLAR",
+      "model": "SOLAR"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STEP_UP",
       "codename": "STEP_UP",
       "model": "STEP_UP"
@@ -402,6 +414,12 @@
       "market_name": "SWIFT_4G",
       "codename": "SWIFT_4G",
       "model": "SWIFT_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sirius_Plus_Tab_10",
+      "codename": "Sirius_Plus_Tab_10",
+      "model": "Sirius Plus Tab 10"
     },
     {
       "manufacturer": "",

@@ -159,9 +159,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P11_EEA",
+      "codename": "P11_EEA",
+      "model": "P11_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UTBook",
       "codename": "UTBook",
       "model": "UTBook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UTBook_14",
+      "codename": "UTBook_14",
+      "model": "UTBook_14"
     },
     {
       "manufacturer": "",

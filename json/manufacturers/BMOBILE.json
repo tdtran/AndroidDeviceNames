@@ -1149,6 +1149,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cosmo B6",
+      "codename": "Bmobile_COSMO_B6",
+      "model": "COSMO_B6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cosmo B6",
+      "codename": "Bmobile_COSMO_B6_TG",
+      "model": "COSMO_B6_TG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FUN 4",
       "codename": "Bmobile_FUN_4_2018",
       "model": "FUN 4 2018"
@@ -1167,9 +1179,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NOVUS65",
+      "codename": "Bmobile_Novus_65_MV03",
+      "model": "Novus_65"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nobu A55 Pro",
       "codename": "Azumi_NA55_Pro",
       "model": "NOBU A55 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ORBIT_67",
+      "codename": "Bmobile_ORBIT_67_TG06",
+      "model": "ORBIT_67_TG06"
     },
     {
       "manufacturer": "",
@@ -1182,6 +1206,18 @@
       "market_name": "T70",
       "codename": "Bmobile_T70",
       "model": "Bmobile_T70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRA S",
+      "codename": "Bmobile_ULTRA_S_MV03",
+      "model": "ULTRA_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRA S",
+      "codename": "ULTRA_S",
+      "model": "ULTRA S"
     },
     {
       "manufacturer": "",

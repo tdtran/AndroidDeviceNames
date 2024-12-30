@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Google Monitor",
+      "codename": "caoya",
+      "model": "2851F Google Monitor"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google Monitor",
+      "codename": "caoya",
+      "model": "Google Monitor"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Google TV",
       "codename": "burbank",
       "model": "4K KR Google TV"
@@ -118,8 +130,26 @@
     {
       "manufacturer": "",
       "market_name": "Google TV",
+      "codename": "panormou",
+      "model": "4K 9676 Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
       "codename": "piha",
       "model": "4K JP ACAS Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Google TV",
+      "codename": "piha",
+      "model": "4K JP BCAS Google TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HKC TV",
+      "codename": "kannai",
+      "model": "2K JP Google TV"
     },
     {
       "manufacturer": "",

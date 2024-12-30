@@ -12,6 +12,12 @@
       "market_name": "Synetech_Elite_Taurus",
       "codename": "rk3588_t",
       "model": "Synetech_T35"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "infnity_Piscis_E1",
+      "codename": "Piscis",
+      "model": "Pxx79"
     }
   ]
 }
